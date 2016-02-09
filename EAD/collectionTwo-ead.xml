@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url=""></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>CollectionTwo</num>
+                </titleproper>
+                <author>Finding aid prepared by Fake McFake</author>
+            </titlestmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid mocked up for demo purposes
+                <date>2013-09-13T21:20-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>CollectionTwo</unittitle>
+            <unitid>Mss.CollectionTwo</unitid>
+            <repository>
+                <corpname>Serendipity Machine</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>2.0 Item(s)</extent>
+            </physdesc>
+            <unitdate>1772; 1787</unitdate>
+            <abstract id="ref8" label="Abstract">More product less process (or the other way round) descriptive metadata access point five hundred dollar fine collection development Library of Congress Subject Headings (LCSH) general collection ephemeral value subject heading circulation desk keyword hold what do you mean it's already checked out? access copy electronic copy monograph bibliography reserve materials those pesky staples open stacks reference service no you cannot eat in the reading room online catalog overdue archivists' toolkit vs. archon primary source documentation strategy</abstract>
+            <physdesc id="ref5" label="General Physical Description note">2 items.</physdesc>
+            <physloc id="ref13" label="Paging">LH-MV-E-17</physloc>
+        </did>
+        <bioghist id="ref7">
+            <head>Biographical/Historical note</head>
+            <p>digital document context Academy of Certified Archivists index acid migration uncataloged OPAC Library of Congress Classification System card catalog donor relations is it cool if i keep this book another month or so? clamshell case Dewey Decimal System ACA EAD added value manuscripts repository outdated web exhibitions classification fair use accelerated aging test call number conservation laboratory due date accession number plasticlips authenticity chain of custody acid free file folders finding aids fine banned books. </p>
+        </bioghist>
+        <acqinfo id="ref4">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Gift of Fake McFake.</p>
+        </acqinfo>
+        <prefercite id="ref3">
+            <head>Preferred Citation note</head>
+            <p>Cite as: CollectionOne.</p>
+        </prefercite>
+        <processinfo id="ref2">
+            <head>Processing Information note</head>
+            <p>Processed by Fake McFake.</p>
+        </processinfo>
+        <scopecontent id="ref1">
+            <head>Scope and Contents note</head>
+            <p>General collection fine plasticlips no you cannot eat in the reading room circulation desk online catalog open stacks reserve materials access point EAD reference service ephemeral value OPAC subject heading more product less process (or the other way round) is it cool if i keep this book another month or so? keyword card catalog chain of custody acid free file folders archivists' toolkit vs. archon monograph hold documentation strategy finding aids call number accelerated aging test banned books access copy fair use conservation laboratory accession number Academy of Certified Archivists electronic copy ACA what do you mean it's already checked out? Library of Congress Classification System context digital document collection development acid migration Dewey Decimal System index donor relations classification due date primary source added value those pesky staples bibliography clamshell case descriptive metadata authenticity manuscripts repository Library of Congress Subject Headings (LCSH) uncataloged five hundred dollar fine overdue outdated web exhibitions. </p>
+        </scopecontent>
+        <controlaccess>
+            <subject source="leah">Land and Speculation</subject>
+            <genreform source="leah">Maps and Surveys</genreform>
+            <genreform source="leah">Scientific Data</genreform>
+            <subject source="leah">Surveying and Maps</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref9" level="file">
+                <did>
+                    <unittitle>Book One</unittitle>
+                    <container id="cid12598001" type="Box" label="Manuscripts">1</container>
+                    <unitdate>1772</unitdate>
+                    <physdesc id="ref10" label="General Physical Description note">1 item</physdesc>
+                </did>
+            </c01>
+            <c01 id="ref11" level="file">
+                <did>
+                    <unittitle>Book Two</unittitle>
+                    <container id="cid12598002" type="Box" label="Manuscripts">1</container>
+                    <unitdate>1787</unitdate>
+                    <physdesc id="ref12" label="General Physical Description note">1 item</physdesc>
+                </did>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

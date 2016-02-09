@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url=""></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>CollectionThree</num>
+                </titleproper>
+                <author>Finding aid prepared by Fake McFake</author>
+            </titlestmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid mocked up for demo purposes
+                <date>2013-09-13T21:20-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>CollectionThree</unittitle>
+            <unitid>Mss.CollectionThree</unitid>
+            <repository>
+                <corpname>Serendipity Machine</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>2.0 Item(s)</extent>
+            </physdesc>
+            <unitdate>1772; 1787</unitdate>
+            <abstract id="ref8" label="Abstract">Context general collection circulation desk open stacks accelerated aging test overdue donor relations hold fair use classification Library of Congress Subject Headings (LCSH) documentation strategy what do you mean it's already checked out? bibliography banned books authenticity reference service Academy of Certified Archivists chain of custody monograph ephemeral value online catalog primary source EAD descriptive metadata those pesky staples fine more product less process (or the other way round) subject heading acid migration manuscripts repository archivists' toolkit vs. archon</abstract>
+            <physdesc id="ref5" label="General Physical Description note">2 items.</physdesc>
+            <physloc id="ref13" label="Paging">LH-MV-E-17</physloc>
+        </did>
+        <bioghist id="ref7">
+            <head>Biographical/Historical note</head>
+            <p>ACA plasticlips index clamshell case no you cannot eat in the reading room five hundred dollar fine call number OPAC conservation laboratory access copy digital document finding aids accession number acid free file folders electronic copy collection development uncataloged keyword outdated web exhibitions added value Library of Congress Classification System card catalog access point due date Dewey Decimal System reserve materials is it cool if i keep this book another month or so?. </p>
+        </bioghist>
+        <acqinfo id="ref4">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Gift of Fake McFake.</p>
+        </acqinfo>
+        <prefercite id="ref3">
+            <head>Preferred Citation note</head>
+            <p>Cite as: CollectionOne.</p>
+        </prefercite>
+        <processinfo id="ref2">
+            <head>Processing Information note</head>
+            <p>Processed by Fake McFake.</p>
+        </processinfo>
+        <scopecontent id="ref1">
+            <head>Scope and Contents note</head>
+            <p>Overdue authenticity monograph primary source no you cannot eat in the reading room online catalog outdated web exhibitions electronic copy descriptive metadata circulation desk added value donor relations acid migration Library of Congress Subject Headings (LCSH) call number plasticlips keyword collection development banned books classification manuscripts repository reference service bibliography documentation strategy chain of custody</p>
+        </scopecontent>
+        <controlaccess>
+            <subject source="leah">Land and Speculation</subject>
+            <genreform source="leah">Maps and Surveys</genreform>
+            <genreform source="leah">Scientific Data</genreform>
+            <subject source="leah">Surveying and Maps</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref9" level="file">
+                <did>
+                    <unittitle>Book One</unittitle>
+                    <container id="cid12598001" type="Box" label="Manuscripts">1</container>
+                    <unitdate>1772</unitdate>
+                    <physdesc id="ref10" label="General Physical Description note">1 item</physdesc>
+                </did>
+            </c01>
+            <c01 id="ref11" level="file">
+                <did>
+                    <unittitle>Book Two</unittitle>
+                    <container id="cid12598002" type="Box" label="Manuscripts">1</container>
+                    <unitdate>1787</unitdate>
+                    <physdesc id="ref12" label="General Physical Description note">1 item</physdesc>
+                </did>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

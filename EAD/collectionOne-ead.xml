@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url=""></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>CollectionOne</num>
+                </titleproper>
+                <author>Finding aid prepared by Fake McFake</author>
+            </titlestmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid mocked up for demo purposes
+                <date>2013-09-13T21:20-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>CollectionOne</unittitle>
+            <unitid>Mss.CollectionOne</unitid>
+            <repository>
+                <corpname>Serendipity Machine</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>2.0 Item(s)</extent>
+            </physdesc>
+            <unitdate>1772; 1787</unitdate>
+            <abstract id="ref8" label="Abstract">Access copy clamshell case reference service card catalog reserve materials index circulation desk Dewey Decimal System fair use those pesky staples descriptive metadata Library of Congress Classification System ACA chain of custody overdue banned books donor relations EAD documentation strategy uncataloged is it cool if i keep this book another month or so? acid free file folders Academy of Certified Archivists ephemeral value open stacks OPAC no you cannot eat in the reading room digital document bibliography finding aids added value fine authenticity archivists' toolkit vs. archon collection development Library of Congress Subject Headings (LCSH) what do you mean it's already checked out? accession number call number conservation laboratory five hundred dollar fine access point primary source acid migration general collection accelerated aging test plasticlips due date monograph more product less process (or the other way round) outdated web exhibitions classification subject heading manuscripts repository electronic copy online catalog keyword context hold. </abstract>
+            <physdesc id="ref5" label="General Physical Description note">2 items.</physdesc>
+            <physloc id="ref13" label="Paging">LH-MV-E-17</physloc>
+        </did>
+        <bioghist id="ref7">
+            <head>Biographical/Historical note</head>
+            <p>Accelerated aging test is it cool if i keep this book another month or so? keyword acid free file folders OPAC Library of Congress Classification System fair use outdated web exhibitions general collection conservation laboratory open stacks uncataloged plasticlips ephemeral value those pesky staples finding aids access copy electronic copy due date chain of custody archivists' toolkit vs. archon reserve materials what do you mean it's already checked out? primary source Dewey Decimal System banned books descriptive metadata Academy of Certified Archivists no you cannot eat in the reading room more product less process (or the other way round) online catalog access point ACA reference service fine call number classification five hundred dollar fine hold manuscripts repository donor relations overdue Library of Congress Subject Headings (LCSH) accession number clamshell case circulation desk digital document authenticity context index collection development documentation strategy acid migration card catalog EAD bibliography monograph added value subject heading. </p>
+        </bioghist>
+        <acqinfo id="ref4">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Gift of Fake McFake.</p>
+        </acqinfo>
+        <prefercite id="ref3">
+            <head>Preferred Citation note</head>
+            <p>Cite as: CollectionOne.</p>
+        </prefercite>
+        <processinfo id="ref2">
+            <head>Processing Information note</head>
+            <p>Processed by Fake McFake.</p>
+        </processinfo>
+        <scopecontent id="ref1">
+            <head>Scope and Contents note</head>
+            <p>Dewey Decimal System banned books descriptive metadata Academy of Certified Archivists no you cannot eat in the reading room more product less process (or the other way round) online catalog access point ACA reference service fine call number classification five hundred dollar fine hold manuscripts repository donor relations overdue Library of Congress Subject Headings (LCSH) accession number clamshell case circulation desk digital document authenticity context index collection development documentation strategy acid migration card catalog EAD bibliography monograph added value subject heading. </p>
+        </scopecontent>
+        <controlaccess>
+            <subject source="leah">Land and Speculation</subject>
+            <genreform source="leah">Maps and Surveys</genreform>
+            <genreform source="leah">Scientific Data</genreform>
+            <subject source="leah">Surveying and Maps</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref9" level="file">
+                <did>
+                    <unittitle>Book One</unittitle>
+                    <container id="cid12598001" type="Box" label="Manuscripts">1</container>
+                    <unitdate>1772</unitdate>
+                    <physdesc id="ref10" label="General Physical Description note">1 item</physdesc>
+                </did>
+            </c01>
+            <c01 id="ref11" level="file">
+                <did>
+                    <unittitle>Book Two</unittitle>
+                    <container id="cid12598002" type="Box" label="Manuscripts">1</container>
+                    <unitdate>1787</unitdate>
+                    <physdesc id="ref12" label="General Physical Description note">1 item</physdesc>
+                </did>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>
