@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Rec.185-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Rec.185</num>
+                    <num>Mss.Rec.185</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Brian Carpenter</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+                <date>12-2010</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T21:13-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Seneca language</unittitle>
+            <unitid>Mss.Rec.185</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="iro"/>
+            </langmaterial>
+            <physdesc>
+                <extent>1.0 Tape(s)</extent>
+            </physdesc>
+            <unitdate>Circa 1970</unitdate>
+            <abstract id="ref3" label="Abstract">Side A: Thanksgiving address by Harry Watt, speaker for the Bird Side of Cold Spring Longhouse. Recorded by Harry Watt, about 1970. In Seneca only. Side B: Conversation between Harry Watt and Ed Curry in Seneca only.</abstract>
+            <physdesc id="ref2" label="General Physical Description note">1 sound cassette (1 hr., 1 min.) : analog, 1 7/8 ips, stereo.</physdesc>
+            <physloc id="ref16" label="Paging">LH-B-32-4</physloc>
+            <origination label="creator">
+                <persname rules="dacs" source="local" role="Author (aut)">Curry, Ed</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="dacs" source="local" role="Author (aut)">Watt, Harry</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref4">
+            <head>Immediate Source of Acquisition</head>
+            <p>Gift of John C. Witthoft, 1993. (Acc.1993-1763r)</p>
+        </acqinfo>
+        <controlaccess>
+            <persname source="ingest" role="Donor (dnr)">Witthoft, John</persname>
+            <subject source="lcsh">Seneca language</subject>
+            <genreform source="ingest">Sound recordings</genreform>
+            <genreform source="lcsh">Speeches, addresses, etc.</genreform>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref5" level="series">
+                <did>
+                    <unittitle>Audio recordings</unittitle>
+                </did>
+                <c02 id="ref6" level="file">
+                    <did>
+                        <unittitle>The Thanksgiving address</unittitle>
+                        <unitid>01-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1970</unitdate>
+                        <physdesc id="ref7" label="General Physical Description note">
+                            <extent>00:30:25</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Watt, Harry</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Witthoft, John C.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref8">
+                        <head>Scope and Contents note</head>
+                        <p>Thanksgiving address by Harry Watt, speaker for the Bird Side of Cold Spring Longhouse. Recorded by Harry Watt, about 1970. In Seneca only.</p>
+                    </scopecontent>
+                    <originalsloc id="ref10">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1951" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3489">
+                        <daodesc>
+                            <p>APSdigrec_1951</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Allegany Indian Reservation (N.Y.)</geogname>
+                        <subject source="lcsh">Seneca Indians--Rites and ceremonies</subject>
+                        <subject source="lcsh">Seneca language</subject>
+                        <subject source="ingest">Speeches, addresses, etc.</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref11" level="file">
+                    <did>
+                        <unittitle>A conversation between Harry Watt &amp; Ed Curry</unittitle>
+                        <unitid>01-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1970</unitdate>
+                        <physdesc id="ref12" label="General Physical Description note">
+                            <extent>00:30:24</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Curry, Ed</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Watt, Harry</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Witthoft, John C.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref13">
+                        <head>Scope and Contents note</head>
+                        <p>Conversation in Seneca only.</p>
+                    </scopecontent>
+                    <originalsloc id="ref15">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1952" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3488">
+                        <daodesc>
+                            <p>APSdigrec_1952</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Allegany Indian Reservation (N.Y.)</geogname>
+                        <subject source="lcsh">Seneca language</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

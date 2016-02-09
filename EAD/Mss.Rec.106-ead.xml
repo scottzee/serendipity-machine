@@ -1,0 +1,1577 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Rec.106</num>
+                    <num>Mss.Rec.106</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Brian Carpenter</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+                <date>01-2011</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T21:10-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Delaware Songs and Texts</unittitle>
+            <unitid>Mss.Rec.106</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="del"/>
+            </langmaterial>
+            <physdesc>
+                <extent>5.0 Tape(s)</extent>
+            </physdesc>
+            <unitdate normal="1973/1974" type="inclusive">1973-1974</unitdate>
+            <physdesc id="ref2" label="General Physical Description note">4 sound cassettes (3 hr., 30 min.) : analog, 1 7/8 ips, 1/4 track, stereo.</physdesc>
+            <abstract id="ref186" label="Abstract">Performances of Delaware sacred and secular songs with interspersed commentary, commentary on Big House ceremony in Delaware in English, Delaware vocabulary, and prayers. Recorded by Sue Roark-Calnek in Oklahoma in Wann and Dewey, Oklahoma in 1973 and 1974.</abstract>
+            <physloc id="ref187" label="Paging">LH-B-32-3</physloc>
+            <origination label="creator">
+                <persname source="ingest">Dean, Nora Thompson</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Roark-Calnek, Sue N.</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest">Washington, Fred</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest">Wilson, Tom</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref3">
+            <head>Immediate Source of Acquisition</head>
+            <p>Presented by Sue Roark-Calnek in 1977. This material was recorded with the assistance of a Phillips Fund grant.</p>
+        </acqinfo>
+        <controlaccess>
+            <subject source="lcsh">Big House Ceremony (Delaware rite)</subject>
+            <subject source="lcsh">Delaware dance</subject>
+            <subject source="lcsh">Delaware Indians--Music</subject>
+            <subject source="lcsh">Delaware Indians--Rites and ceremonies</subject>
+            <subject source="ingest">Delaware language</subject>
+            <subject source="lcsh">Ghost dance</subject>
+            <subject source="lcsh">Peyote songs</subject>
+            <genreform source="lcsh">Prayers.</genreform>
+            <genreform source="ingest">Sound recordings</genreform>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref4" level="series">
+                <did>
+                    <unittitle>Delaware Sacred and Secular Songs: Fred Washington</unittitle>
+                    <unitid>Mss.Rec.106.1</unitid>
+                    <physdesc>
+                        <extent>1.0 Tape(s)</extent>
+                    </physdesc>
+                    <unitdate>11-29-1973</unitdate>
+                </did>
+                <c02 id="ref5" level="file">
+                    <did>
+                        <unittitle>Comments on Doll Dance Ceremony; Doll Dance Songs with comments</unittitle>
+                        <unitid>01-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1973-11-29</unitdate>
+                        <physdesc id="ref6" label="General Physical Description note">
+                            <extent>00:10:36</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Roark-Calnek, Sue N., 1936-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Washington, Fred</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref8">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0276" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:9159">
+                        <daodesc>
+                            <p>APSdigrec_0276</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Delaware dance</subject>
+                        <subject source="lcsh">Delaware Indians--Music</subject>
+                        <subject source="lcsh">Delaware Indians--Rites and ceremonies</subject>
+                        <geogname source="ingest">Wann (Okla.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref9" level="file">
+                    <did>
+                        <unittitle>Comments on Stomp Dance; Series of four Woman Dance Songs</unittitle>
+                        <unitid>01-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1973-11-29</unitdate>
+                        <physdesc id="ref10" label="General Physical Description note">
+                            <extent>00:03:37</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Roark-Calnek, Sue N., 1936-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Washington, Fred</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref12">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0277" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:9158">
+                        <daodesc>
+                            <p>APSdigrec_0277</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Delaware dance</subject>
+                        <subject source="lcsh">Delaware Indians--Music</subject>
+                        <subject source="lcsh">Delaware Indians--Rites and ceremonies</subject>
+                        <subject source="lcsh">Stomp dance</subject>
+                        <geogname source="ingest">Wann (Okla.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref13" level="file">
+                    <did>
+                        <unittitle>Comments on Coon Dance; Series of Four Coon Dance Songs</unittitle>
+                        <unitid>01-03</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1973-11-29</unitdate>
+                        <physdesc id="ref14" label="General Physical Description note">
+                            <extent>00:02:59</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Roark-Calnek, Sue N., 1936-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Washington, Fred</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref16">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0278" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:9171">
+                        <daodesc>
+                            <p>APSdigrec_0278</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Delaware dance</subject>
+                        <subject source="lcsh">Delaware Indians--Music</subject>
+                        <subject source="lcsh">Delaware Indians--Rites and ceremonies</subject>
+                        <geogname source="ingest">Wann (Okla.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref17" level="file">
+                    <did>
+                        <unittitle>Comments on Turkey Dance Songs; Two Turkey Dance Songs</unittitle>
+                        <unitid>01-04</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1973-11-29</unitdate>
+                        <physdesc id="ref18" label="General Physical Description note">
+                            <extent>00:02:41</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Roark-Calnek, Sue N., 1936-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Washington, Fred</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref20">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0279" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:9153">
+                        <daodesc>
+                            <p>APSdigrec_0279</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Delaware dance</subject>
+                        <subject source="lcsh">Delaware Indians--Music</subject>
+                        <subject source="lcsh">Delaware Indians--Rites and ceremonies</subject>
+                        <geogname source="ingest">Wann (Okla.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref21" level="file">
+                    <did>
+                        <unittitle>Comments on Cherokee Dance Songs; Cherokee Dance Song</unittitle>
+                        <unitid>01-05</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1973-11-29</unitdate>
+                        <physdesc id="ref22" label="General Physical Description note">
+                            <extent>00:01:41</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Roark-Calnek, Sue N., 1936-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Washington, Fred</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref24">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0280" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:9165">
+                        <daodesc>
+                            <p>APSdigrec_0280</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Cherokee dance</subject>
+                        <subject source="lcsh">Delaware Indians--Music</subject>
+                        <subject source="lcsh">Delaware Indians--Rites and ceremonies</subject>
+                        <geogname source="ingest">Wann (Okla.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref25" level="file">
+                    <did>
+                        <unittitle>Comments on Ghost Dance; Ghost Dance Song</unittitle>
+                        <unitid>01-06</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1973-11-29</unitdate>
+                        <physdesc id="ref26" label="General Physical Description note">
+                            <extent>00:02:27</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Roark-Calnek, Sue N., 1936-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Washington, Fred</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref28">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0281" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:9168">
+                        <daodesc>
+                            <p>APSdigrec_0281</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Delaware dance</subject>
+                        <subject source="lcsh">Delaware Indians--Music</subject>
+                        <subject source="lcsh">Delaware Indians--Rites and ceremonies</subject>
+                        <subject source="lcsh">Ghost dance</subject>
+                        <geogname source="ingest">Wann (Okla.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref29" level="file">
+                    <did>
+                        <unittitle>Four Fish Moon "Starting" Songs; Comments on Fish Moon Peyotism</unittitle>
+                        <unitid>01-07</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1973-11-29</unitdate>
+                        <physdesc id="ref30" label="General Physical Description note">
+                            <extent>00:03:18</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Roark-Calnek, Sue N., 1936-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Washington, Fred</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref32">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0282" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:9152">
+                        <daodesc>
+                            <p>APSdigrec_0282</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Delaware Indians--Music</subject>
+                        <subject source="lcsh">Delaware Indians--Rites and ceremonies</subject>
+                        <subject source="ingest">Peyote songs</subject>
+                        <geogname source="ingest">Wann (Okla.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref33" level="file">
+                    <did>
+                        <unittitle>Comments on Midnight Water Songs; Midnight Water Songs</unittitle>
+                        <unitid>01-08</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1973-11-29</unitdate>
+                        <physdesc id="ref34" label="General Physical Description note">
+                            <extent>00:02:44</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Roark-Calnek, Sue N., 1936-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Washington, Fred</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref36">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0283" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:9166">
+                        <daodesc>
+                            <p>APSdigrec_0283</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Delaware Indians--Music</subject>
+                        <subject source="lcsh">Delaware Indians--Rites and ceremonies</subject>
+                        <subject source="ingest">Peyote songs</subject>
+                        <geogname source="ingest">Wann (Okla.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref37" level="file">
+                    <did>
+                        <unittitle>Four Morning Water Songs; Comments on Ritual Meaning; Quitting Song</unittitle>
+                        <unitid>01-09</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1973-11-29</unitdate>
+                        <physdesc id="ref38" label="General Physical Description note">
+                            <extent>00:03:48</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Roark-Calnek, Sue N., 1936-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Washington, Fred</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref40">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0284" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:9169">
+                        <daodesc>
+                            <p>APSdigrec_0284</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Delaware Indians--Music</subject>
+                        <subject source="lcsh">Delaware Indians--Rites and ceremonies</subject>
+                        <subject source="ingest">Peyote songs</subject>
+                        <geogname source="ingest">Wann (Okla.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref41" level="file">
+                    <did>
+                        <unittitle>Fish Moon Peyote Songs, and comments</unittitle>
+                        <unitid>01-10</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1973-11-29</unitdate>
+                        <physdesc id="ref42" label="General Physical Description note">
+                            <extent>00:06:03</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Roark-Calnek, Sue N., 1936-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Washington, Fred</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref44">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0285" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:9163">
+                        <daodesc>
+                            <p>APSdigrec_0285</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Delaware Indians--Music</subject>
+                        <subject source="lcsh">Delaware Indians--Rites and ceremonies</subject>
+                        <subject source="ingest">Peyote songs</subject>
+                        <geogname source="ingest">Wann (Okla.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref45" level="file">
+                    <did>
+                        <unittitle>Fish Moon Peyote Song</unittitle>
+                        <unitid>01-11</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1973-11-29</unitdate>
+                        <physdesc id="ref46" label="General Physical Description note">
+                            <extent>00:02:22</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Roark-Calnek, Sue N., 1936-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Washington, Fred</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref48">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0286" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:9156">
+                        <daodesc>
+                            <p>APSdigrec_0286</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Delaware Indians--Music</subject>
+                        <subject source="lcsh">Delaware Indians--Rites and ceremonies</subject>
+                        <subject source="ingest">Peyote songs</subject>
+                        <geogname source="ingest">Wann (Okla.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref49" level="file">
+                    <did>
+                        <unittitle>Fish Moon Peyote Song</unittitle>
+                        <unitid>01-12</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1973-11-29</unitdate>
+                        <physdesc id="ref50" label="General Physical Description note">
+                            <extent>00:04:24</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Roark-Calnek, Sue N., 1936-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Washington, Fred</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref52">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0287" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:9177">
+                        <daodesc>
+                            <p>APSdigrec_0287</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Delaware Indians--Music</subject>
+                        <subject source="lcsh">Delaware Indians--Rites and ceremonies</subject>
+                        <subject source="ingest">Peyote songs</subject>
+                        <geogname source="ingest">Wann (Okla.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref53" level="file">
+                    <did>
+                        <unittitle>Fish Moon Peyote Song</unittitle>
+                        <unitid>01-13</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1973-11-29</unitdate>
+                        <physdesc id="ref54" label="General Physical Description note">
+                            <extent>00:02:01</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Roark-Calnek, Sue N., 1936-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Washington, Fred</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref56">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0288" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:9161">
+                        <daodesc>
+                            <p>APSdigrec_0288</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Delaware Indians--Music</subject>
+                        <subject source="lcsh">Delaware Indians--Rites and ceremonies</subject>
+                        <subject source="ingest">Peyote songs</subject>
+                        <geogname source="ingest">Wann (Okla.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref57" level="file">
+                    <did>
+                        <unittitle>Fish Moon Peyote Song</unittitle>
+                        <unitid>01-14</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1973-11-29</unitdate>
+                        <physdesc id="ref58" label="General Physical Description note">
+                            <extent>00:01:24</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Roark-Calnek, Sue N., 1936-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Washington, Fred</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref60">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0289" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:9175">
+                        <daodesc>
+                            <p>APSdigrec_0289</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Delaware Indians--Music</subject>
+                        <subject source="lcsh">Delaware Indians--Rites and ceremonies</subject>
+                        <subject source="ingest">Peyote songs</subject>
+                        <geogname source="ingest">Wann (Okla.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref61" level="file">
+                    <did>
+                        <unittitle>Fish Moon Peyote Song</unittitle>
+                        <unitid>01-15</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1973-11-29</unitdate>
+                        <physdesc id="ref62" label="General Physical Description note">
+                            <extent>00:05:25</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Roark-Calnek, Sue N., 1936-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Washington, Fred</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref64">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0290" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:9170">
+                        <daodesc>
+                            <p>APSdigrec_0290</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Delaware Indians--Music</subject>
+                        <subject source="lcsh">Delaware Indians--Rites and ceremonies</subject>
+                        <subject source="ingest">Peyote songs</subject>
+                        <geogname source="ingest">Wann (Okla.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref65" level="file">
+                    <did>
+                        <unittitle>Comments on Big Moon ("Moonhead") Peyotism; Big Moon Starting Songs</unittitle>
+                        <unitid>01-16</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1973-11-29</unitdate>
+                        <physdesc id="ref66" label="General Physical Description note">
+                            <extent>00:07:07</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Roark-Calnek, Sue N., 1936-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Washington, Fred</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref68">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0291" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:9162">
+                        <daodesc>
+                            <p>APSdigrec_0291</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Delaware Indians--Music</subject>
+                        <subject source="lcsh">Delaware Indians--Rites and ceremonies</subject>
+                        <subject source="ingest">Peyote songs</subject>
+                        <geogname source="ingest">Wann (Okla.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref69" level="file">
+                    <did>
+                        <unittitle>Big Moon Song</unittitle>
+                        <unitid>01-17</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1973-11-29</unitdate>
+                        <physdesc id="ref70" label="General Physical Description note">
+                            <extent>00:01:31</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Roark-Calnek, Sue N., 1936-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Washington, Fred</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref72">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0292" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:9155">
+                        <daodesc>
+                            <p>APSdigrec_0292</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Delaware Indians--Music</subject>
+                        <subject source="lcsh">Delaware Indians--Rites and ceremonies</subject>
+                        <subject source="ingest">Peyote songs</subject>
+                        <geogname source="ingest">Wann (Okla.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref73" level="file">
+                    <did>
+                        <unittitle>Big Moon Song, learned from Charley White Horn (Osage)</unittitle>
+                        <unitid>01-18</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1973-11-29</unitdate>
+                        <physdesc id="ref74" label="General Physical Description note">
+                            <extent>00:01:43</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Roark-Calnek, Sue N., 1936-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Washington, Fred</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref76">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0293" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:9173">
+                        <daodesc>
+                            <p>APSdigrec_0293</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Delaware Indians--Music</subject>
+                        <subject source="lcsh">Delaware Indians--Rites and ceremonies</subject>
+                        <subject source="ingest">Peyote songs</subject>
+                        <geogname source="ingest">Wann (Okla.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref77" level="file">
+                    <did>
+                        <unittitle>Comments on Big House Ceremony; Ben Hill's Big House Vision Recitation Song</unittitle>
+                        <unitid>01-19</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1973-11-29</unitdate>
+                        <physdesc id="ref78" label="General Physical Description note">
+                            <extent>00:01:35</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Roark-Calnek, Sue N., 1936-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Washington, Fred</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref80">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0294" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:9167">
+                        <daodesc>
+                            <p>APSdigrec_0294</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Big House Ceremony (Delaware rite)</subject>
+                        <subject source="lcsh">Delaware Indians--Music</subject>
+                        <subject source="lcsh">Delaware Indians--Rites and ceremonies</subject>
+                        <geogname source="ingest">Wann (Okla.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref81" level="file">
+                    <did>
+                        <unittitle>Comments on Vision Recitation; Charley Elkhair's Big House Vision Recitation Song; Translation of song</unittitle>
+                        <unitid>01-20</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1973-11-29</unitdate>
+                        <physdesc id="ref82" label="General Physical Description note">
+                            <extent>00:02:11</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Roark-Calnek, Sue N., 1936-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Washington, Fred</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref84">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0295" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:9176">
+                        <daodesc>
+                            <p>APSdigrec_0295</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Big House Ceremony (Delaware rite)</subject>
+                        <subject source="lcsh">Delaware Indians--Music</subject>
+                        <subject source="lcsh">Delaware Indians--Rites and ceremonies</subject>
+                        <geogname source="ingest">Wann (Okla.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref85" level="file">
+                    <did>
+                        <unittitle>Frank Wilson's Song, with Translation</unittitle>
+                        <unitid>01-21</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1973-11-29</unitdate>
+                        <physdesc id="ref86" label="General Physical Description note">
+                            <extent>00:01:54</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Roark-Calnek, Sue N., 1936-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Washington, Fred</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref88">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0296" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:9172">
+                        <daodesc>
+                            <p>APSdigrec_0296</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Big House Ceremony (Delaware rite)</subject>
+                        <subject source="lcsh">Delaware Indians--Music</subject>
+                        <subject source="lcsh">Delaware Indians--Rites and ceremonies</subject>
+                        <geogname source="ingest">Wann (Okla.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref89" level="file">
+                    <did>
+                        <unittitle>George Washington's Vision and Song; Translation of Song; George Falleaf's Song</unittitle>
+                        <unitid>01-22</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1973-11-29</unitdate>
+                        <physdesc id="ref90" label="General Physical Description note">
+                            <extent>00:03:10</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Roark-Calnek, Sue N., 1936-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Washington, Fred</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref92">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0297" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:9164">
+                        <daodesc>
+                            <p>APSdigrec_0297</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Big House Ceremony (Delaware rite)</subject>
+                        <subject source="lcsh">Delaware Indians--Music</subject>
+                        <subject source="lcsh">Delaware Indians--Rites and ceremonies</subject>
+                        <geogname source="ingest">Wann (Okla.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref93" level="file">
+                    <did>
+                        <unittitle>Comments on Delaware War Dance; War Dance Song</unittitle>
+                        <unitid>01-23</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1973-11-29</unitdate>
+                        <physdesc id="ref94" label="General Physical Description note">
+                            <extent>00:01:48</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Roark-Calnek, Sue N., 1936-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Washington, Fred</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref96">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0298" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:9160">
+                        <daodesc>
+                            <p>APSdigrec_0298</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Delaware dance</subject>
+                        <subject source="lcsh">Delaware Indians--Music</subject>
+                        <subject source="lcsh">Delaware Indians--Rites and ceremonies</subject>
+                        <geogname source="ingest">Wann (Okla.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref97" level="file">
+                    <did>
+                        <unittitle>War Dance Song</unittitle>
+                        <unitid>01-24</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1973-11-29</unitdate>
+                        <physdesc id="ref98" label="General Physical Description note">
+                            <extent>00:01:11</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Roark-Calnek, Sue N., 1936-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Washington, Fred</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref100">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0299" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:9174">
+                        <daodesc>
+                            <p>APSdigrec_0299</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Delaware dance</subject>
+                        <subject source="lcsh">Delaware Indians--Music</subject>
+                        <subject source="lcsh">Delaware Indians--Rites and ceremonies</subject>
+                        <geogname source="ingest">Wann (Okla.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref101" level="file">
+                    <did>
+                        <unittitle>War Dance Song (fast)</unittitle>
+                        <unitid>01-25</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1973-11-29</unitdate>
+                        <physdesc id="ref102" label="General Physical Description note">
+                            <extent>00:00:59</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Roark-Calnek, Sue N., 1936-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Washington, Fred</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref104">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0300" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:9157">
+                        <daodesc>
+                            <p>APSdigrec_0300</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Delaware dance</subject>
+                        <subject source="lcsh">Delaware Indians--Music</subject>
+                        <subject source="lcsh">Delaware Indians--Rites and ceremonies</subject>
+                        <geogname source="ingest">Wann (Okla.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref105" level="file">
+                    <did>
+                        <unittitle>War Dance (slow, "straight dance")</unittitle>
+                        <unitid>01-26</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1973-11-29</unitdate>
+                        <physdesc id="ref106" label="General Physical Description note">
+                            <extent>00:01:38</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Roark-Calnek, Sue N., 1936-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Washington, Fred</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref108">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0301" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:9154">
+                        <daodesc>
+                            <p>APSdigrec_0301</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Delaware dance</subject>
+                        <subject source="lcsh">Delaware Indians--Music</subject>
+                        <subject source="lcsh">Delaware Indians--Rites and ceremonies</subject>
+                        <geogname source="ingest">Wann (Okla.)</geogname>
+                    </controlaccess>
+                </c02>
+            </c01>
+            <c01 id="ref185" level="series">
+                <did>
+                    <unittitle>Delaware Big House Texts: Fred Washington</unittitle>
+                    <unitid>Mss.Rec.106.2</unitid>
+                    <physdesc>
+                        <extent>1.0 Tape(s)</extent>
+                    </physdesc>
+                </did>
+                <c02 id="ref109" level="file">
+                    <did>
+                        <unittitle>Narration (Delaware) on Big House Ceremony; Summary (English)</unittitle>
+                        <unitid>02-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1973-11-29</unitdate>
+                        <physdesc id="ref110" label="General Physical Description note">
+                            <extent>00:06:19</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Roark-Calnek, Sue N., 1936-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Washington, Fred</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref112">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0302" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:9182">
+                        <daodesc>
+                            <p>APSdigrec_0302</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Big House Ceremony (Delaware rite)</subject>
+                        <subject source="lcsh">Delaware Indians--Rites and ceremonies</subject>
+                        <geogname source="ingest">Wann (Okla.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref113" level="file">
+                    <did>
+                        <unittitle>Comments (English) on Mesingw ("False Face") Spirit and Impersonation; Narration (Delaware) of Origin of Mesingw</unittitle>
+                        <unitid>02-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1973-11-29</unitdate>
+                        <physdesc id="ref114" label="General Physical Description note">
+                            <extent>00:04:31</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Roark-Calnek, Sue N., 1936-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Washington, Fred</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref116">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0303" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:9184">
+                        <daodesc>
+                            <p>APSdigrec_0303</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Big House Ceremony (Delaware rite)</subject>
+                        <subject source="lcsh">Delaware Indians--Rites and ceremonies</subject>
+                        <geogname source="ingest">Wann (Okla.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref117" level="file">
+                    <did>
+                        <unittitle>Comments (English) on Big House Attendant Role and Ceremonial "Release" from Duty; Narration (Delaware) of Big House Speaker's Address to Attendants Releasing them from Duty</unittitle>
+                        <unitid>02-03</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1973-11-29</unitdate>
+                        <physdesc id="ref118" label="General Physical Description note">
+                            <extent>00:10:24</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Roark-Calnek, Sue N., 1936-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Washington, Fred</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref120">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0304" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:9183">
+                        <daodesc>
+                            <p>APSdigrec_0304</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Big House Ceremony (Delaware rite)</subject>
+                        <subject source="lcsh">Delaware Indians--Rites and ceremonies</subject>
+                        <geogname source="ingest">Wann (Okla.)</geogname>
+                    </controlaccess>
+                </c02>
+            </c01>
+            <c01 id="ref182" level="series">
+                <did>
+                    <unittitle>Delaware Vocabulary: Fred Washington</unittitle>
+                    <unitid>Mss.Rec.106.3</unitid>
+                    <physdesc>
+                        <extent>1.0 Tape(s)</extent>
+                    </physdesc>
+                </did>
+                <c02 id="ref121" level="file">
+                    <did>
+                        <unittitle>Delaware Vocabulary: Fred Washington [1 of 2]</unittitle>
+                        <unitid>03-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1974-06-24</unitdate>
+                        <physdesc id="ref122" label="General Physical Description note">
+                            <extent>00:29:54</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Roark-Calnek, Sue N., 1936-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Washington, Fred</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref123">
+                        <head>Scope and Contents note</head>
+                        <p>Consists of unelicited lexical items and expressions in Delaware with English gloss and some accompanying ethnographic information, mainly on plant use. The unordered lexical material consists primarily of substantives: terms for plants, animals, birds, weather phenomena, kin statuses, descent groups, ceremonial and secular dance regalia.</p>
+                    </scopecontent>
+                    <originalsloc id="ref125">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0305" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:9190">
+                        <daodesc>
+                            <p>APSdigrec_0305</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Delaware language</subject>
+                        <geogname source="ingest">Wann (Okla.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref126" level="file">
+                    <did>
+                        <unittitle>Delaware Vocabulary: Fred Washington [2 of 2]</unittitle>
+                        <unitid>03-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1974-06-24</unitdate>
+                        <physdesc id="ref127" label="General Physical Description note">
+                            <extent>00:29:36</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Roark-Calnek, Sue N., 1936-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Washington, Fred</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref128">
+                        <head>Scope and Contents note</head>
+                        <p>Consists of unelicited lexical items and expressions in Delaware with English gloss and some accompanying ethnographic information, mainly on plant use. The unordered lexical material consists primarily of substantives: terms for plants, animals, birds, weather phenomena, kin statuses, descent groups, ceremonial and secular dance regalia.</p>
+                    </scopecontent>
+                    <originalsloc id="ref130">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0306" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:9189">
+                        <daodesc>
+                            <p>APSdigrec_0306</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Delaware language</subject>
+                        <geogname source="ingest">Wann (Okla.)</geogname>
+                    </controlaccess>
+                </c02>
+            </c01>
+            <c01 id="ref184" level="series">
+                <did>
+                    <unittitle>Delaware Prayer Texts: Nora Thompson Dean / Fred Washington</unittitle>
+                    <unitid>Mss.Rec.106.4</unitid>
+                    <physdesc>
+                        <extent>1.0 Tape(s)</extent>
+                    </physdesc>
+                    <unitdate>12-16-1973</unitdate>
+                </did>
+                <c02 id="ref131" level="file">
+                    <did>
+                        <unittitle>Prayer for Well-Being</unittitle>
+                        <unitid>04-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1973-12-16</unitdate>
+                        <physdesc id="ref132" label="General Physical Description note">
+                            <extent>00:03:00</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Dean, Nora Thompson</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Roark-Calnek, Sue N., 1936-</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref133">
+                        <head>Scope and Contents note</head>
+                        <p>Explanatory comments in English followed by a Christian prayer in Delaware.</p>
+                    </scopecontent>
+                    <originalsloc id="ref135">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0307" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:9195">
+                        <daodesc>
+                            <p>APSdigrec_0307</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Delaware language</subject>
+                        <geogname source="ingest">Dewey (Okla.)</geogname>
+                        <subject source="ingest">Prayers</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref136" level="file">
+                    <did>
+                        <unittitle>Prayer for Well-Being</unittitle>
+                        <unitid>04-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1973-12-16</unitdate>
+                        <physdesc id="ref137" label="General Physical Description note">
+                            <extent>00:04:06</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Roark-Calnek, Sue N., 1936-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Washington, Fred</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref138">
+                        <head>Scope and Contents note</head>
+                        <p>Explanatory comments in English followed by a Christian prayer in Delaware.</p>
+                    </scopecontent>
+                    <originalsloc id="ref140">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0308" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:9197">
+                        <daodesc>
+                            <p>APSdigrec_0308</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Delaware language</subject>
+                        <geogname source="ingest">Dewey (Okla.)</geogname>
+                        <subject source="ingest">Prayers</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref141" level="file">
+                    <did>
+                        <unittitle>Prayer Appropriate for Invocation at a Performance</unittitle>
+                        <unitid>04-03</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1973-12-16</unitdate>
+                        <physdesc id="ref142" label="General Physical Description note">
+                            <extent>00:05:13</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Roark-Calnek, Sue N., 1936-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Washington, Fred</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref143">
+                        <head>Scope and Contents note</head>
+                        <p>Explanatory comments in English followed by a Christian prayer in Delaware.</p>
+                    </scopecontent>
+                    <originalsloc id="ref145">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0309" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:9196">
+                        <daodesc>
+                            <p>APSdigrec_0309</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Delaware Indians--Rites and ceremonies</subject>
+                        <subject source="ingest">Delaware language</subject>
+                        <geogname source="ingest">Dewey (Okla.)</geogname>
+                        <subject source="ingest">Invocation</subject>
+                        <subject source="ingest">Prayers</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+            <c01 id="ref183" level="series">
+                <did>
+                    <unittitle>Delaware Sacred and Secular Songs: Fred Washington and Tom Wilson</unittitle>
+                    <unitid>Mss.Rec.106.5</unitid>
+                    <physdesc>
+                        <extent>1.0 Tape(s)</extent>
+                    </physdesc>
+                    <unitdate>07-30-1974</unitdate>
+                </did>
+                <c02 id="ref146" level="file">
+                    <did>
+                        <unittitle>Woman Dance Songs</unittitle>
+                        <unitid>05-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1974-07-30</unitdate>
+                        <physdesc id="ref147" label="General Physical Description note">
+                            <extent>00:03:38</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Roark-Calnek, Sue N., 1936-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Washington, Fred</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Wilson, Tom</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref149">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0310" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:9206">
+                        <daodesc>
+                            <p>APSdigrec_0310</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Delaware dance</subject>
+                        <subject source="lcsh">Delaware Indians--Music</subject>
+                        <geogname source="ingest">Wann (Okla.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref150" level="file">
+                    <did>
+                        <unittitle>Coon Dance Songs; Comments on Coon Dance</unittitle>
+                        <unitid>05-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1974-07-30</unitdate>
+                        <physdesc id="ref151" label="General Physical Description note">
+                            <extent>00:04:19</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Roark-Calnek, Sue N., 1936-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Washington, Fred</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Wilson, Tom</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref153">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0311" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:9203">
+                        <daodesc>
+                            <p>APSdigrec_0311</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Delaware dance</subject>
+                        <subject source="lcsh">Delaware Indians--Music</subject>
+                        <geogname source="ingest">Wann (Okla.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref154" level="file">
+                    <did>
+                        <unittitle>Mesingw Dance and Mesingw impersonation in Big House; Mesingw Big House Song (sung on return of hunters)</unittitle>
+                        <unitid>05-03</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1974-07-30</unitdate>
+                        <physdesc id="ref155" label="General Physical Description note">
+                            <extent>00:09:49</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Roark-Calnek, Sue N., 1936-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Washington, Fred</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Wilson, Tom</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref157">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0312" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:9210">
+                        <daodesc>
+                            <p>APSdigrec_0312</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Delaware dance</subject>
+                        <subject source="lcsh">Delaware Indians--Music</subject>
+                        <geogname source="ingest">Wann (Okla.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref158" level="file">
+                    <did>
+                        <unittitle>Comments on Duck Dance; attempt to sing Duck Dance Song</unittitle>
+                        <unitid>05-04</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1974-07-30</unitdate>
+                        <physdesc id="ref159" label="General Physical Description note">
+                            <extent>00:03:20</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Roark-Calnek, Sue N., 1936-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Washington, Fred</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Wilson, Tom</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref161">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0313" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:9208">
+                        <daodesc>
+                            <p>APSdigrec_0313</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Delaware dance</subject>
+                        <subject source="lcsh">Delaware Indians--Music</subject>
+                        <geogname source="ingest">Wann (Okla.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref162" level="file">
+                    <did>
+                        <unittitle>Cherokee Dance; Conversation on Cherokee Dance</unittitle>
+                        <unitid>05-05</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1974-07-30</unitdate>
+                        <physdesc id="ref163" label="General Physical Description note">
+                            <extent>00:02:41</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Roark-Calnek, Sue N., 1936-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Washington, Fred</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Wilson, Tom</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref165">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0314" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:9204">
+                        <daodesc>
+                            <p>APSdigrec_0314</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Delaware dance</subject>
+                        <subject source="lcsh">Delaware Indians--Music</subject>
+                        <geogname source="ingest">Wann (Okla.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref166" level="file">
+                    <did>
+                        <unittitle>Delaware Flag Song</unittitle>
+                        <unitid>05-06</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1974-07-30</unitdate>
+                        <physdesc id="ref167" label="General Physical Description note">
+                            <extent>00:01:56</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Roark-Calnek, Sue N., 1936-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Washington, Fred</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Wilson, Tom</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref169">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0315" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:9202">
+                        <daodesc>
+                            <p>APSdigrec_0315</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Delaware dance</subject>
+                        <subject source="lcsh">Delaware Indians--Music</subject>
+                        <geogname source="ingest">Wann (Okla.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref170" level="file">
+                    <did>
+                        <unittitle>Straight or Man Dance; Comments on Old Delaware War Dance; War Dance Song</unittitle>
+                        <unitid>05-07</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1974-07-30</unitdate>
+                        <physdesc id="ref171" label="General Physical Description note">
+                            <extent>00:04:26</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Roark-Calnek, Sue N., 1936-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Washington, Fred</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Wilson, Tom</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref173">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0316" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:9209">
+                        <daodesc>
+                            <p>APSdigrec_0316</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Delaware dance</subject>
+                        <subject source="lcsh">Delaware Indians--Music</subject>
+                        <geogname source="ingest">Wann (Okla.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref174" level="file">
+                    <did>
+                        <unittitle>Series of Three 49 Dance Songs</unittitle>
+                        <unitid>05-08</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1974-07-30</unitdate>
+                        <physdesc id="ref175" label="General Physical Description note">
+                            <extent>00:04:07</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Roark-Calnek, Sue N., 1936-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Washington, Fred</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Wilson, Tom</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref177">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0317" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:9207">
+                        <daodesc>
+                            <p>APSdigrec_0317</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Delaware dance</subject>
+                        <subject source="lcsh">Delaware Indians--Music</subject>
+                        <geogname source="ingest">Wann (Okla.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref178" level="file">
+                    <did>
+                        <unittitle>Snake Dance Song</unittitle>
+                        <unitid>05-09</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1974-07-30</unitdate>
+                        <physdesc id="ref179" label="General Physical Description note">
+                            <extent>00:01:50</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Roark-Calnek, Sue N., 1936-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Washington, Fred</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Wilson, Tom</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref181">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0318" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:9205">
+                        <daodesc>
+                            <p>APSdigrec_0318</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Delaware dance</subject>
+                        <subject source="lcsh">Delaware Indians--Music</subject>
+                        <geogname source="ingest">Wann (Okla.)</geogname>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

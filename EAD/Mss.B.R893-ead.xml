@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.R893-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.R893</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T19:58-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Cards of admission, 1807-1816, to medical lectures</unittitle>
+            <unitid>Mss.B.R893</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1562" type="Box" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>0.25 Linear feet</extent>
+                <extent>17 items, photocopies</extent>
+            </physdesc>
+            <unitdate normal="1807/1816" type="inclusive">1807-1816</unitdate>
+            <abstract id="ref8" label="Abstract">These cards of admission were to lectures held at the University of Pennsylvania, St. George's Hospital (London), and the University of Edinburgh. Rush has written comments on the lecturers on the backs of several of the cards.</abstract>
+            <physdesc id="ref15" label="General Physical Description note">17 items, photocopies.</physdesc>
+            <physloc id="ref16" label="Paging">LH-MV-C-15</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Rush, James,1786-1869.</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref14">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by Library Company of Philadelphia and accessioned, 12/04/1963 (1963 2442pr).</p>
+        </acqinfo>
+        <bioghist id="ref12">
+            <head>Biographical/Historical note</head>
+            <p>James Rush was a physician, and was elected to the American Philosophical Society in 1827.</p>
+        </bioghist>
+        <originalsloc id="ref10">
+            <head>Existence and Location of Originals note</head>
+            <p>Originals in Library Company of Philadelphia.</p>
+        </originalsloc>
+        <bioghist id="ref5">
+            <head>Biographical/Historical note</head>
+            <p>Physician James Rush was elected to the American Philosophical Society in 1827.</p>
+        </bioghist>
+        <odd id="ref17">
+            <head>Early American History Note</head>
+            <p>This portion of the James Rush Collection contains photostats of tickets of admission to medical lectures, most of which were held in Scotland.</p>
+        </odd>
+        <controlaccess>
+            <corpname source="ingest">St. George's Hospital (London).</corpname>
+            <corpname source="ingest">University of Edinburgh.</corpname>
+            <corpname source="ingest">University of Pennsylvania.</corpname>
+            <subject source="leah">Education</subject>
+            <genreform source="leah">Educational Material</genreform>
+            <subject source="lcsh">Lecturers.</subject>
+            <subject source="leah">Medicine</subject>
+            <subject source="lcsh">Medicine.</subject>
+            <genreform source="lcsh">Tickets.</genreform>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

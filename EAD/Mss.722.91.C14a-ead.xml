@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.722.91.C14a-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.722.91.C14a</num>
+                </titleproper>
+                <author>Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:22-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="item">
+        <did>
+            <unittitle>Architectural Change at a Southwestern Pueblo</unittitle>
+            <unitid>Mss.722.91.C14a</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid119993" type="Volume" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>1.0 Volume(s)</extent>
+            </physdesc>
+            <unitdate normal="1991/1991">1991</unitdate>
+            <abstract id="ref1" label="Abstract">Dissertation, University of Arizona.</abstract>
+            <physdesc id="ref2" label="General Physical Description note">1 volume, 410 p.</physdesc>
+            <physloc id="ref4" label="Paging">LH-MV-E-11</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Cameron, Catherine M.</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref3">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by Catherine M. Cameron.</p>
+        </acqinfo>
+        <controlaccess>
+            <genreform source="lcsh">Dissertations.</genreform>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

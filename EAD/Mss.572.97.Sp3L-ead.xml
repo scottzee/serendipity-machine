@@ -1,0 +1,574 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.572.97.Sp3L-ead.xml">PUBLIC "-//American Philosophical Society Library//TEXT(US::PAAV::572.97 Sp3L:: Frank Gouldsmith Speck Cherokee Collection)//EN" "speckcherokee.xml"</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Frank Gouldsmith Speck 
+                    <lb/>Cherokee Collection
+                    <date type="span">1880-1948</date>
+                    <num>Mss.572.97.Sp3L</num>
+                </titleproper>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+                <date>4/2003</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:19-0400</date>
+            </creation>
+            <langusage>ENG</langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Frank Gouldsmith Speck Cherokee Collection</unittitle>
+            <unitid>Mss.572.97.Sp3L</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>0.5 Linear feet</extent>
+            </physdesc>
+            <unitdate normal="1880/1948" type="inclusive">1880-1948</unitdate>
+            <abstract id="ref1" label="Abstract">From the 1920s through the 1940s, the University of Pennsylvania anthropologist Frank Gouldsmith Speck worked on Cherokee language and culture with his primary consultant, Will West Long. Raised in Big Cove, North Carolina, Long was a respected elder and spent much of his adult life attempting to record and preserve traditional Cherokee culture. 
+                <lb/>The Speck Cherokee Collection consists of diaries, accounts, and medicinal texts in Cherokee collected by Will West Long and Morgan Calhoun, accompanied by notes by Speck and John Witthoft. Among these are several diaries kept by Long (mostly 1904-1917), records of the Gadugi (a Cherokee mutual aid group), accounts, records of births and deaths at Big Cove, Cherokee-English vocabularies, and material collected on Cherokee botany collected by James Mooney in 1887. Several of the items contain information on Cherokee medicine, including formulae and curing charms.</abstract>
+            <physloc id="ref92" label="Paging">LH-MV-B-11</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Speck, Frank Gouldsmith, 1881-1950</persname>
+            </origination>
+        </did>
+        <userestrict id="ref93">
+            <head>Conditions Governing Use note</head>
+            <p>Reproduction of this material is restricted due to cultural sensitivity concerns. Please consult the Manuscripts Librarian for information.</p>
+        </userestrict>
+        <processinfo id="ref19">
+            <head>Processing Information note</head>
+            <p>Catalogued rsc, April 2003.</p>
+        </processinfo>
+        <altformavail id="ref17">
+            <head>Existence and Location of Copies note</head>
+            <p>The Speck Cherokee Collection has been microfilmed (Film 1429, reels 15 and 16).</p>
+        </altformavail>
+        <otherfindaid id="ref15">
+            <head>Other Finding Aids note</head>
+            <p>The Speck Collection is also indexed in the On-line guide to 
+                <extref ns2:href="http://www.amphilsoc.org/library/guides/indians/">
+                    <title render="italic">American Indian Manuscripts in the Collections of the APS</title></extref>.</p>
+        </otherfindaid>
+        <relatedmaterial id="ref13">
+            <head>Related Archival Materials note</head>
+            <p>Other material on Cherokee language and culture can be found indexed in the on-line guide to 
+                <extref ns2:href="http://www.amphilsoc.org/library/guides/indians/">
+                    <title render="italic">American Indian Manuscripts in the Collections of the APS</title></extref>.</p>
+            <p>
+                <archref>The Frank Speck Papers (572.97 Sp3) contains a biographical sketch of Will West Long (17:4D7), and some correspondence with West Long (17:4D1).</archref></p>
+        </relatedmaterial>
+        <acqinfo id="ref11">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Transferred from the University Museum of the University of Pennsylvania, June 1958 (accn. no. 1958-1400ms).</p>
+        </acqinfo>
+        <prefercite id="ref9">
+            <head>Preferred Citation note</head>
+            <p>Cite as: Frank Speck Cherokee Collection, American Philosophical Society.</p>
+        </prefercite>
+        <scopecontent id="ref5">
+            <head>Scope and Contents note</head>
+            <p>The Frank Speck Cherokee Collection consists of diaries, accounts, and medicinal texts in Cherokee collected by Will West Long and Morgan Calhoun, accompanied by notes by Speck and John Witthoft. These include several diaries kept by Long (mostly 1904-1917), records of the Gadugi (a Cherokee mutual aid group), accounts, records of births and deaths at Big Cove, and material collected on Cherokee botany collected by James Mooney in 1887. Several of the items contain information on Cherokee medicine, including formulae and curing charms.</p>
+        </scopecontent>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>The ethnographer Frank Gouldsmith Speck was unusual among the students of Franz Boas in choosing to study the Indian cultures of the eastern United States that he believed were in severe decline. As one of Boas' first graduate students at Columbia, Speck worked extensively in the state of Connecticut, attempting to "salvage" what remained of the native cultures, recording, for example, the Mohegan Pequot language from one of its last native speakers, Fidelia Hoscott Fielding. After completing his degree in 1908, Speck became Professor of Anthropology at the University of Pennsylvania, becoming one of the best know re his research among the Algonquian peoples of the northeast.</p>
+            <p>Beginning in the 1920s, Speck began to expand the scope of his research to include Indian piopulations in the mid-Atlantic states and the southeast. In his studies of the North Carolina Cherokee, Speck's primary consultant and collaborator was Will West Long. Born in Big Cove, N.C., on January 25, 1870, Long was raised in traditional Cherokee. At 25, he studied at Hampton Institute in Virginia, and spent five years after that working in Massachusetts before returning to Big Cove during the fall of 1904. For 28 years he was a member of the Cherokee tribal council, and served as clerk for an additional two, but Long played a key role in collecting and tramsitting information about traditional Cherokee culture to younger generations, passing on knowledge about Cherokee medicine, carving, music and dance, and language. Long, who died in 1947, was listed a co-author of Speck's and Leonard Bloom's on 
+                <title render="italic">Cherokee Dance and Drama</title> (Norman, Okla.: 1951).</p>
+        </bioghist>
+        <controlaccess>
+            <persname source="ingest">Calhoun, Morgan</persname>
+            <persname source="ingest">Mooney, James, 1861-1921</persname>
+            <persname rules="aacr" source="local">West Long, Will</persname>
+            <persname source="ingest">Witthoft, John</persname>
+            <subject source="lcsh">Cherokee Indians--Medicine</subject>
+            <subject source="lcsh">Cherokee language</subject>
+            <genreform source="lcsh">Diaries.</genreform>
+            <subject source="lcsh">Indians of North America--Languages</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref20" level="series">
+                <did>
+                    <unittitle>Letters</unittitle>
+                    <physdesc>
+                        <extent>2 items</extent>
+                    </physdesc>
+                    <unitdate>1943-1944</unitdate>
+                </did>
+                <c02 id="ref21" level="item">
+                    <did>
+                        <unittitle>TLS to Marion Godfrey</unittitle>
+                        <unitid>1</unitid>
+                        <container id="cid24239" type="Box" label="Mixed materials">1</container>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>October 9, 1943</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Speck, Frank Gouldsmith, 1881-1950</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref23">
+                        <head>Scope and Contents note</head>
+                        <p>Letter missing, 1990.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref24" level="item">
+                    <did>
+                        <unittitle>TLS to George</unittitle>
+                        <unitid>1</unitid>
+                        <container id="cid24238" type="Box" label="Mixed materials">1</container>
+                        <physdesc>
+                            <extent>2p.</extent>
+                        </physdesc>
+                        <unitdate>August 30, 1944</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Speck, Frank Gouldsmith, 1881-1950</persname>
+                        </origination>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref25" level="series">
+                <did>
+                    <unittitle>Volumes</unittitle>
+                    <container id="cid24215" type="Box" label="Mixed materials">1</container>
+                    <physdesc>
+                        <extent>22 items</extent>
+                    </physdesc>
+                    <unitdate>1880-1948</unitdate>
+                </did>
+                <c02 id="ref26" level="item">
+                    <did>
+                        <unittitle>Medical curing forumlae in Cherokee syllabary</unittitle>
+                        <unitid>1</unitid>
+                        <container id="cid24237" type="Box" label="Mixed materials">1</container>
+                        <physdesc>
+                            <extent>1 vol. (19p.)</extent>
+                        </physdesc>
+                        <unitdate>1900-1904</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Long, Will West</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref28">
+                        <head>Scope and Contents note</head>
+                        <p>Written in canvas notebook labeled "Hampton, Va." In Cherokee syllabary, with 4p. of Speck's notes, running paraphrase in English.</p>
+                        <p>Freeman and Smith 676.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref29" level="item">
+                    <did>
+                        <unittitle>Curing charms and formulae, with a "prayer for unattractive man to attract women"</unittitle>
+                        <unitid>2</unitid>
+                        <container id="cid24236" type="Box" label="Mixed materials">1</container>
+                        <physdesc>
+                            <extent>1 vol.</extent>
+                        </physdesc>
+                        <unitdate>1912 (1926-27)</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Long, Will West</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref31">
+                        <head>Scope and Contents note</head>
+                        <p>In book bound in black paper. Love charm on p. 36. Volume bought by Long from "old man Mink" (d. ca.1912) of Big Cove, copied in 1926-1927.</p>
+                        <p>Freeman and Smith 675.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref32" level="item">
+                    <did>
+                        <unittitle>Curing formulae and charms</unittitle>
+                        <unitid>3</unitid>
+                        <container id="cid24235" type="Box" label="Mixed materials">1</container>
+                        <physdesc>
+                            <extent>1 vol. (72p.)</extent>
+                        </physdesc>
+                        <unitdate>1883</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Calhoun, Morgan</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref34">
+                        <head>Scope and Contents note</head>
+                        <p>Disbound. Calhoun, half-brother of Will West Long, was from Big Cove. In Cherokee.</p>
+                        <p>Freeman and Smith 646</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref35" level="item">
+                    <did>
+                        <unittitle>Curing formulae, with drawing of frog inside cover</unittitle>
+                        <unitid>4</unitid>
+                        <container id="cid24234" type="Box" label="Mixed materials">1</container>
+                        <physdesc>
+                            <extent>1 vol. (44p.)</extent>
+                        </physdesc>
+                        <unitdate>1919</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Calhoun, Morgan</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref37">
+                        <head>Scope and Contents note</head>
+                        <p>Bound in paper notebook titled "Perfection." Mainly curing formulae, in Cherokee, with some personal accounts.</p>
+                        <p>Freeman and Smith 648.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref38" level="item">
+                    <did>
+                        <unittitle>Medicinal texts in Cherokee syllabary</unittitle>
+                        <unitid>5</unitid>
+                        <container id="cid24233" type="Box" label="Mixed materials">1</container>
+                        <physdesc>
+                            <extent>1 vol. (23p.)</extent>
+                        </physdesc>
+                        <unitdate>1922-1925</unitdate>
+                        <origination label="creator">
+                            <persname rules="local" source="local">Unidentified</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref40">
+                        <head>Scope and Contents note</head>
+                        <p>Minute volume (2 x 3.5") bound in black paper, in Cherokee.</p>
+                        <p>Freeman and Smith 678.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref41" level="item">
+                    <did>
+                        <unittitle>Account of payments; Cherokee-English vocabulary (syllabary); assorted Cherokee texts</unittitle>
+                        <unitid>6</unitid>
+                        <container id="cid24232" type="Box" label="Mixed materials">1</container>
+                        <physdesc>
+                            <extent>1 vol. (120p.)</extent>
+                        </physdesc>
+                        <unitdate>1909-1915</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Mooney, James, 1861-1921</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref43">
+                        <head>Scope and Contents note</head>
+                        <p>Freeman and Smith 668.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref44" level="item">
+                    <did>
+                        <unittitle>Diary, kept at Needham, Mass., and at Cherokee</unittitle>
+                        <unitid>7</unitid>
+                        <container id="cid24231" type="Box" label="Mixed materials">1</container>
+                        <physdesc>
+                            <extent>1 vol. (385p.)</extent>
+                        </physdesc>
+                        <unitdate>1904-1905</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Long, Will West</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref46">
+                        <head>Scope and Contents note</head>
+                        <p>In Cherokee and English.</p>
+                        <p>Freeman and Smith 671.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref47" level="item">
+                    <did>
+                        <unittitle>I. Cherokee Diary</unittitle>
+                        <unitid>8</unitid>
+                        <container id="cid24230" type="Box" label="Mixed materials">1</container>
+                        <physdesc>
+                            <extent>1 vol. (140p.)</extent>
+                        </physdesc>
+                        <unitdate>September 27, 1911-Apr. 15, 1913</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Long, Will West</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref49">
+                        <head>Scope and Contents note</head>
+                        <p>In Cherokee. With a few curing formulae at the end.</p>
+                        <p>Freeman and Smith 669.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref50" level="item">
+                    <did>
+                        <unittitle>II. Diary</unittitle>
+                        <unitid>9</unitid>
+                        <container id="cid24229" type="Box" label="Mixed materials">1</container>
+                        <physdesc>
+                            <extent>1 vol. (140p.)</extent>
+                        </physdesc>
+                        <unitdate>Sept. 20, 1913-Aug. 17, 1915</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Long, Will West</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref52">
+                        <head>Scope and Contents note</head>
+                        <p>In Cherokee, with death and birth records at center of book.</p>
+                        <p>Freeman and Smith 669.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref53" level="item">
+                    <did>
+                        <unittitle>III. Notes and secretary's accounts of the Big Cove Gadugi, with curing formulaw and charms.</unittitle>
+                        <unitid>10</unitid>
+                        <container id="cid24228" type="Box" label="Mixed materials">1</container>
+                        <physdesc>
+                            <extent>1 vol. (4p.), 8 items</extent>
+                        </physdesc>
+                        <unitdate>n.d.</unitdate>
+                    </did>
+                    <scopecontent id="ref55">
+                        <head>Scope and Contents note</head>
+                        <p>In Cherokee. Includes Speck's phonetic transcript and glosses for several pages.</p>
+                        <p>Freeman and Smith 688.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref56" level="item">
+                    <did>
+                        <unittitle>IV. Curing charms and sacred formulae collected by Will West Long</unittitle>
+                        <unitid>11</unitid>
+                        <container id="cid24227" type="Box" label="Mixed materials">1</container>
+                        <physdesc>
+                            <extent>1 vol. (19p.)</extent>
+                        </physdesc>
+                        <unitdate>April 1913-1919</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Long, Will West</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref58">
+                        <head>Scope and Contents note</head>
+                        <p>In Cherokee. Includes some phonetic transcript and glosses for several pages.</p>
+                        <p>Freeman and Smith 670.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref59" level="item">
+                    <did>
+                        <unittitle>Ledger in Cherokee syllabary, including vital statistics and personal notes; Big Cove</unittitle>
+                        <unitid>12</unitid>
+                        <container id="cid24226" type="Box" label="Mixed materials">2</container>
+                        <physdesc>
+                            <extent>1 vol. (59p.)</extent>
+                        </physdesc>
+                        <unitdate>1897-1908</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Long, Will West</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref61">
+                        <head>Scope and Contents note</head>
+                        <p>In Cherokee.</p>
+                        <p>Freeman and Smith 674.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref62" level="item">
+                    <did>
+                        <unittitle>Diary and notes in Cherokee</unittitle>
+                        <unitid>13</unitid>
+                        <container id="cid24225" type="Box" label="Mixed materials">2</container>
+                        <physdesc>
+                            <extent>1 vol. (134p.)</extent>
+                        </physdesc>
+                        <unitdate>1917-1928</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Long, Will West</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref64">
+                        <head>Scope and Contents note</head>
+                        <p>In Cherokee.</p>
+                        <p>Freeman and Smith 672.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref65" level="item">
+                    <did>
+                        <unittitle>Diary</unittitle>
+                        <unitid>14</unitid>
+                        <container id="cid24224" type="Box" label="Mixed materials">2</container>
+                        <physdesc>
+                            <extent>1 vol. (122p.)</extent>
+                        </physdesc>
+                        <unitdate>Jan. 22, 1916-Oct. 19, 1916</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Long, Will West</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref67">
+                        <head>Scope and Contents note</head>
+                        <p>In Cherokee.</p>
+                        <p>Freeman and Smith 672.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref68" level="item">
+                    <did>
+                        <unittitle>Diary</unittitle>
+                        <unitid>15</unitid>
+                        <container id="cid24223" type="Box" label="Mixed materials">2</container>
+                        <physdesc>
+                            <extent>2 vols. (32p. each)</extent>
+                        </physdesc>
+                        <unitdate>Aug. 28-Sept. 12, 1911</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Long, Will West</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref70">
+                        <head>Scope and Contents note</head>
+                        <p>In Cherokee. Written sparsely in printed notebooks.</p>
+                        <p>Freeman and Smith 672.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref71" level="item">
+                    <did>
+                        <unittitle>Diary, accounts, notes</unittitle>
+                        <unitid>16</unitid>
+                        <container id="cid24222" type="Box" label="Mixed materials">2</container>
+                        <physdesc>
+                            <extent>5 vols. (48p. each)</extent>
+                        </physdesc>
+                        <unitdate>1891-1917</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Long, Will West</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref73">
+                        <head>Scope and Contents note</head>
+                        <p>In Cherokee. Written sparsely in printed notebooks.</p>
+                        <p>Freeman and Smith 673.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref74" level="item">
+                    <did>
+                        <unittitle>Curing texts concerning stomach pains, etc., caused by sorcery</unittitle>
+                        <unitid>17</unitid>
+                        <container id="cid24221" type="Box" label="Mixed materials">2</container>
+                        <physdesc>
+                            <extent>1 vol. (10p.)</extent>
+                        </physdesc>
+                        <unitdate>ca.1880</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Calhoun, Morgan</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref76">
+                        <head>Scope and Contents note</head>
+                        <p>In Cherokee.</p>
+                        <p>Freeman and Smith 647.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref77" level="item">
+                    <did>
+                        <unittitle>Curing charms and Cherokee syllabary</unittitle>
+                        <unitid>18</unitid>
+                        <container id="cid24220" type="Box" label="Mixed materials">2</container>
+                        <physdesc>
+                            <extent>1 vol. (10p.)</extent>
+                        </physdesc>
+                        <unitdate>n.d.</unitdate>
+                        <origination label="creator">
+                            <persname rules="local" source="local">Unidentified</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref79">
+                        <head>Scope and Contents note</head>
+                        <p>In Cherokee. Written on paper pad.</p>
+                        <p>Freeman and Smith 654.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref80" level="item">
+                    <did>
+                        <unittitle>Minutes of Gadugi meetings, Big Cove</unittitle>
+                        <unitid>19</unitid>
+                        <container id="cid24219" type="Box" label="Mixed materials">2</container>
+                        <physdesc>
+                            <extent>1 vol., loose sheets</extent>
+                        </physdesc>
+                        <unitdate>1932</unitdate>
+                        <origination label="creator">
+                            <persname rules="local" source="local">Unidentified</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref82">
+                        <head>Scope and Contents note</head>
+                        <p>In Cherokee. Includes Speck's transcript and photostats of same.</p>
+                        <p>Freeman and Smith 680.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref83" level="item">
+                    <did>
+                        <unittitle>Cherokee-English vocabulary and curing charms</unittitle>
+                        <unitid>20</unitid>
+                        <container id="cid24218" type="Box" label="Mixed materials">2</container>
+                        <physdesc>
+                            <extent>2 vol. (30p. total)</extent>
+                        </physdesc>
+                        <unitdate>n.d.</unitdate>
+                        <origination label="creator">
+                            <persname rules="local" source="local">Unidentified</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref85">
+                        <head>Scope and Contents note</head>
+                        <p>In Cherokee.</p>
+                        <p>Freeman and Smith 650.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref86" level="item">
+                    <did>
+                        <unittitle>Medicinal charms and conjuring formulae</unittitle>
+                        <unitid>21</unitid>
+                        <container id="cid24217" type="Box" label="Mixed materials">2</container>
+                        <physdesc>
+                            <extent>ca.50p.</extent>
+                        </physdesc>
+                        <unitdate>1948</unitdate>
+                        <origination label="creator">
+                            <persname rules="local" source="local">Unidentified</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref88">
+                        <head>Scope and Contents note</head>
+                        <p>In Cherokee. Purchased by Speck from Allen Long, March 1, 1948.</p>
+                        <p>Freeman and Smith 677.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref89" level="item">
+                    <did>
+                        <unittitle>Cherokee botany</unittitle>
+                        <unitid>22</unitid>
+                        <container id="cid24216" type="Box" label="Mixed materials">2</container>
+                        <physdesc>
+                            <extent>1 vol.</extent>
+                        </physdesc>
+                        <unitdate>before 1887</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Mooney, James, 1861-1921</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref91">
+                        <head>Scope and Contents note</head>
+                        <p>In Cherokee. Includes bookplate of James Mooney inside front cover. Botanical material analyzed with informants Will West Long and Molly Sequoia. Referred to as Mooney Manuscript in Witthoft's Cherokee Ethnobotany; also includes accounts and birth and death records, medicinal formulae. The manuscript was apparently left by Mooney and ended up with Will West Long.</p>
+                        <p>Freeman and Smith 609.</p>
+                    </scopecontent>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

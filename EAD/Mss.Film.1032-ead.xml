@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Film.1032-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Film.1032</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T20:11-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Phoenician and Punic inscriptions made and found in the Chesapeake watershed of America, 1945</unittitle>
+            <unitid>Mss.Film.1032</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1686" type="Reel" label="Microform">1-2</container>
+            <physdesc>
+                <extent>2.0 Microfilm reel(s)</extent>
+            </physdesc>
+            <unitdate normal="1945/1945">1945</unitdate>
+            <abstract id="ref1" label="Abstract">Along with blue print replicas of inscriptions in stone found near the iron ore bouses of south central Pennsylvania are a biography of Strong and background information concerning the inscriptions. This is a supplement to Joseph Ayoob's "Were the Phoenicians the first to discover America?"</abstract>
+            <physdesc id="ref10" label="General Physical Description note">2 microfilm reels.</physdesc>
+            <physloc id="ref11" label="Paging">LH-RR-Media Rm-3</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Strong, W. W.(William Walker),1883-1955.</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref9">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by Joseph C. Ayoob and accessioned, 1960 (1960 1960mf). See in-house shelf list for additional accession numbers.</p>
+        </acqinfo>
+        <userestrict id="ref7">
+            <head>Conditions Governing Use note</head>
+            <p>If any part of this manuscript is copied, the source must be mentioned.</p>
+        </userestrict>
+        <bioghist id="ref5">
+            <head>Biographical/Historical note</head>
+            <p>William Walker Strong was a physicist.</p>
+        </bioghist>
+        <originalsloc id="ref3">
+            <head>Existence and Location of Originals note</head>
+            <p>Originals in possession of Joseph C. Ayoob.</p>
+        </originalsloc>
+        <controlaccess>
+            <subject source="lcsh">Inscriptions, Phoenician.</subject>
+            <genreform source="lcsh">Sketches.</genreform>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

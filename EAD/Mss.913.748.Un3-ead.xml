@@ -1,0 +1,857 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.913.748.Un3-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.913.748.Un3</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:23-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>United States. Work Projects Administration (Pa.) Reports, 1918-1948</unittitle>
+            <unitid>Mss.913.748.Un3</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1024" type="Box" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>0.25 Linear feet</extent>
+                <extent>38 items.</extent>
+            </physdesc>
+            <unitdate normal="1918/1948" type="inclusive">1918-1948</unitdate>
+            <abstract id="ref1" label="Abstract">These are site reports on archaeological excavations in northern and western Pennsylvania and upstate New York. Most of the excavations were sponsored by the Pennsylvania Historical Commission (1929-1948). The reports include photographs, maps, and diagrams.</abstract>
+            <physdesc id="ref9" label="General Physical Description note">38 items.</physdesc>
+            <physloc id="ref145" label="Paging">LH-MV-E-11 (No. 1-18); LH-MV-E-12 (No. 19a-29); LH-SB-Black Case-15 (No. 27)</physloc>
+            <origination label="creator">
+                <corpname source="ingest" role="Author (aut)">United States.Work Projects Administration (Pa.)</corpname>
+            </origination>
+        </did>
+        <scopecontent id="ref11">
+            <head>Scope and Contents note</head>
+            <p>A series of manuscripts, reports, maps, and photographs on Pennsylvania archeology from the Pennsylvania Historical and Museum Commission files. Many of these reports are records of Works Progress Administration Archeological Projects in Pennsylvania, but more than half represent activities of the State Commission. Primarily excavations of Native American burial mounds in northern and western Pennsylvania, with some upstate New York sites. 38 items, plus Edmund S. Carpenter’s summary of data on Pennsylvania tumuli entitled “The ancient mounds of Pennsylvania.” (913.748 C223)</p>
+        </scopecontent>
+        <scopecontent id="ref12">
+            <head>Scope and Contents note</head>
+            <p>Native American Images note : Almost 2,000 black and white silver gelatin photographs, black and white negatives, ink and pencil sketches, maps, blueprints, and graphs of Seneca and other Iroquoian burial mounds excavated in conjunction with the Pennsylvania Historical Commission and the WPA from 1918-1948. The tumulus are located in northern, western, and central Pennsylvania, particularly Warren County’s Cornplanter tract, with some mounds unearthed in western Cattaraugus and Chautauqua counties of New York. Images include excavation sites with marked trenches; artifacts of tools, pottery, arrow points, and pipes; skeletal remains in burial vaults; Seneca workers; and diagrams of archeological finds. Referenced in Freeman’s Guide to manuscripts relating to the American Indian and Supplement, David Van Keuren’s The Proper Study of Mankind, an annotated bibliography of manuscript sources on anthropology and archeology, and Murphy Smith’s Historical American Sketches.</p>
+            <p>Maps note : There are approximately 50 maps in this collection.</p>
+        </scopecontent>
+        <relatedmaterial id="ref10">
+            <head>Related Archival Materials note</head>
+            <p>Summarized in Edmund S. Carpenter, 
+                <extref ns2:actuate="onLoad" ns2:show="new" ns2:href="http://www.amphilsoc.org/mole/view?docId=ead/Mss.913.748.C223-ead.xml">Ancient Mounds of Pennsylvania (913.748 C223)</extref>.</p>
+        </relatedmaterial>
+        <acqinfo id="ref7">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by Edmund S. Carpenter and accessioned, 1948-1949.</p>
+        </acqinfo>
+        <userestrict id="ref3">
+            <head>Conditions Governing Use note</head>
+            <p>A summary on tumuli in Pennsylvania was written by Edward S. Carpenter (see PAAV 88A25).</p>
+        </userestrict>
+        <otherfindaid id="ref137">
+            <head>Other Finding Aids note</head>
+            <p>Freeman guide, #180. Realms of Gold, #49.</p>
+        </otherfindaid>
+        <controlaccess>
+            <persname rules="aacr" source="naf">Bird, Junius Bouton, 1907-</persname>
+            <persname rules="aacr" source="naf">Biss, Wesley L.</persname>
+            <persname rules="aacr" source="naf">Butler, Mary </persname>
+            <persname rules="aacr" source="naf">Cadzow, Donald A.</persname>
+            <persname rules="aacr" source="local">Carpenter, Edmund, 1922-2011</persname>
+            <persname rules="aacr" source="local">Cresson, Francis C.</persname>
+            <famname source="ingest">Fisher, G. S.</famname>
+            <persname rules="aacr" source="naf">Gerrodette, F.</persname>
+            <persname rules="aacr" source="naf">Gilmore, Raymond M.,  (Raymond Maurice), 1907-1983</persname>
+            <persname rules="aacr" source="naf">Jones, Robert W. </persname>
+            <corpname source="ingest">Pennsylvania Historical Commission.</corpname>
+            <persname rules="aacr" source="local">Schoff, Harry L.</persname>
+            <persname source="ingest">Skinner, Dorothy P.</persname>
+            <persname rules="aacr" source="naf">Smith, Charles M. </persname>
+            <persname rules="aacr" source="naf">Stewart, T. D.,  (Thomas Dale), 1901-</persname>
+            <persname rules="aacr" source="local">Thomas, Cyrus</persname>
+            <persname source="ingest">Witthoft, John</persname>
+            <persname rules="aacr" source="local">Wright, Ross P.</persname>
+            <subject source="lcsh">Archaeology</subject>
+            <genreform source="lcsh">Blueprints.</genreform>
+            <genreform source="lcsh">Diagrams.</genreform>
+            <subject source="local">Eastern Woodlands Indians</subject>
+            <subject source="lcsh">Excavations (Archaeology)</subject>
+            <genreform source="gmgpc">Gelatin silver prints</genreform>
+            <genreform source="lcsh">Graphs.</genreform>
+            <subject source="lcsh">Human remains (Archaeology)</subject>
+            <subject source="lcsh">Indians of North America--New York (State)--Antiquities</subject>
+            <subject source="lcsh">Indians of North America--Pennsylvania--Antiquities</subject>
+            <subject source="lcsh">Iroquois Indians--Antiquities</subject>
+            <genreform source="lcsh">Maps.</genreform>
+            <genreform source="gmgpc">Negatives</genreform>
+            <geogname source="lcsh">New York (State) -- Antiquities.</geogname>
+            <geogname source="lcsh">Pennsylvania -- Antiquities.</geogname>
+            <genreform source="gmgpc">Photomechanical prints</genreform>
+            <genreform source="lcsh">Photoprints.</genreform>
+            <subject source="lcsh">Seneca Indians--Antiquities</subject>
+            <subject source="lcsh">Seneca Indians--Implements</subject>
+            <genreform source="lcsh">Sketches.</genreform>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref28" level="file">
+                <did>
+                    <unittitle>McFate site report on archaeological excavations, Crawford County, Pennsylvania</unittitle>
+                    <unitid>No.1</unitid>
+                    <unitdate>1938</unitdate>
+                    <origination label="creator">
+                        <persname rules="aacr" source="local">Schoff, Harry L.</persname>
+                    </origination>
+                </did>
+                <scopecontent id="ref29">
+                    <head>Scope and Contents note</head>
+                    <p>Native American Images note: 49 black and white photographs of excavation of a prehistoric Indian village. Images include landscapes, trenches, skeletal remains, arrowpoints, pipes, pottery, tools.</p>
+                </scopecontent>
+                <otherfindaid id="ref30">
+                    <head>Other Finding Aids note</head>
+                    <p>Freeman guide, #2694</p>
+                </otherfindaid>
+            </c01>
+            <c01 id="ref31" level="file">
+                <did>
+                    <unittitle>Site report: summary of lists for Somerset and Fayette Counties, Pennsylvania</unittitle>
+                    <unitid>No.2</unitid>
+                    <unitdate>1941</unitdate>
+                    <origination label="creator">
+                        <persname rules="aacr" source="local">Cresson, Francis C.</persname>
+                    </origination>
+                </did>
+                <scopecontent id="ref32">
+                    <head>Scope and Contents note</head>
+                    <p>Native American Images note: 22 pencil sketches of skeletal remains and diagrams of excavation sites with location of finds.</p>
+                </scopecontent>
+                <otherfindaid id="ref33">
+                    <head>Other Finding Aids note</head>
+                    <p>Freeman guide, #2674</p>
+                </otherfindaid>
+            </c01>
+            <c01 id="ref34" level="file">
+                <did>
+                    <unittitle>Identification of faunal remains from Southwestern Pennsylvania, archaeological sites and reports of animal remains</unittitle>
+                    <unitid>No.3</unitid>
+                    <unitdate>1941</unitdate>
+                    <origination label="creator">
+                        <persname rules="aacr" source="naf">Gilmore, Raymond M.,  (Raymond Maurice), 1907-1983</persname>
+                    </origination>
+                </did>
+                <otherfindaid id="ref35">
+                    <head>Other Finding Aids note</head>
+                    <p>Freeman guide, #2688</p>
+                </otherfindaid>
+            </c01>
+            <c01 id="ref36" level="file">
+                <did>
+                    <unittitle>Skeletal remains from Fayette and Somerset County, Pennsylvania</unittitle>
+                    <unitid>No.4</unitid>
+                    <unitdate>1944</unitdate>
+                    <origination label="creator">
+                        <persname rules="aacr" source="naf">Stewart, T. D.,  (Thomas Dale), 1901-</persname>
+                    </origination>
+                </did>
+                <scopecontent id="ref37">
+                    <head>Scope and Contents note</head>
+                    <p>Native American Images note: 5 black and white photographs of skeletal remains dated ca. 1550-1650.</p>
+                </scopecontent>
+                <otherfindaid id="ref38">
+                    <head>Other Finding Aids note</head>
+                    <p>Freeman guide, #2698</p>
+                </otherfindaid>
+            </c01>
+            <c01 id="ref39" level="file">
+                <did>
+                    <unittitle>Archaeological survey of Somerset County, Pennsylvania</unittitle>
+                    <unitid>No.5</unitid>
+                    <unitdate normal="1941/1942" type="inclusive">1941-1942</unitdate>
+                    <origination label="creator">
+                        <persname rules="aacr" source="local">Cresson, Francis C.</persname>
+                    </origination>
+                </did>
+                <otherfindaid id="ref40">
+                    <head>Other Finding Aids note</head>
+                    <p>Freeman guide, #2684</p>
+                </otherfindaid>
+            </c01>
+            <c01 id="ref41" level="file">
+                <did>
+                    <unittitle>Materials relating to Brock Mound, Lycoming County, Pennsylvania</unittitle>
+                    <unitid>No.6, part 1</unitid>
+                    <unitdate>1947</unitdate>
+                    <origination label="creator">
+                        <persname rules="aacr" source="local">Carpenter, Edmund, 1922-2011</persname>
+                    </origination>
+                </did>
+                <scopecontent id="ref42">
+                    <head>Scope and Contents note</head>
+                    <p>Native American Images note: 1 pencil sketch of the excavation site at Brock Mound.</p>
+                </scopecontent>
+                <otherfindaid id="ref43">
+                    <head>Other Finding Aids note</head>
+                    <p>Freeman guide, #2678</p>
+                </otherfindaid>
+            </c01>
+            <c01 id="ref44" level="file">
+                <did>
+                    <unittitle>Materials relating to Brock Mound, Lycoming County, Pennsylvania</unittitle>
+                    <unitid>No.6, part 2</unitid>
+                    <unitdate>1947</unitdate>
+                    <origination label="creator">
+                        <persname rules="aacr" source="local">Carpenter, Edmund, 1922-2011</persname>
+                    </origination>
+                </did>
+                <scopecontent id="ref45">
+                    <head>Scope and Contents note</head>
+                    <p>Native American Images note: 23 black and white photographs of artifacts found at the excavation site. Images include fragments of tools, pipes, pottery, arrow points, and diagrams of the site.</p>
+                </scopecontent>
+                <otherfindaid id="ref46">
+                    <head>Other Finding Aids note</head>
+                    <p>Freeman guide, #2678</p>
+                </otherfindaid>
+            </c01>
+            <c01 id="ref47" level="file">
+                <did>
+                    <unittitle>Record of excavation of Brock village site, Lycoming County, Pennsylvania</unittitle>
+                    <unitid>No.7</unitid>
+                    <unitdate>1937</unitdate>
+                    <origination label="creator">
+                        <persname rules="aacr" source="local">Schoff, Harry L.</persname>
+                    </origination>
+                </did>
+                <scopecontent id="ref48">
+                    <head>Scope and Contents note</head>
+                    <p>Native American Images note: 4 black and white photographs, 1 ink sketch of tools, pottery fragments, plan of the Algonquin site, Muncy Creek township.</p>
+                </scopecontent>
+                <otherfindaid id="ref49">
+                    <head>Other Finding Aids note</head>
+                    <p>Freeman guide, #2696</p>
+                </otherfindaid>
+            </c01>
+            <c01 id="ref50" level="file">
+                <did>
+                    <unittitle>Miscellaneous reports on Johnson, Miller, Jacobs, Hook Run, Logan, Jimerson sites</unittitle>
+                    <unitid>No.8</unitid>
+                    <unitdate>1941</unitdate>
+                    <origination label="creator">
+                        <persname rules="aacr" source="naf">Butler, Mary </persname>
+                    </origination>
+                </did>
+                <scopecontent id="ref51">
+                    <head>Scope and Contents note</head>
+                    <p>Native American Images note: 117 black and white photographs, 44 black and white negatives of mounds, excavation sites, Seneca masks, artifact fragments from the Cornplanter reservation, Warren County, Pennsylvania; Cattaraugus County, New York; Scandia, Pennsylvania and others.</p>
+                </scopecontent>
+                <otherfindaid id="ref52">
+                    <head>Other Finding Aids note</head>
+                    <p>Freeman guide, #2673</p>
+                </otherfindaid>
+                <c02 id="ref142" level="item">
+                    <did>
+                        <unittitle>Johnson Halftown</unittitle>
+                        <unitdate>1941</unitdate>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Johnson Halftown" ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:3366">
+                        <daodesc>
+                            <p>Johnson Halftown, 1941 </p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref143" level="item">
+                    <did>
+                        <unittitle>Seneca excavation site</unittitle>
+                        <unitdate>1941</unitdate>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Seneca excavation site" ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:3369">
+                        <daodesc>
+                            <p>Seneca excavation site, 1941 </p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref144" level="item">
+                    <did>
+                        <unittitle>Seneca excavation site</unittitle>
+                        <unitdate>1941</unitdate>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Seneca excavation site" ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:3365">
+                        <daodesc>
+                            <p>Seneca excavation site, 1941 </p>
+                        </daodesc>
+                    </dao>
+                </c02>
+            </c01>
+            <c01 id="ref53" level="file">
+                <did>
+                    <unittitle>Irvine Mound group materials, Warren County, Pennsylvania</unittitle>
+                    <unitid>No.9a, part 1</unitid>
+                    <unitdate>1937</unitdate>
+                    <origination label="creator">
+                        <persname rules="aacr" source="naf">Cadzow, Donald A.</persname>
+                    </origination>
+                    <origination label="creator">
+                        <persname rules="aacr" source="local">Schoff, Harry L.</persname>
+                    </origination>
+                </did>
+                <scopecontent id="ref54">
+                    <head>Scope and Contents note</head>
+                    <p>Native American Images note: 19 black and white photographs, 50 black and white negatives of landscapes, excavation trenches, skeletal remains, tools, burial vaults at three ancient mounds at Irvine.</p>
+                </scopecontent>
+                <otherfindaid id="ref55">
+                    <head>Other Finding Aids note</head>
+                    <p>Freeman guide, #3238</p>
+                </otherfindaid>
+            </c01>
+            <c01 id="ref56" level="file">
+                <did>
+                    <unittitle>Irvine Mound group materials, Warren County, Pennsylvania</unittitle>
+                    <unitid>No.9a, part 2</unitid>
+                    <unitdate>1937</unitdate>
+                    <origination label="creator">
+                        <persname rules="aacr" source="naf">Cadzow, Donald A.</persname>
+                    </origination>
+                    <origination label="creator">
+                        <persname rules="aacr" source="local">Schoff, Harry L.</persname>
+                    </origination>
+                </did>
+                <scopecontent id="ref57">
+                    <head>Scope and Contents note</head>
+                    <p>Native American Images note: 5 ink sketches of diagrams of excavation sites of Irvine mound, Warren County, Pennsylvania and Nelson mound, Crawford County, Pennsylvania.</p>
+                </scopecontent>
+                <otherfindaid id="ref58">
+                    <head>Other Finding Aids note</head>
+                    <p>Freeman guide, #3238</p>
+                </otherfindaid>
+            </c01>
+            <c01 id="ref59" level="file">
+                <did>
+                    <unittitle>Irvine Mound group materials, Warren County, Pennsylvania</unittitle>
+                    <unitid>No.9b</unitid>
+                    <unitdate>1937</unitdate>
+                    <origination label="creator">
+                        <persname rules="aacr" source="naf">Cadzow, Donald A.</persname>
+                    </origination>
+                    <origination label="creator">
+                        <persname rules="aacr" source="local">Schoff, Harry L.</persname>
+                    </origination>
+                </did>
+                <scopecontent id="ref60">
+                    <head>Scope and Contents note</head>
+                    <p>Native American Images note: 3 ink sketches of diagrams of excavation sites; 25 black and white photographs of tools, arrowpoints, and plans of burial mounds.</p>
+                </scopecontent>
+                <otherfindaid id="ref61">
+                    <head>Other Finding Aids note</head>
+                    <p>Freeman guide, #3238</p>
+                </otherfindaid>
+            </c01>
+            <c01 id="ref62" level="file">
+                <did>
+                    <unittitle>Irvine Mound group materials, Warren County, Pennsylvania</unittitle>
+                    <unitid>No.9c</unitid>
+                    <unitdate>1937</unitdate>
+                    <origination label="creator">
+                        <persname rules="aacr" source="naf">Cadzow, Donald A.</persname>
+                    </origination>
+                    <origination label="creator">
+                        <persname rules="aacr" source="local">Schoff, Harry L.</persname>
+                    </origination>
+                </did>
+                <scopecontent id="ref63">
+                    <head>Scope and Contents note</head>
+                    <p>Native American Images note: 24 black and white photographs, 20 black and white negatives, 6 sketches of diagrams of the excavation of Nathaniel Mound. Images include landscapes, excavation trenches, burial sites, arrowpoints,</p>
+                </scopecontent>
+                <otherfindaid id="ref64">
+                    <head>Other Finding Aids note</head>
+                    <p>Freeman guide, #3238</p>
+                </otherfindaid>
+            </c01>
+            <c01 id="ref65" level="file">
+                <did>
+                    <unittitle>Nelson Mound materials</unittitle>
+                    <unitid>No.10</unitid>
+                    <unitdate>1938?</unitdate>
+                    <origination label="creator">
+                        <persname rules="aacr" source="local">Schoff, Harry L.</persname>
+                    </origination>
+                </did>
+                <scopecontent id="ref66">
+                    <head>Scope and Contents note</head>
+                    <p>Native American Images note: 2 black and white photographs, 4 maps of a small burial mound, diagrams and sketches of the central grave in Crawford County, Pennsylvania.</p>
+                </scopecontent>
+                <otherfindaid id="ref67">
+                    <head>Other Finding Aids note</head>
+                    <p>Freeman guide, #2695</p>
+                </otherfindaid>
+            </c01>
+            <c01 id="ref68" level="file">
+                <did>
+                    <unittitle>Book Mound materials</unittitle>
+                    <unitid>No.11</unitid>
+                    <unitdate>1929</unitdate>
+                    <origination label="creator">
+                        <persname rules="aacr" source="naf">Jones, Robert W. </persname>
+                    </origination>
+                </did>
+                <scopecontent id="ref69">
+                    <head>Scope and Contents note</head>
+                    <p>Native American Images note: 2 black and white photographs of mound in Beale township, Juniata County, Pennsylvania.</p>
+                </scopecontent>
+                <otherfindaid id="ref70">
+                    <head>Other Finding Aids note</head>
+                    <p>Freeman guide, #2689</p>
+                </otherfindaid>
+            </c01>
+            <c01 id="ref71" level="file">
+                <did>
+                    <unittitle>Archaeological explorations in Western Pennsylvania</unittitle>
+                    <unitid>No.12</unitid>
+                    <unitdate normal="1930/1935" type="inclusive">1930-1935</unitdate>
+                    <origination label="creator">
+                        <persname rules="aacr" source="naf">Cadzow, Donald A.</persname>
+                    </origination>
+                </did>
+                <scopecontent id="ref72">
+                    <head>Scope and Contents note</head>
+                    <p>Native American Images note: 15 photomechanical prints of photographs and sketches of pottery, excavation sites, and diagrams of finds at 28th Street site, Erie, Pennsylvania.</p>
+                </scopecontent>
+                <otherfindaid id="ref73">
+                    <head>Other Finding Aids note</head>
+                    <p>Freemna guide, #2675</p>
+                </otherfindaid>
+            </c01>
+            <c01 id="ref74" level="file">
+                <did>
+                    <unittitle>Letters to Cyrus Thomas</unittitle>
+                    <unitid>No.13</unitid>
+                    <unitdate>1886</unitdate>
+                    <origination label="creator">
+                        <persname rules="aacr" source="naf">Smith, Charles M. </persname>
+                    </origination>
+                </did>
+                <otherfindaid id="ref75">
+                    <head>Other Finding Aids note</head>
+                    <p>Freeman guide, #2697</p>
+                </otherfindaid>
+            </c01>
+            <c01 id="ref76" level="file">
+                <did>
+                    <unittitle>Spartansburg Mound materials</unittitle>
+                    <unitid>No.14</unitid>
+                    <unitdate normal="1934/1941" type="inclusive">1934-1941</unitdate>
+                    <materialspec id="ref78" label="Material Specific Details note">Freeman guide, #2679</materialspec>
+                    <origination label="creator">
+                        <persname rules="aacr" source="local">Carpenter, Edmund, 1922-2011</persname>
+                    </origination>
+                </did>
+                <scopecontent id="ref77">
+                    <head>Scope and Contents note</head>
+                    <p>Native American Images note: 24 black and white photographs, 5 black and white negatives, 17 ink sketches, 2 geological maps of the mound including images of artifacts, arrowheads, burial sites, tools, diagrams, and workers.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref79" level="file">
+                <did>
+                    <unittitle>Alleghany Valley materials</unittitle>
+                    <unitid>No.15</unitid>
+                    <unitdate>1941</unitdate>
+                    <origination label="creator">
+                        <persname rules="aacr" source="local">Carpenter, Edmund, 1922-2011</persname>
+                    </origination>
+                </did>
+                <scopecontent id="ref80">
+                    <head>Scope and Contents note</head>
+                    <p>Native American Images note: 4 black and white photographs, 2 black and white negatives, 8 pencil sketches of excavations sites in Warren, Forest and Erie Counties.</p>
+                </scopecontent>
+                <otherfindaid id="ref81">
+                    <head>Other Finding Aids note</head>
+                    <p>Freeman guide, #2676</p>
+                </otherfindaid>
+            </c01>
+            <c01 id="ref82" level="file">
+                <did>
+                    <unittitle>Darlington Mound report</unittitle>
+                    <unitid>No.16</unitid>
+                    <unitdate>1918</unitdate>
+                </did>
+                <scopecontent id="ref83">
+                    <head>Scope and Contents note</head>
+                    <p>Native American Images note: 1 black and white photograph, 1 ink sketch of skeletal remains, diagram of site finds at Guyasutha mound, Allegheny County, Pennsylvania.</p>
+                </scopecontent>
+                <otherfindaid id="ref84">
+                    <head>Other Finding Aids note</head>
+                    <p>Freeman guide, #2686</p>
+                </otherfindaid>
+            </c01>
+            <c01 id="ref85" level="file">
+                <did>
+                    <unittitle>Williams Mound report</unittitle>
+                    <unitid>No.17</unitid>
+                    <unitdate>1941</unitdate>
+                    <origination label="creator">
+                        <persname rules="aacr" source="naf">Biss, Wesley L.</persname>
+                    </origination>
+                </did>
+                <scopecontent id="ref86">
+                    <head>Scope and Contents note</head>
+                    <p>Native American Images note: 41 black and white photographs, 20 black and white negatives, 2 sketches of excavation trenches, diagrams of site near Croydon, Warren County, Pennsylvania.</p>
+                </scopecontent>
+                <otherfindaid id="ref87">
+                    <head>Other Finding Aids note</head>
+                    <p>Freeman guide, #2702</p>
+                </otherfindaid>
+            </c01>
+            <c01 id="ref88" level="file">
+                <did>
+                    <unittitle>A report...upon Clemson's Mound</unittitle>
+                    <unitid>No.18</unitid>
+                    <unitdate>1929?</unitdate>
+                    <origination label="creator">
+                        <persname rules="aacr" source="naf">Jones, Robert W. </persname>
+                    </origination>
+                </did>
+                <scopecontent id="ref89">
+                    <head>Scope and Contents note</head>
+                    <p>Native American Images note: 22 ink sketches of plans and finds at the excavation site on an island in the Susquehanna River, Dauphin County, Pennsylvania.</p>
+                </scopecontent>
+                <otherfindaid id="ref90">
+                    <head>Other Finding Aids note</head>
+                    <p>Freeman guide, #2690</p>
+                </otherfindaid>
+            </c01>
+            <c01 id="ref91" level="file">
+                <did>
+                    <unittitle>McKees Rock materials</unittitle>
+                    <unitid>No.19a, part 1</unitid>
+                    <unitdate>1939</unitdate>
+                    <origination label="creator">
+                        <persname rules="aacr" source="naf">Gerrodette, F.</persname>
+                    </origination>
+                </did>
+                <otherfindaid id="ref92">
+                    <head>Other Finding Aids note</head>
+                    <p>Freeman guide, #2691</p>
+                </otherfindaid>
+            </c01>
+            <c01 id="ref93" level="file">
+                <did>
+                    <unittitle>McKees Rock materials</unittitle>
+                    <unitid>No.19a, part 2</unitid>
+                    <unitdate>1939</unitdate>
+                    <origination label="creator">
+                        <persname rules="aacr" source="naf">Gerrodette, F.</persname>
+                    </origination>
+                </did>
+                <scopecontent id="ref94">
+                    <head>Scope and Contents note</head>
+                    <p>Native American Images note: 8 black and white photographs, 7 sketches of artifacts found including images of arrowheads, tools, skeletal remains, pottery, and maps and diagrams of finds.</p>
+                </scopecontent>
+                <otherfindaid id="ref95">
+                    <head>Other Finding Aids note</head>
+                    <p>Freeman guide, #2691</p>
+                </otherfindaid>
+            </c01>
+            <c01 id="ref96" level="file">
+                <did>
+                    <unittitle>McKees Rock materials</unittitle>
+                    <unitid>No.19b</unitid>
+                    <unitdate>1939</unitdate>
+                    <origination label="creator">
+                        <persname rules="aacr" source="naf">Gerrodette, F.</persname>
+                    </origination>
+                </did>
+                <otherfindaid id="ref97">
+                    <head>Other Finding Aids note</head>
+                    <p>Freeman guide, #2691</p>
+                </otherfindaid>
+            </c01>
+            <c01 id="ref99" level="file">
+                <did>
+                    <unittitle>Skeletal remains from the Sugar Run Mounds</unittitle>
+                    <unitid>No.20</unitid>
+                    <unitdate>1945</unitdate>
+                    <origination label="creator">
+                        <persname rules="aacr" source="naf">Stewart, T. D.,  (Thomas Dale), 1901-</persname>
+                    </origination>
+                </did>
+                <scopecontent id="ref100">
+                    <head>Scope and Contents note</head>
+                    <p>Native American Images note: 2 black and white photographs of skulls found at site in Warren County, Pennsylvania.</p>
+                </scopecontent>
+                <otherfindaid id="ref101">
+                    <head>Other Finding Aids note</head>
+                    <p>Freeman guide, #2699</p>
+                </otherfindaid>
+            </c01>
+            <c01 id="ref102" level="file">
+                <did>
+                    <unittitle>Sugar Run materials</unittitle>
+                    <unitid>No.21a</unitid>
+                    <unitdate>1940</unitdate>
+                </did>
+                <scopecontent id="ref103">
+                    <head>Scope and Contents note</head>
+                    <p>Native American Images note: 107 black and white photographs, 34 black and white negatives of excavation sites of Northwest Pennsylvania. Images include excavation sites, skeletal reamins, tools, Seneca Indian workers.</p>
+                </scopecontent>
+                <otherfindaid id="ref104">
+                    <head>Other Finding Aids note</head>
+                    <p>Freeman guide, #2700</p>
+                </otherfindaid>
+            </c01>
+            <c01 id="ref105" level="file">
+                <did>
+                    <unittitle>Sugar Run materials</unittitle>
+                    <unitid>No.21b</unitid>
+                    <unitdate>1940</unitdate>
+                </did>
+                <scopecontent id="ref106">
+                    <head>Scope and Contents note</head>
+                    <p>Native American Images note: 95 black and white photographs, 28 negatives of aerial views of the Alleghany Valley; near Kinzua, Pennsylvania; Cornplanter reservation; a fort near Pittsfield.</p>
+                </scopecontent>
+                <otherfindaid id="ref107">
+                    <head>Other Finding Aids note</head>
+                    <p>Freeman guide, #2700</p>
+                </otherfindaid>
+            </c01>
+            <c01 id="ref108" level="file">
+                <did>
+                    <unittitle>Sugar Run materials</unittitle>
+                    <unitid>No.21c</unitid>
+                    <unitdate>1940</unitdate>
+                </did>
+                <scopecontent id="ref109">
+                    <head>Scope and Contents note</head>
+                    <p>Native American Images note: 196 black and white photographs, 57 black and white negatives of excavation sites in Warren County, Pennsylvania. Images include fire hearths, burial sites, tools, arrowpoints, pottery, pipes, skeletal remains, Seneca Indian workers.</p>
+                </scopecontent>
+                <otherfindaid id="ref110">
+                    <head>Other Finding Aids note</head>
+                    <p>Freeman guide, #2700</p>
+                </otherfindaid>
+            </c01>
+            <c01 id="ref111" level="file">
+                <did>
+                    <unittitle>Sugar Run materials</unittitle>
+                    <unitid>No.21d</unitid>
+                    <unitdate>1940</unitdate>
+                </did>
+                <scopecontent id="ref112">
+                    <head>Scope and Contents note</head>
+                    <p>Native American Images note: 149 black and white photographs, 50 black and white negatives of excavations and mounds in Warren County, Pennsylvania. Images include mound construction, excavation trenches, cremation hearth, and Seneca Indian workers.</p>
+                </scopecontent>
+                <otherfindaid id="ref113">
+                    <head>Other Finding Aids note</head>
+                    <p>Freeman guide, #2700</p>
+                </otherfindaid>
+            </c01>
+            <c01 id="ref114" level="file">
+                <did>
+                    <unittitle>Southwest Pennsylvania materials</unittitle>
+                    <unitid>No.22</unitid>
+                    <unitdate normal="1937/1939" type="inclusive">1937-1939</unitdate>
+                    <origination label="creator">
+                        <famname source="ingest">Fisher, G. S.</famname>
+                    </origination>
+                </did>
+                <scopecontent id="ref115">
+                    <head>Scope and Contents note</head>
+                    <p>Native American Images note: 4 pencil sketches of diagrams of site finds, maps, Indian figure.</p>
+                </scopecontent>
+                <otherfindaid id="ref116">
+                    <head>Other Finding Aids note</head>
+                    <p>Freeman guide, #2687</p>
+                </otherfindaid>
+            </c01>
+            <c01 id="ref117" level="file">
+                <did>
+                    <unittitle>Reports</unittitle>
+                    <unitid>No.23</unitid>
+                    <unitdate normal="1931/1934" type="inclusive">1931-1934</unitdate>
+                    <origination label="creator">
+                        <persname rules="aacr" source="local">Schoff, Harry L.</persname>
+                    </origination>
+                </did>
+                <scopecontent id="ref118">
+                    <head>Scope and Contents note</head>
+                    <p>Native American Images note: 35 black and white photographs, 9 sketches of Wheatland mound, Kip Island site, Eagle Bluff site in Seneca County, New York. Images include arrowpoints, tools, pipes, maps and diagrams of site finds.</p>
+                </scopecontent>
+                <otherfindaid id="ref119">
+                    <head>Other Finding Aids note</head>
+                    <p>Freeman guide, #1226</p>
+                </otherfindaid>
+            </c01>
+            <c01 id="ref120" level="file">
+                <did>
+                    <unittitle>Vandalia Mound materials</unittitle>
+                    <unitid>No.24</unitid>
+                    <unitdate>1941</unitdate>
+                </did>
+                <scopecontent id="ref121">
+                    <head>Scope and Contents note</head>
+                    <p>Native American Images note: 1 black and white photograph, 6 sketches of tools and diagrams of site in Cattaraugus County, New York.</p>
+                </scopecontent>
+                <otherfindaid id="ref122">
+                    <head>Other Finding Aids note</head>
+                    <p>Freeman guide, #1241</p>
+                </otherfindaid>
+            </c01>
+            <c01 id="ref123" level="file">
+                <did>
+                    <unittitle>Materials on the 28th Street site and Wesleyville site, Erie County, Pennsylvania</unittitle>
+                    <unitid>No.25</unitid>
+                    <unitdate>1934</unitdate>
+                    <origination label="creator">
+                        <persname rules="aacr" source="local">Carpenter, Edmund, 1922-2011</persname>
+                    </origination>
+                </did>
+                <scopecontent id="ref124">
+                    <head>Scope and Contents note</head>
+                    <p>Native American Images note: 96 black and white photographs, 15 sketches of tools, skeletal remains, landscapes, excavation sites, jewelry, arrowpoints, pottery, pipes, Seneca Indian workers. Also, diagrams of Fort Hill, Gower, Recker, Peck, Troutman, Emerick, Powell, Martin, Phillips sites.</p>
+                </scopecontent>
+                <otherfindaid id="ref125">
+                    <head>Other Finding Aids note</head>
+                    <p>Freeman guide, #2680</p>
+                </otherfindaid>
+            </c01>
+            <c01 id="ref126" level="file">
+                <did>
+                    <unittitle>Reports of Pennsylvania Archaeological survey</unittitle>
+                    <unitid>No.26</unitid>
+                    <unitdate>1929</unitdate>
+                    <origination label="creator">
+                        <persname source="ingest">Skinner, Dorothy P.</persname>
+                    </origination>
+                </did>
+                <scopecontent id="ref127">
+                    <head>Scope and Contents note</head>
+                    <p>Native American Images note: 1 geological map, 5 ink sketches of rock shelter at Miller township, Perry County, Pennsylvania.</p>
+                </scopecontent>
+                <otherfindaid id="ref128">
+                    <head>Other Finding Aids note</head>
+                    <p>Freeman guide, #3239</p>
+                </otherfindaid>
+            </c01>
+            <c01 id="ref129" level="file">
+                <did>
+                    <unittitle>Profiles of Sugar Run sites</unittitle>
+                    <unitid>No.27</unitid>
+                    <unitdate normal="1939/1941" type="inclusive">1939-1941</unitdate>
+                </did>
+                <otherfindaid id="ref130">
+                    <head>Other Finding Aids note</head>
+                    <p>Freeman guide, #2693</p>
+                </otherfindaid>
+            </c01>
+            <c01 id="ref131" level="file">
+                <did>
+                    <unittitle>Photographs of sites and artifacts of Fort Hill, Martin, Phillips, and other locations</unittitle>
+                    <unitid>No.28</unitid>
+                    <unitdate>1941</unitdate>
+                    <origination label="creator">
+                        <persname rules="aacr" source="local">Cresson, Francis C.</persname>
+                    </origination>
+                </did>
+                <scopecontent id="ref132">
+                    <head>Scope and Contents note</head>
+                    <p>Native American Images note: 60 black and white photographs, 27 negatives, 15 sketches, 6 photomechanical prints of excavation sites, skeletal remains, pottery, tools, pipes, and aerial views of the Southwest Pennsylvania woodlands excavation sites.</p>
+                </scopecontent>
+                <otherfindaid id="ref133">
+                    <head>Other Finding Aids note</head>
+                    <p>Freeman guide, #2685</p>
+                </otherfindaid>
+                <c02 id="ref138" level="item">
+                    <did>
+                        <unittitle>Iroquois artifacts</unittitle>
+                        <unitdate>1941</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="local">Cresson, Francis C.</persname>
+                        </origination>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Iroquois artifacts" ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:3367">
+                        <daodesc>
+                            <p>Iroquois artifacts, 1941 </p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref139" level="item">
+                    <did>
+                        <unittitle>Iroquois effigy pipe</unittitle>
+                        <unitdate>1941</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Pfirman, Kenneth R.</persname>
+                        </origination>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Iroquois effigy pipe" ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:3368">
+                        <daodesc>
+                            <p>Iroquois effigy pipe, 1941 </p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref140" level="item">
+                    <did>
+                        <unittitle>Iroquois excavation site</unittitle>
+                        <unitdate>1934</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Woodruff, D. E.</persname>
+                        </origination>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Iroquois excavation site" ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:3363">
+                        <daodesc>
+                            <p>Iroquois excavation site, 1934 </p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref141" level="item">
+                    <did>
+                        <unittitle>Iroquois pottery</unittitle>
+                        <unitdate>1934</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Cadzow, Donald A.</persname>
+                        </origination>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Iroquois pottery" ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:3364">
+                        <daodesc>
+                            <p>Iroquois pottery, 1934 </p>
+                        </daodesc>
+                    </dao>
+                </c02>
+            </c01>
+            <c01 id="ref134" level="file">
+                <did>
+                    <unittitle>Field drawings from the Sick site, South Towanda, Bradford County, Pennsylvania</unittitle>
+                    <unitid>No.29</unitid>
+                    <unitdate>1948</unitdate>
+                    <origination label="creator">
+                        <persname rules="aacr" source="naf">Witthoft, John, 1921-</persname>
+                    </origination>
+                </did>
+                <scopecontent id="ref135">
+                    <head>Scope and Contents note</head>
+                    <p>Native American Images note: 1 ink sketch, 51 bluprints of locations of skeletal remains.</p>
+                </scopecontent>
+                <otherfindaid id="ref136">
+                    <head>Other Finding Aids note</head>
+                    <p>Freeman guide, #2703</p>
+                </otherfindaid>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

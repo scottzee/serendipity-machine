@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.B813-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.B813</num>
+                </titleproper>
+                <author>Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:54-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>David J. Brown papers, 1860-1876</unittitle>
+            <unitid>Mss.B.B813</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid372" type="Box" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>0.5 Linear feet</extent>
+                <extent>158 items</extent>
+            </physdesc>
+            <unitdate normal="1860/1876" type="inclusive">1860-1876</unitdate>
+            <physdesc id="ref4" label="General Physical Description note">158 items.</physdesc>
+            <abstract id="ref1" label="Abstract">This collection centers on Brown's geological investigations in various areas of Scotland and England concerning fossils, geological formations, deposits, etc. His activity in the Edinburgh Geological Society is documented in the letters and in newspaper clippings. Several of the letters contain diagrams, also geological maps (manuscript and printed) of Edinburgh and its environs, drawn by Charles Lapworth.</abstract>
+            <physloc id="ref23" label="Paging">LH-MV-C-2; LH-SB-Black Case-26 (Maps, OS)</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Brown, David J.</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Brown, John Allen, 1831-1903</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Davidson, Thomas, 1817-1885</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Hughes, Thomas McKenny, 1832-1917</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Lapworth, Charles, 1842-1920</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">McChesney, J. H.</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Page, David, 1814-1879</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Thomson, James, 1823-1900</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Woodward, Henry, 1832-1921</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref3">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Purchased from Zeitlin &amp; Ver Brugge Booksellers ($950.00) and accessioned, 5/13/1969 (1969 762ms).</p>
+        </acqinfo>
+        <bioghist id="ref2">
+            <head>Biographical/Historical note</head>
+            <p>Geologist David J. Brown played an active role in the Edinburgh Geological Society. He read many papers before the society and acted as conductor on their expeditions.</p>
+            <p></p>
+        </bioghist>
+        <processinfo id="ref21">
+            <head>Processing Information note</head>
+            <p>Only maps are noted.</p>
+        </processinfo>
+        <controlaccess>
+            <corpname rules="aacr" source="naf">Edinburgh Geological Society.</corpname>
+            <genreform source="lcsh">Clippings.</genreform>
+            <subject source="lcsh">Fossils -- Collection and preservation.</subject>
+            <subject source="lcsh">Geology -- Research -- England.</subject>
+            <subject source="lcsh">Geology -- Research -- Scotland.</subject>
+            <genreform source="lcsh">Maps.</genreform>
+            <subject source="lcsh">Paleontology -- Scotland -- Pentland Hills -- Silurian.</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref5" level="otherlevel">
+                <did>
+                    <unittitle>Maps</unittitle>
+                </did>
+                <c02 id="ref6" level="item">
+                    <did>
+                        <unittitle>Geological map of the plain of Cumberland, England, showing the Pennine fault and the Eden River</unittitle>
+                        <physdesc>
+                            <extent>1 map, 39.4 x 25.4 cm</extent>
+                        </physdesc>
+                        <unitdate>11 April 1867</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="local" role="Cartographer (ctg)">Lowthian, Joseph</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref7">
+                        <head>Scope and Contents note</head>
+                        <p>Realms of Gold, 7 (1).</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref8" level="item">
+                    <did>
+                        <unittitle>Western Peebles-Shire showing the calcareous beds of the Wrae Hill, Glencotho and Kilbucho</unittitle>
+                        <physdesc>
+                            <extent>1 map, 14 x 19.7 cm</extent>
+                        </physdesc>
+                        <unitdate>24 April 1871</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf" role="Cartographer (ctg)">Lapworth, Charles, 1842-1920</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref9">
+                        <head>Scope and Contents note</head>
+                        <p>Colored. Realms of Gold, 7 (2).</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref11" level="item">
+                    <did>
+                        <unittitle>Catchment basin of Saint Mary's Loch [Scotland]</unittitle>
+                        <physdesc>
+                            <extent>1 map, 20.3 x 23.5 cm</extent>
+                        </physdesc>
+                        <unitdate>7 July 1871</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf" role="Cartographer (ctg)">Lapworth, Charles, 1842-1920</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref12">
+                        <head>Scope and Contents note</head>
+                        <p>Realms of Gold, 7 (3).</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref13" level="item">
+                    <did>
+                        <unittitle>Geological map of the neighborhood of Galashiels, Scotland</unittitle>
+                        <physdesc>
+                            <extent>1 map, 14 x 20.3 cm</extent>
+                        </physdesc>
+                        <unitdate>n.d.</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf" role="Cartographer (ctg)">Brown, David J.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref14">
+                        <head>Scope and Contents note</head>
+                        <p>Realms of Gold, 7 (4).</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref18" level="item">
+                    <did>
+                        <unittitle>Moorfoot Hills, Scotland</unittitle>
+                        <physdesc>
+                            <extent>1 map, 37.5 x 28.6 cm</extent>
+                        </physdesc>
+                        <unitdate>n.d.</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf" role="Cartographer (ctg)">Brown, David J.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref19">
+                        <head>Scope and Contents note</head>
+                        <p>Colored. Realms of Gold, 7 (6).</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref15" level="item">
+                    <did>
+                        <unittitle>North Esk reservoir</unittitle>
+                        <physdesc>
+                            <extent>1 map, 20.3 x 14 cm</extent>
+                        </physdesc>
+                        <unitdate>n.d.</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf" role="Cartographer (ctg)">Brown, David J.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref16">
+                        <head>Scope and Contents note</head>
+                        <p>Colored. Realms of Gold, 7 (5).</p>
+                    </scopecontent>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

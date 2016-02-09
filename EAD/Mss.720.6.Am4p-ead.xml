@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.720.6.Am4p-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.720.6.Am4p</num>
+                </titleproper>
+                <author>Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:22-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>American Institute of Architects. Philadelphia Chapter. Records, 1869-1910</unittitle>
+            <unitid>Mss.720.6.Am4p</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid122" type="Volume" label="Manuscripts">1-7</container>
+            <physdesc>
+                <extent>7.0 Volume(s)</extent>
+            </physdesc>
+            <unitdate normal="1869/1910" type="inclusive">1869-1910</unitdate>
+            <physdesc id="ref3" label="General Physical Description note">7 volumes.</physdesc>
+            <physloc id="ref4" label="Paging">Athenaeum of Philadelphia</physloc>
+            <origination label="creator">
+                <corpname rules="aacr" source="naf" role="Author (aut)">American Institute of Architects. Philadelphia Chapter.</corpname>
+            </origination>
+        </did>
+        <custodhist id="ref2">
+            <head>Custodial History note</head>
+            <p>Deposited by the Philadelphia Chapter, 1965; transferred to the Athenaeum of Philadelphia, 16 December 1986.</p>
+        </custodhist>
+        <controlaccess>
+            <subject source="lcsh">Architecture -- Pennsylvania -- Philadelphia.</subject>
+            <genreform source="lcsh">Minutes.</genreform>
+            <genreform source="lcsh">Receipt books.</genreform>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

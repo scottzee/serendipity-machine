@@ -1,0 +1,2312 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.F86l-ead.xml">PUBLIC "-//American Philosophical Society Library//TEXT(US::PAAV::B F86L:: William Temple Franklin-Charles Pemberton Fox Legal Records)//EN" "wtfcpfox.xml"</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>William Temple Franklin-Charles Pemberton Fox Legal Records
+                    <date type="span">1692-1881</date>
+                    <num>Mss.B.F86L</num>
+                </titleproper>
+                <sponsor>Encoding made possible by a grant by the Gladys Krieble Delmas Foundation, 2003.</sponsor>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+                <date>4/2003</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T19:27-0400</date>
+            </creation>
+            <langusage>ENG</langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>William Temple Franklin-Charles Pemberton Fox Legal Records</unittitle>
+            <unitid>Mss.B.F86L</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>2.0 Linear feet</extent>
+            </physdesc>
+            <unitdate normal="1692/1881" type="inclusive">1692-1881</unitdate>
+            <abstract id="ref2" label="Abstract">Associates of Benjamin Franklin and his grandson William Temple Franklin, the Fox family of Philadelphia were holders of considerable property in Philadelphia during the eighteenth century and speculated extensively in lands in the northern and western parts of the state. The son of Dr. George Fox, Charles Pemberton Fox inherited the estate Champlost at which the papers of Benjamin Franklin were left in 1790. He donated the collection to the American Philosophical Society in 1840. 
+                <lb/>The legal records that comprise the William Temple Frankln-Charles Pemberton Fox collection relate to real property held by members of the Fox family and to the land holdings and financial interests of George Fox's close friend, William Temple Franklin. The collection includes about 100 deeds for properties in or near Philadelphia and in Luzerne County, Pa., along with a small quantity (about 31 items) of miscellaneous correspondence addressed to George Fox by Gouverneur Morris, Robert Morris, N. Cantwell Jones, Thomas Eddy, and others; and from William Constable and Sir Robert Herries and Co. (17 pieces) relating to the investments of William Temple Franklin.</abstract>
+            <physdesc id="ref1" label="General Physical Description note">2 linear feet</physdesc>
+            <physloc id="ref243" label="Paging">LH-MV-D-8; LH-SB-Black Case-27 (OS)</physloc>
+            <origination label="creator">
+                <famname rules="aacr" source="local" role="Author (aut)">Fox family</famname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Franklin, William Temple, 1760-1823</persname>
+            </origination>
+        </did>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>Associates and friends of Benjamin Franklin and his family, the Fox family came to Philadelphia in 1686, when the Quaker convert Justinian Fox (1673-1718) arrived aboard the 
+                <emph render="italic">Desire</emph> from his native Plymouth, England. Justinian's son Joseph Fox (ca.1710-1779) prospered after taking an apprenticeship with the carpenter James Portues, a founder of the Carpenters' Company, acquiring substantial property holdings in the city and serving in offices ranging from City Commissioner to Member of the Pennsylvania Assembly, including two stints as Speaker and one as a member of the Committee of Correspondence, a group responsible for communications with the colony's Agents in London, Benjamin Franklin and Richard Jackson. Read out of the Philadelphia Yearly Meeting in 1756 for refusal to withdraw from public office, and for "having violated our testimony against war," Fox's principaled refusal to accept Continental money for debts owed him in 1775 fueled rumors that he held Loyalist sympathies during the Revolution. He was a member of the revived American Philosophical Society at the time its merger with the American Society in 1769.</p>
+            <p>Joseph and his wife Elizabeth Mickle (1729-1805) had thirteen children, of whom only six survived to adulthood. These six, however, continued the family's prosperity. Their daughter Thomazine Fox (1748-1821) married into the Roberts family, while sons George (1759-1828) and Samuel Mickel Fox I (1763-1808) distinguished themselves in business and intellect. George, who was elected a member of the American Philosophical Society in 1784, represented Philadelphia in the Assembly in 1800, and was widely known as an organizer and director of the Delaware and Chesapeake Canal and as one of the early supporters of the bank of North America, of which he was Director from 1818 until 1828. He traveled extensively in France in the 1770s and 1780s, nearly dying at the chateau of the Comte de Champlost in 1780. He named his estate Champlost, built on the property that his grandfather Justinian Fox had inherited from James Portues.</p>
+            <p>Samuel Mickle Fox I served in a number of public offices, including the City Council, the Common Council (1793-1797), and the Upper Chamber (1797-1800), and he was both an incorporator of the Bank of Pennsylvania and its President from 1797-1808. After the Indian treaties of 1784 and 1785, Samuel and his brother George acquired immense tracts of land in northwestern Pennsylvania near the Allegheny River north of the Clarion that were patented in 1796. At his death, Samuel held 118,000 acres.</p>
+            <p>Samuel's son George (1806-1882) was born in a house on the southeast corner of 5th and Chestnut Streets in Philadelphia. He studied medicine at the University of Pennsylvania, graduating with an AB in 1825 and MD in 1828. A prominent surgeon and Fellow of the College of Physicians, Fox was a member of the delegation from the College of Physicians to the organizing convention of the American Medical Association in 1847.</p>
+        </bioghist>
+        <scopecontent id="ref4">
+            <head>Scope and Contents note</head>
+            <p>The legal records that comprise the William Temple Franklin-Charles Pemberton Fox collection relate to real property held by members of the Fox family and to the land holdings and financial interests of George Fox's close friend, William Temple Franklin. The collection includes about 100 deeds for properties in or near Philadelphia and in Luzerne County, Pa., along with a small quantity (about 31 items) of miscellaneous correspondence addressed to George Fox by Gouverneur Morris, Robert Morris, N. Cantwell Jones, Thomas Eddy, and others; and from William Constable and Sir Robert Herries and Co. (17 pieces) relating to the investments of William Temple Franklin.</p>
+            <p>Individuals named in these deeds include Joseph Fox, George Fox, Samuel Mickle Fox, Charles Pemberton Fox, and other members of their families on the one hand, and on the other, Mary Ball, Edward Shippen Burd, George Clymer, Gavin Hamilton, Henry Hill, John Lukens, Samuel Mickle, Israel Pemberton, Samuel Pleasants, Samuel Rhoads, Jr., Robert Strettell, William Wallace, Nicholas Waln. The documents consist primarily of deeds, but include a few mortgages, leases, and other instruments.</p>
+        </scopecontent>
+        <relatedmaterial id="ref5">
+            <head>Related Archival Materials note</head>
+            <p>Several other collections at the APS relate to William Temple Franklin, including: 
+                <list type="simple">
+                    <item>
+                        <extref ns2:actuate="onLoad" ns2:show="new" ns2:href="view?docId=ead/Mss.B.F86-ead.xml">
+                            <emph render="bold"> William Temple Franklin Papers </emph> </extref> </item>
+                    <item>
+                        <extref ns2:actuate="onLoad" ns2:show="new" ns2:href="view?docId=ead/Mss.B.F86f-ead.xml">
+                            <emph render="bold">William Temple Franklin-George Fox Collection </emph> </extref> </item>
+                </list></p>
+        </relatedmaterial>
+        <prefercite id="ref7">
+            <head>Preferred Citation note</head>
+            <p>Cite as: William Temple Franklin-Charles Pemberton Fox Legal Records, American Philosophical Society.</p>
+        </prefercite>
+        <acqinfo id="ref8">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Gift of Charles Pemberton Fox, 1840.</p>
+        </acqinfo>
+        <processinfo id="ref9">
+            <head>Processing Information note</head>
+            <p>Recatalogued and encoded by rsc, April 2003.</p>
+        </processinfo>
+        <odd id="ref242">
+            <head>Early American History Note</head>
+            <p>This portion of the Fox Family Collection at the APS contains information on their land holdings in western and northern Pennsylvania during the 19th century, some of which relate to the interests of William Temple Franklin.</p>
+        </odd>
+        <controlaccess>
+            <persname source="ingest">Armstrong, George</persname>
+            <persname source="ingest">Ashmead, John, ca.1715-1751</persname>
+            <persname source="ingest">Ball, Mary</persname>
+            <persname source="ingest">Burd, Edward Shippen</persname>
+            <persname source="ingest">Clymer, George, 1739-1813</persname>
+            <persname source="ingest">Constable, James</persname>
+            <persname source="ingest">Constable, William</persname>
+            <persname source="ingest">Eddy, Thomas, 1758-1827</persname>
+            <persname source="ingest">Fox, Charles Pemberton, 1792-1866</persname>
+            <persname rules="aacr" source="local">Fox, George, 1759-1828</persname>
+            <persname source="ingest">Fox, Joseph, ca.1710-1779</persname>
+            <persname source="ingest">Fox, Samuel Mickle, 1763-1808</persname>
+            <persname source="ingest">Hamilton, Gavin</persname>
+            <persname source="naf">Hill, Henry, 1732-1798</persname>
+            <persname source="ingest">Jones, N. Cantwell</persname>
+            <persname source="ingest">Lukens, John, 1720-1789</persname>
+            <persname rules="aacr" source="naf">Mickle, Samuel </persname>
+            <persname source="naf">Morris, Gouverneur, 1752-1816</persname>
+            <persname source="ingest">Morris, Robert, 1734-1820</persname>
+            <persname source="ingest">Palmer, Joseph</persname>
+            <persname source="ingest">Pemberton, Israel, 1715-1779</persname>
+            <persname source="ingest">Penn, William,1644-1718.</persname>
+            <persname source="ingest">Pleasants, Samuel</persname>
+            <persname source="ingest">Rhoads, Samuel, Jr.</persname>
+            <persname source="ingest">Strettell, Robert</persname>
+            <persname source="ingest">Tunis, Eliza M. P.</persname>
+            <persname source="ingest">Wallace, William</persname>
+            <persname source="ingest">Waln, Nicholas, 1742-1813</persname>
+            <genreform source="leah">Business Records and Accounts</genreform>
+            <subject source="leah">Land and Speculation</subject>
+            <subject source="leah">Law</subject>
+            <genreform source="leah">Legal Records</genreform>
+            <genreform source="leah">Maps and Surveys</genreform>
+            <subject source="ingest">Real property--Pennsylvania</subject>
+            <subject source="leah">Surveying and Maps</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref10" level="collection">
+                <did>
+                    <unittitle>William Temple Franklin-Charles Pemberton Fox Legal Records</unittitle>
+                    <unitdate>1731-1793</unitdate>
+                    <physdesc id="ref11" label="General Physical Description note">2 lin. feet</physdesc>
+                </did>
+                <c02 id="ref12" level="item">
+                    <did>
+                        <unittitle>Deed to Samuel Mickle</unittitle>
+                        <container id="cid114573" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1731 Jan. 6</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Armstrong, George and Rachel</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref13" level="item">
+                    <did>
+                        <unittitle>Deed to Samuel Mickle</unittitle>
+                        <container id="cid114572" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1731 Jan. 6</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Armstrong, George and Rachel</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref14" level="item">
+                    <did>
+                        <unittitle>Deed to Samuel Mickle</unittitle>
+                        <container id="cid114571" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1731 Jan. 7</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Armstrong, George</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref15" level="item">
+                    <did>
+                        <unittitle>Deed to Thomas Carval</unittitle>
+                        <container id="cid114570" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1745 May 18</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Ashmead, John and Anne</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref16" level="item">
+                    <did>
+                        <unittitle>Deed to Thomas Carval</unittitle>
+                        <container id="cid114569" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1745 May 18</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Ashmead, John and Anne</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref17" level="item">
+                    <did>
+                        <unittitle>Deed to Thomas Carval</unittitle>
+                        <container id="cid114568" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1746/7 Feb. 6</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Ashmead, John and Anne</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref18" level="item">
+                    <did>
+                        <unittitle>Deed to Barrack Wright</unittitle>
+                        <container id="cid114567" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1745 May 21</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Ashmead, John and Anne</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref19" level="item">
+                    <did>
+                        <unittitle>Deed to Peter Rich</unittitle>
+                        <container id="cid114566" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1704 April 17</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Baker, John</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref20" level="item">
+                    <did>
+                        <unittitle>Deed to Joseph Fox</unittitle>
+                        <container id="cid114565" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1741 March 17</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Ball, Mary</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref21" level="item">
+                    <did>
+                        <unittitle>to Charles Hare</unittitle>
+                        <container id="cid114564" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1802 August 16</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Bingham, William</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref22" level="item">
+                    <did>
+                        <unittitle>Deed to Job Goodson</unittitle>
+                        <container id="cid114563" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1724 Oct. 20</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Bolton, Prudence, et al.</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref23" level="item">
+                    <did>
+                        <unittitle>Deed to Joseph Fox</unittitle>
+                        <container id="cid114562" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1766 June 12</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Brechel, Andrew and Elizabeth</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref24" level="item">
+                    <did>
+                        <unittitle>Deed to Charles Pemberton Fox and Eliza M. P. Tunis</unittitle>
+                        <container id="cid114561" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1829 July 9</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Browne, Peter A</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref25" level="item">
+                    <did>
+                        <unittitle>Deed to George Fox</unittitle>
+                        <container id="cid114560" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1810 Aug. 16</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Burd, Edward Shippen</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref26" level="item">
+                    <did>
+                        <unittitle>to R. H. Rose</unittitle>
+                        <container id="cid114559" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1832 May 21</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Burnside, Judge</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref27" level="item">
+                    <did>
+                        <unittitle>Deed to Richard Hill</unittitle>
+                        <container id="cid114558" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1724, June 11</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Calvert, George and Mary</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref28" level="item">
+                    <did>
+                        <unittitle>Deed to Ebenezer Large</unittitle>
+                        <container id="cid114557" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1713 June 4</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Carpenter, Joshua</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref29" level="item">
+                    <did>
+                        <unittitle>Deed to Robert Jordan</unittitle>
+                        <container id="cid114556" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1742 April 10</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Carpenter, Joshua and Bridget</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref30" level="item">
+                    <did>
+                        <unittitle>Deed to William Bissell</unittitle>
+                        <container id="cid114555" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1721 April 29</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Carpenter, Joshua and Elizabeth</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref31" level="item">
+                    <did>
+                        <unittitle>Deed to John Luchen</unittitle>
+                        <container id="cid114554" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1751 Nov. 9</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Cart, John</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref32" level="item">
+                    <did>
+                        <unittitle>Deed to Samuel McCall</unittitle>
+                        <container id="cid114553" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1749 Aug. 24</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Carvell, Thomas and Dirck Kyser</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref33" level="item">
+                    <did>
+                        <unittitle>Deed to Samuel Mickle</unittitle>
+                        <container id="cid114552" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1730 Feb 12</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Chapman, Henry</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref34" level="item">
+                    <did>
+                        <unittitle>Deed to Amalia Morgan</unittitle>
+                        <container id="cid114551" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1723/4 Jan. 3</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Church, Edward and Mary</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref35" level="item">
+                    <did>
+                        <unittitle>Deed to Amalia and Benjamin Morgan</unittitle>
+                        <container id="cid114550" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1723/4 Jan. 4</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Church, Edward and Mary</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref36" level="item">
+                    <did>
+                        <unittitle>Deed to Charles and Hester Pemberton</unittitle>
+                        <container id="cid114549" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1771 Oct. 23</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Clymer, George and Elizabeth</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref37" level="item">
+                    <did>
+                        <unittitle>Deed to John Ashmead</unittitle>
+                        <container id="cid114548" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1723 March 2</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Conders, Tunis</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref38" level="item">
+                    <did>
+                        <unittitle>Deed to John Ashmead</unittitle>
+                        <container id="cid114547" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1723 March 3</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Conders, Tunis</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref39" level="item">
+                    <did>
+                        <unittitle>to George Fox</unittitle>
+                        <container id="cid114546" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1791 Sept. 18</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Constable, William</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref40" level="item">
+                    <did>
+                        <unittitle>to George Fox</unittitle>
+                        <container id="cid114545" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1791 Sept. 8</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Constable, William and James</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref41" level="item">
+                    <did>
+                        <unittitle>to [George Fox]</unittitle>
+                        <container id="cid114544" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1791 Oct. 4</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Constable, William and James</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref42" level="item">
+                    <did>
+                        <unittitle>to George Fox</unittitle>
+                        <container id="cid114543" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1791 Oct. 24</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Constable, William and James</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref43" level="item">
+                    <did>
+                        <unittitle>to George Fox</unittitle>
+                        <container id="cid114542" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1792 Jan. 25</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Constable, William and James</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref44" level="item">
+                    <did>
+                        <unittitle>to George Fox</unittitle>
+                        <container id="cid114541" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1792 Feb. 9</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Constable, William and James</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref45" level="item">
+                    <did>
+                        <unittitle>to George Fox</unittitle>
+                        <container id="cid114540" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1792 June 11</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Constable, William and James</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref46">
+                        <head>Scope and Contents note</head>
+                        <p>Also, copy of reply, July 7 1792.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref47" level="item">
+                    <did>
+                        <unittitle>to George Fox</unittitle>
+                        <container id="cid114539" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1792 July 12</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Constable, William and James</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref48" level="item">
+                    <did>
+                        <unittitle>Deed with Miers Buck and Charles Pemberton Fox</unittitle>
+                        <container id="cid114538" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1848 June 7</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Davis, Thomas</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref49" level="item">
+                    <did>
+                        <unittitle>Deed to Joseph Palmer</unittitle>
+                        <container id="cid114537" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1764 Nov. 1</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Davis, Thomas and Deborah</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref50" level="item">
+                    <did>
+                        <unittitle>to George Fox</unittitle>
+                        <container id="cid114536" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1794 Nov. 17</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Drinker, Henry</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref51" level="item">
+                    <did>
+                        <unittitle>to George Fox</unittitle>
+                        <container id="cid114535" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1798 June 25</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Eddy, Thomas, 1758-1827</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref52" level="item">
+                    <did>
+                        <unittitle>Deed to Samuel Rhoads, Jr. of Joseph Palmer's Property</unittitle>
+                        <container id="cid114534" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1770 Dec. 22</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Ellicott, Joseph, Sheriff</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref53" level="item">
+                    <did>
+                        <unittitle>Deed to Samuel Mickle</unittitle>
+                        <container id="cid114533" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1731 Jan. 6</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Armstrong, George and Rachel</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref54" level="item">
+                    <did>
+                        <unittitle>Deed to Samuel Mickle</unittitle>
+                        <container id="cid114532" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1731 Jan. 6</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Armstrong, George and Rachel</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref55" level="item">
+                    <did>
+                        <unittitle>Deed to Samuel Mickle</unittitle>
+                        <container id="cid114531" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1731 Jan 7</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Armstrong, George</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref56" level="item">
+                    <did>
+                        <unittitle>Deed to Thomas Carval</unittitle>
+                        <container id="cid114530" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1745 May 18</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Ashmead, John and Anne</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref57" level="item">
+                    <did>
+                        <unittitle>Deed to Thomas Carval</unittitle>
+                        <container id="cid114529" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1745 May 18</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Ashmead, John and Anne</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref58" level="item">
+                    <did>
+                        <unittitle>Deed to Thomas Carvel</unittitle>
+                        <container id="cid114528" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1746/7 Feb. 6</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Ashmead, John and Anne</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref59" level="item">
+                    <did>
+                        <unittitle>Deed to Barrack Wright</unittitle>
+                        <container id="cid114527" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1745 May 21</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Ashmead, John and Anne</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref60" level="item">
+                    <did>
+                        <unittitle>Deed to Peter Rich</unittitle>
+                        <container id="cid114526" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1704 April 17</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Baker, John</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref61" level="item">
+                    <did>
+                        <unittitle>Deed to Joseph Fox</unittitle>
+                        <container id="cid114525" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1741 March 17</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Ball, Mary</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref62" level="item">
+                    <did>
+                        <unittitle>to Charles Hare</unittitle>
+                        <container id="cid114524" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1802 August 16</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Bingham, William</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref63" level="item">
+                    <did>
+                        <unittitle>Deed to Job Goodson</unittitle>
+                        <container id="cid114523" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1724 Oct. 20</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Bolton, Prudence, et al.</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref64" level="item">
+                    <did>
+                        <unittitle>Deed to Joseph Fox</unittitle>
+                        <container id="cid114522" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1766 June 12</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Brechel, Andrew and Elizabeth</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref65" level="item">
+                    <did>
+                        <unittitle>Deed to Charles Pemberton Fox and Eliza M P Tunis</unittitle>
+                        <container id="cid114521" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1829 July 9</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Browne, Peter A</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref66" level="item">
+                    <did>
+                        <unittitle>Deed to George Fox</unittitle>
+                        <container id="cid114520" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1810 Aug. 16</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Burd, Edward Shippen</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref67" level="item">
+                    <did>
+                        <unittitle>to R. H. Rose</unittitle>
+                        <container id="cid114519" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1832 May 21</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Burnside, Judge</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref68">
+                        <head>Scope and Contents note</head>
+                        <p>See also Rose, R.H. to Joseph R Ingersoll and William Miller; June 5.1832.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref69" level="item">
+                    <did>
+                        <unittitle>Deed to Richard Hill</unittitle>
+                        <container id="cid114518" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1724 June 11</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Calvert, George and Mary</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref70" level="item">
+                    <did>
+                        <unittitle>Deed to Ebenezer Large</unittitle>
+                        <container id="cid114517" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1713 June 4</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Carpenter, Joshua</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref71" level="item">
+                    <did>
+                        <unittitle>Deed to Robert Jordan</unittitle>
+                        <container id="cid114516" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1742 April 10</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Carpenter, Joshua and Bridget</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref72" level="item">
+                    <did>
+                        <unittitle>Deed to William Bissell</unittitle>
+                        <container id="cid114515" type="Box" label="Mixed materials">1</container>
+                        <unitdate>17 April 29</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Carpenter, Joshua and Elizabeth</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref73" level="item">
+                    <did>
+                        <unittitle>Deed to John Luchen</unittitle>
+                        <container id="cid114514" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1751 Nov. 9</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Cart, John</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref74" level="item">
+                    <did>
+                        <unittitle>Deed to Samuel McCall</unittitle>
+                        <container id="cid114513" type="Box" label="Mixed materials">1</container>
+                        <unitdate>174 Aug. 24</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Carvell, Thomas and Dirck Kyser</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref75" level="item">
+                    <did>
+                        <unittitle>Deed to Samuel Mickle</unittitle>
+                        <container id="cid114512" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1730 Feb. 12</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Chapman, Henry</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref76" level="item">
+                    <did>
+                        <unittitle>Deed to Amalia Morgan</unittitle>
+                        <container id="cid114511" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1723/4 Jan. 3</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Church, Edward and Mary</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref77" level="item">
+                    <did>
+                        <unittitle>Deed to Amalia and Benjamin Morgan</unittitle>
+                        <container id="cid114510" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1723/4 Jan. 4</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Church, Edward and Mary</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref78" level="item">
+                    <did>
+                        <unittitle>Deed to Charles and Hester Pemberton</unittitle>
+                        <container id="cid114509" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1771 Oct. 23</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Clymer, George and Elizabeth</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref79" level="item">
+                    <did>
+                        <unittitle>Deed to John Ashmead</unittitle>
+                        <container id="cid114508" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1723 March 2</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Conders, Tunis</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref80" level="item">
+                    <did>
+                        <unittitle>Deed to John Ashmead</unittitle>
+                        <container id="cid114507" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1723 March 3</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Conders, Tunis</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref81" level="item">
+                    <did>
+                        <unittitle>to George Fox</unittitle>
+                        <container id="cid114506" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1791 Sept. 18</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Constable, William</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref82" level="item">
+                    <did>
+                        <unittitle>to George Fox</unittitle>
+                        <container id="cid114505" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1791 Sept. 8</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Constable, William and James</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref83" level="item">
+                    <did>
+                        <unittitle>to [George Fox]</unittitle>
+                        <container id="cid114504" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1791 Oct. 4</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Constable, William and James</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref84" level="item">
+                    <did>
+                        <unittitle>to George Fox</unittitle>
+                        <container id="cid114503" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1791 Oct. 24</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Constable, William and James</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref85" level="item">
+                    <did>
+                        <unittitle>to George Fox</unittitle>
+                        <container id="cid114502" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1792 Jan. 25</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Constable, William and James</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref86" level="item">
+                    <did>
+                        <unittitle>to George Fox</unittitle>
+                        <container id="cid114501" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1792 Feb. 9</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Constable, William and James</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref87" level="item">
+                    <did>
+                        <unittitle>to George Fox</unittitle>
+                        <container id="cid114500" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1792 June 11</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Constable, William and James</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref88">
+                        <head>Scope and Contents note</head>
+                        <p>Also copy of reply; July 7, 1792.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref89" level="item">
+                    <did>
+                        <unittitle>to George Fox</unittitle>
+                        <container id="cid114499" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1792 July 12</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Constable, William and James</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref90" level="item">
+                    <did>
+                        <unittitle>Deed with Miers Buck and Charles Pemberton Fox</unittitle>
+                        <container id="cid114498" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1848 June 7</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Davis, Thomas</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref91" level="item">
+                    <did>
+                        <unittitle>Deed to Joseph Palmer</unittitle>
+                        <container id="cid114497" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1764 Nov. 1</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Davis, Thomas and Deborah</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref92" level="item">
+                    <did>
+                        <unittitle>to George Fox</unittitle>
+                        <container id="cid114496" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1794 Nov. 17</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Drinker, Henry</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref93" level="item">
+                    <did>
+                        <unittitle>to George Fox</unittitle>
+                        <container id="cid114495" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1798 June 25</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Eddy, Thomas, 1758-1827</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref94" level="item">
+                    <did>
+                        <unittitle>Deed to Samuel Rhoads, Jr. of Joseph Palmer's property</unittitle>
+                        <container id="cid114494" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1770 Dec. 22</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Ellicott, Joseph, Sheriff</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref95" level="item">
+                    <did>
+                        <unittitle>to George Fox</unittitle>
+                        <container id="cid114493" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1794 Feb. 21</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Ellis, Daniel</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref96" level="item">
+                    <did>
+                        <unittitle>Deed to John Davies</unittitle>
+                        <container id="cid114492" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1706 Dec. 25</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Evan, Owen ap</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref97" level="item">
+                    <did>
+                        <unittitle>Deed to Israel Pemberton</unittitle>
+                        <container id="cid114491" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1763 April 16</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Evans, Aaron</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref98" level="item">
+                    <did>
+                        <unittitle>Deed to Thomas Masters</unittitle>
+                        <container id="cid114490" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1699 Feb. 1</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Farmer, John</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref99" level="item">
+                    <did>
+                        <unittitle>Deed to Samuel Mickle Fox</unittitle>
+                        <container id="cid114489" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1794 July 9</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Field, John, et al.</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref100" level="item">
+                    <did>
+                        <unittitle>Financial Notes. Found originally with Deed of Samuel Mickle to Samuel Jessop</unittitle>
+                        <container id="cid114488" type="Box" label="Mixed materials">2</container>
+                        <unitdate>1760 Aug. 25</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Fox, Charles Pemberton, 1792-1866</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref101" level="item">
+                    <did>
+                        <unittitle>Deed to John Reakirt</unittitle>
+                        <container id="cid114487" type="Box" label="Mixed materials">2</container>
+                        <unitdate>1855 June 8</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Fox, Charles Pemberton, 1792-1866</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref102" level="item">
+                    <did>
+                        <unittitle>Deed to William C. Rice</unittitle>
+                        <container id="cid114486" type="Box" label="Mixed materials">2</container>
+                        <unitdate>1833 Sept. 14</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Fox, Charles Pemberton, et al.</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref103" level="item">
+                    <did>
+                        <unittitle>Deed to Eliza M. P. Tunis</unittitle>
+                        <container id="cid114485" type="Box" label="Mixed materials">2</container>
+                        <unitdate>183 July 23</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Fox, Charles Pemberton, 1792-1866</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref104" level="item">
+                    <did>
+                        <unittitle>Deed to Eliza M. P. Tunis</unittitle>
+                        <container id="cid114484" type="Box" label="Mixed materials">2</container>
+                        <unitdate>1855 Apr. 7</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Fox, Charles Pemberton, 1792-1866</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref105" level="item">
+                    <did>
+                        <unittitle>Deed to John R Tunis, and to Charles Pemberton Fox, et al.</unittitle>
+                        <container id="cid114483" type="Box" label="Mixed materials">2</container>
+                        <unitdate>1819 Feb. 17</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Fox, Elizabeth Mary Pemberton</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref106" level="item">
+                    <did>
+                        <unittitle>Deed</unittitle>
+                        <container id="cid114482" type="Box" label="Mixed materials">2</container>
+                        <unitdate>1795 Oct. 7</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Fox, George</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref107" level="item">
+                    <did>
+                        <unittitle>Deed to Hannah Fox</unittitle>
+                        <container id="cid114481" type="Box" label="Mixed materials">2</container>
+                        <unitdate>1784 Feb. 28</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Fox, George</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref108" level="item">
+                    <did>
+                        <unittitle>Deed to Gavin Hamilton</unittitle>
+                        <container id="cid114480" type="Box" label="Mixed materials">2</container>
+                        <unitdate>1810 Feb. 27</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Fox, George</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref109" level="item">
+                    <did>
+                        <unittitle>Indenture to Thomas Hirst</unittitle>
+                        <container id="cid114479" type="Box" label="Mixed materials">2</container>
+                        <unitdate>1814 Jan. 6</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Fox, George</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref110" level="item">
+                    <did>
+                        <unittitle>Deed to John Littleboy</unittitle>
+                        <container id="cid114478" type="Box" label="Mixed materials">2</container>
+                        <unitdate>1811 July 20</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Fox, George</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref111" level="item">
+                    <did>
+                        <unittitle>Deed to Francis Graham</unittitle>
+                        <container id="cid114477" type="Box" label="Mixed materials">2</container>
+                        <unitdate>1796 Dec. 14</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Fox, George and Mary</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref112" level="item">
+                    <did>
+                        <unittitle>Deed to Francis Graham</unittitle>
+                        <container id="cid114476" type="Box" label="Mixed materials">2</container>
+                        <unitdate>1796 Dec. 14</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Fox, George and Mary</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref113" level="item">
+                    <did>
+                        <unittitle>Deed to Francis Graham</unittitle>
+                        <container id="cid114475" type="Box" label="Mixed materials">2</container>
+                        <unitdate>1796 Dec. 14</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Fox, George and Mary</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref114" level="item">
+                    <did>
+                        <unittitle>Deed to Leonard Rickard</unittitle>
+                        <container id="cid114474" type="Box" label="Mixed materials">2</container>
+                        <unitdate>1795 Jan. 1</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Fox, George and Mary</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref115" level="item">
+                    <did>
+                        <unittitle>Brief of Title to land owned</unittitle>
+                        <container id="cid114473" type="Box" label="Mixed materials">2</container>
+                        <unitdate>1881 Dec.</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Fox, George and Sarah</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref116" level="item">
+                    <did>
+                        <unittitle>Deed to Dennis Flood</unittitle>
+                        <container id="cid114472" type="Box" label="Mixed materials">2</container>
+                        <unitdate>1743 Aug. 24</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Fox, Joseph </persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref117" level="item">
+                    <did>
+                        <unittitle>Deed to John Coats</unittitle>
+                        <container id="cid114471" type="Box" label="Mixed materials">2</container>
+                        <unitdate>1755 May 9</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Fox, Joseph and Elizabeth, et al.</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref118" level="item">
+                    <did>
+                        <unittitle>Deed to George Fox, et al.. and to William Holbert and John D Branning</unittitle>
+                        <container id="cid114470" type="Box" label="Mixed materials">2</container>
+                        <unitdate>1867 May 31</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Fox, Mary</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref119" level="item">
+                    <did>
+                        <unittitle>Deed to Joseph House</unittitle>
+                        <container id="cid114469" type="Box" label="Mixed materials">2</container>
+                        <unitdate>1750 May 9</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Griffitts, Isaac and Sarah</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref120">
+                        <head>Scope and Contents note</head>
+                        <p>Also, Deed of Joseph and Hannah Morris to Esther Pemberton; May 28,1770</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref121" level="item">
+                    <did>
+                        <unittitle>to George Fox</unittitle>
+                        <container id="cid114468" type="Box" label="Mixed materials">2</container>
+                        <unitdate>1793 July 3</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Herries, Robert and Co.</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref122" level="item">
+                    <did>
+                        <unittitle>to George Fox</unittitle>
+                        <container id="cid114467" type="Box" label="Mixed materials">2</container>
+                        <unitdate>1793 Oct. 8</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Herries, Robert and Co.</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref123" level="item">
+                    <did>
+                        <unittitle>to George Fox</unittitle>
+                        <container id="cid114466" type="Box" label="Mixed materials">2</container>
+                        <unitdate>1794 Jan. 1</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Herries, Robert and Co.</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref124" level="item">
+                    <did>
+                        <unittitle>to George Fox</unittitle>
+                        <container id="cid114465" type="Box" label="Mixed materials">2</container>
+                        <unitdate>1794 May 7</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Herries, Robert and Co.</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref125" level="item">
+                    <did>
+                        <unittitle>to George Fox</unittitle>
+                        <container id="cid114464" type="Box" label="Mixed materials">2</container>
+                        <unitdate>1794 July 2</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Herries, Robert and Co.</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref126" level="item">
+                    <did>
+                        <unittitle>to George Fox</unittitle>
+                        <container id="cid114463" type="Box" label="Mixed materials">2</container>
+                        <unitdate>1796 Feb. 25</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Herries, Robert and Co.</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref127" level="item">
+                    <did>
+                        <unittitle>to George Fox</unittitle>
+                        <container id="cid114462" type="Box" label="Mixed materials">2</container>
+                        <unitdate>1796 Feb. 29</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Herries, Robert and Co.</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref128" level="item">
+                    <did>
+                        <unittitle>to George Fox</unittitle>
+                        <container id="cid114461" type="Box" label="Mixed materials">2</container>
+                        <unitdate>1796 May 6</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Herries, Robert and Co.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref129">
+                        <head>Scope and Contents note</head>
+                        <p>Also memo of George Fox, Aug. 25, 1796.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref130" level="item">
+                    <did>
+                        <unittitle>Deed to George Fox</unittitle>
+                        <container id="cid114460" type="Box" label="Mixed materials">2</container>
+                        <unitdate>1795 Aug. 17</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Hill, Henry, 1732-1798</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref131" level="item">
+                    <did>
+                        <unittitle>Deed to Caleb Ransted</unittitle>
+                        <container id="cid114459" type="Box" label="Mixed materials">2</container>
+                        <unitdate>1716 June 28</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Hill, Richard and Hannah</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref132" level="item">
+                    <did>
+                        <unittitle>Deed to Charles Pemberton Fox, et al.</unittitle>
+                        <container id="cid114458" type="Box" label="Mixed materials">2</container>
+                        <unitdate>1829 Feb. 5</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Holwell, Edward W.</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref133" level="item">
+                    <did>
+                        <unittitle>to George Fox</unittitle>
+                        <container id="cid114457" type="Box" label="Mixed materials">2</container>
+                        <unitdate>1793 May 18</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Hulme, John</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref134" level="item">
+                    <did>
+                        <unittitle>Deed to Samuel Mickle Fox</unittitle>
+                        <container id="cid114456" type="Box" label="Mixed materials">2</container>
+                        <unitdate>1804 March 30</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Hunter, William and Martha</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref135" level="item">
+                    <did>
+                        <unittitle>to George Fox</unittitle>
+                        <container id="cid114455" type="Box" label="Mixed materials">2</container>
+                        <unitdate>1792 May 26</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Inman, William</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref136" level="item">
+                    <did>
+                        <unittitle>to George Fox</unittitle>
+                        <container id="cid114454" type="Box" label="Mixed materials">2</container>
+                        <unitdate>1795 July 25</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Jones, Cantwell</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref137" level="item">
+                    <did>
+                        <unittitle>to George Fox</unittitle>
+                        <container id="cid114453" type="Box" label="Mixed materials">2</container>
+                        <unitdate>1797 June 26</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Jones, Cantwell</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref138" level="item">
+                    <did>
+                        <unittitle>Deed to Andrew Hamilton</unittitle>
+                        <container id="cid114452" type="Oversize" label="Mixed materials">1</container>
+                        <unitdate>1737 Nov. 16</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Jordan, Robert and Mary</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref139">
+                        <head>Scope and Contents note</head>
+                        <p>Franklin imprint.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref140" level="item">
+                    <did>
+                        <unittitle>Bond and Warrant to John Kinsey, et al.</unittitle>
+                        <container id="cid114451" type="Box" label="Mixed materials">2</container>
+                        <unitdate>1740 Oct. 15</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Jordan, Robert</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref141">
+                        <head>Scope and Contents note</head>
+                        <p>Franklin imprint.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref142" level="item">
+                    <did>
+                        <unittitle>Deed to John Kinsey, et al.</unittitle>
+                        <container id="cid114450" type="Oversize" label="Mixed materials">1</container>
+                        <unitdate>1740 Oct. 15</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Jordan, Robert and Mary</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref143">
+                        <head>Scope and Contents note</head>
+                        <p>Franklin imprint.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref144" level="item">
+                    <did>
+                        <unittitle>Deed to John Kinsey, et al.</unittitle>
+                        <container id="cid114449" type="Oversize" label="Mixed materials">1</container>
+                        <unitdate>1740 Oct. 15</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Jordan, Robert and Mary</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref145">
+                        <head>Scope and Contents note</head>
+                        <p>Franklin imprint.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref146" level="item">
+                    <did>
+                        <unittitle>Deed to Jacob Keyser</unittitle>
+                        <container id="cid114448" type="Box" label="Mixed materials">2</container>
+                        <unitdate>1744/5 Feb. 13</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Keyser, Dirck and Alice</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref147" level="item">
+                    <did>
+                        <unittitle>Deed to Nathaniell Ible</unittitle>
+                        <container id="cid114447" type="Box" label="Mixed materials">3</container>
+                        <unitdate>1689 April 24</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Ladd, John</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref148">
+                        <head>Scope and Contents note</head>
+                        <p>Also, John Smart. Deed to James Portues, June 22, 1693.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref149" level="item">
+                    <did>
+                        <unittitle>Deed to George House</unittitle>
+                        <container id="cid114446" type="Box" label="Mixed materials">3</container>
+                        <unitdate>1735 June 14</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Large, Ebenezer and Dorothy</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref150" level="item">
+                    <did>
+                        <unittitle>Deed to Josiah Appleton</unittitle>
+                        <container id="cid114445" type="Box" label="Mixed materials">3</container>
+                        <unitdate>1711 April 25</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Large, Ebenezer and Mary</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref151" level="item">
+                    <did>
+                        <unittitle>Deed to Charles Pemberton Fox of James Clark's property</unittitle>
+                        <container id="cid114444" type="Box" label="Mixed materials">3</container>
+                        <unitdate>1849 Jan. 27</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Lelar, Henry (Sheriff)</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref152" level="item">
+                    <did>
+                        <unittitle>Letter to Nicholas Waln</unittitle>
+                        <container id="cid114443" type="Box" label="Mixed materials">3</container>
+                        <unitdate>1770 Nov. 13</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref153" level="item">
+                    <did>
+                        <unittitle>Deed to Joseph Fox</unittitle>
+                        <container id="cid114442" type="Box" label="Mixed materials">3</container>
+                        <unitdate>1763 Nov. 1</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Luken, John and Jane</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref154" level="item">
+                    <did>
+                        <unittitle>Deed of Dower to William Masters</unittitle>
+                        <container id="cid114441" type="Box" label="Mixed materials">3</container>
+                        <unitdate>1773 Jan. 4</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Masters, Mary</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref155" level="item">
+                    <did>
+                        <unittitle>Deed to George Rotch</unittitle>
+                        <container id="cid114440" type="Box" label="Mixed materials">3</container>
+                        <unitdate>1709 Jan. 21</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Masters, Thomas</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref156" level="item">
+                    <did>
+                        <unittitle>Deed to John Care</unittitle>
+                        <container id="cid114439" type="Box" label="Mixed materials">3</container>
+                        <unitdate>1760 Aug. 25</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Mickle, Samuel </persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref157" level="item">
+                    <did>
+                        <unittitle>Deed to Samuel Jessop</unittitle>
+                        <container id="cid114438" type="Box" label="Mixed materials">3</container>
+                        <unitdate>1760 Aug. 25</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Mickle, Samuel </persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref158" level="item">
+                    <did>
+                        <unittitle>Deed to Thomas Shoemaker</unittitle>
+                        <container id="cid114437" type="Box" label="Mixed materials">3</container>
+                        <unitdate>1760 Aug. 25</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Mickle, Samuel </persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref159" level="item">
+                    <did>
+                        <unittitle>Deed to Roger Hawkins;</unittitle>
+                        <container id="cid114436" type="Box" label="Mixed materials">3</container>
+                        <unitdate>1712 Nov. 18</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Miller, Thomas</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref160">
+                        <head>Scope and Contents note</head>
+                        <p>Also Deed of Roger Hawkins to James Dorfus; May 24, 1714.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref161" level="item">
+                    <did>
+                        <unittitle>Deed to Benjamin Morgan</unittitle>
+                        <container id="cid114435" type="Box" label="Mixed materials">3</container>
+                        <unitdate>1726 Dec. 30</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Morgan, Amalia</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref162" level="item">
+                    <did>
+                        <unittitle>Deed to John Ashmead</unittitle>
+                        <container id="cid114434" type="Box" label="Mixed materials">3</container>
+                        <unitdate>1726/7 Jan. 2</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Morgan, Benjamin and Jane</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref163" level="item">
+                    <did>
+                        <unittitle>Deed to Benjamin Morgan</unittitle>
+                        <container id="cid114433" type="Box" label="Mixed materials">3</container>
+                        <unitdate>1725 July 1</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Morgan, William, Joseph and Samuel</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref164" level="item">
+                    <did>
+                        <unittitle>Deed to Benjamin Morgan</unittitle>
+                        <container id="cid114432" type="Box" label="Mixed materials">3</container>
+                        <unitdate>1725 July 2</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Morgan, William, Joseph and Samuel</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref165" level="item">
+                    <did>
+                        <unittitle>to George Fox</unittitle>
+                        <container id="cid114431" type="Box" label="Mixed materials">3</container>
+                        <unitdate>1792 April 4</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Morris, Gouverneur, 1752-1816</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref166" level="item">
+                    <did>
+                        <unittitle>to W.T. Franklin. Bond to invest a certain quantity of stock in the American Funds</unittitle>
+                        <container id="cid114430" type="Box" label="Mixed materials">3</container>
+                        <unitdate>1789-1791</unitdate>
+                        <physdesc id="ref167" label="General Physical Description note">Copies</physdesc>
+                        <origination label="creator">
+                            <persname source="naf">Morris, Gouverneur, 1752-1816</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref168" level="item">
+                    <did>
+                        <unittitle>Bill of Exchange to Sir Robert Herries and Co.</unittitle>
+                        <container id="cid114429" type="Box" label="Mixed materials">3</container>
+                        <unitdate>1793 Aug. 21</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Morris, Robert</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref169">
+                        <head>Scope and Contents note</head>
+                        <p>Also, Protest for non-payment...Dec. 12,1793. Paper</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref170" level="item">
+                    <did>
+                        <unittitle>to George Fox</unittitle>
+                        <container id="cid114428" type="Box" label="Mixed materials">3</container>
+                        <unitdate>[1797 June 30] Friday morning</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Morris, Robert, Jr.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref171">
+                        <head>Scope and Contents note</head>
+                        <p>Also Memo of George Fox 
+                            <emph render="italic">in re</emph> W. T. Franklin, June 30, 1797. Paper</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref172" level="item">
+                    <did>
+                        <unittitle>Deed to John Parker</unittitle>
+                        <container id="cid114427" type="Box" label="Mixed materials">3</container>
+                        <unitdate>1742 July 2</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Murray, Sebastian and Sarah</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref173" level="item">
+                    <did>
+                        <unittitle>Bond and Warrant to George fox, et al.</unittitle>
+                        <container id="cid114426" type="Box" label="Mixed materials">3</container>
+                        <unitdate>1809 Oct. 31</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Overton, Thomas</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref174" level="item">
+                    <did>
+                        <unittitle>Deed to George Rotch</unittitle>
+                        <container id="cid114425" type="Box" label="Mixed materials">3</container>
+                        <unitdate>1711/12 March 5</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Owen, Evan and Mary, and John and Ann Carpenter</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref175" level="item">
+                    <did>
+                        <unittitle>Extract from the Will</unittitle>
+                        <container id="cid114424" type="Box" label="Mixed materials">3</container>
+                        <unitdate>1765 April 24</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Palmer, Jonathan</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref176" level="item">
+                    <did>
+                        <unittitle>Release to Joseph Palmer</unittitle>
+                        <container id="cid114423" type="Box" label="Mixed materials">3</container>
+                        <unitdate>1768 Feb. 20</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Palmer, Jonathan and Ann</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref177" level="item">
+                    <did>
+                        <unittitle>Bond and Mortgage to Samuel Rhoads, Jr.</unittitle>
+                        <container id="cid114422" type="Box" label="Mixed materials">3</container>
+                        <unitdate>1766 June 6</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Palmer, Joseph</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref178">
+                        <head>Scope and Contents note</head>
+                        <p>Transferred to Mary Harrison, Oct. 7, 1767, with the acceptance of Israel Pemberton to the above. Paper</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref179" level="item">
+                    <did>
+                        <unittitle>Bond and Warrant to Samuel Rhoads, Jr.</unittitle>
+                        <container id="cid114421" type="Box" label="Mixed materials">3</container>
+                        <unitdate>1766 June 6</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Palmer, Joseph</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref180" level="item">
+                    <did>
+                        <unittitle>Bond and Warrant to Samuel Rhoads, Jr.</unittitle>
+                        <container id="cid114420" type="Box" label="Mixed materials">3</container>
+                        <unitdate>1768 March 9</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Palmer, Joseph</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref181" level="item">
+                    <did>
+                        <unittitle>Map of Land drawn by Thomas Davis</unittitle>
+                        <container id="cid114419" type="Box" label="Mixed materials">3</container>
+                        <origination label="creator">
+                            <persname source="ingest">Palmer, Joseph</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref182" level="item">
+                    <did>
+                        <unittitle>Map of land Surveyed by Moses Moon</unittitle>
+                        <container id="cid114418" type="Box" label="Mixed materials">3</container>
+                        <unitdate>1776 Jan.</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Palmer, Joseph</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref183" level="item">
+                    <did>
+                        <unittitle>Map of land Surveyed by Paul Preston</unittitle>
+                        <container id="cid114417" type="Box" label="Mixed materials">3</container>
+                        <unitdate>1766 Nov.</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Palmer, Joseph</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref184" level="item">
+                    <did>
+                        <unittitle>Map of land Surveyed by Paul Preston</unittitle>
+                        <container id="cid114416" type="Box" label="Mixed materials">3</container>
+                        <unitdate>1766 Nov.</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Palmer, Joseph</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref185" level="item">
+                    <did>
+                        <unittitle>Deed to Samuel Rhoads, Jr.</unittitle>
+                        <container id="cid114415" type="Box" label="Mixed materials">3</container>
+                        <unitdate>1766 June 6</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Palmer, Joseph and Hannah</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref186" level="item">
+                    <did>
+                        <unittitle>Deed to Samuel Rhoads, Jr.</unittitle>
+                        <container id="cid114414" type="Box" label="Mixed materials">3</container>
+                        <unitdate>1768 Mar. 9</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Palmer, Joseph and Hannah</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref187" level="item">
+                    <did>
+                        <unittitle>Deed to John Kinsey</unittitle>
+                        <container id="cid114413" type="Box" label="Mixed materials">3</container>
+                        <unitdate>1735 Sept. 3</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Parker, William H.</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref188" level="item">
+                    <did>
+                        <unittitle>Deed Tripartite to Samuel and Mary Pleasants, and to Esther Pemberton</unittitle>
+                        <container id="cid114412" type="Box" label="Mixed materials">3</container>
+                        <unitdate>1773 April 2</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Pemberton, Joseph and Ann</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref189" level="item">
+                    <did>
+                        <unittitle>Map of land surveyed by Moses Moon</unittitle>
+                        <container id="cid114411" type="Box" label="Mixed materials">3</container>
+                        <unitdate>1780 April 22</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Pemberton, Mary</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref190" level="item">
+                    <did>
+                        <unittitle>Lease to Robert Jordan</unittitle>
+                        <container id="cid114410" type="Box" label="Mixed materials">3</container>
+                        <unitdate>1738 June 1</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Penn, John, Thomas and Richard</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref191" level="item">
+                    <did>
+                        <unittitle>Grant to Richard Davis</unittitle>
+                        <container id="cid114409" type="Box" label="Mixed materials">3</container>
+                        <unitdate>1692 Aug. 3</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Penn, William</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref192" level="item">
+                    <did>
+                        <unittitle>Grant to Philip Richards</unittitle>
+                        <container id="cid114408" type="Box" label="Mixed materials">3</container>
+                        <unitdate>1692 Dec. 24</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Penn, William</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref193" level="item">
+                    <did>
+                        <unittitle>Deed to George Fox</unittitle>
+                        <container id="cid114407" type="Box" label="Mixed materials">3</container>
+                        <unitdate>1795 Aug. 7</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Pennsylvania</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref194" level="item">
+                    <did>
+                        <unittitle>Deed to Samuel Mickle Fox</unittitle>
+                        <container id="cid114406" type="Box" label="Mixed materials">3</container>
+                        <unitdate>1795 Aug. 7</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Pennsylvania</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref195" level="item">
+                    <did>
+                        <unittitle>Deed to Samuel Mickle Fox</unittitle>
+                        <container id="cid114405" type="Box" label="Mixed materials">3</container>
+                        <unitdate>1795 Aug. 7</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Pennsylvania</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref196" level="item">
+                    <did>
+                        <unittitle>Deed to Samuel Mickle Fox</unittitle>
+                        <container id="cid114404" type="Box" label="Mixed materials">3</container>
+                        <unitdate>1795 Aug. 7</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Pennsylvania</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref197" level="item">
+                    <did>
+                        <unittitle>Deed to John Staple Littler</unittitle>
+                        <container id="cid114403" type="Box" label="Mixed materials">3</container>
+                        <unitdate>1799 Feb. 18</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Penrose, Jonathan, Sheriff</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref198" level="item">
+                    <did>
+                        <unittitle>Deed to William Cooper</unittitle>
+                        <container id="cid114402" type="Box" label="Mixed materials">3</container>
+                        <unitdate>1766 July 7</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Perkins, Jacob and Elizabeth</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref199" level="item">
+                    <did>
+                        <unittitle>Deed to John Hewitt</unittitle>
+                        <container id="cid114401" type="Box" label="Mixed materials">3</container>
+                        <unitdate>1819 March 10</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Philips, Zalegman</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref200">
+                        <head>Scope and Contents note</head>
+                        <p>Also, John Hewit. Deed to Charles Pemberton Fox, etc., July 3, 1835.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref201" level="item">
+                    <did>
+                        <unittitle>Deed to George and Mary Fox</unittitle>
+                        <container id="cid114400" type="Box" label="Mixed materials">3</container>
+                        <unitdate>1719 Apr. 22</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Pleasants, Samuel and Mary</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref202" level="item">
+                    <did>
+                        <unittitle>Deed to Richard Hill</unittitle>
+                        <container id="cid114399" type="Box" label="Mixed materials">4</container>
+                        <unitdate>1719 Dec. 31</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Ranstead, Caleb and Mary</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref203" level="item">
+                    <did>
+                        <unittitle>Deed to Jane Ormes and Jane Ormes, Jr.</unittitle>
+                        <container id="cid114398" type="Box" label="Mixed materials">4</container>
+                        <unitdate>1768 Dec. 9</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Rhoads, Samuel, Jr.</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref204" level="item">
+                    <did>
+                        <unittitle>Deed to Israel Pemberton</unittitle>
+                        <container id="cid114397" type="Box" label="Mixed materials">4</container>
+                        <unitdate>1772 Mar. 9</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Rhoads, Samuel, Jr. and Sarah</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref205" level="item">
+                    <did>
+                        <unittitle>Deed to Daniell Cooke</unittitle>
+                        <container id="cid114396" type="Box" label="Mixed materials">4</container>
+                        <unitdate>1693 Aug. 1</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Richards, Philip</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref206" level="item">
+                    <did>
+                        <unittitle>Deed to George Fox, et al.</unittitle>
+                        <container id="cid114395" type="Box" label="Mixed materials">4</container>
+                        <unitdate>1823 Mar. 17</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Ridgway, Jacob</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref207" level="item">
+                    <did>
+                        <unittitle>Deed to Israel Pemberton</unittitle>
+                        <container id="cid114394" type="Box" label="Mixed materials">4</container>
+                        <unitdate>1724 Oct. 20</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Roch, George</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref208" level="item">
+                    <did>
+                        <unittitle>Deed to Israel Pemberton</unittitle>
+                        <container id="cid114393" type="Box" label="Mixed materials">4</container>
+                        <unitdate>1724 Oct. 21</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Roch, George</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref209" level="item">
+                    <did>
+                        <unittitle>to Joseph R Ingersoll and William Miller</unittitle>
+                        <container id="cid114392" type="Box" label="Mixed materials">4</container>
+                        <unitdate>1832 June 5</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Rose, R. H.</persname>
+                        </origination>
+                    </did>
+                    <odd id="ref210">
+                        <head>General note</head>
+                        <p>See also: Burnside, Judge to R.H. Rose; May 21, 1832.</p>
+                    </odd>
+                </c02>
+                <c02 id="ref211" level="item">
+                    <did>
+                        <unittitle>Deed to Samuel and Sarah Barnes</unittitle>
+                        <container id="cid114391" type="Box" label="Mixed materials">4</container>
+                        <unitdate>1752 Mar. 13</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Sharp, Hannah</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref212">
+                        <head>Scope and Contents note</head>
+                        <p>Also Deed of Hannah Mayleigh to Israel Pemberton, Mar. 13, 1752. Verified by the Lord Mayor of the City of London.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref213" level="item">
+                    <did>
+                        <unittitle>Deed to William McMurtie</unittitle>
+                        <container id="cid114390" type="Box" label="Mixed materials">4</container>
+                        <unitdate>1778 Sept.</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Shippen, Edward, Jr. and Margaret</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref214">
+                        <head>Scope and Contents note</head>
+                        <p>Also, Deed of William McMurtie to Nicholas Waln; 1780 April 17. [Same property involved in both contracts.]</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref215" level="item">
+                    <did>
+                        <unittitle>Deed against John Cart</unittitle>
+                        <container id="cid114389" type="Box" label="Mixed materials">4</container>
+                        <unitdate>1751 Sept. 20</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Stille, Peter</persname>
+                        </origination>
+                    </did>
+                    <odd id="ref216">
+                        <head>General note</head>
+                        <p>See also: Stille, Peter. Suit against John Cart; Oct. 7, 1751.</p>
+                    </odd>
+                </c02>
+                <c02 id="ref217" level="item">
+                    <did>
+                        <unittitle>Suit against John Cart</unittitle>
+                        <container id="cid114388" type="Box" label="Mixed materials">4</container>
+                        <unitdate>1751 Oct. 7</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Stille, Peter</persname>
+                        </origination>
+                    </did>
+                    <odd id="ref218">
+                        <head>General note</head>
+                        <p>See also; Stille Peter. Deed against John Cart; 1751 Sept. 20</p>
+                    </odd>
+                </c02>
+                <c02 id="ref219" level="item">
+                    <did>
+                        <unittitle>Deed to Samuel Mickle</unittitle>
+                        <container id="cid114387" type="Box" label="Mixed materials">4</container>
+                        <unitdate>1744 April 9</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Strettell, Robert and Philotesia</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref220" level="item">
+                    <did>
+                        <unittitle>Deed Poll to Joseph George</unittitle>
+                        <container id="cid114386" type="Box" label="Mixed materials">4</container>
+                        <unitdate>1819 May 30</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Truxton, Thomas, Sheriff</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref221" level="item">
+                    <did>
+                        <unittitle>Deed Poll to Zalegman Phillips</unittitle>
+                        <container id="cid114385" type="Box" label="Mixed materials">4</container>
+                        <unitdate>1819 Jan. 1</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Truxton, Thomas, Sheriff</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref222" level="item">
+                    <did>
+                        <unittitle>Deed to James Henry</unittitle>
+                        <container id="cid114384" type="Box" label="Mixed materials">4</container>
+                        <unitdate>1846 Mar. 23</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Tunis, Eliza M. P.</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref223" level="item">
+                    <did>
+                        <unittitle>Deed to Charles A Rubicam</unittitle>
+                        <container id="cid114383" type="Box" label="Mixed materials">4</container>
+                        <unitdate>1837 Aug. 1</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Tunis, Eliza M. P.</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref224" level="item">
+                    <did>
+                        <unittitle>Deed to Charles A Rubicam</unittitle>
+                        <container id="cid114382" type="Box" label="Mixed materials">4</container>
+                        <unitdate>1837 Aug. 1</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Tunis, Eliza M. P.</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref225" level="item">
+                    <did>
+                        <unittitle>Deed to Charles A Rubicam</unittitle>
+                        <container id="cid114381" type="Box" label="Mixed materials">4</container>
+                        <unitdate>1845 Jan. 13</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Tunis, Eliza M. P.</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref226" level="item">
+                    <did>
+                        <unittitle>Deed to Jonathan Rubincam</unittitle>
+                        <container id="cid114380" type="Box" label="Mixed materials">4</container>
+                        <unitdate>1855 Feb. 15</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Tunis, Eliza M. P.</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref227" level="item">
+                    <did>
+                        <unittitle>Deed of Confirmation to Jacob F Hoeckley</unittitle>
+                        <container id="cid114379" type="Box" label="Mixed materials">4</container>
+                        <unitdate>1841 April 27</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Tunis, Eliza M. P. and Mary D. Fox</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref228" level="item">
+                    <did>
+                        <unittitle>Deed to to Charles Pemberton Fox</unittitle>
+                        <container id="cid114378" type="Box" label="Mixed materials">4</container>
+                        <unitdate>1849 Jan. 18</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Tunis, Eliza M. P. and Mary D. Fox</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref229" level="item">
+                    <did>
+                        <unittitle>Deed to Charles Pemberton Fox</unittitle>
+                        <container id="cid114377" type="Box" label="Mixed materials">4</container>
+                        <unitdate>1850 Jan. 18</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Tunis, Eliza M. P. and Mary D. Fox</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref230" level="item">
+                    <did>
+                        <unittitle>Deed to Joshua Tittory</unittitle>
+                        <container id="cid114376" type="Box" label="Mixed materials">4</container>
+                        <unitdate>1686 June 19</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Turner, Robert</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref231" level="item">
+                    <did>
+                        <unittitle>Deed to John Widdifield</unittitle>
+                        <container id="cid114375" type="Box" label="Mixed materials">4</container>
+                        <unitdate>1718 Sept. 10</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Usher, Jacob and Mary</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref232" level="item">
+                    <did>
+                        <unittitle>Deed to Samuel Mickle Fox, et al.</unittitle>
+                        <container id="cid114374" type="Box" label="Mixed materials">4</container>
+                        <unitdate>1799 March 26</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Wallace, William</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref233" level="item">
+                    <did>
+                        <unittitle>to Israel Pemberton</unittitle>
+                        <container id="cid114373" type="Box" label="Mixed materials">4</container>
+                        <unitdate>1772 March 8</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Waln, Nicholas</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref234" level="item">
+                    <did>
+                        <unittitle>Deed to George Fox</unittitle>
+                        <container id="cid114372" type="Box" label="Mixed materials">4</container>
+                        <unitdate>1785 Nov. 7</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Waln, Nicholas and Sarah</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref235" level="item">
+                    <did>
+                        <unittitle>Deed to Jacob Perkins</unittitle>
+                        <container id="cid114371" type="Box" label="Mixed materials">4</container>
+                        <unitdate>1771 Nov. 23</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Wells, Richard and Rachel</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref236" level="item">
+                    <did>
+                        <unittitle>Deed to Samuel Mickle Fox</unittitle>
+                        <container id="cid114370" type="Box" label="Mixed materials">4</container>
+                        <unitdate>1784 Nov. 9</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">West, Thomas and Susanna</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref237" level="item">
+                    <did>
+                        <unittitle>Deed to Charles and Esther Pemberton</unittitle>
+                        <container id="cid114369" type="Box" label="Mixed materials">4</container>
+                        <unitdate>1771 Jan. 31</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Wilson, John</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref238" level="item">
+                    <did>
+                        <unittitle>Deed to Tunis Conders</unittitle>
+                        <container id="cid114368" type="Box" label="Mixed materials">4</container>
+                        <unitdate>1698/9 Dec. 7</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Woostine, John van der</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref239" level="item">
+                    <did>
+                        <unittitle>Deed to Edward Church</unittitle>
+                        <container id="cid114367" type="Box" label="Mixed materials">4</container>
+                        <unitdate>1721 March 25</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Woostine, John van der and Abigail</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref240" level="item">
+                    <did>
+                        <unittitle>Deed to George House</unittitle>
+                        <container id="cid114366" type="Box" label="Mixed materials">4</container>
+                        <unitdate>1723 May 4</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Worrilan, Thomas</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref241" level="item">
+                    <did>
+                        <unittitle>Deed to Mary Yard</unittitle>
+                        <container id="cid114365" type="Box" label="Mixed materials">4</container>
+                        <unitdate>1725 Dec. 1</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Yard, Joseph and Susannah</persname>
+                        </origination>
+                    </did>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Ms.Coll.85</num>
+                </titleproper>
+                <author>Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T21:06-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc audience="internal" level="collection">
+        <did>
+            <unittitle>David Rittenhouse Inglis papers</unittitle>
+            <unitid>Mss.Ms.Coll.85</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid120571" type="Box" label="Manuscripts">1-6</container>
+            <physdesc>
+                <extent>3.0 Linear feet</extent>
+            </physdesc>
+            <unitdate normal="1916/1969" type="inclusive">1916-1969</unitdate>
+            <physdesc id="ref3" label="General Physical Description note">3 linear feet.</physdesc>
+            <physloc id="ref4" label="Paging">LH-SB-11-6</physloc>
+        </did>
+        <acqinfo id="ref1">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Carmen Valentino, purchase.</p>
+        </acqinfo>
+        <bioghist id="ref2">
+            <head>Biographical/Historical note</head>
+            <p>David R. Inglis enjoyed a distinguished career in nuclear physics that ranged from theoretical work on the structure of the nucleus in the 1930s to the development of the atomic bomb in the 1940s and work on renewable energy in the 1960s and 1970s. A Professor of Physics at UMass from 1969-1975, Inglis was a founding member of the Federation of American Scientists and from the mid-1940s on, he dedicated himself to informing public policy on the dangers of nuclear technologies.</p>
+        </bioghist>
+        <dsc/>
+    </archdesc>
+</ead>

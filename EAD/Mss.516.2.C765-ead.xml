@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.516.2.C765-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.516.2.C765</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:16-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Notes, [n.d.], from a text on conic sections</unittitle>
+            <unitid>Mss.516.2.C765</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid891" type="Volume" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>1.0 Volume(s)</extent>
+                <extent>1 volume, 22 p. </extent>
+            </physdesc>
+            <unitdate>n.d.</unitdate>
+            <abstract id="ref1" label="Abstract">This volume includes definitions and problems on parabola, ellipse, and hyperbola.</abstract>
+            <physdesc id="ref7" label="General Physical Description note">1 volume, 22 p.</physdesc>
+            <physloc id="ref9" label="Paging">LH-MV-E-15</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Anonymous</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref6">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Received and accessioned, 1944 (84743). Provenance unknown.</p>
+        </acqinfo>
+        <odd id="ref8">
+            <head>Early American History Note</head>
+            <p>This slender notebook contains information on geometry. It includes rules, equations, and some graphs.</p>
+        </odd>
+        <controlaccess>
+            <subject source="lcsh">Conic sections.</subject>
+            <subject source="leah">Education</subject>
+            <genreform source="leah">Educational Material</genreform>
+            <subject source="lcsh">Mathematics.</subject>
+            <genreform source="leah">Notebooks</genreform>
+            <genreform source="lcsh">Notes.</genreform>
+            <genreform source="leah">Scientific Data</genreform>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

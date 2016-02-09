@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Ms.Coll.111</num>
+                </titleproper>
+                <author>Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T20:23-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc audience="internal" level="collection">
+        <did>
+            <unittitle>J. John Sepkoski Papers</unittitle>
+            <unitid>Mss.Ms.Coll.111</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid120462" type="Box" label="Manuscripts">1-134</container>
+            <physdesc>
+                <extent>67.0 Linear feet</extent>
+            </physdesc>
+            <unitdate normal="1969/1999" type="inclusive">1969-1999</unitdate>
+            <physdesc id="ref4" label="General Physical Description note">67 linear feet.</physdesc>
+            <abstract id="ref2" label="Abstract">The Sepkoski Papers are a comprehensive collection of Sepkoski's professional correspondence and research notes.</abstract>
+            <physloc id="ref5" label="Paging">LH-SB-19-5</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Sepkoski, J. John </persname>
+            </origination>
+        </did>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>Trained as a stratigrapher and paleontologist at Harvard (Ph.D., 1977), Jack Sepkoski accepted his first academic appointment at the University of Rochester while he was still working on his degree. In 1978, he and David Raup were lured away to the University of Chicago, where they rapidly helped establish that school as the center of the new quantitative paleobiology. Sepkoski is best known for his quantitative analyses of the history and diversity of life and his efforts to define the shape of evolutionary expansion and extinction. His discovery of a statistically significant periodicity of mass extinction events was enormously influential, and helped facilitate acceptance of theories of the extraterrestrial origins of mass extinction. Sepkoski died of a heart attack at age 50 on May 1, 1999.</p>
+        </bioghist>
+        <acqinfo id="ref1">
+            <head>Immediate Source of Acquisition note</head>
+            <p>The Sepkoski Papers were donated to the APS in July 2001 by his widow, Christine Janis, and son David, with the cooperation of the Department of Geophysical Sciences, University of Chicago.</p>
+        </acqinfo>
+        <dsc/>
+    </archdesc>
+</ead>

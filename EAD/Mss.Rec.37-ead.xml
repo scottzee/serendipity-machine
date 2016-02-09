@@ -1,0 +1,966 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Rec.37-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Rec.37</num>
+                    <num>Mss.Rec.37</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Brian Carpenter</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+                <date>12-2010</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T21:16-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Upper Chehalis (Salish) language material</unittitle>
+            <unitid>Mss.Rec.37</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="sal"/>
+            </langmaterial>
+            <physdesc>
+                <extent>5.0 Tape(s)</extent>
+            </physdesc>
+            <unitdate>1960</unitdate>
+            <abstract id="ref3" label="Abstract">Word lists and grammatical eliciting; folkloric stories and narratives pertaining to Chehalis history; Quinault medicine-man text; and four Lower Cowlitz words. Recorded at Grand Mound, Washington, in July 1960.</abstract>
+            <physdesc id="ref2" label="General Physical Description note">5 sound tape reels (9 hr., 58 min.) : analog, 3 3/4 ips, half track, mono ; 7 in.</physdesc>
+            <physloc id="ref117" label="Paging">LH-B-32-2</physloc>
+            <origination label="creator">
+                <persname rules="dacs" source="local">Heck, Silas</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Kinkade, M. Dale (Marvin Dale), 1933-</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref4">
+            <head>Immediate Source of Acquisition</head>
+            <p>Presented by M. Dale Kinkade in 1961. This material was recorded with the assistance of a Phillips Fund grant.</p>
+        </acqinfo>
+        <controlaccess>
+            <subject source="lcsh">Chehalis Indians--Folklore</subject>
+            <subject source="lcsh">Chehalis Indians--History</subject>
+            <occupation source="lcsh">Indians of North America--Washington (State)</occupation>
+            <genreform source="ingest">Sound recordings</genreform>
+            <subject source="lcsh">Upper Chehalis language</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref5" level="series">
+                <did>
+                    <unittitle>Audio recordings</unittitle>
+                </did>
+                <c02 id="ref6" level="file">
+                    <did>
+                        <unittitle>Upper Chehalis word list</unittitle>
+                        <unitid>01-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1960-07</unitdate>
+                        <physdesc id="ref7" label="General Physical Description note">
+                            <extent>00:42:24</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Heck, Silas</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Kinkade, M. Dale (Marvin Dale), 1933-</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref8">
+                        <head>Scope and Contents note</head>
+                        <p>Recorded at Grand Mound, Washington.</p>
+                    </scopecontent>
+                    <originalsloc id="ref10">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0911" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:4203">
+                        <daodesc>
+                            <p>APSdigrec_0911</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Grand Mound (Wash.)</geogname>
+                        <subject source="lcsh">Upper Chehalis language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref11" level="file">
+                    <did>
+                        <unittitle>Wren &amp; Otter text</unittitle>
+                        <unitid>01-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1960-07</unitdate>
+                        <physdesc id="ref12" label="General Physical Description note">
+                            <extent>00:19:04</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Heck, Silas</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Kinkade, M. Dale (Marvin Dale), 1933-</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref13">
+                        <head>Scope and Contents note</head>
+                        <p>Told in entirety in Upper Chehalis, then given in English.</p>
+                    </scopecontent>
+                    <originalsloc id="ref15">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0912" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:4202">
+                        <daodesc>
+                            <p>APSdigrec_0912</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Birds--Folklore</subject>
+                        <subject source="lcsh">Chehalis Indians--Folklore</subject>
+                        <geogname source="ingest">Grand Mound (Wash.)</geogname>
+                        <subject source="ingest">Raven (Legendary character)--Legends</subject>
+                        <subject source="lcsh">Upper Chehalis language</subject>
+                        <subject source="ingest">Wrens--Folklore</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref16" level="file">
+                    <did>
+                        <unittitle>Upper Chehalis grammatical eliciting</unittitle>
+                        <unitid>01-03</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1960-07</unitdate>
+                        <physdesc id="ref17" label="General Physical Description note">
+                            <extent>00:02:48</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Heck, Silas</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Kinkade, M. Dale (Marvin Dale), 1933-</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref19">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0913" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:4206">
+                        <daodesc>
+                            <p>APSdigrec_0913</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Grand Mound (Wash.)</geogname>
+                        <subject source="lcsh">Upper Chehalis language</subject>
+                        <subject source="ingest">Upper Chehalis language--Grammar</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref20" level="file">
+                    <did>
+                        <unittitle>Upper Chehalis grammatical eliciting</unittitle>
+                        <unitid>01-04</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1960-07</unitdate>
+                        <physdesc id="ref21" label="General Physical Description note">
+                            <extent>00:49:16</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Heck, Silas</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Kinkade, M. Dale (Marvin Dale), 1933-</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref23">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0914" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:4205">
+                        <daodesc>
+                            <p>APSdigrec_0914</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Grand Mound (Wash.)</geogname>
+                        <subject source="lcsh">Upper Chehalis language</subject>
+                        <subject source="ingest">Upper Chehalis language--Grammar</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref24" level="file">
+                    <did>
+                        <unittitle>4th of July text</unittitle>
+                        <unitid>01-05</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1960-07</unitdate>
+                        <physdesc id="ref25" label="General Physical Description note">
+                            <extent>00:01:14</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Heck, Silas</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Kinkade, M. Dale (Marvin Dale), 1933-</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref27">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0915" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:4201">
+                        <daodesc>
+                            <p>APSdigrec_0915</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Chehalis Indians</subject>
+                        <subject source="ingest">Fourth of July</subject>
+                        <geogname source="ingest">Grand Mound (Wash.)</geogname>
+                        <subject source="lcsh">Upper Chehalis language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref28" level="file">
+                    <did>
+                        <unittitle>Upper Chehalis grammatical eliciting</unittitle>
+                        <unitid>01-06</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1960-07</unitdate>
+                        <physdesc id="ref29" label="General Physical Description note">
+                            <extent>00:04:10</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Heck, Silas</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Kinkade, M. Dale (Marvin Dale), 1933-</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref31">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0916" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:4204">
+                        <daodesc>
+                            <p>APSdigrec_0916</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Grand Mound (Wash.)</geogname>
+                        <subject source="lcsh">Upper Chehalis language</subject>
+                        <subject source="ingest">Upper Chehalis language--Grammar</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref32" level="file">
+                    <did>
+                        <unittitle>Upper Chehalis grammatical eliciting</unittitle>
+                        <unitid>02-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1960-07</unitdate>
+                        <physdesc id="ref33" label="General Physical Description note">
+                            <extent>01:06:15</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Heck, Silas</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Kinkade, M. Dale (Marvin Dale), 1933-</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref35">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0917" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:4207">
+                        <daodesc>
+                            <p>APSdigrec_0917</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Grand Mound (Wash.)</geogname>
+                        <subject source="lcsh">Upper Chehalis language</subject>
+                        <subject source="ingest">Upper Chehalis language--Grammar</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref36" level="file">
+                    <did>
+                        <unittitle>Upper Chehalis grammatical eliciting</unittitle>
+                        <unitid>02-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1960-07</unitdate>
+                        <physdesc id="ref37" label="General Physical Description note">
+                            <extent>00:53:51</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Heck, Silas</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Kinkade, M. Dale (Marvin Dale), 1933-</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref39">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0918" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:4214">
+                        <daodesc>
+                            <p>APSdigrec_0918</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Grand Mound (Wash.)</geogname>
+                        <subject source="lcsh">Upper Chehalis language</subject>
+                        <subject source="ingest">Upper Chehalis language--Grammar</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref40" level="file">
+                    <did>
+                        <unittitle>Upper Chehalis grammatical eliciting</unittitle>
+                        <unitid>03-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1960-07</unitdate>
+                        <physdesc id="ref41" label="General Physical Description note">
+                            <extent>00:27:02</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Heck, Silas</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Kinkade, M. Dale (Marvin Dale), 1933-</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref43">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0919" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:4211">
+                        <daodesc>
+                            <p>APSdigrec_0919</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Grand Mound (Wash.)</geogname>
+                        <subject source="lcsh">Upper Chehalis language</subject>
+                        <subject source="ingest">Upper Chehalis language--Grammar</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref44" level="file">
+                    <did>
+                        <unittitle>Quinault medicine man text</unittitle>
+                        <unitid>03-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1960-07</unitdate>
+                        <physdesc id="ref45" label="General Physical Description note">
+                            <extent>00:05:45</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Heck, Silas</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Kinkade, M. Dale (Marvin Dale), 1933-</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref47">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0920" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:4213">
+                        <daodesc>
+                            <p>APSdigrec_0920</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Chehalis Indians--Folklore</subject>
+                        <geogname source="ingest">Grand Mound (Wash.)</geogname>
+                        <subject source="ingest">Quinault Indians</subject>
+                        <subject source="lcsh">Upper Chehalis language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref48" level="file">
+                    <did>
+                        <unittitle>Upper Chehalis grammatical eliciting</unittitle>
+                        <unitid>03-03</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1960-07</unitdate>
+                        <physdesc id="ref49" label="General Physical Description note">
+                            <extent>00:31:56</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Heck, Silas</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Kinkade, M. Dale (Marvin Dale), 1933-</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref51">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0921" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:4209">
+                        <daodesc>
+                            <p>APSdigrec_0921</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Grand Mound (Wash.)</geogname>
+                        <subject source="lcsh">Upper Chehalis language</subject>
+                        <subject source="ingest">Upper Chehalis language--Grammar</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref52" level="file">
+                    <did>
+                        <unittitle>Upper Chehalis grammatical eliciting</unittitle>
+                        <unitid>03-04</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1960-07</unitdate>
+                        <physdesc id="ref53" label="General Physical Description note">
+                            <extent>00:55:06</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Heck, Silas</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Kinkade, M. Dale (Marvin Dale), 1933-</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref55">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0922" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:4210">
+                        <daodesc>
+                            <p>APSdigrec_0922</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Grand Mound (Wash.)</geogname>
+                        <subject source="lcsh">Upper Chehalis language</subject>
+                        <subject source="ingest">Upper Chehalis language--Grammar</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref56" level="file">
+                    <did>
+                        <unittitle>Story of the flood</unittitle>
+                        <unitid>04-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1960-08</unitdate>
+                        <physdesc id="ref57" label="General Physical Description note">
+                            <extent>00:09:56</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Heck, Silas</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Kinkade, M. Dale (Marvin Dale), 1933-</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref59">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0923" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:4216">
+                        <daodesc>
+                            <p>APSdigrec_0923</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Chehalis Indians--Folklore</subject>
+                        <subject source="ingest">Floods</subject>
+                        <geogname source="ingest">Grand Mound (Wash.)</geogname>
+                        <subject source="lcsh">Upper Chehalis language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref60" level="file">
+                    <did>
+                        <unittitle>Story of the sun and the moon</unittitle>
+                        <unitid>04-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1960-08</unitdate>
+                        <physdesc id="ref61" label="General Physical Description note">
+                            <extent>00:35:56</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Heck, Silas</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Kinkade, M. Dale (Marvin Dale), 1933-</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref63">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0924" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:4212">
+                        <daodesc>
+                            <p>APSdigrec_0924</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Chehalis Indians--Folklore</subject>
+                        <geogname source="ingest">Grand Mound (Wash.)</geogname>
+                        <subject source="ingest">Moon--Folklore</subject>
+                        <subject source="ingest">Sun--Folklore</subject>
+                        <subject source="lcsh">Upper Chehalis language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref64" level="file">
+                    <did>
+                        <unittitle>Political speech</unittitle>
+                        <unitid>04-03</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1960-08</unitdate>
+                        <physdesc id="ref65" label="General Physical Description note">
+                            <extent>00:03:11</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Heck, Silas</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Kinkade, M. Dale (Marvin Dale), 1933-</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref67">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0925" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:4215">
+                        <daodesc>
+                            <p>APSdigrec_0925</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Chehalis Indians--Politics and government</subject>
+                        <geogname source="ingest">Grand Mound (Wash.)</geogname>
+                        <subject source="ingest">Speeches, addresses, etc.</subject>
+                        <subject source="lcsh">Upper Chehalis language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref68" level="file">
+                    <did>
+                        <unittitle>Xu'en and the chief's daughter</unittitle>
+                        <unitid>04-04</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1960-08</unitdate>
+                        <physdesc id="ref69" label="General Physical Description note">
+                            <extent>00:06:14</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Heck, Silas</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Kinkade, M. Dale (Marvin Dale), 1933-</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref71">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0926" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:4188">
+                        <daodesc>
+                            <p>APSdigrec_0926</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Chehalis Indians--Folklore</subject>
+                        <geogname source="ingest">Grand Mound (Wash.)</geogname>
+                        <subject source="lcsh">Upper Chehalis language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref72" level="file">
+                    <did>
+                        <unittitle>Upper and Lower Chehalis battle</unittitle>
+                        <unitid>04-05</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1960-08</unitdate>
+                        <physdesc id="ref73" label="General Physical Description note">
+                            <extent>00:07:06</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Heck, Silas</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Kinkade, M. Dale (Marvin Dale), 1933-</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref75">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0927" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:4192">
+                        <daodesc>
+                            <p>APSdigrec_0927</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Battles</subject>
+                        <subject source="lcsh">Chehalis Indians--History</subject>
+                        <geogname source="ingest">Grand Mound (Wash.)</geogname>
+                        <subject source="lcsh">Upper Chehalis language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref76" level="file">
+                    <did>
+                        <unittitle>Upper Chehalis grammatical eliciting</unittitle>
+                        <unitid>04-06</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1960-08</unitdate>
+                        <physdesc id="ref77" label="General Physical Description note">
+                            <extent>00:57:24</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Heck, Silas</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Kinkade, M. Dale (Marvin Dale), 1933-</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref79">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0928" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:4199">
+                        <daodesc>
+                            <p>APSdigrec_0928</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Grand Mound (Wash.)</geogname>
+                        <subject source="lcsh">Upper Chehalis language</subject>
+                        <subject source="ingest">Upper Chehalis language--Grammar</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref80" level="file">
+                    <did>
+                        <unittitle>Bluejay's Trip text</unittitle>
+                        <unitid>05-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1960-08</unitdate>
+                        <physdesc id="ref81" label="General Physical Description note">
+                            <extent>00:18:44</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Heck, Silas</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Kinkade, M. Dale (Marvin Dale), 1933-</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref83">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0929" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:4196">
+                        <daodesc>
+                            <p>APSdigrec_0929</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Blue jay--Folklore</subject>
+                        <subject source="lcsh">Chehalis Indians--Folklore</subject>
+                        <geogname source="ingest">Grand Mound (Wash.)</geogname>
+                        <subject source="lcsh">Upper Chehalis language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref84" level="file">
+                    <did>
+                        <unittitle>Hunter &amp; Baby text</unittitle>
+                        <unitid>05-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1960-08</unitdate>
+                        <physdesc id="ref85" label="General Physical Description note">
+                            <extent>00:04:56</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Heck, Silas</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Kinkade, M. Dale (Marvin Dale), 1933-</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref86">
+                        <head>Scope and Contents note</head>
+                        <p>Story of a hunter who found a baby boy in a hollow tree.</p>
+                    </scopecontent>
+                    <originalsloc id="ref88">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0930" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:4189">
+                        <daodesc>
+                            <p>APSdigrec_0930</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Chehalis Indians--Folklore</subject>
+                        <geogname source="ingest">Grand Mound (Wash.)</geogname>
+                        <subject source="ingest">Hunters--Folklore</subject>
+                        <subject source="lcsh">Upper Chehalis language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref89" level="file">
+                    <did>
+                        <unittitle>Cougar &amp; his 5 Brothers text</unittitle>
+                        <unitid>05-03</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1960-08</unitdate>
+                        <physdesc id="ref90" label="General Physical Description note">
+                            <extent>00:14:22</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Heck, Silas</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Kinkade, M. Dale (Marvin Dale), 1933-</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref92">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0931" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:4197">
+                        <daodesc>
+                            <p>APSdigrec_0931</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Chehalis Indians--Folklore</subject>
+                        <geogname source="ingest">Grand Mound (Wash.)</geogname>
+                        <subject source="ingest">Puma--Folklore</subject>
+                        <subject source="lcsh">Upper Chehalis language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref93" level="file">
+                    <did>
+                        <unittitle>White men at Mud Bay text</unittitle>
+                        <unitid>05-04</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1960-08</unitdate>
+                        <physdesc id="ref94" label="General Physical Description note">
+                            <extent>00:02:56</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Heck, Silas</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Kinkade, M. Dale (Marvin Dale), 1933-</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref96">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0932" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:4190">
+                        <daodesc>
+                            <p>APSdigrec_0932</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Chehalis Indians--History</subject>
+                        <subject source="ingest">Eld Inlet (Wash.)</subject>
+                        <geogname source="ingest">Grand Mound (Wash.)</geogname>
+                        <subject source="lcsh">Upper Chehalis language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref97" level="file">
+                    <did>
+                        <unittitle>Wren &amp; Snipe text</unittitle>
+                        <unitid>05-05</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1960-08</unitdate>
+                        <physdesc id="ref98" label="General Physical Description note">
+                            <extent>00:08:47</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Heck, Silas</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Kinkade, M. Dale (Marvin Dale), 1933-</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref100">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0933" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:4195">
+                        <daodesc>
+                            <p>APSdigrec_0933</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Birds--Folklore</subject>
+                        <subject source="lcsh">Chehalis Indians--Folklore</subject>
+                        <geogname source="ingest">Grand Mound (Wash.)</geogname>
+                        <subject source="lcsh">Upper Chehalis language</subject>
+                        <subject source="ingest">Wrens--Folklore</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref101" level="file">
+                    <did>
+                        <unittitle>Upper Chehalis grammatical eliciting</unittitle>
+                        <unitid>05-06</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1960-08</unitdate>
+                        <physdesc id="ref102" label="General Physical Description note">
+                            <extent>00:14:35</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Heck, Silas</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Kinkade, M. Dale (Marvin Dale), 1933-</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref104">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0934" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:4198">
+                        <daodesc>
+                            <p>APSdigrec_0934</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Grand Mound (Wash.)</geogname>
+                        <subject source="lcsh">Upper Chehalis language</subject>
+                        <subject source="ingest">Upper Chehalis language--Grammar</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref105" level="file">
+                    <did>
+                        <unittitle>Upper Chehalis grammatical eliciting</unittitle>
+                        <unitid>05-07</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1960-08</unitdate>
+                        <physdesc id="ref106" label="General Physical Description note">
+                            <extent>00:34:58</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Heck, Silas</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Kinkade, M. Dale (Marvin Dale), 1933-</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref108">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0935" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:4191">
+                        <daodesc>
+                            <p>APSdigrec_0935</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Grand Mound (Wash.)</geogname>
+                        <subject source="lcsh">Upper Chehalis language</subject>
+                        <subject source="ingest">Upper Chehalis language--Grammar</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref109" level="file">
+                    <did>
+                        <unittitle>Wren &amp; Elk text</unittitle>
+                        <unitid>05-08</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1960-08</unitdate>
+                        <physdesc id="ref110" label="General Physical Description note">
+                            <extent>00:13:52</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Heck, Silas</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Kinkade, M. Dale (Marvin Dale), 1933-</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref112">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0936" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:4194">
+                        <daodesc>
+                            <p>APSdigrec_0936</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Birds--Folklore</subject>
+                        <subject source="lcsh">Chehalis Indians--Folklore</subject>
+                        <geogname source="ingest">Grand Mound (Wash.)</geogname>
+                        <subject source="lcsh">Upper Chehalis language</subject>
+                        <subject source="ingest">Wrens--Folklore</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref113" level="file">
+                    <did>
+                        <unittitle>Upper Chehalis grammatical eliciting</unittitle>
+                        <unitid>05-09</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1960-08</unitdate>
+                        <physdesc id="ref114" label="General Physical Description note">
+                            <extent>00:05:59</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Heck, Silas</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Kinkade, M. Dale (Marvin Dale), 1933-</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref116">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0937" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:4193">
+                        <daodesc>
+                            <p>APSdigrec_0937</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Grand Mound (Wash.)</geogname>
+                        <subject source="lcsh">Upper Chehalis language</subject>
+                        <subject source="ingest">Upper Chehalis language--Grammar</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

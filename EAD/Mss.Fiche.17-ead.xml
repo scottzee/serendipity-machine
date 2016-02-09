@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Fiche.17-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Fiche.17</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T20:11-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Pennsylvania buildings, [n.d.].</unittitle>
+            <unitid>Mss.Fiche.17</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1817" type="Microfiche" label="Microform">85</container>
+            <physdesc>
+                <extent>85.0 Microfiche card(s)</extent>
+            </physdesc>
+            <unitdate>n.d.</unitdate>
+            <abstract id="ref6" label="Abstract">These surveys of Pennsylvania buildings include photographs of buildings, written historical and descriptive data, and measured drawings of buildings.</abstract>
+            <physdesc id="ref11" label="General Physical Description note">85 microfiche cards.</physdesc>
+            <origination label="creator">
+                <corpname source="ingest" role="Author (aut)">Historic American Buildings Survey.</corpname>
+            </origination>
+        </did>
+        <acqinfo id="ref10">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Purchased from Library of Congress and accessioned, 1984 (1984 639mf). See in-house shelf list for additional accession numbers and information.</p>
+        </acqinfo>
+        <originalsloc id="ref8">
+            <head>Existence and Location of Originals note</head>
+            <p>Originals in Prints and Photographs Division, Library of Congress.</p>
+        </originalsloc>
+        <altformavail id="ref12">
+            <head>Existence and Location of Copies note</head>
+            <p>Also available on microfilm (Film 1459).</p>
+        </altformavail>
+        <controlaccess>
+            <subject source="lcsh">Architecture -- Pennsylvania.</subject>
+            <subject source="lcsh">Buildings -- Pennsylvania.</subject>
+            <genreform source="lcsh">Photoprints.</genreform>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

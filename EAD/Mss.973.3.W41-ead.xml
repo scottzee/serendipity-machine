@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.973.3.W41-ead.xml">PUBLIC "-//American Philosophical Society Library//TEXT(US::PAAV::973.3 W41 :: George Weedon Valley Forge Orderly Book)//EN" "weedonvf.xml"</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>George Weedon Orderly Book
+                    <date type="span">1777-1778</date>
+                    <num>Mss.973.3.W41</num>
+                </titleproper>
+                <subtitle>Valley Forge Orderly Book</subtitle>
+                <author>Finding aid prepared by rsc</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+                <date>2001</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:27-0400</date>
+            </creation>
+            <langusage>ENG</langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>George Weedon Orderly Book</unittitle>
+            <unitid>Mss.973.3.W41</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid118181" type="Volume" label="Bound materials">1</container>
+            <physdesc>
+                <extent>1.0 Volume(s)</extent>
+                <extent>184 P.</extent>
+            </physdesc>
+            <unitdate normal="1777/1778" type="inclusive">1777-1778</unitdate>
+            <abstract id="ref2" label="Abstract">A Brigadier General in the Continental Army, George Weedon served under the immediate command of his fellow Virginian George Washington from, 1776 until 1778. This orderly book was kept under Weedon's command during the fall and winter, 1777-1778, documenting the hardships suffered by the American soldiers during their bitter encampment at Valley Forge.</abstract>
+            <physdesc id="ref1" label="General Physical Description note">1 vol. (184p.)</physdesc>
+            <physloc id="ref12" label="Paging">LH-MV-E-13</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Weedon, George,1734-1793.</persname>
+            </origination>
+        </did>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>A veteran of the French and Indian War and associate of George Washington, the Virginian George Weedon became an ardent proponent to the revolutionary cause. Elected colonel of the 3rd Virginia Regiment on August 13, 1776, Weedon served under Washington's command in New York and in the vicinity of Philadelphia, earning election to Brigadier General on February 21, 1777. He retired from the army, however, early in 1778 when his rival, William Woodford, was given seniority over him at Valley Forge. Weedon later returned to duty with the Virginia Militia, acquitting himself well during the Virginia Campaign of 1781.</p>
+        </bioghist>
+        <scopecontent id="ref4">
+            <head>Scope and Contents note</head>
+            <p>The Valley Forge Orderly Book contains records of General, Divisional, and Brigade orders received under the command of George Weedon between August 25, 1777 and May 7, 1778. Evocative of the hardships faced by the Continental Army during the bitter winter of 1777-1778, the orderly contains the standard round of orders relating to duties and disciplinary matters. The orderly book also includes a plan of battle for the Battle of Germantown, 1777, and plans for the troops at Mount Holly (November 1777) and what appears to be Whitemarsh (November 1777).</p>
+        </scopecontent>
+        <prefercite id="ref6">
+            <head>Preferred Citation note</head>
+            <p>Cite as: George Weedon (Valley Forge) Orderly book, American Philosophical Society.</p>
+        </prefercite>
+        <acqinfo id="ref7">
+            <head>Immediate Source of Acquisition note</head>
+            <p/>
+            <p/>
+        </acqinfo>
+        <processinfo id="ref8">
+            <head>Processing Information note</head>
+            <p>Catalogued by rsc, 2001.</p>
+        </processinfo>
+        <relatedmaterial id="ref9">
+            <head>Related Archival Materials note</head>
+            <p>
+                <archref>The American Philosophical Society houses the papers of George Weedon, which were acquired separately in 1835 (B W41).</archref>
+                <archref>Collections of additional papers of George Weedon appear at Brown University and the Chicago Historical Society (Weedon-Page Collection). He appears as a correspondent in a number of other collections.</archref></p>
+        </relatedmaterial>
+        <bibliography id="ref10">
+            <head>Bibliography</head>
+            <bibref>Published in its entirety as 
+                <title render="italic">Valley Forge Orderly Book of General George Weedon</title> (New York: Dodd Mead, 1902). 
+                <emph render="bold">call no.</emph>: 973.3 W411 c.1.</bibref>
+        </bibliography>
+        <odd id="ref11">
+            <head>Early American History Note</head>
+            <p>This volume contains a daily account of the Continental Army under General George Weedon during their stay at Valley Forge. The volume covers the period known as the “Valley Forge Winter.” Frequent references to the “Commander in Chief” are made. Weedon also provides insight into the daily life of the encampment, reporting daily orders and events, including courts martial.</p>
+        </odd>
+        <controlaccess>
+            <persname rules="aacr" source="naf">Mease, James, 1771-1846</persname>
+            <persname source="ingest">Mercer, Hugh Tennant Weedon, 1776-1853</persname>
+            <persname source="ingest">Stephen, Adam</persname>
+            <persname rules="aacr" source="naf">Washington, George, 1732-1799</persname>
+            <subject source="leah">American Revolution</subject>
+            <subject source="lcsh">Courts-martial and courts of inquiry</subject>
+            <subject source="lcsh">Germantown, Battle of, 1777</subject>
+            <subject source="leah">Military History</subject>
+            <genreform source="leah">Military Records</genreform>
+            <genreform source="leah">Official Government Documents and Records</genreform>
+            <genreform source="lcsh">Orderly books</genreform>
+            <subject source="lcsh">United States--History--Revolution, 1776-1783</subject>
+            <subject source="lcsh">Whitemarsh, Battle of, 1777</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

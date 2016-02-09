@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.612.821.D44.2ms-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.612.821.D44.2ms</num>
+                </titleproper>
+                <author>Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:22-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="item">
+        <did>
+            <unittitle>Physiology of the Mind, [1922]</unittitle>
+            <unitid>Mss.612.821.D44.2ms</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid55243" type="Volume" label="Manuscripts">1-2</container>
+            <physdesc>
+                <extent>2.0 Volume(s)</extent>
+                <extent>1 volume, 217 p., also an accompanying manuscript version in French, Physiologie de la pensée (167 p.)</extent>
+            </physdesc>
+            <unitdate normal="1892/1892">1892</unitdate>
+            <physdesc id="ref3" label="General Physical Description note">1 volume, 217 p. The accompanying French manuscript version, Physiologie de la pensée, is 167 p.</physdesc>
+            <abstract id="ref2" label="Abstract">This was published as 
+                <emph render="italic">An Essay on the Physiology of Mind</emph> (Philadelphia: Saunders, 1922). There is also an accompanying manuscript version in French, "Physiologie de la pensée" (167 pages).</abstract>
+            <physloc id="ref5" label="Paging">LH-MV-E-11</physloc>
+            <origination label="creator">
+                <persname source="naf" role="Author (aut)">Dercum, Francis X. ,  (Francis Xavier), 1856-1931</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref4">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by Mrs. Malcolm Lloyd and Mrs. Samuel W. Mifflin, 1975.</p>
+        </acqinfo>
+        <bioghist id="ref1">
+            <head>Biographical/Historical note</head>
+            <p>Francis Xavier Dercum, a teacher, philosopher and physician, served as President of the APS, 1892.</p>
+        </bioghist>
+        <controlaccess>
+            <subject source="lcsh">Neurology.</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.497.3.W58-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.497.3.W58</num>
+                </titleproper>
+                <author>Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:13-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="item">
+        <did>
+            <unittitle>Hopi Tape Recordings Transcripts; 1964-1969</unittitle>
+            <unitid>Mss.497.3.W58</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="nav"/>
+            </langmaterial>
+            <container id="cid4382" type="Volume" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>1.0 Volume(s)</extent>
+            </physdesc>
+            <unitdate normal="1964/1969" type="inclusive">1964-1969</unitdate>
+            <abstract id="ref4" label="Abstract">These are Hopi and Tewa Indian recording transcriptions, but primarily Hopi. There are eighteen Indian informants who provide information on names of plants, birds, reptiles, and other animals, including domesticated; costumes, including Kachina; migration legend; place-names; kinship terms; numerals; weaving; pottery; Hopi, Huichol and Tarahumara belts; medicine men; etc.</abstract>
+            <physdesc id="ref3" label="General Physical Description note">1 volume, 257 p.</physdesc>
+            <physloc id="ref7" label="Paging">LH-MV-E-8</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Contributor (ctb)">Sheldon, Henry</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Whiting, Alfred F., 1912-1978</persname>
+            </origination>
+        </did>
+        <altformavail id="ref6">
+            <head>Existence and Location of Copies note</head>
+            <p>There are 14 reels of Hopi and Tewa Indian recordings (Rec. 104).</p>
+        </altformavail>
+        <acqinfo id="ref5">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by the Dept. of Anthropology, Northern Arizona University, through David Seaman, 1976</p>
+        </acqinfo>
+        <bioghist id="ref2">
+            <head>Biographical/Historical note</head>
+            <p>Alfred F. Whiting was a botanist, anthropologist, and ethnobotanist.</p>
+        </bioghist>
+        <controlaccess>
+            <subject source="lcsh">Hopi Indians--Names</subject>
+            <subject source="lcsh">Hopi language</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

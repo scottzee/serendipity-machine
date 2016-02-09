@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.492.4.B98th-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.492.4.B98th</num>
+                </titleproper>
+                <author>Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:10-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="item">
+        <did>
+            <unittitle>Hebrew grammar</unittitle>
+            <unitid>Mss.492.4.B98th</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="heb"/>
+            </langmaterial>
+            <container id="cid392" type="Volume" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>1.0 Volume(s)</extent>
+                <extent>1 volume, 270 p.</extent>
+            </physdesc>
+            <unitdate>n.d. </unitdate>
+            <abstract id="ref1" label="Abstract">This is a manuscript translation into English by Jonas Altamont Phillips. Inside the cover is written "Translation of Buxtorf's Hebrew Grammar commenced 9th December 1824 Philadelphia" and "continued at intervals until"....</abstract>
+            <physdesc id="ref2" label="General Physical Description note">1 volume, 270 p.</physdesc>
+            <physloc id="ref7" label="Paging">LH-MV-E-8</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Buxtorf, Johann, 1564-1629</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Phillips, Jonas Altamont, tr.</persname>
+            </origination>
+        </did>
+        <bioghist id="ref5">
+            <head>Biographical/Historical note</head>
+            <p>Johann Buxtorf was a German Hebrew scholar and philologist.</p>
+        </bioghist>
+        <acqinfo id="ref4">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Gift from Henry Phillips, Jr., 1890 (5496).</p>
+        </acqinfo>
+        <odd id="ref3">
+            <head>General note</head>
+            <p>This item is also available on microfilm (Film 1407).</p>
+        </odd>
+        <odd id="ref6">
+            <head>Early American History Note</head>
+            <p>This large volume, written in 1824, contains a guide to Hebrew grammar.</p>
+        </odd>
+        <controlaccess>
+            <persname rules="aacr" source="naf" role="Donor (dnr)">Phillips, Henry, Jr.</persname>
+            <subject source="lcsh">Hebrew language</subject>
+            <subject source="leah">Language and Linguistics</subject>
+            <genreform source="leah">Language Material</genreform>
+            <subject source="leah">Religion</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

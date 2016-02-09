@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Film.692b-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Film.692b</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T20:16-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="item">
+        <did>
+            <unittitle>A topographic memoir on East and West Florida, 1818</unittitle>
+            <unitid>Mss.Film.692b</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1912" type="Reel" label="Microform">1</container>
+            <physdesc>
+                <extent>1.0 Microfilm reel(s)</extent>
+            </physdesc>
+            <unitdate>1818</unitdate>
+            <abstract id="ref12" label="Abstract">This memoir includes sections on East Florida's boundaries, physical characteristics, navigation, Indian customs, Spanish settlements, Negroes, agricultural products, and climate. Also included are itineraries for East and West Florida.</abstract>
+            <physdesc id="ref23" label="General Physical Description note">1 microfilm reel.</physdesc>
+            <physloc id="ref27" label="Paging">LH-RR-Media Rm-3</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Young, Hugh,d. 1822.</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref11">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by Francis W. Rawle, 1954.</p>
+        </acqinfo>
+        <userestrict id="ref9">
+            <head>Conditions Governing Use note</head>
+            <p>Permission necessary for duplication.</p>
+        </userestrict>
+        <scopecontent id="ref24">
+            <head>Scope and Contents note</head>
+            <p>A chapter of this memoir is devoted to Seminole and aboriginal inhabitants of Florida: names, numbers, settlements, war and treaties, councils, marriage, trade, amusement, etc.</p>
+        </scopecontent>
+        <odd id="ref7">
+            <head>General note</head>
+            <p>Also found on this reel is Benjamin Hawkins' Journal of occurrences in the Creek agency from January to the conclusion of the conference and treaty at Fort Williamson, 1802 (Film 692a).</p>
+        </odd>
+        <bioghist id="ref5">
+            <head>Biographical/Historical note</head>
+            <p>Hugh Young was an army officer.</p>
+        </bioghist>
+        <originalsloc id="ref3">
+            <head>Existence and Location of Originals note</head>
+            <p>Originals in possession of Francis W. Rawle.</p>
+        </originalsloc>
+        <altformavail id="ref25">
+            <head>Existence and Location of Copies note</head>
+            <p>Printed, Boyd (1934), 
+                <emph render="italic">Florida Historical Society Quarterly</emph> 13: 16-50, 82-104.</p>
+        </altformavail>
+        <odd id="ref26">
+            <head>Early American History Note</head>
+            <p>This is a microfilm of an early American collection that may be of interest to researchers at the APS and may complement an original manuscript collection at the APS.</p>
+        </odd>
+        <controlaccess>
+            <subject source="lcsh">African Americans--Florida</subject>
+            <geogname source="lcsh">Florida -- Climate.</geogname>
+            <geogname source="lcsh">Florida -- Description and travel.</geogname>
+            <subject source="lcsh">Indians of North America--Social life and customs</subject>
+            <genreform source="lcsh">Itineraries.</genreform>
+            <genreform source="leah">Microfilm Collection</genreform>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

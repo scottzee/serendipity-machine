@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.H.S.Film.31-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.H.S.Film.31</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T20:17-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>George Ellery Hale papers, 1882-1937</unittitle>
+            <unitid>Mss.H.S.Film.31</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1948" type="Reel" label="Manuscripts">1-100</container>
+            <physdesc>
+                <extent>100.0 Microfilm reel(s)</extent>
+            </physdesc>
+            <unitdate normal="1882/1937" type="inclusive">1882-1937</unitdate>
+            <abstract id="ref1" label="Abstract">Apart from its importance for the study of Hale's personal and professional life, the collection is one of the richest sources for the history of science in the United States in the early twentieth century. It contains a good deal of significant material relating to the theoretical and instrumental development of astrophysics and the history of the Mount Wilson and Palomar Observatories. The collection is of singular importance for the study of science and government, particularly with respect to the affairs of the National Academy of Sciences and the National Research Council. It documents much of the early history of the California Institute of Technology. Finally, it contains substantial material on the general affairs of the scientific community in the United States and Europe [from Kevles 1968].</abstract>
+            <physdesc id="ref12" label="General Physical Description note">100 microfilm reels.</physdesc>
+            <physloc id="ref13" label="Paging">LH-RR-Media Rm-7 and 8</physloc>
+            <origination label="creator">
+                <persname source="naf" role="Author (aut)">Hale , George Ellery, 1868-1938</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref11">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Purchased from Microfilm Company of California ($550.000), Pasadena, CA., and accessioned, 6/06/1968 (1968 1619mf).</p>
+        </acqinfo>
+        <arrangement id="ref9">
+            <head>Arrangement note</head>
+            <p>This collection is organizaed into 6 series: I. Correspondence with Individuals. II. Organizational Correspondence. III. Family Correspondence. IV. Scientific Work. V. Biographical and Personal Material. VI. Director's Files of the Mt. Wilson Observatory.</p>
+        </arrangement>
+        <odd id="ref7">
+            <head>General note</head>
+            <p>For a description of the contents of this collection, see Daniel J. Kevles, ed., "Guide to the Microfilm Edition of the George Ellery Hale Papers" (Carnegie Institute of Washington, 1968).</p>
+        </odd>
+        <bioghist id="ref5">
+            <head>Biographical/Historical note</head>
+            <p>George Ellery Hale was an astrophysicist. He was the organizer and director of the Mount Wilson Observatory of the Carnegie Institute of Washington, 1904-1923, and was honorary director until his death in 1938. His principal scientific researches were made in stellar spectroscopy.</p>
+        </bioghist>
+        <originalsloc id="ref3">
+            <head>Existence and Location of Originals note</head>
+            <p>Originals in Mount Wilson and Palomar Observatories Library, Pasadena, CA.</p>
+        </originalsloc>
+        <controlaccess>
+            <corpname rules="aacr" source="naf">California Institute of Technology.</corpname>
+            <corpname source="ingest">Mount Wilson Observatory.</corpname>
+            <corpname rules="aacr" source="naf">National Academy of Sciences. (U.S.)</corpname>
+            <corpname rules="aacr" source="naf">National Research Council (U.S.). Committee for Research in Problems of Sex.</corpname>
+            <corpname source="ingest">Palomar Observatory.</corpname>
+            <occupation source="lcsh">Astronomers -- United States.</occupation>
+            <subject source="lcsh">Astronomical instruments.</subject>
+            <subject source="lcsh">Astronomical observatories -- United States.</subject>
+            <subject source="lcsh">Astronomical spectroscopy.</subject>
+            <subject source="lcsh">Astronomy.</subject>
+            <subject source="lcsh">Astrophysics.</subject>
+            <subject source="lcsh">Science -- History -- 20th century.</subject>
+            <subject source="lcsh">Science and state -- United States.</subject>
+            <subject source="lcsh">Spectroheliograph.</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

@@ -1,0 +1,3348 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Ms.Coll.114-ead.xml">PUBLIC "-//American Philosophical Society Library//TEXT(US::PAAV::Ms Coll 114:: Walter Goad Papers)//EN" "goad.xml"</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Walter B. Goad Papers
+                    <date type="span">1942-2000</date>
+                    <num>Mss.Ms.Coll.114</num>
+                </titleproper>
+                <author>Finding aid prepared by rsc</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+                <date>2001</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T20:23-0400</date>
+            </creation>
+            <langusage>ENG</langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Walter Goad Papers</unittitle>
+            <unitid>Mss.Ms.Coll.114</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>7.0 Linear feet</extent>
+            </physdesc>
+            <unitdate normal="1942/2000" type="inclusive">1942-2000</unitdate>
+            <abstract id="ref1" label="Abstract">A physicist with the Theoretical Division of Los Alamos Scientific Laboratory, Walter Goad became interested in molecular biology in the mid-1960s, devoting nearly all of his research to the analysis, storage and retrieval of information relating to nucleic acid sequences by the early 1970s. He was among the founders of GenBank, the world's first nucleic acid database, and was influential in the development of computational techniques for the analysis of DNA sequences. In the late 1980s, he served on the steering committee overseeing the establishment of the Human Genome Project. The Goad Papers relate primarily to the establishment and early operation of GenBank, the early phases of the Human Genome Project, and, more generally, to Goad's role as godfather of the new field of bioinformatics.</abstract>
+            <physloc id="ref379" label="Paging">LH-SB-20-6</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Goad, Walter B., 1925-2000</persname>
+            </origination>
+        </did>
+        <index id="ref374">
+            <head>Index</head>
+            <p></p>
+            <indexentry>
+                <subject>Hildebrand, Carl E.</subject>
+                <ref target="ref206"/>
+            </indexentry>
+            <indexentry>
+                <subject>Hildebrand, Carl E.</subject>
+                <ref target="ref221"/>
+            </indexentry>
+            <indexentry>
+                <subject>Hillman, Dean E.</subject>
+                <ref target="ref155"/>
+            </indexentry>
+            <indexentry>
+                <subject>Hollister, Charlotte</subject>
+                <ref target="ref117"/>
+            </indexentry>
+            <indexentry>
+                <subject>Hood, Lee</subject>
+                <ref target="ref236"/>
+            </indexentry>
+            <indexentry>
+                <subject>Howard Hughes Medical Institute</subject>
+                <ref target="ref242"/>
+            </indexentry>
+            <indexentry>
+                <subject>Howey, Richard L.</subject>
+                <ref target="ref104"/>
+            </indexentry>
+            <indexentry>
+                <subject>Human Genome Organization</subject>
+                <ref target="ref209"/>
+            </indexentry>
+            <indexentry>
+                <subject>Human Genome Project</subject>
+                <ref target="ref29"/>
+            </indexentry>
+            <indexentry>
+                <subject>Human Genome Project</subject>
+                <ref target="ref174"/>
+            </indexentry>
+            <indexentry>
+                <subject>Human Genome Project</subject>
+                <ref target="ref205"/>
+            </indexentry>
+            <indexentry>
+                <subject>Human Genome Project</subject>
+                <ref target="ref294"/>
+            </indexentry>
+            <indexentry>
+                <subject>Human Genome Workshop (Santa Cruz, Calif., 1985)</subject>
+                <ref target="ref233"/>
+            </indexentry>
+            <indexentry>
+                <subject>Human Genome Workshop (Santa Cruz, Calif., 1985)</subject>
+                <ref target="ref236"/>
+            </indexentry>
+            <indexentry>
+                <subject>Hydrogen bomb</subject>
+                <ref target="ref337"/>
+            </indexentry>
+            <indexentry>
+                <subject>Inoue, Hideo</subject>
+                <ref target="ref107"/>
+            </indexentry>
+            <indexentry>
+                <subject>Intelligenetics</subject>
+                <ref target="ref120"/>
+            </indexentry>
+            <indexentry>
+                <subject>Intelligenetics</subject>
+                <ref target="ref123"/>
+            </indexentry>
+            <indexentry>
+                <subject>Intelligenetics</subject>
+                <ref target="ref108"/>
+            </indexentry>
+            <indexentry>
+                <subject>International CODATA Workshop (1st : 1987 : Gaithersburg, Md.)</subject>
+                <ref target="ref264"/>
+            </indexentry>
+            <indexentry>
+                <subject>International Union of Biocheamistry. Nomenclature Committee</subject>
+                <ref target="ref106"/>
+            </indexentry>
+            <indexentry>
+                <subject>Isono, Katsumi</subject>
+                <ref target="ref291"/>
+            </indexentry>
+            <indexentry>
+                <subject>Jordan, Elke</subject>
+                <ref target="ref102"/>
+            </indexentry>
+            <indexentry>
+                <subject>Jordan, Elke</subject>
+                <ref target="ref103"/>
+            </indexentry>
+            <indexentry>
+                <subject>Jordan, Elke</subject>
+                <ref target="ref142"/>
+            </indexentry>
+            <indexentry>
+                <subject>Journal of Biological Chemistry</subject>
+                <ref target="ref106"/>
+            </indexentry>
+            <indexentry>
+                <subject>Journal of Virology</subject>
+                <ref target="ref107"/>
+            </indexentry>
+            <indexentry>
+                <subject>Kanehisa, Minoru</subject>
+                <ref target="ref105"/>
+            </indexentry>
+            <indexentry>
+                <persname>Kanehisa, Minoru</persname>
+                <ref target="ref191"/>
+            </indexentry>
+            <indexentry>
+                <subject>Heron, Elaine Jones</subject>
+                <ref target="ref236"/>
+            </indexentry>
+            <indexentry>
+                <subject>Blumberg, Baruch S., 1925-</subject>
+                <ref target="ref318"/>
+            </indexentry>
+            <indexentry>
+                <subject>Boats and boating</subject>
+                <ref target="ref345"/>
+            </indexentry>
+            <indexentry>
+                <subject>Bolt, Beranek, and Newman</subject>
+                <ref target="ref120"/>
+            </indexentry>
+            <indexentry>
+                <subject>Bolt, Beranek, and Newman</subject>
+                <ref target="ref123"/>
+            </indexentry>
+            <indexentry>
+                <subject>Bolt, Beranek, and Newman</subject>
+                <ref target="ref104"/>
+            </indexentry>
+            <indexentry>
+                <subject>Bolt, Beranek, and Newman</subject>
+                <ref target="ref106"/>
+            </indexentry>
+            <indexentry>
+                <subject>Bolt, Beranek, and Newman</subject>
+                <ref target="ref129"/>
+            </indexentry>
+            <indexentry>
+                <subject>Bolt, Beranek, and Newman</subject>
+                <ref target="ref164"/>
+            </indexentry>
+            <indexentry>
+                <subject>Bradbury, Norris</subject>
+                <ref target="ref75"/>
+            </indexentry>
+            <indexentry>
+                <subject>Branscomb, Elbert W.</subject>
+                <ref target="ref236"/>
+            </indexentry>
+            <indexentry>
+                <subject>Brownstein, Charles</subject>
+                <ref target="ref258"/>
+            </indexentry>
+            <indexentry>
+                <subject>Brutlag, Douglas</subject>
+                <ref target="ref102"/>
+            </indexentry>
+            <indexentry>
+                <subject>Brutlag, Douglas</subject>
+                <ref target="ref103"/>
+            </indexentry>
+            <indexentry>
+                <subject>Brutlag, Douglas</subject>
+                <ref target="ref103"/>
+            </indexentry>
+            <indexentry>
+                <subject>Brutlag, Douglas</subject>
+                <ref target="ref142"/>
+            </indexentry>
+            <indexentry>
+                <persname>Burks, Christian</persname>
+                <ref target="ref184"/>
+            </indexentry>
+            <indexentry>
+                <subject>Burks, Christian</subject>
+                <ref target="ref197"/>
+            </indexentry>
+            <indexentry>
+                <subject>Burks, Christian</subject>
+                <ref target="ref206"/>
+            </indexentry>
+            <indexentry>
+                <subject>Burks, Christian</subject>
+                <ref target="ref233"/>
+            </indexentry>
+            <indexentry>
+                <subject>Burks, Christian</subject>
+                <ref target="ref342"/>
+            </indexentry>
+            <indexentry>
+                <subject>Burris, John</subject>
+                <ref target="ref206"/>
+            </indexentry>
+            <indexentry>
+                <subject>Buxton, R. S.</subject>
+                <ref target="ref105"/>
+            </indexentry>
+            <indexentry>
+                <subject>Cahill, George F.</subject>
+                <ref target="ref106"/>
+            </indexentry>
+            <indexentry>
+                <subject>Cahill, George F.</subject>
+                <ref target="ref206"/>
+            </indexentry>
+            <indexentry>
+                <subject>Cambridge University</subject>
+                <ref target="ref27"/>
+            </indexentry>
+            <indexentry>
+                <subject>&gt;Cameron, Graham</subject>
+                <ref target="ref169"/>
+            </indexentry>
+            <indexentry>
+                <subject>Cantor, Charles R.</subject>
+                <ref target="ref106"/>
+            </indexentry>
+            <indexentry>
+                <subject>Cantor, Charles R.</subject>
+                <ref target="ref215"/>
+            </indexentry>
+            <indexentry>
+                <subject>Cantor, Charles R.</subject>
+                <ref target="ref236"/>
+            </indexentry>
+            <indexentry>
+                <subject>Carrano, Anthony V.</subject>
+                <ref target="ref236"/>
+            </indexentry>
+            <indexentry>
+                <subject>Cassatt, James</subject>
+                <ref target="ref106"/>
+            </indexentry>
+            <indexentry>
+                <subject>Cassatt, James</subject>
+                <ref target="ref117"/>
+            </indexentry>
+            <indexentry>
+                <subject>Chinese--United States</subject>
+                <ref target="ref59"/>
+            </indexentry>
+            <indexentry>
+                <subject>Chromosome mapping</subject>
+                <ref target="ref206"/>
+            </indexentry>
+            <indexentry>
+                <subject>Chromosome mapping</subject>
+                <ref target="ref212"/>
+            </indexentry>
+            <indexentry>
+                <subject>Claverie, J.-M.</subject>
+                <ref target="ref104"/>
+            </indexentry>
+            <indexentry>
+                <subject>CODATA</subject>
+                <ref target="ref258"/>
+            </indexentry>
+            <indexentry>
+                <subject>CODATA</subject>
+                <ref target="ref261"/>
+            </indexentry>
+            <indexentry>
+                <subject>CODATA</subject>
+                <ref target="ref264"/>
+            </indexentry>
+            <indexentry>
+                <subject>CODATA</subject>
+                <ref target="ref267"/>
+            </indexentry>
+            <indexentry>
+                <subject>Comings, David E.</subject>
+                <ref target="ref233"/>
+            </indexentry>
+            <indexentry>
+                <subject>Comings, David E.</subject>
+                <ref target="ref236"/>
+            </indexentry>
+            <indexentry>
+                <subject>Complex Carbohydrate Structure Data Base Workshop (1987 : Auburn, N.Y.)</subject>
+                <ref target="ref285"/>
+            </indexentry>
+            <indexentry>
+                <subject>Computers</subject>
+                <ref target="ref22"/>
+            </indexentry>
+            <indexentry>
+                <subject>Coulson, A. F. W.</subject>
+                <ref target="ref106"/>
+            </indexentry>
+            <indexentry>
+                <subject>Cummings, Michael</subject>
+                <ref target="ref107"/>
+            </indexentry>
+            <indexentry>
+                <subject>Dana-Farber Cancer Institute</subject>
+                <ref target="ref139"/>
+            </indexentry>
+            <indexentry>
+                <subject>Databases</subject>
+                <ref target="ref181"/>
+            </indexentry>
+            <indexentry>
+                <subject>Davidson, Daniel B.</subject>
+                <ref target="ref175"/>
+            </indexentry>
+            <indexentry>
+                <subject>Dayhoff, Margaret O.</subject>
+                <ref target="ref103"/>
+            </indexentry>
+            <indexentry>
+                <subject>Dayhoff, Margaret O.</subject>
+                <ref target="ref145"/>
+            </indexentry>
+            <indexentry>
+                <subject>Dayhoff, Margaret O.</subject>
+                <ref target="ref276"/>
+            </indexentry>
+            <indexentry>
+                <subject>DeLisi, Charles</subject>
+                <ref target="ref233"/>
+            </indexentry>
+            <indexentry>
+                <subject>DeVita, Vincent T.</subject>
+                <ref target="ref282"/>
+            </indexentry>
+            <indexentry>
+                <subject>Escherichia coli</subject>
+                <ref target="ref107"/>
+            </indexentry>
+            <indexentry>
+                <subject>Escherichia coli</subject>
+                <ref target="ref191"/>
+            </indexentry>
+            <indexentry>
+                <subject>European Molecular Biology Laboratory</subject>
+                <ref target="ref105"/>
+            </indexentry>
+            <indexentry>
+                <subject>European Molecular Biology Laboratory</subject>
+                <ref target="ref106"/>
+            </indexentry>
+            <indexentry>
+                <subject>European Molecular Biology Laboratory</subject>
+                <ref target="ref117"/>
+            </indexentry>
+            <indexentry>
+                <subject>European Molecular Biology Laboratory</subject>
+                <ref target="ref166"/>
+            </indexentry>
+            <indexentry>
+                <subject>European Molecular Biology Laboratory</subject>
+                <ref target="ref169"/>
+            </indexentry>
+            <indexentry>
+                <subject>Exploring the Role of Robotics and Automation in Decoding the Human Genome (1987: Santa Fe)</subject>
+                <ref target="ref288"/>
+            </indexentry>
+            <indexentry>
+                <subject>Federal Bureau of Investigation</subject>
+                <ref target="ref59"/>
+            </indexentry>
+            <indexentry>
+                <subject>Federation of American Scientists</subject>
+                <ref target="ref337"/>
+            </indexentry>
+            <indexentry>
+                <subject>Feigenbaum, Edward A.</subject>
+                <ref target="ref142"/>
+            </indexentry>
+            <indexentry>
+                <subject>Fickett, James W.</subject>
+                <ref target="ref184"/>
+            </indexentry>
+            <indexentry>
+                <subject>Fickett, James W.</subject>
+                <ref target="ref197"/>
+            </indexentry>
+            <indexentry>
+                <subject>Fickett, James W.</subject>
+                <ref target="ref342"/>
+            </indexentry>
+            <indexentry>
+                <subject>Fitch, Walter M.</subject>
+                <ref target="ref102"/>
+            </indexentry>
+            <indexentry>
+                <subject>Friedland, P.</subject>
+                <ref target="ref142"/>
+            </indexentry>
+            <indexentry>
+                <subject>Fripp, W.</subject>
+                <ref target="ref200"/>
+            </indexentry>
+            <indexentry>
+                <subject>Gelinas, Richard</subject>
+                <ref target="ref236"/>
+            </indexentry>
+            <indexentry>
+                <subject>GenBank</subject>
+                <ref target="ref28"/>
+            </indexentry>
+            <indexentry>
+                <subject>GenBank</subject>
+                <ref target="ref67"/>
+            </indexentry>
+            <indexentry>
+                <subject>GenBank</subject>
+                <ref target="ref76"/>
+            </indexentry>
+            <indexentry>
+                <subject>GenBank</subject>
+                <ref target="ref79"/>
+            </indexentry>
+            <indexentry>
+                <subject>GenBank</subject>
+                <ref target="ref90"/>
+            </indexentry>
+            <indexentry>
+                <subject>GenBank</subject>
+                <ref target="ref101"/>
+            </indexentry>
+            <indexentry>
+                <subject>GenBank</subject>
+                <ref target="ref366"/>
+            </indexentry>
+            <indexentry>
+                <subject>Gene mapping</subject>
+                <ref target="ref206"/>
+            </indexentry>
+            <indexentry>
+                <subject>Gene mapping</subject>
+                <ref target="ref212"/>
+            </indexentry>
+            <indexentry>
+                <subject>Gene mapping</subject>
+                <ref target="ref221"/>
+            </indexentry>
+            <indexentry>
+                <subject>Gene mapping</subject>
+                <ref target="ref291"/>
+            </indexentry>
+            <indexentry>
+                <subject>Genomics</subject>
+                <ref target="ref212"/>
+            </indexentry>
+            <indexentry>
+                <subject>Genomics</subject>
+                <ref target="ref215"/>
+            </indexentry>
+            <indexentry>
+                <subject>Genomics</subject>
+                <ref target="ref221"/>
+            </indexentry>
+            <indexentry>
+                <subject>Genomics</subject>
+                <ref target="ref242"/>
+            </indexentry>
+            <indexentry>
+                <subject>Genomics</subject>
+                <ref target="ref239"/>
+            </indexentry>
+            <indexentry>
+                <subject>Genomics</subject>
+                <ref target="ref233"/>
+            </indexentry>
+            <indexentry>
+                <subject>Genomics</subject>
+                <ref target="ref236"/>
+            </indexentry>
+            <indexentry>
+                <subject>Gilbert, Walter</subject>
+                <ref target="ref233"/>
+            </indexentry>
+            <indexentry>
+                <subject>Goad, Maxine S.</subject>
+                <ref target="ref318"/>
+            </indexentry>
+            <indexentry>
+                <subject>Goad, Maxine S.</subject>
+                <ref target="ref348"/>
+            </indexentry>
+            <indexentry>
+                <subject>Goad, Maxine S.</subject>
+                <ref target="ref345"/>
+            </indexentry>
+            <indexentry>
+                <subject>Goldstein, Byron</subject>
+                <ref target="ref318"/>
+            </indexentry>
+            <indexentry>
+                <subject>Hamm, Greg H.</subject>
+                <ref target="ref138"/>
+            </indexentry>
+            <indexentry>
+                <subject>Hamm, Greg H.</subject>
+                <ref target="ref166"/>
+            </indexentry>
+            <indexentry>
+                <subject>Hamm, Greg H.</subject>
+                <ref target="ref169"/>
+            </indexentry>
+            <indexentry>
+                <subject>Hearst, John E.</subject>
+                <ref target="ref236"/>
+            </indexentry>
+            <indexentry>
+                <subject>Heart, Frank E.</subject>
+                <ref target="ref108"/>
+            </indexentry>
+            <indexentry>
+                <subject>Bell, George I.</subject>
+                <ref target="ref102"/>
+            </indexentry>
+            <indexentry>
+                <subject>Bell, George I.</subject>
+                <ref target="ref103"/>
+            </indexentry>
+            <indexentry>
+                <subject>Bell, George I.</subject>
+                <ref target="ref106"/>
+            </indexentry>
+            <indexentry>
+                <subject>Bell, George I.</subject>
+                <ref target="ref173"/>
+            </indexentry>
+            <indexentry>
+                <subject>Bell, George I.</subject>
+                <ref target="ref161"/>
+            </indexentry>
+            <indexentry>
+                <subject>Bell, George I.</subject>
+                <ref target="ref200"/>
+            </indexentry>
+            <indexentry>
+                <subject>Bell, George I.</subject>
+                <ref target="ref248"/>
+            </indexentry>
+            <indexentry>
+                <subject>Bell, George I.</subject>
+                <ref target="ref264"/>
+            </indexentry>
+            <indexentry>
+                <subject>Bilofsky, Howard S.</subject>
+                <ref target="ref184"/>
+            </indexentry>
+            <indexentry>
+                <subject>Bioinformatics</subject>
+                <ref target="ref206"/>
+            </indexentry>
+            <indexentry>
+                <subject>Bioinformatics</subject>
+                <ref target="ref212"/>
+            </indexentry>
+            <indexentry>
+                <subject>Bitensky, Mark</subject>
+                <ref target="ref206"/>
+            </indexentry>
+            <indexentry>
+                <subject>Bitensky, Mark</subject>
+                <ref target="ref233"/>
+            </indexentry>
+            <indexentry>
+                <subject>Bitensky, Mark</subject>
+                <ref target="ref236"/>
+            </indexentry>
+            <indexentry>
+                <subject>Bitensky, Mark</subject>
+                <ref target="ref279"/>
+            </indexentry>
+            <indexentry>
+                <subject>Blumberg, Baruch S., 1925-</subject>
+                <ref target="ref102"/>
+            </indexentry>
+            <indexentry>
+                <subject>Anderson, Norman</subject>
+                <ref target="ref233"/>
+            </indexentry>
+            <indexentry>
+                <subject>Apirion, David</subject>
+                <ref target="ref104"/>
+            </indexentry>
+            <indexentry>
+                <subject>Anderson, N. Leigh</subject>
+                <ref target="ref233"/>
+            </indexentry>
+            <indexentry>
+                <subject>American Type Culture Collection</subject>
+                <ref target="ref242"/>
+            </indexentry>
+            <indexentry>
+                <subject>Kashdan, Maurice</subject>
+                <ref target="ref236"/>
+            </indexentry>
+            <indexentry>
+                <subject>Kedes, Lawrence</subject>
+                <ref target="ref142"/>
+            </indexentry>
+            <indexentry>
+                <subject>Kerr, Donald M.</subject>
+                <ref target="ref161"/>
+            </indexentry>
+            <indexentry>
+                <subject>King, Donald West</subject>
+                <ref target="ref75"/>
+            </indexentry>
+            <indexentry>
+                <subject>Kingsbury, David</subject>
+                <ref target="ref107"/>
+            </indexentry>
+            <indexentry>
+                <subject>Knight, Gary A.</subject>
+                <ref target="ref75"/>
+            </indexentry>
+            <indexentry>
+                <subject>Kohara, Yuji</subject>
+                <ref target="ref291"/>
+            </indexentry>
+            <indexentry>
+                <subject>Laboratory of Mathematical Biology</subject>
+                <ref target="ref69"/>
+            </indexentry>
+            <indexentry>
+                <subject>Lathe, Richard</subject>
+                <ref target="ref105"/>
+            </indexentry>
+            <indexentry>
+                <subject>Lee, Wen Ho</subject>
+                <ref target="ref17"/>
+            </indexentry>
+            <indexentry>
+                <subject>Lee, Wen Ho</subject>
+                <ref target="ref59"/>
+            </indexentry>
+            <indexentry>
+                <subject>Leenart, Frieda</subject>
+                <ref target="ref166"/>
+            </indexentry>
+            <indexentry>
+                <subject>Lehrach, Hans</subject>
+                <ref target="ref291"/>
+            </indexentry>
+            <indexentry>
+                <subject>Lerman, Leonard</subject>
+                <ref target="ref288"/>
+            </indexentry>
+            <indexentry>
+                <subject>Lerman, Leonard</subject>
+                <ref target="ref345"/>
+            </indexentry>
+            <indexentry>
+                <subject>Lerman, Leonard S.</subject>
+                <ref target="ref191"/>
+            </indexentry>
+            <indexentry>
+                <subject>Levine, Arnold</subject>
+                <ref target="ref107"/>
+            </indexentry>
+            <indexentry>
+                <subject>Lind, David A.</subject>
+                <ref target="ref107"/>
+            </indexentry>
+            <indexentry>
+                <subject>Lindbergh, Donald A. B.</subject>
+                <ref target="ref197"/>
+            </indexentry>
+            <indexentry>
+                <subject>Loehr, John Joseph</subject>
+                <ref target="ref218"/>
+            </indexentry>
+            <indexentry>
+                <subject>Los Alamos Scientific Laboratory</subject>
+                <ref target="ref28"/>
+            </indexentry>
+            <indexentry>
+                <subject>Los Alamos Scientific Laboratory</subject>
+                <ref target="ref59"/>
+            </indexentry>
+            <indexentry>
+                <subject>Los Alamos Scientific Laboratory</subject>
+                <ref target="ref22"/>
+            </indexentry>
+            <indexentry>
+                <subject>Los Alamos Scientific Laboratory</subject>
+                <ref target="ref120"/>
+            </indexentry>
+            <indexentry>
+                <subject>Los Alamos Scientific Laboratory</subject>
+                <ref target="ref123"/>
+            </indexentry>
+            <indexentry>
+                <subject>Los Alamos Scientific Laboratory</subject>
+                <ref target="ref111"/>
+            </indexentry>
+            <indexentry>
+                <subject>Los Alamos Scientific Laboratory</subject>
+                <ref target="ref117"/>
+            </indexentry>
+            <indexentry>
+                <subject>Los Alamos Scientific Laboratory</subject>
+                <ref target="ref161"/>
+            </indexentry>
+            <indexentry>
+                <subject>Los Alamos Scientific Laboratory</subject>
+                <ref target="ref279"/>
+            </indexentry>
+            <indexentry>
+                <subject>Los Alamos Scientific Laboratory</subject>
+                <ref target="ref337"/>
+            </indexentry>
+            <indexentry>
+                <subject>Los Alamos Scientific Laboratory</subject>
+                <ref target="ref351"/>
+            </indexentry>
+            <indexentry>
+                <subject>Los Alamos Scientific Laboratory</subject>
+                <ref target="ref342"/>
+            </indexentry>
+            <indexentry>
+                <subject>Los Alamos Scientific Laboratory. Group T-10</subject>
+                <ref target="ref172"/>
+            </indexentry>
+            <indexentry>
+                <subject>Los Alamos Scientific Laboratory. Group T-10</subject>
+                <ref target="ref178"/>
+            </indexentry>
+            <indexentry>
+                <subject>Marine Biological Laboratory (Woods Hole, Mass.)</subject>
+                <ref target="ref270"/>
+            </indexentry>
+            <indexentry>
+                <subject>Marine Biological Laboratory (Woods Hole, Mass.)</subject>
+                <ref target="ref354"/>
+            </indexentry>
+            <indexentry>
+                <subject>Mark, J. Carson</subject>
+                <ref target="ref105"/>
+            </indexentry>
+            <indexentry>
+                <subject>Martinez, Hugo</subject>
+                <ref target="ref106"/>
+            </indexentry>
+            <indexentry>
+                <subject>Maruyama, Takeo</subject>
+                <ref target="ref138"/>
+            </indexentry>
+            <indexentry>
+                <subject>Maxam, Allan M.</subject>
+                <ref target="ref139"/>
+            </indexentry>
+            <indexentry>
+                <subject>McDonnell, Michael T.</subject>
+                <ref target="ref264"/>
+            </indexentry>
+            <indexentry>
+                <subject>Messing, Joachim</subject>
+                <ref target="ref106"/>
+            </indexentry>
+            <indexentry>
+                <subject>Mitra, Sankar</subject>
+                <ref target="ref236"/>
+            </indexentry>
+            <indexentry>
+                <subject>Molecular biology</subject>
+                <ref target="ref28"/>
+            </indexentry>
+            <indexentry>
+                <subject>Molecular biology</subject>
+                <ref target="ref22"/>
+            </indexentry>
+            <indexentry>
+                <subject>Molecular evolution</subject>
+                <ref target="ref270"/>
+            </indexentry>
+            <indexentry>
+                <subject>Molecular genetics</subject>
+                <ref target="ref273"/>
+            </indexentry>
+            <indexentry>
+                <subject>Moyzis, Robert K.</subject>
+                <ref target="ref218"/>
+            </indexentry>
+            <indexentry>
+                <subject>Moyzis, Robert K.</subject>
+                <ref target="ref221"/>
+            </indexentry>
+            <indexentry>
+                <subject>Murray, Ken</subject>
+                <ref target="ref102"/>
+            </indexentry>
+            <indexentry>
+                <subject>Murray, Ken</subject>
+                <ref target="ref166"/>
+            </indexentry>
+            <indexentry>
+                <subject>Myers, Gerald</subject>
+                <ref target="ref318"/>
+            </indexentry>
+            <indexentry>
+                <subject>National Cancer Institute. Laboratory of Mathematical Biology</subject>
+                <ref target="ref230"/>
+            </indexentry>
+            <indexentry>
+                <subject>National Institute of General Medical Sciences</subject>
+                <ref target="ref123"/>
+            </indexentry>
+            <indexentry>
+                <subject>National Institute of General Medical Sciences</subject>
+                <ref target="ref117"/>
+            </indexentry>
+            <indexentry>
+                <subject>National Institutes of Health</subject>
+                <ref target="ref120"/>
+            </indexentry>
+            <indexentry>
+                <subject>National Institutes of Health</subject>
+                <ref target="ref123"/>
+            </indexentry>
+            <indexentry>
+                <subject>National Institutes of Health</subject>
+                <ref target="ref108"/>
+            </indexentry>
+            <indexentry>
+                <subject>National Institutes of Health</subject>
+                <ref target="ref111"/>
+            </indexentry>
+            <indexentry>
+                <subject>National Institutes of Health</subject>
+                <ref target="ref129"/>
+            </indexentry>
+            <indexentry>
+                <subject>National Research Council (U.S.). Numerical Data Advisory Board</subject>
+                <ref target="ref261"/>
+            </indexentry>
+            <indexentry>
+                <subject>National Research Council (U.S.). Numerical Data Advisory Board</subject>
+                <ref target="ref264"/>
+            </indexentry>
+            <indexentry>
+                <subject>National Research Council (U.S.). Numerical Data Advisory Board</subject>
+                <ref target="ref267"/>
+            </indexentry>
+            <indexentry>
+                <subject>National Research Council. Committee on Biotechnology Nomenclature and Information</subject>
+                <ref target="ref106"/>
+            </indexentry>
+            <indexentry>
+                <subject>National Science Foundation</subject>
+                <ref target="ref142"/>
+            </indexentry>
+            <indexentry>
+                <subject>National Science Foundation. Advisory Committee on Advanced Computing</subject>
+                <ref target="ref282"/>
+            </indexentry>
+            <indexentry>
+                <subject>Nuclear arms control</subject>
+                <ref target="ref25"/>
+            </indexentry>
+            <indexentry>
+                <subject>Nucleic acid probes</subject>
+                <ref target="ref242"/>
+            </indexentry>
+            <indexentry>
+                <subject>Nucleic acid probes</subject>
+                <ref target="ref291"/>
+            </indexentry>
+            <indexentry>
+                <subject>Nucleic Acid Sequence Data Bank Workshop (1980 : Bethesda, Md.)</subject>
+                <ref target="ref276"/>
+            </indexentry>
+            <indexentry>
+                <subject>Nucleotide sequence</subject>
+                <ref target="ref242"/>
+            </indexentry>
+            <indexentry>
+                <subject>Nucleotide sequence</subject>
+                <ref target="ref236"/>
+            </indexentry>
+            <indexentry>
+                <subject>Nucleotide sequence--Data processing</subject>
+                <ref target="ref103"/>
+            </indexentry>
+            <indexentry>
+                <subject>Nucleotide sequence--Data processing</subject>
+                <ref target="ref106"/>
+            </indexentry>
+            <indexentry>
+                <subject>Nucleotide sequence--Data processing</subject>
+                <ref target="ref126"/>
+            </indexentry>
+            <indexentry>
+                <subject>Nucleotide sequence--Data processing</subject>
+                <ref target="ref155"/>
+            </indexentry>
+            <indexentry>
+                <subject>Nucleotide sequence--Data processing</subject>
+                <ref target="ref164"/>
+            </indexentry>
+            <indexentry>
+                <subject>Nucleotide sequence--Data processing</subject>
+                <ref target="ref169"/>
+            </indexentry>
+            <indexentry>
+                <subject>Nucleotide sequence--Data processing</subject>
+                <ref target="ref165"/>
+            </indexentry>
+            <indexentry>
+                <subject>Nucleotide sequence--Data processing</subject>
+                <ref target="ref191"/>
+            </indexentry>
+            <indexentry>
+                <subject>Nucleotide sequence--Data processing</subject>
+                <ref target="ref218"/>
+            </indexentry>
+            <indexentry>
+                <subject>Nucleotide sequence--Data processing</subject>
+                <ref target="ref248"/>
+            </indexentry>
+            <indexentry>
+                <subject>Ooi, Tatsuo</subject>
+                <ref target="ref138"/>
+            </indexentry>
+            <indexentry>
+                <subject>Overton, Christian</subject>
+                <ref target="ref107"/>
+            </indexentry>
+            <indexentry>
+                <subject>Ozeki, Haruo</subject>
+                <ref target="ref138"/>
+            </indexentry>
+            <indexentry>
+                <subject>Pagano, Marcello</subject>
+                <ref target="ref139"/>
+            </indexentry>
+            <indexentry>
+                <subject>Palaniappan, K.</subject>
+                <ref target="ref104"/>
+            </indexentry>
+            <indexentry>
+                <subject>Plants--Genetics</subject>
+                <ref target="ref117"/>
+            </indexentry>
+            <indexentry>
+                <subject>Policansky, David</subject>
+                <ref target="ref106"/>
+            </indexentry>
+            <indexentry>
+                <subject>Polymerase Chain Reaction</subject>
+                <ref target="ref191"/>
+            </indexentry>
+            <indexentry>
+                <subject>PROPHET System</subject>
+                <ref target="ref102"/>
+            </indexentry>
+            <indexentry>
+                <subject>PROPHET System</subject>
+                <ref target="ref106"/>
+            </indexentry>
+            <indexentry>
+                <subject>Puck, Theodore T.</subject>
+                <ref target="ref75"/>
+            </indexentry>
+            <indexentry>
+                <subject>Puck, Theodore T.</subject>
+                <ref target="ref102"/>
+            </indexentry>
+            <indexentry>
+                <subject>Puck, Theodore T.</subject>
+                <ref target="ref236"/>
+            </indexentry>
+            <indexentry>
+                <subject>Puck, Theodore T.</subject>
+                <ref target="ref248"/>
+            </indexentry>
+            <indexentry>
+                <subject>Puck, Theodore T.</subject>
+                <ref target="ref318"/>
+            </indexentry>
+            <indexentry>
+                <subject>Puck, Theodore T.</subject>
+                <ref target="ref345"/>
+            </indexentry>
+            <indexentry>
+                <subject>Rabson, Alan</subject>
+                <ref target="ref206"/>
+            </indexentry>
+            <indexentry>
+                <subject>Recombinant DNA</subject>
+                <ref target="ref242"/>
+            </indexentry>
+            <indexentry>
+                <subject>Roberts, Richard J.</subject>
+                <ref target="ref102"/>
+            </indexentry>
+            <indexentry>
+                <subject>Roberts, Richard J.</subject>
+                <ref target="ref103"/>
+            </indexentry>
+            <indexentry>
+                <subject>Roberts, Richard J.</subject>
+                <ref target="ref104"/>
+            </indexentry>
+            <indexentry>
+                <subject>Robinson, Arthur</subject>
+                <ref target="ref345"/>
+            </indexentry>
+            <indexentry>
+                <subject>Robotics</subject>
+                <ref target="ref209"/>
+            </indexentry>
+            <indexentry>
+                <subject>Robotics</subject>
+                <ref target="ref212"/>
+            </indexentry>
+            <indexentry>
+                <subject>Robotics</subject>
+                <ref target="ref288"/>
+            </indexentry>
+            <indexentry>
+                <subject>Ruddle, Frank H.</subject>
+                <ref target="ref236"/>
+            </indexentry>
+            <indexentry>
+                <subject>Sailing--British Columbia</subject>
+                <ref target="ref360"/>
+            </indexentry>
+            <indexentry>
+                <subject>Sailing--Gulf of California</subject>
+                <ref target="ref357"/>
+            </indexentry>
+            <indexentry>
+                <subject>Salser, Winston</subject>
+                <ref target="ref102"/>
+            </indexentry>
+            <indexentry>
+                <subject>Sillerud, Laurel O.</subject>
+                <ref target="ref285"/>
+            </indexentry>
+            <indexentry>
+                <subject>Sinsheimer, Robert L.</subject>
+                <ref target="ref239"/>
+            </indexentry>
+            <indexentry>
+                <subject>Sirotkin, Karl</subject>
+                <ref target="ref218"/>
+            </indexentry>
+            <indexentry>
+                <subject>Sirotkin, Karl</subject>
+                <ref target="ref221"/>
+            </indexentry>
+            <indexentry>
+                <subject>Smith, David A.</subject>
+                <ref target="ref242"/>
+            </indexentry>
+            <indexentry>
+                <subject>Smith, G. P.</subject>
+                <ref target="ref291"/>
+            </indexentry>
+            <indexentry>
+                <subject>Smith, Hamilton O.</subject>
+                <ref target="ref236"/>
+            </indexentry>
+            <indexentry>
+                <subject>Smith, Temple F.</subject>
+                <ref target="ref102"/>
+            </indexentry>
+            <indexentry>
+                <subject>Smith, Temple F.</subject>
+                <ref target="ref103"/>
+            </indexentry>
+            <indexentry>
+                <subject>Smith, Temple F.</subject>
+                <ref target="ref139"/>
+            </indexentry>
+            <indexentry>
+                <subject>Smith, Temple F.</subject>
+                <ref target="ref215"/>
+            </indexentry>
+            <indexentry>
+                <subject>Spies--China</subject>
+                <ref target="ref17"/>
+            </indexentry>
+            <indexentry>
+                <subject>Spies--China</subject>
+                <ref target="ref59"/>
+            </indexentry>
+            <indexentry>
+                <subject>Sprinzl, Matthias</subject>
+                <ref target="ref105"/>
+            </indexentry>
+            <indexentry>
+                <subject>Stein, Gary</subject>
+                <ref target="ref236"/>
+            </indexentry>
+            <indexentry>
+                <subject>Stein, Janet</subject>
+                <ref target="ref236"/>
+            </indexentry>
+            <indexentry>
+                <subject>Strategic Defence Initiative</subject>
+                <ref target="ref17"/>
+            </indexentry>
+            <indexentry>
+                <subject>Strategic Defence Initiative</subject>
+                <ref target="ref25"/>
+            </indexentry>
+            <indexentry>
+                <subject>Stuber, Kurt</subject>
+                <ref target="ref169"/>
+            </indexentry>
+            <indexentry>
+                <subject>Supercomputers</subject>
+                <ref target="ref106"/>
+            </indexentry>
+            <indexentry>
+                <subject>Supercomputers</subject>
+                <ref target="ref155"/>
+            </indexentry>
+            <indexentry>
+                <subject>Supercomputers</subject>
+                <ref target="ref158"/>
+            </indexentry>
+            <indexentry>
+                <subject>Supercomputers</subject>
+                <ref target="ref161"/>
+            </indexentry>
+            <indexentry>
+                <subject>Supercomputers</subject>
+                <ref target="ref294"/>
+            </indexentry>
+            <indexentry>
+                <subject>Supercomputers</subject>
+                <ref target="ref282"/>
+            </indexentry>
+            <indexentry>
+                <subject>Sutton, H. Eldon</subject>
+                <ref target="ref236"/>
+            </indexentry>
+            <indexentry>
+                <subject>Symposium on Biological Applications on Cray Supercomputers (1987 : Houston, Tex.)</subject>
+                <ref target="ref294"/>
+            </indexentry>
+            <indexentry>
+                <subject>Symposium on the Analysis of Genetic Squences (1984 : New York, N.Y.)</subject>
+                <ref target="ref294"/>
+            </indexentry>
+            <indexentry>
+                <subject>Tabor, Herbert</subject>
+                <ref target="ref106"/>
+            </indexentry>
+            <indexentry>
+                <subject>Teller, Edward, 1908-</subject>
+                <ref target="ref25"/>
+            </indexentry>
+            <indexentry>
+                <subject>Thomas, Charles A.</subject>
+                <ref target="ref102"/>
+            </indexentry>
+            <indexentry>
+                <subject>Topiol, Sid</subject>
+                <ref target="ref282"/>
+            </indexentry>
+            <indexentry>
+                <subject>Torney, David C.</subject>
+                <ref target="ref221"/>
+            </indexentry>
+            <indexentry>
+                <subject>Ulam, Stanislaw, 1904-1984</subject>
+                <ref target="ref94"/>
+            </indexentry>
+            <indexentry>
+                <subject>United States Public Health Service</subject>
+                <ref target="ref139"/>
+            </indexentry>
+            <indexentry>
+                <subject>United States. Office of Technology Assessment</subject>
+                <ref target="ref224"/>
+            </indexentry>
+            <indexentry>
+                <subject>United States. Office of Technology Assessment</subject>
+                <ref target="ref227"/>
+            </indexentry>
+            <indexentry>
+                <subject>USERNET</subject>
+                <ref target="ref282"/>
+            </indexentry>
+            <indexentry>
+                <subject>Wada, Akiyoshi</subject>
+                <ref target="ref138"/>
+            </indexentry>
+            <indexentry>
+                <subject>Wada, Akiyoshi</subject>
+                <ref target="ref255"/>
+            </indexentry>
+            <indexentry>
+                <subject>Wakeford, Richard</subject>
+                <ref target="ref206"/>
+            </indexentry>
+            <indexentry>
+                <subject>Walker, Richard T.</subject>
+                <ref target="ref166"/>
+            </indexentry>
+            <indexentry>
+                <subject>Walters, Ron</subject>
+                <ref target="ref106"/>
+            </indexentry>
+            <indexentry>
+                <subject>Ward, David C.</subject>
+                <ref target="ref236"/>
+            </indexentry>
+            <indexentry>
+                <subject>Watanabe, Utaru</subject>
+                <ref target="ref138"/>
+            </indexentry>
+            <indexentry>
+                <subject>Waterman, Michael S.</subject>
+                <ref target="ref104"/>
+            </indexentry>
+            <indexentry>
+                <subject>Watson, Chuch</subject>
+                <ref target="ref242"/>
+            </indexentry>
+            <indexentry>
+                <subject>Weinstein, Harel</subject>
+                <ref target="ref282"/>
+            </indexentry>
+            <indexentry>
+                <subject>Whitlock, David G.</subject>
+                <ref target="ref75"/>
+            </indexentry>
+            <indexentry>
+                <subject>Williams, Mary Louise</subject>
+                <ref target="ref318"/>
+            </indexentry>
+            <indexentry>
+                <subject>Workshop on Algorithms for Molecular Genetics (1988 : Bethesda, Md.)</subject>
+                <ref target="ref273"/>
+            </indexentry>
+        </index>
+        <separatedmaterial id="ref15">
+            <head>Separated Materials note</head>
+            <p>Two posters and a scrapbook are housed with oversized materials.</p>
+        </separatedmaterial>
+        <processinfo id="ref13">
+            <head>Processing Information note</head>
+            <p>Catalogued by rsc, 2001.</p>
+        </processinfo>
+        <acqinfo id="ref11">
+            <head>Immediate Source of Acquisition note</head>
+            <p>The Goad Papers were donated to the APS in 2001 by Maxine S. Goad, through Chris Goad and Baruch Blumberg.</p>
+        </acqinfo>
+        <prefercite id="ref9">
+            <head>Preferred Citation note</head>
+            <p>Cite as: Walter B. Goad Papers, American Philosophical Society.</p>
+        </prefercite>
+        <scopecontent id="ref5">
+            <head>Scope and Contents note</head>
+            <p>The papers of Walter Goad, a nuclear physicist from Los Alamos Labs and pioneer in bioinformatics, consist of six linear feet of materials documenting the founding of GenBank and the early phases of the Human Genome Project. Bringing the quantitative skills of a physicist to bear on the problem of the analysis, storage and retrieval of molecular biological information, Goad was instrumental in the creation of the first nucleic acid sequence databank.</p>
+            <p>The collection is oriented almost exclusively toward the phase of Goad's career after he had taken up molecular biology. Apart from a small number of letters dating from the early 1940s, when Goad was seeking his first job, and an interesting response to the Federation of American Scientists' statement on hydrogen bomb testing from 1953, there is nothing to document his career prior to his conversion to DNA. The relatively limited correspondence (0.5 linear feet) in the Series I is primarily personal in nature, however Goad's extensive exchanges with his friend, Nobel laureate Sidney Altman, reveals a great deal about their mutual scientific interests and attitudes. Goad's stand on behalf of his Los Alamos colleague, Wen Ho Lee, accused of providing sensitive information on nuclear weapons to the People's Republic of China, is well documented.</p>
+            <p>Series II consists of correspondence, manuscripts, documents, notes, and printed materials directly or indirectly relating to GenBank, including planning documents, contracts for the construction of the databank, materials documenting the role of Los Alamos Scientific Laboratory in facilitating the project, information on "competitors" and colleagues, workshops and conferences, and correspondence with Bolt, Baranek and Newman, the contractor for database construction and distribution (and the firm who developed ARPANET, networking routers, and email, as well as introducing the @ sign).</p>
+            <p>Goad's role in the Human Genome Project was smaller, though still important, and Series III includes approximately one linear foot of manuscripts, correspondence, and notes relating to meeting of the Human Genome Project steering committee in the project's planning phases.</p>
+            <p>
+                <table>
+                    <tgroup cols="2">
+                        <colspec colname="col-0"/>
+                        <colspec colname="col-1"/>
+                        <colspec colname="col-2"/>
+                        <tbody>
+                            <row>
+                                <entry>Series I. </entry>
+                                <entry>Correspondence and notes, 1942-2000</entry>
+                                <entry>(1 box; 0.5 linear feet)</entry>
+                            </row>
+                            <row>
+                                <entry>Series II. </entry>
+                                <entry>Works by Goad, 1953-2000</entry>
+                                <entry>(1 box; 0.5 linear feet)</entry>
+                            </row>
+                            <row>
+                                <entry>Series III. </entry>
+                                <entry>GenBank materials, 1979-1987</entry>
+                                <entry>(4 boxes; 2 linear feet)</entry>
+                            </row>
+                            <row>
+                                <entry>Series IV. </entry>
+                                <entry>Human Genome Project, 1983-1993</entry>
+                                <entry>(2 boxes; 1 linear foot)</entry>
+                            </row>
+                            <row>
+                                <entry>Series V. </entry>
+                                <entry>Conferences and workshops, 1980-1988</entry>
+                                <entry>(2 boxes; 1 linear foot)</entry>
+                            </row>
+                            <row>
+                                <entry>Series VI. </entry>
+                                <entry>Biographical and personal, 1942-2001</entry>
+                                <entry>(1 box; 1 linear foot)</entry>
+                            </row>
+                            <row>
+                                <entry>Series VII. </entry>
+                                <entry>Miscellaneous and photographs, 1945-2000</entry>
+                                <entry>(1 box; 1 linear foot)</entry>
+                            </row>
+                        </tbody>
+                    </tgroup>
+                </table></p>
+        </scopecontent>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>From his roots in the red clay soil of rural Georgia during the Depression, Walter Goad went on to a distinguished career in two disparate fields: nuclear weapons design and bioinformatics. Having lived in various towns in Georgia and graduating from Grainger High School in Kinston, N.C., in 1942, Goad set out to become a radio technician and expand his horizons by heading north for the first time. As would be true throughout his early years, his experience would be brief, but fruitful. Shortly after accepting a position with a station in Schenectady, N.Y., Goad was taken under the wing of his employer, who steered him toward college, helping arrange a scholarship at nearby Union College to make it all possible.</p>
+            <p>With America's entry in the Second World War, however, Goad's college plans changed. At the end of his freshman year, when he became eligible for the draft, Goad enlisted in the Navy and earned a spot in the V-12 officers' training program. The program allowed Goad, along with a small number of other candidates that included Baruch Blumberg, to continue toward his B.S. in physics, which he was awarded in the spring of 1945, just as the war was ending in Europe. His subsequent military career was nearly as brief as his career in radio. After an additional four months of training at midshipman's school in Annapolis, Goad was detached to the Pacific to complete his military obligation aboard a submarine chaser. By the following spring, his service was no longer needed, and he returned home to enter the University of California, Berkeley, as one of the horde of returning veterans pursuing a graduate degree in physics. The departure of Robert Oppenheimer later that year, however, took the luster off of Berkeley and as the appeal of the overtaxed program waned, Goad decided to transfer to Duke to work under the up and coming Lothar Nordheim on a project eventually titled 
+                <title render="italic">A Theoretical Study of Extensive Cosmic Ray Air Showers</title> (1954).</p>
+            <p>Yet again, Goad's path shifted. During the Spring 1950, Nordheim took a leave of absence to work at Los Alamos National Laboratory, inviting Goad to accompany him and complete his dissertation in New Mexico. Assigned to work with the Theoretical Division, Goad's first priority was to complete his dissertation, but he rapidly became a valued member of the design team working on the hydrogen bomb (he witnessed the first test on Eniwetok (Enewetak) Atoll in November 1952), and except for two sabbatical years, never again left the Laboratory. Goad's association with Los Alamos was personal, as well as professional: in 1952, he met and married Maxine Steineke, a graduate student in physics from Stanford working at the Laboratory with whom he had three children.</p>
+            <p>Although Goad's residence was firmly settled, his intellectual interests gradually evolved. By the early 1960s, he and a small number of colleagues at Los Alamos began to take up an interest in the emerging field of molecular biology. Spending a sabbatical year at the University of Colorado medical school (1964-1965) to strengthen his knowledge of the field, Goad began to apply himself to the challenges posed by the rapid accumulation of nucleic acid data, and after another sabbatical at the Laboratory of Molecular Biology in Cambridge, England (1970-1971), he turned his full efforts to molecular research. When George Bell created group T-10 at Los Alamos (Theoretical Biology and Biophysics) in 1974, Goad became one of its charter members.</p>
+            <p>To molecular biology, Goad brought a suite of quantitative skills and a strong knowledge of computing. As early as the late 1960s, he made efforts to address the problems associated with the storage, retrieval, and analysis of molecular data, conceiving of the computer as a central tool for collaborative and analytical work in molecular biology. Following a 1979 meeting at the Rockefeller University to discuss how these data could be managed and exploited, Goad and his Los Alamos colleagues established the Los Alamos Sequence Data Bank and began to develop software for sequence analysis. Goad conceived of expanding the database nationally and internationally.</p>
+            <p>With funding from the National Institute of General Medical Sciences (NIGMS), among other agencies, the core facility at Los Alamos was expanded in collaboration with Bolt, Baranek, and Newman (BBN, the firm that had handled the construction of ARPANet in the late 1960s), and in 1982, the database was rechristened GenBank. The base of its operations remained at Los Alamos, as it was operated successively under the control of BBN (1982-1987), IntelliGenetics (1987-1992), and (since 1992) the National Center for Biotechnology Information. Goad also helped to establish a strong working relationship with parallel efforts in Europe (the European Molecular Biology Laboratory, EMBL) and Japan (DNA Database of Japan, DDBJ).</p>
+            <p>The success of GenBank in turn laid much of the groundwork for the Human Genome Project which followed in the late 1980s and 1990s. Begun formally in 1990 as an effort to identify, map, and sequence all of the genes in the human genome, the Human Genome Project benefited both conceptually and practically from GenBank, and Goad was an early member of the the Human Genome Advisory Panel.</p>
+            <p>For his efforts on behalf of GenBank, Goad received a Los Alamos National Laboratory Distinguished Service Award, and the Laboratory bestowed its highest honor, making him a Laboratory Fellow. He was also a Fellow of the American Physical Society and the American Association for the Advancement of Science. Walter Goad died of a stroke in Santa Fe on November 2, 2000.</p>
+        </bioghist>
+        <controlaccess>
+            <persname source="ingest">Altman, Sidney, 1939-</persname>
+            <persname source="ingest">Bell, George I.</persname>
+            <persname source="ingest">Bitensky, Mark</persname>
+            <persname rules="aacr" source="naf">Blumberg, Baruch S., 1925-</persname>
+            <corpname source="ingest">Bolt, Baranek and Newman</corpname>
+            <persname source="ingest">Brutlag, Douglas</persname>
+            <persname source="ingest">Burks, Christian</persname>
+            <persname source="ingest">Cantor, Charles R.</persname>
+            <corpname source="ingest">CODATA</corpname>
+            <persname source="ingest">Comings, David E.</persname>
+            <persname source="ingest">Dayhoff, Margaret O.</persname>
+            <corpname source="ingest">European Molecular Biology Laboratory</corpname>
+            <corpname source="ingest">Federal Bureau of Investigation</corpname>
+            <persname source="ingest">Fickett, James W.</persname>
+            <persname source="ingest">Fitch, Walter M.</persname>
+            <corpname source="ingest">GenBank</corpname>
+            <persname source="ingest">Gilbert, Walter</persname>
+            <persname source="ingest">Goad, Maxine S.</persname>
+            <corpname source="ingest">Intelligenetics</corpname>
+            <persname source="ingest">Jordan, Elke</persname>
+            <persname source="ingest">Kanehisa, Minoru</persname>
+            <persname source="ingest">Lee, Wen Ho</persname>
+            <persname source="ingest">Lerman, Leonard</persname>
+            <corpname rules="aacr" source="naf">Los Alamos Scientific Laboratory.</corpname>
+            <corpname rules="aacr" source="naf">Marine Biological Laboratory (Woods Hole, Mass.).</corpname>
+            <persname source="ingest">Maxam, Allan M.</persname>
+            <persname source="ingest">Moyzis, Robert K.</persname>
+            <persname source="ingest">Puck, Theodore T.,  (Theodore Thomas), 1916-2005</persname>
+            <persname source="ingest">Roberts, Richard J.</persname>
+            <persname source="ingest">Smith, Temple F.</persname>
+            <persname rules="aacr" source="naf">Teller, Edward, 1908-2003</persname>
+            <persname source="ingest">Wada, Akiyoshi</persname>
+            <subject source="lcsh">Bioinformatics</subject>
+            <subject source="lcsh">Gene mapping</subject>
+            <subject source="lcsh">Genomics</subject>
+            <subject source="lcsh">Human Genome Project</subject>
+            <subject source="lcsh">Hydrogen bomb</subject>
+            <subject source="lcsh">Molecular biology</subject>
+            <subject source="lcsh">Molecular genetics</subject>
+            <subject source="lcsh">Nucleic acid probes</subject>
+            <subject source="lcsh">Nucleotide sequence--Data processing</subject>
+            <subject source="lcsh">Polymerase Chain Reaction</subject>
+            <subject source="lcsh">Strategic Defense Initiative</subject>
+            <subject source="lcsh">Supercomputers</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref16" level="series">
+                <did>
+                    <unittitle>Series I. Correspondence and notes</unittitle>
+                    <unitdate>1942-2000</unitdate>
+                </did>
+                <scopecontent id="ref83">
+                    <head>Scope and Contents note</head>
+                    <p>Miscellaneous correspondence, reports, and legal documents of both a professional and personal nature. The most extensive body of correspondence consists of numerous email exchanges with Sidney Altman, a close friend and 1989 Nobel laureate in chemistry, and there are less extensive exchanges with Nobel laureates Baruch Blumberg and Max Perutz. While the correspondence with Altman is largely personal, both correspondents touch on a wide range of topics, from Ernst Mayr's alleged antipathy to molecular biology to hierarchical theories of evolution to current politics.</p>
+                    <p>Goad's annual progress reports to Los Alamos provide interesting insight into the evolution of his views on molecular biology between the late 1960s and mid-1970s when his commitment to the field was consolidated and when he moved into Los Alamos group T-10, Theoretical Biology and Biophysics. Equally important is a series of files relating to what might have been the highest profile event of his career: his efforts on behalf of his Los Alamos colleague, Wen Ho Lee, who had been accused of supplying secret information about nuclear weapons research to the People's Republic of China. Goad took a prominent role in marshalling support among scientists and in the media, and supplied an affidavit (his "declaration") on behalf of Lee at trial.</p>
+                </scopecontent>
+                <c02 id="ref17" level="otherlevel">
+                    <did>
+                        <unittitle>Altman, Sidney, 1939-</unittitle>
+                        <container id="cid55231" type="Box" label="Mixed materials">1</container>
+                        <physdesc>
+                            <extent>2 folders</extent>
+                        </physdesc>
+                        <unitdate>1997-2000</unitdate>
+                    </did>
+                    <scopecontent id="ref21">
+                        <head>Scope and Contents note</head>
+                        <p>Correspondence, primarily e-mail, with Nobel laureate Sidney Altman</p>
+                    </scopecontent>
+                    <c03 id="ref18" level="otherlevel">
+                        <did>
+                            <unittitle>Folder 1</unittitle>
+                            <container id="cid55233" type="Folder" label="Mixed materials">1</container>
+                            <unitdate>1997</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref19" level="otherlevel">
+                        <did>
+                            <unittitle>Folder 2</unittitle>
+                            <container id="cid55232" type="Folder" label="Mixed materials">2</container>
+                            <unitdate>1998-2000</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref22" level="otherlevel">
+                    <did>
+                        <unittitle>Bell, G. I. and Walter Goad</unittitle>
+                        <container id="cid55230" type="Box" label="Mixed materials">1</container>
+                        <physdesc>
+                            <extent>2p.</extent>
+                        </physdesc>
+                        <unitdate>1980 December 4</unitdate>
+                    </did>
+                    <scopecontent id="ref24">
+                        <head>Scope and Contents note</head>
+                        <p>Memo to R. Ewald. Prospective National DNA Sequence Library and Analysis Center needs External Computer Network Access to CCF</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref25" level="otherlevel">
+                    <did>
+                        <unittitle>Bingham, Jeff</unittitle>
+                        <container id="cid55229" type="Box" label="Mixed materials">1</container>
+                        <physdesc>
+                            <extent>2 items</extent>
+                        </physdesc>
+                        <unitdate>1987</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref26" level="otherlevel">
+                    <did>
+                        <unittitle>Blumberg, Baruch S., 1925-</unittitle>
+                        <container id="cid55228" type="Box" label="Mixed materials">1</container>
+                        <physdesc>
+                            <extent>2 items</extent>
+                        </physdesc>
+                        <unitdate>1988, 1992</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref27" level="otherlevel">
+                    <did>
+                        <unittitle>Brownell, Robert</unittitle>
+                        <container id="cid55227" type="Box" label="Mixed materials">1</container>
+                        <physdesc>
+                            <extent>2 items</extent>
+                        </physdesc>
+                        <unitdate>1970, 1983</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref28" level="otherlevel">
+                    <did>
+                        <unittitle>Carruthers, Peter</unittitle>
+                        <container id="cid55226" type="Box" label="Mixed materials">1</container>
+                        <physdesc>
+                            <extent>2 items</extent>
+                        </physdesc>
+                        <unitdate>1974, 1981</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref29" level="otherlevel">
+                    <did>
+                        <unittitle>Davis, Joel</unittitle>
+                        <container id="cid55225" type="Box" label="Mixed materials">1</container>
+                        <physdesc>
+                            <extent>3p.</extent>
+                        </physdesc>
+                        <unitdate>1988</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref30" level="otherlevel">
+                    <did>
+                        <unittitle>Goad, Walter B., 1925-2000</unittitle>
+                        <container id="cid55214" type="Box" label="Mixed materials">1</container>
+                        <physdesc>
+                            <extent>10 folders</extent>
+                        </physdesc>
+                        <unitdate>1942-2000</unitdate>
+                    </did>
+                    <c03 id="ref31" level="otherlevel">
+                        <did>
+                            <unittitle>Correspondence regarding first job</unittitle>
+                            <container id="cid55224" type="Box" label="Mixed materials">1</container>
+                            <physdesc>
+                                <extent>4 items</extent>
+                            </physdesc>
+                            <unitdate>1942</unitdate>
+                            <origination label="creator">
+                                <persname source="ingest">Goad, Walter B., 1925-2000</persname>
+                            </origination>
+                        </did>
+                    </c03>
+                    <c03 id="ref32" level="otherlevel">
+                        <did>
+                            <unittitle>Los Alamos reports</unittitle>
+                            <container id="cid55223" type="Box" label="Mixed materials">1</container>
+                            <physdesc>
+                                <extent>1 item</extent>
+                            </physdesc>
+                            <unitdate>1969</unitdate>
+                            <origination label="creator">
+                                <persname source="ingest">Goad, Walter B., 1925-2000</persname>
+                            </origination>
+                        </did>
+                        <scopecontent id="ref34">
+                            <head>Scope and Contents note</head>
+                            <p>List of Goad's publications in theoretical biology</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref35" level="otherlevel">
+                        <did>
+                            <unittitle>Los Alamos reports</unittitle>
+                            <container id="cid55222" type="Box" label="Mixed materials">1</container>
+                            <physdesc>
+                                <extent>8 items</extent>
+                            </physdesc>
+                            <unitdate>1972</unitdate>
+                            <origination label="creator">
+                                <persname source="ingest">Goad, Walter B., 1925-2000</persname>
+                            </origination>
+                        </did>
+                        <scopecontent id="ref37">
+                            <head>Scope and Contents note</head>
+                            <p>Includes TMs "Numerical Analysis of Gel Permeation Chromatograms" (2 copies); "Macromolecular Diffusion" (2 copies); letter to LASL; and "Progress Abstract;" and note to contributors to Enzyme-Structure part D</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref38" level="otherlevel">
+                        <did>
+                            <unittitle>Los Alamos reports</unittitle>
+                            <container id="cid55221" type="Box" label="Mixed materials">1</container>
+                            <physdesc>
+                                <extent>5 items</extent>
+                            </physdesc>
+                            <unitdate>1973</unitdate>
+                            <origination label="creator">
+                                <persname source="ingest">Goad, Walter B., 1925-2000</persname>
+                            </origination>
+                        </did>
+                        <scopecontent id="ref40">
+                            <head>Scope and Contents note</head>
+                            <p>Includes Progress Abstract; TMs "Analysis of Experiments in Radiation Chemistry of DNA"; review of Foundations of Mathematical Biology.</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref41" level="otherlevel">
+                        <did>
+                            <unittitle>Los Alamos reports</unittitle>
+                            <container id="cid55220" type="Box" label="Mixed materials">1</container>
+                            <physdesc>
+                                <extent>6 items</extent>
+                            </physdesc>
+                            <unitdate>1974</unitdate>
+                            <origination label="creator">
+                                <persname source="ingest">Goad, Walter B., 1925-2000</persname>
+                            </origination>
+                        </did>
+                        <scopecontent id="ref43">
+                            <head>Scope and Contents note</head>
+                            <p>Includes Progress Abstract ("Radiation Chemistry of Nucleic Acids"); two office memos; list Publications on Theoretical Biology and Biophysics; and vita of Walter Goad; "Two Research Problems" ("Epidemiology" and "Fundamental Studies of Diffusion")</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref44" level="otherlevel">
+                        <did>
+                            <unittitle>Los Alamos reports</unittitle>
+                            <container id="cid55219" type="Box" label="Mixed materials">1</container>
+                            <physdesc>
+                                <extent>4 items</extent>
+                            </physdesc>
+                            <unitdate>1975</unitdate>
+                            <origination label="creator">
+                                <persname source="ingest">Goad, Walter B., 1925-2000</persname>
+                            </origination>
+                        </did>
+                        <scopecontent id="ref46">
+                            <head>Scope and Contents note</head>
+                            <p>Includes Progress Abstract; list of Publications on Theoretical Biology and Biophysics (2 copies); review of book "Introduction to Mathematical Biology"</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref47" level="otherlevel">
+                        <did>
+                            <unittitle>Los Alamos reports</unittitle>
+                            <container id="cid55218" type="Box" label="Mixed materials">1</container>
+                            <unitdate>1976</unitdate>
+                            <origination label="creator">
+                                <persname source="ingest">Goad, Walter B., 1925-2000</persname>
+                            </origination>
+                        </did>
+                        <scopecontent id="ref49">
+                            <head>Scope and Contents note</head>
+                            <p>Includes three copies of T-10 Publciations FY-76.</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref50" level="otherlevel">
+                        <did>
+                            <unittitle>Los Alamos reports</unittitle>
+                            <container id="cid55217" type="Box" label="Mixed materials">1</container>
+                            <physdesc>
+                                <extent>2 items</extent>
+                            </physdesc>
+                            <unitdate>1977</unitdate>
+                            <origination label="creator">
+                                <persname source="ingest">Goad, Walter B., 1925-2000</persname>
+                            </origination>
+                        </did>
+                        <scopecontent id="ref52">
+                            <head>Scope and Contents note</head>
+                            <p>Includes report on activities of T-10 (Theoretical Biology and Biophysics) and vita of Walter</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref53" level="otherlevel">
+                        <did>
+                            <unittitle>Los Alamos reports and miscellany</unittitle>
+                            <container id="cid55216" type="Box" label="Mixed materials">1</container>
+                            <unitdate>1978-2000</unitdate>
+                            <origination label="creator">
+                                <persname source="ingest">Goad, Walter B., 1925-2000</persname>
+                            </origination>
+                        </did>
+                        <scopecontent id="ref55">
+                            <head>Scope and Contents note</head>
+                            <p>Includes "publications FY78"; report for T-10, 1983; computer printout (ca.1983?) on sequence alignment algorithm; photocopy of Los Alamos Administrative Manual, 1987; program for Goad's funeral service, 2000</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref56" level="otherlevel">
+                        <did>
+                            <unittitle>Reprint requests</unittitle>
+                            <container id="cid55215" type="Box" label="Mixed materials">1</container>
+                            <physdesc>
+                                <extent>2 items</extent>
+                            </physdesc>
+                            <unitdate>1987, 1989</unitdate>
+                            <origination label="creator">
+                                <persname source="ingest">Goad, Walter B., 1925-2000</persname>
+                            </origination>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref57" level="otherlevel">
+                    <did>
+                        <unittitle>Kanehisa, Minoru, Roberts, Richard J., 1943-</unittitle>
+                        <container id="cid55213" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1991, 2000</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref58" level="otherlevel">
+                    <did>
+                        <unittitle>King Faisal International Prize</unittitle>
+                        <container id="cid55212" type="Box" label="Mixed materials">1</container>
+                        <physdesc>
+                            <extent>2p.</extent>
+                        </physdesc>
+                        <unitdate>1987</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref59" level="otherlevel">
+                    <did>
+                        <unittitle>Lee, Wen Ho</unittitle>
+                        <container id="cid55206" type="Box" label="Mixed materials">1</container>
+                        <physdesc>
+                            <extent>5 folders</extent>
+                        </physdesc>
+                        <unitdate>2000</unitdate>
+                    </did>
+                    <scopecontent id="ref66">
+                        <head>Scope and Contents note</head>
+                        <p>Includes copy of indictment against Lee.</p>
+                    </scopecontent>
+                    <c03 id="ref60" level="otherlevel">
+                        <did>
+                            <unittitle>Appreciation of Walter Goad's contribution to the case of Wen Ho Lee</unittitle>
+                            <container id="cid55211" type="Folder" label="Mixed materials">1</container>
+                            <physdesc>
+                                <extent>15p.</extent>
+                            </physdesc>
+                            <unitdate>2000</unitdate>
+                            <origination label="creator">
+                                <persname source="ingest">Lee, Wen Ho</persname>
+                            </origination>
+                        </did>
+                    </c03>
+                    <c03 id="ref61" level="otherlevel">
+                        <did>
+                            <unittitle>Correspondence 1</unittitle>
+                            <container id="cid55210" type="Folder" label="Mixed materials">2</container>
+                            <physdesc>
+                                <extent>85p.</extent>
+                            </physdesc>
+                            <unitdate>2000</unitdate>
+                            <origination label="creator">
+                                <persname source="ingest">Lee, Wen Ho</persname>
+                            </origination>
+                        </did>
+                    </c03>
+                    <c03 id="ref62" level="otherlevel">
+                        <did>
+                            <unittitle>Correspondence 2</unittitle>
+                            <container id="cid55209" type="Folder" label="Mixed materials">3</container>
+                            <unitdate>2000</unitdate>
+                            <origination label="creator">
+                                <persname source="ingest">Lee, Wen Ho</persname>
+                            </origination>
+                        </did>
+                    </c03>
+                    <c03 id="ref63" level="otherlevel">
+                        <did>
+                            <unittitle>Correspondence 3</unittitle>
+                            <container id="cid55208" type="Folder" label="Mixed materials">4</container>
+                            <physdesc>
+                                <extent>56p.</extent>
+                            </physdesc>
+                            <unitdate>2000</unitdate>
+                            <origination label="creator">
+                                <persname source="ingest">Lee, Wen Ho</persname>
+                            </origination>
+                        </did>
+                    </c03>
+                    <c03 id="ref64" level="otherlevel">
+                        <did>
+                            <unittitle>Declaration of Walter Goad</unittitle>
+                            <container id="cid55207" type="Folder" label="Mixed materials">5</container>
+                            <physdesc>
+                                <extent>11p.</extent>
+                            </physdesc>
+                            <unitdate>2000</unitdate>
+                            <origination label="creator">
+                                <persname source="ingest">Lee, Wen Ho</persname>
+                            </origination>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref67" level="otherlevel">
+                    <did>
+                        <unittitle>Perelson, Alan S.</unittitle>
+                        <container id="cid55205" type="Box" label="Mixed materials">1</container>
+                        <physdesc>
+                            <extent>2 items</extent>
+                        </physdesc>
+                        <unitdate>2000 August</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref68" level="otherlevel">
+                    <did>
+                        <unittitle>Perutz, Max, 1914-</unittitle>
+                        <container id="cid55204" type="Box" label="Mixed materials">1</container>
+                        <physdesc>
+                            <extent>2 items</extent>
+                        </physdesc>
+                        <unitdate>1993</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref69" level="otherlevel">
+                    <did>
+                        <unittitle>Rabson, Alan S.</unittitle>
+                        <container id="cid55203" type="Box" label="Mixed materials">1</container>
+                        <physdesc>
+                            <extent>14p.</extent>
+                        </physdesc>
+                        <unitdate>1986 September 19</unitdate>
+                    </did>
+                    <scopecontent id="ref71">
+                        <head>Scope and Contents note</head>
+                        <p>Site report for Laboratory of Mathematical Biology</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref72" level="otherlevel">
+                    <did>
+                        <unittitle>Studer, Frank</unittitle>
+                        <container id="cid55202" type="Box" label="Mixed materials">1</container>
+                        <physdesc>
+                            <extent>5 items</extent>
+                        </physdesc>
+                        <unitdate>1982-1995</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref73" level="otherlevel">
+                    <did>
+                        <unittitle>United States. Department of Energy</unittitle>
+                        <container id="cid55201" type="Box" label="Mixed materials">1</container>
+                        <physdesc>
+                            <extent>4p.</extent>
+                        </physdesc>
+                        <unitdate>1993 October</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref74" level="otherlevel">
+                    <did>
+                        <unittitle>United States. Selective Service System</unittitle>
+                        <container id="cid55200" type="Box" label="Mixed materials">1</container>
+                        <physdesc>
+                            <extent>4 items</extent>
+                        </physdesc>
+                        <unitdate>1956</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref75" level="otherlevel">
+                    <did>
+                        <unittitle>University of Colorado</unittitle>
+                        <container id="cid55199" type="Box" label="Mixed materials">1</container>
+                        <physdesc>
+                            <extent>23 items</extent>
+                        </physdesc>
+                        <unitdate>1964-1977</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref76" level="otherlevel">
+                    <did>
+                        <unittitle>Wada, Akiyoshi</unittitle>
+                        <container id="cid55198" type="Box" label="Mixed materials">1</container>
+                        <physdesc>
+                            <extent>2p.</extent>
+                        </physdesc>
+                        <unitdate>1982 October</unitdate>
+                    </did>
+                    <scopecontent id="ref78">
+                        <head>Scope and Contents note</head>
+                        <p>Re: cooperation between GenBank and similar databank in Japan</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref79" level="otherlevel">
+                    <did>
+                        <unittitle>Watanabe, Utaru</unittitle>
+                        <container id="cid55197" type="Box" label="Mixed materials">1</container>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1982 September 13</unitdate>
+                    </did>
+                    <scopecontent id="ref81">
+                        <head>Scope and Contents note</head>
+                        <p>Re: cooperation between GenBank and similar databank in Japan</p>
+                    </scopecontent>
+                </c02>
+            </c01>
+            <c01 id="ref84" level="series">
+                <did>
+                    <unittitle>Series II. Works by Goad</unittitle>
+                </did>
+                <scopecontent id="ref100">
+                    <head>Scope and Contents note</head>
+                    <p>Selected works, published and semi-published, by Goad from throughout his career. These include a copy of his dissertation, 
+                        <title render="italic">A Theoretical Study of Extensive Cosmic Ray Air Showers</title> (Duke University, 1954), articles (not separately inventoried), book reviews, and reviews of grant and research proposals by peers.</p>
+                </scopecontent>
+                <c02 id="ref85" level="otherlevel">
+                    <did>
+                        <unittitle>A Theoretical Study of Extensive Cosmic Ray Air Showers</unittitle>
+                        <container id="cid55196" type="Box" label="Mixed materials">2</container>
+                        <physdesc>
+                            <extent>117p.</extent>
+                        </physdesc>
+                        <unitdate>1953</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Goad, Walter B., 1925-2000</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref87">
+                        <head>Scope and Contents note</head>
+                        <p>Dissertation, Duke University</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref88" level="otherlevel">
+                    <did>
+                        <unittitle>Publications 1</unittitle>
+                        <container id="cid55195" type="Box" label="Mixed materials">2</container>
+                        <physdesc>
+                            <extent>10 items</extent>
+                        </physdesc>
+                        <unitdate>1952-1965</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Goad, Walter B., 1925-2000</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref89" level="otherlevel">
+                    <did>
+                        <unittitle>Publications 2</unittitle>
+                        <container id="cid55194" type="Box" label="Mixed materials">2</container>
+                        <physdesc>
+                            <extent>16 items</extent>
+                        </physdesc>
+                        <unitdate>1968-1977</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Goad, Walter B., 1925-2000</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref90" level="otherlevel">
+                    <did>
+                        <unittitle>Publications 3</unittitle>
+                        <container id="cid55193" type="Box" label="Mixed materials">2</container>
+                        <physdesc>
+                            <extent>4 items</extent>
+                        </physdesc>
+                        <unitdate>1978-1981</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Goad, Walter B., 1925-2000</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref92">
+                        <head>Scope and Contents note</head>
+                        <p>Includes unsolicited "Proposal to Establish a National Center for Collection, and Computer Storage and Analysis of Nucleic Acid Sequences" submitted by T-10</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref93" level="otherlevel">
+                    <did>
+                        <unittitle>Publications 4</unittitle>
+                        <container id="cid55192" type="Box" label="Mixed materials">2</container>
+                        <physdesc>
+                            <extent>5 items</extent>
+                        </physdesc>
+                        <unitdate>1982-1983</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Goad, Walter B., 1925-2000</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref94" level="otherlevel">
+                    <did>
+                        <unittitle>Publications 5</unittitle>
+                        <container id="cid55191" type="Box" label="Mixed materials">2</container>
+                        <physdesc>
+                            <extent>9 items</extent>
+                        </physdesc>
+                        <unitdate>1984-1989</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Goad, Walter B., 1925-2000</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref96">
+                        <head>Scope and Contents note</head>
+                        <p>Includes copy of Goad's article "Sequence Analysis: Contributions by Ulam to Molecular Genetics," 1989.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref97" level="otherlevel">
+                    <did>
+                        <unittitle>Book reviews</unittitle>
+                        <container id="cid55190" type="Box" label="Mixed materials">2</container>
+                        <physdesc>
+                            <extent>5 items</extent>
+                        </physdesc>
+                        <unitdate>1965-1982</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Goad, Walter B., 1925-2000</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref98" level="otherlevel">
+                    <did>
+                        <unittitle>Peer reviews</unittitle>
+                        <container id="cid55189" type="Box" label="Mixed materials">2</container>
+                        <physdesc>
+                            <extent>ca.100p.</extent>
+                        </physdesc>
+                        <unitdate>1981-1988</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Goad, Walter B., 1925-2000</persname>
+                        </origination>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref101" level="series">
+                <did>
+                    <unittitle>Series III. GenBank</unittitle>
+                </did>
+                <scopecontent id="ref204">
+                    <head>Scope and Contents note</head>
+                    <p>Materials relating to the founding and first ten years of operation of GenBank, including general correspondence, correspondence with Bolt, Baranek and Newman (contractors for the database and networking operations), contracts with government agencies, and grant proposals.</p>
+                    <p>As a member of the GenBank Advisory Group, Goad took part in meetings concerning the structuring of the database, its relationships with similar enterprises in the United States, Europe and Japan, and in reporting on its development. Along with selected minutes of the Advisory Group, the series includes memos and other documents submitted to Los Alamos Scientific Laboratory to document GenBank-related activities, information on "competitors" and peers (e.g. Genet, MolGen, PROPHET, and Japanese nucleic acid data banks), studies of computing needs and facilities for GenBank, and users' manuals for submitting data to GenBank and using the database. Materials filed under EMBL consist primarily of correspondence and documents relating to meetings with EMBL and documents presented to Los Alamos to support requests for reimbursement.</p>
+                    <p>The "Los Alamos Internal documents" include Goad's status reports to the Lab and his prospectuses for research and funding submitted to supervisors. These provide an important perspective on the internal support at Los Alamos for the development of GenBank and Among the more interesting manuscripts in the series are "Computer Storage and Analysis of DNA Sequences," 1982 (a status report to the Institutional Supporting Research and Development); "DNA as Molecular Processor," ca.1984 (proposal); "Identification of Functional Similarities in Nucleic Acid Sequences," 1984 (draft proposal), and a draft of Jim Fickett's "five year plan" for the redesign of GenBank, 1987. A printout of a program in FORTRAN for detecting homologous sequences, 1984, is a relic of an earlier era of programming.</p>
+                </scopecontent>
+                <c02 id="ref102" level="otherlevel">
+                    <did>
+                        <unittitle>Correspondence 1</unittitle>
+                        <container id="cid55188" type="Box" label="Mixed materials">3</container>
+                        <unitdate>1979-1980</unitdate>
+                        <origination label="creator">
+                            <corpname source="ingest">GenBank</corpname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref103" level="otherlevel">
+                    <did>
+                        <unittitle>Correspondence 2</unittitle>
+                        <container id="cid55187" type="Box" label="Mixed materials">3</container>
+                        <unitdate>1981-1982</unitdate>
+                        <origination label="creator">
+                            <corpname source="ingest">GenBank</corpname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref104" level="otherlevel">
+                    <did>
+                        <unittitle>Correspondence 3</unittitle>
+                        <container id="cid55186" type="Box" label="Mixed materials">3</container>
+                        <unitdate>1983</unitdate>
+                        <origination label="creator">
+                            <corpname source="ingest">GenBank</corpname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref105" level="otherlevel">
+                    <did>
+                        <unittitle>Correspondence 4</unittitle>
+                        <container id="cid55185" type="Box" label="Mixed materials">3</container>
+                        <unitdate>1984</unitdate>
+                        <origination label="creator">
+                            <corpname source="ingest">GenBank</corpname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref106" level="otherlevel">
+                    <did>
+                        <unittitle>Correspondence 5</unittitle>
+                        <container id="cid55184" type="Box" label="Mixed materials">3</container>
+                        <unitdate>1985-1986</unitdate>
+                        <origination label="creator">
+                            <corpname source="ingest">GenBank</corpname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref107" level="otherlevel">
+                    <did>
+                        <unittitle>Correspondence 6</unittitle>
+                        <container id="cid55183" type="Box" label="Mixed materials">3</container>
+                        <unitdate>1987</unitdate>
+                        <origination label="creator">
+                            <corpname source="ingest">GenBank</corpname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref108" level="otherlevel">
+                    <did>
+                        <unittitle>Correspondence with Bolt, Beranek, and Newman 1</unittitle>
+                        <container id="cid55182" type="Box" label="Mixed materials">3</container>
+                        <unitdate>1981-1982</unitdate>
+                        <origination label="creator">
+                            <corpname source="ingest">GenBank</corpname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref110">
+                        <head>Scope and Contents note</head>
+                        <p>Includes business proposal and amendments; BBN proposal to NIH</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref111" level="otherlevel">
+                    <did>
+                        <unittitle>Correspondence with Bolt, Beranek, and Newman 2</unittitle>
+                        <container id="cid55181" type="Box" label="Mixed materials">3</container>
+                        <unitdate>1982</unitdate>
+                        <origination label="creator">
+                            <corpname source="ingest">GenBank</corpname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref113">
+                        <head>Scope and Contents note</head>
+                        <p>Reponses to questions from NIH regarding proposal of 1982</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref114" level="otherlevel">
+                    <did>
+                        <unittitle>Correspondence with Bolt, Beranek, and Newman 3</unittitle>
+                        <container id="cid55180" type="Box" label="Mixed materials">3</container>
+                        <unitdate>1983</unitdate>
+                        <origination label="creator">
+                            <corpname source="ingest">GenBank</corpname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref116">
+                        <head>Scope and Contents note</head>
+                        <p>Proposal to NIH to support data management, data collection and distribution for GenBank</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref117" level="otherlevel">
+                    <did>
+                        <unittitle>Correspondence with Bolt, Beranek, and Newman 4</unittitle>
+                        <container id="cid55179" type="Box" label="Mixed materials">3</container>
+                        <unitdate>1984-1987</unitdate>
+                        <origination label="creator">
+                            <corpname source="ingest">GenBank</corpname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref119">
+                        <head>Scope and Contents note</head>
+                        <p>Includes grant proposal to Dept. of Agriculture for maintenance of plant genetic sequences</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref120" level="otherlevel">
+                    <did>
+                        <unittitle>Contracts 1</unittitle>
+                        <container id="cid55178" type="Box" label="Mixed materials">3</container>
+                        <unitdate>1981-1982</unitdate>
+                        <origination label="creator">
+                            <corpname source="ingest">GenBank</corpname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref122">
+                        <head>Scope and Contents note</head>
+                        <p>Contracts with NIH, Intelligenetics</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref123" level="otherlevel">
+                    <did>
+                        <unittitle>Contracts 2</unittitle>
+                        <container id="cid55177" type="Box" label="Mixed materials">3</container>
+                        <unitdate>1980-1987</unitdate>
+                        <origination label="creator">
+                            <corpname source="ingest">GenBank</corpname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref125">
+                        <head>Scope and Contents note</head>
+                        <p>Supporting information for contracts, including correspondence and agreements, resumes for investigators; verification of trademark on "GenBank"</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref126" level="otherlevel">
+                    <did>
+                        <unittitle>Proposals</unittitle>
+                        <container id="cid55176" type="Box" label="Mixed materials">3</container>
+                        <physdesc>
+                            <extent>3 items</extent>
+                        </physdesc>
+                        <unitdate>1981-1987</unitdate>
+                        <origination label="creator">
+                            <corpname source="ingest">GenBank</corpname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref128">
+                        <head>Scope and Contents note</head>
+                        <p>Proposed addendum to R01-GM2706, 1981; "Center for Computer Analysis of Macromolecules,"</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref129" level="otherlevel">
+                    <did>
+                        <unittitle>Correspondence</unittitle>
+                        <container id="cid55175" type="Box" label="Mixed materials">4</container>
+                        <unitdate>1982-1983</unitdate>
+                        <origination label="creator">
+                            <corpname source="ingest">GenBank. Advisory Group</corpname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref131">
+                        <head>Scope and Contents note</head>
+                        <p>Notes and correspondence regarding Advisory Group.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref132" level="otherlevel">
+                    <did>
+                        <unittitle>Minutes and notes 1</unittitle>
+                        <container id="cid55174" type="Box" label="Mixed materials">4</container>
+                        <unitdate>1984</unitdate>
+                        <origination label="creator">
+                            <corpname source="ingest">GenBank. Advisory Group</corpname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref133" level="otherlevel">
+                    <did>
+                        <unittitle>Minutes and notes 2</unittitle>
+                        <container id="cid55173" type="Box" label="Mixed materials">4</container>
+                        <unitdate>1985</unitdate>
+                        <origination label="creator">
+                            <corpname source="ingest">GenBank. Advisory Group</corpname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref134" level="otherlevel">
+                    <did>
+                        <unittitle>Minutes and notes 3</unittitle>
+                        <container id="cid55172" type="Box" label="Mixed materials">4</container>
+                        <unitdate>1986</unitdate>
+                        <origination label="creator">
+                            <corpname source="ingest">GenBank. Advisory Group</corpname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref135" level="otherlevel">
+                    <did>
+                        <unittitle>Minutes and notes 4</unittitle>
+                        <container id="cid55171" type="Box" label="Mixed materials">4</container>
+                        <unitdate>1987</unitdate>
+                        <origination label="creator">
+                            <corpname source="ingest">GenBank. Advisory Group</corpname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref136" level="otherlevel">
+                    <did>
+                        <unittitle>Competitors</unittitle>
+                        <container id="cid55163" type="Box" label="Mixed materials">4</container>
+                        <physdesc>
+                            <extent>7 folders</extent>
+                        </physdesc>
+                        <unitdate>1980-1989</unitdate>
+                        <origination label="creator">
+                            <corpname source="ingest">GenBank--Miscellaneous</corpname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref153">
+                        <head>Scope and Contents note</head>
+                        <p>Materials relating to other nucleic acid databases, either "competitors" or colleagues of GenBank</p>
+                    </scopecontent>
+                    <c03 id="ref137" level="otherlevel">
+                        <did>
+                            <unittitle>Genet</unittitle>
+                            <container id="cid55170" type="Folder" label="Mixed materials">1</container>
+                            <unitdate>1982</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref138" level="otherlevel">
+                        <did>
+                            <unittitle>Japanese databases</unittitle>
+                            <container id="cid55169" type="Folder" label="Mixed materials">2</container>
+                            <unitdate>1982-1986</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref139" level="otherlevel">
+                        <did>
+                            <unittitle>Molecular Biology Computer Research Resource</unittitle>
+                            <container id="cid55168" type="Folder" label="Mixed materials">3</container>
+                            <unitdate>1986</unitdate>
+                        </did>
+                        <scopecontent id="ref141">
+                            <head>Scope and Contents note</head>
+                            <p>Includes application for grant from Dana-Farber Cancer Institute to USPHS for Molecular Biology Computer Research Resource</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref142" level="otherlevel">
+                        <did>
+                            <unittitle>MolGen</unittitle>
+                            <container id="cid55167" type="Folder" label="Mixed materials">4</container>
+                            <unitdate>1980-1981</unitdate>
+                        </did>
+                        <scopecontent id="ref144">
+                            <head>Scope and Contents note</head>
+                            <p>Includes "An Introduction for guests pf MOLGEN on SUMEX-AIM," 1980 and 1981; minutes of workshop on need for a nucleic acid sequence database, 1980; and proposal to NSF for funding MOLGEN, 1983</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref145" level="otherlevel">
+                        <did>
+                            <unittitle>National Biomedical Research Foundation</unittitle>
+                            <container id="cid55166" type="Folder" label="Mixed materials">5</container>
+                            <unitdate>1980-1982</unitdate>
+                        </did>
+                        <scopecontent id="ref147">
+                            <head>Scope and Contents note</head>
+                            <p>Re: Margaret Dayhoff's system</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref148" level="otherlevel">
+                        <did>
+                            <unittitle>PROPHET</unittitle>
+                            <container id="cid55165" type="Folder" label="Mixed materials">6</container>
+                            <unitdate>1982</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref149" level="otherlevel">
+                        <did>
+                            <unittitle>Protein Databank</unittitle>
+                            <container id="cid55164" type="Folder" label="Mixed materials">7</container>
+                            <unitdate>1987-1989</unitdate>
+                        </did>
+                        <scopecontent id="ref151">
+                            <head>Scope and Contents note</head>
+                            <p>Protein Databank Newsletters no. 40-47</p>
+                        </scopecontent>
+                    </c03>
+                </c02>
+                <c02 id="ref154" level="otherlevel">
+                    <did>
+                        <unittitle>Computing materials</unittitle>
+                        <container id="cid55159" type="Box" label="Mixed materials">5</container>
+                        <physdesc>
+                            <extent>3 folders</extent>
+                        </physdesc>
+                        <unitdate>1979-1987</unitdate>
+                        <origination label="creator">
+                            <corpname source="ingest">GenBank--Miscellaneous</corpname>
+                        </origination>
+                    </did>
+                    <c03 id="ref155" level="otherlevel">
+                        <did>
+                            <unittitle>Applications of Supercomputers in Life Sciences</unittitle>
+                            <container id="cid55162" type="Folder" label="Mixed materials">1</container>
+                            <unitdate>1984-1986</unitdate>
+                        </did>
+                        <scopecontent id="ref157">
+                            <head>Scope and Contents note</head>
+                            <p>Materials on Workshop on the Applications of Supercomputers in Life Sciences (1984), including the proceedings, and NSF Office of Advanced Scientific Computing</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref158" level="otherlevel">
+                        <did>
+                            <unittitle>ESNet</unittitle>
+                            <container id="cid55161" type="Folder" label="Mixed materials">2</container>
+                            <unitdate>1986-1987</unitdate>
+                        </did>
+                        <scopecontent id="ref160">
+                            <head>Scope and Contents note</head>
+                            <p>Materials relating to the Energy Sciences Network, including Five Year Networking Plan (1987), minutes, notes and correspondence for Steering Committee; planning and status documents relating to the internet and HEPNET (High Energy Physics Comp. Net.)</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref161" level="otherlevel">
+                        <did>
+                            <unittitle>Los Alamos Scientific Laboratory--T-10 Computer use</unittitle>
+                            <container id="cid55160" type="Folder" label="Mixed materials">3</container>
+                            <unitdate>1979-1983</unitdate>
+                        </did>
+                        <scopecontent id="ref163">
+                            <head>Scope and Contents note</head>
+                            <p>Re: computer use in Division T-10 at Los Alamos</p>
+                        </scopecontent>
+                    </c03>
+                </c02>
+                <c02 id="ref375" level="otherlevel">
+                    <did>
+                        <unittitle>GenBank: The First 15 Years.</unittitle>
+                        <abstract id="ref376" label="Abstract">Contains material relating to the Symposium Honoring Dr. Walter Goad.</abstract>
+                    </did>
+                    <c03 id="ref377" level="item">
+                        <did>
+                            <unittitle>"Hello Walter."</unittitle>
+                            <physdesc>
+                                <extent>1.0 Item(s)</extent>
+                            </physdesc>
+                            <unitdate>n. d.</unitdate>
+                            <abstract id="ref378" label="Abstract">Two photographs, a crowd in each holding letters that spell "Hello" and "Walter" respectively.</abstract>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="&quot;Hello Walter.&quot; " ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:4557">
+                            <daodesc>
+                                <p>"Hello Walter." , n. d. </p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                </c02>
+                <c02 id="ref164" level="otherlevel">
+                    <did>
+                        <unittitle>Database design notes</unittitle>
+                        <container id="cid55158" type="Box" label="Mixed materials">5</container>
+                        <unitdate>1983-1984</unitdate>
+                        <origination label="creator">
+                            <corpname source="ingest">GenBank--Miscellaneous</corpname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref165" level="otherlevel">
+                    <did>
+                        <unittitle>Homology program (FORTRAN)</unittitle>
+                        <container id="cid55157" type="Box" label="Mixed materials">5</container>
+                        <unitdate>1984</unitdate>
+                        <origination label="creator">
+                            <corpname source="ingest">GenBank--Miscellaneous</corpname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref166" level="otherlevel">
+                    <did>
+                        <unittitle>EMBL materials 1</unittitle>
+                        <container id="cid55156" type="Box" label="Mixed materials">5</container>
+                        <unitdate>1979-1982</unitdate>
+                        <origination label="creator">
+                            <corpname source="ingest">GenBank--Miscellaneous</corpname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref168">
+                        <head>Scope and Contents note</head>
+                        <p>Correspondence, agendas, etc. re: workshops and meetings, including "Computing and DNA Sequences" workshop, 1980; proposal for Intl. Workshop on Nucleotide Sequence Databases, 1982; recommendations on Nucleotide Sequence Data Library, 1982; travel reports</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref169" level="otherlevel">
+                    <did>
+                        <unittitle>EMBL materials 2</unittitle>
+                        <container id="cid55155" type="Box" label="Mixed materials">5</container>
+                        <unitdate>1983-1987</unitdate>
+                        <origination label="creator">
+                            <corpname source="ingest">GenBank--Miscellaneous</corpname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref171">
+                        <head>Scope and Contents note</head>
+                        <p>Includes computer printout of letter from Hamm and Goad regarding LASL/GenBank/EMBL cooperation; notes on EMBL workshop on "Future of the Biocomputing Programme," 1985, including final report</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref172" level="otherlevel">
+                    <did>
+                        <unittitle>Los Alamos internal documents</unittitle>
+                        <container id="cid55151" type="Box" label="Mixed materials">5</container>
+                        <physdesc>
+                            <extent>3 folders</extent>
+                        </physdesc>
+                        <unitdate>1981-1989</unitdate>
+                        <origination label="creator">
+                            <corpname source="ingest">GenBank--Miscellaneous</corpname>
+                        </origination>
+                    </did>
+                    <c03 id="ref173" level="otherlevel">
+                        <did>
+                            <unittitle>Los Alamos internal documents 1</unittitle>
+                            <container id="cid55154" type="Folder" label="Mixed materials">1</container>
+                            <unitdate>1981-1985</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref174" level="otherlevel">
+                        <did>
+                            <unittitle>Los Alamos internal documents 2</unittitle>
+                            <container id="cid55153" type="Folder" label="Mixed materials">2</container>
+                            <unitdate>1986-1987</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref175" level="otherlevel">
+                        <did>
+                            <unittitle>Los Alamos internal documents 3</unittitle>
+                            <container id="cid55152" type="Folder" label="Mixed materials">3</container>
+                            <unitdate>1988</unitdate>
+                        </did>
+                        <scopecontent id="ref177">
+                            <head>Scope and Contents note</head>
+                            <p>Includes research report by Daniel B. Davidson, 1988; proposals and summaries of activity</p>
+                        </scopecontent>
+                    </c03>
+                </c02>
+                <c02 id="ref178" level="otherlevel">
+                    <did>
+                        <unittitle>Manuals</unittitle>
+                        <container id="cid55150" type="Box" label="Mixed materials">6</container>
+                        <unitdate>1982-1984</unitdate>
+                        <origination label="creator">
+                            <corpname source="ingest">GenBank--Miscellaneous</corpname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref180">
+                        <head>Scope and Contents note</head>
+                        <p>Manuals or guides for access and participation in Los Alamos Nucleic Acid Sequence Data Bank, including "Los Alamos Nucleic Acid Sequence Data Bank and Computer Analysis Center"</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref181" level="otherlevel">
+                    <did>
+                        <unittitle>Reference materials</unittitle>
+                        <container id="cid55149" type="Box" label="Mixed materials">6</container>
+                        <unitdate>1976-1981</unitdate>
+                        <origination label="creator">
+                            <corpname source="ingest">GenBank--Miscellaneous</corpname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref183">
+                        <head>Scope and Contents note</head>
+                        <p>Miscellaneous materials relating to database query and design</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref184" level="otherlevel">
+                    <did>
+                        <unittitle>"Science article"</unittitle>
+                        <container id="cid55148" type="Box" label="Mixed materials">6</container>
+                        <unitdate>1986</unitdate>
+                        <origination label="creator">
+                            <corpname source="ingest">GenBank--Miscellaneous</corpname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref186">
+                        <head>Scope and Contents note</head>
+                        <p>Drafts of Bilofsky et al., "Data banks of nucleic acid sequence: GenBank" and Burks et al. "GenBank: The Genetic Sequence Data Bank" (the latter published in Science)</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref187" level="otherlevel">
+                    <did>
+                        <unittitle>Submissions forms for data</unittitle>
+                        <container id="cid55147" type="Box" label="Mixed materials">6</container>
+                        <unitdate>ca.1985?</unitdate>
+                        <origination label="creator">
+                            <corpname source="ingest">GenBank--Miscellaneous</corpname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref188" level="otherlevel">
+                    <did>
+                        <unittitle>Viewgraphs</unittitle>
+                        <container id="cid55146" type="Box" label="Mixed materials">6</container>
+                        <unitdate>1986-1988</unitdate>
+                        <origination label="creator">
+                            <corpname source="ingest">GenBank--Miscellaneous</corpname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref190">
+                        <head>Scope and Contents note</head>
+                        <p>Overhead transparencies for presentations on GenBank</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref191" level="otherlevel">
+                    <did>
+                        <unittitle>Miscellaneous materials 1</unittitle>
+                        <container id="cid55145" type="Box" label="Mixed materials">6</container>
+                        <unitdate>1979-1982</unitdate>
+                        <origination label="creator">
+                            <corpname source="ingest">GenBank--Miscellaneous</corpname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref193">
+                        <head>Scope and Contents note</head>
+                        <p>Includes data on E. coli, M1 RNA homology search</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref194" level="otherlevel">
+                    <did>
+                        <unittitle>Miscellaneous materials 2</unittitle>
+                        <container id="cid55144" type="Box" label="Mixed materials">6</container>
+                        <unitdate>1983-1984</unitdate>
+                        <origination label="creator">
+                            <corpname source="ingest">GenBank--Miscellaneous</corpname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref196">
+                        <head>Scope and Contents note</head>
+                        <p>Includes copy of TMs "Nucleotide Sequence Data Banks"</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref197" level="otherlevel">
+                    <did>
+                        <unittitle>Miscellaneous materials 3</unittitle>
+                        <container id="cid55143" type="Box" label="Mixed materials">6</container>
+                        <unitdate>1985-1986</unitdate>
+                        <origination label="creator">
+                            <corpname source="ingest">GenBank--Miscellaneous</corpname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref199">
+                        <head>Scope and Contents note</head>
+                        <p>Includes flow charts for data and resource management, misc. materials relating to grants; TMs "Redesigning GenBank: An Overview" by Jim Fickett (a "five-year plan")</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref200" level="otherlevel">
+                    <did>
+                        <unittitle>Miscellaneous materials 4</unittitle>
+                        <container id="cid55142" type="Box" label="Mixed materials">6</container>
+                        <unitdate>1987-1991</unitdate>
+                        <origination label="creator">
+                            <corpname source="ingest">GenBank--Miscellaneous</corpname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref202">
+                        <head>Scope and Contents note</head>
+                        <p>Includes 1987 status report on GenBank, notes on PCR (ca.1990) and DNA denaturation</p>
+                    </scopecontent>
+                </c02>
+            </c01>
+            <c01 id="ref205" level="series">
+                <did>
+                    <unittitle>Series IV. Human Genome Project</unittitle>
+                </did>
+                <scopecontent id="ref246">
+                    <head>Scope and Contents note</head>
+                    <p>Materials relating primarily to the planning stages for the Human Genome Project, many emanating from Goad's participation in the Advisory Panel. Goad attended several early planing workshops in which the sequencing and analytical technologies were fleshed out, with the intention of tapping newer technologies to scale up the mapping and sequencing enterprise, including polymerase chain reaction and the intensive use of computers and robotic approaches. In addition to a small suite of materials from the Human Genome Management Plan workshop, the final report from the Human Genome Workshop held in Santa Fe, 1986, provides a good technological and conceptual baseline for the project.</p>
+                </scopecontent>
+                <c02 id="ref206" level="otherlevel">
+                    <did>
+                        <unittitle>Human Genome Project 1</unittitle>
+                        <container id="cid55141" type="Box" label="Mixed materials">7</container>
+                        <unitdate>1986</unitdate>
+                    </did>
+                    <scopecontent id="ref208">
+                        <head>Scope and Contents note</head>
+                        <p>Some correspondence, planning documents, and miscellany relating to Human Genome Project; respecting planning and methodology for the project</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref209" level="otherlevel">
+                    <did>
+                        <unittitle>Human Genome Project 2</unittitle>
+                        <container id="cid55140" type="Box" label="Mixed materials">7</container>
+                        <unitdate>1987</unitdate>
+                    </did>
+                    <scopecontent id="ref211">
+                        <head>Scope and Contents note</head>
+                        <p>Includes statement of operations of Human Genome Project, 1987; published "Report on the Human Genome Initiative," April 1987; and Articles of Incorporation of the Human Genome</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref212" level="otherlevel">
+                    <did>
+                        <unittitle>Human Genome Project--Grant proposals</unittitle>
+                        <container id="cid55139" type="Box" label="Mixed materials">7</container>
+                        <unitdate>1986</unitdate>
+                    </did>
+                    <scopecontent id="ref214">
+                        <head>Scope and Contents note</head>
+                        <p>Includes applications and related material to DOE for "Computational Analysis..," "Technical and Eonomic Analysis of Biomass Technologies," "Human Genome: Chromosome-specific Physical Mapping," "Enhancing Genomic DNA Analysis with Robotic Automation"</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref215" level="otherlevel">
+                    <did>
+                        <unittitle>Human Genome Project--Publications 1</unittitle>
+                        <container id="cid55138" type="Box" label="Mixed materials">7</container>
+                        <unitdate>1986</unitdate>
+                    </did>
+                    <scopecontent id="ref217">
+                        <head>Scope and Contents note</head>
+                        <p>Includes semi-published(?) position paper on major issues facing the Project by harles Cantor; "DOE Human Genomic Technical Tool Development Program Recommendations" by Temple Smith; "Human Genome Initiative Proposal for Discussion by the HERAC DOE Subcommittee"</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref218" level="otherlevel">
+                    <did>
+                        <unittitle>Human Genome Project--Publications 2</unittitle>
+                        <container id="cid55137" type="Box" label="Mixed materials">7</container>
+                        <unitdate>1988</unitdate>
+                    </did>
+                    <scopecontent id="ref220">
+                        <head>Scope and Contents note</head>
+                        <p>Publications, drafts, and notes on Sirotkin and Loehr, "The Interface Between Computational Science and Nucleic Acid Sequencing"; Moyzis et al., "The Distribution of Interspeed Repetitive DNA Sequences..."; and Sirotkin et al. "Computer Simulation..."</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref221" level="otherlevel">
+                    <did>
+                        <unittitle>Human Genome Project--Publications 3</unittitle>
+                        <container id="cid55136" type="Box" label="Mixed materials">7</container>
+                        <unitdate>1988</unitdate>
+                    </did>
+                    <scopecontent id="ref223">
+                        <head>Scope and Contents note</head>
+                        <p>Drafts and assorted materials relating to Goad et al., "Multiplex Walking: A Proposal"</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref224" level="otherlevel">
+                    <did>
+                        <unittitle>Human Genome Project--OTA 1</unittitle>
+                        <container id="cid55135" type="Box" label="Mixed materials">7</container>
+                        <unitdate>1986-1987</unitdate>
+                    </did>
+                    <scopecontent id="ref226">
+                        <head>Scope and Contents note</head>
+                        <p>Materials relating to Mapping the Human Genome Advisory Panel Meeting, 1987, including proposal for an OTA assessment and an OTA preliminary memo on "Status of Mapping and Sequencing" of project</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref227" level="otherlevel">
+                    <did>
+                        <unittitle>Human Genome Project--OTA 2</unittitle>
+                        <container id="cid55134" type="Box" label="Mixed materials">7</container>
+                        <unitdate>1987</unitdate>
+                    </did>
+                    <scopecontent id="ref229">
+                        <head>Scope and Contents note</head>
+                        <p>Drafts of chapters 2-7 of OTA report</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref230" level="otherlevel">
+                    <did>
+                        <unittitle>Human Genome Project--Site visits</unittitle>
+                        <container id="cid55133" type="Box" label="Mixed materials">8</container>
+                        <unitdate>1986-1993</unitdate>
+                    </did>
+                    <scopecontent id="ref232">
+                        <head>Scope and Contents note</head>
+                        <p>Material re: site visits to Laboratory of Mathematical Biology, National Cancer Institute</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref233" level="otherlevel">
+                    <did>
+                        <unittitle>Human Genome Project--Workshops (Santa Fe, 1986) 1</unittitle>
+                        <container id="cid55132" type="Box" label="Mixed materials">8</container>
+                        <unitdate>1985</unitdate>
+                    </did>
+                    <scopecontent id="ref235">
+                        <head>Scope and Contents note</head>
+                        <p>Final report packet from Human Genome Workshop (Santa Cruz, Calif., 1985), including list of participants; "Program for Large-Scale Analysis of Nucleotide Sequences" (Anderson and Anderson); agenda; "Technology" (Comings); "Memo" (Gilbert); "Cost of Sequencing" (Burks); memo for Howard Hughes Medical Inst.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref236" level="otherlevel">
+                    <did>
+                        <unittitle>Human Genome Project--Workshops (Santa Fe, 1986) 2</unittitle>
+                        <container id="cid55131" type="Box" label="Mixed materials">8</container>
+                        <unitdate>1986</unitdate>
+                    </did>
+                    <scopecontent id="ref238">
+                        <head>Scope and Contents note</head>
+                        <p>Comments from participants in Human Genome Workshop (Santa Fe, N.M., 1986), included with final report. Also: "Models of the enterprise" and draft and email from Goad to Mark Bitensky of his thoughts on the Human Genome Project; including David C. Ward, "Summary Statement of DNA Sequencing Technology." Also: "non-technical document" relating to sequencing the</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref239" level="otherlevel">
+                    <did>
+                        <unittitle>Human Genome Project--Workshops (Santa Cruz, 1985)</unittitle>
+                        <container id="cid55130" type="Box" label="Mixed materials">8</container>
+                        <unitdate>1985</unitdate>
+                    </did>
+                    <scopecontent id="ref241">
+                        <head>Scope and Contents note</head>
+                        <p>"Notes and conclusions from the Human Genome Workshop"</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref242" level="otherlevel">
+                    <did>
+                        <unittitle>Human Genome Project--Workshops (Denver, 1987)</unittitle>
+                        <container id="cid55129" type="Box" label="Mixed materials">8</container>
+                        <unitdate>1987</unitdate>
+                    </did>
+                    <scopecontent id="ref244">
+                        <head>Scope and Contents note</head>
+                        <p>Documents from Human Genome Management Plan workshop, including description of Howard Hughes Med. Inst. participation, American Type Culture Collection (re: repository of DNA probes); Jett et al. "A Method for Rapid Base Sequencing in DNA"; DOE grant applications for Human Recombinant DNA Library and "Human Genome Sequencing: Robotic Vision"; Chuck Watson on data management; "Advanced Concepts for Base Sequencing in DNA"</p>
+                    </scopecontent>
+                </c02>
+            </c01>
+            <c01 id="ref247" level="series">
+                <did>
+                    <unittitle>Series V. Conferences and workshops</unittitle>
+                </did>
+                <scopecontent id="ref298">
+                    <head>Scope and Contents note</head>
+                    <p>Information on a variety of molecular biological and data analysis conferences and workshops in which Goad participated. The most voluminous files are those from the CODATA conferences and Numerical Data Advisory Board of the NRC, but there is information on the NIGMS Nucleic Acid Sequence Data Bank Workshop (1980); the Aspen Center conference of the Acquisition, Integration, and Analysis of Molecular Genetic Information (1982); the NSF Advisory Committee on Advanced Computing (1983-1984); the Hayashibara Forum (Okayama, Japan, 1987); the Complex Carbohydrate Structure Data Base Workshop (1986); the workshop "Exploring the Role of Robotics and Automation in Decoding the Human Genome" (1987); and the Workshop on Algorithms for Molecular Genetics (1988). The series includes two interesting typescripts: "Data Management for Physical Mapping" and "Notes on the Lehrach Probe Hybridization Map" by G. P. Smith, both from 1987.</p>
+                </scopecontent>
+                <c02 id="ref248" level="otherlevel">
+                    <did>
+                        <unittitle>Acquisition, Integration, and Analysis of Molecular Genetic Information... (Aspen Center for Physics, 1982)</unittitle>
+                        <container id="cid55128" type="Box" label="Mixed materials">9</container>
+                        <unitdate>1982</unitdate>
+                    </did>
+                    <scopecontent id="ref250">
+                        <head>Scope and Contents note</head>
+                        <p>Information from Workshop on Computational Analysis of DNA Sequences held at Aspen Center for Physics, August-Sept., 1982, including "Terminal Progress Report"</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref251" level="otherlevel">
+                    <did>
+                        <unittitle>Baca Conference</unittitle>
+                        <container id="cid55127" type="Box" label="Mixed materials">9</container>
+                        <unitdate>1981</unitdate>
+                    </did>
+                    <scopecontent id="ref253">
+                        <head>Scope and Contents note</head>
+                        <p>Schedule for conference</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref254" level="otherlevel">
+                    <did>
+                        <unittitle>Committee on Biotechnology Nomenclature and Information Organization</unittitle>
+                        <container id="cid55126" type="Box" label="Mixed materials">9</container>
+                        <unitdate>1986</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref255" level="otherlevel">
+                    <did>
+                        <unittitle>Hayashibara Forum</unittitle>
+                        <container id="cid55125" type="Box" label="Mixed materials">9</container>
+                        <unitdate>1987</unitdate>
+                    </did>
+                    <scopecontent id="ref257">
+                        <head>Scope and Contents note</head>
+                        <p>Workshop in Okayama, Japan,organized by Akiyoshi Wada, including abstracts of papers presented, offprints, list of participants.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref258" level="otherlevel">
+                    <did>
+                        <unittitle>CODATA 1</unittitle>
+                        <container id="cid55124" type="Box" label="Mixed materials">9</container>
+                        <unitdate>1984</unitdate>
+                    </did>
+                    <scopecontent id="ref260">
+                        <head>Scope and Contents note</head>
+                        <p>Material relating to CODATA and Numerical Data Advisory Board, including report of the Education Panel of the Numerical Data Advisory Board.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref261" level="otherlevel">
+                    <did>
+                        <unittitle>CODATA 2</unittitle>
+                        <container id="cid55123" type="Box" label="Mixed materials">9</container>
+                        <unitdate>1985-1986</unitdate>
+                    </did>
+                    <scopecontent id="ref263">
+                        <head>Scope and Contents note</head>
+                        <p>Material relating to CODATA and Numerical Data Advisory Board.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref264" level="otherlevel">
+                    <did>
+                        <unittitle>CODATA 3</unittitle>
+                        <container id="cid55122" type="Box" label="Mixed materials">9</container>
+                        <unitdate>1987</unitdate>
+                    </did>
+                    <scopecontent id="ref266">
+                        <head>Scope and Contents note</head>
+                        <p>Documents and correspondence relating to 1st CODATA Workshop (Gaithersburg, 1987), including minutes of steering committee (Goad was a member).</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref267" level="otherlevel">
+                    <did>
+                        <unittitle>CODATA 4</unittitle>
+                        <container id="cid55121" type="Box" label="Mixed materials">9</container>
+                        <physdesc>
+                            <extent>4 items</extent>
+                        </physdesc>
+                        <unitdate>1984-1985</unitdate>
+                    </did>
+                    <scopecontent id="ref269">
+                        <head>Scope and Contents note</head>
+                        <p>Mintues of Meetings of the Numerical Data Advisory Board, U.S. National Committee for CODATA (July 23, 1984, Jan. 29, 1985; July 11, 1985).</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref270" level="otherlevel">
+                    <did>
+                        <unittitle>Marine Biological Laboratory (Woods Hole, Mass.)</unittitle>
+                        <container id="cid55120" type="Box" label="Mixed materials">9</container>
+                        <unitdate>1988</unitdate>
+                    </did>
+                    <scopecontent id="ref272">
+                        <head>Scope and Contents note</head>
+                        <p>Materials for participants in Molecular Evolution course at MBL, including list of participant, schedule, list of participants, and overhead transparencies. Photo of participants transferred to Series VI: Photographs.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref273" level="otherlevel">
+                    <did>
+                        <unittitle>National Library of Medicine</unittitle>
+                        <container id="cid55119" type="Box" label="Mixed materials">9</container>
+                        <unitdate>1988</unitdate>
+                    </did>
+                    <scopecontent id="ref275">
+                        <head>Scope and Contents note</head>
+                        <p>Materials for Workshop on Algorithms for Molecular Genetics</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref276" level="otherlevel">
+                    <did>
+                        <unittitle>National Institute of General Medical Sciences</unittitle>
+                        <container id="cid55118" type="Box" label="Mixed materials">9</container>
+                        <unitdate>1980</unitdate>
+                    </did>
+                    <scopecontent id="ref278">
+                        <head>Scope and Contents note</head>
+                        <p>Nucleic Acid Sequence Data Bank Workshop (1980 : Bethesda, Md.), including agenda, notes, and Goad's "Summary and observations"</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref279" level="otherlevel">
+                    <did>
+                        <unittitle>National Institute of Health</unittitle>
+                        <container id="cid55117" type="Box" label="Mixed materials">9</container>
+                        <physdesc>
+                            <extent>3 items</extent>
+                        </physdesc>
+                        <unitdate>1987</unitdate>
+                    </did>
+                    <scopecontent id="ref281">
+                        <head>Scope and Contents note</head>
+                        <p>Minutes of Working Group (Los Alamos) for July 14 and August 11, 1987.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref282" level="otherlevel">
+                    <did>
+                        <unittitle>National Science Foundation</unittitle>
+                        <container id="cid55116" type="Box" label="Mixed materials">9</container>
+                        <unitdate>1983-1984</unitdate>
+                    </did>
+                    <scopecontent id="ref284">
+                        <head>Scope and Contents note</head>
+                        <p>Materials relating to Advisory Committee on Advanced Computing, including draft proposal for USERNET participation.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref285" level="otherlevel">
+                    <did>
+                        <unittitle>United States. Department of Energy 1</unittitle>
+                        <container id="cid55115" type="Box" label="Mixed materials">9</container>
+                        <unitdate>1986</unitdate>
+                    </did>
+                    <scopecontent id="ref287">
+                        <head>Scope and Contents note</head>
+                        <p>Materials relating to the Complex Carbohydrate Structure Data Base Workshop (1987 : Auburn, N.Y.), including list of participants, summary.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref288" level="otherlevel">
+                    <did>
+                        <unittitle>United States. Department of Energy 2</unittitle>
+                        <container id="cid55114" type="Box" label="Mixed materials">9</container>
+                        <unitdate>1987</unitdate>
+                    </did>
+                    <scopecontent id="ref290">
+                        <head>Scope and Contents note</head>
+                        <p>Materials relating to workshop: Exploring the Role of Robotics and Automation in Decoding the Human Genome, including agenda, list of participants, report</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref291" level="otherlevel">
+                    <did>
+                        <unittitle>United States. Department of Energy 3</unittitle>
+                        <container id="cid55113" type="Box" label="Mixed materials">9</container>
+                        <unitdate>1987</unitdate>
+                    </did>
+                    <scopecontent id="ref293">
+                        <head>Scope and Contents note</head>
+                        <p>Materials relating to workshop on physical mapping of genome, including draft TMs on "Data Management for Physical Mapping" and "Notes on the Lehrach Probe Hybridization Map" by G. P. Smith.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref294" level="otherlevel">
+                    <did>
+                        <unittitle>Miscellaneous</unittitle>
+                        <container id="cid55112" type="Box" label="Mixed materials">9</container>
+                        <unitdate>1984-1987</unitdate>
+                    </did>
+                    <scopecontent id="ref296">
+                        <head>Scope and Contents note</head>
+                        <p>Miscellaneous materials relating to various conferences and symposia, including the Symposium on the Analysis of Genetic Squences and the Symposium on Biological Applications on Cray</p>
+                    </scopecontent>
+                </c02>
+            </c01>
+            <c01 id="ref299" level="series">
+                <did>
+                    <unittitle>Series VI. Biographical and personal</unittitle>
+                </did>
+                <scopecontent id="ref335">
+                    <head>Scope and Contents note</head>
+                    <p>Miscellaneous materials of a biographical, autobiographical, or personal nature, including Goad's diplomas, certificates of fellowship in scientific societies, his military service records, and articles about Goad and his research that appeared in the 
+                        <title render="italic">New York Times Magazine</title>, 
+                        <title render="italic">Science</title>, 
+                        <title render="italic">Omni</title>, the Los Alamos 
+                        <title render="italic">Newsbulletin</title>, and local newspapers. The series contains two two-page autobiographical pieces written by Goad, and a longer, though incomplete memoir, written ca.2000.</p>
+                </scopecontent>
+                <c02 id="ref300" level="otherlevel">
+                    <did>
+                        <unittitle>Articles about Goad--Los Alamos Bulletin</unittitle>
+                        <container id="cid55111" type="Box" label="Mixed materials">11</container>
+                        <physdesc>
+                            <extent>8 items</extent>
+                        </physdesc>
+                        <unitdate>1982-1987</unitdate>
+                    </did>
+                    <scopecontent id="ref302">
+                        <head>Scope and Contents note</head>
+                        <p>Articles mentioning Goad extracted from the Los Alamos National Laboratory Newsbulletin</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref303" level="otherlevel">
+                    <did>
+                        <unittitle>Articles about Goad--Miscellaneous</unittitle>
+                        <container id="cid55110" type="Box" label="Mixed materials">11</container>
+                        <physdesc>
+                            <extent>12 items</extent>
+                        </physdesc>
+                        <unitdate>1980-2001</unitdate>
+                    </did>
+                    <scopecontent id="ref305">
+                        <head>Scope and Contents note</head>
+                        <p>Articles mentioning Goad from various publications, including Science, Omni, NY Times</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref306" level="otherlevel">
+                    <did>
+                        <unittitle>Curriculum vita</unittitle>
+                        <container id="cid55109" type="Box" label="Mixed materials">11</container>
+                        <physdesc>
+                            <extent>4 items</extent>
+                        </physdesc>
+                        <unitdate>1985-1988</unitdate>
+                    </did>
+                    <scopecontent id="ref308">
+                        <head>Scope and Contents note</head>
+                        <p>Three versions of Goad's c.v.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref309" level="otherlevel">
+                    <did>
+                        <unittitle>Family materials</unittitle>
+                        <container id="cid55108" type="Box" label="Mixed materials">11</container>
+                        <unitdate>1952-2000</unitdate>
+                    </did>
+                    <scopecontent id="ref311">
+                        <head>Scope and Contents note</head>
+                        <p>Miscellaneous family-related material, including chronology of his life by his wife, Maxine Goad; Goad genealogy; annual family newsletters (1989-2000), selected correspondence with wife and children; wedding announcement, and article on Maxine Goad's career.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref312" level="otherlevel">
+                    <did>
+                        <unittitle>Grainger High School Yearbook</unittitle>
+                        <container id="cid55107" type="Box" label="Mixed materials">11</container>
+                        <unitdate>1942</unitdate>
+                    </did>
+                    <scopecontent id="ref314">
+                        <head>Scope and Contents note</head>
+                        <p>Yearbook, with signatures, from Goad's senior year in high school, Kinston, N.C.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref315" level="otherlevel">
+                    <did>
+                        <unittitle>Memoir (incomplete)</unittitle>
+                        <container id="cid55106" type="Box" label="Mixed materials">11</container>
+                        <physdesc>
+                            <extent>3 items</extent>
+                        </physdesc>
+                        <unitdate>1994-2000</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Goad, Walter B., 1925-2000</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref317">
+                        <head>Scope and Contents note</head>
+                        <p>Three autobiographical memoirs of Goad, all brief, the last incomplete.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref318" level="otherlevel">
+                    <did>
+                        <unittitle>Memorial gathering</unittitle>
+                        <container id="cid55105" type="Box" label="Mixed materials">11</container>
+                        <physdesc>
+                            <extent>8 items</extent>
+                        </physdesc>
+                        <unitdate>2000</unitdate>
+                    </did>
+                    <scopecontent id="ref320">
+                        <head>Scope and Contents note</head>
+                        <p>Program for memorial gathering and statements by friends and colleagues read there.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref321" level="otherlevel">
+                    <did>
+                        <unittitle>Military service record</unittitle>
+                        <container id="cid55104" type="Box" label="Mixed materials">11</container>
+                        <unitdate>1942-1954</unitdate>
+                    </did>
+                    <scopecontent id="ref323">
+                        <head>Scope and Contents note</head>
+                        <p>Official records of Goad's service in the Navy and Naval Reserve.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref324" level="otherlevel">
+                    <did>
+                        <unittitle>Obituaries</unittitle>
+                        <container id="cid55103" type="Box" label="Mixed materials">11</container>
+                        <physdesc>
+                            <extent>8 items</extent>
+                        </physdesc>
+                        <unitdate>2000</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref325" level="otherlevel">
+                    <did>
+                        <unittitle>Organizations and Societies</unittitle>
+                        <container id="cid55102" type="Box" label="Mixed materials">11</container>
+                        <physdesc>
+                            <extent>5 items</extent>
+                        </physdesc>
+                        <unitdate>1945-1975</unitdate>
+                    </did>
+                    <scopecontent id="ref327">
+                        <head>Scope and Contents note</head>
+                        <p>Membership certificates or notice of election to Fellowship in American Association for the Advancement of Science (1968) and American Physical Society (1975); Eleanor Roosevelt Inst. For Cancer Research (1974); and Sigma Xi (1945); appointment as Laboratory Fellow, Los Alamos (1987).</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref328" level="otherlevel">
+                    <did>
+                        <unittitle>Union College Commencement Exercises (Program)</unittitle>
+                        <container id="cid55101" type="Box" label="Mixed materials">11</container>
+                        <physdesc>
+                            <extent>1 item</extent>
+                        </physdesc>
+                        <unitdate>1945</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref329" level="otherlevel">
+                    <did>
+                        <unittitle>Diplomas</unittitle>
+                        <container id="cid55100" type="Box" label="Mixed materials">11</container>
+                        <physdesc>
+                            <extent>3 items</extent>
+                        </physdesc>
+                        <unitdate>1942-1954</unitdate>
+                    </did>
+                    <scopecontent id="ref331">
+                        <head>Scope and Contents note</head>
+                        <p>High School Diploma (Grainger High School, Kinston, N.C., 1942), BS, Union College (1945), Ph.D., Duke (1954)</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref332" level="otherlevel">
+                    <did>
+                        <unittitle>Los Alamos National Laboratory Certificate of Excellence</unittitle>
+                        <container id="cid55099" type="Box" label="Mixed materials">11</container>
+                        <physdesc>
+                            <extent>1 item</extent>
+                        </physdesc>
+                        <unitdate>1988</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref333" level="otherlevel">
+                    <did>
+                        <unittitle>GenBank: The First 15 Years. A Symposium Honoring Dr. Walter Goad</unittitle>
+                        <container id="cid55098" type="Box" label="Mixed materials">11</container>
+                        <physdesc>
+                            <extent>Scrapbook</extent>
+                        </physdesc>
+                        <unitdate>1991</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref336" level="series">
+                <did>
+                    <unittitle>Series VII. Miscellaneous and photographs</unittitle>
+                </did>
+                <scopecontent id="ref373">
+                    <head>Scope and Contents note</head>
+                    <p>Miscellaneous manuscript materials and candid and studio photographs of Goad, his family, and colleagues. The manuscripts contain an interesting series of drafts from the Executive Committee of the Los Alamos Branch of the Federation of American Scientists (FAS), March 1955, objecting to the tone of a statement issued by the national FAS of hydrogen bomb testing, and a typescript "Comments on FAS Release of H-Bomb Test Dangers." Also included are a bound laboratory notebook and miscellaneous notes from Goad's research in bioinformatics,</p>
+                </scopecontent>
+                <c02 id="ref337" level="otherlevel">
+                    <did>
+                        <unittitle>H-bomb memoranda</unittitle>
+                        <container id="cid55097" type="Box" label="Mixed materials">12</container>
+                        <unitdate>1955</unitdate>
+                    </did>
+                    <scopecontent id="ref339">
+                        <head>Scope and Contents note</head>
+                        <p>Responses to Federation of American Scientists statement on the H-bomb from the Los Alamos Chapter of the FAS, including draft to the Executive Committee of the Los Alamos Chapter objecting to the tone of the statement; a memorandum to the Executive Committee of the Los Alamos Chapter; a draft of a statement from the Los Alamos Chapter, and "Comments on FAS Release of H-Bomb Test Dangers;" misc. drafts</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref340" level="otherlevel">
+                    <did>
+                        <unittitle>Laboratory notebook</unittitle>
+                        <container id="cid55096" type="Box" label="Mixed materials">12</container>
+                        <physdesc>
+                            <extent>1 vol.</extent>
+                        </physdesc>
+                        <unitdate>1972-1979</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Goad, Walter B., 1925-2000</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref341" level="otherlevel">
+                    <did>
+                        <unittitle>Laboratory notes</unittitle>
+                        <container id="cid55095" type="Box" label="Mixed materials">12</container>
+                        <unitdate>n.d.</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Goad, Walter B., 1925-2000</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref342" level="otherlevel">
+                    <did>
+                        <unittitle>Walter B. Goad at Los Alamos</unittitle>
+                        <container id="cid55094" type="Box" label="Mixed materials">12</container>
+                        <physdesc>
+                            <extent>7 photoprints</extent>
+                        </physdesc>
+                        <unitdate>1982-1987</unitdate>
+                    </did>
+                    <scopecontent id="ref344">
+                        <head>Scope and Contents note</head>
+                        <p>Formal and informal portraits of Goad, including:</p>
+                        <p>1) With model of DNA (for awarding contract toGenBank), 1985</p>
+                        <p>2) Goad and Jim Fickett, 1982</p>
+                        <p>3) Goad and unidentified female colleague, 1982</p>
+                        <p>4) Goad, Christian Burks, et al. and Los Alamos, 1984</p>
+                        <p>5) Goad at blackboard, Los Alamos, 1984</p>
+                        <p>6) Goad at computer, 1984</p>
+                        <p>7) Goad in his office at Los Alamos, 1987</p>
+                    </scopecontent>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Goad at computer, 1984." ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:4556">
+                        <daodesc>
+                            <p>Goad at computer, 1984.</p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref345" level="otherlevel">
+                    <did>
+                        <unittitle>Walter B. Goad portraits</unittitle>
+                        <container id="cid55093" type="Box" label="Mixed materials">12</container>
+                        <physdesc>
+                            <extent>17 photoprints</extent>
+                        </physdesc>
+                        <unitdate>1945-2000</unitdate>
+                    </did>
+                    <scopecontent id="ref347">
+                        <head>Scope and Contents note</head>
+                        <p>Miscellaneous photos of Goad:, including:</p>
+                        <p>1) Goad as naval officer, 1945</p>
+                        <p>2) Goad and Maxine Steineke Goad upon engagement, August 1952</p>
+                        <p>3) Goad and Maxine Goad in the garden of their home in El Rancho, N.M., April 1998 (color)</p>
+                        <p>4, 5) Goad at home in El Rancho, N.M., fall 1979 (two photos, color);</p>
+                        <p>6) Studio portrait, ca.1980</p>
+                        <p>7) Goad and three colleagues at Eleanor Roosevelt Inst. Genetic Symposium, fall 1986</p>
+                        <p>8) Goad, Ted Puck, Leonard Lerman, and Arthur Robinson at Eleanor Roosevelt Inst. Genetic</p>
+                        <p>Symposium, fall 1986</p>
+                        <p>9, 10) Goad and Goad and Maxine Goad on rafting trip on Rio Grande, Tex., March 1987 (2</p>
+                        <p>photos, color)</p>
+                        <p>11) Goad on Folkboat, B.C. 1990 (color)</p>
+                        <p>12) Goad on Folkboat, Desolation Sound, B.C. May 1992 (color)</p>
+                        <p>13) Goad at anchor, Aristazabal Island, B.C., August 1996 (color)</p>
+                        <p>14-17) Goad on trip to Chilean Andes, March 2000 (4 photos, color)</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref348" level="otherlevel">
+                    <did>
+                        <unittitle>Walter B. Goad family</unittitle>
+                        <container id="cid55092" type="Box" label="Mixed materials">12</container>
+                        <physdesc>
+                            <extent>13 photoprints</extent>
+                        </physdesc>
+                        <unitdate>1972-1998</unitdate>
+                    </did>
+                    <scopecontent id="ref350">
+                        <head>Scope and Contents note</head>
+                        <p>Candid photos of Goad, his wife, children, and grandchildren, most in color</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref351" level="otherlevel">
+                    <did>
+                        <unittitle>Los Alamos, 25 Years Service Awards</unittitle>
+                        <container id="cid55091" type="Box" label="Mixed materials">12</container>
+                        <physdesc>
+                            <extent>1 photoprint</extent>
+                        </physdesc>
+                        <unitdate>1976</unitdate>
+                    </did>
+                    <scopecontent id="ref353">
+                        <head>Scope and Contents note</head>
+                        <p>Group portrait of recipient of 25 Years Service Awards, Los Alamos, January 22, 1976</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref354" level="otherlevel">
+                    <did>
+                        <unittitle>Molecular Evolution Course, Woods Hole</unittitle>
+                        <container id="cid55090" type="Box" label="Mixed materials">12</container>
+                        <physdesc>
+                            <extent>1 photoprint</extent>
+                        </physdesc>
+                        <unitdate>1988</unitdate>
+                    </did>
+                    <scopecontent id="ref356">
+                        <head>Scope and Contents note</head>
+                        <p>Group portrait of participants in Molecular Evolution Course held at Woods Hole, 1988</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref357" level="otherlevel">
+                    <did>
+                        <unittitle>Goad's Travels: The Gulf of California Under Sail</unittitle>
+                        <container id="cid55089" type="Box" label="Mixed materials">12</container>
+                        <physdesc>
+                            <extent>1 vol. (27p. and 9 photoprints)</extent>
+                        </physdesc>
+                        <unitdate>1968</unitdate>
+                    </did>
+                    <scopecontent id="ref359">
+                        <head>Scope and Contents note</head>
+                        <p>Diary of family sailing outing to Gulf of California, 1968</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref360" level="otherlevel">
+                    <did>
+                        <unittitle>Goad's Travels: British Columbia Under Sail</unittitle>
+                        <container id="cid55088" type="Box" label="Mixed materials">12</container>
+                        <physdesc>
+                            <extent>2 vols. (4 photoprints)</extent>
+                        </physdesc>
+                        <unitdate>1993, 1995</unitdate>
+                    </did>
+                    <scopecontent id="ref362">
+                        <head>Scope and Contents note</head>
+                        <p>Maxine Goad's diaries of sailing vacations in British Columbia</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref363" level="otherlevel">
+                    <did>
+                        <unittitle>Photos for publication</unittitle>
+                        <container id="cid55087" type="Box" label="Mixed materials">12</container>
+                        <physdesc>
+                            <extent>34 photoprints</extent>
+                        </physdesc>
+                        <unitdate>ca.1982-1985</unitdate>
+                    </did>
+                    <scopecontent id="ref365">
+                        <head>Scope and Contents note</head>
+                        <p>Miscellaneous photos of figures from published works</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref366" level="otherlevel">
+                    <did>
+                        <unittitle>Miscellaneous overhead transparencies</unittitle>
+                        <container id="cid55086" type="Box" label="Mixed materials">12</container>
+                        <unitdate>ca.1982-1985</unitdate>
+                    </did>
+                    <scopecontent id="ref368">
+                        <head>Scope and Contents note</head>
+                        <p>Miscellaneous transparencies and other materials used in presentations regarding GenBank and nucleic acid databases and analysis</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref369" level="otherlevel">
+                    <did>
+                        <unittitle>Posters</unittitle>
+                        <container id="cid55085" type="Box" label="Mixed materials">OS</container>
+                        <physdesc>
+                            <extent>2 items</extent>
+                        </physdesc>
+                        <unitdate>1991, 1994</unitdate>
+                    </did>
+                    <scopecontent id="ref371">
+                        <head>Scope and Contents note</head>
+                        <p>Poster for Symposium Honoring Walter Goad (NIGMS, 1991), and for Theoretical and Computational Biology Workshop (1994)</p>
+                    </scopecontent>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

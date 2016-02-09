@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.D935-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.D935</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T19:11-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Étienne Francois Dutour letters, 1744-1756</unittitle>
+            <unitid>Mss.B.D935</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1265" type="Box" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>0.25 Linear feet</extent>
+                <extent>26 items</extent>
+            </physdesc>
+            <unitdate normal="1744/1756" type="inclusive">1744-1756</unitdate>
+            <abstract id="ref6" label="Abstract">This is a collection of drafts of letters written by Dutour to Abbé Jean Antoine Nollet. Dutour describes his various experiments on the influence of flame on electricity, as well as with luminous barometers. There is information relative to eighteenth-century scientific apparatus, as well as to contemporary scientists, such as Giambatista Beccaria, Francois de Cisternay Du fay, Dortous de Mairan, Petrus von Musschenbroek, and René Antoine Ferchault de Réaumur.</abstract>
+            <physloc id="ref11" label="Paging">LH-MV-C-4</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Dutour, Étienne Francois,1711-1784.</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref10">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Noffenbacher</p>
+        </acqinfo>
+        <bioghist id="ref8">
+            <head>Biographical/Historical note</head>
+            <p>Etienne Francois Dutour was a French physicist and theologian.</p>
+        </bioghist>
+        <odd id="ref12">
+            <head>Early American History Note</head>
+            <p>This manuscript collection falls outside the geographic scope of the Early American guide (British North America and the United States before 1840). It may be of interest to scholars interested in global history, international relations, imperialism, or the U.S. in the world.</p>
+        </odd>
+        <controlaccess>
+            <persname rules="aacr" source="naf">Beccaria, Giambatista, 1716-1781</persname>
+            <famname source="ingest">Du fay, Charles-Francois de Cisternay, -- 1698-1739.</famname>
+            <persname rules="aacr" source="naf">Mairan, Dortous de, 1678-1771</persname>
+            <persname rules="aacr" source="local">Musschenbroek, Petrus von, 1692-1761</persname>
+            <famname source="ingest">Nollet, -- abbé -- (Jean Antoine), -- 1700-1770.</famname>
+            <famname source="ingest">Réaumur, René-Antoine Ferchault de, -- 1683-1757.</famname>
+            <subject source="lcsh">Barometers.</subject>
+            <subject source="leah">Beyond Early America</subject>
+            <subject source="lcsh">Electricity -- Early works to 1850.</subject>
+            <subject source="lcsh">Scientific apparatus and instruments -- 18th century.</subject>
+            <subject source="lcsh">Scientists -- 18th century.</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

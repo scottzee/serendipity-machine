@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.336.27.M414-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.336.27.M414</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:08-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Materials on revenue from the distilling and retailing of liquors, 1794-1803</unittitle>
+            <unitid>Mss.336.27.M414</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid717" type="Box" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>0.25 Linear feet</extent>
+            </physdesc>
+            <unitdate normal="1794/1803" type="inclusive">1794-1803</unitdate>
+            <abstract id="ref1" label="Abstract">This collection contains applications to possess and operate stills and to retail spirits and liquors, receipts for distilled liquors, accounts of monies collected by Lawrence Erb and James Brice. Pennsylvania counties covered are Berks, Fayette, Franklin, Philadelphia, and York.</abstract>
+            <physdesc id="ref4" label="General Physical Description note">35 items.</physdesc>
+            <physloc id="ref6" label="Paging">LH-MV-E-7</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Brice, James </persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="local" role="Author (aut)">Erb, Lawrence</persname>
+            </origination>
+        </did>
+        <odd id="ref5">
+            <head>Early American History Note</head>
+            <p>This collection contains a number of tax lists for the collection of revenue on spirits. It begins in 1794, the year of the Whiskey Rebellion, and continues to 1803. The lists appear to be for sellers of “wine and foreign distilled spirits,” meaning that this was not the tax Whiskey rebels found odious. Although the documents are not uniform, most lists contain the distiller’s name, place of operation, and amount of tax paid.</p>
+        </odd>
+        <acqinfo id="ref3">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Received and accessioned, 1900. Provenance unknown.</p>
+        </acqinfo>
+        <controlaccess>
+            <corpname source="ingest">Pennsylvania.</corpname>
+            <geogname source="lcsh">Berks County (Pa.)</geogname>
+            <subject source="leah">Business and Skilled Trades</subject>
+            <genreform source="leah">Business Records and Accounts</genreform>
+            <subject source="leah">Early National Politics</subject>
+            <geogname source="lcsh">Fayette County (Pa.)</geogname>
+            <geogname source="lcsh">Franklin County (Pa.)</geogname>
+            <subject source="leah">Government Affairs</subject>
+            <subject source="lcsh">Liquor industry -- Pennsylvania.</subject>
+            <genreform source="leah">Official Government Documents and Records</genreform>
+            <geogname source="lcsh">Philadelphia County (Pa.)</geogname>
+            <subject source="lcsh">Tariff on liquors -- Pennsylvania.</subject>
+            <geogname source="lcsh">York County (Pa.)</geogname>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

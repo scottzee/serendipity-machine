@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.973.4.J35c-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.973.4.J35c</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:27-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Chronological series of facts relating to Louisiana; its limits and bounds, 1804</unittitle>
+            <unitid>Mss.973.4.J35c</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1115" type="Volume" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>1.0 Volume(s)</extent>
+                <extent>1 volume, 24 p. </extent>
+            </physdesc>
+            <unitdate normal="1804/1804">1804</unitdate>
+            <abstract id="ref1" label="Abstract">Two bound documents, "A chronological series of facts relative to Louisiana" and "An examination into the boundaries of Louisiana." Prepared by Jefferson for U.S. ministers at Paris and Madrid, as a means of determining the extent of the Louisiana Purchase. Jefferson sent these to the APS with a cover letter to Peter S. Du Ponceau, dated December 30, 1817; read in the Historical and Literary Committee, 1818. Printed in Thomas Jefferson, 
+                <title render="italic">Documents Relating to the Purchase and Exploration of Louisiana</title> (New York, 1904).</abstract>
+            <physdesc id="ref15" label="General Physical Description note">2 bound documents in 1 volume, 24 p.</physdesc>
+            <physloc id="ref18" label="Paging">LH-MV-E-13</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Jefferson, Thomas, 1743-1826</persname>
+            </origination>
+        </did>
+        <odd id="ref16">
+            <head>General note</head>
+            <p>Microfilm 199, 70 and 71.</p>
+        </odd>
+        <acqinfo id="ref14">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by Thomas Jefferson and accessioned, 1817 (1817 15420).</p>
+        </acqinfo>
+        <bioghist id="ref10">
+            <head>Biographical/Historical note</head>
+            <p>Thomas Jefferson was president of the United States, 1801-1809, and of the American Philosophical Society, 1797-1815.</p>
+        </bioghist>
+        <odd id="ref17">
+            <head>Early American History Note</head>
+            <p>This bound volume contains two discreet documents written by Thomas Jefferson (which have been subsequently printed in various sources). The first is a letter from Thomas Jefferson to Peter Du Ponceau dated Monticello, December 30, 1817. In it, Jefferson discusses his acquisition of Louisiana, his Indian vocabularies, and Meriwether Lewis’ contributions to it.</p>
+            <p>The second document is an essay on Louisiana, its boundaries, and its history. It opens with a chronology that begins in 1673, discusses its limits, and then provides a detailed account of the wars European nations fought over it.</p>
+        </odd>
+        <controlaccess>
+            <subject source="leah">Colony and State Specific History</subject>
+            <subject source="leah">Diplomatic History</subject>
+            <subject source="leah">Exploration.</subject>
+            <genreform source="leah">General Correspondence</genreform>
+            <subject source="leah">Language and Linguistics</subject>
+            <subject source="lcsh">Louisiana Purchase -- Discovery and exploration.</subject>
+            <genreform source="leah">Manuscript Essays</genreform>
+            <subject source="leah">Military History</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.972.7.L615-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.972.7.L615</num>
+                </titleproper>
+                <author>Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:26-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="item">
+        <did>
+            <unittitle>Libro de govierno en donde se sientan las cordilleras y edictos de los illustrissimos señores obispos el que se hiso siendo cura y vicario y interino de este veneficio de Tusta Don Dionicio Josse Canales; y Comenso el dia 17 de Julio, del año de 1793</unittitle>
+            <unitid>Mss.972.7.L615</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="spa"/>
+            </langmaterial>
+            <container id="cid146" type="Volume" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>1.0 Volume(s)</extent>
+                <extent>1 volume, ca. 250 p.</extent>
+            </physdesc>
+            <unitdate normal="1793/1818" type="inclusive">1793-1818</unitdate>
+            <langmaterial id="ref3" label="Language of Materials note">In Spanish.</langmaterial>
+            <abstract id="ref1" label="Abstract">The volume appears to be an administrative account relating to the tracts of land controlled by the church in various areas of Mexico, including Guatemala.</abstract>
+            <physdesc id="ref2" label="General Physical Description note">1 volume, 250 p.</physdesc>
+            <physloc id="ref6" label="Paging">LH-MV-E-13</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Anonymous</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref5">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Purchased from David Amram and accessioned, 01/--/1938 (1938 77911).</p>
+        </acqinfo>
+        <processinfo id="ref4">
+            <head>Processing Information note</head>
+            <p>Corrected title: Libro de govierno en donde se sientan las cordilleras y edictos de los illustrissimos señores obispos el que se hiso siendo cura y vicario interino de este veneficio de Tusta Don Dionicio Josse Canales; y Comenso el dia 17 de Julio, del año de 1793 [corr. from 1796].</p>
+        </processinfo>
+        <odd id="ref7">
+            <head>Early American History Note</head>
+            <p>This manuscript collection falls outside the geographic scope of the Early American guide (British North America and the United States before 1840). It may be of interest to scholars interested in global history, international relations, imperialism, or the U.S. in the world.</p>
+        </odd>
+        <controlaccess>
+            <persname rules="aacr" source="naf" role="Collector (col)">Amram, David</persname>
+            <persname rules="aacr" source="local">Canales, Dionicio Josse</persname>
+            <subject source="leah">Beyond Early America</subject>
+            <geogname source="lcsh">Guatemala -- Administrative and political divisions -- To 1821.</geogname>
+            <geogname source="lcsh">Mexico - Administrative and political divisions - To 1821</geogname>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

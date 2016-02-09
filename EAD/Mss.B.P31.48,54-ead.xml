@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.P31.48,54</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T19:52-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc audience="internal" level="collection">
+        <did>
+            <unittitle>Cornelia Wells Sellers correspondence and diaries, 1856-1909</unittitle>
+            <unitid>Mss.B.P31.48,54</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1498" type="Volume" label="Manuscripts">1-6</container>
+            <physdesc>
+                <extent>6.0 Volume(s)</extent>
+                <extent>6 volumes, 350 p.</extent>
+            </physdesc>
+            <unitdate normal="1856/1909" type="inclusive">1856-1909</unitdate>
+            <physdesc id="ref8" label="General Physical Description note">6 volumes, 350 p.</physdesc>
+            <abstract id="ref1" label="Abstract">This correspondence includes 51 letters from relatives and friends in Cincinnati addressed to Mrs. Sellers after her move to Philadelphia. There are also five volumes of her diary (1902-1904, 1906, 1909) which present a detailed account of the lifestyle of a suburban Philadelphia family of that period.</abstract>
+            <physloc id="ref10" label="Paging">LH-MV-E-5</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Sellers, Cornelia Wells,1831-1909.</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref7">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by Charles Coleman Sellers, 1945, 1967; accessioned, 1967 (1967 1981-1985ms). See in-house shelf list for additional accession information.</p>
+        </acqinfo>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>Cornelia Wells Sellers was the wife of Coleman Sellers.</p>
+        </bioghist>
+        <odd id="ref9">
+            <head>Administrative Note</head>
+            <p>This record is superseded by, and included in, B P31. It was marked “internal only” in Dec., 2010 and is being kept in the case that it is needed for future administrative needs.</p>
+        </odd>
+        <controlaccess>
+            <genreform source="lcsh">Diaries.</genreform>
+            <geogname source="lcsh">Philadelphia (Pa.) -- Social life and customs.</geogname>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

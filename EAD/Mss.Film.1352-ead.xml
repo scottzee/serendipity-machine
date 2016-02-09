@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Film.1352-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Film.1352</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T20:13-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Ambrose-Marie-Francois-Joseph Palisot de Beauvois manuscripts, [n.d.]</unittitle>
+            <unitid>Mss.Film.1352</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="fre"/>
+            </langmaterial>
+            <container id="cid1791" type="Reel" label="Microform">1</container>
+            <physdesc>
+                <extent>1.0 Microfilm reel(s)</extent>
+            </physdesc>
+            <unitdate>n.d.</unitdate>
+            <physdesc id="ref8" label="General Physical Description note">1 microfilm reel.</physdesc>
+            <abstract id="ref1" label="Abstract">Essays on topics in natural history and zoology, including advantages of studying natural history, with corrections by the author.</abstract>
+            <physloc id="ref10" label="Paging">LH-RR-Media Rm-6</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Palisot de Beauvois, Ambrose-Marie-François-Joseph, 1752-1820</persname>
+            </origination>
+        </did>
+        <relatedmaterial id="ref9">
+            <head>Related Archival Materials note</head>
+            <p>Ambrose-Marie-Francois-Joseph Palisot de Beauvois correspondence,1786-1808, to Antoine Laurent de Jussieu (Film 1350).</p>
+        </relatedmaterial>
+        <acqinfo id="ref7">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Purchased from the Bibliothèque Royale Albert I (2760 F.B.), Brussels, Belgium and accessioned, 1976 (1976 2mf).</p>
+        </acqinfo>
+        <bioghist id="ref5">
+            <head>Biographical/Historical note</head>
+            <p>Ambroise Marie Francois Joseph Palisot de Beauvois was a botanist and explorer.</p>
+        </bioghist>
+        <originalsloc id="ref3">
+            <head>Existence and Location of Originals note</head>
+            <p>Originals in Bibliothèque Royale Albert I, Brussels,</p>
+        </originalsloc>
+        <controlaccess>
+            <genreform source="lcsh">Essays.</genreform>
+            <subject source="lcsh">Natural history.</subject>
+            <subject source="lcsh">Zoology -- America.</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

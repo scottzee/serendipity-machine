@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.H.S.Film.24,25</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T20:17-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Royal Protomedicato files, [ca. 1744-1831]</unittitle>
+            <unitid>Mss.H.S.Film.24,25</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid13334003" type="Reel" label="Microform">1</container>
+            <physdesc>
+                <extent>1.0 Microfilm reel(s)</extent>
+            </physdesc>
+            <unitdate normal="1744/1831" type="inclusive">Circa 1744-1831</unitdate>
+            <abstract id="ref1" label="Abstract">These are files concerning the Protomedicato, which was the Board of the King's Physician, or medical court, that regulated the medical profession in the Spanish colonies. There are additional files on this topic from the Universidad Nacional Autónoma. Also included on the film are documents relating to the Hospital Real de Indios.</abstract>
+            <physdesc id="ref10" label="General Physical Description note">5 microfilm reels.</physdesc>
+            <physloc id="ref12" label="Paging">LH-RR-Media Rm-7</physloc>
+            <origination label="creator">
+                <persname source="ingest">Lanning, John Tate,1902-,comp.</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref9">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by John Tate and accessioned, 09/--/1967 (1967 1876-80mf).</p>
+        </acqinfo>
+        <odd id="ref5">
+            <head>General note</head>
+            <p>For a report on Lanning's project, see American Philosophical Society "Year Book" 1967:563-564.</p>
+        </odd>
+        <originalsloc id="ref3">
+            <head>Existence and Location of Originals note</head>
+            <p>Originals in Instituto Nacional de Antropología e Historia, Mexico City, Mexico;Universidad Nacional Autónoma, Mexico City, Mexico.</p>
+        </originalsloc>
+        <odd id="ref11">
+            <head>Early American History Note</head>
+            <p>This is a microfilm of an early American collection that may be of interest to researchers at the APS and may complement an original manuscript collection at the APS.</p>
+        </odd>
+        <controlaccess>
+            <corpname source="ingest">Hospital Real de Indios (Mexico City, Mexico)</corpname>
+            <corpname source="ingest">New Spain. -- Real Tribunal del Protomedicato.</corpname>
+            <subject source="lcsh">Indians of Mexico--Hospitals</subject>
+            <subject source="lcsh">Medical education -- Mexico.</subject>
+            <subject source="lcsh">Medicine -- Mexico.</subject>
+            <geogname source="lcsh">Mexico -- Hospitals.</geogname>
+            <genreform source="leah">Microfilm Collection</genreform>
+            <occupation source="lcsh">Physicians -- Mexico.</occupation>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

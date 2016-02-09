@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.Ow2g-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.Ow2g</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T19:49-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>[A calendar of the correspondence of Richard Owen, 1830-1890] / compiled by Jacob W. Gruber, 1981-1990</unittitle>
+            <unitid>Mss.B.Ow2g</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1162" type="Volume" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>1.0 Volume(s)</extent>
+                <extent>1 volume, 1286 p., photocopy.</extent>
+            </physdesc>
+            <unitdate normal="1830/1890" type="inclusive">1830-1890</unitdate>
+            <abstract id="ref18" label="Abstract">The volume consists of an alphabetical index to Owen correspondence and brief abstracts. Includes 1981 letter (3 p.) from Gruber to British Museum regarding Owen calendar, key to locations of Owen correspondence, and an introductory essay (29 p.) by Gruber.</abstract>
+            <physdesc id="ref19" label="General Physical Description note">1 volume, 1286 p., photocopy.</physdesc>
+            <physloc id="ref20" label="Paging">LH-MV-E-3</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Gruber, Jacob W.</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref16">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Gift of Jacob W. Gruber, 1981-1990; accessioned, 1993 (1993 211).</p>
+        </acqinfo>
+        <bioghist id="ref10">
+            <head>Biographical/Historical note</head>
+            <p>Comparative anatomist Richard Owen was Superintendent then Director of the Natural History Departments of British Museum; he was the first Hunterian Professor at Royal College of Surgeons (1836), and Fullerian Professor of Physiology and Comparative Anatomy at Royal Institution (1858-1862).</p>
+        </bioghist>
+        <odd id="ref21">
+            <head>Early American History Note</head>
+            <p>This manuscript collection falls outside the geographic scope of the Early American guide (British North America and the United States before 1840). It may be of interest to scholars interested in global history, international relations, imperialism, or the U.S. in the world.</p>
+        </odd>
+        <controlaccess>
+            <persname rules="aacr" source="naf">Owen, Richard, 1804-1892</persname>
+            <subject source="leah">Beyond Early America</subject>
+            <subject source="lcsh">Naturalists -- England -- Correspondence.</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.B1223d-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.B1223d</num>
+                </titleproper>
+                <author>Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:29-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Albert Dabadie Bache diaries, 1862, 1867-1869</unittitle>
+            <unitid>Mss.B.B1223d</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid13301004" type="Volume" label="Manuscripts">1-3</container>
+            <physdesc>
+                <extent>3.0 Volume(s)</extent>
+                <extent>3 volumes, 550 pages</extent>
+            </physdesc>
+            <unitdate normal="1862/1869" type="inclusive">1862-1869</unitdate>
+            <abstract id="ref1" label="Abstract">Bache, then a captain's clerk on the U.S.S. Hartford, maintained the first diary during the American Civil War; the second and third while A.D. Bache served as an assistant paymaster on the U.S.S. Iroquois, of the Asiatic Squadron.</abstract>
+            <physdesc id="ref3" label="General Physical Description note">3 volumes, ca. 550 p.</physdesc>
+            <physloc id="ref9" label="Paging">LH-MV-E-14</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="local" role="Author (aut)">Bache, Albert Dabadie, 1832-1895</persname>
+            </origination>
+        </did>
+        <bioghist id="ref2">
+            <head>Biographical/Historical note</head>
+            <p>Albert Dabadie Bache was a United States naval officer during and after the Civil War.</p>
+        </bioghist>
+        <odd id="ref5">
+            <head>Naval History Note</head>
+            <p>This collection provides insight in to American naval history during the 1860s.</p>
+        </odd>
+        <controlaccess>
+            <corpname rules="aacr" source="naf">Hartford (Ship).</corpname>
+            <corpname rules="aacr" source="naf">Iroquois (Ship).</corpname>
+            <corpname rules="aacr" source="naf">United States. Navy - Cruise, 1867-1870.</corpname>
+            <corpname rules="aacr" source="naf">United States. Navy - History - Civil War, 1861-1865..</corpname>
+            <genreform source="lcsh">Diaries.</genreform>
+            <geogname source="lcsh">Hong Kong (China) -- Description and travel.</geogname>
+            <geogname source="lcsh">India -- Description and travel.</geogname>
+            <geogname source="lcsh">Japan -- Description and travel.</geogname>
+            <geogname source="lcsh">Madagascar -- Description and travel.</geogname>
+            <geogname source="lcsh">Philippines -- Description and travel.</geogname>
+            <geogname source="lcsh">South Africa -- Description and travel.</geogname>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref6" level="item">
+                <did>
+                    <unittitle>Notebook. "Private" Captains Clark, U.S.S. Hartford, Flag ship</unittitle>
+                    <container id="cid12789002" type="Volume" label="Manuscripts">1</container>
+                    <physdesc>
+                        <extent>1.0 vol.</extent>
+                    </physdesc>
+                    <unitdate normal="1862/1862">1862</unitdate>
+                    <origination label="creator">
+                        <persname rules="aacr" source="local">Bache, Albert Dabadie, 1832-1895</persname>
+                    </origination>
+                </did>
+            </c01>
+            <c01 id="ref7" level="item">
+                <did>
+                    <unittitle>Journal of a cruize in the U.S.S. Iroquois...to join the Asiatic Squadron...during the years 1867-1870</unittitle>
+                    <container id="cid12789001" type="Volume" label="Manuscripts">2</container>
+                    <physdesc>
+                        <extent>1.0 vol.</extent>
+                    </physdesc>
+                    <unitdate normal="1867/1867">1867</unitdate>
+                    <origination label="creator">
+                        <persname rules="aacr" source="local">Bache, Albert Dabadie, 1832-1895</persname>
+                    </origination>
+                </did>
+            </c01>
+            <c01 id="ref8" level="item">
+                <did>
+                    <unittitle>Continuation of a journal of a cruize during the years 1867-1870 of the U.S.S. Iroquois</unittitle>
+                    <container id="cid12789003" type="Volume" label="Manuscripts">3</container>
+                    <physdesc>
+                        <extent>1.0 vol.</extent>
+                    </physdesc>
+                    <unitdate normal="1868/1869" type="inclusive">1868-1869</unitdate>
+                    <origination label="creator">
+                        <persname rules="aacr" source="local">Bache, Albert Dabadie, 1832-1895</persname>
+                    </origination>
+                </did>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.497.4.B412c-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.497.4.B412c</num>
+                </titleproper>
+                <author>Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:13-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="item">
+        <did>
+            <unittitle>Writings on Mexican languages, 1895-1902</unittitle>
+            <unitid>Mss.497.4.B412c</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="spa"/>
+            </langmaterial>
+            <container id="cid261" type="Volume" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>1.0 Volume(s)</extent>
+                <extent>1 volume, 230 p. </extent>
+            </physdesc>
+            <unitdate normal="1895/1902" type="inclusive">1895-1902</unitdate>
+            <physdesc id="ref4" label="General Physical Description note">1 volume, 230 p.</physdesc>
+            <abstract id="ref1" label="Abstract">This volume consists of several monographs: "Curso de lengua mixe," a short, elementary text for teaching Mixe to Spanish speakers complete with exercises, texts, lexical comments (38 pages). "Las lenguas habladas por los indigenos de la Republica Mexicana," a lengthy exposition (127 pages) on Mexican languages emphasizing the relationship of languages of Lower California to the Klamath; also Mixe, Zoque, Chontal, and Chocho, the last at length. Incomplete. [This was prepared for, but not delivered at, the International Congress of Americanists, 11th session, 1895.] And, an address in English on the Indian tribes of the state of Oaxaca and their languages (51 pages).</abstract>
+            <langmaterial id="ref6" label="Language of Materials note">Spanish, English, Mixe.</langmaterial>
+            <physloc id="ref7" label="Paging">LH-MV-E-15</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Belmar, Francisco, 1859-1926 </persname>
+            </origination>
+            <origination label="creator">
+                <corpname rules="aacr" source="naf" role="Organizer of meeting (orm)">International Congress of Americanists.</corpname>
+            </origination>
+        </did>
+        <acqinfo id="ref3">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Received in December, 1939; provenance unknown.</p>
+        </acqinfo>
+        <bioghist id="ref5">
+            <head>Biographical/Historical note</head>
+            <p>Francisco Belmar was a Mexican linguist.</p>
+        </bioghist>
+        <odd id="ref2">
+            <head>General note</head>
+            <p>The address in English was printed in part in the "Proceedings" of the International Congress of Americanists, 13th session, 1902, page 193.</p>
+        </odd>
+        <controlaccess>
+            <subject source="lcsh">Indians of Mexico--Languages</subject>
+            <subject source="lcsh">Indians of North America--California--Languages</subject>
+            <geogname source="lcsh">Mexico--Languages</geogname>
+            <subject source="lcsh">Mixe language</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

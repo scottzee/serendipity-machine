@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Film.496-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Film.496</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T20:15-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Charles Darwin papers, 1831-1882</unittitle>
+            <unitid>Mss.Film.496</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1858" type="Reel" label="Microform">1-8</container>
+            <physdesc>
+                <extent>8.0 Microfilm reel(s)</extent>
+            </physdesc>
+            <unitdate normal="1831/1882" type="inclusive">1831-1882</unitdate>
+            <abstract id="ref14" label="Abstract">Correspondence of Charles Darwin with his family, Sir William J. Hooker, Sir John W. Lubbock, William Ogle, Daniel Oliver, John Tyndall, and Sir William Ramsay, 1836-1882. (1 reel). Letters to J. Brodie-Innes, W. H. Bates, Lady Dorothy Nevill, and others (1846-1882); also letters to his wife and son and letters and papers about him (1 reel). Letters from Darwin to G. H. K. Thwaites, William B. Tegetmeier, Albany Hancock, Richard Owen, Bernhard Studer, Auguste H. Forel, J. Moulinie, A. Bohrn, Karl Christoph Vogt, François Joseph Pictet de la Rive, and others.</abstract>
+            <physdesc id="ref13" label="General Physical Description note">8 microfilm reels.</physdesc>
+            <physloc id="ref17" label="Paging">LH-RR-Media Rm-3</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Darwin, Charles, 1809-1882</persname>
+            </origination>
+        </did>
+        <originalsloc id="ref15">
+            <head>Existence and Location of Originals note</head>
+            <p>From Down House, Kent: Correspondence with his family, Sir William J. Hooker, Sir John W. Lubbock, William Ogle, Daniel Oliver, John Tyndall, and Sir William Ramsay, 1836-1882. (1 reel). From the collection of Dr. Robert M. Stecher, Cleveland, Ohio (1961): Letters to J. Brodie-Innes, W. H. Bates, Lady Dorothy Nevill, and others (1846-1882); also letters to his wife and son and letters and papers about him (1 reel). From New York Botanical Garden; from Burgerbibliothek, Berne; from Medizinhistorische Institut, Zurich; from University of Basel Library; from Bibliothèque Publique et Universitaire, Geneva; and other sources: Letters from Darwin to G. H. K. Thwaites, William B. Tegetmeier, Albany Hancock, Richard Owen, Bernhard Studer, Auguste H. Forel, J. Moulinie, A. Bohrn, Karl Christoph Vogt, François Joseph Pictet de la Rive, and others.</p>
+        </originalsloc>
+        <bioghist id="ref10">
+            <head>Biographical/Historical note</head>
+            <p>Charles Robert Darwin was a British naturalist and author of 
+                <emph render="italic">On the Origin of Species</emph> (1859).</p>
+        </bioghist>
+        <acqinfo id="ref6">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Received, 1962. See in-house shelf list for accession numbers and dates.</p>
+        </acqinfo>
+        <relatedmaterial id="ref16">
+            <head>Related Archival Materials note</head>
+            <p>The APS 
+                <extref ns2:href="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.D25-ead.xml">Charles Darwin Papers</extref> contain approximately 950 letters written by and to Darwin.</p>
+            <p>All of the letters written by Darwin have been or will be published in Burkhardt, Frederick, ed., 
+                <title render="italic">Correspondence of Charles Darwin</title>.</p>
+            <p>See also the website for the Darwin Papers project at Cambridge University (
+                <extref ns2:href="http://www.darwinproject.ac.uk">http://www.darwinproject.ac.uk</extref>), which includes a searchable online database (
+                <extref ns2:href="http://www.darwinproject.ac.uk/advanced-search">http://www.darwinproject.ac.uk/advanced-search</extref>).</p>
+        </relatedmaterial>
+        <odd id="ref18">
+            <head>Early American History Note</head>
+            <p>This microfilm collection may be of interest to early American scholars.</p>
+        </odd>
+        <controlaccess>
+            <persname rules="aacr" source="naf">Bates, William Horatio, 1860-1931</persname>
+            <corpname source="ingest">Beagle (Ship)</corpname>
+            <persname rules="aacr" source="local">Bohrn, A.</persname>
+            <persname rules="aacr" source="naf">Brodie-Innes, J.W.,  (John William), 1848-1923 </persname>
+            <persname rules="aacr" source="naf">Forel, Auguste, 1848-1931</persname>
+            <persname source="ingest">Hancock, Albany, 1806-1873</persname>
+            <persname source="naf">Hooker, William Jackson, Sir, 1785-1865</persname>
+            <persname rules="aacr" source="naf">Lubbock, J. W.,  (John William), 1803-1865</persname>
+            <persname rules="aacr" source="local">Moulinié, Jean Jacques, 1830-1872</persname>
+            <persname rules="aacr" source="naf">Nevill, Dorothy, Lady, 1826-1913</persname>
+            <persname source="ingest">Ogle, William, 1827-1912</persname>
+            <persname source="ingest">Oliver, Daniel, 1830-1916</persname>
+            <persname rules="aacr" source="naf">Owen, Richard, 1804-1892</persname>
+            <famname source="ingest">Pictet de la Rive, Francois Joseph,--1809-1872</famname>
+            <persname rules="aacr" source="naf">Ramsay, William, 1852-1916</persname>
+            <persname rules="aacr" source="naf">Studer, B.,  (Bernhard), 1794-1887</persname>
+            <persname rules="aacr" source="naf">Tegetmeier, W. B.,  (William Bernhard), 1816-1912</persname>
+            <persname source="ingest">Thwaites, George Henry Kendrick, 1811-1882</persname>
+            <persname rules="aacr" source="naf">Tyndall, John, 1820-1893</persname>
+            <persname rules="aacr" source="naf">Vogt, Karl Christoph, 1817-1895</persname>
+            <subject source="lcsh">Evolution.</subject>
+            <genreform source="leah">Microfilm Collection</genreform>
+            <subject source="lcsh">Natural history.</subject>
+            <subject source="lcsh">Natural selection.</subject>
+            <occupation source="lcsh">Naturalists -- England.</occupation>
+            <subject source="lcsh">Religion and science -- History -- 19th century.</subject>
+            <subject source="lcsh">Variation (Biology)</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

@@ -1,0 +1,801 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.326.F33-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.326.F33</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:08-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Sol Feinstone Slavery collection, 1773-1888</unittitle>
+            <unitid>Mss.326.F33</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid2061" type="Box" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>0.5 Linear feet</extent>
+                <extent>85 items</extent>
+            </physdesc>
+            <unitdate normal="1773/1888" type="inclusive">1773-1888</unitdate>
+            <abstract id="ref6" label="Abstract">This collection of documents includes letters, broadsides, bills of sale, deeds of purchase, and wills, relating to various slaves. There are also documents from notable Americans concerning the slave question, such as John Brown, Frederick Douglass, William Lloyd Garrison, and Andrew Jackson.</abstract>
+            <physdesc id="ref11" label="General Physical Description note">85 items.</physdesc>
+            <physloc id="ref15" label="Paging">LH-MV-B-4 (Series I). LH-B-30-7 (Series II)</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Feinstone, Sol,1888-1980,collector.</persname>
+            </origination>
+        </did>
+        <originalsloc id="ref8">
+            <head>Existence and Location of Originals note</head>
+            <p>Originals in David Library of the American Revolution, Washington Crossing, Pa.</p>
+        </originalsloc>
+        <acqinfo id="ref5">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Received from Sol Feinstone and accessioned, 07/01/1969 (1063ms).</p>
+        </acqinfo>
+        <odd id="ref13">
+            <head>African American History Note</head>
+            <p>A rich source of material for students of African American history.</p>
+        </odd>
+        <odd id="ref16">
+            <head>Early American History Note</head>
+            <p>The Feinstone Slavery Collection complements the much larger Sol Feinstone Collection of American Revolution. This smaller collection (one box) contains documents pertaining to slavery in the early republic. There are records of sale and emancipation along with some correspondence and other miscellaneous materials. Much of the material is from Virginia.</p>
+        </odd>
+        <controlaccess>
+            <persname source="ingest">Brown, John, 1800-1859</persname>
+            <persname rules="aacr" source="naf">Douglass, Frederick, 1818-1895 </persname>
+            <persname rules="aacr" source="naf">Garrison, William Lloyd, 1805-1879</persname>
+            <persname source="ingest">Jackson, Andrew, 1767-1845</persname>
+            <subject source="local">Abolition, emancipation, freedom</subject>
+            <subject source="leah">African American</subject>
+            <subject source="lcsh">African Americans--History--To 1863</subject>
+            <subject source="leah">Early National Politics</subject>
+            <genreform source="leah">Legal Records</genreform>
+            <genreform source="leah">Miscellaneous</genreform>
+            <genreform source="leah">Official Government Documents and Records</genreform>
+            <subject source="leah">Pennsylvania History</subject>
+            <subject source="local">Reconstruction</subject>
+            <subject source="lcsh">Slavery -- United States.</subject>
+            <subject source="local">Slaves, slavery, slave trade</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref17" level="series">
+                <did>
+                    <unittitle>Series I. Original documents</unittitle>
+                </did>
+                <scopecontent id="ref138">
+                    <head>Scope and Contents note</head>
+                    <p>This series consists of original documents relating to slavery, including correspondence, bills of sale, and emancipation papers.</p>
+                </scopecontent>
+                <c02 id="ref19" level="file">
+                    <did>
+                        <unittitle>Item 1</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref20" level="file">
+                    <did>
+                        <unittitle>Item 2</unittitle>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref23" level="file">
+                <did>
+                    <unittitle>Beale, John Bill of sale to Sam Henry</unittitle>
+                    <unitdate>1792 Sept 3</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref24" level="file">
+                <did>
+                    <unittitle>Booth, William Deed to Richard H. Lee</unittitle>
+                    <unitdate>1773 Dec 3</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref25" level="file">
+                <did>
+                    <unittitle>Bucklin, Joseph Grant of Freedom</unittitle>
+                    <unitdate>1782 Sept 21</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref26" level="file">
+                <did>
+                    <unittitle>Butler, Christopher Deed, bill of sale negro woman to William A Washington</unittitle>
+                    <unitdate>1792 Aug 30</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref27" level="file">
+                <did>
+                    <unittitle>Campbell, Archibald General Instructions for the Jamaica Rangers</unittitle>
+                    <unitdate>1782 Oct 1</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref28" level="file">
+                <did>
+                    <unittitle>Donaldson, Alexander and Robert Jeffries</unittitle>
+                    <unitdate>1752 Oct 7</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref29" level="file">
+                <did>
+                    <unittitle>Fonblanque, John Legal case and opinion</unittitle>
+                    <unitdate>1792 Jan 14</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref30" level="file">
+                <did>
+                    <unittitle>Hufty, Mary Bill of sale of negro to Adam Stricker</unittitle>
+                    <unitdate>1783 Feb 22</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref31" level="file">
+                <did>
+                    <unittitle>Irwin, Thomas to Samuel Massey</unittitle>
+                    <unitdate>1777 May</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref32" level="file">
+                <did>
+                    <unittitle>Moore, John Bill of sale of negro child to her mother</unittitle>
+                    <unitdate>1799 Nov 30</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref33" level="file">
+                <did>
+                    <unittitle>Philippe, Charles to Monsieur Dandas</unittitle>
+                    <unitdate>1799 June 10</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref34" level="file">
+                <did>
+                    <unittitle>Powell, Leven - Deed of Emancipation</unittitle>
+                    <unitdate>1790 Nov 20</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref35" level="file">
+                <did>
+                    <unittitle>Slave collar - tag only</unittitle>
+                    <unitdate>1790?</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref36" level="file">
+                <did>
+                    <unittitle>Smith, C to Evert Bancker</unittitle>
+                    <unitdate>1780 July 13</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref37" level="file">
+                <did>
+                    <unittitle>Tole, Richard - Statement that William is free</unittitle>
+                    <unitdate>1770 Jan 17</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref38" level="file">
+                <did>
+                    <unittitle>Troup, John to Evert Bancker</unittitle>
+                    <unitdate>1769 Sept 7</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref39" level="file">
+                <did>
+                    <unittitle>Troup, John to Evert Bancker</unittitle>
+                    <unitdate>1769 Oct 21</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref40" level="file">
+                <did>
+                    <unittitle>Walker, Baylor Certification of sale of negro woman to Henry Brown</unittitle>
+                    <unitdate>1764 Nov 23</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref41" level="file">
+                <did>
+                    <unittitle>Williamson, Adam Order to Baron</unittitle>
+                    <unitdate>1795 Jan 31</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref18" level="series">
+                <did>
+                    <unittitle>Series II. Photocopied documents</unittitle>
+                    <container id="cid13418001" type="Box" label="Manuscripts">2</container>
+                </did>
+                <scopecontent id="ref139">
+                    <head>Scope and Contents note</head>
+                    <p>This series consists of photocopied documents relating to slavery, including correspondence. Of particular note is correspondence from John Brown to his family.</p>
+                </scopecontent>
+                <c02 id="ref22" level="file">
+                    <did>
+                        <unittitle>Item 1</unittitle>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref42" level="file">
+                <did>
+                    <unittitle>Affidavit in re last will of Pienoel</unittitle>
+                    <unitdate>1838 August 7</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref43" level="file">
+                <did>
+                    <unittitle>African Squadron Unparallelled Success - Broadside</unittitle>
+                    <unitdate>1842?</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref44" level="file">
+                <did>
+                    <unittitle>Baldey, George to Commanding officer of troops detached to Brasher City</unittitle>
+                    <unitdate>1868 October 19</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref45" level="file">
+                <did>
+                    <unittitle>Baldey, George - Order to Capt William Sterling - telegraph notes</unittitle>
+                    <unitdate>1868 October 22</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref46" level="file">
+                <did>
+                    <unittitle>Baldey, George to Capt William Sterling</unittitle>
+                    <unitdate>1868 October 31</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref47" level="file">
+                <did>
+                    <unittitle>Banque des Citoyens de la Louisiane - appraisal of Lizardi Plantation</unittitle>
+                    <unitdate>1834 December </unitdate>
+                </did>
+            </c01>
+            <c01 id="ref48" level="file">
+                <did>
+                    <unittitle>Beale, John Bill of sale to Sam Henry - slaves</unittitle>
+                    <unitdate>1792 Sept 3</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref49" level="file">
+                <did>
+                    <unittitle>Booth, William Deed to Richard H Lee, slaves</unittitle>
+                    <unitdate>1773 Dec 3</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref50" level="file">
+                <did>
+                    <unittitle>Brown, John photograph</unittitle>
+                    <unitdate>1856</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref51" level="file">
+                <did>
+                    <unittitle>Brown, John to "Dear wife and children, everyone"</unittitle>
+                    <unitdate>1856 March 6</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref52" level="file">
+                <did>
+                    <unittitle>Brown, John? to "My dear wife and children" Frederick Douglas to 'My dear friends"</unittitle>
+                    <unitdate>1858 Jan 30</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref54" level="file">
+                <did>
+                    <unittitle>Brown, John to H N Rust</unittitle>
+                    <unitdate>1857 April 16</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref55" level="file">
+                <did>
+                    <unittitle>Brown, John, Jr to Francis Jackson Garrison</unittitle>
+                    <unitdate>1883 March 27</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref56" level="file">
+                <did>
+                    <unittitle>Brown, Owen to Grandaughter Ruth</unittitle>
+                    <unitdate>1851 Feb 16</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref95" level="file">
+                <did>
+                    <unittitle>Bucklin, Joseph Grant of freedom to Piony and Sylvia</unittitle>
+                    <unitdate>1782 Sept 21</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref57" level="file">
+                <did>
+                    <unittitle>Butler, Christopher Deed - bill of sale negro woman to William A Washington</unittitle>
+                    <unitdate>1792 August 30</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref58" level="file">
+                <did>
+                    <unittitle>Cameron, Charles to George Harrison</unittitle>
+                    <unitdate>1814 Oct 11</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref59" level="file">
+                <did>
+                    <unittitle>Campbell, A Affidafit of William Prant, negro</unittitle>
+                    <unitdate>1853 Jan 20</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref60" level="file">
+                <did>
+                    <unittitle>Campbell, Archibald General instructions for the Jamaica Rangers</unittitle>
+                    <unitdate>1782 Oct 1</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref61" level="file">
+                <did>
+                    <unittitle>Carson, Thomas Legal judgment, Daniel Johnston vs Wilson Carman and judjment on negro woman</unittitle>
+                    <unitdate>1811 April 17</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref62" level="file">
+                <did>
+                    <unittitle>Cornish, Henry Bill of sale to Jonathan Elmer</unittitle>
+                    <unitdate>1814 March 5</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref63" level="file">
+                <did>
+                    <unittitle>Craig, James to William Meredith</unittitle>
+                    <unitdate>1813 May 29</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref68" level="file">
+                <did>
+                    <unittitle>Craig, James to William Meredith</unittitle>
+                    <unitdate>1813 June 19</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref64" level="file">
+                <did>
+                    <unittitle>Crowson, Thomas Bill of sale for negro boy to John H Bryan</unittitle>
+                    <unitdate>1834 October 17</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref65" level="file">
+                <did>
+                    <unittitle>A Defence of the South by Rev Iveson Brookes</unittitle>
+                    <unitdate>1850</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref66" level="file">
+                <did>
+                    <unittitle>A Defence of Southern Slavery by a southern clergy</unittitle>
+                    <unitdate>1851</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref67" level="file">
+                <did>
+                    <unittitle>Donaldson, Alexander and Robert Jeffries disposition on condition of slave ship</unittitle>
+                    <unitdate>1752 October 7</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref69" level="file">
+                <did>
+                    <unittitle>Douglas, Frederick to Mrs Parker</unittitle>
+                    <unitdate>? April 5</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref70" level="file">
+                <did>
+                    <unittitle>Douglas, Frederick to Robert Adams</unittitle>
+                    <unitdate>1888 Dec 4</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref71" level="file">
+                <did>
+                    <unittitle>Eanes, Thomas and William Cain Bond to Henrietta R Robertson</unittitle>
+                    <unitdate>1840 Jan 1</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref72" level="file">
+                <did>
+                    <unittitle>Farmer Satirical poem, Philadelphia</unittitle>
+                    <unitdate>1807</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref73" level="file">
+                <did>
+                    <unittitle>Fonblanque, John Legal case and opinion bonds in will of W A Wright</unittitle>
+                    <unitdate>1792 Jan 14</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref74" level="file">
+                <did>
+                    <unittitle>Foster, John G to Admiral</unittitle>
+                    <unitdate>1864 Nov 24</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref75" level="file">
+                <did>
+                    <unittitle>Garrison, William Lloyd to L A Miller</unittitle>
+                    <unitdate>1832 August 18</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref76" level="file">
+                <did>
+                    <unittitle>Le Genealogiste Ameriquain</unittitle>
+                    <unitdate>1789?</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref77" level="file">
+                <did>
+                    <unittitle>Gurney, John and E G Ponder Receipt for purchase of negro to Joel may</unittitle>
+                    <unitdate>1846 Dec 1</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref78" level="file">
+                <did>
+                    <unittitle>Hamilton, A W, George Hamilton, James Hamilton Division of slaves</unittitle>
+                    <unitdate>1854 Sept 27</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref79" level="file">
+                <did>
+                    <unittitle>Hatch, J H to Major Ord</unittitle>
+                    <unitdate>1868 Oct 27</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref80" level="file">
+                <did>
+                    <unittitle>Hayne, Robert to Hon L D Miller</unittitle>
+                    <unitdate>1832 Dec 12</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref81" level="file">
+                <did>
+                    <unittitle>Hickman D H, Arch Young, John L Hickman, J H Hickman Receipt for sale of slaves to Thaddeus B Hickman</unittitle>
+                    <unitdate>1859 March 15</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref82" level="file">
+                <did>
+                    <unittitle>Hudson, J B to Editor, "Democrat and Freedom"</unittitle>
+                    <unitdate>1848 Jan 20</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref83" level="file">
+                <did>
+                    <unittitle>Hufty, Mary Bill of sale of negro to Adam Stricker</unittitle>
+                    <unitdate>1783 Feb 22</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref84" level="file">
+                <did>
+                    <unittitle>Hugo, Victor Letter on John Brown</unittitle>
+                    <unitdate>1860</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref85" level="file">
+                <did>
+                    <unittitle>Hunter, Robert M T to J N Tarnack, G B Cooke, and J Capson</unittitle>
+                    <unitdate>1844 Aug 14</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref86" level="file">
+                <did>
+                    <unittitle>Irwin, Thomas to Samuel Massey</unittitle>
+                    <unitdate>1777 May</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref87" level="file">
+                <did>
+                    <unittitle>Jackson, Andrew to Major Gardener</unittitle>
+                    <unitdate>1834 Nov 8</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref88" level="file">
+                <did>
+                    <unittitle>James, Spencer Bill of sale to William Bourn</unittitle>
+                    <unitdate>1843 march 20</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref89" level="file">
+                <did>
+                    <unittitle>Jervis, John Bounty claim for William Lewis, negro</unittitle>
+                    <unitdate>1865 Aug 14</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref90" level="file">
+                <did>
+                    <unittitle>Kirby, Fayette F. Bill of sale of three negro females to Benjamin N Watson</unittitle>
+                    <unitdate>1842 May 25</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref91" level="file">
+                <did>
+                    <unittitle>Lamme, Samuel Grant of freedom to negro woman, Sarah</unittitle>
+                    <unitdate>1815 June 12</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref92" level="file">
+                <did>
+                    <unittitle>Kirtly, Francis Bill of sale for six slaves to William Buford</unittitle>
+                    <unitdate>1814 March 21</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref93" level="file">
+                <did>
+                    <unittitle>Keen, Francis I, Bill of sale to Margaret G Flournay</unittitle>
+                    <unitdate>1840</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref94" level="file">
+                <did>
+                    <unittitle>Kay, John Bill of sale to Lucy Gatewood</unittitle>
+                    <unitdate>1802 Nov 30</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref96" level="file">
+                <did>
+                    <unittitle>Lincoln, Abraham to Gen Meiggs</unittitle>
+                    <unitdate>1862 Nov 7</unitdate>
+                </did>
+                <scopecontent id="ref97">
+                    <head>Scope and Contents note</head>
+                    <p>Forgery cf: Washington, Geo to Jacob? Tyler", (forgery by Joseph Cosey)</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref98" level="file">
+                <did>
+                    <unittitle>Lincoln, Abraham, to the Secretary of War Stanton</unittitle>
+                    <unitdate>1862 June 5, 1865 March 16</unitdate>
+                </did>
+                <scopecontent id="ref99">
+                    <head>Scope and Contents note</head>
+                    <p>Forgery cf: Washington, George to Jacob? Tyler. (Forgery by Joseph Cosey)</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref100" level="file">
+                <did>
+                    <unittitle>Lundy, Benjamin to Thomas Gregg and Genius of Universal Emancipation broadside</unittitle>
+                    <unitdate>1838 April 15</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref101" level="file">
+                <did>
+                    <unittitle>Macaulay, G. Receipt on account of expenses of catured negroes</unittitle>
+                    <unitdate>1813 January 26</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref102" level="file">
+                <did>
+                    <unittitle>Maryland concerning death of volunteer Alred B Hilton - broadside</unittitle>
+                    <unitdate>1864</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref103" level="file">
+                <did>
+                    <unittitle>McClees, James by Charles McClees - Receipt for one negro slave, Grace</unittitle>
+                    <unitdate>1858 Aug 21</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref104" level="file">
+                <did>
+                    <unittitle>McKim, J M to A Boyd. Also page from John Brown's book</unittitle>
+                    <unitdate>1866 July 30</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref105" level="file">
+                <did>
+                    <unittitle>Manifest of negroes on the brig Uncas - broadside</unittitle>
+                    <unitdate>1839 Nov 19</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref106" level="file">
+                <did>
+                    <unittitle>Minutes of proceedings of convention of delegates from abolition socieities</unittitle>
+                    <unitdate>1794 Jan 1</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref107" level="file">
+                <did>
+                    <unittitle>Moore, John - Bill of sale of negro child to her mother</unittitle>
+                    <unitdate>1799 Nov 30</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref110" level="file">
+                <did>
+                    <unittitle>Pennsylvania Society for Pormoting the Abolition of Slavery Constitution</unittitle>
+                    <unitdate>1787</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref111" level="file">
+                <did>
+                    <unittitle>Percy, Felix, N.P. Bill of sale of negro</unittitle>
+                    <unitdate>1847 Feb 27</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref109" level="file">
+                <did>
+                    <unittitle>Philippe, Charles to Monsieur Dundas</unittitle>
+                    <unitdate>1799 June 10</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref108" level="file">
+                <did>
+                    <unittitle>Phillippo, J. W. to "My Dear Sir". Also Interesting Case of a Slave Girl, 1829</unittitle>
+                    <unitdate>1857 Oct 5</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref112" level="file">
+                <did>
+                    <unittitle>Phillipo, James to John Williams</unittitle>
+                    <unitdate>1841 June 4</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref113" level="file">
+                <did>
+                    <unittitle>Phillips, Wendell - Quote from Lafayette</unittitle>
+                    <unitdate>1864 May</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref114" level="file">
+                <did>
+                    <unittitle>Powell, Leven - Deed of emancipation</unittitle>
+                    <unitdate>1790 Nov 20</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref115" level="file">
+                <did>
+                    <unittitle>Preston, William C. to "Dear Sir"</unittitle>
+                    <unitdate>1828 September</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref116" level="file">
+                <did>
+                    <unittitle>Public sale of negroes - broadside</unittitle>
+                    <unitdate>1833 March 5</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref117" level="file">
+                <did>
+                    <unittitle>Radical members of the South Carolina legislature - photograph</unittitle>
+                    <unitdate>1866?</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref118" level="file">
+                <did>
+                    <unittitle>Rules and regulations concerning commercial intercourse - printed</unittitle>
+                    <unitdate>1864 July 29</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref119" level="file">
+                <did>
+                    <unittitle>Rutan, Paul and John F Post - Bill of sale to Peter Jackson</unittitle>
+                    <unitdate>1815 April 22</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref120" level="file">
+                <did>
+                    <unittitle>Sacket, Augustus to Evert Bancker</unittitle>
+                    <unitdate>1810 March 26</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref121" level="file">
+                <did>
+                    <unittitle>Scott, Winfield to Col W J Worth</unittitle>
+                    <unitdate>1831 September 19</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref122" level="file">
+                <did>
+                    <unittitle>Sewell, L. to Gen Robert C Buchannan</unittitle>
+                    <unitdate>1868 October 29</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref123" level="file">
+                <did>
+                    <unittitle>Sewell, L. to Capt William Sterling</unittitle>
+                    <unitdate>1868 October 30</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref124" level="file">
+                <did>
+                    <unittitle>Sewell, L to Capt William Sterling</unittitle>
+                    <unitdate>1868 October 31</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref125" level="file">
+                <did>
+                    <unittitle>A Short Catechism on Negro Equality - broadside</unittitle>
+                    <unitdate>1836?</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref126" level="file">
+                <did>
+                    <unittitle>Slave collar tag describing collar</unittitle>
+                    <unitdate>1790?</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref127" level="file">
+                <did>
+                    <unittitle>Smith, C to Evert Bancker</unittitle>
+                    <unitdate>1780 July 13</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref128" level="file">
+                <did>
+                    <unittitle>Smith, F O - Bill of sale to William Stone</unittitle>
+                    <unitdate>1844 Jan 2</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref129" level="file">
+                <did>
+                    <unittitle>South Carolina - Settlement of William Harth Estate</unittitle>
+                    <unitdate>1847 January 15</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref130" level="file">
+                <did>
+                    <unittitle>Stone, J M to Gov George R Gilmer of Georjia</unittitle>
+                    <unitdate>1830 January 8</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref131" level="file">
+                <did>
+                    <unittitle>Thurston, David to Rev William Jenks</unittitle>
+                    <unitdate>1812 April 15</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref132" level="file">
+                <did>
+                    <unittitle>Tole, Richard - Statement that William is free</unittitle>
+                    <unitdate>1770 January 17</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref133" level="file">
+                <did>
+                    <unittitle>Troup, John to Evert Bancker</unittitle>
+                    <unitdate>1769 October 21</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref134" level="file">
+                <did>
+                    <unittitle>Troup, John to Evert Bancker</unittitle>
+                    <unitdate>1769 September 7</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref135" level="file">
+                <did>
+                    <unittitle>Walker, Baylor - Certification of sale of negro woman to Henry Brown</unittitle>
+                    <unitdate>1764 Nov 23</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref136" level="file">
+                <did>
+                    <unittitle>Williamson, Adam - Order to Baron de la Valtiere and receipt</unittitle>
+                    <unitdate>1795 January 31</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref137" level="file">
+                <did>
+                    <unittitle>Yates, William - Bill of sale for negro man to Peter T Heckin</unittitle>
+                    <unitdate>1838 October 12</unitdate>
+                </did>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

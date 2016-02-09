@@ -1,0 +1,569 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Rec.101-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Rec.101</num>
+                    <num>Mss.Rec.101</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Brian Carpenter</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+                <date>Janurary 2011</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T21:09-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Okanagan Salish Stories and Songs</unittitle>
+            <unitid>Mss.Rec.101</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="sal"/>
+            </langmaterial>
+            <physdesc>
+                <extent>2.0 Reel(s)</extent>
+            </physdesc>
+            <unitdate>1961, 1966, 1971</unitdate>
+            <abstract id="ref2" label="Abstract">Okanagan Salish stories with English translations; free conversation on dialectical variations in Okanagan and borrowing from French and English; elicitation sessions covering animal names, fish names, body parts, and words containing fricatives; Catholic hymns in Okanagan and Chinook. Recorded in Penticton, Spectacle Lake, and head of Okanagan Lake, British Columbia, in 1961, 1966, and 1971.</abstract>
+            <physdesc id="ref3" label="General Physical Description note">2 sound tape reels (2 hr., 4 min.) : analog, 3 3/4 ips, 2 track, mono ; 5 in.</physdesc>
+            <physloc id="ref66" label="Paging">LH-B-32-3</physloc>
+            <origination label="creator">
+                <persname rules="dacs" source="local">Abel, Mary</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="dacs" source="local">Armstrong, Willie</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="dacs" source="local">Gabriel, Louise</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="dacs" source="local">Gregoire, Tommy</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="dacs" source="local">Holding, Margaret</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="dacs" source="local">Lezard, George</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="dacs" source="local">Pierre, Larry</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="dacs" source="local">Pierre, Selina</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Watkins, Donald</persname>
+            </origination>
+        </did>
+        <relatedmaterial id="ref4">
+            <head>Related Archival Materials</head>
+            <p>Project report, letter to APS Librarian, and detailed tape contents available in 
+                <extref ns2:actuate="onLoad" ns2:show="new" ns2:href="http://www.amphilsoc.org/mole/view?docId=ead/Mss.497.3.Am4-ead.xml">Phillips Fund Collection</extref> (Mss.497.3.Am4).</p>
+        </relatedmaterial>
+        <acqinfo id="ref5">
+            <head>Immediate Source of Acquisition</head>
+            <p>Presented by Donald Watkins in 1975 (Acc. 1975 50.b rec). This material was recorded with the assistance of a Phillips Fund grant.</p>
+        </acqinfo>
+        <controlaccess>
+            <subject source="lcsh">Catholic Church--Prayers and devotions</subject>
+            <subject source="lcsh">Chinook jargon</subject>
+            <subject source="lcsh">Okanagan Indians--Folklore</subject>
+            <subject source="lcsh">Okanagan Indians--Music</subject>
+            <subject source="lcsh">Okanagan language</subject>
+            <genreform source="ingest">Sound recordings</genreform>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref6" level="series">
+                <did>
+                    <unittitle>Audio recordings</unittitle>
+                </did>
+                <c02 id="ref7" level="file">
+                    <did>
+                        <unittitle>Prayers and Conversation with Louise</unittitle>
+                        <unitid>01-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1971</unitdate>
+                        <physdesc id="ref8" label="General Physical Description note">
+                            <extent>00:06:22</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Gabriel, Louise</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Watkins, Donald</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref9">
+                        <head>Scope and Contents note</head>
+                        <p>Includes prayers: Our Father, Hail Mary, Glory Be, Apostles' Creed. Followed by conversation with selected vocabulary items.</p>
+                    </scopecontent>
+                    <originalsloc id="ref11">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1285" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5247">
+                        <daodesc>
+                            <p>APSdigrec_1285</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Anthropological linguistics</subject>
+                        <subject source="ingest">Catholic Church--Prayers and devotions</subject>
+                        <subject source="lcsh">Okanagan Indians--Music</subject>
+                        <subject source="ingest">Okanagan Indians--Religion</subject>
+                        <subject source="lcsh">Okanagan language</subject>
+                        <geogname source="ingest">Penticton (B.C.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref12" level="file">
+                    <did>
+                        <unittitle>Conversation with Larry Pierre with some vocabulary items</unittitle>
+                        <unitid>01-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1971</unitdate>
+                        <physdesc id="ref13" label="General Physical Description note">
+                            <extent>00:08:14</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Pierre, Larry</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Watkins, Donald</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref14">
+                        <head>Scope and Contents note</head>
+                        <p>A conversation used to establish words containing voiced velar fricatives and pharyngeal fricatives.</p>
+                    </scopecontent>
+                    <originalsloc id="ref16">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1286" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5245">
+                        <daodesc>
+                            <p>APSdigrec_1286</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Anthropological linguistics</subject>
+                        <subject source="lcsh">Okanagan language</subject>
+                        <geogname source="ingest">Penticton (B.C.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref17" level="file">
+                    <did>
+                        <unittitle>Conversation with Larry Pierre and Willie Armstrong</unittitle>
+                        <unitid>01-03</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1969</unitdate>
+                        <physdesc id="ref18" label="General Physical Description note">
+                            <extent>00:17:40</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Armstrong, Willie</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Pierre, Larry</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Watkins, Donald</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref19">
+                        <head>Scope and Contents note</head>
+                        <p>Conversation on dialectical variations in Okanagan, borrowings from English and French, and animal and fish names.</p>
+                    </scopecontent>
+                    <originalsloc id="ref21">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1287" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5240">
+                        <daodesc>
+                            <p>APSdigrec_1287</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">English language--Influence on Okanagan</subject>
+                        <subject source="ingest">French language--Influence on Okanagan</subject>
+                        <subject source="ingest">Okanagan Indians--Ethnozoology</subject>
+                        <subject source="lcsh">Okanagan language</subject>
+                        <subject source="ingest">Okanagan language--Dialects</subject>
+                        <geogname source="ingest">Penticton (B.C.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref22" level="file">
+                    <did>
+                        <unittitle>Okanagan word list: Common body parts</unittitle>
+                        <unitid>01-04</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1966</unitdate>
+                        <physdesc id="ref23" label="General Physical Description note">
+                            <extent>00:27:41</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Pierre, Larry</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Watkins, Donald</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref25">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1288" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5244">
+                        <daodesc>
+                            <p>APSdigrec_1288</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Anthropological linguistics</subject>
+                        <subject source="ingest">Human body--Terminology</subject>
+                        <subject source="lcsh">Okanagan language</subject>
+                        <geogname source="ingest">Penticton (B.C.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref26" level="file">
+                    <did>
+                        <unittitle>Okanagan story</unittitle>
+                        <unitid>01-05</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1966</unitdate>
+                        <physdesc id="ref27" label="General Physical Description note">
+                            <extent>00:02:51</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Lezard, George</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Watkins, Donald</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref28">
+                        <head>Scope and Contents note</head>
+                        <p>Story told by George Lezard, an Okanagan monoglot.</p>
+                    </scopecontent>
+                    <originalsloc id="ref30">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1289" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5249">
+                        <daodesc>
+                            <p>APSdigrec_1289</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Anthropological linguistics</subject>
+                        <subject source="lcsh">Okanagan Indians--Folklore</subject>
+                        <subject source="lcsh">Okanagan language</subject>
+                        <geogname source="ingest">Penticton (B.C.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref31" level="file">
+                    <did>
+                        <unittitle>Esnéna ecáwc ("The Owl's Affair")</unittitle>
+                        <unitid>02-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1971-08</unitdate>
+                        <physdesc id="ref32" label="General Physical Description note">
+                            <extent>00:07:02</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Gregoire, Tommy</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Watkins, Donald</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref33">
+                        <head>Scope and Contents note</head>
+                        <p>"The tale of Owl, who kidnapped a boy. Accounts for the origin of the loon and its ghostly call."</p>
+                    </scopecontent>
+                    <originalsloc id="ref35">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1290" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5238">
+                        <daodesc>
+                            <p>APSdigrec_1290</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Anthropological linguistics</subject>
+                        <subject source="ingest">Loons--Folklore</subject>
+                        <geogname source="ingest">Okanagan Indian Reserve (B.C.)</geogname>
+                        <subject source="lcsh">Okanagan Indians--Folklore</subject>
+                        <subject source="lcsh">Okanagan language</subject>
+                        <subject source="ingest">Owls--Folklore</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref36" level="file">
+                    <did>
+                        <unittitle>Reaction discussion to Tommy Gregoire's story</unittitle>
+                        <unitid>02-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1971-08</unitdate>
+                        <physdesc id="ref37" label="General Physical Description note">
+                            <extent>00:04:59</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Abel, Joe</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Abel, Mary</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Watkins, Donald</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref38">
+                        <head>Scope and Contents note</head>
+                        <p>Okanagan speech by George Lezard, with inter-sentence translation by Larry Pierre. Topic concerns sources of food and the problem of conflicting cultlures.</p>
+                    </scopecontent>
+                    <originalsloc id="ref40">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1291" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5243">
+                        <daodesc>
+                            <p>APSdigrec_1291</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Anthropological linguistics</subject>
+                        <subject source="ingest">Loons--Folklore</subject>
+                        <geogname source="ingest">Okanagan Indian Reserve (B.C.)</geogname>
+                        <subject source="lcsh">Okanagan Indians--Folklore</subject>
+                        <subject source="lcsh">Okanagan language</subject>
+                        <subject source="ingest">Owls--Folklore</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref41" level="file">
+                    <did>
+                        <unittitle>Story of the old days</unittitle>
+                        <unitid>02-03</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1966</unitdate>
+                        <physdesc id="ref42" label="General Physical Description note">
+                            <extent>00:17:51</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Lezard, George</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Pierre, Larry</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Watkins, Donald</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref43">
+                        <head>Scope and Contents note</head>
+                        <p>Concerns "sources of food and the problem of conflicting cultures" drawn from the speaker's recollections of a conversation with a Catholic priest.</p>
+                    </scopecontent>
+                    <originalsloc id="ref45">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1292" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5248">
+                        <daodesc>
+                            <p>APSdigrec_1292</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Anthropological linguistics</subject>
+                        <subject source="ingest">Autobiography</subject>
+                        <subject source="ingest">Okanagan Indians--Food</subject>
+                        <subject source="ingest">Okanagan Indians--Social life and customs</subject>
+                        <subject source="lcsh">Okanagan language</subject>
+                        <geogname source="ingest">Penticton (B.C.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref46" level="file">
+                    <did>
+                        <unittitle>Song: "Communion Hymn"</unittitle>
+                        <unitid>02-04</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1961-08-17</unitdate>
+                        <physdesc id="ref47" label="General Physical Description note">
+                            <extent>00:01:53</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Holding, Margaret</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Watkins, Donald</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref48">
+                        <head>Scope and Contents note</head>
+                        <p>Recorded at Spectacle Lake in Washington state. Misidentified by collector as being located in British Columbia.</p>
+                    </scopecontent>
+                    <originalsloc id="ref50">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1293" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5241">
+                        <daodesc>
+                            <p>APSdigrec_1293</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Anthropological linguistics</subject>
+                        <subject source="ingest">Catholic Church--Prayers and devotions</subject>
+                        <subject source="lcsh">Okanagan Indians--Music</subject>
+                        <subject source="ingest">Okanagan Indians--Religion</subject>
+                        <subject source="lcsh">Okanagan language</subject>
+                        <geogname source="ingest">Okanogan County (Wash.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref51" level="file">
+                    <did>
+                        <unittitle>Some further examples of Christian hymns sung in Okanagan</unittitle>
+                        <unitid>02-05</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1961</unitdate>
+                        <physdesc id="ref52" label="General Physical Description note">
+                            <extent>00:05:21</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Holding, Margaret</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Watkins, Donald</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref53">
+                        <head>Scope and Contents note</head>
+                        <p>Recorded at Spectacle Lake in Washington state. Misidentified by collector as being located in British Columbia.</p>
+                    </scopecontent>
+                    <originalsloc id="ref55">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1294" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5246">
+                        <daodesc>
+                            <p>APSdigrec_1294</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Anthropological linguistics</subject>
+                        <subject source="ingest">Catholic Church--Prayers and devotions</subject>
+                        <subject source="lcsh">Okanagan Indians--Music</subject>
+                        <subject source="ingest">Okanagan Indians--Religion</subject>
+                        <subject source="lcsh">Okanagan language</subject>
+                        <geogname source="ingest">Okanogan County (Wash.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref56" level="file">
+                    <did>
+                        <unittitle>Eagle and Fox</unittitle>
+                        <unitid>02-06</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1966</unitdate>
+                        <physdesc id="ref57" label="General Physical Description note">
+                            <extent>00:08:53</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Pierre, Larry</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Watkins, Donald</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref58">
+                        <head>Scope and Contents note</head>
+                        <p>Whole story given first in Okanagan, then in English.</p>
+                    </scopecontent>
+                    <originalsloc id="ref60">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1295" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5242">
+                        <daodesc>
+                            <p>APSdigrec_1295</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Anthropological linguistics</subject>
+                        <subject source="ingest">Coyote--Folklore</subject>
+                        <subject source="ingest">Eagles--Folklore</subject>
+                        <subject source="lcsh">Okanagan Indians--Folklore</subject>
+                        <subject source="lcsh">Okanagan language</subject>
+                        <geogname source="ingest">Penticton (B.C.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref61" level="file">
+                    <did>
+                        <unittitle>Owl, Rabbit, and Chipmunk</unittitle>
+                        <unitid>02-07</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1966</unitdate>
+                        <physdesc id="ref62" label="General Physical Description note">
+                            <extent>00:15:13</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Pierre, Larry</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Pierre, Selina</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Watkins, Donald</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref63">
+                        <head>Scope and Contents note</head>
+                        <p>Whole story given first in Okanagan, then in English.</p>
+                    </scopecontent>
+                    <originalsloc id="ref65">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1296" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5239">
+                        <daodesc>
+                            <p>APSdigrec_1296</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Chipmunks--Folklore</subject>
+                        <subject source="lcsh">Okanagan Indians--Folklore</subject>
+                        <subject source="lcsh">Okanagan language</subject>
+                        <subject source="ingest">Owls--Folklore</subject>
+                        <geogname source="ingest">Penticton (B.C.)</geogname>
+                        <subject source="ingest">Rabbits--Folklore</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

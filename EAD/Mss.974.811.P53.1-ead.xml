@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.974.811.P53.1-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.974.811.P53.1</num>
+                </titleproper>
+                <author>Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:27-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="item">
+        <did>
+            <unittitle>Plan of Independence Hall (Philadelphia, Pa.)</unittitle>
+            <unitid>Mss.974.811.P53.1</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid119811" type="Box-folder" label="Graphic materials">1</container>
+            <physdesc>
+                <extent>1.0 Drawing</extent>
+            </physdesc>
+            <unitdate normal="1736/1738" type="inclusive">Circa 1736</unitdate>
+            <abstract id="ref1" label="Abstract">Plan of the ground and lots belonging to the State House. Docketing by Benjamin Franklin. Housed in its own red case (17x19.5").</abstract>
+            <physdesc id="ref2" label="General Physical Description note">1 drawing (17x19.5").</physdesc>
+            <physloc id="ref7" label="Paging">LH-MV-C-8</physloc>
+            <origination label="creator">
+                <corpname rules="aacr" source="naf" role="Author (aut)">United States. Work Projects Administration.</corpname>
+            </origination>
+        </did>
+        <scopecontent id="ref3">
+            <head>Scope and Contents note</head>
+            <p>The plan shows the ground 396 feet along Chestnut Street, 337 feet along Fifth and Sixth Streets, and backing on a line marked, Bounded on this Side By Severa1 Lotts of Ground. Two separate lots at the corner of Sixth and Chestnut and Seventh and Chestnut are marked out, and in the center of the back line is a Lott supposed Vacant. In the middle of the plan is a note: See the Act for Vesting the Statehouse and other Publick Buildings with the Lotts of Land whereon the same are Erected in Trustees for the Use of this Province. Passed Nono Geo: 2di Vol 2d page 167. On the back Franklin has written: "61. A Plan of the Ground and Lots belonging to the State House."</p>
+            <p>On January 19, 1735-6 John Kinsey first read to the Assembly of Pennsylvania a bill for vesting the Province-hall, etc. On February 20, 1735-6 a fuller discussion was held on the ground formerly bought by Andrew Hamilton for the State-house, and the two parcels of ground which were to be given to the City of Philadelphia for two public buildings. On October 15, 1736 Benjamin Franklin was appointed Clerk to the House of Representatives and John Kinsey on October 20, 1738 again reported for the Committee on he State-house Account, which included the amounts spent by Andrew Hamilton for the purchase of the ground, building materials, labor, etc. We believe that the present plan was part of the record submitted by Hamilton, and then numbered and docketed by Franklin in his capacity of Clerk.</p>
+        </scopecontent>
+        <acqinfo id="ref4">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Purchased in 1953.</p>
+        </acqinfo>
+        <otherfindaid id="ref6">
+            <head>Other Finding Aids note</head>
+            <p>Realms of Gold, 15 (1).</p>
+        </otherfindaid>
+        <odd id="ref8">
+            <head>Early American History Note</head>
+            <p>This single document contains an early survey of the ground that Independence Hall now occupies. It came from the papers of Benjamin Franklin.</p>
+        </odd>
+        <controlaccess>
+            <persname rules="aacr" source="naf">Franklin, Benjamin, 1706-1790</persname>
+            <corpname source="ingest">Independence Hall (Philadelphia, Pa.)</corpname>
+            <genreform source="lcsh">Architectural drawings.</genreform>
+            <genreform source="leah">Maps and Surveys</genreform>
+            <subject source="leah">Philadelphia History</subject>
+            <subject source="leah">Surveying and Maps</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.509.H62ms-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.509.H62ms</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:15-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>History of Science Society archives, 1935-1986.</unittitle>
+            <unitid>Mss.509.H62ms</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>57.0 Linear feet</extent>
+                <extent>57 linear feet transferred to Smithsonian Institution Archives, 5/1995.
+</extent>
+            </physdesc>
+            <unitdate normal="1935/1986" type="inclusive">1935-1986</unitdate>
+            <abstract id="ref1" label="Abstract">This collection contains both the official records of the Society (16 linear ft.) and the records of "Isis" (41 linear ft.), which is the journal of the Society.</abstract>
+            <physloc id="ref11" label="Paging">Smithsonian</physloc>
+            <origination label="creator">
+                <corpname source="ingest" role="Author (aut)">History of Science Society.</corpname>
+            </origination>
+        </did>
+        <acqinfo id="ref9">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Received from History of Science Society. See in-house shelf list for additional accession numbers and dates.</p>
+        </acqinfo>
+        <custodhist id="ref7">
+            <head>Custodial History note</head>
+            <p>Presented by the History of Science Society, 1965-1986.</p>
+        </custodhist>
+        <originalsloc id="ref3">
+            <head>Existence and Location of Originals note</head>
+            <p>Collection transferred to Smithsonian Institution Archives, 5/1995.</p>
+        </originalsloc>
+        <controlaccess>
+            <corpname source="ingest">History of Science Society -- Publishing.</corpname>
+            <subject source="lcsh">History publishing.</subject>
+            <subject source="lcsh">Isis (Egyptian deity)</subject>
+            <subject source="lcsh">Science -- History -- Societies, etc.</subject>
+            <subject source="lcsh">Women in science.</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.St31-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.St31</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T20:02-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Arthur Gerald Steinberg papers, 1945-1965</unittitle>
+            <unitid>Mss.B.St31</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1620" type="Box" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>0.25 Linear feet</extent>
+                <extent>Ca. 35 items</extent>
+            </physdesc>
+            <unitdate normal="1945/1965" type="inclusive">1945-1965</unitdate>
+            <physdesc id="ref15" label="General Physical Description note">Ca. 35 items.</physdesc>
+            <abstract id="ref8" label="Abstract">These papers include correspondence concerning Steinberg's security clearance with the United States government and questions about his loyalty, a bibliography (16 p.), and a curriculum vitae (3 p.).</abstract>
+            <physloc id="ref18" label="Paging">LH-MV-E-6</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Steinberg, Arthur Gerald,1912-</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref7">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Received from Arthur G. Steinberg and accessioned, 1984 (1984 595ms).</p>
+            <p></p>
+        </acqinfo>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>Arthur Gerald Steinberg was a geneticist.</p>
+        </bioghist>
+        <odd id="ref16">
+            <head>Genetics Note</head>
+            <p>This collection contains materials which relate to the history of genetics.</p>
+        </odd>
+        <scopecontent id="ref17">
+            <head>Scope and Contents note</head>
+            <p>Papers relating to Steinberg's difficulties in government clearance during the late 1940s and the 1950s, owing to his association in research while at McGill University with a chemist who later proved to be a spy for the USSR. A horrendous example of "guilt by association," which neither his excellent record of wartime research with OSRD, nor his scientific reputation, nor his friends' and colleagues' testimonials could quickly overcome. Also includes an autobiographical sketch.</p>
+        </scopecontent>
+        <controlaccess>
+            <subject source="lcsh">Academic freedom</subject>
+            <subject source="local">Bibliographical matters</subject>
+            <genreform source="lcsh">Bibliographies.</genreform>
+            <subject source="local">Biographical and personal data</subject>
+            <genreform source="lcsh">Curricula vitae.</genreform>
+            <subject source="local">Fellowships, assistantships</subject>
+            <subject source="lcsh">Geneticists -- United States.</subject>
+            <subject source="local">Human genetics</subject>
+            <subject source="local">International Congress of Human Genetics -- Second Congress</subject>
+            <subject source="local">National Institutes of Health</subject>
+            <subject source="local">Political issues -- Loyalty oaths</subject>
+            <subject source="local">Population genetics</subject>
+            <subject source="local">Publication</subject>
+            <subject source="lcsh">Security classification (Government documents) -- United States.</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

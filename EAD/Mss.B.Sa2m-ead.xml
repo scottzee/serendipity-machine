@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.Sa2m-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.Sa2m</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T19:59-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Papers, [ca. 1900-1925], pertaining to engravings by Saint-Mémin</unittitle>
+            <unitid>Mss.B.Sa2m</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1575" type="Box" label="Manuscripts">1-10</container>
+            <physdesc>
+                <extent>5.0 Linear feet</extent>
+                <extent>1,500 engravings; 4,000 letters</extent>
+            </physdesc>
+            <unitdate normal="1900/1900">Circa 1900</unitdate>
+            <physdesc id="ref7" label="General Physical Description note">1,500 engravings; 4,000 letters.</physdesc>
+            <abstract id="ref1" label="Abstract">This collection was assembled by William J. Campbell for an anticipated edition of the works of Charles Balthazar Julien Fevret de Saint-Mémin, an artist and engraver, which was never completed. There are about 1,500 engravings, as well as ca. 4,000 pieces of correspondence between Campbell and descendants and owners of Saint-Mémin's portraits throughout the United States.</abstract>
+            <physdesc id="ref6" label="General Physical Description note">1,500 engravings; 4,000 letters.</physdesc>
+            <physloc id="ref9" label="Paging">LH-B-23-7</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Campbell, William James, 1850-1931</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref5">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by William M. Campbell, 1971; accessioned, 1972 (1972 131ms).</p>
+            <p></p>
+        </acqinfo>
+        <relatedmaterial id="ref8">
+            <head>Related Archival Materials note</head>
+            <p>For correspondence and illustrations concerning Campbell's researches into the various portraits and likenesses of Thomas Jefferson, and the drawings of Saint-Memin, see also the 
+                <extref ns2:actuate="onLoad" ns2:show="new" ns2:href="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.C155-ead.xml">William James Campbell Papers (Mss.B.C155)</extref>.</p>
+        </relatedmaterial>
+        <controlaccess>
+            <persname rules="aacr" source="naf">Saint-Mémin, Charles Balthazar Julien, 1770-1852</persname>
+            <subject source="ingest">Artists</subject>
+            <subject source="lcsh">Engravers.</subject>
+            <genreform source="lcsh">Engravings.</genreform>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

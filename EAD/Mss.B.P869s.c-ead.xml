@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.P869s.c-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.P869s.c</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T19:53-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="item">
+        <did>
+            <unittitle>Papers, 1868-1879, relating to John Wesley Powell and the Colorado River</unittitle>
+            <unitid>Mss.B.P869s.c</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1529" type="Volume" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>1.0 Volume(s)</extent>
+                <extent>Ca. 175 p., typescripts and photostats.</extent>
+            </physdesc>
+            <unitdate normal="1868/1879" type="inclusive">1868-1879</unitdate>
+            <abstract id="ref1" label="Abstract">These papers were collected by Wallace Earle Stegner for 
+                <title render="italic">Beyond the Hundredth Meridian</title> (Boston, 1954). They relate to exploration and geological surveys, the Hayden-Powell controversy, the Cope-Marsh-Powell controversy, and the Colorado expedition of 1868, including extracts from Powell's scrapbook about the reported loss of the party (1869). They also contain a few scattered references to Ute Indians.</abstract>
+            <physdesc id="ref9" label="General Physical Description note">Ca. 175 p., typescripts and photostats.</physdesc>
+            <physloc id="ref10" label="Paging">LH-MV-E-5</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Powell, John Wesley, 1834-1902</persname>
+            </origination>
+        </did>
+        <bibliography id="ref8">
+            <head>Bibliography</head>
+            <p>Stegner, Wallace Earle, "Beyond the Hundredth Meridian" (Boston: Houghton Mifflin, 1954).</p>
+        </bibliography>
+        <acqinfo id="ref7">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by Wallace Earle Stegner, 1955; accessioned, 1958 (1958 1013ms).</p>
+            <p></p>
+        </acqinfo>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>Wallace Earle Stegner is an author.</p>
+        </bioghist>
+        <controlaccess>
+            <persname source="ingest" role="Collector (col)">Stegner, Wallace Earle,1909-</persname>
+            <subject source="lcsh">Discoveries in geography.</subject>
+            <subject source="lcsh">Explorers.</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

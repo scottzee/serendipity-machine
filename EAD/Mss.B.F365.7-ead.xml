@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.F365.7-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.F365.7</num>
+                </titleproper>
+                <author>Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T19:17-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Thomas-Whittall-Flexner family papers</unittitle>
+            <unitid>Mss.B.F365.7</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid120492" type="Box" label="Manuscripts">1-8</container>
+            <physdesc>
+                <extent>4.0 Linear feet</extent>
+            </physdesc>
+            <unitdate>n.d.</unitdate>
+            <abstract id="ref1" label="Abstract">Correspondence of the extended family of Simon Flexner.</abstract>
+            <physdesc id="ref2" label="General Physical Description note">4 linear feet.</physdesc>
+            <physloc id="ref3" label="Paging">LH-B-T6-2</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Flexner, Abraham, 1866-1959</persname>
+            </origination>
+        </did>
+        <dsc/>
+    </archdesc>
+</ead>

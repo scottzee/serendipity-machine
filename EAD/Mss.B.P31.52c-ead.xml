@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.P31.52c</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T19:52-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Peale family papers, [ca. 1750-1940]</unittitle>
+            <unitid>Mss.B.P31.52c</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1502" type="Box" label="Manuscripts">1-4</container>
+            <physdesc>
+                <extent>2.0 Linear feet</extent>
+                <extent>Ca. 2000 items</extent>
+            </physdesc>
+            <unitdate normal="1750/1940" type="inclusive">Circa 1750-1940</unitdate>
+            <abstract id="ref1" label="Abstract">This collection of letters, diaries, and other types of documents (both original and copies) was assembled primarily by Mary Jane Peale, who copied, or had copied, many family documents. The bulk of the collection centers on Charles Willson Peale, James Burd Peale, and Mary Jane Peale.</abstract>
+            <physdesc id="ref10" label="General Physical Description note">Ca. 2000 items, 2 linear feet.</physdesc>
+            <physloc id="ref12" label="Paging">LH-B-21-11; LH-B-4-6 (B P31.52c.n: Newspaper Clippings)</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Peale, Mary Jane, 1827-1902</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref9">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by Pamela Patterson Roach, Elise Peale Patterson and accessioned, 12/--/1971 (1972 633ms).</p>
+            <p></p>
+        </acqinfo>
+        <altformavail id="ref5">
+            <head>Existence and Location of Copies note</head>
+            <p>The diaries of Mary Jane Peale are also available on microfilm (Film 240, Reels 12 and 13).</p>
+        </altformavail>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>Mary Jane Peale was the daughter of Rubens Peale and granddaughter Charles Willson Peale.</p>
+        </bioghist>
+        <odd id="ref11">
+            <head>Administrative Note</head>
+            <p>Most Peale family papers have been integrated into call number B P31. This collection, B P31 52c, still exists separately.</p>
+        </odd>
+        <controlaccess>
+            <famname source="ingest">Byrd family.</famname>
+            <persname rules="aacr" source="local">Patterson, Theodore F.</persname>
+            <famname source="ingest">Peale family.</famname>
+            <corpname rules="aacr" source="naf">Peale's Museum (Philadelphia, Pa.).</corpname>
+            <persname rules="aacr" source="naf">Peale, Charles Willson, 1741-1827</persname>
+            <persname rules="aacr" source="local">Peale, Eliza Burd Patterson, 1795-1864</persname>
+            <persname rules="aacr" source="local">Peale, James Burd, b. 1833</persname>
+            <famname source="ingest">Peale, Mary Rebecca Frisby Wilmer.</famname>
+            <persname source="ingest">Peale, Rembrandt, 1778-1860</persname>
+            <persname source="ingest">Peale, Rubens, 1784-1865</persname>
+            <famname source="ingest">Wilmer family.</famname>
+            <persname rules="aacr" source="naf">Wilmer, Simon, 1779-1840</persname>
+            <genreform source="lcsh">Diaries.</genreform>
+            <genreform source="lcsh">Genealogies.</genreform>
+            <subject source="lcsh">Painters -- United States.</subject>
+            <subject source="lcsh">Painting.</subject>
+            <subject source="lcsh">Phrenology.</subject>
+            <geogname source="lcsh">United States -- History -- Civil War, 1861-1865.</geogname>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

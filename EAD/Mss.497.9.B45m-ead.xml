@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.497.9.B45m-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.497.9.B45m</num>
+                </titleproper>
+                <author>Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:14-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="item">
+        <did>
+            <unittitle>Miwok myths, [n.d.]</unittitle>
+            <unitid>Mss.497.9.B45m</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid282" type="Volume" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>1.0 Volume(s)</extent>
+                <extent>1 volume, 150 p. </extent>
+            </physdesc>
+            <unitdate>n.d. </unitdate>
+            <physdesc id="ref4" label="General Physical Description note">1 volume, 150 p. Part of this collection is photocopied.</physdesc>
+            <abstract id="ref1" label="Abstract">This collection includes manuscript and photocopied material of Lucy S. Freeland, in which she records the stories told to her by Thomas Williams and Lena Cox. Also included are offprints from "The Hudson Review" of translations of these myths by Jaime de Angulo. There are also documents prepared by Berman in preparation for the publication of these myths in "Freeland's Central Sierra Miwok Myths" (1982).</abstract>
+            <physloc id="ref6" label="Paging">LH-MV-E-8</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Associated name (asn)">Angulo, Jaime de</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Berman, Howard</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Storyteller (stl)">Cox, Lena</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Writer of accompanying material (wam)">Freeland, L. S.,  (Lucy Shepard), 1890-1972</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Williams, Thomas</persname>
+            </origination>
+        </did>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>Howard Berman is a linguist.</p>
+        </bioghist>
+        <acqinfo id="ref2">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by Howard Berman and accessioned, 08/--/1982.</p>
+        </acqinfo>
+        <scopecontent id="ref5">
+            <head>Scope and Contents note</head>
+            <p>Manuscript and photocopied material of Lucy S. Freeland of Miwok myths told by Thomas Williams and Lena Cox. Off prints from the Hudson Review of myth translations by Jaime de Angulo. Also, working documents of Howard Berman for the published work Freeland’s Central Sierra Miwok Myths, 1982.</p>
+            <p>Native American Images note : Primarily images of coyote, the Miwok creator god, the black and white illustrations accompany the text of “Seven Indian Tales” by Jaime de Angulo. Originally printed in the Hudson Review, an offprint of the published work Indian Tales (1952).</p>
+        </scopecontent>
+        <controlaccess>
+            <subject source="local">California Indians</subject>
+            <subject source="lcsh">Coyote (Legendary character)</subject>
+            <genreform source="lcsh">Illustrations.</genreform>
+            <subject source="lcsh">Indians of North America--California--Legends</subject>
+            <subject source="lcsh">Miwok Indians</subject>
+            <subject source="lcsh">Miwok Indians--Legends</subject>
+            <subject source="lcsh">Miwok languages--Texts</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

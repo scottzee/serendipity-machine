@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.J156-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.J156</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T19:34-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="item">
+        <did>
+            <unittitle>Benjamin Jacobs receipt book, 1761-1774</unittitle>
+            <unitid>Mss.B.J156</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1349" type="Volume" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>1.0 Volume(s)</extent>
+                <extent>1 volume, 46 p.</extent>
+            </physdesc>
+            <unitdate normal="1761/1774" type="inclusive">1761-1774</unitdate>
+            <abstract id="ref1" label="Abstract">This book lists receipts for the purchase of land, bar iron, and supplies for the forge, etc. Among the people represented are William Dunlap, James Franklin, Thomas Harrision, Samuel Fisher, and James Morris, Jr.</abstract>
+            <physdesc id="ref6" label="General Physical Description note">1 volume, 46 p.</physdesc>
+            <physloc id="ref8" label="Paging">LH-MV-E-14</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Jacobs, Benjamin.</persname>
+            </origination>
+        </did>
+        <odd id="ref7">
+            <head>Early American History Note</head>
+            <p>The Benjamin Jacobs Collection contains a single bound, pocket-sized book that records a variety of financial transactions of this prominent Philadelphian businessman.</p>
+        </odd>
+        <acqinfo id="ref5">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Purchased from the Old Curiosity Shop ($50.00) and accessioned, 01/06/1971 (1971 21ms).</p>
+        </acqinfo>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>Benjamin Jacobs was the owner of Unicorn Forge in Philadelphia.</p>
+        </bioghist>
+        <controlaccess>
+            <persname rules="aacr" source="naf">Dunlap, William, d. 1779</persname>
+            <persname source="ingest">Fisher, Samuel</persname>
+            <persname source="ingest">Franklin, James,1732?-1762.</persname>
+            <persname rules="aacr" source="naf">Harrison, Thomas, 1744-1829</persname>
+            <persname rules="aacr" source="naf">Morris, James, 1752-1820</persname>
+            <subject source="leah">Business and Skilled Trades</subject>
+            <genreform source="leah">Business Records and Accounts</genreform>
+            <subject source="lcsh">Forge shops -- Equipment and supplies.</subject>
+            <genreform source="lcsh">Receipt books.</genreform>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

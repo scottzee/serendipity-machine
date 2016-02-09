@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Fiche.3-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Fiche.3</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T20:11-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="item">
+        <did>
+            <unittitle>Reminiscences of Abraham Flexner: oral history,1959.</unittitle>
+            <unitid>Mss.Fiche.3</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1677" type="Microfiche" label="Microform">1</container>
+            <physdesc>
+                <extent>1.0 Microfiche card(s)</extent>
+            </physdesc>
+            <unitdate normal="1959/1959">1959</unitdate>
+            <physdesc id="ref11" label="General Physical Description note">1 microfiche card.</physdesc>
+        </did>
+        <acqinfo id="ref10">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Received and accessioned, 1959.</p>
+        </acqinfo>
+        <odd id="ref6">
+            <head>General note</head>
+            <p>Interviewed by Robert Hemmes.</p>
+        </odd>
+        <bioghist id="ref4">
+            <head>Biographical/Historical note</head>
+            <p>Abraham Flexner was an educator.</p>
+        </bioghist>
+        <originalsloc id="ref2">
+            <head>Existence and Location of Originals note</head>
+            <p>Originals in Columbia University Oral History Research Office.</p>
+        </originalsloc>
+        <controlaccess>
+            <persname rules="aacr" source="naf">Flexner, Abraham, 1866-1959</persname>
+            <famname source="ingest">Hemmes, Robert, -- interviewer.</famname>
+            <subject source="lcsh">Education -- United States.</subject>
+            <occupation source="lcsh">Educators.</occupation>
+            <genreform source="lcsh">Interviews.</genreform>
+            <genreform source="lcsh">Oral histories</genreform>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.973.3.M42-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.973.3.M42</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:27-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="item">
+        <did>
+            <unittitle>Timothy Matlack account book, 1783-1800</unittitle>
+            <unitid>Mss.973.3.M42</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1110" type="Volume" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>1.0 Volume(s)</extent>
+                <extent>1 volume, ca. 20 p.</extent>
+            </physdesc>
+            <unitdate normal="1783/1800" type="inclusive">1783-1800</unitdate>
+            <abstract id="ref1" label="Abstract">This account book contains receipts and expenditures for the Flying Camp (1783), and business accounts for purchases of bread and candles, and for expenses of traveling and lodging (1785-1800).</abstract>
+            <physdesc id="ref6" label="General Physical Description note">1 volume, ca. 20 p.</physdesc>
+            <physloc id="ref8" label="Paging">LH-MV-E-16</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Matlack, Timothy, 1736-1829</persname>
+            </origination>
+        </did>
+        <odd id="ref7">
+            <head>Early American History Note</head>
+            <p>This bound volume contains some financial records of the Flying Camp (a militia unit that fought in the American Revolution) for the year 1783 and Timothy Matlack's personal accounts for the years 1785-1800. These records are scattered and not complete. Indeed, much of the volume is blank.</p>
+        </odd>
+        <acqinfo id="ref5">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Received and accessioned, 1900 (1900 50512).</p>
+        </acqinfo>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>Timothy Matlack was a revolutionary soldier and Pennsylvania state official. He was elected to the American Philosophical Society in 1780.</p>
+        </bioghist>
+        <controlaccess>
+            <genreform source="lcsh">Account books.</genreform>
+            <genreform source="lcsh">Accounts.</genreform>
+            <subject source="leah">American Revolution</subject>
+            <subject source="leah">Business and Skilled Trades</subject>
+            <genreform source="leah">Business Records and Accounts</genreform>
+            <subject source="leah">Military History</subject>
+            <genreform source="leah">Military Records</genreform>
+            <subject source="lcsh">Military supplies.</subject>
+            <genreform source="lcsh">Receipts.</genreform>
+            <subject source="lcsh">Travel costs -- United States.</subject>
+            <geogname source="lcsh">United States -- History -- Revolution, 1775-1783 -- Regimental histories.</geogname>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

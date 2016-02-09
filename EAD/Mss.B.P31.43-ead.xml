@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.P31.43-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.P31.43</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T19:52-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc audience="internal" level="item">
+        <did>
+            <unittitle>N. &amp; D. Sellers (Firm) letterbook,1821 Jan. 11-1830 Jan. 31.</unittitle>
+            <unitid>Mss.B.P31.43</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1515" type="Reel" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>1.0 Volume(s)</extent>
+                <extent>1 volume, 230 p.</extent>
+            </physdesc>
+            <unitdate normal="1821/1821">1821</unitdate>
+            <abstract id="ref1" label="Abstract">This volume contains business correspondence of the firm, relating to the sale and shipment of wire and wire products. Correspondents include John Haviland and George Shryock.</abstract>
+            <physdesc id="ref8" label="General Physical Description note">1 volume, 230 p.</physdesc>
+            <physloc id="ref20" label="Paging">LH-MV-E-5</physloc>
+            <origination label="creator">
+                <corpname source="ingest" role="Author (aut)">N. &amp; D. Sellers (Firm)</corpname>
+            </origination>
+        </did>
+        <acqinfo id="ref7">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by Charles Coleman Sellers and accessioned, 1945.</p>
+        </acqinfo>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>The firm of N. and D. Sellers was engaged in wire working industry and in the manufacture of wool cards and paper molds. After the death of David Sellers in 1813 and the retirement of Nathan Sellers 1817, the business was run by Coleman, son of Nathan, and Samuel and James, sons of David Sellers. In 1828 N. and D. Sellers dissolved with the retirement of Coleman Sellers.</p>
+        </bioghist>
+        <odd id="ref18">
+            <head>Administrative Note</head>
+            <p>This record is superseded by, and included in, B P31. It was marked “internal only” in Dec., 2010 and is being kept in the case that it is needed for future administrative needs.</p>
+        </odd>
+        <odd id="ref19">
+            <head>Early American History Not</head>
+            <p>This bound volume is part of the Sellers Family Collection. It contains the accounts, receipts, and correspondence for Nathan and David Sellers’ manufacturing firm (N &amp; D Sellers) for the period 1821-1830.</p>
+        </odd>
+        <controlaccess>
+            <persname rules="aacr" source="naf">Haviland, John, 1792-1852 </persname>
+            <persname source="ingest">Sellers, Coleman,1781-1834.</persname>
+            <persname rules="aacr" source="naf">Sellers, David, 1757-1813</persname>
+            <persname rules="aacr" source="naf">Sellers, James, 1783-1857</persname>
+            <persname source="ingest">Sellers, Nathan,1751-1830.</persname>
+            <persname source="ingest">Sellers, Samuel.</persname>
+            <persname rules="aacr" source="local">Shryock, George</persname>
+            <subject source="leah">Business and Skilled Trades</subject>
+            <genreform source="leah">Business Records and Accounts</genreform>
+            <genreform source="lcsh">Letterbooks.</genreform>
+            <geogname source="lcsh">Pennsylvania -- Industries.</geogname>
+            <subject source="lcsh">Technology -- United States.</subject>
+            <subject source="lcsh">Wire industry.</subject>
+            <subject source="lcsh">Wire.</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref9" level="series">
+                <did>
+                    <unittitle>N. &amp; D. Sellers (Firm) order books, 1834-1836.</unittitle>
+                    <unitid>B P31 no. 44a,b</unitid>
+                    <langmaterial>
+                        <language langcode="eng"/>
+                    </langmaterial>
+                    <container id="cid30257" type="Volume" label="Manuscripts">2</container>
+                    <physdesc>
+                        <extent>2.0 Volume(s)</extent>
+                    </physdesc>
+                    <unitdate normal="1834/1836" type="inclusive">1834-1836</unitdate>
+                    <abstract id="ref11" label="Abstract">The firm of N. &amp; D. Sellers was engaged in wire working industry and in the manufacture of wool cards and paper molds. After the death of David Sellers in 1813 and the retirement of Nathan Sellers in 1817, the business was run by Coleman, son of Nathan, and Samuel and James, sons of David Sellers. In 1828 N. &amp; D. Sellers dissolved with the retirement of Coleman Sellers.</abstract>
+                    <physdesc id="ref14" label="General Physical Description note">2 volumes.</physdesc>
+                    <origination label="creator">
+                        <corpname source="ingest" role="Author (aut)">N. &amp; D. Sellers (Firm)</corpname>
+                    </origination>
+                </did>
+                <acqinfo id="ref16">
+                    <head>Immediate Source of Acquisition note</head>
+                    <p>Presented by Charles Coleman Sellers and accessioned, 1945.</p>
+                </acqinfo>
+                <altformavail id="ref17">
+                    <head>Existence and Location of Copies note</head>
+                    <p>Order book, 1834-1836, is also available on microfilm (Film 240, Reel 11).</p>
+                </altformavail>
+                <controlaccess>
+                    <persname rules="aacr" source="naf">Gilpin, Thomas, 1776-1853</persname>
+                    <persname rules="aacr" source="naf">Ramage, Adam, 1771 or 72-1850</persname>
+                    <persname source="ingest">Sellers, Coleman,1781-1834.</persname>
+                    <persname rules="aacr" source="naf">Sellers, David, 1757-1813</persname>
+                    <persname rules="aacr" source="naf">Sellers, James, 1783-1857</persname>
+                    <persname source="ingest">Sellers, Nathan,1751-1830.</persname>
+                    <persname source="ingest">Sellers, Samuel.</persname>
+                    <persname rules="aacr" source="local">Shryock, John</persname>
+                    <genreform source="lcsh">Clippings.</genreform>
+                    <subject source="lcsh">Paper industry.</subject>
+                    <genreform source="lcsh">Sketches.</genreform>
+                    <subject source="lcsh">Technology -- United States.</subject>
+                </controlaccess>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

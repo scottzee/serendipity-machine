@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.071.V81d-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.071.V81d</num>
+                </titleproper>
+                <author>Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:07-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Virginia Gazette daybooks</unittitle>
+            <unitid>Mss.071.V81d</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid120497" type="Volume" label="Manuscripts">1-2</container>
+            <physdesc>
+                <extent>2.0 Volume(s)</extent>
+            </physdesc>
+            <unitdate normal="1750/1766" type="inclusive">1750-1766</unitdate>
+            <physdesc id="ref3" label="General Physical Description note">2 volumes.</physdesc>
+            <abstract id="ref2" label="Abstract">Daybooks for 1750-1752 and 1764-1766.</abstract>
+            <physloc id="ref5" label="Paging">LH-MV-E-7</physloc>
+            <origination label="creator">
+                <corpname rules="aacr" source="local" role="Author (aut)">The Virginia Gazette..</corpname>
+            </origination>
+        </did>
+        <acqinfo id="ref1">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Willman Spawn, gift.</p>
+        </acqinfo>
+        <odd id="ref4">
+            <head>Early American History Note</head>
+            <p>These photocopies of the daybooks of the Virginia Gazette from 1750-1752 and 1764-1766 complement the Royale Collection. They provide a small window into the workings of printers in Virginia. This volume contains information on circulation, costs, and other aspects of the business side of the newspaper business.</p>
+        </odd>
+        <controlaccess>
+            <subject source="leah">Business and Skilled Trades</subject>
+            <genreform source="leah">Business Records and Accounts</genreform>
+            <subject source="leah">Colony and State Specific History</subject>
+            <subject source="leah">Printing and Publishing</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

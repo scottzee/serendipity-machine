@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.497.3.B62c-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.497.3.B62c</num>
+                </titleproper>
+                <author>Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:10-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Leonard Bloomfield notebooks</unittitle>
+            <unitid>Mss.497.3.B62c</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="alg"/>
+            </langmaterial>
+            <container id="cid119933" type="Volume" label="Manuscripts">1-11</container>
+            <physdesc>
+                <extent>11.0 Volume(s)</extent>
+            </physdesc>
+            <unitdate normal="1925/1925">1925</unitdate>
+            <physdesc id="ref3" label="General Physical Description note">11 notebooks</physdesc>
+            <abstract id="ref2" label="Abstract">Cree language field notebooks. Primarily contains texts, with some word lists. 10 notebooks in romanized Cree, 1 in Cree syllabic script.</abstract>
+            <physloc id="ref5" label="Paging">LH-MV-B-4</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Bloomfield, Leonard, 1887-1949</persname>
+            </origination>
+        </did>
+        <bioghist id="ref4">
+            <head>Biographical/Historical note</head>
+            <p>American linguist Leonard Bloomfield pioneered the development of structural linguistics in the United States during the 1930s and the 1940s. He wrote extensively and his renowned mid-career textbook, Language, presented a comprehensive description of American structural linguistics. He made significant contributions to Indo-European historical linguistics, the description of Austronesian languages, and description of languages of the Algonquian family.</p>
+        </bioghist>
+        <acqinfo id="ref1">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Gift of Charles F. Hockett.</p>
+        </acqinfo>
+        <controlaccess>
+            <subject source="lcsh">Cree language</subject>
+            <genreform source="lcsh">Field notes.</genreform>
+            <subject source="lcsh">Linguistics</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

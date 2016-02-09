@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.537.G18-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.537.G18</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:18-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="item">
+        <did>
+            <unittitle>Traité de physique et de chymie, ca. 1800</unittitle>
+            <unitid>Mss.537.G18</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="fre"/>
+            </langmaterial>
+            <container id="cid924" type="Volume" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>1.0 Volume(s)</extent>
+                <extent>1 volume, 163 p.</extent>
+            </physdesc>
+            <unitdate normal="1800/1800">Circa 1800</unitdate>
+            <abstract id="ref1" label="Abstract">This treatise includes experiments on eletricity (with mentions of B. Franklin), ballooning (mentions of J. P. Blanchard), pharmacology, chemistr, and hydraulics. Included is a sketch of Woulfe's bottle for passing gases through liquids (Peter Woulfe, 1767).</abstract>
+            <physdesc id="ref8" label="General Physical Description note">1 volume, 163 p.</physdesc>
+            <physloc id="ref11" label="Paging">LH-MV-E-9</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Anonymous</persname>
+            </origination>
+        </did>
+        <odd id="ref3">
+            <head>General note</head>
+            <p>This work is signed "G" on the title page, possibly short for Gariel (the words "Grandpere Gariel" are written in pencil, in an unknown hand, on the title page).</p>
+        </odd>
+        <custodhist id="ref9">
+            <head>Custodial History note</head>
+            <p>This volume was once owned by Alfred Lejourdan, engineer and director of plants and zoology in Marseilles.</p>
+        </custodhist>
+        <odd id="ref10">
+            <head>Early American History Note</head>
+            <p>This beautifully bound volume contains numerous essays on scientific developments that occurred in the 18th century. The text of the notebook is written so that the manuscript appears like a published work. Among the topics discussed are electricity, physics, balloons, pharmacology, and an invention by Peter Woulfe. The notebook is in French.</p>
+        </odd>
+        <controlaccess>
+            <persname rules="aacr" source="naf">Blanchard, Jean-Pierre, 1753-1809 </persname>
+            <persname rules="aacr" source="naf">Franklin, Benjamin, 1706-1790</persname>
+            <famname source="ingest">Gariel.</famname>
+            <persname rules="aacr" source="local">Lejourdan, Alfred</persname>
+            <famname source="ingest">Woulfe, Peter, -- ca. 1727-1803.</famname>
+            <subject source="lcsh">Balloons.</subject>
+            <subject source="lcsh">Chemistry -- Experiments.</subject>
+            <subject source="leah">Education</subject>
+            <genreform source="leah">Educational Material</genreform>
+            <subject source="lcsh">Electricity -- Early works to 1850.</subject>
+            <genreform source="leah">Foreign Language</genreform>
+            <subject source="lcsh">Gases.</subject>
+            <subject source="lcsh">Hydraulics.</subject>
+            <genreform source="leah">Manuscript Essays</genreform>
+            <genreform source="leah">Notebooks</genreform>
+            <subject source="lcsh">Pharmacology.</subject>
+            <subject source="lcsh">Science -- History.</subject>
+            <subject source="leah">Science and Technology</subject>
+            <genreform source="leah">Scientific Data</genreform>
+            <subject source="lcsh">Technology -- History.</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

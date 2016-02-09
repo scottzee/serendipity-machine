@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Film.638 &amp; 645</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T20:15-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Papers, 1790-1796, on Indian affairs</unittitle>
+            <unitid>Mss.Film.638 &amp; 645</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1884" type="Reel" label="Microform">1-4</container>
+            <physdesc>
+                <extent>4.0 Microfilm reel(s)</extent>
+            </physdesc>
+            <unitdate normal="1790/1796" type="inclusive">1790-1796</unitdate>
+            <abstract id="ref1" label="Abstract">These papers include letters, reports, minutes, memoranda, and addresses to Indian chiefs, selected from the Pickering papers from the Massachusetts Historical Society. Includes letters and documents pertaining to Pickering, Henry Knox, John Sergeant, Jasper Parrish and Samuel Kirkland; relates to New York and Western Indian affairs, principally Iroquois, but also Nanticoke, Shawano, Delaware, Wyandot, Miami, Seneca.</abstract>
+            <physdesc id="ref10" label="General Physical Description note">4 microfilm reels.</physdesc>
+            <physloc id="ref12" label="Paging">LH-RR-Media Rm-3</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Pickering, Timothy, 1745-1829</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref9">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by William N. Fenton, 1953.</p>
+        </acqinfo>
+        <bioghist id="ref5">
+            <head>Biographical/Historical note</head>
+            <p>Timothy Pickering was a soldier, Indian agent, and Secretary of War. He was elected to the American Philosophical Society in 1795.</p>
+        </bioghist>
+        <originalsloc id="ref3">
+            <head>Existence and Location of Originals note</head>
+            <p>Originals in Massachusetts Historical Society (3 reels), and Essex Institute (1 reel).</p>
+        </originalsloc>
+        <odd id="ref11">
+            <head>Early American History Note</head>
+            <p>This is a microfilm of an early American collection that may be of interest to researchers at the APS and may complement an original manuscript collection at the APS.</p>
+        </odd>
+        <controlaccess>
+            <persname rules="aacr" source="local">Bauman, S.</persname>
+            <persname rules="aacr" source="local">Chapin, Israel</persname>
+            <persname rules="aacr" source="naf">Drinker, Henry, 1734-1809</persname>
+            <persname rules="aacr" source="naf">Hodgdon, Samuel, 1745-1824 </persname>
+            <famname source="ingest">Hull, William, -- 1753-1825 -- Trials, litigation, etc.</famname>
+            <persname source="ingest">Knox, Henry, 1750-1806</persname>
+            <persname rules="aacr" source="naf">Lincoln, Benjamin, 1733-1810</persname>
+            <persname source="ingest">Morgan, George, 1743-1810</persname>
+            <persname rules="aacr" source="naf">Parrish, John, 1729-1807</persname>
+            <persname rules="aacr" source="naf">Schuyler, Philip John, 1733-1804</persname>
+            <persname rules="aacr" source="naf">St. Clair, Arthur, 1734-1818</persname>
+            <subject source="lcsh">Indians of North America</subject>
+            <genreform source="lcsh">Memoranda.</genreform>
+            <genreform source="leah">Microfilm Collection</genreform>
+            <genreform source="lcsh">Minutes.</genreform>
+            <genreform source="lcsh">Reports.</genreform>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

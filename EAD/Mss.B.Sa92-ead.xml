@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.Sa92-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.Sa92</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T19:59-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Sir George Savile papers, 1761-1782</unittitle>
+            <unitid>Mss.B.Sa92</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1577" type="Box" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>0.25 Linear feet</extent>
+                <extent>16 photocopies</extent>
+            </physdesc>
+            <unitdate normal="1761/1782" type="inclusive">1761-1782</unitdate>
+            <abstract id="ref8" label="Abstract">These papers include letters and documents concerning the American Revolution, from British and American perspectives, as well as issues involving trade, fishing, and trapping in America.</abstract>
+            <physdesc id="ref15" label="General Physical Description note">16 photocopies.</physdesc>
+            <physloc id="ref17" label="Paging">LH-MV-C-15</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Savile, George,Sir,1726-1784.</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref14">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Purchased from Nottinghamshire Record Office ($10.60), England, and accessioned, 1971 (1971 1088ms).</p>
+            <p></p>
+            <p></p>
+        </acqinfo>
+        <bioghist id="ref12">
+            <head>Biographical/Historical note</head>
+            <p>George Savile was a political figure of eighteenth-century England.</p>
+        </bioghist>
+        <originalsloc id="ref10">
+            <head>Existence and Location of Originals note</head>
+            <p>Originals in Foljambe Collection, Nottinghamshire Record Office,</p>
+        </originalsloc>
+        <odd id="ref16">
+            <head>Early American History Note</head>
+            <p>This collection of Sir George Savile correspondence contains a small but content rich group of documents relating to the American Revolution. The documents reflect the imperial point of view on American affairs. The collection includes correspondence between Savile and imperial officials, a memorandum on crushing the American Revolution, an analysis on the North American trade, and some documents from the colonies that protested imperial policies. All of the documents are photocopies of originals held elsewhere.</p>
+        </odd>
+        <controlaccess>
+            <famname source="ingest">Foljambe, F.F.</famname>
+            <persname rules="aacr" source="naf">Harrison, Joseph</persname>
+            <persname rules="aacr" source="local">Neiles, Thomas M.</persname>
+            <famname source="ingest">Priestley, Joseph, -- 1733-1804. -- Unitarianism explained and defended.</famname>
+            <subject source="leah">American Revolution</subject>
+            <subject source="lcsh">Commerce.</subject>
+            <subject source="lcsh">Fishing--America</subject>
+            <genreform source="leah">Official Government Documents and Records</genreform>
+            <genreform source="leah">Political Correspondence</genreform>
+            <subject source="lcsh">Trapping -- America.</subject>
+            <geogname source="lcsh">United States -- History -- Revolution, 1775-1783 -- Personal histories.</geogname>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

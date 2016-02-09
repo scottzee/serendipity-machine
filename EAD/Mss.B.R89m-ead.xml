@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.R89m-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.R89m</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T19:58-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="item">
+        <did>
+            <unittitle>Benjamin Rush memorandum book, 1805-1813</unittitle>
+            <unitid>Mss.B.R89m</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1566" type="Volume" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>1.0 Volume(s)</extent>
+                <extent>1 volume, 89 p. </extent>
+            </physdesc>
+            <unitdate normal="1805/1813" type="inclusive">1805-1813</unitdate>
+            <abstract id="ref1" label="Abstract">Numbered "11", this item contains notes on lands owned and sold; notes on leases of Philadelphia houses; accounts with Daphne Peterson ("a free black woman"), Mary Spence ("of Dunfermline, Scotland"), and Baynard Hall; a list of books lent; a list of those receiving copies of Rush's publications, 1805-1806 (among whom was Thomas Jefferson); and an "account of property belonging to the estate."</abstract>
+            <physdesc id="ref6" label="General Physical Description note">1 volume, 89 p.</physdesc>
+            <physloc id="ref9" label="Paging">LH-MV-E-15</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Rush, Benjamin, 1746-1813</persname>
+            </origination>
+        </did>
+        <odd id="ref7">
+            <head>African American History Note</head>
+            <p>The account of Daphne Peterson, a freed African American, may be of particular interest.</p>
+        </odd>
+        <odd id="ref8">
+            <head>Early American History Note</head>
+            <p>The Benjamin Rush memorandum book documents a variety of Rush's financial transactions and investments. The book often contains specific details on lands Rush owned in Pennsylvania. Other transactions recorded include payments to schoolmasters for his children and the loans of books he made to people.</p>
+        </odd>
+        <acqinfo id="ref5">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Purchased from Romaine and accessioned, 1949.</p>
+        </acqinfo>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>Benjamin Rush was a physician, patriot, and humanitarian. He graduated from the College of New Jersey (Princeton), 1760, and from the University of Edinburgh, 1768. He was a member of the staff at the Pennsylvania Hospital and was a professor at the University of Pennsylvania.</p>
+        </bioghist>
+        <controlaccess>
+            <persname rules="aacr" source="naf">Jefferson, Thomas, 1743-1826</persname>
+            <subject source="local">Abolition, emancipation, freedom</subject>
+            <genreform source="leah">Business Records and Accounts</genreform>
+            <subject source="leah">Land and Speculation</subject>
+            <subject source="leah">Pennsylvania History</subject>
+            <subject source="leah">Philadelphia History</subject>
+            <subject source="lcsh">Real property -- Pennsylvania.</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

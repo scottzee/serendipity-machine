@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.P31.2-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.P31.2</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T19:52-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc audience="internal" level="collection">
+        <did>
+            <unittitle>Charles Willson Peale diaries, 1765-1826</unittitle>
+            <unitid>Mss.B.P31.2</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1494" type="Volume" label="Manuscripts">1-26</container>
+            <physdesc>
+                <extent>26.0 Volume(s)</extent>
+            </physdesc>
+            <unitdate normal="1765/1826" type="inclusive">1765-1826</unitdate>
+            <abstract id="ref1" label="Abstract">These diaries include daily entries relating to family and business, travels, sittings, museum work, etc. The diary of 1824 June 9-July 4 covers the period of Peale's last courtship. Three of the diaries are duplicated from originals elsewhere: No. 3 in the Henry E. Huntington Library, and Nos. 7 and 9 in Fordham University Library.</abstract>
+            <physdesc id="ref14" label="General Physical Description note">26 volumes.</physdesc>
+            <physloc id="ref27" label="Paging">LH-MV-E-4</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Peale, Charles Willson, 1741-1827</persname>
+            </origination>
+        </did>
+        <altformavail id="ref9">
+            <head>Existence and Location of Copies note</head>
+            <p>This collection is also available on microfilm (Film 240). The papers of C. W. Peale and his family have been reproduced almost in their entirety in microfiche form (Lillian B. Miller, ed. "Collected papers of Charles Willson Peale and his family." Kraus Microfilm, 1980).</p>
+        </altformavail>
+        <odd id="ref5">
+            <head>General note</head>
+            <p>The main body of the Peale Collection is described briefly brief in American Philosophical Society "Year Book" 1945:74-77.</p>
+        </odd>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>Charles Willson Peale was an artist and naturalist.</p>
+        </bioghist>
+        <acqinfo id="ref15">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented in part by Charles Coleman Sellers, 1945.</p>
+        </acqinfo>
+        <processinfo id="ref24">
+            <head>Processing Information note</head>
+            <p>Only maps and scanned items are noted.</p>
+        </processinfo>
+        <odd id="ref25">
+            <head>Early American History Not</head>
+            <p>Charles Willson Peale’s diaries offer a remarkable window into the world of early America. Peale kept diaries from 1760 until his death. There are twenty-six discreet volumes. Peale’s entries are often very detailed and content rich. Peale’s life spanned a remarkable number of events. He was very active in the American Revolution, which is chronicled here, and his continued work as an artist and innovator in early America is well-recorded here, as are the smaller anecdotes of life, like social outings and family affairs. There are also many sketches scattered throughout the volumes. The diaries not only provide insight into Peale’s own life but often record events happening within Philadelphia and beyond.</p>
+        </odd>
+        <odd id="ref26">
+            <head>Administrative Note</head>
+            <p>This record is superseded by, and included in, B P31. It was marked “internal only” in Dec., 2010 and is being kept in the case that it is needed for future administrative needs.</p>
+        </odd>
+        <controlaccess>
+            <subject source="leah">American Revolution</subject>
+            <subject source="local">Art</subject>
+            <genreform source="leah">Diaries</genreform>
+            <genreform source="lcsh">Diaries.</genreform>
+            <subject source="leah">Early National Politics</subject>
+            <subject source="leah">Literature, Arts, and Culture</subject>
+            <subject source="leah">Marriage and Family Life</subject>
+            <subject source="lcsh">Museums -- Pennsylvania -- Philadelphia.</subject>
+            <subject source="lcsh">Painters -- United States.</subject>
+            <geogname source="lcsh">Philadelphia (Pa.) -- Social life and customs.</geogname>
+            <subject source="lcsh">Portrait painting -- 18th century.</subject>
+            <subject source="leah">Social Life and Custom</subject>
+            <geogname source="lcsh">United States -- Civilization -- 1783-1865.</geogname>
+            <geogname source="lcsh">United States -- Civilization -- To 1783.</geogname>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

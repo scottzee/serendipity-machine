@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.497.3.P61s-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.497.3.P61s</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:13-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="item">
+        <did>
+            <unittitle>Specimen of the Mountaineer, or Sheshatapooshshoish, Skoffie, and Micmac Languages, 1797</unittitle>
+            <unitid>Mss.497.3.P61s</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="mic"/>
+            </langmaterial>
+            <container id="cid821" type="Volume" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>1.0 Volume(s)</extent>
+                <extent>1 volume, 41 p. </extent>
+            </physdesc>
+            <unitdate normal="1797/1797">1797</unitdate>
+            <abstract id="ref1" label="Abstract">This is a comparative vocabulary of the Micmac, Montagnais, and Nascapee Indian languages, and includes Micmac prayers, and a dictionary of Micmac pictographs.</abstract>
+            <physdesc id="ref4" label="General Physical Description note">1 volume, 41 p.</physdesc>
+            <langmaterial id="ref6" label="Language of Materials note">Collection is in Naskapi, Montagnais, Micmac and English.</langmaterial>
+            <physloc id="ref15" label="Paging">LH-MV-E-15</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Peirronet, Thomas</persname>
+            </origination>
+        </did>
+        <scopecontent id="ref7">
+            <head>Scope and Contents note</head>
+            <p>Native American Images note : 288 ink sketch pictographs of the Micmac (Mi’kmaq) language presented by Gabriel, a Mountaineer Indian, and transcribed by Thomas Pierronet, in 1797. A symbolic dictionary, with English translations, of words and phrases of this Algonquian language. Includes three Christian prayers in pictorial sentences.</p>
+        </scopecontent>
+        <altformavail id="ref5">
+            <head>Existence and Location of Copies note</head>
+            <p>The vocabulary was printed in past in Massachusetts Historical Society "Collections" 6 (1799): 16-33.</p>
+        </altformavail>
+        <processinfo id="ref12">
+            <head>Processing Information note</head>
+            <p>Only scanned images are noted.</p>
+        </processinfo>
+        <odd id="ref13">
+            <head>Early American History Note</head>
+            <p>This slender volume is the notebook of Thomas Pierronet. This volume contains a range of material on Native American languages and cultures. It contains a comparative vocabulary of Micmac, Montagnais, and Nascapee Indians. It also has a record of prayers and pictographs of the Micmac.</p>
+        </odd>
+        <controlaccess>
+            <subject source="lcsh">Algonquin language</subject>
+            <genreform source="lcsh">Dictionaries.</genreform>
+            <subject source="local">Eastern Woodlands Indians</subject>
+            <subject source="lcsh">Indians of North America--Canada--Languages--Writing</subject>
+            <subject source="lcsh">Indians of North America--Languages</subject>
+            <subject source="lcsh">Indians of North America--Maritime Provinces</subject>
+            <subject source="leah">Language and Linguistics</subject>
+            <genreform source="leah">Language Material</genreform>
+            <subject source="lcsh">Micmac Indians</subject>
+            <subject source="lcsh">Micmac language--Writing</subject>
+            <subject source="lcsh">Montagnais language</subject>
+            <subject source="ingest">Naskapi language</subject>
+            <subject source="leah">Native America</subject>
+            <genreform source="leah">Native American Materials</genreform>
+            <genreform source="lcsh">Prayers.</genreform>
+            <genreform source="lcsh">Sketches.</genreform>
+            <genreform source="lcsh">Vocabularies.</genreform>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref8" level="item">
+                <did>
+                    <unittitle>Micmac dictionary</unittitle>
+                    <unitdate>1797</unitdate>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Micmac dictionary " ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:3625">
+                    <daodesc>
+                        <p>Micmac dictionary , 1797 </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref10" level="item">
+                <did>
+                    <unittitle>Micmac dictionary</unittitle>
+                    <unitdate>1797</unitdate>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Micmac dictionary " ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:3626">
+                    <daodesc>
+                        <p>Micmac dictionary , 1797 </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref11" level="item">
+                <did>
+                    <unittitle>Micmac prayer</unittitle>
+                    <unitdate>1797</unitdate>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Micmac prayer" ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:3627">
+                    <daodesc>
+                        <p>Micmac prayer, 1797 </p>
+                    </daodesc>
+                </dao>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

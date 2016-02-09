@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Ms.Coll.116</num>
+                </titleproper>
+                <author>Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T20:24-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc audience="internal" level="collection">
+        <did>
+            <unittitle>H. Eldon Sutton Papers</unittitle>
+            <unitid>Mss.Ms.Coll.116</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid120482" type="Box" label="Manuscripts">1-12</container>
+            <physdesc>
+                <extent>6.0 Linear feet</extent>
+            </physdesc>
+            <unitdate normal="1965/2001" type="inclusive">1965-2001</unitdate>
+            <abstract id="ref1" label="Abstract">Papers of the human geneticist, H. Eldon Sutton., including files from the American Journal of Human Genetics.</abstract>
+            <physdesc id="ref2" label="General Physical Description note">5 linear feet.</physdesc>
+            <physloc id="ref3" label="Paging">LH-SB-21-2</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Sutton, H. Eldon,  (Harry Eldon), 1927- </persname>
+            </origination>
+        </did>
+        <dsc/>
+    </archdesc>
+</ead>

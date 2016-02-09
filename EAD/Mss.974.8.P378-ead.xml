@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.974.8.P378-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.974.8.P378</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:27-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Pennsylvania. Provincial Council. Minutes, 1693-1717</unittitle>
+            <unitid>Mss.974.8.P378</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1137" type="Volume" label="Manuscripts">1-3</container>
+            <physdesc>
+                <extent>3.0 Volume(s)</extent>
+                <extent>3 volumes, 520 p.</extent>
+            </physdesc>
+            <unitdate normal="1693/1717" type="inclusive">1693-1717</unitdate>
+            <physdesc id="ref6" label="General Physical Description note">3 volumes, 520 p.</physdesc>
+            <abstract id="ref1" label="Abstract">These minutes record the business of, and actions taken by, the Provincial Council.</abstract>
+            <physloc id="ref9" label="Paging">LH-MV-E-13</physloc>
+            <origination label="creator">
+                <corpname source="ingest" role="Author (aut)">Pennsylvania.Provincial Council.</corpname>
+            </origination>
+        </did>
+        <odd id="ref7">
+            <head>General note</head>
+            <p>The minutes for 1700-1712 were printed in Hazard's "Register of Pennsylvania" 6 (1830): p. 9 and following.</p>
+        </odd>
+        <acqinfo id="ref5">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by George and Deborah Norris Logan, 1817; accessioned, 1913. See in-house shelf list for additional accession numbers adn dates.</p>
+        </acqinfo>
+        <odd id="ref8">
+            <head>Early American History Note</head>
+            <p>These three volumes contain the minutes of the Pennsylvania Provincial Council from 1693 to 1717. The manuscripts are often difficult to read. They have been printed elsewhere in both the Pennsylvania Archives and Hazard’s Register.</p>
+        </odd>
+        <controlaccess>
+            <subject source="leah">Colonial Politics</subject>
+            <subject source="leah">Government Affairs</subject>
+            <genreform source="lcsh">Minutes.</genreform>
+            <genreform source="leah">Official Government Documents and Records</genreform>
+            <geogname source="lcsh">Pennsylvania -- Politics and government -- To 1775.</geogname>
+            <subject source="leah">Pennsylvania History</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

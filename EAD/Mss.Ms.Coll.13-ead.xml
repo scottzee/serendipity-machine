@@ -1,0 +1,747 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Ms.Coll.13-ead.xml">PUBLIC "-//American Philosophical Society//TEXT (US::PPAmP::Ms Coll 13::History of Modern Astrophysics Collection)//EN" "astrophysics.xml"</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>History of Modern Astrophysics Collection
+                    <date type="span">1849-1979</date>
+                    <num>Mss.Ms.Coll.13</num>
+                </titleproper>
+                <author>Finding aid prepared by rsc</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+                <date>2002</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T20:28-0400</date>
+            </creation>
+            <langusage>ENG</langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>History of Modern Astrophysics Collection</unittitle>
+            <unitid>Mss.Ms.Coll.13</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid12841" type="Box" label="Manuscripts">1-4</container>
+            <container parent="cid12841" type="Reel">1-67</container>
+            <physdesc>
+                <extent>2.0 Linear feet</extent>
+                <extent>2 linear feet; 67 reels of microfilm</extent>
+            </physdesc>
+            <unitdate normal="1849/1979" type="inclusive">1849-1979</unitdate>
+            <abstract id="ref1" label="Abstract">During the mid- to late-1970s, the American Institute of Physics sponsored a project to conduct oral history interviews documenting the recent history of astrophysics, eventually accumulating over 400 hours of fully transcribed and edited audio tapes. The project organizers placed a particular emphasis on documenting the various subdisciplines of cosmology and astronomical spectroscopy. 
+                <lb/>The History of Modern Astrophysics Collection is an important resource for the history of astrophysics in the latter half of the twentieth century. The collection is arranged in two series, the first consisting of transcripts of 52 interviews of 46 astrophysicists recorded between 1976 and 1979 by members of the Center for the History of Physics at the American Institute of Physics. The second series consists of 65 reels of microfilm of significant sets of correspondence for individual astrophysicists. The original oral history tape recordings are housed at AIP.</abstract>
+            <physloc id="ref103" label="Paging">LH-B-36-2; LH-RR-Media Rm-5 (Ser. II, Microfilm)</physloc>
+            <origination label="creator">
+                <corpname source="ingest" role="Author (aut)">Center for History of Physics (American Institute of Physics)</corpname>
+            </origination>
+        </did>
+        <bibliography id="ref14">
+            <head>Bibliography</head>
+            <p>The HMA project is described in 
+                <bibref>Weart, Spencer R. and David H. DeVorkin, "Interviews as sources for history of Modern Astrophysics," 
+                    <title render="italic">Isis</title> 72 (1981), 471-477.</bibref></p>
+        </bibliography>
+        <processinfo id="ref13">
+            <head>Processing Information note</head>
+            <p>Recatalogued by rsc, 2003.</p>
+        </processinfo>
+        <acqinfo id="ref11">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Deposited by the American Institute of Physics through Spencer R. Weart, 1982 (accn. no. 1982-1024ms).</p>
+        </acqinfo>
+        <prefercite id="ref9">
+            <head>Preferred Citation note</head>
+            <p>Cite as: History of Modern Astrophysics Collection, American Philosophical Society.</p>
+        </prefercite>
+        <scopecontent id="ref5">
+            <head>Scope and Contents note</head>
+            <p>The History of Modern Astrophysics Collection is an important resource for the history of astrophysics in the latter half of the twentieth century. The collection is arranged in two series, the first consisting of transcripts of 52 interviews of 46 astrophysicists recorded between 1976 and 1979 by members of the Center for the History of Physics at the American Institute of Physics. The second series consists of 65 reels of microfilm of significant sets of correspondence for individual astrophysicists. The original oral history tape recordings are housed at AIP.</p>
+        </scopecontent>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>During the mid- to late-1970s, the Center for the History of Physics of the American Institute of Physics sponsored an oral history project designed to provide a systematic survey of late 20th century astrophysics. Slightly adjusting the model provided by the successful Sources for the History of Quantum Physics, the History of Modern Astrophysics project slightly deemphasized detailed inquiry into early scientific work, while delving more deeply into personal and social matters. Like the Quantum Physics project, they also sought out and microfilmed significant bodies of records, particularly those for observatories, that were deemed to be "in danger, or in remote locations, or of exceptional value to a broad community of scholars."</p>
+            <p>The initial list of candidates for interviews was compiled based upon recommendations that emerged from a series of exploratory interviews with astrophysicists, supplemented by individuals who were frequently cited in review articles, who were the recipients of major astronomical prizes, or who were mentioned as significant contributors in the existing secondary literature. These were then ranked and submitted to an advisory panel of historians of astronomy to fill in any omissions. Given the limitations of such a large undertaking, the project organizers inevitably chose to emphasize certain fields at the expense of others. In particular, they limited the number of interviews with radio astronomers and solar system astrophysics because these subfields were covered under other projects, while they sought extensive coverage of a variety of subfields in cosmology. Approximately 25% of the interviews were with cosmologists and a slightly smaller number concerned astronomical spectroscopy. The selection of subjects for interviews was also biased geographically: over half of the subjects were born and educated in the United States, with Britain, the Netherlands, and Germany relatively well represented, but the Soviet Union notably underrepresented.</p>
+            <p>Ultimately, the project logged over 400 hours of interviews with over 100 astronomers, resulting in over 10,000 pages of edited transcripts. Following the standard procedures established at the AIP, the interviews were fully transcribed and edited against the tape by the interviewer before being sent to the astronomer for further editing and permissions. Several different interviewers were employed during the project, including interviewers who were not members of the AIP staff.</p>
+        </bioghist>
+        <controlaccess>
+            <persname source="ingest">Abell, George (George Ogden), 1927-1983</persname>
+            <persname source="ingest">Aitken, Douglas Carryl</persname>
+            <corpname rules="aacr" source="naf">American Institute of Physics.</corpname>
+            <persname rules="aacr" source="naf">Atkinson, Robert d'Escourt, 1898-1982 </persname>
+            <persname rules="aacr" source="naf">Babcock, Horace W. </persname>
+            <persname source="ingest">Bondi, Hermann</persname>
+            <persname rules="aacr" source="naf">Bowyer, Stuart C.</persname>
+            <persname source="ingest">Chandler, Seth Carlo, 1846-1913</persname>
+            <persname source="ingest">Chandrasekhar, S. (Subrahmanyan), 1910-</persname>
+            <persname source="ingest">Chang, Y. C.</persname>
+            <persname source="ingest">Conklin, Nanielov Dieter</persname>
+            <persname source="ingest">Cowling, T. G. (Thomas George)</persname>
+            <persname source="ingest">Dunham, Theodore J., 1897-1984</persname>
+            <persname source="ingest">Edmonson, Frank K.,  (Frank Kelly), 1912-</persname>
+            <persname rules="aacr" source="naf">Greenstein, Jesse L.,  (Jesse Leonard), 1909-2002</persname>
+            <persname source="ingest">Hall, John</persname>
+            <persname rules="aacr" source="naf">Hayes, D. S.,  (Donald S.)</persname>
+            <persname source="ingest">Herget, Paul, 1908-</persname>
+            <persname source="ingest">Hoffleit, Dorrit</persname>
+            <persname rules="aacr" source="local">Hogg, Helen Sawyer, 1905-</persname>
+            <persname source="ingest">Hubble, Edwin Powell, 1889-1953</persname>
+            <persname source="ingest">Huffer, Charles M. (Charles Morse), 1894-</persname>
+            <persname source="ingest">Hulst, H. C. Van de (Hendrik Christoffell), 1918-</persname>
+            <persname source="ingest">Jones, Burton Wadsworth, 1902-</persname>
+            <persname source="ingest">Kharadze, Yevgeny Kirillovich</persname>
+            <persname source="ingest">King, Ivan R.</persname>
+            <persname source="ingest">Kron, Gerald E.</persname>
+            <persname source="ingest">Kron, Richard G.</persname>
+            <persname source="ingest">Leighton, Robert B.</persname>
+            <persname source="ingest">Locanthi, Dorothy Davis</persname>
+            <persname source="ingest">Massevitch, Alla Genrikhovna</persname>
+            <persname source="ingest">Mayall, N. U. (Nicholas Ulrich), 1906-</persname>
+            <persname source="ingest">McCrea, William Hunter</persname>
+            <persname source="naf">McVittie, George C.,  (George Cunliffe)</persname>
+            <persname rules="aacr" source="naf">Münch, Guido, 1921- </persname>
+            <persname source="ingest">O'Connell, D. J. K. (Daniel Joseph Kelly)</persname>
+            <persname rules="aacr" source="naf">Oort, Jan Hendrik</persname>
+            <persname rules="aacr" source="naf">Plaskett, Harry Hemley, 1893-1980</persname>
+            <persname source="naf">Rossi, Bruno Benedetto, 1905-</persname>
+            <persname rules="aacr" source="naf">Russell, Henry Norris, 1877-1957</persname>
+            <persname source="ingest">Salpeter, Edwin E.</persname>
+            <persname source="ingest">Schatzman, Evry L.</persname>
+            <persname source="ingest">Schlesinger, Frank, 1871-1943</persname>
+            <persname source="ingest">Sciama, D. W. (Dennis William), 1926-</persname>
+            <persname source="ingest">Shapiro, Bert</persname>
+            <persname source="ingest">Shapley, Harlow, 1885-1972</persname>
+            <persname source="ingest">Spinrad, Hyron, 1934-</persname>
+            <persname rules="aacr" source="local">Spitzer, Lyman, 1914-1997</persname>
+            <persname source="ingest">Struve, Otto, 1897-1963</persname>
+            <persname rules="aacr" source="naf">Swings, P.,  (Polydore), 1906-1983</persname>
+            <persname source="ingest">Tinsley, Beatrice</persname>
+            <persname rules="aacr" source="naf">Unsöld, Albrecht, 1905-1995</persname>
+            <persname source="ingest">Van Agt, Steven</persname>
+            <persname source="ingest">Vassilevskis, Stanislaus</persname>
+            <persname rules="aacr" source="local">Wesselink, Adriaan Jan, 1909-1995</persname>
+            <persname source="ingest">Young, Charles Augustus, 1834-1908</persname>
+            <subject source="lcsh">Astronomical spectroscopy.</subject>
+            <occupation source="lcsh">Astrophysicists.</occupation>
+            <subject source="lcsh">Astrophysics</subject>
+            <subject source="lcsh">Cosmology</subject>
+            <subject source="lcsh">Galaxies--Evolution</subject>
+            <genreform source="lcsh">Oral histories</genreform>
+            <subject source="lcsh">Quasars</subject>
+            <subject source="lcsh">Radio astrophysics</subject>
+            <subject source="lcsh">Stars--Evolution</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref15" level="series">
+                <did>
+                    <unittitle>Series I. Oral histories</unittitle>
+                    <physdesc>
+                        <extent>52 files</extent>
+                    </physdesc>
+                    <unitdate>1976-1979</unitdate>
+                </did>
+                <c02 id="ref16" level="file">
+                    <did>
+                        <unittitle>Abell, George. Interview conducted by Spencer Weart</unittitle>
+                        <container id="cid4076" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1977 November</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref17" level="file">
+                    <did>
+                        <unittitle>Aitken, Douglas Carryl. Interview conducted by David DeVorkin</unittitle>
+                        <container id="cid4075" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1977 July</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref18" level="file">
+                    <did>
+                        <unittitle>Babcock, Horace W., Interview conducted by Spencer Weart</unittitle>
+                        <container id="cid4074" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1977 July</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref19" level="file">
+                    <did>
+                        <unittitle>Bondi, Herman. Interview conducted by David DeVorkin</unittitle>
+                        <container id="cid4073" type="Box" label="Mixed materials">1</container>
+                    </did>
+                </c02>
+                <c02 id="ref20" level="file">
+                    <did>
+                        <unittitle>Bowyer, C. Stuart. Interview conducted by Richard Hirsch</unittitle>
+                        <container id="cid4072" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1976 July</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref21" level="file">
+                    <did>
+                        <unittitle>Chandrasekhar, Subrahmanyan. Interview conducted by Spencer Weart</unittitle>
+                        <container id="cid4071" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1977 May</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref22" level="file">
+                    <did>
+                        <unittitle>Chang, Y. C., Interview conducted by David DeVorkin</unittitle>
+                        <container id="cid4070" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1979 August</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref23" level="file">
+                    <did>
+                        <unittitle>Conklin, Nanielou Dieter. Interview conducted by David DeVorkin</unittitle>
+                        <container id="cid4069" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1977 July</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref24" level="file">
+                    <did>
+                        <unittitle>Cowling, Thomas George. Interview conducted by David DeVorkin</unittitle>
+                        <container id="cid4068" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1978 March</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref25" level="file">
+                    <did>
+                        <unittitle>Edmonson, Frank K., Interview conducted by David DeVorkin</unittitle>
+                        <container id="cid4067" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1977 April</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref26" level="file">
+                    <did>
+                        <unittitle>Edmonson, Frank K., Interview conducted by David DeVorkin</unittitle>
+                        <container id="cid4066" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1978 February</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref27" level="file">
+                    <did>
+                        <unittitle>Greenstein, Jesse. Interview conducted by Spencer Weart</unittitle>
+                        <container id="cid4065" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1977 April</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref28" level="file">
+                    <did>
+                        <unittitle>Greenstein, Jesse. Interview conducted by Spencer Weart</unittitle>
+                        <container id="cid4064" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1977 July</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref29" level="file">
+                    <did>
+                        <unittitle>Greenstein, Jesse. Interview conducted by Spencer Weart</unittitle>
+                        <container id="cid4063" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1978 May</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref30" level="file">
+                    <did>
+                        <unittitle>Hall, John. Interview conducted by David DeVorkin</unittitle>
+                        <container id="cid4062" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1979 February</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref31" level="file">
+                    <did>
+                        <unittitle>Hayes, Donald S., Interview conducted by David DeVorkin</unittitle>
+                        <container id="cid4061" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1977 November</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref32" level="file">
+                    <did>
+                        <unittitle>Herget, Paul. Interview conducted by David DeVorkin</unittitle>
+                        <container id="cid4060" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1977 April</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref33" level="file">
+                    <did>
+                        <unittitle>Hoffleit, Dorrit. Interview conducted by David DeVorkin</unittitle>
+                        <container id="cid4059" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1979 August</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref34" level="file">
+                    <did>
+                        <unittitle>Hogg, Helen Sawyer. Interview conducted by David DeVorkin</unittitle>
+                        <container id="cid4058" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1979 August</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref35" level="file">
+                    <did>
+                        <unittitle>Huffer, C. M., Interview conducted by David DeVorkin</unittitle>
+                        <container id="cid4057" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1977 July</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref36" level="file">
+                    <did>
+                        <unittitle>Hulst, Hendrik Christoffell van de. Interview conducted by David DeVorkin</unittitle>
+                        <container id="cid4056" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1978 July</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref37" level="file">
+                    <did>
+                        <unittitle>Jones, Burton. Interview conducted by David DeVorkin</unittitle>
+                        <container id="cid4055" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1977 July</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref38" level="file">
+                    <did>
+                        <unittitle>Kharadze, Yevgeny Kirillovich. Interview conducted by David DeVorkin</unittitle>
+                        <container id="cid4054" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1979 August</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref39" level="file">
+                    <did>
+                        <unittitle>King, Ivan. Interview conducted by David DeVorkin</unittitle>
+                        <container id="cid4053" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1977 July</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref40" level="file">
+                    <did>
+                        <unittitle>King, Ivan. Interview conducted by David DeVorkin</unittitle>
+                        <container id="cid4052" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1978 July</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref41" level="file">
+                    <did>
+                        <unittitle>Kron, Gerald. Interview conducted by David DeVorkin</unittitle>
+                        <container id="cid4051" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1979 May</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref42" level="file">
+                    <did>
+                        <unittitle>Kron, Richard. Interview conducted by David DeVorkin</unittitle>
+                        <container id="cid4050" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1977 July</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref43" level="file">
+                    <did>
+                        <unittitle>Leighton, R. B., Interview conducted by David DeVorkin</unittitle>
+                        <container id="cid4049" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1977 July</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref44" level="file">
+                    <did>
+                        <unittitle>Locanthi, Dorothy Davis. Interview conducted by David DeVorkin</unittitle>
+                        <container id="cid4048" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1977 August</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref45" level="file">
+                    <did>
+                        <unittitle>Masevitch, Alla Genrikhovna. Interview conducted by Spencer Weart</unittitle>
+                        <container id="cid4047" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1976 September</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref46" level="file">
+                    <did>
+                        <unittitle>Mayall, Nicholas U., Interview conducted by Bert Shapiro</unittitle>
+                        <container id="cid4046" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1976 June</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref47" level="file">
+                    <did>
+                        <unittitle>Mayall, Nicholas U., Interview conducted by Norris Heatherington</unittitle>
+                        <container id="cid4045" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1977 February</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref48" level="file">
+                    <did>
+                        <unittitle>McCrea, William Hunter. Interview conducted by Robert Smith</unittitle>
+                        <container id="cid4044" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1978 September</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref49" level="file">
+                    <did>
+                        <unittitle>McVittie, George Cunliffe. Interview conducted by David DeVorkin</unittitle>
+                        <container id="cid4043" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1978 March</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref50" level="file">
+                    <did>
+                        <unittitle>Munch, Guido. Interview conducted by David DeVorkin</unittitle>
+                        <container id="cid4042" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1977 July</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref51" level="file">
+                    <did>
+                        <unittitle>O'Connell, Daniel Joseph Kelly. Interview conducted by Spencer Weart</unittitle>
+                        <container id="cid4041" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1976 August</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref52" level="file">
+                    <did>
+                        <unittitle>Oort, Jan H., Interview conducted by David DeVorkin</unittitle>
+                        <container id="cid4040" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1977 November</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref53" level="file">
+                    <did>
+                        <unittitle>Plaskett, Harry Hemley. Interview conducted by David DeVorkin</unittitle>
+                        <container id="cid4039" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1978 March</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref54" level="file">
+                    <did>
+                        <unittitle>Rossi, Bruno. Interview conducted by Richard Hirsch</unittitle>
+                        <container id="cid4038" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1976 July</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref55" level="file">
+                    <did>
+                        <unittitle>Russell, Henry Norris, Jr., Interview conducted by David DeVorkin</unittitle>
+                        <container id="cid4037" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1977 November</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref56" level="file">
+                    <did>
+                        <unittitle>Salpeter, Edwin E., Interview conducted by Spencer Weart</unittitle>
+                        <container id="cid4036" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1978 March</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref57" level="file">
+                    <did>
+                        <unittitle>Schatzman, Evry. Interview conducted by Spencer Weart</unittitle>
+                        <container id="cid4035" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1979 August</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref58" level="file">
+                    <did>
+                        <unittitle>Sciama, Dennis. Interview conducted by Spencer Weart</unittitle>
+                        <container id="cid4034" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1978 March</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref59" level="file">
+                    <did>
+                        <unittitle>Shapiro, Bert. Interview</unittitle>
+                        <container id="cid4033" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1977 July</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref60" level="file">
+                    <did>
+                        <unittitle>Spinrad, Hyron. Interview conducted by David DeVorkin</unittitle>
+                        <container id="cid4032" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1977 July</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref61" level="file">
+                    <did>
+                        <unittitle>Spitzer, Lyman. Interview conducted by Joan Brumberg</unittitle>
+                        <container id="cid4031" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1978 May</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref62" level="file">
+                    <did>
+                        <unittitle>Tinsley, Beatrice. Interview conducted by David DeVorkin</unittitle>
+                        <container id="cid4030" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1977 June</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref63" level="file">
+                    <did>
+                        <unittitle>Unsold, Albrecht. Interview conducted by Owen Gingerich</unittitle>
+                        <container id="cid4029" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1978 June</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref64" level="file">
+                    <did>
+                        <unittitle>Van Agt, Steven. Interview conducted by David DeVorkin</unittitle>
+                        <container id="cid4028" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1977 November</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref65" level="file">
+                    <did>
+                        <unittitle>Vassilevskis, Stanislaus. Interview conducted by David DeVorkin</unittitle>
+                        <container id="cid4027" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1977 July</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref66" level="file">
+                    <did>
+                        <unittitle>Wesselink, A. J. Interview conducted by David DeVorkin</unittitle>
+                        <container id="cid4026" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1977 September</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref67" level="file">
+                    <did>
+                        <unittitle>Wesselink, A. J. Interview conducted by David DeVorkin</unittitle>
+                        <container id="cid4025" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1978 June</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref68" level="series">
+                <did>
+                    <unittitle>Series II. Microfilms</unittitle>
+                    <physdesc>
+                        <extent>67 reels</extent>
+                    </physdesc>
+                    <unitdate>1849-1979</unitdate>
+                </did>
+                <c02 id="ref69" level="item">
+                    <did>
+                        <unittitle>Papers</unittitle>
+                        <container id="cid4024" type="Reel" label="Mixed materials">1</container>
+                        <physdesc>
+                            <extent>1 reel</extent>
+                        </physdesc>
+                        <unitdate>1927-1955</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Atkinson, Robert d'Escourt, 1898-1982 </persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref70" level="item">
+                    <did>
+                        <unittitle>Papers</unittitle>
+                        <container id="cid4023" type="Reel" label="Mixed materials">2</container>
+                        <physdesc>
+                            <extent>1 reel</extent>
+                        </physdesc>
+                        <unitdate>1861-1914</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Chandler, Seth Carlo, 1846-1913</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref72">
+                        <head>Existence and Location of Originals note</head>
+                        <p>Microfilmed from originals in possession of the family.</p>
+                    </originalsloc>
+                </c02>
+                <c02 id="ref73" level="item">
+                    <did>
+                        <unittitle>Papers</unittitle>
+                        <container id="cid4022" type="Reel" label="Mixed materials">3-5</container>
+                        <physdesc>
+                            <extent>3 reels</extent>
+                        </physdesc>
+                        <unitdate>1921-1979</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Dunham, Theodore J., 1897-1984</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref75">
+                        <head>Existence and Location of Originals note</head>
+                        <p>Originals at APS (Ms. Coll. 40).</p>
+                    </originalsloc>
+                </c02>
+                <c02 id="ref76" level="item">
+                    <did>
+                        <unittitle>Papers</unittitle>
+                        <container id="cid4021" type="Reel" label="Mixed materials">6</container>
+                        <physdesc>
+                            <extent>1 reel</extent>
+                        </physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Edmonson, Frank K.,  (Frank Kelly), 1912-</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref77" level="item">
+                    <did>
+                        <unittitle>Papers</unittitle>
+                        <container id="cid4020" type="Reel" label="Mixed materials">7</container>
+                        <physdesc>
+                            <extent>1 reel</extent>
+                        </physdesc>
+                        <unitdate>1900-1960</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Hubble, Edwin Powell, 1889-1953</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref79">
+                        <head>Existence and Location of Originals note</head>
+                        <p>Originals at Huntington Library, San Marino, Calif.</p>
+                    </originalsloc>
+                </c02>
+                <c02 id="ref80" level="item">
+                    <did>
+                        <unittitle>Papers</unittitle>
+                        <container id="cid4019" type="Reel" label="Mixed materials">8</container>
+                        <physdesc>
+                            <extent>1 reel</extent>
+                        </physdesc>
+                        <unitdate>1926-1975</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">McVittie, George C.,  (George Cunliffe)</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref82">
+                        <head>Existence and Location of Originals note</head>
+                        <p>Originals at University of Illinois Archives.</p>
+                    </originalsloc>
+                </c02>
+                <c02 id="ref83" level="item">
+                    <did>
+                        <unittitle>Papers</unittitle>
+                        <container id="cid4018" type="Reel" label="Mixed materials">9</container>
+                        <physdesc>
+                            <extent>1 reel</extent>
+                        </physdesc>
+                        <unitdate>1927-1956</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Oort, Jan Hendrik</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref85">
+                        <head>Existence and Location of Originals note</head>
+                        <p>Originals at Leiden University, Netherlands.</p>
+                    </originalsloc>
+                </c02>
+                <c02 id="ref86" level="item">
+                    <did>
+                        <unittitle>Papers</unittitle>
+                        <container id="cid4017" type="Reel" label="Mixed materials">10-40</container>
+                        <physdesc>
+                            <extent>31 reels</extent>
+                        </physdesc>
+                        <unitdate>1905-1941</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Schlesinger, Frank, 1871-1943</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref88">
+                        <head>Existence and Location of Originals note</head>
+                        <p>Originals at University of Pittsburgh and Yale University</p>
+                    </originalsloc>
+                </c02>
+                <c02 id="ref89" level="item">
+                    <did>
+                        <unittitle>Papers</unittitle>
+                        <container id="cid4016" type="Reel" label="Mixed materials">41-43</container>
+                        <physdesc>
+                            <extent>3 reels</extent>
+                        </physdesc>
+                        <unitdate>1910-1923</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Shapley, Harlow, 1885-1972</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref91">
+                        <head>Existence and Location of Originals note</head>
+                        <p>Originals at Harvard University Archives.</p>
+                    </originalsloc>
+                </c02>
+                <c02 id="ref92" level="item">
+                    <did>
+                        <unittitle>Papers</unittitle>
+                        <container id="cid4015" type="Reel" label="Mixed materials">44-59</container>
+                        <physdesc>
+                            <extent>16 reels</extent>
+                        </physdesc>
+                        <unitdate>1932-1945</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Struve, Otto</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref94">
+                        <head>Existence and Location of Originals note</head>
+                        <p>Originals in Yerkes Observatory Archives, University of Chicago</p>
+                    </originalsloc>
+                </c02>
+                <c02 id="ref95" level="item">
+                    <did>
+                        <unittitle>Correspondence with Otto Struve</unittitle>
+                        <container id="cid4014" type="Reel" label="Mixed materials">60-62</container>
+                        <physdesc>
+                            <extent>3 reels</extent>
+                        </physdesc>
+                        <unitdate>1932-1963</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Swings, P.,  (Polydore), 1906-1983</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref97">
+                        <head>Existence and Location of Originals note</head>
+                        <p>Originals in possession of the family at the time of filming.</p>
+                    </originalsloc>
+                </c02>
+                <c02 id="ref98" level="item">
+                    <did>
+                        <unittitle>Papers</unittitle>
+                        <container id="cid4013" type="Reel" label="Mixed materials">63-65</container>
+                        <physdesc>
+                            <extent>3 reels</extent>
+                        </physdesc>
+                        <unitdate>1849-1908</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Young, Charles A.</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref100">
+                        <head>Existence and Location of Originals note</head>
+                        <p>Originals at Dartmouth College Archives.</p>
+                    </originalsloc>
+                </c02>
+                <c02 id="ref101" level="item">
+                    <did>
+                        <unittitle>Oral history transcripts: Abel-King</unittitle>
+                        <container id="cid4012" type="Reel" label="Mixed materials">66</container>
+                        <physdesc>
+                            <extent>1 reel</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="ref102" level="item">
+                    <did>
+                        <unittitle>Oral history transcripts: Kron-Wood</unittitle>
+                        <container id="cid4011" type="Reel" label="Mixed materials">67</container>
+                        <physdesc>
+                            <extent>1 reel</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

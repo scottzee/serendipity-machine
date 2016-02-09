@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.Sm98-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.Sm98</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T20:01-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>W. H. (William Henry) Smyth correspondence, 1820-1864</unittitle>
+            <unitid>Mss.B.Sm98</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1614" type="Box" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>0.25 Linear feet</extent>
+                <extent>123 items</extent>
+            </physdesc>
+            <unitdate normal="1820/1864" type="inclusive">1820-1864</unitdate>
+            <abstract id="ref1" label="Abstract">This is a miscellaneous collection of letters, almost all written to Smyth by prominent scientists. The topics discussed include astronomy, microscopes, nautical almanacs, and submarine excursions. Also of interest is a letter from Thomas Graves, reporting what the Beagle (Charles Darwin's voyage) was encountering in South American waters.</abstract>
+            <physdesc id="ref8" label="General Physical Description note">123 items.</physdesc>
+            <physloc id="ref10" label="Paging">LH-MV-B-1</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Smyth, W. H.,  (William Henry), 1788-1865</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref7">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Purchased from Sotheby &amp; Co. and accessioned, 1966 (1966 1592ms). 36 letters purchased from John Wilson (L1250), Oxford, Eng., and accessioned, 1988 (1988 396ms). See in-house shelf list for additional accession numbers and information.</p>
+            <p></p>
+            <p></p>
+        </acqinfo>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>William Henry Smyth was a British admiral and scientific writer.</p>
+        </bioghist>
+        <odd id="ref9">
+            <head>Naval History Note</head>
+            <p>Naval historians may be interested in correspondence relating to nautical almanacs and submarine expeditions, and in Thomas Graves' account of the voyage of HMS Beagle.</p>
+        </odd>
+        <odd id="ref11">
+            <head>Early American History Note</head>
+            <p>This manuscript collection falls outside the geographic scope of the Early American guide (British North America and the United States before 1840). It may be of interest to scholars interested in global history, international relations, imperialism, or the U.S. in the world.</p>
+        </odd>
+        <controlaccess>
+            <persname rules="aacr" source="naf">Airy, George Biddell, Sir, 1801-1892</persname>
+            <persname rules="aacr" source="naf">Arnold, Thomas, 1795-1842</persname>
+            <persname rules="aacr" source="naf">Beaufort, Francis, Sir, 1774-1857</persname>
+            <persname rules="aacr" source="naf">Buckland, William, 1784-1856</persname>
+            <persname rules="aacr" source="naf">Darwin, Charles, 1809-1882</persname>
+            <persname rules="aacr" source="naf">Dawes, William, 1762-1836</persname>
+            <persname rules="aacr" source="naf">Dollond, George, 1774-1852</persname>
+            <persname rules="aacr" source="naf">Everett, Edward, 1794-1865</persname>
+            <famname source="ingest">Graves, Thomas.</famname>
+            <persname rules="aacr" source="naf">Grove, W. R.,  (William Robert), 1811-1896</persname>
+            <corpname source="ingest">Hartwell Observatory.</corpname>
+            <persname rules="aacr" source="naf">Henderson, Thomas, 1798-1844</persname>
+            <persname source="ingest">Henslow, J. S. (John Stevens), 1796-1861</persname>
+            <persname source="naf">Herschel, John F. W., Sir,  (John Frederick William), 1792-1871</persname>
+            <persname rules="aacr" source="naf">Hopkins, William, 1793-1866</persname>
+            <persname rules="aacr" source="naf">Kater, Henry, 1777-1835</persname>
+            <persname source="ingest">Lassell, William, 1799-1880</persname>
+            <persname source="naf">Lubbock, John, Sir, 1834-1913</persname>
+            <persname rules="aacr" source="naf">Maclear, Thomas, 1794-1879</persname>
+            <persname rules="aacr" source="naf">Murchison, Roderick Impey, Sir, 1792-1871</persname>
+            <persname rules="aacr" source="local">Petermann, A.,  (August Heinrich), 1822-1878</persname>
+            <corpname source="naf">Royal Astronomical Society..</corpname>
+            <corpname source="ingest">Royal Observatory, Greenwich.</corpname>
+            <corpname source="naf">Royal Society (Great Britain).</corpname>
+            <persname rules="aacr" source="naf">Sheepshanks, R.,  (Richard), 1794-1855</persname>
+            <famname source="ingest">Smyth, Annarella Warington</famname>
+            <persname rules="aacr" source="naf">Smyth, Warington Wilkinson, Sir, 1817-1890</persname>
+            <persname rules="aacr" source="naf">Somerville, Mary, 1780-1872</persname>
+            <persname rules="aacr" source="naf">Tindal, Nicholas Conyngham, Sir, 1776-1846</persname>
+            <persname source="ingest">Vulliamy, Benjamin Lewis, 1780-1854</persname>
+            <persname rules="aacr" source="naf">Zach, Franz Xaver, Freiherr von, 1754-1832 </persname>
+            <genreform source="lcsh">Almanacs.</genreform>
+            <subject source="lcsh">Astronomical instruments.</subject>
+            <subject source="lcsh">Astronomy.</subject>
+            <subject source="leah">Beyond Early America</subject>
+            <subject source="lcsh">Microscopy.</subject>
+            <subject source="lcsh">Nautical almanacs.</subject>
+            <subject source="lcsh">Submarines (Ships)</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Film.301-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Film.301</num>
+                </titleproper>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T20:14-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Thomas Jefferson, Catalogue of Library</unittitle>
+            <unitid>Mss.Film.301</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid13328001" type="Reel" label="Microform">1</container>
+            <physdesc>
+                <extent>1.0 Microfilm reel(s)</extent>
+            </physdesc>
+            <unitdate>undated</unitdate>
+            <physdesc id="ref1" label="General Physical Description note">Microfilm of A.D. 135 frames (2p. to a frame)</physdesc>
+            <physloc id="ref4" label="Paging">LH-RR-Media Rm-2</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf">Jefferson, Thomas, 1743-1826</persname>
+            </origination>
+        </did>
+        <originalsloc id="ref2">
+            <head>Existence and Location of Originals note</head>
+            <p>Original in Coolidge collection, Massachusetts Historical Society.</p>
+        </originalsloc>
+        <acqinfo id="ref3">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by Mrs. Fiske Kimball, 1946.</p>
+        </acqinfo>
+        <dsc/>
+    </archdesc>
+</ead>

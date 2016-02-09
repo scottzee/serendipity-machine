@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.973.3.P43-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.973.3.P43</num>
+                </titleproper>
+                <author>Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:26-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="item">
+        <did>
+            <unittitle>Perth Amboy (N.J.). Council of War</unittitle>
+            <unitid>Mss.973.3.P43</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid120341" type="Volume" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>1.0 Volume(s)</extent>
+            </physdesc>
+            <unitdate normal="1776/1776">1776</unitdate>
+            <abstract id="ref1" label="Abstract">Manuscript record of a council of war held at Perth Amboy, September 17, 1776. Contains also, manuscript letters concerning the Council of war.</abstract>
+            <physdesc id="ref2" label="General Physical Description note">1 volume.</physdesc>
+            <physloc id="ref4" label="Paging">LH-MV-E-13</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="local" role="Author (aut)">Mead, S. B.</persname>
+            </origination>
+        </did>
+        <odd id="ref3">
+            <head>Early American History Note</head>
+            <p>This bound volume contains a series of documents relating to a Council of War held at Perth Amboy on September 17, 1776 in the midst of the War for Independence. During the Council, Hugh Mercer, serving as President of the Council, recommended an attack on Staten Island. Some of the documents date to the nineteenth century and involve the conveyance of the material to the APS from Hugh Mercer Jr.</p>
+        </odd>
+        <controlaccess>
+            <subject source="leah">American Revolution</subject>
+            <subject source="leah">Military History</subject>
+            <genreform source="leah">Military Records</genreform>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

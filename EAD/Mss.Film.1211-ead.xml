@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Film.1211-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Film.1211</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T20:12-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="item">
+        <did>
+            <unittitle>Filippo Mazzei letterbook, 1788-1792</unittitle>
+            <unitid>Mss.Film.1211</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1729" type="Reel" label="Microform">1-2</container>
+            <physdesc>
+                <extent>2.0 Linear feet</extent>
+            </physdesc>
+            <unitdate normal="1788/1792" type="inclusive">1788-1792</unitdate>
+            <physdesc id="ref10" label="General Physical Description note">2 microfilm reels.</physdesc>
+            <abstract id="ref1" label="Abstract">This letterbook, kept principally in Paris, includes a diary of events, drafts and copies of some of his writings, and correspondence with selected Virginians, such as John Blair, John Banister, Jr., and John Page.</abstract>
+            <physloc id="ref12" label="Paging">LH-RR-Media Rm-4</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Mazzei, Filippo,1730-1816.</persname>
+            </origination>
+        </did>
+        <odd id="ref11">
+            <head>Early American History Note</head>
+            <p>This is a microfilm of an early American collection that may be of interest to researchers at the APS and may complement an original manuscript collection at the APS.</p>
+        </odd>
+        <acqinfo id="ref9">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Purchased from Biblioteca Nazionale Centrale, Florence, Italy, and accessioned, 1965 (1965 1381mf).</p>
+            <p></p>
+        </acqinfo>
+        <userestrict id="ref7">
+            <head>Conditions Governing Use note</head>
+            <p>Permission must be obtained from the Direzione of the Biblioteca Nazionale Centrale of Florence, Italy, for reproduction.</p>
+        </userestrict>
+        <bioghist id="ref5">
+            <head>Biographical/Historical note</head>
+            <p>Filippo Mazzei was a Florentine diplomatic agent and author.</p>
+        </bioghist>
+        <originalsloc id="ref3">
+            <head>Existence and Location of Originals note</head>
+            <p>Originals in Biblioteca Nazionale Centrale, Florence,</p>
+        </originalsloc>
+        <controlaccess>
+            <persname rules="aacr" source="local">Banister, John, Jr.</persname>
+            <persname source="ingest">Blair, John</persname>
+            <persname source="ingest">Page, John, 1744-1808</persname>
+            <genreform source="lcsh">Letterbooks.</genreform>
+            <geogname source="lcsh">Paris (France) -- Social life and customs.</geogname>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

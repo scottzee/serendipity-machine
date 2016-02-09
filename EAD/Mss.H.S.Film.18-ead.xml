@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.H.S.Film.18-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.H.S.Film.18</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T20:16-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Sir Hans Sloane correspondence, ca. 1647-1743</unittitle>
+            <unitid>Mss.H.S.Film.18</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1931" type="Reel" label="Microform">1-16</container>
+            <physdesc>
+                <extent>16.0 Film reel(s)</extent>
+            </physdesc>
+            <unitdate normal="1647/1743" type="inclusive">Circa 1647-1743</unitdate>
+            <physdesc id="ref10" label="General Physical Description note">16 film reels.</physdesc>
+            <abstract id="ref1" label="Abstract">These are the Sloane manuscripts 4036-4069, comprised principally of letters to Sloane from scholars, physicians, naturalists, and collectors in Great Britain, Europe, and America.</abstract>
+            <physloc id="ref12" label="Paging">LH-RR-Media Rm-7</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Sloane, Hans, Sir, 1660-1753</persname>
+            </origination>
+        </did>
+        <odd id="ref11">
+            <head>Early American History Note</head>
+            <p>This is a microfilm of an early American collection that may be of interest to researchers at the APS and may complement an original manuscript collection at the APS.</p>
+        </odd>
+        <acqinfo id="ref9">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Received from British Museum and accessioned, 1966 (1966 633mf).</p>
+            <p></p>
+        </acqinfo>
+        <odd id="ref7">
+            <head>General note</head>
+            <p>There is a guide to the manuscripts on this microfilm on reel 1.</p>
+        </odd>
+        <bioghist id="ref5">
+            <head>Biographical/Historical note</head>
+            <p>Hans Sloane was a physician, naturalist, and founder of the British Museum.</p>
+        </bioghist>
+        <originalsloc id="ref3">
+            <head>Existence and Location of Originals note</head>
+            <p>Originals in British Museum.</p>
+        </originalsloc>
+        <controlaccess>
+            <genreform source="leah">Microfilm Collection</genreform>
+            <subject source="lcsh">Natural history.</subject>
+            <subject source="lcsh">Science.</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

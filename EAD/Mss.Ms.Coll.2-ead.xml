@@ -1,0 +1,1577 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Ms.Coll.2-ead.xml">batesonfam.xml</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Bateson Family Papers
+                    <date type="span">1829-1940</date>
+                    <num>Mss.Ms.Coll.2</num>
+                </titleproper>
+                <author>Finding aid prepared by rsc</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+                <date>2003</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T20:32-0400</date>
+            </creation>
+            <langusage>ENG</langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Bateson Family Papers</unittitle>
+            <unitid>Mss.Ms.Coll.2</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>2.0 Linear feet</extent>
+            </physdesc>
+            <unitdate normal="1829/1940" type="inclusive">1829-1940</unitdate>
+            <abstract id="ref1" label="Abstract">One of the principle figures of turn of the century anti-Darwinian evolutionism, William Bateson (1861-1926) was a professor at Cambridge University for 23 years before leaving to become first director of the John Innes Horticultural Institute (1910-1926). Developing a unique "vibratory theory" of organismal variability during the 1890s that envisioned evolutionary change as a discontinuous process, Bateson became well known as the first English advocate of the recently rediscovered theories of Gregor Mendel. 
+                <lb/>For a man inclined to drama and disputation in science, it was Bateson's family life that took on the airs of Greek tragedy. The two linear feet of correspondence, diaries, and photographs that comprise the Bateson Family Papers provide valuable insight into the social milieu of the Batesons and their decidedly unorthodox upper middle class academic life, as well as their responses to the tragic deaths of two of their sons.</abstract>
+            <physloc id="ref175" label="Paging">LH-B-34-4</physloc>
+            <origination label="creator">
+                <famname source="ingest" role="Author (aut)">Bateson family</famname>
+            </origination>
+        </did>
+        <bibliography id="ref18">
+            <head>Bibliography</head>
+            <p>The Printed Materials Department contains most of William Bateson's major publication, including:See also:
+                <bibref>Lipset, David, 
+                    <title render="italic">Gregory Bateson: The Legacy of a Scientist</title> (Englewood Cliffs, N.J., 1980). 
+                    <emph render="bold">Call no.</emph> B B317l.</bibref></p>
+        </bibliography>
+        <odd id="ref174">
+            <head>Genetics Note</head>
+            <p>This collection contains materials which relate to the history of genetics.</p>
+            <p>
+                <table>
+                    <tgroup cols="3">
+                        <colspec colwidth="30%" colname="1"/>
+                        <colspec colname="2"/>
+                        <colspec colname="3"/>
+                        <thead>
+                            <row>
+                                <entry colname="1">Author</entry>
+                                <entry colname="2">Format</entry>
+                                <entry colname="3">Date</entry>
+                            </row>
+                        </thead>
+                        <tbody>
+                            <row>
+                                <entry valign="top" align="left">Bateson family</entry>
+                                <entry valign="top" align="left">Manuscripts (2 linear feet)</entry>
+                                <entry valign="top" align="left">1829-1940</entry>
+                            </row>
+                        </tbody>
+                    </tgroup>
+                </table></p>
+        </odd>
+        <altformavail id="ref17">
+            <head>Existence and Location of Copies note</head>
+            <p>The collection has been microfilmed on three reels (Film 1425).</p>
+        </altformavail>
+        <processinfo id="ref15">
+            <head>Processing Information note</head>
+            <p>Recatalogued by rsc, 2003.</p>
+        </processinfo>
+        <acqinfo id="ref13">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Deposited by Gregory Bateson, through Mary Catharine Bateson and David Lipset, September 1980.</p>
+        </acqinfo>
+        <prefercite id="ref11">
+            <head>Preferred Citation note</head>
+            <p>Cite as: Bateson Family Papers, American Philosophical Society.</p>
+        </prefercite>
+        <relatedmaterial id="ref9">
+            <head>Related Archival Materials note</head>
+            <p>The largest collections of the papers of William Bateson are housed in the archives of the John Innes Institute and in the University Library, Cambridge University. The Innes collections were described in 
+                <title render="italic">Mendel Newsletter</title> 25 (1985).</p>
+            <p>The APS Library has six reels of microfilm (
+                <extref ns2:href="http://www.amphilsoc.org/mole/view?docId=ead/Mss.H.S.Film.26-ead.xml">William Bateson papers, HS Film 26</extref>) containing material selected and microfilmed by William Coleman in 1964 (now at Cambridge), including correspondence from Bateson to his wife, Beatrice, and colleagues such as Francis Galton, E. Roy Lankester, Alfred Newton, and Charles Scott Sherrington; lectures given between 1897-1904; and some genealogical and miscellaneous material. Personal letters relate Bateson's observations and reflections during his trips to the United States to lecture at universities (1907, 1921-1922), and to Siberia (1887). Other correspondence discusses such topics as cytology, eugenics, evolution, marine biology, and variation.</p>
+            <p>The 
+                <extref ns2:href="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.B319-ead.xml">William Bateson Collection (B B319)</extref> at the APS includes photocopies of Bateson's correspondence with Leonard Doncaster and Erwin Baur (1902-1921) on genetics and cytology.</p>
+        </relatedmaterial>
+        <scopecontent id="ref5">
+            <head>Scope and Contents note</head>
+            <p>For a man inclined to drama and disputation in science, it was the family life of the geneticist William Bateson that took on the airs of Greek tragedy. Concentrated in the period 1900-1922, the two linear feet of correspondence, diaries, and photographs that comprise the Bateson Family Papers provide valuable insight into the social milieu of the Batesons and their decidedly unorthodox upper middle class academic life, as well as their responses to the tragic deaths of two of their sons.</p>
+            <p>Although the collection includes a small amount of genealogical material and a few letters from William's father, William Henry Bateson, and from his sister Mary (an historian), the heart of the collection consists of the letters from the three Bateson boys, John, Martin, and Gregory. Written from boarding school, college, and the military service, the letters are as literate and quirky as the family, filled with accounts of the boys' experiences at school, their thoughts on the war, their personal investigations in botany, zoology, and entomology, and the usual dose of parental advice and concern. Undeniably, though, it is the untimely deaths of John Bateson in the First World War and Martin to suicide that leave the most profound mark on the correspondence.</p>
+        </scopecontent>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>One of the principle figures of turn of the century anti-Darwinian evolutionism, and an early and ardent advocate of Mendelian genetics, William Bateson (1861-1926) was professor at Cambridge University and the John Innes Horticultural Institute. The second of six children born to Anna Aikin and William Henry Bateson, William was raised in an unorthodox and intellectually challenging environment. Like his father, the reformist master of St. Johns College at Cambridge University, the children developed academic tendencies, and each of the Bateson children inherited their parents' habits of independent thought matched with a headstrong and disputatious nature.</p>
+            <p>As a boy, William harbored an interest in natural history quickened by an early exposure to the new theories of Charles Darwin. Although he met with little encouragement at Rugby School, where his academic performance veered from indifferent to unprofitable, William's matriculation at Saint Johns in 1879 provided a wealth of new opportunities. Under the influence of the embryologist Francis Maitland Balfour, Bateson excelled in zoology, and as a postgraduate, he spent two years in the United States studying the embryology and phylogeny of an obscure "worm," 
+                <emph render="italic">Balanoglossus</emph>. The choice of projects was propitious. In a painstaking analysis, Bateson identified a host of ontogenetic and anatomical affinities between 
+                <emph render="italic">Balanoglossus</emph> and vertebrates, instantaneously rewriting the evolutionary history of the class and gaining a measure of recognition sufficient to earn him election as a fellow at St. Johns in 1885.</p>
+            <p>After two years of scientific travel in the Russian Steppes and Egypt, Bateson returned to Cambridge in 1887 to absorb himself in the central problems of Darwinian theory: the nature of variation and the mechanism of heredity. For much of a decade, he accumulated data on variation in natural populations, and by the early 1890s, he had begun to situate himself with the ranks of anti-Darwinian evolutionists, emphasizing the discontinuities between species rather than the continuities predicted by Darwinian orthodoxy. Variation, Bateson suggested, could be expressed as a rhythmic or "vibratory" phenomenon analogous to natural phenomena such as ripples, zebra stripes, or morphological segmentation, clearly bounded by natural breaks, with the implication that the evolutionary process was radically different than the gradual incrementalism espoused by Darwin. Bateson's most thorough statement of his evolutionary theories at the time, 
+                <title render="italic">Materials for the Study of Evolution</title> (1894), was typically exhaustive and forcefully argued, and while it won few converts to either the vibratory theory or discontinuity, it established its author as one the leading anti-Darwinians of the period. Self-confident, intemperate, skeptical, and highly critical of work that he considered shoddy, Bateson was unphased by the lack of response, and continued to toil away at his underpaid position in Cambridge. Moving increasing into experimental studies of evolution, by 1899 he was offering undergraduate courses on "the practical study of evolution."</p>
+            <p>The last year of the nineteenth century was a watershed in Bateson's career. In April 1900, the Dutch biologist Hugo de Vries sent a copy of an overlooked article that he had recently rediscovered in the 
+                <title render="italic">Proceedings of the Natural History Society of Brunn</title> for 1866. Written by the Bohemian monk Gregor Mendel, the paper outlined a theory of heredity that Bateson immediately grasped could provide a means to account for the discontinuities in organismal variation. In typically pugnacious style, Bateson took up the Mendelian cause against the Galtonians associated with the journal 
+                <title render="italic">Biometrika</title> and, much later, he continued its defense against the chromosomal theory of heredity advocated by the T. H. Morgan group at Columbia. At the annual meeting of the British Association in 1904, Bateson's ringing defense of Mendel was an important moment in turning aside the biometricians, and his books 
+                <title render="italic">Mendel's Principles of Heredity: A Defence</title> (1902) and 
+                <title render="italic">Mendel's Principles of Heredity</title> (1909) were widely read and enormously influential. At Cambridge, he attracted a core of young biologists to his laboratory and left his mark on the field as well by coining much of the terminology associated with modern Mendelian genetics, from allele and zygote to the term genetics itself.</p>
+            <p>Although his efforts were rewarded with an appointment to a new chair in biology in 1909, Bateson tired of the low pay at Cambridge and departed in 1910 to become the first director of the John Innes Horticultural Institution in Merton, Surrey. Presented with a blank slate, he built the Innes into a formidable center for the study of plant breeding and genetics, devoting his own research time to investigating exceptions to Mendel's laws. He was awarded the Darwin Medal in 1904 and the Royal Medal in 1920, was elected as president of the British Association in 1924, and was Fullerian Professor of Physiology at the Royal Institution. After a brief illness, he died at his home in Merton on February 8, 1926.</p>
+            <p>Sadly, the mix of turmoil and success in Bateson's professional life was tinged by family grief. His marriage to Caroline Beatrice Durham in 1896 was felicitous. The daughter of the senior surgeon at Guy's Hospital in London, Beatrice and her sisters were excellent intellectual matches for the Batesons (Florence Durham became a renowned geneticist in her own right), and Beatrice not only assisted William with his work, but during his days at Cambridge, she added much needed income for the family.</p>
+            <p>During the first seven years of their marriage, William and Beatrice had three sons, John, Martin, and Gregory -- the last named after Mendel -- each of whom displayed the family traits of intellectual promise and a headstrong disposition. As they grew, the boys were steeped in the study of natural history, and although they experienced some of the same distaste for the religion and conservatism of boarding school life that their father had, they excelled in the classroom. John and Martin were particularly close and in many respects, their lives ran a parallel course to tragedy. In 1916, John earned the school prize in biology at Charterhouse and in the same year, Martin earned a prize in chemistry at Rugby. Similarly, when John graduated from school in 1916, he was commissioned as a Second Lieutenant in the artillery, while Martin followed suit in 1917, enlisting in the Royal Air Force despite his (and his father's) principled opposition to the war.</p>
+            <p>The brothers, however, had very different experiences in military service. Having joined late in the war, Martin never went further afield than Grantham Air Force Base near Yarmouth, where he was trained in photographic reconnaissance, while John was shipped to active service in the trenches in France in the spring of 1917. His regiment was engaged on numerous occasions into November of that year, when John was wounded in the hand, earning a Military Cross for heroism in battle. Following a long recuperation of seven months, he rejoined his brigade in July 1918 and took part in the final campaigns of the war. On October 14, 1918, less than a month before the armistice, John was killed in action.</p>
+            <p>The shock of John's death drove a wedge between Martin and his father that was never fully repaired, and the already sardonic Martin seems never to have regained his equilibrium. After demobilization in 1919, he entered St. John's College to pursue the family science, but while he took first class honors in 1921, he took little pleasure in science and was unfocussed in his studies. Much to the disapproval of his father, his wish seems instead to have been to embark upon a literary career, writing poetry (as he had since his days at Rugby) or plays. It was while writing a play during the winter of 1921-22 that Martin developed a strong but unrequited attachment to a young woman, Grace Wilson. Martin's persistent advances, and his play, were equally persistently rebuffed by Wilson, and on at least one occasion, Martin threatened suicide. On what would have been his brother John's twenty-fourth birthday, April 22, 1922, Martin made good on his threat and shot himself in the head while standing in the middle of Picadilly Circus.</p>
+        </bioghist>
+        <controlaccess>
+            <persname source="naf">Bateson , Beatrice</persname>
+            <persname source="ingest">Bateson, Anna Aikin, 1829-1918</persname>
+            <persname source="naf">Bateson, Gregory, 1904-1980</persname>
+            <persname source="naf">Bateson, John, 1898-1918</persname>
+            <persname source="ingest">Bateson, Martin, 1899-1922</persname>
+            <persname rules="aacr" source="local">Bateson, William Henry, 1812-1881</persname>
+            <persname source="ingest">Bateson, William, 1861-1926</persname>
+            <corpname source="ingest">Cambridge University</corpname>
+            <corpname source="ingest">Charterhouse School, Godalming, England</corpname>
+            <persname source="ingest">Durham, Florence</persname>
+            <persname source="naf">Herschel, John F. W., Sir,  (John Frederick William), 1792-1871</persname>
+            <corpname source="ingest">Rugby School</corpname>
+            <subject source="ingest">Genetics--Great Britain</subject>
+            <subject source="ingest">Lepidoptera--Great Britain</subject>
+            <subject source="ingest">Natural history--Great Britain</subject>
+            <genreform source="ingest">Photographs</genreform>
+            <genreform source="ingest">Poetry</genreform>
+            <subject source="ingest">Suicide</subject>
+            <subject source="ingest">World War, 1914-1918</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref19" level="series">
+                <did>
+                    <unittitle>Bateson Family Papers</unittitle>
+                    <physdesc>
+                        <extent>2.0 Linear feet</extent>
+                    </physdesc>
+                    <unitdate>1829-1940</unitdate>
+                </did>
+                <controlaccess>
+                    <subject source="local">Biographical and personal data -- Bateson family</subject>
+                    <subject source="local">Biographical and personal data -- Bateson, William N.</subject>
+                </controlaccess>
+                <c02 id="ref20" level="file">
+                    <did>
+                        <unittitle>To Anna Aikin Batseon</unittitle>
+                        <container id="cid38407" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1878 October 30</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Bateson, Anna Aikin, 1829-1918</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref21" level="file">
+                    <did>
+                        <unittitle>To Caroline Beatrice Durham Bateson</unittitle>
+                        <container id="cid38406" type="Box" label="Mixed materials">1</container>
+                        <physdesc>
+                            <extent>3 items</extent>
+                        </physdesc>
+                        <unitdate>1896-1918</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Bateson, Anna Aikin, 1829-1918</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref22" level="file">
+                    <did>
+                        <unittitle>Poem, "My Sister"</unittitle>
+                        <container id="cid38405" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1860 August</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Bateson, Anna Aikin, 1829-1918</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref23" level="file">
+                    <did>
+                        <unittitle>Accounts and receipts</unittitle>
+                        <container id="cid38404" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1937-1940</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Bateson, Caroline Beatrice Durham</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref24" level="file">
+                    <did>
+                        <unittitle>"At a conversazione</unittitle>
+                        <container id="cid38403" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1895 September</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Bateson, Caroline Beatrice Durham</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref26">
+                        <head>Scope and Contents note</head>
+                        <p>Published under Beatrice Durham in 
+                            <title render="italic">English Illustrated Magazine</title></p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref27" level="file">
+                    <did>
+                        <unittitle>Baby diary</unittitle>
+                        <container id="cid38402" type="Box" label="Mixed materials">1</container>
+                        <origination label="creator">
+                            <persname source="ingest">Bateson, Caroline Beatrice Durham</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref29">
+                        <head>Scope and Contents note</head>
+                        <p>Birth and infancy of sons John, Martin, and Gregory Bateson</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref30" level="file">
+                    <did>
+                        <unittitle>To Gregory Bateson</unittitle>
+                        <container id="cid38401" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1922 April-June</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Bateson, Caroline Beatrice Durham</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref31" level="file">
+                    <did>
+                        <unittitle>To Martin Bateson</unittitle>
+                        <container id="cid38400" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1917-1921</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Bateson, Caroline Beatrice Durham</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref32" level="file">
+                    <did>
+                        <unittitle>To William Bateson</unittitle>
+                        <container id="cid38399" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1902 April 10-11</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Bateson, Caroline Beatrice Durham</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref33" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid38398" type="Box" label="Mixed materials">1</container>
+                        <unitdate>n.d. (April 7)</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Bateson, Edith</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref34" level="file">
+                    <did>
+                        <unittitle>To Beatrice Durham Bateson</unittitle>
+                        <container id="cid38397" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1927 January 3</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Bateson, Edith</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref35" level="file">
+                    <did>
+                        <unittitle>Verses</unittitle>
+                        <container id="cid38396" type="Box" label="Mixed materials">1</container>
+                        <origination label="creator">
+                            <persname source="ingest">Bateson, Edith</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref36" level="file">
+                    <did>
+                        <unittitle>To Beatrice Durham Bateson</unittitle>
+                        <container id="cid38393" type="Box" label="Mixed materials">1</container>
+                        <physdesc>
+                            <extent>2 folders</extent>
+                        </physdesc>
+                        <unitdate>1910-1918</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Bateson, Gregory, 1904-1980</persname>
+                        </origination>
+                    </did>
+                    <c03 id="ref37" level="file">
+                        <did>
+                            <unittitle>To Beatrice Durham Bateson</unittitle>
+                            <container id="cid38395" type="Box" label="Mixed materials">1</container>
+                            <unitdate>1910-1916 February</unitdate>
+                            <origination label="creator">
+                                <persname source="naf">Bateson, Gregory, 1904-1980</persname>
+                            </origination>
+                        </did>
+                    </c03>
+                    <c03 id="ref38" level="file">
+                        <did>
+                            <unittitle>To Beatrice Durham Bateson</unittitle>
+                            <container id="cid38394" type="Box" label="Mixed materials">1</container>
+                            <unitdate>1916 May-1918</unitdate>
+                            <origination label="creator">
+                                <persname source="naf">Bateson, Gregory, 1904-1980</persname>
+                            </origination>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref39" level="file">
+                    <did>
+                        <unittitle>To Martin Bateson</unittitle>
+                        <container id="cid38392" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1912-1921</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Bateson, Gregory, 1904-1980</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref40" level="file">
+                    <did>
+                        <unittitle>To William Henry Bateson</unittitle>
+                        <container id="cid38391" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1921-1922</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Bateson, Gregory, 1904-1980</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref41" level="file">
+                    <did>
+                        <unittitle>From Fernand Chodat</unittitle>
+                        <container id="cid38390" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1922 April 25</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Bateson, Gregory, 1904-1980</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref42" level="file">
+                    <did>
+                        <unittitle>From Peggy Dimmer</unittitle>
+                        <container id="cid38389" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1922 April 29</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Bateson, Gregory, 1904-1980</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref43" level="file">
+                    <did>
+                        <unittitle>From ___ Durham</unittitle>
+                        <container id="cid38388" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1922 May 14</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Bateson, Gregory, 1904-1980</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref44" level="file">
+                    <did>
+                        <unittitle>From F. H. Durham</unittitle>
+                        <container id="cid38387" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1922 May 28</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Bateson, Gregory, 1904-1980</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref45" level="file">
+                    <did>
+                        <unittitle>From Florence Durham</unittitle>
+                        <container id="cid38386" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1922 May 4</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Bateson, Gregory, 1904-1980</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref46" level="file">
+                    <did>
+                        <unittitle>From Hermia Durham</unittitle>
+                        <container id="cid38385" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1922 May 14</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Bateson, Gregory, 1904-1980</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref47" level="file">
+                    <did>
+                        <unittitle>From Margaret Heitland</unittitle>
+                        <container id="cid38384" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1922 May 9</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Bateson, Gregory, 1904-1980</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref48" level="file">
+                    <did>
+                        <unittitle>School certificate</unittitle>
+                        <container id="cid38383" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1918 January</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Bateson, Gregory, 1904-1980</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref49" level="file">
+                    <did>
+                        <unittitle>Commission</unittitle>
+                        <container id="cid38382" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1917 March 7</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Bateson, John, 1898-1918</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref50" level="file">
+                    <did>
+                        <unittitle>Condolences</unittitle>
+                        <container id="cid38381" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1918 October</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Bateson, John, 1898-1918</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref51" level="file">
+                    <did>
+                        <unittitle>Imperial War Graves Commission</unittitle>
+                        <container id="cid38380" type="Box" label="Mixed materials">1</container>
+                        <origination label="creator">
+                            <persname source="naf">Bateson, John, 1898-1918</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref52" level="file">
+                    <did>
+                        <unittitle>To Martin Bateson</unittitle>
+                        <container id="cid38374" type="Box" label="Mixed materials">1</container>
+                        <physdesc>
+                            <extent>5 folders</extent>
+                        </physdesc>
+                        <unitdate>1912-1918</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Bateson, John, 1898-1918</persname>
+                        </origination>
+                    </did>
+                    <c03 id="ref53" level="file">
+                        <did>
+                            <unittitle>To Martin Bateson</unittitle>
+                            <container id="cid38379" type="Box" label="Mixed materials">1</container>
+                            <unitdate>1912-1916</unitdate>
+                            <origination label="creator">
+                                <persname source="naf">Bateson, John, 1898-1918</persname>
+                            </origination>
+                        </did>
+                    </c03>
+                    <c03 id="ref54" level="file">
+                        <did>
+                            <unittitle>To Martin Bateson</unittitle>
+                            <container id="cid38378" type="Box" label="Mixed materials">1</container>
+                            <unitdate>1917 February-June</unitdate>
+                            <origination label="creator">
+                                <persname source="naf">Bateson, John, 1898-1918</persname>
+                            </origination>
+                        </did>
+                    </c03>
+                    <c03 id="ref55" level="file">
+                        <did>
+                            <unittitle>To Martin Bateson</unittitle>
+                            <container id="cid38377" type="Box" label="Mixed materials">1</container>
+                            <unitdate>1917 July-November</unitdate>
+                            <origination label="creator">
+                                <persname source="naf">Bateson, John, 1898-1918</persname>
+                            </origination>
+                        </did>
+                    </c03>
+                    <c03 id="ref56" level="file">
+                        <did>
+                            <unittitle>To Martin Bateson</unittitle>
+                            <container id="cid38376" type="Box" label="Mixed materials">1</container>
+                            <unitdate>1918 January-June</unitdate>
+                            <origination label="creator">
+                                <persname source="naf">Bateson, John, 1898-1918</persname>
+                            </origination>
+                        </did>
+                    </c03>
+                    <c03 id="ref57" level="file">
+                        <did>
+                            <unittitle>To Martin Bateson</unittitle>
+                            <container id="cid38375" type="Box" label="Mixed materials">1</container>
+                            <unitdate>1918 August-October</unitdate>
+                            <origination label="creator">
+                                <persname source="naf">Bateson, John, 1898-1918</persname>
+                            </origination>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref58" level="file">
+                    <did>
+                        <unittitle>To Beatrice Durham Bateson and William Bateson</unittitle>
+                        <container id="cid38363" type="Box" label="Mixed materials">1</container>
+                        <physdesc>
+                            <extent>10 folders</extent>
+                        </physdesc>
+                        <unitdate>1906-1918</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Bateson, John, 1898-1918</persname>
+                        </origination>
+                    </did>
+                    <c03 id="ref59" level="file">
+                        <did>
+                            <unittitle>To Beatrice Durham Bateson and William Bateson</unittitle>
+                            <container id="cid38373" type="Box" label="Mixed materials">1</container>
+                            <unitdate>1906-1911</unitdate>
+                            <origination label="creator">
+                                <persname source="naf">Bateson, John, 1898-1918</persname>
+                            </origination>
+                        </did>
+                    </c03>
+                    <c03 id="ref60" level="file">
+                        <did>
+                            <unittitle>To Beatrice Durham Bateson and William Bateson</unittitle>
+                            <container id="cid38372" type="Box" label="Mixed materials">1</container>
+                            <unitdate>1912</unitdate>
+                            <origination label="creator">
+                                <persname source="naf">Bateson, John, 1898-1918</persname>
+                            </origination>
+                        </did>
+                    </c03>
+                    <c03 id="ref61" level="file">
+                        <did>
+                            <unittitle>To Beatrice Durham Bateson and William Bateson</unittitle>
+                            <container id="cid38371" type="Box" label="Mixed materials">1</container>
+                            <unitdate>1913-1915</unitdate>
+                            <origination label="creator">
+                                <persname source="naf">Bateson, John, 1898-1918</persname>
+                            </origination>
+                        </did>
+                    </c03>
+                    <c03 id="ref62" level="file">
+                        <did>
+                            <unittitle>To Beatrice Durham Bateson and William Bateson</unittitle>
+                            <container id="cid38370" type="Box" label="Mixed materials">1</container>
+                            <unitdate>1916</unitdate>
+                            <origination label="creator">
+                                <persname source="naf">Bateson, John, 1898-1918</persname>
+                            </origination>
+                        </did>
+                    </c03>
+                    <c03 id="ref63" level="file">
+                        <did>
+                            <unittitle>To Beatrice Durham Bateson and William Bateson</unittitle>
+                            <container id="cid38369" type="Box" label="Mixed materials">2</container>
+                            <unitdate>1917 January-April</unitdate>
+                            <origination label="creator">
+                                <persname source="naf">Bateson, John, 1898-1918</persname>
+                            </origination>
+                        </did>
+                    </c03>
+                    <c03 id="ref64" level="file">
+                        <did>
+                            <unittitle>To Beatrice Durham Bateson and William Bateson</unittitle>
+                            <container id="cid38368" type="Box" label="Mixed materials">2</container>
+                            <unitdate>1917 May-August</unitdate>
+                            <origination label="creator">
+                                <persname source="naf">Bateson, John, 1898-1918</persname>
+                            </origination>
+                        </did>
+                    </c03>
+                    <c03 id="ref65" level="file">
+                        <did>
+                            <unittitle>To Beatrice Durham Bateson and William Bateson</unittitle>
+                            <container id="cid38367" type="Box" label="Mixed materials">2</container>
+                            <unitdate>1917 September-December</unitdate>
+                            <origination label="creator">
+                                <persname source="naf">Bateson, John, 1898-1918</persname>
+                            </origination>
+                        </did>
+                    </c03>
+                    <c03 id="ref66" level="file">
+                        <did>
+                            <unittitle>To Beatrice Durham Bateson and William Bateson</unittitle>
+                            <container id="cid38366" type="Box" label="Mixed materials">2</container>
+                            <unitdate>1918 January-February</unitdate>
+                            <origination label="creator">
+                                <persname source="naf">Bateson, John, 1898-1918</persname>
+                            </origination>
+                        </did>
+                    </c03>
+                    <c03 id="ref67" level="file">
+                        <did>
+                            <unittitle>To Beatrice Durham Bateson and William Bateson</unittitle>
+                            <container id="cid38365" type="Box" label="Mixed materials">2</container>
+                            <unitdate>1918 March-July</unitdate>
+                            <origination label="creator">
+                                <persname source="naf">Bateson, John, 1898-1918</persname>
+                            </origination>
+                        </did>
+                    </c03>
+                    <c03 id="ref68" level="file">
+                        <did>
+                            <unittitle>To Beatrice Durham Bateson and William Bateson</unittitle>
+                            <container id="cid38364" type="Box" label="Mixed materials">2</container>
+                            <unitdate>1918 August-October</unitdate>
+                            <origination label="creator">
+                                <persname source="naf">Bateson, John, 1898-1918</persname>
+                            </origination>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref69" level="file">
+                    <did>
+                        <unittitle>To Florence Durham</unittitle>
+                        <container id="cid38362" type="Box" label="Mixed materials">2</container>
+                        <unitdate>1917 March 21</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Bateson, John, 1898-1918</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref70" level="file">
+                    <did>
+                        <unittitle>Photographs</unittitle>
+                        <container id="cid38361" type="Box" label="Mixed materials">2</container>
+                        <unitdate>1917 March 21</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Bateson, John, 1898-1918</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref71" level="file">
+                    <did>
+                        <unittitle>Accounts and receipts</unittitle>
+                        <container id="cid38360" type="Box" label="Mixed materials">2</container>
+                        <unitdate>1921, 1922</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Bateson, Martin, 1899-1922</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref72" level="file">
+                    <did>
+                        <unittitle>Actors' Benevolent Association Legacy</unittitle>
+                        <container id="cid38359" type="Box" label="Mixed materials">2</container>
+                        <unitdate>1922</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Bateson, Martin, 1899-1922</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref73" level="file">
+                    <did>
+                        <unittitle>British Lepidoptera</unittitle>
+                        <container id="cid38358" type="Box" label="Mixed materials">2</container>
+                        <unitdate>1915</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Bateson, Martin, 1899-1922</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref74" level="file">
+                    <did>
+                        <unittitle>Diary</unittitle>
+                        <container id="cid38357" type="Box" label="Mixed materials">2</container>
+                        <unitdate>1917-1918</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Bateson, Martin, 1899-1922</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref75" level="file">
+                    <did>
+                        <unittitle>Estate settlement</unittitle>
+                        <container id="cid38356" type="Box" label="Mixed materials">2</container>
+                        <unitdate>1922 December 6</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Bateson, Martin, 1899-1922</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref76" level="file">
+                    <did>
+                        <unittitle>To Beatrice Durham Bateson and William Bateson</unittitle>
+                        <container id="cid38335" type="Box" label="Mixed materials">2</container>
+                        <physdesc>
+                            <extent>22 folders</extent>
+                        </physdesc>
+                        <unitdate>1903-1922</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Bateson, Martin, 1899-1922</persname>
+                        </origination>
+                    </did>
+                    <c03 id="ref77" level="file">
+                        <did>
+                            <unittitle>To Beatrice Durham Bateson and William Bateson</unittitle>
+                            <container id="cid38355" type="Box" label="Mixed materials">2</container>
+                            <physdesc>
+                                <extent>3 folders</extent>
+                            </physdesc>
+                            <unitdate>1903-1911</unitdate>
+                            <origination label="creator">
+                                <persname source="ingest">Bateson, Martin, 1899-1922</persname>
+                            </origination>
+                        </did>
+                    </c03>
+                    <c03 id="ref78" level="file">
+                        <did>
+                            <unittitle>To Beatrice Durham Bateson and William Bateson</unittitle>
+                            <container id="cid38354" type="Box" label="Mixed materials">2</container>
+                            <unitdate>1913 Sept.-Oct.</unitdate>
+                            <origination label="creator">
+                                <persname source="ingest">Bateson, Martin, 1899-1922</persname>
+                            </origination>
+                        </did>
+                    </c03>
+                    <c03 id="ref79" level="file">
+                        <did>
+                            <unittitle>To Beatrice Durham Bateson and William Bateson</unittitle>
+                            <container id="cid38353" type="Box" label="Mixed materials">2</container>
+                            <unitdate>1914 January-September</unitdate>
+                            <origination label="creator">
+                                <persname source="ingest">Bateson, Martin, 1899-1922</persname>
+                            </origination>
+                        </did>
+                    </c03>
+                    <c03 id="ref80" level="file">
+                        <did>
+                            <unittitle>To Beatrice Durham Bateson and William Bateson</unittitle>
+                            <container id="cid38352" type="Box" label="Mixed materials">2</container>
+                            <unitdate>1916 February-July</unitdate>
+                            <origination label="creator">
+                                <persname source="ingest">Bateson, Martin, 1899-1922</persname>
+                            </origination>
+                        </did>
+                    </c03>
+                    <c03 id="ref81" level="file">
+                        <did>
+                            <unittitle>To Beatrice Durham Bateson and William Bateson</unittitle>
+                            <container id="cid38351" type="Box" label="Mixed materials">2</container>
+                            <unitdate>1916 August-December</unitdate>
+                            <origination label="creator">
+                                <persname source="ingest">Bateson, Martin, 1899-1922</persname>
+                            </origination>
+                        </did>
+                    </c03>
+                    <c03 id="ref82" level="file">
+                        <did>
+                            <unittitle>To Beatrice Durham Bateson and William Bateson</unittitle>
+                            <container id="cid38350" type="Box" label="Mixed materials">3</container>
+                            <unitdate>1917 January-May</unitdate>
+                            <origination label="creator">
+                                <persname source="ingest">Bateson, Martin, 1899-1922</persname>
+                            </origination>
+                        </did>
+                    </c03>
+                    <c03 id="ref83" level="file">
+                        <did>
+                            <unittitle>To Beatrice Durham Bateson and William Bateson</unittitle>
+                            <container id="cid38349" type="Box" label="Mixed materials">3</container>
+                            <unitdate>1917 June-July</unitdate>
+                            <origination label="creator">
+                                <persname source="ingest">Bateson, Martin, 1899-1922</persname>
+                            </origination>
+                        </did>
+                    </c03>
+                    <c03 id="ref84" level="file">
+                        <did>
+                            <unittitle>To Beatrice Durham Bateson and William Bateson</unittitle>
+                            <container id="cid38348" type="Box" label="Mixed materials">3</container>
+                            <unitdate>1917 September-October</unitdate>
+                            <origination label="creator">
+                                <persname source="ingest">Bateson, Martin, 1899-1922</persname>
+                            </origination>
+                        </did>
+                    </c03>
+                    <c03 id="ref85" level="file">
+                        <did>
+                            <unittitle>To Beatrice Durham Bateson and William Bateson</unittitle>
+                            <container id="cid38347" type="Box" label="Mixed materials">3</container>
+                            <unitdate>1917 November-December</unitdate>
+                            <origination label="creator">
+                                <persname source="ingest">Bateson, Martin, 1899-1922</persname>
+                            </origination>
+                        </did>
+                    </c03>
+                    <c03 id="ref86" level="file">
+                        <did>
+                            <unittitle>To Beatrice Durham Bateson and William Bateson</unittitle>
+                            <container id="cid38346" type="Box" label="Mixed materials">3</container>
+                            <unitdate>1918 January-April</unitdate>
+                            <origination label="creator">
+                                <persname source="ingest">Bateson, Martin, 1899-1922</persname>
+                            </origination>
+                        </did>
+                    </c03>
+                    <c03 id="ref87" level="file">
+                        <did>
+                            <unittitle>To Beatrice Durham Bateson and William Bateson</unittitle>
+                            <container id="cid38345" type="Box" label="Mixed materials">3</container>
+                            <unitdate>1918 May-September</unitdate>
+                            <origination label="creator">
+                                <persname source="ingest">Bateson, Martin, 1899-1922</persname>
+                            </origination>
+                        </did>
+                    </c03>
+                    <c03 id="ref88" level="file">
+                        <did>
+                            <unittitle>To Beatrice Durham Bateson and William Bateson</unittitle>
+                            <container id="cid38344" type="Box" label="Mixed materials">3</container>
+                            <unitdate>1918 October-December</unitdate>
+                            <origination label="creator">
+                                <persname source="ingest">Bateson, Martin, 1899-1922</persname>
+                            </origination>
+                        </did>
+                    </c03>
+                    <c03 id="ref89" level="file">
+                        <did>
+                            <unittitle>To Beatrice Durham Bateson and William Bateson</unittitle>
+                            <container id="cid38343" type="Box" label="Mixed materials">3</container>
+                            <unitdate>1919 January-February</unitdate>
+                            <origination label="creator">
+                                <persname source="ingest">Bateson, Martin, 1899-1922</persname>
+                            </origination>
+                        </did>
+                    </c03>
+                    <c03 id="ref90" level="file">
+                        <did>
+                            <unittitle>To Beatrice Durham Bateson and William Bateson</unittitle>
+                            <container id="cid38342" type="Box" label="Mixed materials">3</container>
+                            <unitdate>1919 March-August</unitdate>
+                            <origination label="creator">
+                                <persname source="ingest">Bateson, Martin, 1899-1922</persname>
+                            </origination>
+                        </did>
+                    </c03>
+                    <c03 id="ref91" level="file">
+                        <did>
+                            <unittitle>To Beatrice Durham Bateson and William Bateson</unittitle>
+                            <container id="cid38341" type="Box" label="Mixed materials">3</container>
+                            <unitdate>1919 September-December</unitdate>
+                            <origination label="creator">
+                                <persname source="ingest">Bateson, Martin, 1899-1922</persname>
+                            </origination>
+                        </did>
+                    </c03>
+                    <c03 id="ref92" level="file">
+                        <did>
+                            <unittitle>To Beatrice Durham Bateson and William Bateson</unittitle>
+                            <container id="cid38340" type="Box" label="Mixed materials">3</container>
+                            <unitdate>1920 May-July</unitdate>
+                            <origination label="creator">
+                                <persname source="ingest">Bateson, Martin, 1899-1922</persname>
+                            </origination>
+                        </did>
+                    </c03>
+                    <c03 id="ref93" level="file">
+                        <did>
+                            <unittitle>To Beatrice Durham Bateson and William Bateson</unittitle>
+                            <container id="cid38339" type="Box" label="Mixed materials">3</container>
+                            <unitdate>1920 August-December</unitdate>
+                            <origination label="creator">
+                                <persname source="ingest">Bateson, Martin, 1899-1922</persname>
+                            </origination>
+                        </did>
+                    </c03>
+                    <c03 id="ref94" level="file">
+                        <did>
+                            <unittitle>To Beatrice Durham Bateson and William Bateson</unittitle>
+                            <container id="cid38338" type="Box" label="Mixed materials">3</container>
+                            <unitdate>1921 February-June</unitdate>
+                            <origination label="creator">
+                                <persname source="ingest">Bateson, Martin, 1899-1922</persname>
+                            </origination>
+                        </did>
+                    </c03>
+                    <c03 id="ref95" level="file">
+                        <did>
+                            <unittitle>To Beatrice Durham Bateson and William Bateson</unittitle>
+                            <container id="cid38337" type="Box" label="Mixed materials">3</container>
+                            <unitdate>1921 September-October</unitdate>
+                            <origination label="creator">
+                                <persname source="ingest">Bateson, Martin, 1899-1922</persname>
+                            </origination>
+                        </did>
+                    </c03>
+                    <c03 id="ref96" level="file">
+                        <did>
+                            <unittitle>To Beatrice Durham Bateson and William Bateson</unittitle>
+                            <container id="cid38336" type="Box" label="Mixed materials">3</container>
+                            <unitdate>1922</unitdate>
+                            <origination label="creator">
+                                <persname source="ingest">Bateson, Martin, 1899-1922</persname>
+                            </origination>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref97" level="file">
+                    <did>
+                        <unittitle>To Gregory Bateson</unittitle>
+                        <container id="cid38334" type="Box" label="Mixed materials">3</container>
+                        <unitdate>1911-1919</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Bateson, Martin, 1899-1922</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref98" level="file">
+                    <did>
+                        <unittitle>To John Bateson</unittitle>
+                        <container id="cid38333" type="Box" label="Mixed materials">3</container>
+                        <unitdate>1907, n.d.</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Bateson, Martin, 1899-1922</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref99" level="file">
+                    <did>
+                        <unittitle>To British Chess Federation</unittitle>
+                        <container id="cid38332" type="Box" label="Mixed materials">3</container>
+                        <unitdate>1918 December 2</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Bateson, Martin, 1899-1922</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref100" level="file">
+                    <did>
+                        <unittitle>From Cambridge University. Bursar</unittitle>
+                        <container id="cid38331" type="Box" label="Mixed materials">3</container>
+                        <unitdate>1921 October 21</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Bateson, Martin, 1899-1922</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref101" level="file">
+                    <did>
+                        <unittitle>Miscellaneous</unittitle>
+                        <container id="cid38330" type="Box" label="Mixed materials">3</container>
+                        <origination label="creator">
+                            <persname source="ingest">Bateson, Martin, 1899-1922</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref102" level="file">
+                    <did>
+                        <unittitle>Misc. verse and prose</unittitle>
+                        <container id="cid38329" type="Box" label="Mixed materials">3</container>
+                        <origination label="creator">
+                            <persname source="ingest">Bateson, Martin, 1899-1922</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref103" level="file">
+                    <did>
+                        <unittitle>Photograph</unittitle>
+                        <container id="cid38328" type="Box" label="Mixed materials">3</container>
+                        <unitdate>1919 Spring</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Bateson, Martin, 1899-1922</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref104" level="file">
+                    <did>
+                        <unittitle>Printed material</unittitle>
+                        <container id="cid38327" type="Box" label="Mixed materials">3</container>
+                        <origination label="creator">
+                            <persname source="ingest">Bateson, Martin, 1899-1922</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref105" level="file">
+                    <did>
+                        <unittitle>Suicide letter</unittitle>
+                        <container id="cid38326" type="Box" label="Mixed materials">3</container>
+                        <unitdate>1922 April 22</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Bateson, Martin, 1899-1922</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref106" level="file">
+                    <did>
+                        <unittitle>Suicide: Investigations by William Bateson</unittitle>
+                        <container id="cid38325" type="Box" label="Mixed materials">3</container>
+                        <unitdate>1922</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Bateson, Martin, 1899-1922</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref108">
+                        <head>Scope and Contents note</head>
+                        <p>See also Grace Wilson</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref109" level="file">
+                    <did>
+                        <unittitle>Suicide: Newspaper clippings</unittitle>
+                        <container id="cid38324" type="Box" label="Mixed materials">3</container>
+                        <unitdate>1922 April</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Bateson, Martin, 1899-1922</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref110" level="file">
+                    <did>
+                        <unittitle>Papers in his possession</unittitle>
+                        <container id="cid38323" type="Box" label="Mixed materials">3</container>
+                        <unitdate>1922 April 22</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Bateson, Martin, 1899-1922</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref111" level="file">
+                    <did>
+                        <unittitle>"Surface tension"</unittitle>
+                        <container id="cid38322" type="Box" label="Mixed materials">3</container>
+                        <unitdate>1917</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Bateson, Martin, 1899-1922</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref113">
+                        <head>Scope and Contents note</head>
+                        <p>Prize essay in chemistry, Rugby School</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref114" level="file">
+                    <did>
+                        <unittitle>Verses</unittitle>
+                        <container id="cid38321" type="Box" label="Mixed materials">3</container>
+                        <physdesc>
+                            <extent>5 folders</extent>
+                        </physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Bateson, Martin, 1899-1922</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref115" level="file">
+                    <did>
+                        <unittitle>To Anna Aiken Bateson</unittitle>
+                        <container id="cid38320" type="Box" label="Mixed materials">3</container>
+                        <unitdate>1880 March 14</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Bateson, Mary</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref116" level="file">
+                    <did>
+                        <unittitle>Memorial Fund</unittitle>
+                        <container id="cid38319" type="Box" label="Mixed materials">3</container>
+                        <origination label="creator">
+                            <persname source="ingest">Bateson, Mary</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref117" level="file">
+                    <did>
+                        <unittitle>Newnham College</unittitle>
+                        <container id="cid38318" type="Box" label="Mixed materials">3</container>
+                        <origination label="creator">
+                            <persname source="ingest">Bateson, Mary</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref118" level="file">
+                    <did>
+                        <unittitle>Obituaries</unittitle>
+                        <container id="cid38317" type="Box" label="Mixed materials">3</container>
+                        <origination label="creator">
+                            <persname source="ingest">Bateson, Mary</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref119" level="file">
+                    <did>
+                        <unittitle>Women's Suffrage Deputation</unittitle>
+                        <container id="cid38316" type="Box" label="Mixed materials">3</container>
+                        <unitdate>1906 May 19</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Bateson, Mary</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref120" level="file">
+                    <did>
+                        <unittitle>Address to British Association for the Advancement of Science</unittitle>
+                        <container id="cid38315" type="Box" label="Mixed materials">4</container>
+                        <unitdate>1914</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Bateson, William</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref121" level="file">
+                    <did>
+                        <unittitle>Art collection</unittitle>
+                        <container id="cid38308" type="Box" label="Mixed materials">4</container>
+                        <physdesc>
+                            <extent>6 folders</extent>
+                        </physdesc>
+                        <unitdate>1900-1929</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Bateson, William</persname>
+                        </origination>
+                    </did>
+                    <c03 id="ref122" level="file">
+                        <did>
+                            <unittitle>Art collection</unittitle>
+                            <container id="cid38314" type="Box" label="Mixed materials">4</container>
+                            <unitdate>1900-1906</unitdate>
+                            <origination label="creator">
+                                <persname source="ingest">Bateson, William</persname>
+                            </origination>
+                        </did>
+                    </c03>
+                    <c03 id="ref123" level="file">
+                        <did>
+                            <unittitle>Art collection</unittitle>
+                            <container id="cid38313" type="Box" label="Mixed materials">4</container>
+                            <unitdate>1907-1914</unitdate>
+                            <origination label="creator">
+                                <persname source="ingest">Bateson, William</persname>
+                            </origination>
+                        </did>
+                    </c03>
+                    <c03 id="ref124" level="file">
+                        <did>
+                            <unittitle>Art collection -- Chinese art</unittitle>
+                            <container id="cid38312" type="Box" label="Mixed materials">4</container>
+                            <origination label="creator">
+                                <persname source="ingest">Bateson, William</persname>
+                            </origination>
+                        </did>
+                    </c03>
+                    <c03 id="ref125" level="file">
+                        <did>
+                            <unittitle>Art collection -- Lists</unittitle>
+                            <container id="cid38311" type="Box" label="Mixed materials">4</container>
+                            <origination label="creator">
+                                <persname source="ingest">Bateson, William</persname>
+                            </origination>
+                        </did>
+                    </c03>
+                    <c03 id="ref126" level="file">
+                        <did>
+                            <unittitle>Art collection -- Printed catalogues</unittitle>
+                            <container id="cid38310" type="Box" label="Mixed materials">4</container>
+                            <origination label="creator">
+                                <persname source="ingest">Bateson, William</persname>
+                            </origination>
+                        </did>
+                    </c03>
+                    <c03 id="ref127" level="file">
+                        <did>
+                            <unittitle>Art collection -- Sale</unittitle>
+                            <container id="cid38309" type="Box" label="Mixed materials">4</container>
+                            <unitdate>1929</unitdate>
+                            <origination label="creator">
+                                <persname source="ingest">Bateson, William</persname>
+                            </origination>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref128" level="file">
+                    <did>
+                        <unittitle>Birth and baptismal certificates</unittitle>
+                        <container id="cid38307" type="Box" label="Mixed materials">4</container>
+                        <origination label="creator">
+                            <persname source="ingest">Bateson, William</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref129" level="file">
+                    <did>
+                        <unittitle>From Drighton Ben and Co.</unittitle>
+                        <container id="cid38306" type="Box" label="Mixed materials">4</container>
+                        <unitdate>1907 February 12</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Bateson, William</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref130" level="file">
+                    <did>
+                        <unittitle>To Edith Bateson</unittitle>
+                        <container id="cid38305" type="Box" label="Mixed materials">4</container>
+                        <unitdate>1907-1922</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Bateson, William</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref131" level="file">
+                    <did>
+                        <unittitle>To Beatrice Durham</unittitle>
+                        <container id="cid38304" type="Box" label="Mixed materials">4</container>
+                        <unitdate>1896 April 2, June 5</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Bateson, William</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref132" level="file">
+                    <did>
+                        <unittitle>To Gregory Bateson</unittitle>
+                        <container id="cid38303" type="Box" label="Mixed materials">4</container>
+                        <unitdate>1922 April-May</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Bateson, William</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref133" level="file">
+                    <did>
+                        <unittitle>To John Bateson</unittitle>
+                        <container id="cid38302" type="Box" label="Mixed materials">4</container>
+                        <unitdate>1909 May 13</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Bateson, William</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref134" level="file">
+                    <did>
+                        <unittitle>To Martin Bateson</unittitle>
+                        <container id="cid38301" type="Box" label="Mixed materials">4</container>
+                        <physdesc>
+                            <extent>3 folders</extent>
+                        </physdesc>
+                        <unitdate>1917-1922</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Bateson, William</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref135" level="file">
+                    <did>
+                        <unittitle>To Michael Graham</unittitle>
+                        <container id="cid38300" type="Box" label="Mixed materials">4</container>
+                        <unitdate>1922</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Bateson, William</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref136" level="file">
+                    <did>
+                        <unittitle>Obituaries</unittitle>
+                        <container id="cid38299" type="Box" label="Mixed materials">4</container>
+                        <origination label="creator">
+                            <persname source="ingest">Bateson, William</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref137" level="file">
+                    <did>
+                        <unittitle>To Margaret Bateson</unittitle>
+                        <container id="cid38298" type="Box" label="Mixed materials">4</container>
+                        <unitdate>1881 March 11, 25</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="local">Bateson, William Henry, 1812-1881</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref138" level="file">
+                    <did>
+                        <unittitle>To Richard Bateson</unittitle>
+                        <container id="cid38297" type="Box" label="Mixed materials">4</container>
+                        <unitdate>1836-1860</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="local">Bateson, William Henry, 1812-1881</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref139" level="file">
+                    <did>
+                        <unittitle>To "Sir"</unittitle>
+                        <container id="cid38296" type="Box" label="Mixed materials">4</container>
+                        <unitdate>n.d.</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="local">Bateson, William Henry, 1812-1881</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref140" level="file">
+                    <did>
+                        <unittitle>Shrewsbury School fees</unittitle>
+                        <container id="cid38295" type="Box" label="Mixed materials">4</container>
+                        <unitdate>1829</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="local">Bateson, William Henry, 1812-1881</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref141" level="file">
+                    <did>
+                        <unittitle>Genealogy</unittitle>
+                        <container id="cid38294" type="Box" label="Mixed materials">4</container>
+                        <origination label="creator">
+                            <famname source="ingest">Bateson family</famname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref142" level="file">
+                    <did>
+                        <unittitle>Photographs of Bateson girls</unittitle>
+                        <container id="cid38293" type="Box" label="Mixed materials">4</container>
+                        <unitdate>1866-1873</unitdate>
+                        <origination label="creator">
+                            <famname source="ingest">Bateson family</famname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref143" level="file">
+                    <did>
+                        <unittitle>To John Bateson</unittitle>
+                        <container id="cid38292" type="Box" label="Mixed materials">4</container>
+                        <unitdate>1907 November 28</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Brunner</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref144" level="file">
+                    <did>
+                        <unittitle>To Martin Bateson</unittitle>
+                        <container id="cid38291" type="Box" label="Mixed materials">4</container>
+                        <unitdate>1922 January 18, February 16</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">DePeyer, Esmé E. V.</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref145" level="file">
+                    <did>
+                        <unittitle>To William Bateson</unittitle>
+                        <container id="cid38290" type="Box" label="Mixed materials">4</container>
+                        <unitdate>1922</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">DePeyer, Esmé E. V.</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref146" level="file">
+                    <did>
+                        <unittitle>Obituaries</unittitle>
+                        <container id="cid38289" type="Box" label="Mixed materials">4</container>
+                        <origination label="creator">
+                            <persname source="ingest">Durham, Arthur</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref147" level="file">
+                    <did>
+                        <unittitle>To John Bateson</unittitle>
+                        <container id="cid38288" type="Box" label="Mixed materials">4</container>
+                        <unitdate>1917 December 17</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Gray, R.</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref148" level="file">
+                    <did>
+                        <unittitle>To William Bateson</unittitle>
+                        <container id="cid38287" type="Box" label="Mixed materials">4</container>
+                        <unitdate>1922</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Graham, Michael</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref150">
+                        <head>Scope and Contents note</head>
+                        <p>Re: Martin Bateson.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref151" level="file">
+                    <did>
+                        <unittitle>To Richard Bateson</unittitle>
+                        <container id="cid38286" type="Box" label="Mixed materials">4</container>
+                        <unitdate>1862 July 30</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Herschel, John F. W., Sir,  (John Frederick William), 1792-1871</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref152" level="file">
+                    <did>
+                        <unittitle>To Beatrice Durham Bateson</unittitle>
+                        <container id="cid38285" type="Box" label="Mixed materials">4</container>
+                        <unitdate>1918 November 2</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Inglis, Murray</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref153" level="file">
+                    <did>
+                        <unittitle>To John Bateson</unittitle>
+                        <container id="cid38284" type="Box" label="Mixed materials">4</container>
+                        <unitdate>1917 December 17</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Kennedy, A. J. R.</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref154" level="file">
+                    <did>
+                        <unittitle>To Beatrice Durham Bateson</unittitle>
+                        <container id="cid38283" type="Box" label="Mixed materials">4</container>
+                        <unitdate>1938</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Kriser, Rudolf</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref155" level="file">
+                    <did>
+                        <unittitle>To William Bateson</unittitle>
+                        <container id="cid38282" type="Box" label="Mixed materials">4</container>
+                        <unitdate>1917 August 9</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Lister, G.</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref156" level="file">
+                    <did>
+                        <unittitle>To Martin Bateson</unittitle>
+                        <container id="cid38281" type="Box" label="Mixed materials">4</container>
+                        <unitdate>1921 October 21</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Lockhart, E. C.</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref157" level="file">
+                    <did>
+                        <unittitle>To Beatrice Durham Bateson</unittitle>
+                        <container id="cid38280" type="Box" label="Mixed materials">4</container>
+                        <unitdate>1911 February 13</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Lower, W.</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref158" level="file">
+                    <did>
+                        <unittitle>To Edith Bateson</unittitle>
+                        <container id="cid38279" type="Box" label="Mixed materials">4</container>
+                        <unitdate>1907 November 4</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Merringham, Christina J.</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref159" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid38278" type="Box" label="Mixed materials">4</container>
+                        <origination label="creator">
+                            <persname source="ingest">Miscellaneous printed material</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref160" level="file">
+                    <did>
+                        <unittitle>To William Bateson</unittitle>
+                        <container id="cid38277" type="Box" label="Mixed materials">4</container>
+                        <unitdate>1922 August-December</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Newman, M. H. A.</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref161" level="file">
+                    <did>
+                        <unittitle>To and from William Bateson</unittitle>
+                        <container id="cid38276" type="Box" label="Mixed materials">4</container>
+                        <unitdate>1922 June-November</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Reynolds, B.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref163">
+                        <head>Scope and Contents note</head>
+                        <p>Re: Martin Bateson.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref164" level="file">
+                    <did>
+                        <unittitle>To Beatrice Durham Bateson and William Bateson</unittitle>
+                        <container id="cid38275" type="Box" label="Mixed materials">4</container>
+                        <unitdate>1918</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Tatham, Maj. G. E.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref166">
+                        <head>Scope and Contents note</head>
+                        <p>Re: John Bateson.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref167" level="file">
+                    <did>
+                        <unittitle>To Beatrice Durham Bateson</unittitle>
+                        <container id="cid38274" type="Box" label="Mixed materials">4</container>
+                        <unitdate>1910 October 11, n.d.</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Taylor, Delphy</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref168" level="file">
+                    <did>
+                        <unittitle>To Martin and William Bateson</unittitle>
+                        <container id="cid38273" type="Box" label="Mixed materials">4</container>
+                        <unitdate>1922</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">W. Waters and Son</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref170">
+                        <head>Scope and Contents note</head>
+                        <p>Re: Martin Bateson's motorcycle.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref171" level="file">
+                    <did>
+                        <unittitle>To and from William Bateson</unittitle>
+                        <container id="cid38272" type="Box" label="Mixed materials">4</container>
+                        <unitdate>1922</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Wilson, Grace</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref173">
+                        <head>Scope and Contents note</head>
+                        <p>Re: Martin Bateson suicide and legacy.</p>
+                    </scopecontent>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

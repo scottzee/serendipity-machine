@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Film.227-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Film.227</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T20:14-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Thomas Jefferson papers, 1651-1826</unittitle>
+            <unitid>Mss.Film.227</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1822" type="Reel" label="Microform">1-101</container>
+            <physdesc>
+                <extent>101.0 Microfilm reel(s)</extent>
+            </physdesc>
+            <unitdate normal="1651/1826" type="inclusive">1651-1826</unitdate>
+            <physdesc id="ref6" label="General Physical Description note">101 microfilm reels.</physdesc>
+            <physloc id="ref10" label="Paging">LH-RR-Media Rm</physloc>
+        </did>
+        <acqinfo id="ref4">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Purchased from Library of Congress ($425.00) and acccessioned, 10/--/1944.</p>
+        </acqinfo>
+        <originalsloc id="ref2">
+            <head>Existence and Location of Originals note</head>
+            <p>Originals in Library of Congress, Washington, D.C.</p>
+        </originalsloc>
+        <odd id="ref8">
+            <head>General note</head>
+            <p>From Library of Congress. These include 5 reels of indexes. In addition, there is a film of Jefferson manuscripts in the Henry E. Huntington Library (1 reel), and also a film (51 reels) of the control files (alphabetical, chronological, bibliographical, and source) prepared by the editors of The Papers of Thomas Jefferson, Princeton University, for their use, and published on film, 1957.</p>
+        </odd>
+        <odd id="ref9">
+            <head>Early American History Note</head>
+            <p>This is a microfilm of an early American collection that may be of interest to researchers at the APS and may complement an original manuscript collection at the APS.</p>
+        </odd>
+        <controlaccess>
+            <persname rules="aacr" source="naf">Jefferson, Thomas, 1743-1826</persname>
+            <genreform source="leah">Microfilm Collection</genreform>
+            <occupation source="lcsh">Politicians -- United States.</occupation>
+            <occupation source="lcsh">Presidents -- United States.</occupation>
+            <geogname source="lcsh">United States -- History -- Colonial period, ca. 1600-1775.</geogname>
+            <geogname source="lcsh">United States -- History -- Revolution, 1775-1783 -- Personal histories.</geogname>
+            <geogname source="lcsh">United States -- Politics and government.</geogname>
+            <geogname source="lcsh">Virginia -- History.</geogname>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

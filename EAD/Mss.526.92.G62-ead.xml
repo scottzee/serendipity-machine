@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.526.92.G62-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.526.92.G62</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:16-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="item">
+        <did>
+            <unittitle>Notebook; maps, ca. 1850-1880</unittitle>
+            <unitid>Mss.526.92.G62</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid902" type="Volume" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>1.0 Volume(s)</extent>
+                <extent>1 volume, 200 p. </extent>
+            </physdesc>
+            <unitdate normal="1850/1880" type="inclusive">Circa 1850-1880</unitdate>
+            <abstract id="ref1" label="Abstract">The notebook includes descriptions of land surveys in Wayne County, Pennsylvania, and notes in various hands on early history and settlers there. The maps include boundary descriptions, and there are copies of two deeds.</abstract>
+            <physdesc id="ref6" label="General Physical Description note">1 volume, 200 p.</physdesc>
+            <physloc id="ref44" label="Paging">LH-MV-E-16; LH-SB-Black Case-15 (OS)</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Goodrich, B. G.</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref5">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Purchased from Harold Nestler (Auto 1983, #159; $65.00) and accessioned, 1983 (1983 532ms).</p>
+        </acqinfo>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>B. G. Goodrich worked as a Pennsylvania surveyor.</p>
+        </bioghist>
+        <processinfo id="ref7">
+            <head>Processing Information note</head>
+            <p>Only maps are noted.</p>
+        </processinfo>
+        <odd id="ref43">
+            <head>Early American History Note</head>
+            <p>This volume contains a wide range of land surveys in western Pennsylvania, especially Wayne County. There are also pieces on the history of the county and some brief biographical profiles.</p>
+        </odd>
+        <controlaccess>
+            <genreform source="leah">Commonplace Book</genreform>
+            <subject source="lcsh">Land speculation</subject>
+            <genreform source="leah">Maps and Surveys</genreform>
+            <genreform source="lcsh">Maps.</genreform>
+            <genreform source="leah">Notebooks</genreform>
+            <genreform source="lcsh">Notebooks.</genreform>
+            <subject source="lcsh">Real property -- Pennsylvania -- Wayne County.</subject>
+            <subject source="leah">Surveying and Maps</subject>
+            <geogname source="lcsh">Wayne County (Pa.) -- History -- 19th century.</geogname>
+            <geogname source="lcsh">Wayne County (Pa.) -- Surveys -- 19th century.</geogname>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref8" level="file">
+                <did>
+                    <unittitle>Survey Maps</unittitle>
+                    <container id="cid12693001" type="Oversize" label="Mixed materials">1</container>
+                </did>
+                <c02 id="ref9" level="item">
+                    <did>
+                        <unittitle>Draft of land sold by Richard Doney to Chauncy Demming</unittitle>
+                        <physdesc>
+                            <extent>1 survey, 30.5 x 20.1 cm</extent>
+                        </physdesc>
+                        <unitdate normal="1854/1854">12 April 1854</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest" role="Surveyor (srv)">Goodrich, B. G.</persname>
+                        </origination>
+                    </did>
+                    <otherfindaid id="ref10">
+                        <head>Other Finding Aids note</head>
+                        <p>Realms of Gold, 18 (1).</p>
+                    </otherfindaid>
+                    <phystech id="ref31">
+                        <head>Physical Characteristics and Technical Requirements note</head>
+                        <p>Oversized.</p>
+                    </phystech>
+                </c02>
+                <c02 id="ref11" level="item">
+                    <did>
+                        <unittitle>Lot of lands which Hugh Connor purchased of Abrm Brink</unittitle>
+                        <physdesc>
+                            <extent>1 map, 21 x 16 cm</extent>
+                        </physdesc>
+                        <unitdate normal="1856/1856">15 May 1856</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest" role="Cartographer (ctg)">Goodrich, B. G.</persname>
+                        </origination>
+                    </did>
+                    <otherfindaid id="ref12">
+                        <head>Other Finding Aids note</head>
+                        <p>Realms of Gold, 18 (2).</p>
+                    </otherfindaid>
+                    <phystech id="ref32">
+                        <head>Physical Characteristics and Technical Requirements note</head>
+                        <p>Oversized.</p>
+                    </phystech>
+                </c02>
+                <c02 id="ref13" level="item">
+                    <did>
+                        <unittitle>McMullen survey for Aldens</unittitle>
+                        <physdesc>
+                            <extent>1 map, 23 x 20 cm</extent>
+                        </physdesc>
+                        <unitdate normal="1857/1857">July 1857</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest" role="Cartographer (ctg)">Goodrich, B. G.</persname>
+                        </origination>
+                    </did>
+                    <otherfindaid id="ref14">
+                        <head>Other Finding Aids note</head>
+                        <p>Realms of Gold, 18 (3).</p>
+                    </otherfindaid>
+                    <phystech id="ref33">
+                        <head>Physical Characteristics and Technical Requirements note</head>
+                        <p>Oversized.</p>
+                    </phystech>
+                </c02>
+                <c02 id="ref15" level="item">
+                    <did>
+                        <unittitle>Draft of Oliver Stevenson's land and mill pond in Mount Pleasant</unittitle>
+                        <physdesc>
+                            <extent>1 map, 58 x 43 cm</extent>
+                        </physdesc>
+                        <unitdate normal="1859/1859">May 1859</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest" role="Cartographer (ctg)">Goodrich, B. G.</persname>
+                        </origination>
+                    </did>
+                    <otherfindaid id="ref16">
+                        <head>Other Finding Aids note</head>
+                        <p>Realms of Gold, 18 (4).</p>
+                    </otherfindaid>
+                    <phystech id="ref34">
+                        <head>Physical Characteristics and Technical Requirements note</head>
+                        <p>Oversized.</p>
+                    </phystech>
+                </c02>
+                <c02 id="ref17" level="item">
+                    <did>
+                        <unittitle>Harvey D. Williams tract. Scott Township</unittitle>
+                        <physdesc>
+                            <extent>1 map, 31 x 20 cm</extent>
+                        </physdesc>
+                        <unitdate normal="1859/1859">1 October 1859</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest" role="Cartographer (ctg)">Goodrich, B. G.</persname>
+                        </origination>
+                    </did>
+                    <otherfindaid id="ref18">
+                        <head>Other Finding Aids note</head>
+                        <p>Realms of Gold, 18 (5).</p>
+                    </otherfindaid>
+                    <phystech id="ref35">
+                        <head>Physical Characteristics and Technical Requirements note</head>
+                        <p>Oversized.</p>
+                    </phystech>
+                </c02>
+                <c02 id="ref19" level="item">
+                    <did>
+                        <unittitle>Bate Saw Mill</unittitle>
+                        <physdesc>
+                            <extent>1 map, 31.5 x 20 cm</extent>
+                        </physdesc>
+                        <unitdate normal="1863/1863">28 February 1863</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest" role="Cartographer (ctg)">Goodrich, B. G.</persname>
+                        </origination>
+                    </did>
+                    <otherfindaid id="ref20">
+                        <head>Other Finding Aids note</head>
+                        <p>Realms of Gold, 18 (6).</p>
+                    </otherfindaid>
+                    <phystech id="ref36">
+                        <head>Physical Characteristics and Technical Requirements note</head>
+                        <p>Oversized.</p>
+                    </phystech>
+                </c02>
+                <c02 id="ref21" level="item">
+                    <did>
+                        <unittitle>David C. Boyd road</unittitle>
+                        <physdesc>
+                            <extent>1 map, 31 x 19.5 cm</extent>
+                        </physdesc>
+                        <unitdate>n.d.</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest" role="Cartographer (ctg)">Goodrich, B. G.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref42">
+                        <head>Scope and Contents note</head>
+                        <p>"Draft of the road described in The Annual Return with courses and distances."</p>
+                    </scopecontent>
+                    <otherfindaid id="ref22">
+                        <head>Other Finding Aids note</head>
+                        <p>Realms of Gold, 18 (7).</p>
+                    </otherfindaid>
+                    <phystech id="ref37">
+                        <head>Physical Characteristics and Technical Requirements note</head>
+                        <p>Oversized.</p>
+                    </phystech>
+                </c02>
+                <c02 id="ref23" level="item">
+                    <did>
+                        <unittitle>John Mung's land</unittitle>
+                        <physdesc>
+                            <extent>1 map, 17 x 13 cm</extent>
+                        </physdesc>
+                        <unitdate>n.d.</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest" role="Cartographer (ctg)">Goodrich, B. G.</persname>
+                        </origination>
+                    </did>
+                    <otherfindaid id="ref24">
+                        <head>Other Finding Aids note</head>
+                        <p>Realms of Gold, 18 (8).</p>
+                    </otherfindaid>
+                    <phystech id="ref38">
+                        <head>Physical Characteristics and Technical Requirements note</head>
+                        <p>Oversized.</p>
+                    </phystech>
+                </c02>
+                <c02 id="ref25" level="item">
+                    <did>
+                        <unittitle>Joseph Bodie's home farm. Dyberry Township, Wayne County, Pennsylvania</unittitle>
+                        <physdesc>
+                            <extent>1 map, 27.5 x 22 cm</extent>
+                        </physdesc>
+                        <unitdate>n.d.</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest" role="Cartographer (ctg)">Goodrich, B. G.</persname>
+                        </origination>
+                    </did>
+                    <otherfindaid id="ref26">
+                        <head>Other Finding Aids note</head>
+                        <p>Realms of Gold, 18 (9).</p>
+                    </otherfindaid>
+                    <phystech id="ref39">
+                        <head>Physical Characteristics and Technical Requirements note</head>
+                        <p>Oversized.</p>
+                    </phystech>
+                </c02>
+                <c02 id="ref27" level="item">
+                    <did>
+                        <unittitle>Land sold by D. W. Manning to Christian Hartung</unittitle>
+                        <physdesc>
+                            <extent>1 map, 32 x 20 cm</extent>
+                        </physdesc>
+                        <unitdate>n.d.</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest" role="Cartographer (ctg)">Goodrich, B. G.</persname>
+                        </origination>
+                    </did>
+                    <otherfindaid id="ref28">
+                        <head>Other Finding Aids note</head>
+                        <p>Realms of Gold, 18 (10).</p>
+                    </otherfindaid>
+                    <phystech id="ref40">
+                        <head>Physical Characteristics and Technical Requirements note</head>
+                        <p>Oversized.</p>
+                    </phystech>
+                </c02>
+                <c02 id="ref29" level="item">
+                    <did>
+                        <unittitle>Patterson Hartshorn land</unittitle>
+                        <physdesc>
+                            <extent>1 map, 43 x 35 cm</extent>
+                        </physdesc>
+                        <unitdate>n.d.</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest" role="Cartographer (ctg)">Goodrich, B. G.</persname>
+                        </origination>
+                    </did>
+                    <otherfindaid id="ref30">
+                        <head>Other Finding Aids note</head>
+                        <p>Realms of Gold, 18 (11).</p>
+                    </otherfindaid>
+                    <phystech id="ref41">
+                        <head>Physical Characteristics and Technical Requirements note</head>
+                        <p>Oversized.</p>
+                    </phystech>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

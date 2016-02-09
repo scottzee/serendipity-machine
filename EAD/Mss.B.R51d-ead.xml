@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.R51d-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.R51d</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T19:54-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Meteorological observations, 1784-1805</unittitle>
+            <unitid>Mss.B.R51d</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1547" type="Volume" label="Manuscripts">1-2</container>
+            <physdesc>
+                <extent>2.0 Volume(s)</extent>
+                <extent>2 volumes, ca. 438 p.</extent>
+            </physdesc>
+            <unitdate normal="1784/1805" type="inclusive">1784-1805</unitdate>
+            <abstract id="ref1" label="Abstract">The first volume contains notes of expenses and of observations while surveying the western boundary of Pennsylvania (1785). Mentions APS under date of Feb. 20, 1784. The second volume contains observations that were continued after Rittenhouse's death to Sept. 30, 1805.</abstract>
+            <physdesc id="ref8" label="General Physical Description note">2 volumes, ca. 438 p.</physdesc>
+            <physloc id="ref10" label="Paging">LH-MV-E-15</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Rittenhouse, David, 1732-1796</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref7">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by Mrs. Henry S. Lowber (v. 2), 1898; accessioned, 1900 (1900 2769). See in-house shelf list for additional accession information.</p>
+        </acqinfo>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>David Rittenhouse was an instrument-maker, astronomer, and treasurer of Pennsylvania; he was elected to the American Philosophical Society in 1768.</p>
+        </bioghist>
+        <odd id="ref9">
+            <head>Early American History Note</head>
+            <p>This collection contains two volumes of David Rittenhouse's daily diaries. The first volume contains meteorological data for 1792. The second volume is more content rich and covers the period in 1785 during which he traveled west to determine the boundaries of Pennsylvania. These records include observations on the environment, daily expenses, and other travel-related recordings. There are also various sketches, calculations, and other notes in these volumes.</p>
+        </odd>
+        <controlaccess>
+            <genreform source="leah">Meteorological Data</genreform>
+            <genreform source="lcsh">Meteorological records.</genreform>
+            <subject source="lcsh">Meteorology -- Observations -- Pennsylvania.</subject>
+            <subject source="leah">Natural History</subject>
+            <subject source="leah">Pennsylvania History</subject>
+            <subject source="leah">Science and Technology</subject>
+            <genreform source="leah">Scientific Data</genreform>
+            <subject source="leah">Travel</subject>
+            <genreform source="leah">Travel Narratives and Journals</genreform>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

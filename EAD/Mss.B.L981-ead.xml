@@ -1,0 +1,1781 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.L981-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.L981</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T19:41-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Sir Charles Lyell papers, 1806-1874</unittitle>
+            <unitid>Mss.B.L981</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1406" type="Box" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>0.5 Linear feet</extent>
+                <extent>Ca. 450 items</extent>
+            </physdesc>
+            <unitdate normal="1806/1874" type="inclusive">1806-1874</unitdate>
+            <physdesc id="ref9" label="General Physical Description note">Ca. 450 items.</physdesc>
+            <abstract id="ref1" label="Abstract">There is correspondence concerning geology, botany, natural history, natural selection, evolution, British science and scientists, and other scientific topics. Most of the letters are written to Lyell, but there are numerous ones from him.</abstract>
+            <physloc id="ref177" label="Paging">LH-MV-C-13</physloc>
+            <origination label="creator">
+                <persname source="naf" role="Author (aut)">Lyell, Charles, Sir, 1797-1875</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref7">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Purchased from Driscoll and accessioned, 1955 (1955 392ms). See in-house shelf list for additional sources, accession numbers and dates.</p>
+            <p></p>
+        </acqinfo>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>Sir Charles Lyell, first baronet, (1797-1875, APS, 1842) was a geologist and lawyer, whose Principles of Geology explained “former changes of the earth’s surface” by means of “modern causes”. Critical of the “catastrophist” views of many contemporary geologists, Lyell considered the earth “a system of balanced antagonistic processes,” a theory later described as uniformitarian. Although he rejected Jean Baptiste Lamarck’s theory of species mutability early in his career, later he favorably reviewed the arguments of Charles Darwin for natural selection as the evolutionary mechanism behind the emergence of new species.</p>
+            <p>The eldest son of Charles Lyell and Frances Smith, Lyell developed a passion for natural history as a boy in New Forest, Forfarshire in Scotland. He was educated in private schools in Midhurst, Sussex county England and entered Exeter College, Oxford in 1816, where he attended William Buckland’s lectures on mineralogy and geology for three years. Lyell graduated B.A. in 1819 with a second class in classical honors. He received an M.A. in 1821, before entering Lincoln’s Inn to prepare for a legal career. Nevertheless, Lyell aimed to become a man of science, and to this end Buckland recommended him for membership in the Geological Society, which he joined together with the Linnean society.</p>
+            <p>Lyell began Geological research in 1821, after meeting Gideon Mantel, an English obstetrician, geologist and paleontologist, working on “Secondary” formations of rocks in Sussex. Lyell also studied younger “Tertiary” formations of the Chalk area of Dorset and Hampshire developed during the Cretaceous period. So, by the age of 24 Lyell was doing the kind of geological research (later called stratigraphy) then practiced by other members of the Geological Society.</p>
+            <p>In 1822 Lyell was called to the bar; nevertheless, geology quickly became more important to him than the Law. In 1823 he was elected secretary of the Geological Society of London and spent the summer in Paris, making the rounds of French scientific circles, and improving his French, then the language of science. He met established figures of the French scientific community, including Georges Cuvier and Alexandre Brongniart (1770-1847, APS 1819). Brongniart’s former student Constant Prévost took time to show him the formations of the Paris basin.</p>
+            <p>Lyell’s meeting with Prèvost proved a critical juncture for his career, since Prèvost convinced the young Scot that the formations outside of Paris could have been deposited under the similar conditions as those existing in present day lakes and seas, the result of so-called “modern causes,” processes observable in the present world. Later that year, Lyell studied the sediments he found in a small, recently drained lake in Kinnordy, and, in his first scientific paper presented to the Geological Society Lyell asserted the lake deposits were very similar to some of the Parisian rocks he had examined. He found no sharp contrast between the “former world” and the present one. Consequently, he maintained that “modern causes” are adequate to explain traces of the remote past. This paper presented the basic idea for all of his future work in geology.</p>
+            <p>By 1825 Lyell’s father was displeased that his son had not established himself in a successful Law practice. Consequently, Lyell felt compelled to spend more time on legal work in 1826. However, the same year Lyell was elected a fellow of the Royal Society, and was also appointed foreign secretary of the Geological Society. He was also becoming known in British intellectual circles, beyond geology. In addition to these memberships, in 1825 Scottish publisher John Murray invited Lyell to write for the Tory Quarterly Review. The position afforded Lyell a much needed source of income, but also provided him a venue for promoting the causes of moderate political reform, state sponsorship of the sciences and the reform of the ancient universities.</p>
+            <p>In an 1826 essay in the Quarterly Review on the publications of the Geological Society Lyell extolled the group for pursuing a science of careful observation, rather than speculative theorizing. While sticking to the accepted view that complex organisms had appeared over time, as the earth slowly cooled, he distinguished himself from other members of the Geological Society by suggesting that “modern causes” might be responsible for much more geological development than most contemporary geologists admitted. Lyell’s essays for the Quarterly Review concluded with a review of a new book on French geology by his friend George Scrope in which he agreed with the author that what was necessary to explain geological development was simply “Time! Time! Time!” Also, at this time Lyell began to plan a book to introduce his view that geology would only become truly scientific, if it was based on “modern causes,” since only these could be directly observed.</p>
+            <p>In 1828 Lyell joined Scottish geologist Roderick Murchison (1792-1871, APS 1860) in a fieldwork tour of the European continent. Heading first for Auvergne in central France, they moved on to Italy, where Lyell developed a rough timeline for the most recent era of the earth’s geologic development represented in Tertiary rock formations. Back in England after the continental tour, he presented his findings to the Geological Society, incorporating the evidence of a broad fossil survey in Tertiary formations by French conchologist Gerard Deshayes.</p>
+            <p>In July 1830 Lyell published the first volume of Principles of Geology, recalling the title of Newton’s revolutionary Principia Mathematica. In it he attempted “to explain the former changes of the earth’s surface, by reference to causes now in operation.” He provided a systematic description of these so-called “modern causes” such as volcanoes, earthquakes, sedimentation and erosion, taken from a range of sources, including accounts of expeditions and voyages. However, Lyell’s main source was a major compilation of the physical and topographical changes recorded in human history published by Karl von Hoff in 1822-1824. He learned German specifically to read the work, and employed Hoff’s data to demonstrate his view that the earth is “a system of balanced antagonistic processes,” erosion balanced by sedimentation and crustal elevation offset by crustal subsidence.</p>
+            <p>Lyell began his book with strong criticism of contemporary geologists. He described the history of science as a protracted struggle between scientists with views similar to his own and those, who invoked catastrophes at every turn. Lyell described his own outlook, which stressed the “uniformity” of nature, as the genuinely scientific view, while equating his opponents with writers who claimed biblical authority to limit the earth’s history to a few thousand years. He lumped geologists, like his mentor Buckland with these literalist writers because he identified the “geological deluge” with the biblical flood. Nevertheless, Buckland had rejected biblical literalism by assuming an unlimited period of time for the earth’s development. Lyell’s goals were to make geology truly scientific, but also “to free the science from Moses.” The book received mixed reviews. Reviewers found his thesis about the power of modern causes significant and persuasive, but thought his criticisms of other geologists grossly unfair. Likewise, they considered Lyell’s skepticism about organic progression utterly unconvincing.</p>
+            <p>In 1831, Lyell was appointed professor of geology at the new King’s College in London. He lectured there during 1832 and 1833, offering similar lectures at the Royal Institution. But he resigned from King’s College in 1833 and gave no further lectures at the Royal Institution, since the salary provided too small an income to justify the distraction from his research and writing.</p>
+            <p>While doing field work in Germany, during the summer of 1831, Lyell met the 23-year old Mary Horner, daughter of the Whig reformer and geologist Leonard Horner. They married on July 12, 1832, after a geological honeymoon, settling in Hart Street, Bloomsbury in London near the British Museum and the Geological Society’s headquarters in Somerset House. Mary was well educated and fluent in French and German, and soon began helping her husband with translation, compensating for his poor eyesight. The marriage would remain childless.</p>
+            <p>Lyell produced the second volume of the Principles in 1832, dealing with “modern causes” in the organic realm, particularly the relationship between organisms and their enviornment. He rejected Jean Baptiste Lamarck’s theory of the incessant mutability of species, maintaining that species are “stable entities” that appear and become extinct piecemeal in time and space. He attributed extinctions not to catastrophes, but to the gradual changes in the environment explained in his first volume. It was in his review of Lyell’s second volume that William Whewell coined the terms “uniformitarian” and “catastrophist” for the two opposing schools of geologists.</p>
+            <p>In the third and final volume of the Principles Lyell laid out his time scale for the Tertiary era, which formed its core theme. He used the lengthy lists of fossilized species from Deshayes’s Paris survey of Tertiary formations to infer a chronological order for the era. Based upon the incidence of the fossilized remains of “recent” species in the various Tertiary strata, Whewell proposed to Lyell Greek-based names for successive periods of Tertiary time. The “Eocene” or early recent strata, the “Miocene” or middle recent strata, and the “Pliocene” or “almost” recent strata. Lyell maintained that the entire Tertiary era exemplified the essential “uniformity” of the earth throughout geologic time. Lyell laid to rest the alleged evidence of radically different conditions in earlier eras with his concept of “metamorphism”. He pointed out that deep burial within the earth’s crust of its oldest rocks had destroyed their fossils and altered them beyond recognition. Likewise, sedimentary strata were transformed by heat, being converted to crystalline rocks, when submerged below the earth’s surface. Lyell called these rocks “metamorphic” rocks.</p>
+            <p>In 1834, Lyell presented the Bakerian lecture at the Royal Society and afterward received the Society’s royal medal. However, it was awarded specifically for his work on modern causes, and not for his more controversial claims. In particular, even Lyell’s strongest supporters were critical of his rejection of a directional history of the world, while other critics took exception with his rejection the mutability of species. In 1835-37 Lyell served as president of the Geological Society, and used his anniversary addresses to examine current geological research in light of his own approach to science. Although his notions of modern causes continued to gain headway among geologists, other aspects of his work did not. The uneven evaluation of his ideas influenced Lyell to divide his research into two parts. Subsequent editions of the Principles, beginning with the sixth edition (1840) focused purely on the interactions “modern causes”. Lyell planned a separate book on the use of fossil mollusks in Tertiary geology, but this never appeared.</p>
+            <p>In 1838 Lyell produced a book entitled Elements of Geology that examined the whole stratigraphical record from the most recent to most ancient formations. The work interpreted terrestrial processes in terms of geological uniformity for a wide audience of educated lay readers. Written in a clear and persuasive style, the book also appeared in American editions and French and German translations, giving Lyell’s ideas international currency.</p>
+            <p>In 1841-42 Lyell was invited to the United States to give the Lowell lectures in Boston, after which he and his wife traveled widely, publishing a two volume record of Travels in North America, containing his geological, political and social observations. In an encore appearance they returned to America in 1845-46, when he was invited to give the Lowell lectures once again. He also made two subsequent visits to the United States in 1852 and 1853.</p>
+            <p>By this point in his career Lyell had become a prominent man of science. He was elected to membership in the American Philosophical Society in 1842, knighted by the Queen in 1848 and served on the Commission for the Exhibition of 1851. During a second term as president of the Geological Society in 1848-51, Lyell once again criticized the alleged fossil evidence for species change. Some puzzling field observations from Madeira the Canary Islands came to his attention in 1857, forcing him consider once more the possibility of an evolutionary mechanism behind the development of species. Shortly before this in 1856, Charles Darwin informed Lyell of his own theory of natural selection as the mechanism behind evolution. Despite the implications of Darwin’s ideas for his geology and his view of human life, Lyell encouraged him to publish without delay.</p>
+            <p>Lyell’s last major work entitled the Antiquity of man, published in 1863 was informed by Darwin’s Origin of Species (1859), as well as new geological evidence that established the existence of early human beings alongside mammoths and other extinct mammals. Lyell now reviewed the evidence for evolution quite favorably, although he only clearly embraced the idea four years later in the tenth edition of the Principles (1867-68).</p>
+            <p>Lyell was active in the British Association for the Advancement of Science in its early years, serving as president for the Bath meeting in 1864. Also, that year he was created a baronet, and in 1866 received the Wollaston medal, the Geological Society’s highest award. Lyell’s Elements went through eight editions, and the twelfth edition of the Principles was published posthumously in 1875. Lyell died on February 22, 1875 at his London home, preceded two years earlier by his wife Mary. He was buried in Westminster Abbey.</p>
+            <p></p>
+        </bioghist>
+        <separatedmaterial id="ref8">
+            <head>Separated Materials note</head>
+            <p>Many of these letters have been incorporated into the 
+                <extref ns2:actuate="onLoad" ns2:show="new" ns2:href="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.D25-ead.xml">Charles Darwin Papers (B D25)</extref>.</p>
+        </separatedmaterial>
+        <scopecontent id="ref176">
+            <head>Scope and Contents Note</head>
+            <p>The Charles Lyell Papers consist of the correspondence of Sir Charles Lyell concerning geology, botany, natural history, natural selection, evolution, British science and scientists, and other scientific topics. The letters are all written by Lyell. The original collection contained about 450 items, but many of these letters have been incorporated into the Charles Darwin Papers (B D25).</p>
+            <p>The selection of letters in this collection spans the years 1830-1874, beginning in July of 1830 around the time Lyell published the first volume of his famous 
+                <emph render="italic">Principles of Geology</emph>. Appropriately, the first letter dated July 5, 1830 is addressed to Lyell’s publisher John Murray, notifying him that Monsieur Constant Prèvost the distinguished French geologist, has made arrangements to translate Lyell’s work into French and to add his own commentary. Lyell is supportive of the project and says he has written to Prèvost to give his consent. He also asks that two copies of the book be mailed to Prèvost in Paris. A number of letters from the decades of the 1830s and 1840s are addressed to Professor Benjamin Silliman of Yale University related to publishing matters and (later) Lyell’s American lectures in Boston, where he twice presented the Lowell lectures (1841/1842 and 1845/1846). After thanking Silliman for a notice about the 4th edition of the Principles in the 
+                <emph render="italic">American Journal of Science and Arts</emph>, Lyell voiced his dismay in a June 14, 1836 letter about the marketing of cheaper 3rd edition reprints of the book in America. His concerns, both to preserve the profits and promote the improvements of the most recent edition , are typical of the tone and substance of this correspondence. To be sure, Lyell’s later correspondence with Silliman warms considerably, but the concerns continue be largely financial. Such concerns even color the February 1842 letters sent from Philadelphia during Lyell’s first American tour. In a long letter of February 6, after discussions of his lectures in Boston and New York and how best to maintain the originality of his material, Lyell shifts to a personal note, “We are quite sorry to hear of your little grandchild’s illness &amp; hope she will soon be quite recovered.” Lyell’s other prominent British and American correspondents include Darwin’s teacher, the botanist John Stevens Henslow and Alexander Dallas Bache, an American physicist and Superintendent of the U.S. Coastal Survey. Lyell’s most frequent correspondents in this collection were fellow British geologists Samuel P. Woodword and Charles Moore, and the naturalist Henry W. Bates. Two short letters to Woodward from early 1843 concern American geology and paleontology. A January 5 letter refers to some New Jersey fossils “which I have got Mr. Owen to name.” Another dated February 3 requests illustrations of Pennsylvania’s Stigmaria clays. A much longer letter written nearly fourteen years later on March 16, 1857 announces that Lyell is preparing his Madeira paper , a paper in which he reconsidered the evidence for species change and the evolutionary mechanism for species development. This is, no doubt, a critical piece of correspondence, since it is evident from Lyell’s comments that he is beginning to rethink his position. Written against the backdrop of his last major research project on the theory of volcanic “craters of elevation,” he declares that “the age of the Madeira bed [;] that is a more difficult question.” One thing that was evident to Lyell was the connection of the “fossil [plant] species” with the living plants he encountered on the island. Later he notes what he considers “the most satisfactory proof of a change in the comparison of prevailing genera . . . arrived at in reference to the Grand Canary shells.”</p>
+            <p>Lyell also wrote a number of letters to the talented amateur geologist from Bath Charles Moore in the late 1860s. Despite a lack of formal geological training, Moore had a knowledge of geology that was said to equal or exceed that of professional geologists. Evidently, Lyell considered him knowledgeable, since in a January 24, 1866 he sent Moore some manuscript pages from the third edition of his 
+                <emph render="italic">Elements of Geology</emph>. Explaining that these proof pages deal with the thickness of Arctic and Antarctic ice throughout the year, he says “I shall be glad of a reference to Humboldt about the thickness of Alpine snow.”</p>
+            <p>More numerous is Lyell’s correspondence with the naturalist Henry W. Bates, who was famous for his exploration of the Amazon and the discovery of animal mimicry. In an August 31, 1866 letter Lyell writes to ask him whether “you read the papers by Agassiz on the ‘Valley of the Amazons’ and what he says of the glacier which once filled it and of the absence of a delta and of the supposed marine shells near Abydos [in Egypt?].” The following year on November 15, 1867 he wrote Bates to inquire about another Agassiz article published in Boston’s 
+                <emph render="italic">Christian Examiner</emph>. In the article, that touched upon “the geographical distribution of the most distinct races of man and the leading zoological provinces . . . . In that article [Lyell points out] he admitted the truth of what Dr. Morton had always maintained, that the same Red Indian race spread from Canada to Friegia.” All of the voluminous correspondence between Charles Darwin to Lyell was incorporated into the Charles Darwin Papers (B D25) and the Darwin-Lyell Papers (B D25L) Although the researcher might expect to find a number of letters in this collection between Lyell and other early supporters of Darwin’s theory of natural selection, this collection contains only one brief note to the botanist Hooker dated December 29, 1865. The note appears to have accompanied a specimen from the Scottish geologist Sir Roderick Murchinson, which Lyell was asked to forward.</p>
+            <p>Table of Contents available</p>
+        </scopecontent>
+        <odd id="ref270">
+            <head>Early American History Note</head>
+            <p>This manuscript collection falls outside the geographic scope of the Early American guide (British North America and the United States before 1840). It may be of interest to scholars interested in global history, international relations, imperialism, or the U.S. in the world.</p>
+        </odd>
+        <controlaccess>
+            <persname rules="aacr" source="naf">Agassiz, Louis, 1807-1873</persname>
+            <persname rules="aacr" source="naf">Babbage, Charles, 1791-1871</persname>
+            <persname rules="aacr" source="naf">Ball, John, 1818-1889 </persname>
+            <persname source="naf">Bates, Henry Walter, 1825-1892</persname>
+            <persname rules="aacr" source="naf">Beccari, Odoardo, 1843-1920</persname>
+            <persname rules="aacr" source="naf">Bentham, George, 1800-1884</persname>
+            <persname rules="aacr" source="naf">Bunbury, Charles James Fox, Sir, 1809-1886</persname>
+            <persname source="ingest">Busk, George, 1807-1886</persname>
+            <persname rules="aacr" source="naf">Carpenter, William Benjamin, 1813-1885 </persname>
+            <persname rules="aacr" source="naf">Conybeare, William Daniel, 1787-1857</persname>
+            <persname rules="aacr" source="naf">Curtis, John, 1791-1862</persname>
+            <persname source="naf">De La Beche, Henry T.,  (Henry Thomas), 1796-1855</persname>
+            <persname rules="aacr" source="naf">Don, George, 1798-1856</persname>
+            <persname rules="aacr" source="naf">Fitton, William Henry, 1780-1861</persname>
+            <persname rules="aacr" source="naf">Fleming, John, 1785-1857</persname>
+            <persname source="naf">Flower , William Henry, 1831-1899</persname>
+            <persname rules="aacr" source="naf">Forbes, Edward, 1815-1854</persname>
+            <persname source="naf">Galton, Francis, Sir, 1822-1911 </persname>
+            <famname source="ingest">Grey-Egerton, Philip de Malpas, -- Sir, -- 1806-1881.</famname>
+            <persname source="ingest">Haeckel, Ernst Heinrich Philip August</persname>
+            <persname source="ingest">Henslow, J. S. (John Stevens), 1796-1861</persname>
+            <persname source="naf">Herschel, John F. W., Sir,  (John Frederick William), 1792-1871</persname>
+            <persname source="naf">Hooker, Joseph Dalton, Sir, 1817-1911</persname>
+            <persname rules="aacr" source="naf">Humboldt, Alexander von, 1769-1859</persname>
+            <persname source="ingest">Huxley, Thomas Henry, 1825-1895</persname>
+            <persname rules="aacr" source="naf">Judd, John W.,  (John Wesley), 1840-1916</persname>
+            <persname rules="aacr" source="naf">Mackenzie, George Steuart, Sir, 1780-1848</persname>
+            <persname source="naf">Mantell, Gideon Algernon, 1790-1852</persname>
+            <persname rules="aacr" source="naf">Milne-Home, David, 1817-1911</persname>
+            <persname rules="aacr" source="naf">Murchison, Roderick Impey, Sir, 1792-1871</persname>
+            <persname source="ingest">Newton, Alfred, 1829-1907</persname>
+            <persname rules="aacr" source="naf">Nuttall, Thomas, 1786-1859</persname>
+            <persname rules="aacr" source="naf">Owen, Richard, 1804-1892</persname>
+            <persname source="ingest">Sabine, Edward, Sir, 1788-1883</persname>
+            <persname source="ingest">Sclater, Philip Lutley, 1829-1913</persname>
+            <persname source="ingest">Sedgwick, Adam, 1785-1873</persname>
+            <persname rules="aacr" source="naf">Smith, James Edward, Sir, 1759-1828</persname>
+            <persname source="ingest">Sowerby, James, 1757-1822</persname>
+            <persname rules="aacr" source="local">Torchhammer, Georg</persname>
+            <persname rules="aacr" source="naf">Turner, Dawson, 1775-1858</persname>
+            <persname source="ingest">Wallace, Alfred Russel, 1823-1913</persname>
+            <persname source="ingest">Whewell, William, 1794-1866</persname>
+            <persname rules="aacr" source="local">Wood, Searles Valentine, 1798-1880</persname>
+            <subject source="leah">Beyond Early America</subject>
+            <subject source="lcsh">Botany.</subject>
+            <subject source="lcsh">Evolution.</subject>
+            <subject source="lcsh">Geology.</subject>
+            <subject source="lcsh">Natural history.</subject>
+            <subject source="lcsh">Natural selection.</subject>
+            <subject source="lcsh">Paleontology.</subject>
+            <subject source="lcsh">Science -- Great Britain.</subject>
+            <subject source="lcsh">Scientists -- Great Britain.</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref10" level="series">
+                <did>
+                    <unittitle>Papers</unittitle>
+                </did>
+                <c02 id="ref178" level="file">
+                    <did>
+                        <unittitle>B L981 Table of Contents</unittitle>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref179" level="file">
+                    <did>
+                        <unittitle>B L981.33 Table of Contents</unittitle>
+                        <unitdate>1969</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref306" level="file">
+                    <did>
+                        <unittitle>Letter to [John] Murray</unittitle>
+                        <unitdate>July 5, 1830</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref307">
+                        <head>Scope and Contents note</head>
+                        <p>Regarding a French translation of Lyell's first book.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref180" level="file">
+                    <did>
+                        <unittitle>Letter to [John Stevens] Henslow</unittitle>
+                        <unitdate>Feb. 15, 1832</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref181">
+                        <head>Scope and Contents note</head>
+                        <p>References Babbage.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref14" level="file">
+                    <did>
+                        <unittitle>Letter to Mrs. [Charlotte Hugonin] Murchison, Bryanston Square</unittitle>
+                        <unitdate>May 4, 1832</unitdate>
+                        <physdesc id="ref15" label="General Physical Description note">7-1/4x4-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref16">
+                        <head>Scope and Contents note</head>
+                        <p>A.L.S. 3p. and add. Mutilated. Concerning the admission of ladies to his lectures on geology at Kings College. Cf.Life, Letters and Journals...v.I, 381 ff. for story of admissin for women. Originally B L981.15</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref182" level="file">
+                    <did>
+                        <unittitle>Letter to [Gabriele] Rossetti</unittitle>
+                        <unitdate>Mar. 22, 1834</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref183">
+                        <head>Scope and Contents note</head>
+                        <p>Regarding translation of lyrics.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref184" level="file">
+                    <did>
+                        <unittitle>Letter to W. T. Brande</unittitle>
+                        <unitdate>Jan. 5, 1836</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref185" level="file">
+                    <did>
+                        <unittitle>Letter to H. E. Lloyd</unittitle>
+                        <unitdate>May 12, 1836</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref186">
+                        <head>Scope and Contents note</head>
+                        <p>References enclosure (not included) discussing Lyell's opinions on Prof. Parrot's observations and the Chilean earthquake of 1822. Gratitude for communicating Prof. Lenzo's observations on the levels of the Caspian Sea, citation of Dr. meyer regarding marine plants and animals; regrets that he did not have the data in time to have "greatly strengthened the case" against William Cuming.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref17" level="file">
+                    <did>
+                        <unittitle>Letter to J. F. Royle</unittitle>
+                        <unitdate>June 9, 1836</unitdate>
+                        <physdesc id="ref18" label="General Physical Description note">7 1/2" x 4 1/2"</physdesc>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref19">
+                        <head>Scope and Contents note</head>
+                        <p>A.L.S. 2p. and add. Asks him to distribute some copies of his anniversary address. Originally B L981.1</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref187" level="file">
+                    <did>
+                        <unittitle>Letter to [Benjamin] Silliman</unittitle>
+                        <unitdate>June 14, 1836</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref188">
+                        <head>Scope and Contents note</head>
+                        <p>Regarding Silliman's favorable impression of the 4th edition of Lyell's book.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref26" level="file">
+                    <did>
+                        <unittitle>Letter to Dr. [J.F.] Royle</unittitle>
+                        <unitdate>Feb. 4, 1837</unitdate>
+                        <physdesc id="ref27" label="General Physical Description note">7 1/4" x 4 1/2"</physdesc>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref28">
+                        <head>Scope and Contents note</head>
+                        <p>A.L.S. 3p. and add. Originally B L981.2</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref29" level="file">
+                    <did>
+                        <unittitle>Letter to J[ames de Carle] Sowerby, Kentish Town</unittitle>
+                        <unitdate>May 22, 1837</unitdate>
+                        <physdesc id="ref30" label="General Physical Description note">7-1/2x4-1/2x</physdesc>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref31">
+                        <head>Scope and Contents note</head>
+                        <p>A.L.S. 1p. and add. Sends cardita and asks that it be sketched. Originally B L981.30</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref308" level="file">
+                    <did>
+                        <unittitle>Letter to [Benjamin] Silliman</unittitle>
+                        <unitdate>December 25, 1838</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref309">
+                        <head>Scope and Contents note</head>
+                        <p>Regarding American copyrights and trans-Atlantic reprints of Lyell's work; English booksellers' practice of repackaging and marking up articles; the controversy of Harlan's Basilosaurus.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref189" level="file">
+                    <did>
+                        <unittitle>Letter to [] B. Wigham</unittitle>
+                        <unitdate>Apr. 14, 1841</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref190">
+                        <head>Scope and Contents note</head>
+                        <p>Returning a mastadon tooth and packet of fishes.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref191" level="file">
+                    <did>
+                        <unittitle>Letter to [Benjamin] Silliman</unittitle>
+                        <unitdate>Feb. 6, 1842</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref192">
+                        <head>Scope and Contents note</head>
+                        <p>Regarding lectures.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref193" level="file">
+                    <did>
+                        <unittitle>Letter to [Benjamin] Silliman</unittitle>
+                        <unitdate>Feb. 22, 1842</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref194">
+                        <head>Scope and Contents note</head>
+                        <p>Regarding existing stock of Lyell's book and his search for his next publisher.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref195" level="file">
+                    <did>
+                        <unittitle>Letter to L[ewis] J[acob] Cist</unittitle>
+                        <unitdate>May 28, 1842</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref196">
+                        <head>Scope and Contents note</head>
+                        <p>Schedule prevents Lyell from lecturing in Cincinnati.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref197" level="file">
+                    <did>
+                        <unittitle>Letter to S. Woodward</unittitle>
+                        <unitdate>Jan. 5, 1843</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref198">
+                        <head>Scope and Contents note</head>
+                        <p>Request for the return of his illustrations (including Niagara Falls) and New Jersey fossils.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref32" level="file">
+                    <did>
+                        <unittitle>Letter to Mr. Putnam</unittitle>
+                        <unitdate>Jan. 13, 1843</unitdate>
+                        <physdesc id="ref33" label="General Physical Description note">7-1/2x4-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref34">
+                        <head>Scope and Contents note</head>
+                        <p>A.L.S. 2p. He is to send, and bill, Sir William Symonds the Michaux Sylva.</p>
+                        <p>Unlocated 2 March 2011.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref199" level="file">
+                    <did>
+                        <unittitle>Letter to Mr. Putnam</unittitle>
+                        <unitdate>Jan. 19, 1843</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref200">
+                        <head>Scope and Contents note</head>
+                        <p>Requesting a delivery to Capt. Sir. William Symonds, currently out of town.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref201" level="file">
+                    <did>
+                        <unittitle>Letter to S. Woodward</unittitle>
+                        <unitdate>Feb. 3, 1843</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref202">
+                        <head>Scope and Contents note</head>
+                        <p>Request for illustrations (Stigmaria clays of Pennsylvania) sent in a letter read to the Geological Society.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref35" level="file">
+                    <did>
+                        <unittitle>Letter to C. Manley</unittitle>
+                        <unitdate>May 8, 1843</unitdate>
+                        <physdesc id="ref36" label="General Physical Description note">7 1/4" x 4 1/2"</physdesc>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref37">
+                        <head>Scope and Contents note</head>
+                        <p>A.L.S. 1p. Previous engagement prevents his attendance at a meeting. Originally B L981.6</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref203" level="file">
+                    <did>
+                        <unittitle>Letter to S. Woodward</unittitle>
+                        <unitdate>June 12, 1845</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref204">
+                        <head>Scope and Contents note</head>
+                        <p>Sorry to have missed Woodward at the previous evening's meeting of the Geological Society.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref205" level="file">
+                    <did>
+                        <unittitle>Letter to [Benjamin] Silliman</unittitle>
+                        <unitdate>Apr. 26, 1846</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref206">
+                        <head>Scope and Contents note</head>
+                        <p>Regarding New Hampshire mountains.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref310" level="file">
+                    <did>
+                        <unittitle>Letter to B[enjamin] Silliman</unittitle>
+                        <unitdate>May 8, 1846</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref311">
+                        <head>Scope and Contents note</head>
+                        <p>Regarding publication.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref38" level="file">
+                    <did>
+                        <unittitle>Letter to John Kempe (?)</unittitle>
+                        <unitdate>Dec. 6, 1846</unitdate>
+                        <physdesc id="ref39" label="General Physical Description note">7-1/4x4-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref40">
+                        <head>Scope and Contents note</head>
+                        <p>A.L.S. 3p. and end. On the co-existence of man and the megatherium. Originally B L981.32</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref207" level="file">
+                    <did>
+                        <unittitle>Letter to [?]</unittitle>
+                        <unitdate>Dec. 8, 1846</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref208">
+                        <head>Scope and Contents note</head>
+                        <p>Fragment.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref41" level="file">
+                    <did>
+                        <unittitle>Letter to Lady [Marion Shaw] Bell</unittitle>
+                        <unitdate>Feb. 11, 1847</unitdate>
+                        <physdesc id="ref42" label="General Physical Description note">7x4-1/4</physdesc>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref43">
+                        <head>Scope and Contents note</head>
+                        <p>A.L.S. 2p. Says that Matheson will vote for her candidate. Originally B L981.23</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref209" level="file">
+                    <did>
+                        <unittitle>Letter to J[oshua] T[oulmin] Smith</unittitle>
+                        <unitdate>July 6, 1847</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref210">
+                        <head>Scope and Contents note</head>
+                        <p>Appreciates Smith's paper on the formation of chalk flints.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref211" level="file">
+                    <did>
+                        <unittitle>Letter to [?]</unittitle>
+                        <unitdate>Jan. 11, 1848</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref212">
+                        <head>Scope and Contents note</head>
+                        <p>Regarding Dr. Hooker's mountain climbing in the Himalayas and fatalities in the party.</p>
+                    </scopecontent>
+                    <controlaccess>
+                        <persname source="naf">Hooker, Joseph Dalton, Sir, 1817-1911</persname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref44" level="file">
+                    <did>
+                        <unittitle>Letter to "My dear Sir"</unittitle>
+                        <unitdate>Dec. 5, 1848</unitdate>
+                        <physdesc id="ref45" label="General Physical Description note">7-1/4x4-1/4</physdesc>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref46">
+                        <head>Scope and Contents note</head>
+                        <p>A.L.S. 4p. Concerning the division of estates upon the death of the father, in the U.S. as contrasted with Great Britain and France. Refers to John Jacob Astor's will. Originally B L981.33</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref47" level="file">
+                    <did>
+                        <unittitle>Letter to Lieut. Davis, Cambridge</unittitle>
+                        <unitdate>Jan. 11, 1849</unitdate>
+                        <physdesc id="ref48" label="General Physical Description note">7-1/4x4-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref49">
+                        <head>Scope and Contents note</head>
+                        <p>A.L.S. 3p.and end. Concerning his work on geology and tidal activity. Has submitted his theories to the Geological Society. Originally B L981.28</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref50" level="file">
+                    <did>
+                        <unittitle>Letter to [Joseph Green?] Cogswell</unittitle>
+                        <unitdate>March 6, 1849</unitdate>
+                        <physdesc id="ref51" label="General Physical Description note">7-1/4x4-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref52">
+                        <head>Scope and Contents note</head>
+                        <p>A.L.S. 4p. Will bring letters and hopes to see him. His MS on the U.S. (not geological) is going to the printers., and wishes that Cogswell read it and forward it to the publisher. Originally B L981.20</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref53" level="file">
+                    <did>
+                        <unittitle>Letter to Madame Van der Weyer</unittitle>
+                        <unitdate>Sept. 20, 1850</unitdate>
+                        <physdesc id="ref54" label="General Physical Description note">7-1/4x4-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref55">
+                        <head>Scope and Contents note</head>
+                        <p>A.L.S. 2p. Asks that scientific publications be forwarded. Originally B L981.33</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref213" level="file">
+                    <did>
+                        <unittitle>Letter to "My dear Sir"</unittitle>
+                        <unitdate>Feb. 18, 1851</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref214">
+                        <head>Scope and Contents note</head>
+                        <p>Suffering from a cold; rules for signing certificates, voting procedures; rough sketches of flints discovered in Belgium.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref215" level="file">
+                    <did>
+                        <unittitle>Letter to R. Dunn</unittitle>
+                        <unitdate>Apr. 27, 1851</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref216">
+                        <head>Scope and Contents note</head>
+                        <p>Apologies for missing invitation, as he was in Dosetshire at the time.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref56" level="file">
+                    <did>
+                        <unittitle>Letter to [John Thomas] Quekett</unittitle>
+                        <unitdate>Nov. 2, 1851</unitdate>
+                        <physdesc id="ref57" label="General Physical Description note">7x4-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref58">
+                        <head>Scope and Contents note</head>
+                        <p>A.L.S. 3p. and end. Friendly letter. Concerning Richard Owen. Concerning bats.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref59" level="file">
+                    <did>
+                        <unittitle>Letter to J[ohn] Chapman</unittitle>
+                        <unitdate>March 27, 1852</unitdate>
+                        <physdesc id="ref60" label="General Physical Description note">7-1/4x4-1/4</physdesc>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref61">
+                        <head>Scope and Contents note</head>
+                        <p>Harley St., A.L.S. 1p. Sends ticket for lecture, but asks that it be returned, if unused. Originally B L981.22</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref62" level="file">
+                    <did>
+                        <unittitle>Letter to ----</unittitle>
+                        <unitdate>June 15, 1852</unitdate>
+                        <physdesc id="ref63" label="General Physical Description note">7" x 4 1/2"</physdesc>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref64">
+                        <head>Scope and Contents note</head>
+                        <p>A.L.S. 3p. Originally B L981.3</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref217" level="file">
+                    <did>
+                        <unittitle>Letter to Dr. Dunn</unittitle>
+                        <unitdate>Mar. 14, 1853</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref218">
+                        <head>Scope and Contents note</head>
+                        <p>Sorry to have missed Dunn's paper on craniology, offers tickets for Lyell's own lecture.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref219" level="file">
+                    <did>
+                        <unittitle>Letter to Dr. Carpenter</unittitle>
+                        <unitdate>Mar. 21, 1853</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref220">
+                        <head>Scope and Contents note</head>
+                        <p>Cannot attend party due to a prior engagement at Murchison's; wishes to share a drawing of a shell and fish's tooth.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref221" level="file">
+                    <did>
+                        <unittitle>Letter to J. [R.] Ingersoll</unittitle>
+                        <unitdate>Mar. 26, 1853</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref222">
+                        <head>Scope and Contents note</head>
+                        <p>Regarding the disposition of three copies of Owens's geological report (Geological Society, Museum of Economic Geology, and the Library of the Royal Society); Lyell and Murchison have each received a copy.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref223" level="file">
+                    <did>
+                        <unittitle>Letter to C[harles] W[entworth] Dilke</unittitle>
+                        <unitdate>Oct. 31, 1853</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref224">
+                        <head>Scope and Contents note</head>
+                        <p>Regarding the distribution of a draft report.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref65" level="file">
+                    <did>
+                        <unittitle>Letter to A[lexander] D. Bache</unittitle>
+                        <unitdate>Nov. 9, 1853</unitdate>
+                        <physdesc id="ref66" label="General Physical Description note">7-1/4x4-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref67">
+                        <head>Scope and Contents note</head>
+                        <p>London, A.L.S. 4p. Concerning a geological exhibition. Geology and an expedition for study of geology of the Canary Islands. Refers to Hilgard, Hall and Walker. Originally B L981.24</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref68" level="file">
+                    <did>
+                        <unittitle>Letter to J. Smith</unittitle>
+                        <unitdate>Oct. 8, 1855</unitdate>
+                        <physdesc id="ref69" label="General Physical Description note">7" x 4 1/4"</physdesc>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref70">
+                        <head>Scope and Contents note</head>
+                        <p>London, A.L.S. 3p. Sends copy of a lecture. Originally B L981.11</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref71" level="file">
+                    <did>
+                        <unittitle>Letter to the Editors of the Athenaeum</unittitle>
+                        <unitdate>March 10, 1856</unitdate>
+                        <physdesc id="ref72" label="General Physical Description note">7x4-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref73">
+                        <head>Scope and Contents note</head>
+                        <p>A.L.S. 2p. and add. Concerning publication of his talk before the Royal Institution. Originally B L981.31</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref225" level="file">
+                    <did>
+                        <unittitle>Letter to Rev. I. Barlow.</unittitle>
+                        <unitdate>Jan. 22, 1857</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref226">
+                        <head>Scope and Contents note</head>
+                        <p>Regretfully declines invitation.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref74" level="file">
+                    <did>
+                        <unittitle>Letter to S[amuel Pickworth] Woodward, British Museum</unittitle>
+                        <unitdate>March 16, 1857</unitdate>
+                        <physdesc id="ref75" label="General Physical Description note">7x4-1/4</physdesc>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref76">
+                        <head>Scope and Contents note</head>
+                        <p>A.L.S. 13p. and add. Concerning rocks and fossil shells of Madiera and Canary Islands and age of the islands. Sends list of shells. Refers to Wollaston. Originally B L981.19</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref227" level="file">
+                    <did>
+                        <unittitle>Letter to Major Becker</unittitle>
+                        <unitdate>Oct. 31, 1858</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref228">
+                        <head>Scope and Contents note</head>
+                        <p>Thanks for the geological maps.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref77" level="file">
+                    <did>
+                        <unittitle>Letter to "My dear Sir"</unittitle>
+                        <unitdate>May 11, 1859</unitdate>
+                        <physdesc id="ref78" label="General Physical Description note">7x4-1/4</physdesc>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref79">
+                        <head>Scope and Contents note</head>
+                        <p>A.L.S. 1p. Concerning the publication of his Etna paper by the Berlin Geological Society. Originally B L981.33</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref229" level="file">
+                    <did>
+                        <unittitle>Letter to Sir Benjamin [Brody]</unittitle>
+                        <unitdate>May 30, 1859</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref230">
+                        <head>Scope and Contents note</head>
+                        <p>In support of Dr. Charles Murchison for the post of Superintendant of the Millbank Penitentiary.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref231" level="file">
+                    <did>
+                        <unittitle>Letter to [?]</unittitle>
+                        <unitdate>June 3, 1859</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref232">
+                        <head>Scope and Contents note</head>
+                        <p>Name of recipient sliced out. Regarding fossils in Lower vs. Upper Green Sand, which may have implications for Lyell's work.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref233" level="file">
+                    <did>
+                        <unittitle>Letter to H[enry] J[ohn] S[tephen] Smith</unittitle>
+                        <unitdate>June 13, 1859</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref234">
+                        <head>Scope and Contents note</head>
+                        <p>Regarding travel and meeting logistics.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref80" level="file">
+                    <did>
+                        <unittitle>Letter to ----</unittitle>
+                        <unitdate>Nov. 19, 1859</unitdate>
+                        <physdesc id="ref81" label="General Physical Description note">7" x 4 1/4"</physdesc>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref82">
+                        <head>Scope and Contents note</head>
+                        <p>London, A.L.S. 2p. Cave animals. Originally B L981.10</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref235" level="file">
+                    <did>
+                        <unittitle>Letter to [?]</unittitle>
+                        <unitdate>Jan. 24, 1860</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref236">
+                        <head>Scope and Contents note</head>
+                        <p>Has received flint implements.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref83" level="file">
+                    <did>
+                        <unittitle>Letter to G[eorge Musgrave] Musgrave</unittitle>
+                        <unitdate>June 8, 1860</unitdate>
+                        <physdesc id="ref84" label="General Physical Description note">7x4-1/4</physdesc>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref85">
+                        <head>Scope and Contents note</head>
+                        <p>A.L.S. 2p. Concerning a fossil oyster. Originally B L981.17</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref86" level="file">
+                    <did>
+                        <unittitle>Letter to ----</unittitle>
+                        <unitdate>July 24, 1860</unitdate>
+                        <physdesc id="ref87" label="General Physical Description note">7x4-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref88">
+                        <head>Scope and Contents note</head>
+                        <p>London, A.L.S. 1p. Has received flint implements and thinks more will be found. Originally B L981.27</p>
+                        <p>Unlocated 2 March 2011.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref89" level="file">
+                    <did>
+                        <unittitle>Letter to A[lbert] Way</unittitle>
+                        <unitdate>Aug. 9, 1860</unitdate>
+                        <physdesc id="ref90" label="General Physical Description note">5-1/2x4-1/4</physdesc>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref91">
+                        <head>Scope and Contents note</head>
+                        <p>Rudolstadt, Germany, A.L.S. 3p. Antiquity of man, in Liege caves, and other locations. Concerning an argument at "your archaeological meeting." Originally B L981.18</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref92" level="file">
+                    <did>
+                        <unittitle>Letter to W. White</unittitle>
+                        <unitdate>Dec. 2, 1861</unitdate>
+                        <physdesc id="ref93" label="General Physical Description note">7" x 4 1/2"</physdesc>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref94">
+                        <head>Scope and Contents note</head>
+                        <p>A.L.S. 2p. Desires to borrow certain works from the library. Originally B L981.9</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref95" level="file">
+                    <did>
+                        <unittitle>Letter to [Henry] Bence Jones</unittitle>
+                        <unitdate>July 25, 1862</unitdate>
+                        <physdesc id="ref96" label="General Physical Description note">7x4-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref97">
+                        <head>Scope and Contents note</head>
+                        <p>A.L.S. 2p. Refuses invitation since he is trying to finish a book. Expects to hear Huxley. Originally B L981.21</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref98" level="file">
+                    <did>
+                        <unittitle>Letter to E. Belfour</unittitle>
+                        <unitdate>Jan. 27, 1863</unitdate>
+                        <physdesc id="ref99" label="General Physical Description note">6" x 3 3/4"</physdesc>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref100">
+                        <head>Scope and Contents note</head>
+                        <p>A.L.S. 1p. Asks him to call a meeting of the Hunterian trustees. Originally B L981.12</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref237" level="file">
+                    <did>
+                        <unittitle>Letter to J. Timbe</unittitle>
+                        <unitdate>Feb. 23, 1863</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref238">
+                        <head>Scope and Contents note</head>
+                        <p>Timbe portraits are "very truthful" and Lyell wishes to buy a copy of the bok.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref101" level="file">
+                    <did>
+                        <unittitle>Letter to Dr. [William ?] Sharpey</unittitle>
+                        <unitdate>Feb. 26, 1863</unitdate>
+                        <physdesc id="ref102" label="General Physical Description note">5 3/4" x 4 1/2"</physdesc>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref103">
+                        <head>Scope and Contents note</head>
+                        <p>A.L.S. 3p. Correction of one of his works. Originally B L981.8</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref104" level="file">
+                    <did>
+                        <unittitle>Letter to G[eorge] P[oulett Thomson] Scrope</unittitle>
+                        <unitdate>April 29, 1863</unitdate>
+                        <physdesc id="ref105" label="General Physical Description note">7x4-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref106">
+                        <head>Scope and Contents note</head>
+                        <p>A.L.S. 6p. Concerning disputes with Falconer and Prestwick. Concerning a publication of his. Originally B L981.16</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref239" level="file">
+                    <did>
+                        <unittitle>Letter to H. Dixon</unittitle>
+                        <unitdate>May 30, 1863</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref240">
+                        <head>Scope and Contents note</head>
+                        <p>Sending Col. Byrne's memoir of the Irish Rebellion.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref107" level="file">
+                    <did>
+                        <unittitle>Letter to S. W. Symonds</unittitle>
+                        <unitdate>July 7, 1863</unitdate>
+                        <physdesc id="ref108" label="General Physical Description note">7" x 4 1/2"</physdesc>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref109">
+                        <head>Scope and Contents note</head>
+                        <p>London, A.L.S. 5p. Coexistence of man with elephants. Itinery for a geological trip. Originally B L981.14</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref241" level="file">
+                    <did>
+                        <unittitle>Letter to H[enry] W. Bates</unittitle>
+                        <unitdate>Mar. 4, 1864</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref242">
+                        <head>Scope and Contents note</head>
+                        <p>Regarding Bates's book.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref243" level="file">
+                    <did>
+                        <unittitle>Letter to W[alter] White</unittitle>
+                        <unitdate>Mar. 5, 1864</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref244">
+                        <head>Scope and Contents note</head>
+                        <p>Wishes to borrow Heer's 
+                            <emph render="italic">Flora Tertiaria Helvetica</emph> from the Royal Society.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref110" level="file">
+                    <did>
+                        <unittitle>Extract from the Proceedings of the Geological Quarterly (vol. 13, 1857, pp. 212ff.)</unittitle>
+                        <unitdate>March 16, 1864</unitdate>
+                        <physdesc id="ref111" label="General Physical Description note">5-1/2x6-3/4</physdesc>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref112">
+                        <head>Scope and Contents note</head>
+                        <p>A.D.S. 1p. Fragment. Originallly B L981.33</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref113" level="file">
+                    <did>
+                        <unittitle>Letter to Mr. Murch (?)</unittitle>
+                        <unitdate>May 7, 1864</unitdate>
+                        <physdesc id="ref114" label="General Physical Description note">7x4</physdesc>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref115">
+                        <head>Scope and Contents note</head>
+                        <p>London, A.L.S. 4p. Concerning the British Association for the Advancement of Science. Originally B L981.29</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref245" level="file">
+                    <did>
+                        <unittitle>Letter to [?]</unittitle>
+                        <unitdate>July 13, 1864</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref246">
+                        <head>Scope and Contents note</head>
+                        <p>Regarding Dr. Roger's travel to Bath.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref247" level="file">
+                    <did>
+                        <unittitle>Letter to "My dear Sir"</unittitle>
+                        <unitdate>Aug. 9, 1864</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref249">
+                        <head>Scope and Contents note</head>
+                        <p>Hoping to get the U.S. Minister to attend an upcoming meeting.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref116" level="file">
+                    <did>
+                        <unittitle>Letter to [Sir John?] Evans</unittitle>
+                        <unitdate>May 20, 1865</unitdate>
+                        <physdesc id="ref117" label="General Physical Description note">7x4-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref118">
+                        <head>Scope and Contents note</head>
+                        <p>A.L.S. 2p. Concerning Nilsson's comments on Crawford's paper on Stonehenge, to be read at the Ethnological Society of London. Originally B L981.33</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref250" level="file">
+                    <did>
+                        <unittitle>Letter to [Francis] Galton</unittitle>
+                        <unitdate>Aug. 8, 1865</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref251">
+                        <head>Scope and Contents note</head>
+                        <p>Regarding travel.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref119" level="file">
+                    <did>
+                        <unittitle>Letter to Dr. [William ?] Sharpey</unittitle>
+                        <unitdate>Nov. 25, 1865</unitdate>
+                        <physdesc id="ref120" label="General Physical Description note">7" x 4 1/2"</physdesc>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref121">
+                        <head>Scope and Contents note</head>
+                        <p>London, A.L.S. 3p. Mentions Darwin's Origin of species. Originally B L981.7</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref252" level="file">
+                    <did>
+                        <unittitle>Letter to [Joseph Dalton] Hooker</unittitle>
+                        <unitdate>Dec. 29, 1865</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref253">
+                        <head>Scope and Contents note</head>
+                        <p>Note included with a forwarded enclosure from Sir Roderick Murchison.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref122" level="file">
+                    <did>
+                        <unittitle>Letter to [Charles] Moore</unittitle>
+                        <unitdate>Jan. 4, 1866</unitdate>
+                        <physdesc id="ref123" label="General Physical Description note">7" x 4 1/2"</physdesc>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref124">
+                        <head>Scope and Contents note</head>
+                        <p>[London] (?) A(?) L.S. 5p. Measurement of geological time. Comments on Croll's work. Originally B L981.m</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref125" level="file">
+                    <did>
+                        <unittitle>Letter to [Charles] Moore</unittitle>
+                        <unitdate>Jan. 24, 1866</unitdate>
+                        <physdesc id="ref126" label="General Physical Description note">7" x 4 1/2"</physdesc>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref127">
+                        <head>Scope and Contents note</head>
+                        <p>[London] A(?) L.S. 4p. Encloses proof of his last edition of the Elements. Geological comments. Originally B L981.m</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref128" level="file">
+                    <did>
+                        <unittitle>Letter to [Charles] Moore</unittitle>
+                        <unitdate>May 1, 1866</unitdate>
+                        <physdesc id="ref129" label="General Physical Description note">7" x 4 1/2"</physdesc>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref130">
+                        <head>Scope and Contents note</head>
+                        <p>[London] A (?)L.S. 6p. Appreciates aid given by Moore. Geological comments. Croll. Originally B L981.m</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref131" level="file">
+                    <did>
+                        <unittitle>Letters to [Charles] Moore</unittitle>
+                        <unitdate>Jan. 4, Jan. 24, May 1, Nov. 3, 1866, 1873</unitdate>
+                        <physdesc id="ref132" label="General Physical Description note">7" x 4 1/2"</physdesc>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref133">
+                        <head>Scope and Contents note</head>
+                        <p>[London] A.L.S. and L.S. 4 pieces ca. Originally B L981.m</p>
+                        <p>2 November 1873 letter may be unlocated or may be the "My Dear Sir" letter - 2 March 2011</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref254" level="file">
+                    <did>
+                        <unittitle>Letter to H[enry] W. Bates</unittitle>
+                        <unitdate>Aug. 31, 1866</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref255">
+                        <head>Scope and Contents note</head>
+                        <p>Asks Bates's opinion on Agassiz's "Valley of the Amazons" papers and conclusions at odds with what Lyell knows of the Mississippi valley and delta.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref256" level="file">
+                    <did>
+                        <unittitle>Letter to [Henry W. Bates]</unittitle>
+                        <unitdate>Sept. 2, 1866</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref257">
+                        <head>Scope and Contents note</head>
+                        <p>Regarding Agassiz and South American glaciers.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref258" level="file">
+                    <did>
+                        <unittitle>Letter to [Henry W. Bates]</unittitle>
+                        <unitdate>Sept. 16, 1866</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref259">
+                        <head>Scope and Contents note</head>
+                        <p>Regarding letters, shells, Stevens, and Agassiz.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref134" level="file">
+                    <did>
+                        <unittitle>Letter to ----</unittitle>
+                        <unitdate>March 11, 1867</unitdate>
+                        <physdesc id="ref135" label="General Physical Description note">8 1/4" x 5 1/2"</physdesc>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref136">
+                        <head>Scope and Contents note</head>
+                        <p>London, L.S. 2p. A new edition and translations of his works. Originally B L981.4</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref11" level="file">
+                    <did>
+                        <unittitle>Letter to [E. T. Stevan]</unittitle>
+                        <unitdate>May 4, [1867?]</unitdate>
+                        <physdesc id="ref12" label="General Physical Description note">7x4-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref13">
+                        <head>Scope and Contents note</head>
+                        <p>London, A.L.S. 3p. His travel to Salisbury and hope to visit with him. Flint implements. Originally B L981.26</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref260" level="file">
+                    <did>
+                        <unittitle>Letter to [Henry Walter Bates]</unittitle>
+                        <unitdate>Nov. 15, 1867</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref261">
+                        <head>Scope and Contents note</head>
+                        <p>Regarding theories of racial distribution (particularly of "Red Indians").</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref262" level="file">
+                    <did>
+                        <unittitle>Autograph</unittitle>
+                        <unitdate>July 16, 1868</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref263">
+                        <head>Scope and Contents note</head>
+                        <p>On a square of paper embossed with: 73, Harley St., London. W.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref284" level="file">
+                    <did>
+                        <unittitle>Letter to [John] Murray</unittitle>
+                        <unitdate>August 4, 1869</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Dufferin and Ava, Frederick Temple Blackwood, Marquis of, 1826-1902</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref285">
+                        <head>Scope and Contents note</head>
+                        <p>Letter of introduction to Dr. [Tincoffs?], pasted to the same sheet as a May 10 letter from Lyell.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref264" level="file">
+                    <did>
+                        <unittitle>Letter to [C. O. Groom Napier]</unittitle>
+                        <unitdate>Jan. 20, 1870</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref265">
+                        <head>Scope and Contents note</head>
+                        <p>Praise for the recipient's book. 
+                            <emph render="italic">The Book of Nature and the Book of Man</emph>, preface by Lord Brougham.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref137" level="file">
+                    <did>
+                        <unittitle>Letter to [S.V.Wood ?]</unittitle>
+                        <unitdate>June 20, 1872</unitdate>
+                        <physdesc id="ref138" label="General Physical Description note">7" x 4 1/2"</physdesc>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref139">
+                        <head>Scope and Contents note</head>
+                        <p>London, A.L.S. 5p. Requests him to read certain passages in the new edition of his Antiquity of man. Came with Lyell's Geological evidences of the antiquity of man,London, 1873.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref140" level="file">
+                    <did>
+                        <unittitle>Letter to Searles Wood</unittitle>
+                        <unitdate>June 22, 1872</unitdate>
+                        <physdesc id="ref141" label="General Physical Description note">7" x 4 1/2"</physdesc>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref142">
+                        <head>Scope and Contents note</head>
+                        <p>London, A.L.S. 4p. Relative to the Antiquity of man. Came with Lyell's Geological evidences of the antiquity of man, London, 1873.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref143" level="file">
+                    <did>
+                        <unittitle>Letter to [Searles Wood ?]</unittitle>
+                        <unitdate>Sept. 23, 1872</unitdate>
+                        <physdesc id="ref144" label="General Physical Description note">6" x 4"</physdesc>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref145">
+                        <head>Scope and Contents note</head>
+                        <p>London, A.L.S. 4p. Relative to the Antiquity of man. Came with Lyell's Geological evidences of the antiquity of man, London, 1873.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref146" level="file">
+                    <did>
+                        <unittitle>Letter to Milne Home</unittitle>
+                        <unitdate>Oct. 19, 1872</unitdate>
+                        <physdesc id="ref147" label="General Physical Description note">7x4-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref148">
+                        <head>Scope and Contents note</head>
+                        <p>London, A.L.S. 4p. Concerning Roman ruins and rise of land in Great Britain. Refers to Evans. Originally B L981.33</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref266" level="file">
+                    <did>
+                        <unittitle>Letter to [David] Milne-Home</unittitle>
+                        <unitdate>Dec. 9, 1872</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref267">
+                        <head>Scope and Contents note</head>
+                        <p>Regarding Scottish boulders in Dr. Christison's address, treatment of post-Roman upheavals by Milne-Home and Geikie.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref268" level="file">
+                    <did>
+                        <unittitle>Letter to [David] Milne-Home</unittitle>
+                        <unitdate>Dec. 16, 1872</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref269">
+                        <head>Scope and Contents note</head>
+                        <p>Regarding Ramsay's 3rd edition of 
+                            <emph render="italic">Physical Geology of Great Britain</emph>, which adopts Geikie's theories of laud despite conflicting evidence Lyell believes he brought to Ramsay's attention.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref149" level="file">
+                    <did>
+                        <unittitle>Letter to [David] Forbes</unittitle>
+                        <unitdate>June 25, 1873</unitdate>
+                        <physdesc id="ref150" label="General Physical Description note">7x4-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref151">
+                        <head>Scope and Contents note</head>
+                        <p>London, A.L.S. 2p. Forwards an eloge. Originally B L981.33</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref152" level="file">
+                    <did>
+                        <unittitle>Letter to ----</unittitle>
+                        <unitdate>Nov. 3, 1873</unitdate>
+                        <physdesc id="ref153" label="General Physical Description note">7" x 4 1/2"</physdesc>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref154">
+                        <head>Scope and Contents note</head>
+                        <p>London, L.S. 2p. Encloses passage in re the Rhoetic Labyrinthodonts. (This letter may be addressed to Charles Moore.) Originally B L981.m</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref155" level="file">
+                    <did>
+                        <unittitle>Letter to [David] Forbes</unittitle>
+                        <unitdate>Dec. 18, 1873</unitdate>
+                        <physdesc id="ref156" label="General Physical Description note">4 1/2" x 7"</physdesc>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref157">
+                        <head>Scope and Contents note</head>
+                        <p>London, L.S. 2p. Sends additional chapters of a certain work for correction.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref271" level="file">
+                    <did>
+                        <unittitle>Letter to [Charles] Darwin</unittitle>
+                        <unitdate>April 24, 1874</unitdate>
+                        <physdesc id="ref273" label="General Physical Description note">Enclosed in mylar sleeve.</physdesc>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref272">
+                        <head>Scope and Contents note</head>
+                        <p>Lyell's £25 pledge toward a Zoological Station.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref274" level="file">
+                    <did>
+                        <unittitle>Ticket to the Zoological Society's gardens</unittitle>
+                        <unitdate>June 20, 1874</unitdate>
+                    </did>
+                    <scopecontent id="ref275">
+                        <head>Scope and Contents note</head>
+                        <p>Removed from B:AL1.2, 24 July 1975.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref170" level="file">
+                    <did>
+                        <unittitle>Letter to [A. W. Callcott]</unittitle>
+                        <unitdate>April 26, undated</unitdate>
+                        <physdesc id="ref171" label="General Physical Description note">9x7-1/4</physdesc>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref172">
+                        <head>Scope and Contents note</head>
+                        <p>Athenaeum, A.L.S. 1p., end. Has asked for a paper by Mrs.Calcott and hopes it has not miscarried. Originally B L981.25</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref276" level="file">
+                    <did>
+                        <unittitle>Letter to H[enry] W. Bates</unittitle>
+                        <unitdate>March 26, undated</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref277">
+                        <head>Scope and Contents note</head>
+                        <p>Invitation to dinner.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref278" level="file">
+                    <did>
+                        <unittitle>Letter to H[enry] W. Bates</unittitle>
+                        <unitdate>March 31, undated</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref279">
+                        <head>Scope and Contents note</head>
+                        <p>Regarding antipodean flora and fauna.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref282" level="file">
+                    <did>
+                        <unittitle>Letter to [John Murray?]</unittitle>
+                        <unitdate>May 10, undated</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref283">
+                        <head>Scope and Contents note</head>
+                        <p>May 10 letter regarding books. Pasted to the same sheet as an August 4, 1869 introductory letter from Lord Dufferin.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref280" level="file">
+                    <did>
+                        <unittitle>Letter to "Dear [John Forbes] Royle"</unittitle>
+                        <unitdate>May 10, undated</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref281">
+                        <head>Scope and Contents note</head>
+                        <p>Regarding Himalayan and European species of plants.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref173" level="file">
+                    <did>
+                        <unittitle>Letter to "My dear Sir"</unittitle>
+                        <unitdate>July 22, undated</unitdate>
+                        <physdesc id="ref174" label="General Physical Description note">7-1/4x4-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref175">
+                        <head>Scope and Contents note</head>
+                        <p>Monday, A.L.S. 1p. Hopes they can visit in town soon. Originally B L981.33</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref286" level="file">
+                    <did>
+                        <unittitle>Letter to Sir John F. Herschel</unittitle>
+                        <unitdate>December 29, undated</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref287">
+                        <head>Scope and Contents note</head>
+                        <p>Invitation to attend a party.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref304" level="file">
+                    <did>
+                        <unittitle>Biographical note</unittitle>
+                        <unitdate>undated</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref305">
+                        <head>Scope and Contents note</head>
+                        <p>Written some time after October 31, 1874.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref158" level="file">
+                    <did>
+                        <unittitle>Concerning neolithic instruments</unittitle>
+                        <unitdate>undated</unitdate>
+                        <physdesc id="ref159" label="General Physical Description note">9x5-3/4</physdesc>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref160">
+                        <head>Scope and Contents note</head>
+                        <p>A.D. 2p. Fragment. Originally B L981.33</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref290" level="file">
+                    <did>
+                        <unittitle>Letter to [Henry] Bence Jones</unittitle>
+                        <unitdate>undated</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref291">
+                        <head>Scope and Contents note</head>
+                        <p>Regarding a conversation with Farraday and Barnard about modifying a passage.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref288" level="file">
+                    <did>
+                        <unittitle>Letter to [William Benjamin] Carpenter</unittitle>
+                        <unitdate>undated</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref289">
+                        <head>Scope and Contents note</head>
+                        <p>Regarding a paper.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref292" level="file">
+                    <did>
+                        <unittitle>Letter to [Henri] Lecoq</unittitle>
+                        <unitdate>undated</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref293">
+                        <head>Scope and Contents note</head>
+                        <p>In French. Letter of introduction for Prof. Turner of London University, traveling to Auvergne to study French geology.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref161" level="file">
+                    <did>
+                        <unittitle>Letter to Milne Home</unittitle>
+                        <unitdate>undated</unitdate>
+                        <physdesc id="ref162" label="General Physical Description note">6x4</physdesc>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref163">
+                        <head>Scope and Contents note</head>
+                        <p>London. A.L.S. 4p. Sends manuscript of his projected work and hopes it meet with approval. Wishes Homes would get his article in print before he (Lyell) publishes. Originally B L981.33</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref294" level="file">
+                    <did>
+                        <unittitle>Letter to [Sir Richard] Owen</unittitle>
+                        <unitdate>undated</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref295">
+                        <head>Scope and Contents note</head>
+                        <p>Fossil sample (small rodent jaw) discovered with the Mastadon.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref164" level="file">
+                    <did>
+                        <unittitle>Letter to Gen. Sabine</unittitle>
+                        <unitdate>undated</unitdate>
+                        <physdesc id="ref165" label="General Physical Description note">6 1/4" x 4"</physdesc>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref166">
+                        <head>Scope and Contents note</head>
+                        <p>A.L.S. 2p. Asks thet an invitation to the General's evenings be sent to the Rev. S.W. King. Originally B L981.13</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref167" level="file">
+                    <did>
+                        <unittitle>Letter to M. Violet (?)</unittitle>
+                        <unitdate>undated</unitdate>
+                        <physdesc id="ref168" label="General Physical Description note">8" x 5"</physdesc>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref169">
+                        <head>Scope and Contents note</head>
+                        <p>Wednesday morning. A.L.S.(?) 1p. and add. In French. Invitation to dinner. Originally B L981.5</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref296" level="file">
+                    <did>
+                        <unittitle>Letter to S. Woodward</unittitle>
+                        <unitdate>undated</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref297">
+                        <head>Scope and Contents note</head>
+                        <p>Requests to borrow specimens for his lectures. Silurian fossils, including 
+                            <emph render="italic">trilobite, chain coral, graptolite, lingula, lituite, pentamerus, porites, tentaculite, orthis</emph>, and "anything which occurs to you as useful."</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref300" level="file">
+                    <did>
+                        <unittitle>Letter to "Dear Sir"</unittitle>
+                        <unitdate>Tuesday, undated</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref301">
+                        <head>Scope and Contents note</head>
+                        <p>Request for a quarter-sized copy of a trilobite diagram in Owens's 
+                            <emph render="italic">Geological Survey of Wisconsin</emph>.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref298" level="file">
+                    <did>
+                        <unittitle>Letter to "Dear Sir"</unittitle>
+                        <unitdate>undated</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref299">
+                        <head>Scope and Contents note</head>
+                        <p>Accompanying a section of Martha's Vineyard, illustration for an upcoming paper.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref302" level="file">
+                    <did>
+                        <unittitle>Letter to ?</unittitle>
+                        <unitdate>undated</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref303">
+                        <head>Scope and Contents note</head>
+                        <p>Regarding Norfolk cliffs.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref312" level="file">
+                    <did>
+                        <unittitle>Portrait of Lyell</unittitle>
+                        <unitdate>undated</unitdate>
+                    </did>
+                    <scopecontent id="ref313">
+                        <head>Scope and Contents note</head>
+                        <p>Cut from a magazine.</p>
+                    </scopecontent>
+                    <separatedmaterial id="ref314">
+                        <head>Separated Materials note</head>
+                        <p>Inadvertently separated from a file, circa 1865-73.</p>
+                    </separatedmaterial>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

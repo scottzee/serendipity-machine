@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.973.3.Ac2-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.973.3.Ac2</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:27-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="item">
+        <did>
+            <unittitle>Account of the robbery of the papers of Arthur Lee, American agent at Berlin, June 26, 1777 - July 5, 1777</unittitle>
+            <unitid>Mss.973.3.Ac2</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="ger"/>
+            </langmaterial>
+            <container id="cid1107" type="Volume" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>1.0 Volume(s)</extent>
+                <extent>1 volume, 44 p.</extent>
+            </physdesc>
+            <unitdate normal="1977/1977">June 26, 1777 - July 5, 1977</unitdate>
+            <langmaterial id="ref11" label="Language of Materials note">In German, with French translation.</langmaterial>
+            <abstract id="ref1" label="Abstract">The proceedings before the criminal judge, of the Government of Prussia, in relation to the robbery of Lee's official papers, while Minister at that court in the time of Frederick the Great (as described in letter from Richard Henry Lee to Dr. Mease, 1826 May 31).</abstract>
+            <physdesc id="ref10" label="General Physical Description note">1 volume, 44 p.</physdesc>
+            <physloc id="ref13" label="Paging">LH-MV-E-13</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Lee, Arthur, 1740-1792</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref9">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by Richard H. Lee and accessioned, 1826 (1826 50519).</p>
+            <p></p>
+        </acqinfo>
+        <odd id="ref5">
+            <head>General note</head>
+            <p>This episode is described in Lee, Richard H., "Life of Arthur Lee" (Boston, 1829), 1 : 96.</p>
+        </odd>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>Arthur Lee was a physician, lawyer, and diplomat. He was elected to the American Philosophical Society in 1768.</p>
+        </bioghist>
+        <odd id="ref12">
+            <head>Early American History Note</head>
+            <p>Arthur Lee served as the American agent in Berlin, where he represented U.S. interests to the court of the King of Prussia, Frederick. The collection consists of a series of documents relating to the robbery of Arthur Lee’s papers in Berlin, most likely by an English agent. The documents are in both German and French. The documents include depositions and interviews that cast the blame for the theft on an English agent and a servant. Information on this event can be found in the Franklin Papers and The Life of Arthur Lee.</p>
+        </odd>
+        <controlaccess>
+            <subject source="leah">American Revolution</subject>
+            <subject source="lcsh">Criminal law.</subject>
+            <subject source="leah">Diplomatic History</subject>
+            <genreform source="leah">Diplomatic Material</genreform>
+            <genreform source="lcsh">Proceedings.</genreform>
+            <geogname source="lcsh">Prussia (Germany) -- Politics and government -- 1740-1786.</geogname>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

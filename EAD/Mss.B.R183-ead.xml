@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.R183-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.R183</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T19:54-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Franco Rasetti papers, 1941-1966</unittitle>
+            <unitid>Mss.B.R183</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1542" type="Box" label="Manuscripts">1-2</container>
+            <physdesc>
+                <extent>1.5 Linear feet</extent>
+                <extent>Ca. 1,500 items</extent>
+            </physdesc>
+            <unitdate normal="1941/1966" type="inclusive">1941-1966</unitdate>
+            <physdesc id="ref8" label="General Physical Description note">Ca. 1,500 items.</physdesc>
+            <abstract id="ref1" label="Abstract">Although Rasetti was a physicist, he was also interested in paleontology, and the bulk of the correspondence in these papers centers on his interest in Cambrian stratigraphy and paleontology, and in the Paleontological Society.</abstract>
+            <physloc id="ref9" label="Paging">LH-B-22-2</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Rasetti, Franco, 1901-2001</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref7">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by Franco Rama Rasetti, 1966; accessioned, 1969.</p>
+        </acqinfo>
+        <custodhist id="ref5">
+            <head>Custodial History note</head>
+            <p>Presented by Franco Rasetti, 1966.</p>
+        </custodhist>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>Franco Rasetti was a physicist.</p>
+        </bioghist>
+        <controlaccess>
+            <persname rules="aacr" source="local">Balk, Christina Lochman</persname>
+            <persname rules="aacr" source="naf">Bird, John M. </persname>
+            <persname rules="aacr" source="naf">Bureau, René</persname>
+            <persname rules="aacr" source="naf">Cooper, G. Arthur,  (Gustav Arthur), 1902-2000</persname>
+            <persname rules="aacr" source="naf">Fisher, Donald W., 1936-</persname>
+            <persname rules="aacr" source="naf">Howell, Benjamin F.,  (Benjamin Franklin), 1917-</persname>
+            <famname source="ingest">Knight, J. Brookes.</famname>
+            <persname rules="aacr" source="naf">Metz, Robert, 1938-</persname>
+            <persname rules="aacr" source="naf">Mountjoy, Eric W. </persname>
+            <corpname source="ingest">Paleontological Society.</corpname>
+            <persname rules="aacr" source="naf">Palmer, Allison R. </persname>
+            <persname rules="aacr" source="local">Ressler, Charles E.</persname>
+            <persname rules="aacr" source="local">Theokritoff, George</persname>
+            <persname rules="aacr" source="naf">Whittington, H. B.,  (Harry Blackmore)</persname>
+            <persname rules="aacr" source="naf">Wilson, James Lee, 1920-</persname>
+            <subject source="lcsh">Geology, Stratigraphic -- Cambrian.</subject>
+            <subject source="lcsh">Paleontology -- Cambrian.</subject>
+            <subject source="lcsh">Physics.</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

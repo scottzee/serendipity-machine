@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Rec.241</num>
+                </titleproper>
+                <author>Finding aid prepared by Brian Carpenter</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+                <date>January 2012</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T21:14-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>NICAP Press Conference Denouncing University of Coloradio UFO Study</unittitle>
+            <unitid>Mss.Rec.241</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>1.0 Reel(s)</extent>
+            </physdesc>
+            <unitdate>April 30, 1968</unitdate>
+            <physdesc id="ref1" label="General Physical Description">1 sound tape reel (1 hr., 9 min.) : analog, half track, 3 3/4 ips, mono : 7 in.</physdesc>
+            <abstract id="ref2" label="Abstract">Recording of a news conference given by Major Donald Keyhoe at the National Press Club on Tuesday, April 30, 1968 (4-5:30PM), denouncing the University of Colorado UFO Project report, also known as the Condon Report. Recording made by Philip J. Klass, who can also be heard prominently on the recording during the question and answer session.</abstract>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Speaker (spk)">Keyhoe, Donald E.,  (Donald Edward), 1897- </persname>
+            </origination>
+            <origination label="creator">
+                <persname source="naf" role="Author (aut)">Klass, Philip J.</persname>
+            </origination>
+        </did>
+        <odd id="ref4">
+            <head>Format history</head>
+            <p>Originally recorded on sound tape reel, transferred to DAT in September 1999, and migrated to archival .WAV file in January 2012.</p>
+        </odd>
+        <acqinfo id="ref3">
+            <head>Immediate Source of Acquisition</head>
+            <p>Removed from the 
+                <extref ns2:actuate="onLoad" ns2:show="new" ns2:href="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Ms.Coll.59-ead.xml">Philip J. Klass Papers</extref> (Mss.Ms.Coll.59).</p>
+        </acqinfo>
+        <controlaccess>
+            <subject source="ingest">Condon Report</subject>
+            <subject source="lcsh">Press conferences</subject>
+            <genreform source="ingest">Sound recordings</genreform>
+            <subject source="lcsh">Unidentified flying objects--Research</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

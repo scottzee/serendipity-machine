@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Film.693-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Film.693</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T20:16-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Voltaire letters, 1751-1778</unittitle>
+            <unitid>Mss.Film.693</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1913" type="Reel" label="Microform">1-10</container>
+            <physdesc>
+                <extent>10.0 Microfilm reel(s)</extent>
+            </physdesc>
+            <unitdate normal="1751/1778" type="inclusive">1751-1778</unitdate>
+            <abstract id="ref12" label="Abstract">These letters are principally by Voltaire.</abstract>
+            <physdesc id="ref23" label="General Physical Description note">10 microfilm reels.</physdesc>
+            <physloc id="ref25" label="Paging">LH-RR-Media Rm-3</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Voltaire,1694-1778.</persname>
+            </origination>
+        </did>
+        <relatedmaterial id="ref11">
+            <head>Related Archival Materials note</head>
+            <p>Associated materials: The American Philosophical Society also owns eight boxes of uncataloged miscellaneous Voltaire material.</p>
+        </relatedmaterial>
+        <acqinfo id="ref7">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Acquired from the Bibliothèque Nationale, Paris, 1954.</p>
+        </acqinfo>
+        <bioghist id="ref5">
+            <head>Biographical/Historical note</head>
+            <p>Voltaire was a philosophe.</p>
+        </bioghist>
+        <originalsloc id="ref3">
+            <head>Existence and Location of Originals note</head>
+            <p>Originals in Bibliothèque Nationale, Paris.</p>
+        </originalsloc>
+        <odd id="ref24">
+            <head>Early American History Note</head>
+            <p>This is a microfilm of an early American collection that may be of interest to researchers at the APS and may complement an original manuscript collection at the APS.</p>
+        </odd>
+        <controlaccess>
+            <geogname source="lcsh">France -- History -- 18th century.</geogname>
+            <geogname source="lcsh">France -- Intellectual life -- 18th century.</geogname>
+            <genreform source="leah">Microfilm Collection</genreform>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

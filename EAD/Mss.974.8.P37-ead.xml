@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.974.8.P37-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.974.8.P37</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:27-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="item">
+        <did>
+            <unittitle>Records concerning the early settlements on the Delaware River, 1630-1682, 1774</unittitle>
+            <unitid>Mss.974.8.P37</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1138" type="Volume" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>1.0 Volume(s)</extent>
+                <extent>1 volume, 66 p., copy</extent>
+            </physdesc>
+            <unitdate normal="1630/1682" type="bulk">Bulk, 1630-1682</unitdate>
+            <unitdate normal="1630/1774" type="inclusive">1630-1774</unitdate>
+            <abstract id="ref1" label="Abstract">This volume contains copies of records of early settlements on the Delaware River in English archives (1664-1682), and Dutch archives (1630-1656), copied from documents in the office of the Secretary of State at Harrisburg, Pennsylvania.</abstract>
+            <physdesc id="ref6" label="General Physical Description note">1 volume, 66 p., copy.</physdesc>
+            <physloc id="ref8" label="Paging">LH-MV-E-13</physloc>
+            <origination label="creator">
+                <corpname source="ingest" role="Author (aut)">Pennsylvania.General Assembly.</corpname>
+            </origination>
+        </did>
+        <acqinfo id="ref5">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by Redmond Conyngham, 1819; accessioned, 1900 (1900 2752).</p>
+            <p></p>
+        </acqinfo>
+        <odd id="ref7">
+            <head>Early American History Note</head>
+            <p>The volume contains records relating to the history of Dutch settlers in the territories that the English acquired. These are copies of documents that are held at the State Archives. Many were originally in Dutch but were translated to English in this volume. The documents contain records from as early as 1638 and continue through Edmund Andros’ term as governor of New England and ends in 1700. The documents include many official government proclamations and legal documents relating to Dutch property and their rights within English colonies.</p>
+        </odd>
+        <controlaccess>
+            <persname rules="aacr" source="naf" role="Donor (dnr)">Conyngham, Redmond, 1781-1846</persname>
+            <geogname source="lcsh">Delaware -- History -- Colonial period, ca. 1600-1775.</geogname>
+            <geogname source="lcsh">Delaware River (N.Y.-Del. and N.J.)</geogname>
+            <subject source="leah">Land and Speculation</subject>
+            <subject source="leah">Law</subject>
+            <geogname source="lcsh">New Jersey -- History -- Colonial period, ca. 1600-1775.</geogname>
+            <genreform source="leah">Official Government Documents and Records</genreform>
+            <geogname source="lcsh">Pennsylvania -- History -- Colonial period, ca. 1600-1775.</geogname>
+            <subject source="leah">Pennsylvania History</subject>
+            <subject source="leah">Philadelphia History</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

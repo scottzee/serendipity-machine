@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.497.2.In75-ead.xml">bellenger.xml</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Bellenger, Joseph M. (?)
+                    <lb/>Instruction sur la langue Mickmaque
+                    <date type="span">ca.1814</date>
+                    <num>Mss.497.2.In75</num>
+                </titleproper>
+                <author>Finding aid prepared by rsc</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+                <date>2002</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:10-0400</date>
+            </creation>
+            <langusage>ENG</langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Instruction sur la langue Mickmaque</unittitle>
+            <unitid>Mss.497.2.In75</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="fre"/>
+            </langmaterial>
+            <physdesc>
+                <extent>0.1 Linear feet</extent>
+                <extent>98 p.</extent>
+            </physdesc>
+            <unitdate normal="1814/1814">Circa 1814</unitdate>
+            <abstract id="ref1" label="Abstract">From 1735 to 1762, Antoine-Simon Maillard (d.1762) was a Catholic missionary to the Micmac Indians at Restigouche on the Gaspé Peninsula, Quebec. Abbé Maillard was the first Frenchman to master the Micmac language, and he collected extensive grammatical and linguistic notes which were edited, arranged, and published by Rev. Joseph M. Bellenger in the 19th century. 
+                <lb/>The "Instructions sue la langue Mickmaque" is a French-language instructional manual on the grammar of the Micmac language, probably compiled by Rev. Joseph M. Bellenger, ca.1814. The manuscript (identified as Phillips 12343) is based on the grammar of Abbé Maillard, and is arranged on a Latin model. It includes general comments on the structure of the language, orthography, nouns, pronouns, and numerals, with more extensive commentary on verb conjugation. The manuscript appears to be incomplete, ending with the section heading "Verbes réciproque."</abstract>
+            <physloc id="ref19" label="Paging">LH-MV-E-15</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Bellenger, Joseph M.</persname>
+            </origination>
+        </did>
+        <bibliography id="ref18">
+            <head>Bibliography</head>
+            <bibref>Pilling, James Constantine, 
+                <title render="italic">Bibliography of the Algonquian Languages</title> (Washington, D.C., 1891). 
+                <emph render="bold">Call no.</emph>: 016.497 P64ba. See Bellenger, Maillard</bibref>
+        </bibliography>
+        <odd id="ref20">
+            <head>Early American History Note</head>
+            <p>This collection contains notes on the language of the Mickmaque. Originally taken by a French missionary in the eighteenth century, this 98 page volume is a compilation of notes on the language put together in the nineteenth century.</p>
+        </odd>
+        <relatedmaterial id="ref17">
+            <head>Related Archival Materials note</head>
+            <p>Additional Micmac language material is indexed in the online 
+                <extref ns2:href="http://www.amphilsoc.org/natam/search">Daythal Kendall Guide to Native American Collections at the American Philosophical Society</extref> (nos. 94 and 2242).</p>
+            <p>An additional Micmac manuscript attributed to Maillard/Bellenger are located in the library of the Archevêché de Québec. See APS microfilm 453.</p>
+        </relatedmaterial>
+        <otherfindaid id="ref15">
+            <head>Other Finding Aids note</head>
+            <p>The manuscript is indexed in the online 
+                <extref ns2:href="http://www.amphilsoc.org/natam/search">Daythal Kendall Guide to Native American Collections at the American Philosophical Society</extref>.</p>
+        </otherfindaid>
+        <processinfo id="ref13">
+            <head>Processing Information note</head>
+            <p>Recatalogued by rsc, 2002.</p>
+        </processinfo>
+        <acqinfo id="ref11">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Acquired June 1, 1951 through the Phillips Fund.</p>
+        </acqinfo>
+        <prefercite id="ref9">
+            <head>Preferred Citation note</head>
+            <p>Cite as: Joseph M. Bellenger (?), Instruction sur la langue Mickmaque, American Philosophical Society.</p>
+        </prefercite>
+        <scopecontent id="ref5">
+            <head>Scope and Contents note</head>
+            <p>The "Instructions sue la langue Mickmaque" is a French-language instructional manual on the grammar of the Micmac language, probably compiled by Rev. Joseph M. Bellenger, ca.1814. The manuscript (identified as Phillips 12343) is based on the grammar of Abbé Antoine Simon Maillard, and is arranged on a Latin model. It includes general comments on the structure of the language, orthography, nouns, pronouns, and numerals, with more extensive commentary on verb conjugation. The manuscript appears to be incomplete, ending with the section heading "Verbes réciproque."</p>
+            <p>Pilling cites a note from Bellnger as follows: "J'ai travaillé jusqu'ici sur un cahier de M. M. [Maillard]. Comme son cahier ne va plus loin, j'arrête mes notes grammaticales"</p>
+        </scopecontent>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>The easternmost of the Algonquian nations, the Micmac Indians originally inhabited a territory that extended over much of modern Nova Scotia, Prince Edward Island, and Cape Breton, and including parts of New Brunswick, Quebec, Newfoundland, and eastern Maine. Among the first nations to have contact with Europeans, they became the target of Jesuit, Recollect, and Capuchin missionaries as early as 1610, when Chief Membertou became the first American Indian baptized into the Catholic Church.</p>
+            <p>During the 1640s, the Recollect Fathers established a mission at Restigouche, Quebec, on the Gaspé Peninsula, which remained active even after political control of the region passed from French into British hands, thanks in large part to the efforts of Antoine-Simon Maillard (d.1762). Having spent 27 years as a missionary in Canada, the Abbé Maillard was the first Frenchman to master the Micmac language and he collected extensive grammatical and linguistic notes which were edited, arranged, and published by Rev. Joseph M. Bellenger in the 19th century.</p>
+        </bioghist>
+        <controlaccess>
+            <persname source="ingest">Maillard, Antoine Simon, d.1762</persname>
+            <genreform source="leah">Foreign Language</genreform>
+            <subject source="lcsh">Indians of North America--Languages</subject>
+            <subject source="leah">Language and Linguistics</subject>
+            <genreform source="leah">Language Material</genreform>
+            <subject source="lcsh">Linguistics</subject>
+            <subject source="lcsh">Micmac language--Grammar</subject>
+            <subject source="leah">Native America</subject>
+            <genreform source="leah">Native American Materials</genreform>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

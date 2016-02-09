@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Rec.10-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Rec.10</num>
+                    <num>Mss.Rec.10</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Brian Carpenter</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+                <date>01-2011</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T21:09-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Iroquois personal names</unittitle>
+            <unitid>Mss.Rec.10</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="moh"/>
+            </langmaterial>
+            <physdesc>
+                <extent>5.0 Reel(s)</extent>
+            </physdesc>
+            <unitdate normal="1951/1951">1951</unitdate>
+            <abstract id="ref2" label="Abstract">These recordings consist of a reading of an alphabetical listing of approximately 6200 Iroquois personal names "in the Mohawk dialect" assembled by Charles A. Cooke (Thawennensere) from 1900-1951, and edited by Marius Barbeau.</abstract>
+            <physdesc id="ref3" label="General Physical Description note">5 sound tape reels (4 hr., 54 min.) : analog, 3 3/4 ips, half track, mono ; 5 in.</physdesc>
+            <physloc id="ref52" label="Paging">LH-B-32-1</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Cooke, Charles, 1870-1958</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref4">
+            <head>Immediate Source of Acquisition</head>
+            <p>Donated by Marius Barbeau in 1951.</p>
+        </acqinfo>
+        <relatedmaterial id="ref5">
+            <head>Related Archival Materials</head>
+            <p>The accompanying manuscripts for these recordings is available in the 
+                <extref ns2:actuate="onLoad" ns2:show="new" ns2:href="http://www.amphilsoc.org/mole/view?docId=ead/Mss.497.3.C772-ead.xml">Iroquois personal names</extref> collection (Mss.497.3.C772).</p>
+        </relatedmaterial>
+        <controlaccess>
+            <persname source="ingest" role="Donor (dnr)">Barbeau, Marius, 1883-1969</persname>
+            <subject source="lcsh">Mohawk language</subject>
+            <subject source="lcsh">Names, Iroquois</subject>
+            <genreform source="ingest">Sound recordings</genreform>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref6" level="series">
+                <did>
+                    <unittitle>Audio recordings</unittitle>
+                </did>
+                <c02 id="ref7" level="file">
+                    <did>
+                        <unittitle>Ahaharas to Athenno</unittitle>
+                        <unitid>01-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1951-05</unitdate>
+                        <physdesc id="ref8" label="General Physical Description note">
+                            <extent>00:32:58</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Cooke, Charles</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref9">
+                        <head>Scope and Contents note</head>
+                        <p>An alphabetical list of Iroquoian proper names beginning with A, D, E, G, H, J, N, O, R, S, T, V, W, and Y, read by the collector in Mohawk. Introductory comments in English.</p>
+                    </scopecontent>
+                    <originalsloc id="ref11">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0319" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6053">
+                        <daodesc>
+                            <p>APSdigrec_0319</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Mohawk language</subject>
+                        <subject source="ingest">Names, Mohawk</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref12" level="file">
+                    <did>
+                        <unittitle>Ahtera to Deganyadarehgwen</unittitle>
+                        <unitid>01-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1951-05</unitdate>
+                        <physdesc id="ref13" label="General Physical Description note">
+                            <extent>00:32:43</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Cooke, Charles</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref14">
+                        <head>Scope and Contents note</head>
+                        <p>An alphabetical list of Iroquoian proper names beginning with A, D, E, G, H, J, N, O, R, S, T, V, W, and Y, read by the collector in Mohawk.</p>
+                    </scopecontent>
+                    <originalsloc id="ref16">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0320" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6050">
+                        <daodesc>
+                            <p>APSdigrec_0320</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Mohawk language</subject>
+                        <subject source="ingest">Names, Mohawk</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref17" level="file">
+                    <did>
+                        <unittitle>Continuation of names beginning with De</unittitle>
+                        <unitid>02-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1951-05</unitdate>
+                        <physdesc id="ref18" label="General Physical Description note">
+                            <extent>00:32:29</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Cooke, Charles</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref19">
+                        <head>Scope and Contents note</head>
+                        <p>An alphabetical list of Iroquoian proper names beginning with A, D, E, G, H, J, N, O, R, S, T, V, W, and Y, read by the collector in Mohawk. Introductory comments in English.</p>
+                    </scopecontent>
+                    <originalsloc id="ref21">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0321" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6051">
+                        <daodesc>
+                            <p>APSdigrec_0321</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Mohawk language</subject>
+                        <subject source="ingest">Names, Mohawk</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref22" level="file">
+                    <did>
+                        <unittitle>Conclusion of names beginning with D, beginning of E and G</unittitle>
+                        <unitid>02-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1951-05</unitdate>
+                        <physdesc id="ref23" label="General Physical Description note">
+                            <extent>00:32:22</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Cooke, Charles</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref24">
+                        <head>Scope and Contents note</head>
+                        <p>An alphabetical list of Iroquoian proper names beginning with A, D, E, G, H, J, N, O, R, S, T, V, W, and Y, read by the collector in Mohawk. Introductory comments in English.</p>
+                    </scopecontent>
+                    <originalsloc id="ref26">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0322" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6049">
+                        <daodesc>
+                            <p>APSdigrec_0322</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Mohawk language</subject>
+                        <subject source="ingest">Names, Mohawk</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref27" level="file">
+                    <did>
+                        <unittitle>Continuation of names begining with G</unittitle>
+                        <unitid>03-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1951-05</unitdate>
+                        <physdesc id="ref28" label="General Physical Description note">
+                            <extent>00:32:21</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Cooke, Charles</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref29">
+                        <head>Scope and Contents note</head>
+                        <p>An alphabetical list of Iroquoian proper names beginning with A, D, E, G, H, J, N, O, R, S, T, V, W, and Y, read by the collector in Mohawk. Introductory comments in English.</p>
+                    </scopecontent>
+                    <originalsloc id="ref31">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0323" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6052">
+                        <daodesc>
+                            <p>APSdigrec_0323</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Mohawk language</subject>
+                        <subject source="ingest">Names, Mohawk</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref32" level="file">
+                    <did>
+                        <unittitle>Conclusion of names beginning with G and H</unittitle>
+                        <unitid>03-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1951-05</unitdate>
+                        <physdesc id="ref33" label="General Physical Description note">
+                            <extent>00:32:23</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Cooke, Charles</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref34">
+                        <head>Scope and Contents note</head>
+                        <p>An alphabetical list of Iroquoian proper names beginning with A, D, E, G, H, J, N, O, R, S, T, V, W, and Y, read by the collector in Mohawk. Introductory comments in English.</p>
+                    </scopecontent>
+                    <originalsloc id="ref36">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0324" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6055">
+                        <daodesc>
+                            <p>APSdigrec_0324</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Mohawk language</subject>
+                        <subject source="ingest">Names, Mohawk</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref37" level="file">
+                    <did>
+                        <unittitle>Names beginning with J and O</unittitle>
+                        <unitid>04-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1951-05</unitdate>
+                        <physdesc id="ref38" label="General Physical Description note">
+                            <extent>00:33:10</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Cooke, Charles</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref39">
+                        <head>Scope and Contents note</head>
+                        <p>An alphabetical list of Iroquoian proper names beginning with A, D, E, G, H, J, N, O, R, S, T, V, W, and Y, read by the collector in Mohawk. Introductory comments in English.</p>
+                    </scopecontent>
+                    <originalsloc id="ref41">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0325" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6058">
+                        <daodesc>
+                            <p>APSdigrec_0325</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Mohawk language</subject>
+                        <subject source="ingest">Names, Mohawk</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref42" level="file">
+                    <did>
+                        <unittitle>Names beginning with O, R, and S</unittitle>
+                        <unitid>04-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1951-05</unitdate>
+                        <physdesc id="ref43" label="General Physical Description note">
+                            <extent>00:33:05</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Cooke, Charles</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref44">
+                        <head>Scope and Contents note</head>
+                        <p>An alphabetical list of Iroquoian proper names beginning with A, D, E, G, H, J, N, O, R, S, T, V, W, and Y, read by the collector in Mohawk. Introductory comments in English.</p>
+                    </scopecontent>
+                    <originalsloc id="ref46">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0326" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6056">
+                        <daodesc>
+                            <p>APSdigrec_0326</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Mohawk language</subject>
+                        <subject source="ingest">Names, Mohawk</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref47" level="file">
+                    <did>
+                        <unittitle>Names beginning with S, T, W, Y</unittitle>
+                        <unitid>05-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1951-05</unitdate>
+                        <physdesc id="ref48" label="General Physical Description note">
+                            <extent>00:32:40</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Cooke, Charles</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref49">
+                        <head>Scope and Contents note</head>
+                        <p>An alphabetical list of Iroquoian proper names beginning with A, D, E, G, H, J, N, O, R, S, T, V, W, and Y, read by the collector in Mohawk. Introductory comments in English.</p>
+                    </scopecontent>
+                    <originalsloc id="ref51">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0327" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6057">
+                        <daodesc>
+                            <p>APSdigrec_0327</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Mohawk language</subject>
+                        <subject source="ingest">Names, Mohawk</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

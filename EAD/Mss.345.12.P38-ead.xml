@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.345.12.P38-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.345.12.P38</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:08-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Pennsylvania. General Assembly. Laws, 1682-1719</unittitle>
+            <unitid>Mss.345.12.P38</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid721" type="Volume" label="Manuscripts">1-2</container>
+            <physdesc>
+                <extent>2.0 Volume(s)</extent>
+                <extent>2 volumes, 227 p.</extent>
+            </physdesc>
+            <unitdate normal="1682/1719" type="inclusive">1682-1719</unitdate>
+            <abstract id="ref1" label="Abstract">Much of the material in both volumes is printed in Charter to William Penn, and Laws of the Province of Pennsylvania . . . (Harrisburg, 1879). The first volume, prepared possibly for James Logan, contains copies of Charles II's grant to William Penn of the Lower Counties, 1683, an act of the Privy Council, 1705, the charter of Pennsylvania of 1701, acts of the Assembly, 1682-1719.</abstract>
+            <physdesc id="ref8" label="General Physical Description note">2 volumes, 227 p. Laws enacted under Governors Fletcher and Markham are also available on microfilm (Film 882).</physdesc>
+            <physloc id="ref14" label="Paging">LH-MV-E-7; LH-MV-B-3</physloc>
+            <origination label="creator">
+                <corpname source="ingest" role="Author (aut)">Pennsylvania.General Assembly.</corpname>
+            </origination>
+        </did>
+        <odd id="ref9">
+            <head>General note</head>
+            <p>Much of the material in both volumes is printed in "Charter to William Penn, and Laws of the Province of Pennsylvania. . . ." (Harrisburg, 1879).</p>
+        </odd>
+        <acqinfo id="ref7">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by Joshua Francis Fisher, 1835; accessioned 1913 (50458). See in-house shelf list for additional accession numbers.</p>
+        </acqinfo>
+        <odd id="ref13">
+            <head>Early American History Note</head>
+            <p>This volume contains a series of documents relating to the founding of the colony and its early political development. Included are the acts of Pennsylvania Assembly, 1685-1719, a copy of Charles II grant to William Penn, the Frame of Government for 1701, and an act of the Privy Council in 1705.</p>
+            <p>Stored for the duration of the war. 1-9-1942 Rild 2/8/1944 under the administration of Governors Fletcher and Markham. 227p F. Manuscript. For an account of this volume, cf. A.P.S. Proceedings, v.36,pp,176-178. see also now minutes agreed 2, 1897. MICROFILM FRAME NO.882</p>
+        </odd>
+        <controlaccess>
+            <persname rules="aacr" source="naf">Fletcher, Benjamin, 1640-1703</persname>
+            <persname source="ingest">Logan, James, 1674-1751</persname>
+            <persname source="ingest">Markham, William, 1635 -1704</persname>
+            <persname source="ingest">Penn, William,1644-1718.</persname>
+            <subject source="leah">Colonial Politics</subject>
+            <subject source="leah">Law</subject>
+            <genreform source="lcsh">Laws.</genreform>
+            <genreform source="leah">Official Government Documents and Records</genreform>
+            <geogname source="lcsh">Pennsylvania -- Politics and government -- To 1775.</geogname>
+            <subject source="leah">Pennsylvania History</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref10" level="item">
+                <did>
+                    <unittitle>Pennsylvania, General Assembly, Laws, 1682-1719</unittitle>
+                    <unitid>345.12 P38E</unitid>
+                    <langmaterial>
+                        <language langcode="eng"/>
+                    </langmaterial>
+                    <container id="cid52291" type="Volume" label="Manuscripts">1</container>
+                    <physdesc>
+                        <extent>1.0 Volume(s)</extent>
+                    </physdesc>
+                    <unitdate normal="1682/1719" type="inclusive">1682-1719</unitdate>
+                    <abstract id="ref12" label="Abstract">The second volume contains the texts of laws enacted in the administrations of Governors Benjamin Fletcher and William Markham, 1693-1700. Much of the material in both volumes is printed in Charter to William Penn, and Laws of the Province of Pennsylvania . . . (Harrisburg, 1879).</abstract>
+                </did>
+                <controlaccess>
+                    <genreform source="lcsh">Laws.</genreform>
+                    <geogname source="lcsh">Pennsylvania -- Politics and government -- 1775-1865.</geogname>
+                </controlaccess>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

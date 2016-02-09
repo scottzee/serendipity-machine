@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Rec.103-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Rec.103</num>
+                </titleproper>
+                <author>Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T21:09-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Hopi and Navajo Recordings</unittitle>
+            <unitid>Mss.Rec.103</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="mul"/>
+            </langmaterial>
+            <physdesc>
+                <extent>21.0 Reel(s)</extent>
+            </physdesc>
+            <unitdate normal="1955/1959" type="inclusive">1954-1957, 1959</unitdate>
+            <langmaterial id="ref5" label="Language of Materials note">In Navajo, Hopi, and English.</langmaterial>
+            <physdesc id="ref3" label="General Physical Description note">21 sound tape reels (47 hr.) : analog, 7 1/2 ips, 1 track and 2 track, mono ; 7 in.</physdesc>
+            <abstract id="ref1" label="Abstract">Hopi words, phrases, texts, counting, and grammar (particles), some with English equivalents; Navajo words and phrases with English glosses and Navajo literacy lessons (one reel). Includes duplicates of Hopi recordings made by Carl F. Voegelin. Hopi informants include: Willie Coin, Jimmy Kewanwaytiwa, Bennie Nuvanisa, and Alert Yava.</abstract>
+            <physloc id="ref6" label="Paging">LH-B-32-3</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="local" role="Speaker (spk)">Coin, Willie </persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="local" role="Author (aut)">Diehl, H.C. </persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="local" role="Speaker (spk)">Nuvanisa, Bennie</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="local" role="Speaker (spk)">Yava, Albert</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref4">
+            <head>Immediate Source of Acquisition</head>
+            <p>Presented by Department of Anthropology, Northern Arizona University through P. David Seaman, May 1976. (Acc. 1976 825r)</p>
+        </acqinfo>
+        <relatedmaterial id="ref2">
+            <head>Related Archival Materials</head>
+            <p>Photocopied transcripts of the recordings are also available: 
+                <extref ns2:actuate="onLoad" ns2:show="new" ns2:href="http://www.amphilsoc.org/mole/view?docId=ead/Mss.497.3.D57.pt.2-ead.xml">Hopi Language Materials</extref> (497.3 D57 Pt. 2).</p>
+        </relatedmaterial>
+        <controlaccess>
+            <subject source="lcsh">Hopi Indians--History</subject>
+            <subject source="lcsh">Hopi language</subject>
+            <subject source="lcsh">Navajo Indians--Religion</subject>
+            <subject source="lcsh">Navajo Indians--Social life and customs</subject>
+            <subject source="lcsh">Navajo language</subject>
+            <subject source="lcgft">Navajo language--Study and teaching</subject>
+            <genreform source="ingest">Sound recordings</genreform>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

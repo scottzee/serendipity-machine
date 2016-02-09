@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Rec.190</num>
+                </titleproper>
+                <author>Finding aid prepared by Brian Carpenter</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+                <date>January 2012</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T21:13-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>The Buffalo Story</unittitle>
+            <unitid>Mss.Rec.190</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="iro"/>
+            </langmaterial>
+            <container id="cid13450001" type="Disk" label="Audio">1</container>
+            <physdesc>
+                <extent>1.0 item</extent>
+            </physdesc>
+            <unitdate>1946</unitdate>
+            <abstract id="ref4" label="Abstract ">One green SoundScriber phonograph disc, indicated in corresponding as "Record 3." Contains the end of "The Buffalo Story," which was presumably begun on prior two discs, which are not in the collection and not known to exist anymore. The remainder of the disc contains the story "Geneseo Reservation" in its entirety, followed by an unidentified story in Chinese. Recorded by Charles F. Voegelin in 1946.</abstract>
+            <physdesc id="ref1" label="General Physical Description">1 phonograph disc (20 min.) : two channels, 33 1/3 rpm ; 6 in.</physdesc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Voegelin, C.F. (Charles Frederick), 1906-1986</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref2">
+            <head>Immediate Source of Acquisition</head>
+            <p>This recording was removed from the 
+                <extref ns2:actuate="onLoad" ns2:show="new" ns2:href="www.amphilsoc.org/mole/view?docId=ead/Mss.Ms.Coll.68-ead.xml">C.F. Voegelin Papers.</extref></p>
+        </acqinfo>
+        <relatedmaterial id="ref3">
+            <head>Related Archival Materials</head>
+            <p>A handwritten transcript of the Seneca portion of the recording is available in Series V-B of the 
+                <extref ns2:actuate="onLoad" ns2:show="new" ns2:href="www.amphilsoc.org/mole/view?docId=ead/Mss.Ms.Coll.68-ead.xml">C.F. Voegelin Papers.</extref></p>
+        </relatedmaterial>
+        <controlaccess>
+            <subject source="lcsh">Chinese language</subject>
+            <subject source="ingest">Seneca Indians</subject>
+            <subject source="lcsh">Seneca Indians--Folklore</subject>
+            <subject source="lcsh">Seneca language</subject>
+            <genreform source="ingest">Sound recordings</genreform>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

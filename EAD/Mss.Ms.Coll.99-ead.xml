@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Ms.Coll.99</num>
+                </titleproper>
+                <author>Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T21:09-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc audience="internal" level="collection">
+        <did>
+            <unittitle>Harry Stevens Papers, 1960s-1980s Gift through Herman H. Goldstine. (Ms Coll 99)</unittitle>
+            <unitid>Mss.Ms.Coll.99</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid97851" type="Box" label="Manuscripts">1-80</container>
+            <physdesc>
+                <extent>40.0 Linear feet</extent>
+            </physdesc>
+            <unitdate normal="1960/1989" type="inclusive">1960-1989</unitdate>
+            <physdesc id="ref3" label="General Physical Description note">40 linear feet.</physdesc>
+            <abstract id="ref1" label="Abstract">Photocopies of secondary and primary materials relating to Shawnee history and culture.</abstract>
+            <physloc id="ref7" label="Paging">LH-SB-16-3</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Stevens, Harry</persname>
+            </origination>
+        </did>
+        <scopecontent id="ref5">
+            <head>Scope and Contents note</head>
+            <p>Primarily research material on the Shawnee Indian, including biographical information on Tecumseh, Teskwatawa, Cornstalk, and Black Hoof. Also, geographical information, by state, of the four Shawnee groups Absentee, Eastern, Caddo, and Cherokee with topical information on the economy, society, religion and vocabulary of the tribe.</p>
+        </scopecontent>
+        <scopecontent id="ref6">
+            <head>Scope and Contents note</head>
+            <p>Native American Images note : 642 black and white photocopies, with a few black and white silver gelatin photographs, negatives, and newspaper clippings of images of Shawnee chiefs and settlements copied from 1980-1982. Collected by Stevens for historical research, the images are from various archival source materials and published works. Of interest, photocopies of photographs by Jim Lynch of a 1936 Shawnee settlement in Sperry, Oklahoma. Many portraits of Tecumseh, Tenskwatawa, Black Hoof, and Cornstalk.</p>
+        </scopecontent>
+        <bioghist id="ref4">
+            <head>Biographical/Historical note</head>
+            <p>Harry Robert Stevens (1914- ) received his PhD in history from the University of Chicago in 1946. During his career he was an assistant, associate and full professor of United States history at the University of Cincinnati, Michigan State University, and Duke University, respectively. In 1976, he became an emeritus professor at Ohio University. His specialty is nineteenth century political, intellectual and frontier America. Many of his published scholarly articles appear in the Bulletin of the Historical and Philosophical Society of Ohio and the Ohio Archaeological and Historical Quarterly. Other published works include A Study of Notable Ohioans (1937), Six twenty: Margaretta Hunt and the Baker-Hunt foundation (1942), Early Jackson Party in Ohio (1957).</p>
+        </bioghist>
+        <acqinfo id="ref2">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Gift through Herman H. Goldstine.</p>
+        </acqinfo>
+        <controlaccess>
+            <persname rules="aacr" source="naf">Tecumseh, Shawnee Chief, 1763-1813</persname>
+            <persname rules="aacr" source="naf">Tenskwatawa, Shawnee Prophet</persname>
+            <subject source="local">Eastern Woodlands Indians</subject>
+            <subject source="lcsh">Indians of North America--Ohio</subject>
+            <subject source="lcsh">Indians of North America--Oklahoma</subject>
+            <subject source="lcsh">Indians of North America--Ontario</subject>
+            <subject source="lcsh">Photocopies</subject>
+            <subject source="lcsh">Shawnee Indians</subject>
+            <subject source="lcsh">Shawnee Indians--Ethnic identity</subject>
+            <subject source="lcsh">Shawnee Indians--History</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

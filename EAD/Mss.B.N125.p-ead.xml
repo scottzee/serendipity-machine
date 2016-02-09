@@ -1,0 +1,602 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.N125.p-ead.xml">PUBLIC "-//American Philosophical Society LIBRARY//TEXT(US::PAAV::B N125p:: John Neagle Papers)//EN" "neagle.xml"</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>John Neagle Papers
+                    <date type="span">1817-1865</date>
+                    <num>Mss.B.N125.p</num>
+                </titleproper>
+                <author>Finding aid prepared by rsc</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+                <date>2002</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T19:48-0400</date>
+            </creation>
+            <langusage>ENG</langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>John Neagle Papers</unittitle>
+            <unitid>Mss.B.N125.p</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>0.5 Linear feet</extent>
+            </physdesc>
+            <unitdate normal="1817/1865" type="inclusive">1817-1865</unitdate>
+            <abstract id="ref1" label="Abstract">John Neagle was among the better known portrait painters in Philadelphia during the first half of the nineteenth century and was the husband of Thomas Sully's niece, Mary C. Sully. 
+                <lb/>The Neagle Papers is a small assemblage of personal correspondence, documents, and notes assembled by Neagle during his career. The letters are primarily of a personal nature, but along with the five bound volumes, offer insight into Neagle's study of painting and the techniques he employed. Included among the bound volumes are recipes for varnish, megellup, and drying oils and notes on watercolor painting.</abstract>
+            <physloc id="ref80" label="Paging">LH-MV-C-14; LH-MV-E-3 (Bound volumes)</physloc>
+            <origination label="creator">
+                <persname source="naf" role="Author (aut)">Neagle, John, 1796-1865</persname>
+            </origination>
+        </did>
+        <bibliography id="ref18">
+            <head>Bibliography</head>
+            <bibref>Torchia, Robert, 
+                <title render="italic">John Neagle: Philadelphia PortraitPainter</title> (Philadelphia: HSP, 1989). 
+                <emph render="bold">Call no.</emph>: B N25t</bibref>
+        </bibliography>
+        <odd id="ref79">
+            <head>Early American History Note</head>
+            <p>The John Neagle Papers provides a window into the world and the work of this nineteenth century portrait painter. The collection contains many insights on how Neagle approached his craft. It begins with an interesting notebook he kept on the history of painting. This volume is dated 1817. It traces the history of art from Etruria to the present. He discusses renaissance artists in some depth, such as Michelangelo and Raphael. He also discusses modern artistic training, mentioning the types of study done in Rome and France. Other notebooks contain essays Neagle wrote on art and artists, such as “hints for a painter.” His notebook “Lessons on Landscape Painting” include a few watercolors that appear to be copies of landscape work done by Thomas Sully.</p>
+            <p>The letters in the collection often deal with Neagle and his family. It also contains a Valentine’s Day poem sent to him, a lease that Neagle took out from Matthew Carey for his house on Walnut St., and various broadsides and stock certificates.</p>
+            <p>Finally, the collection contains what appears to be an autobiographical “sketch” written by Neagle in the 1850s and one small sketch of “Jim Brown” from 1861.</p>
+        </odd>
+        <relatedmaterial id="ref17">
+            <head>Related Archival Materials note</head>
+            <p>
+                <archref>Additional Neagle Papers are located at the Historical Society of Pennsylvania ( 
+                    <extref ns2:href="http://www.hsp.org/collections/manuscripts/2100.htm#2112">Collection2112</extref>), which also houses Neagle's commonplace book ( 
+                    <extref ns2:href="http://www.hsp.org/collections/manuscripts/0400.htm#448">Collection448</extref>)</archref></p>
+        </relatedmaterial>
+        <altformavail id="ref15">
+            <head>Existence and Location of Copies note</head>
+            <p>Series II is available on microfilm (Film 1388)</p>
+        </altformavail>
+        <processinfo id="ref13">
+            <head>Processing Information note</head>
+            <p>Recatalogued by rsc, 2002.</p>
+        </processinfo>
+        <acqinfo id="ref11">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Series II was acquired in 1959; Series I was purchased at Sotheby's, 1985.</p>
+        </acqinfo>
+        <prefercite id="ref9">
+            <head>Preferred Citation note</head>
+            <p>Cite as: John Neagle Papers, American Philosophical Society.</p>
+        </prefercite>
+        <scopecontent id="ref5">
+            <head>Scope and Contents note</head>
+            <p>The Neagle Papers contains less than 0.25 linear feet of personal letters and documents and five notebooks relating to the life and work of the painter, John Neagle. The letters to his wife and children are affectionate, intimate, and generally relate strictly to personal or family matters, such as planning vacations or excursions. There are membership certificates in the Masonic Grand Lodge of Pennsylvania and a share in the Pennsylvania Academy of Fine Arts.</p>
+            <p>Several letters, however, provide glimpses into Neagle's work, including a letter from Kentucky, March 18, 1843, notifying Levi Dickson that he had completed his portrait of Henry Clay (now in the Union League), and letter written to Sully in 1838, congratulating him on winning a commission to paint Queen Victoria. In this letter, Neagle writes:</p>
+            <p/>
+            <p/>
+            <p>The bound volumes offer valuable insights into Neagle's artistic techniques. The volumes include recipes for megellup, varnishes, and drying oils, instructions for cleaning and restoring works of art, notes on watercolor and landscape techniques employed by John Varley, Thomas Sully, and others, and Neagle's "Hints for a painter with regard to his method of study."</p>
+        </scopecontent>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>Like Benjamin Franklin before him, John Neagle was a Bostonian by birth and a Philadelphian by nature. One of Philadelphia's better known portrait painters during the first half of the nineteenth century and a promoter of the fine arts, Neagle was born into a family of middling means in 1796. After his father, Maurice, an Irish immigrant, died in 1800, John was raised in Philadelphia. In his autobiography, Neagle describes becoming obsessed with drawing at an early age, despite little family encouragement.</p>
+            <p>While serving as an apprentice to the "coach and ornamental painter," Thomas Wilson, Neagle began to explore the possibility of painting as a career. Through Wilson, Neagle was introduced to the portrait painter Bass Otis, whose work, he wrote, "set me on fire." After two months study with Otis, and committed research on his own, Neagle committed himself to becoming a portrait painter.</p>
+            <p>Having earned praise for his ambition and the quality of his work, Neagle turned away from coach painting and at the end of his apprenticeship in 1818, he struck out for Lexington, Kentucky, in the hopes of establishing himself in business. Finding that another painter, Matthew Harris Jouett, was already well entrenched there, Neagle moved to New Orleans, where he was again thwarted by the competition, before returning to Philadelphia.</p>
+            <p>In his home city, Neagle's career slowly began to develop. Exhibiting at the Pennsylvania Academy of Fine Arts from 1821 on, and becoming the protege of Thomas Sully by 1824, Neagle continued his studies. In 1825, he traveled to Boston to study with Gilbert Stuart for a year, returning to Philadelphia to marry Mary Chester Sully, Sully's niece and stepdaughter.</p>
+            <p>Over the next decade, Neagle worked in both New York and Philadelphia, producing his best known works, including 
+                <title render="italic">Pat Lyon at the Forge</title> and his portrait ofthe physician, William Potts Dewees (1833). In 1842, he was commissioned topaint his last great work, the massive portrait of Henry Clay that now hangs inthe Union League of Philadelphia.</p>
+            <p>Neagle's artistic output began to wane following the death of his wife in 1845, and he began gradually to withdraw from public life. In the late 1850s, he suffered a severe stroke which left him partially paralyzed. He died at home in Philadelphia on September 17, 1865.</p>
+        </bioghist>
+        <controlaccess>
+            <famname source="ingest">Neagle family</famname>
+            <persname source="ingest">Neagle, Mary Chester Sully</persname>
+            <corpname source="ingest">Pennsylvania Academy of the Fine Arts.</corpname>
+            <famname source="ingest">Sully family</famname>
+            <persname source="ingest">Sully, Thomas, 1783-1872</persname>
+            <persname rules="aacr" source="naf">Varley, John, 1778-1842</persname>
+            <genreform source="leah">Art</genreform>
+            <subject source="lcsh">Artists' materials</subject>
+            <subject source="lcsh">Artists--Pennsylvania</subject>
+            <genreform source="lcsh">Autobiographies.</genreform>
+            <genreform source="leah">Autobiography</genreform>
+            <genreform source="leah">Family Correspondence</genreform>
+            <genreform source="leah">General Correspondence</genreform>
+            <subject source="lcsh">Landscape painting</subject>
+            <subject source="leah">Literature, Arts, and Culture</subject>
+            <genreform source="leah">Manuscript Essays</genreform>
+            <genreform source="leah">Notebooks</genreform>
+            <subject source="lcsh">Painting--Study and teaching</subject>
+            <genreform source="ingest">Recipes</genreform>
+            <genreform source="leah">Sketchbooks</genreform>
+            <genreform source="ingest">Valentines</genreform>
+            <genreform source="ingest">Watercolor paintings</genreform>
+            <subject source="lcsh">Whist</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref19" level="series">
+                <did>
+                    <unittitle>Series I. Correspondence and notes</unittitle>
+                    <physdesc>
+                        <extent>37 items; 0.25 linear feet</extent>
+                    </physdesc>
+                    <unitdate>1817-1865</unitdate>
+                    <physloc id="ref20" label="Location note">(B N125p)</physloc>
+                </did>
+                <c02 id="ref21" level="item">
+                    <did>
+                        <unittitle>History of Painting (notebook)</unittitle>
+                        <container id="cid64191" type="Box" label="Mixed materials">1</container>
+                        <physdesc>
+                            <extent>51p.</extent>
+                        </physdesc>
+                        <unitdate>1817 May 30</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Neagle, John, 1796-1865</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref23">
+                        <head>Scope and Contents note</head>
+                        <p>Fragmentary notes written at age 19, based on reading on the lives of Raphael, Michaelangelo, the Carraccis, Titian, Rubens, LeBrun, and Reynolds.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref24" level="item">
+                    <did>
+                        <unittitle>Membership certificate in Freemasons</unittitle>
+                        <container id="cid64190" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1818 May 6</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Grand Lodge of Pennsylvania</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref25" level="item">
+                    <did>
+                        <unittitle>ADS lease to John Neagle and George Catlin</unittitle>
+                        <container id="cid64189" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1822 October 21</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Carey, Matthew</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref27">
+                        <head>Scope and Contents note</head>
+                        <p>Lease of house at 116 Walnut Street to Neagle and Catlin for one year. "The said Neagle &amp; Catlin hereby pledge themselves to keep the house in good order."</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref28" level="item">
+                    <did>
+                        <unittitle>ALS to Mary C. Sully</unittitle>
+                        <container id="cid64188" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1825 August 3</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Neagle, John, 1796-1865</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref29" level="item">
+                    <did>
+                        <unittitle>ALS to Moggy,(i.e Mary C. Sully)</unittitle>
+                        <container id="cid64187" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1825 December 10</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Neagle, John, 1796-1865</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref30" level="item">
+                    <did>
+                        <unittitle>Journal (fragments)</unittitle>
+                        <container id="cid64186" type="Box" label="Mixed materials">1</container>
+                        <physdesc>
+                            <extent>7p.</extent>
+                        </physdesc>
+                        <unitdate>1826 May 26-1832 August 14</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Neagle, John, 1796-1865</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref32">
+                        <head>Scope and Contents note</head>
+                        <p>The remainder of the journal is located in the Historical Society of Pennsylvania, filed with the "Blotter Book."</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref33" level="item">
+                    <did>
+                        <unittitle>ALS to John Neagle</unittitle>
+                        <container id="cid64185" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1826 August 1826</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Ennis, Susan</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref34" level="item">
+                    <did>
+                        <unittitle>ALS to John Neagle</unittitle>
+                        <container id="cid64184" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1826?</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Neagle, Alfred</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref35" level="item">
+                    <did>
+                        <unittitle>ALS to Thomas Sully</unittitle>
+                        <container id="cid64183" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1838 February 6</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Neagle, John, 1796-1865</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref37">
+                        <head>Scope and Contents note</head>
+                        <p>Written on back of a printed prospectus, "John Neagle Proposes to Publish, By Subscription, A Series of Well Engraved Portraits of the Medical Professors of the University of Pennsylvania, From original Paintings, To Be Executed By Himself, Expressly for the Work."</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref38" level="item">
+                    <did>
+                        <unittitle>ALS to Blanch Sully</unittitle>
+                        <container id="cid64182" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1838 June 23</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Neagle, John, 1796-1865</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref39" level="item">
+                    <did>
+                        <unittitle>ALS to Levi Dickson</unittitle>
+                        <container id="cid64181" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1843 March 18</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Neagle, John, 1796-1865</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref40" level="item">
+                    <did>
+                        <unittitle>ALS to "children"</unittitle>
+                        <container id="cid64180" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1844 August</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Neagle, John, 1796-1865</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref41" level="item">
+                    <did>
+                        <unittitle>ALS to John Neagle</unittitle>
+                        <container id="cid64179" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1846 April 21</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Tiers, Arundius</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref42" level="item">
+                    <did>
+                        <unittitle>AL to John Neagle</unittitle>
+                        <container id="cid64178" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1850 February 14</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">E.C.</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref43" level="item">
+                    <did>
+                        <unittitle>Stock Certificate</unittitle>
+                        <container id="cid64177" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1850 May 29</unitdate>
+                        <origination label="creator">
+                            <corpname source="ingest">Pennsylvania Academy of the Fine Arts.</corpname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref44" level="item">
+                    <did>
+                        <unittitle>ALS to "children"</unittitle>
+                        <container id="cid64176" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1850 August 9</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Neagle, John, 1796-1865</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref45" level="item">
+                    <did>
+                        <unittitle>ALS to "children"</unittitle>
+                        <container id="cid64175" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1850 August 13</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Neagle, John, 1796-1865</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref46" level="item">
+                    <did>
+                        <unittitle>ALS to Sally Sully</unittitle>
+                        <container id="cid64174" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1850 August 19</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Sully, Mary C.</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref47" level="item">
+                    <did>
+                        <unittitle>ALS to Bettie and Sallie Neagle</unittitle>
+                        <container id="cid64173" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1850 August 19</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Neagle, John, 1796-1865</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref48" level="item">
+                    <did>
+                        <unittitle>Manuscript sketches of my career as an artist</unittitle>
+                        <container id="cid64172" type="Box" label="Mixed materials">1</container>
+                        <physdesc>
+                            <extent>7p.</extent>
+                        </physdesc>
+                        <unitdate>1850?</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Neagle, John, 1796-1865</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref49" level="item">
+                    <did>
+                        <unittitle>Account of an Annuity settled by the late Levi Taylor</unittitle>
+                        <container id="cid64171" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1852 July 14</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref50" level="item">
+                    <did>
+                        <unittitle>Memorandum of the illness and death of Margaret Dickson Neagle (called "Moggie"), daughter of John Neagle, Artist, &amp; Mary Chester Sully</unittitle>
+                        <container id="cid64170" type="Box" label="Mixed materials">1</container>
+                        <physdesc>
+                            <extent>3p.</extent>
+                        </physdesc>
+                        <unitdate>1853 June 26</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref51" level="item">
+                    <did>
+                        <unittitle>ALS to "children"</unittitle>
+                        <container id="cid64169" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1855 August 3</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Neagle, John, 1796-1865</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref52" level="item">
+                    <did>
+                        <unittitle>ALS to "children"</unittitle>
+                        <container id="cid64168" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1855 August 4</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Neagle, John, 1796-1865</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref53" level="item">
+                    <did>
+                        <unittitle>ALS to Susan Neagle?</unittitle>
+                        <container id="cid64167" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1859 April 25</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Neagle, John, 1796-1865</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref54" level="item">
+                    <did>
+                        <unittitle>Envelope--G. Robertson to John Neagle</unittitle>
+                        <container id="cid64166" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1859 September 8</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref55" level="item">
+                    <did>
+                        <unittitle>ALS to Mary Neagle</unittitle>
+                        <container id="cid64165" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1861 April 2</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Neagle, John, 1796-1865</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref56" level="item">
+                    <did>
+                        <unittitle>Sketch of Jim Brown</unittitle>
+                        <container id="cid64164" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1861</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Neagle, John, 1796-1865</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref58">
+                        <head>Scope and Contents note</head>
+                        <p>Pencil sketch on back of small envelope</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref59" level="item">
+                    <did>
+                        <unittitle>DS Invoice for funeral of John Neagle</unittitle>
+                        <container id="cid64163" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1865 September 17</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Moore, David P.</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref60" level="item">
+                    <did>
+                        <unittitle>Envelope--John Neagle to Elizabeth I. Neagle and sisters</unittitle>
+                        <container id="cid64162" type="Box" label="Mixed materials">1</container>
+                        <unitdate>n.d.</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref61" level="item">
+                    <did>
+                        <unittitle>ALS to John Neagle</unittitle>
+                        <container id="cid64161" type="Box" label="Mixed materials">1</container>
+                        <unitdate>n.d.</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Carey, Henry C.</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref62" level="item">
+                    <did>
+                        <unittitle>Clipped signatures</unittitle>
+                        <container id="cid64160" type="Box" label="Mixed materials">1</container>
+                        <unitdate>n.d.</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Neagle, John, 1796-1865</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref63" level="item">
+                    <did>
+                        <unittitle>Neagle family genealogical material</unittitle>
+                        <container id="cid64159" type="Box" label="Mixed materials">1</container>
+                        <unitdate>n.d.</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref64" level="item">
+                    <did>
+                        <unittitle>ALS to unidentified recipient</unittitle>
+                        <container id="cid64158" type="Box" label="Mixed materials">1</container>
+                        <unitdate>n.d.</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Neagle, John, 1796-1865</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref65" level="item">
+                    <did>
+                        <unittitle>Thomas Sully's advice about cleaning, varnishing, and restoring paintings</unittitle>
+                        <container id="cid64157" type="Box" label="Mixed materials">1</container>
+                        <physdesc>
+                            <extent>5p.</extent>
+                        </physdesc>
+                        <unitdate>n.d.</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Neagle, John, 1796-1865</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref67">
+                        <head>Scope and Contents note</head>
+                        <p>Includes notes on Sully's techniques, palette.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref68" level="item">
+                    <did>
+                        <unittitle>Sully family genealogical material</unittitle>
+                        <container id="cid64156" type="Box" label="Mixed materials">1</container>
+                        <physdesc>
+                            <extent>6p.</extent>
+                        </physdesc>
+                        <unitdate>n.d.</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref69" level="item">
+                    <did>
+                        <unittitle>Sully family list of births, deaths and marriages</unittitle>
+                        <container id="cid64155" type="Box" label="Mixed materials">1</container>
+                        <unitdate>n.d.</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref70" level="series">
+                <did>
+                    <unittitle>Series II. Bound volumes</unittitle>
+                    <physdesc>
+                        <extent>5 vols.</extent>
+                    </physdesc>
+                    <unitdate>1825-1850</unitdate>
+                    <physloc id="ref71" label="Location note">(B N125)</physloc>
+                </did>
+                <c02 id="ref72" level="item">
+                    <did>
+                        <unittitle>On Whist</unittitle>
+                        <container id="cid64154" type="Volume" label="Mixed materials">1</container>
+                        <unitdate>1850</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Neagle, John, 1796-1865</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref73" level="item">
+                    <did>
+                        <unittitle>Receipts for making Megellup, Varnish, &amp; Drying Oil; also for cleaning pictures . . .</unittitle>
+                        <container id="cid64153" type="Volume" label="Mixed materials">2</container>
+                        <unitdate>1825</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Neagle, John, 1796-1865</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref74" level="item">
+                    <did>
+                        <unittitle>Hints for a painter with regard to his Method of Study, etc.</unittitle>
+                        <container id="cid64152" type="Volume" label="Mixed materials">3</container>
+                        <unitdate>n.d.</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Neagle, John, 1796-1865</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref75" level="item">
+                    <did>
+                        <unittitle>[On artists and works of art]</unittitle>
+                        <container id="cid64151" type="Volume" label="Mixed materials">4</container>
+                        <unitdate>1826</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Neagle, John, 1796-1865</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref76" level="item">
+                    <did>
+                        <unittitle>Lessons on Landscape painting . . . Illustrated with copies from Sully's copies, Varley and others</unittitle>
+                        <container id="cid64150" type="Volume" label="Mixed materials">5</container>
+                        <physdesc>
+                            <extent>27p.</extent>
+                        </physdesc>
+                        <unitdate>1827</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Neagle, John, 1796-1865</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref78">
+                        <head>Scope and Contents note</head>
+                        <p>Includes samples of watercolor paints, copies of landscapes by John Varley, and extensive notes on the watercolor techniques employed by Varley, Sully, Titian, Rubens, and others.</p>
+                        <p>"Presented by J. Neagle to his daughter Elizabeth J. Neagle, Augt. 1842"</p>
+                    </scopecontent>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

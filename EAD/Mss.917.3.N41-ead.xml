@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.917.3.N41-ead.xml">PUBLIC "-//American Philosophical Society Library//TEXT(US::PAAV:: 917.3 N41:: Pim Nevins Journal)//EN" "nevins.xml"</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Pim Nevins Journal
+                    <date type="span">1802-1803</date>
+                    <num>Mss.917.3.N41</num>
+                </titleproper>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+                <date>2/2003</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:24-0400</date>
+            </creation>
+            <langusage>ENG</langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Pim Nevins Journal</unittitle>
+            <unitid>Mss.917.3.N41</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid115084" type="Volume" label="Bound materials">1</container>
+            <physdesc>
+                <extent>1.0 Volume(s)</extent>
+                <extent>227 p.</extent>
+            </physdesc>
+            <unitdate normal="1802/1803" type="inclusive">1802-1803</unitdate>
+            <abstract id="ref2" label="Abstract">A merchant and member of the Society of Friends, Pim Nevins (1756-1833) lived most of his life in the English midlands. Recorded in 
+                <title render="italic">Pigot's Directory</title> of 1834 as a member of the gentry resident in Hunslet Lane, Leeds, Nevins was a woollen cloth manufacturer, finisher, and merchant whose operations were located at Larchfield Mill, near Huddersfield. 
+                <lb/>During a voyage to visit Friends' meetings in the United States in 1802-1803, Pim Nevins kept a journal to record his thoughts and experiences. In presenting a copy of his diary to his children, he wrote: "some parts [of the diary] wch. being by way of memorandum to assist my memory will of course be no ways interesting to you; other parts being fill'd with the effusions of my own thoughts, will I fear be dry to you unless your minds should in some measure be dip'd into the like state with mine when influencing my pen; some other parts may entertain you." The journal includes a mixture of description of the cities, towns and landscape through which Nevins passed and accounts of his visits with Friends in New York city, Philadelphia, Wilmington, Baltimore, Washington, Alexandria, Bethlehem, Pa., Easton, Pa., the Pocono Mountains, northern New Jersey, New Brunswick, N.J., and Trenton, N.J. It also includes a delicate watercolor drawing of the Delaware Water Gap.</abstract>
+            <physdesc id="ref1" label="General Physical Description note">1 vol., 227p.</physdesc>
+            <physloc id="ref11" label="Paging">LH-MV-E-16</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Nevins, Pim, 1756-1833</persname>
+            </origination>
+        </did>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>A merchant and member of the Society of Friends, Pim Nevins (1756-1833) lived most of his life in the English midlands. Recorded in 
+                <title render="italic">Pigot's Directory</title> of 1834 as a member of the gentry resident in Hunslet Lane, Leeds, Nevins was a woollen cloth manufacturer, finisher, and merchant whose operations were located at Larchfield Mill, near Huddersfield. His trade with Ireland, his mother's birthplace, was sufficient to earn him admission as a freeman of Waterford city in 1809.</p>
+            <p>The son of Thomas and Rachel Nevins, Pim married Elizabeth Jowitt (1755-1802) in 1780, with whom he had ten children. A member of Hardshaw West Monthly Meeting, he and his son John (1786-1870) traveled to the United States in 1802 to visit Friends' meetings in Pennsylvania, New Jersey, Delaware, and Maryland, accompanied during part of their travels by Joshua Gilpin.</p>
+        </bioghist>
+        <scopecontent id="ref4">
+            <head>Scope and Contents note</head>
+            <p>During his voyage to the United States in 1802-1803, Pim Nevins kept a journal to record his thoughts and experiences while visiting Friends in the mid-Atlantic states. In presenting this copy of his diary to his children, he wrote: "some parts [of the diary] wch. being by way of memorandum to assist my memory will of course be no ways interesting to you; other parts being fill'd with the effusions of my own thoughts, will I fear be dry to you unless your minds should in some measure be dip'd into the like state with mine when influencing my pen; some other parts may entertain you." The journal includes a mixture of description of the cities, towns and landscape through which Nevins was touring and accounts of his visits with Friends.</p>
+            <p>During his travels, Nevins recorded visits to New York city, Philadelphia, Wilmington, Baltimore, Washington, Alexandria, Bethlehem, Pa., Easton, Pa., the Pocono Mountains, northern New Jersey, New Brunswick, N.J., and Trenton, N.J. The journal of Nevins' fellow traveler Joshua Gilpin, published in the 
+                <title render="italic">Pennsylvania Magazine of History and Biography</title> 46 (1922), provides a complementary perspective on a portion of the journey. The diary also includes a delicate watercolor drawing of the Delaware Water Gap.</p>
+        </scopecontent>
+        <prefercite id="ref6">
+            <head>Preferred Citation note</head>
+            <p>Cite as: Pim Nevins Journal, American Philosophical Society.</p>
+        </prefercite>
+        <acqinfo id="ref7">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Acquired, 1952.</p>
+        </acqinfo>
+        <bibliography id="ref8">
+            <head>Bibliography</head>
+            <p>See the related journal of Joshua Gilpin, published as: 
+                <bibref>"Journey to Bethlehem," 
+                    <title render="italic">Pennsylvania Magazine of History and Biography</title> 46 (1922): 15-38, 122-153.</bibref></p>
+        </bibliography>
+        <processinfo id="ref9">
+            <head>Processing Information note</head>
+            <p>Recataloged and encoded by rsc, February 2003.</p>
+        </processinfo>
+        <odd id="ref10">
+            <head>Early American History Note</head>
+            <p>This bound volume contains a travel journal of Pim Nevins, an English Quaker who traveled throughout the Mid-Atlantic from 1802-1803. The journal begins in New York City and follows Nevins throughout the Mid-Atlantic, including stops in Trenton, Easton, Bethlehem, Philadelphia, Lancaster, and Baltimore. Nevins traveled with Joshua Gilpin, whose journal has been published.</p>
+            <p>The journal contains many natural history observations and discussions on towns and other sites visited. A Quaker from England, Nevins’ journal contains some introspection, especially as he describes his emotions during meetings. A woolen manufacturer, Nevins comments occasionally on the economy as well. A watercolor of the Delaware Water Gap is included in the volume.</p>
+        </odd>
+        <controlaccess>
+            <genreform source="leah">Art</genreform>
+            <geogname source="ingest">Delaware Water Gap (Pa. and N.J.)--Description and travel</geogname>
+            <geogname source="ingest">Delaware--Description and travel</geogname>
+            <genreform source="lcsh">Diaries.</genreform>
+            <subject source="leah">Natural History</subject>
+            <geogname source="ingest">New Jersey--Description and travel</geogname>
+            <geogname source="ingest">New York (N.Y.)--Description and travel</geogname>
+            <geogname source="ingest">Pennsylvania--Description and travel</geogname>
+            <subject source="leah">Religion</subject>
+            <genreform source="leah">Sketchbooks</genreform>
+            <subject source="lcsh">Society of Friends--Missions</subject>
+            <subject source="leah">Travel</subject>
+            <genreform source="leah">Travel Narratives and Journals</genreform>
+            <geogname source="ingest">Washington (D.C.)--Description and travel</geogname>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

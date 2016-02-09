@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.781.508.B762-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.781.508.B762</num>
+                </titleproper>
+                <author>Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:23-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Musical compositions, late 18th century</unittitle>
+            <unitid>Mss.781.508.B762</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="fre"/>
+            </langmaterial>
+            <container id="cid361" type="Box" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>26.0 Item(s)</extent>
+                <extent>459 pages</extent>
+            </physdesc>
+            <unitdate normal="1775/1800" type="inclusive">Circa 1775-1800</unitdate>
+            <abstract id="ref1" label="Abstract">Principally by Mme. Brillon, these compositions include marches, sonatas, and songs. Included is "La Marche des Insurgents" which Mme. Brillon composed after receiving news from Benjamin Franklin of General Burgoyne's surrender at Saratoga in 1777.</abstract>
+            <physloc id="ref8" label="Paging">LH-MV-B-11; LH-MV-E-11</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Brillon, Mme</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Burgoyne, John, 1722-1792</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Franklin, Benjamin, 1706-1790</persname>
+            </origination>
+        </did>
+        <odd id="ref6">
+            <head>General note</head>
+            <p>Some of these compositions were played at the American Philosophical Society April 19, 1956, under the direction of Henry S. Drinker. For the program, with notes by Gilbert Chinard, see American Philosophical Society "Proceedings" 100(1956):331.</p>
+        </odd>
+        <bioghist id="ref5">
+            <head>Biographical/Historical note</head>
+            <p>Parisian hostess Mme. Brillon counted Benjamin Franklin among her wide circle of friends.</p>
+        </bioghist>
+        <relatedmaterial id="ref3">
+            <head>Related Archival Materials note</head>
+            <p>This collection is also available on microfilm. Film 746 was made before purchase, and Film 1353 was made at the American Philosophical Society with annotations.</p>
+            <p></p>
+        </relatedmaterial>
+        <acqinfo id="ref2">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Purchase from Gilbet Chinard, descendant of Mme. Brillon, 1955. See in-house shelf list.</p>
+        </acqinfo>
+        <odd id="ref7">
+            <head>Early American History Note</head>
+            <p>This collection contains a number of musical compositions by Madame Anne Louise Boyvin d’Hardancourt Brillon de Juoy, a prominent Parisian salon hostess and musician. Her most famous composition, Le Marche des Insurgents, which was inspired by the American victory at Saratoga, is included in this collection. Many of these compositions are handwritten and appear to be from the eighteenth century, although it is unclear when they were written and who wrote them.</p>
+            <p>A second, related collection, 
+                <extref ns2:actuate="onLoad" ns2:show="new" ns2:href="http://www.amphilsoc.org/mole/view?docId=ead/Mss.842.5.B76-ead.xml">Plays, late 18th century (Mss.842.5.B76)</extref>, includes a number of plays Brillon wrote, although the authorship of some of them is not entirely clear.</p>
+            <p>Combined, the two collections capture the creative work of one of the most prominent French women of the time.</p>
+        </odd>
+        <controlaccess>
+            <subject source="leah">Beyond Early America</subject>
+            <genreform source="leah">Foreign Language</genreform>
+            <genreform source="leah">Literature</genreform>
+            <subject source="leah">Literature, Arts, and Culture</subject>
+            <subject source="lcsh">Marches.</subject>
+            <genreform source="leah">Miscellaneous</genreform>
+            <subject source="lcsh">Music - France - 18th century</subject>
+            <genreform source="lcsh">Musical scores.</genreform>
+            <subject source="lcsh">Sonatas.</subject>
+            <subject source="lcsh">Songs, French.</subject>
+            <genreform source="lcsh">Songs.</genreform>
+            <subject source="leah">Women's History</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

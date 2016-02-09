@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.H188-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.H188</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T19:30-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Sir William Rowan Hamilton correspondence, 1827-1852</unittitle>
+            <unitid>Mss.B.H188</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1317" type="Box" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>0.25 Linear feet</extent>
+                <extent>Ca. 95 items</extent>
+            </physdesc>
+            <unitdate normal="1827/1852" type="inclusive">1827-1852</unitdate>
+            <abstract id="ref1" label="Abstract">Hamilton's papers reflect his interests in astronomy and mathematics, as well as in literature and philosophy.</abstract>
+            <physdesc id="ref6" label="General Physical Description note">Ca. 95 items.</physdesc>
+            <physloc id="ref7" label="Paging">LH-MV-C-10; LH-SB-Black Case-28 (OS)</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Hamilton, William Rowan,Sir,1805-1865.</persname>
+            </origination>
+        </did>
+        <odd id="ref8">
+            <head>Early American History Note</head>
+            <p>This manuscript collection falls outside the geographic scope of the Early American guide (British North America and the United States before 1840). It may be of interest to scholars interested in global history, international relations, imperialism, or the U.S. in the world.</p>
+        </odd>
+        <acqinfo id="ref5">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Purchased from Scientific Library Service ($800.00) and accessioned, 12/27/1974 (1974 303ms).</p>
+        </acqinfo>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>William Rowan Hamilton was an Irish astronomer and mathematician and made remarkable theoretical contributions in physics and algebra. He was the director of the observatory at Dublin, Ireland, and Astronomer Royal of Ireland.</p>
+        </bioghist>
+        <controlaccess>
+            <persname rules="aacr" source="naf">Bailey, William</persname>
+            <persname rules="aacr" source="naf">Carter, John </persname>
+            <persname rules="aacr" source="local">Edgeworth, Francis Beaufort</persname>
+            <persname rules="aacr" source="naf">Everett, George </persname>
+            <persname rules="aacr" source="naf">Fitzgerald, William </persname>
+            <persname rules="aacr" source="local">Graves, John Thomas</persname>
+            <persname rules="aacr" source="local">Graves, Robert Perceval</persname>
+            <persname rules="aacr" source="naf">Singer, Joseph Henderson, 1786-1866</persname>
+            <famname source="ingest">Singleton, Thomas.</famname>
+            <persname rules="aacr" source="naf">Thomson, James, 1823-1900</persname>
+            <persname rules="aacr" source="naf">Walsh, John</persname>
+            <persname rules="aacr" source="naf">Wiley, John </persname>
+            <persname rules="aacr" source="naf">Wordsworth, William, 1770-1850.</persname>
+            <occupation source="lcsh">Astronomers -- Ireland -- 19th century.</occupation>
+            <subject source="lcsh">Astronomy -- Ireland -- 19th century.</subject>
+            <subject source="leah">Beyond Early America</subject>
+            <geogname source="lcsh">Great Britain -- Intellectual life -- 19th century.</geogname>
+            <occupation source="lcsh">Mathematicians -- Ireland -- 19th century.</occupation>
+            <subject source="lcsh">Mathematics -- Ireland -- 19th century.</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

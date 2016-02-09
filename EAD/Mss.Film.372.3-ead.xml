@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Film.372.3-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Film.372.3</num>
+                </titleproper>
+                <author>Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T20:14-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Franz Boas correspondence, 1885-1909</unittitle>
+            <unitid>Mss.Film.372.3</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid303" type="Reel" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>1.0 Microfilm reel(s)</extent>
+            </physdesc>
+            <unitdate normal="1885/1909" type="inclusive">1885-1909</unitdate>
+            <physdesc id="ref5" label="General Physical Description note">1 microfilm reel.</physdesc>
+            <abstract id="ref1" label="Abstract">This correspondence refers to his trips to Baffin Island (N.W.T.) and British Columbia, during which he studied and collected materials on Northwest Coast languages among the Eskimos.</abstract>
+            <physloc id="ref8" label="Paging">LH-RR-Media Rm-2</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Boas,  Franz, 1858-1942 </persname>
+            </origination>
+        </did>
+        <odd id="ref7">
+            <head>General note</head>
+            <p>Index (2 p.) at beginning of reel.</p>
+        </odd>
+        <acqinfo id="ref4">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Exchange with Smithsonian Institution, Office of Anthropology and accessioned, 1966 (1966 2248mf).</p>
+        </acqinfo>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>American anthropologist Franz Boas studied the Eskimo and Northwest Coast Indians and held positions at Columbia University and the American Museum of Natural History.</p>
+        </bioghist>
+        <originalsloc id="ref2">
+            <head>Existence and Location of Originals note</head>
+            <p>Originals in Office of Anthropology Archives, Smithsonian Institution, Washington, D.C.</p>
+        </originalsloc>
+        <controlaccess>
+            <subject source="ingest">Anthropology--Research</subject>
+            <subject source="lcsh">Eskimos</subject>
+            <occupation source="lcsh">Indians of North America</occupation>
+            <subject source="lcsh">Indigenous peoples -- British Columbia.</subject>
+            <subject source="lcsh">Indigenous peoples -- Nunavut -- Baffin Island.</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

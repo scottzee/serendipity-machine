@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.B61f-ead.xml">boas.xml</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Boas Family Papers
+                    <date type="span">1862-1942</date>
+                    <num>Mss.B.B61f</num>
+                </titleproper>
+                <author>Finding aid prepared by rsc</author>
+                <sponsor>Encoding was made possible by a grant from the Gladys Krieble Delmas Foundation to the Philadelphia Consortium of Special Collections Libraries.</sponsor>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+                <date>3/2002</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:53-0400</date>
+            </creation>
+            <langusage>ENG</langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Boas Family Papers</unittitle>
+            <unitid>Mss.B.B61f</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>9.0 Linear feet</extent>
+            </physdesc>
+            <unitdate normal="1862/1942" type="inclusive">1862-1942</unitdate>
+            <abstract id="ref2" label="Abstract">Letters between various family members of Franz Boas, nearly all in German. Although the topics relate primarily to personal, familial matters, information about Boas's career and (more generally) his intellectual formation and beliefs.</abstract>
+            <physdesc id="ref1" label="General Physical Description note">9 lin. feet</physdesc>
+            <physloc id="ref47" label="Paging">LH-B-14-1; LH-MV-E-1 (FBI Files)</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Boas,  Franz, 1858-1942 </persname>
+            </origination>
+            <origination label="creator">
+                <corpname source="ingest" role="Author (aut)">United States. Federal Bureau of Investigation</corpname>
+            </origination>
+        </did>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>Born in Minden, Germany, on July 8, 1858, the anthropologist Franz Boas was the son of the merchant Meier Boas and his wife, Sophie Meyer. Raised in the radical and tradition of German Judaism, Franz's youth was steeped in politically liberal beliefs and a largely secular outlook that he carried with him from university through his emigration to the United States.</p>
+            <p>At the universities of Heidelberg and Bonn, Boas studied physics and geography before completing a doctorate in physical geography at Kiel in 1881. Intending on testing then-current theories of environmental determinism, he signed on to an anthropological expedition to Baffin Island in 1883-1884, expecting that he would document the close adaptative fit of Central Eskimo cultures to their extreme climate. His experiences in the arctic, however, led him to the contrary conclusion: that social traditions, not environmental, exerted a dominant influence over human societies, and from this point onward, he was led to pursue the cultural over than physical dimensions of humanity.</p>
+            <p>Although he returned to Berlin after the expedition, Boas emigrated to the United States in 1885 to assume an editorial position with the journal 
+                <emph render="italic">Science</emph>, hoping to use it as a stepping-stone to an academic appointment. In 1886, he embarked upon a second major field excursion into what would become his most famous ethnographic project, working among the Kwakiutl (Kwakwaka'wakw) Indians of the Northwest Coast, after which he secured his first academic position in 1889, at Clark University in Worcester, Mass. After three years at Clark and a failed appointment at the Field Museum in Chicago in 1892 (during which he played a part in organizing the anthropological exhibits for the Columbian World's Fair), Boas moved to New York City.</p>
+            <p>The restless activity of Boas's early years slowed in New York. Hired by the American Museum of Natural History (1895-1905), which became the recipient of the amazingly rich anthropological collections he accumulated on the Northwest Coast, Boas began to teach classes at Columbia University in 1896, where three years later he was appointed Professor of Anthropology. For the next 37 years, Boas ruled the anthropological roost at Columbia, accruing unprecedented power in his discipline, wielding grants, recommendations, and appointments with remarkable dexterity, and collecting about him a remarkable group of younger scholars as students and colleagues.</p>
+            <p>Distancing himself from some of the main currents of contemporary anthropological thought in the United States, and particularly from the evolutionist assumptions that riddled the discipline, Boas championed an anthropology that viewed human cultures as shaped more by historical "tradition" than biological propensity. Claiming to resist any overarching, synthetic theories of human relations, and particularly evolutionary theories of sociocultural development, Boas laid the theoretical groundwork for what became modern cultural relativism. In the process, he helped to clarify the demarcation between the concepts of culture and race and its expression in the divergence of the four fields in anthropology -- linguistics, ethnography, physical anthropology, and archaeology.</p>
+            <p>Boas's relatively few forays into physical anthropology included a pioneering anthropometric study in 1910-1911, demonstrating that the alleged mental and physical inferiority of immigrants disappeared statistically by the second generation. Opposed to immigration quotas and disdainful of the claims to science used to justify them, Boas was a consistent, strident opponent of racial determinism in intellect or behavior. A committed, politically active Socialist, he was frequently an outspoken critic of American policy. During the First World War, he spoke out against the treatment of German Americans and "enemy aliens" -- to the point of putting himself at risk -- and the rise of the Nazi party in Germany proved an even greater crusade. Despite his age, Boas took an active role in the anti-fascist struggle in the United States and was involved with numerous committees to assist refugee scholars. He was equally ardent in his efforts to criticize racial and ethnic bigotry in the United States.</p>
+            <p>As a mentor, Boas had a reputation of being directive, at times overbearing, and at the same time of doing too little to prepare his students for the rigors of fieldwork. The extraordinary number of students coming out of Columbia under his care, however, has arguably done as much to extend the Boasian approach than Boas's own writing. Margaret Mead, Ruth Benedict, Elsie Clews Parsons, Alfred Kroeber, Frank Speck, Edward Sapir, Zora Neale Hurston, Ella Deloria, Melville Herskovits, Leslie Spier, Paul Radin, and Ashley Montagu are all students of Boas. Many continued in the same intellectual stream, some diverged, yet all bore traces of Boas's influence. He left a mark as well on the institutions of the discipline, as one of the founders of the American Anthropological Association and of the 
+                <title render="italic">International Journal of American Linguistics</title>.</p>
+        </bioghist>
+        <scopecontent id="ref4">
+            <head>Scope and Contents note</head>
+            <p>Letters between various family members of Franz Boas, nearly all in German. Although the topics relate primarily to personal, familial matters, information about Boas's career and (more generally) his intellectual formation and beliefs.</p>
+        </scopecontent>
+        <acqinfo id="ref6">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Series I.: Gift of Helene Boas Yampolsky, 1961-1962; and Dr. Cecil Yampolsky, 1964, with many later additions from Norman F. Boas.</p>
+            <p>Series II.: Requested by Stephen Catlett through Freedom of Information Act, 1983 (accession number 1985-225ms).</p>
+        </acqinfo>
+        <prefercite id="ref7">
+            <head>Preferred Citation note</head>
+            <p>Cite as: Boas Family Papers, American Philosophical Society.</p>
+        </prefercite>
+        <relatedmaterial id="ref8">
+            <head>Related Archival Materials note</head>
+            <list type="deflist">
+                <head>Other Franz Boas Collections</head>
+                <defitem>
+                    <label>Franz Boas Papers, 1862-1942 (Mss B B61)</label>
+                    <item>
+                        <extref ns2:href="view?docId=ead/Mss.B.B61-ead.xml">
+                            <emph render="bold">View Collection</emph></extref></item>
+                </defitem>
+                <defitem>
+                    <label>Franz Boas Professional Papers, ca. 1860-1942 (Mss B B61p)</label>
+                    <item>
+                        <extref ns2:href="view?docId=ead/Mss.B.B61p-ead.xml">
+                            <emph render="bold">View Collection</emph></extref></item>
+                </defitem>
+                <defitem>
+                    <label>Boas-Rukeyser Collection, 1869-1940 (Mss B B61ru)</label>
+                    <item>
+                        <extref ns2:href="view?docId=ead/Mss.B.B61ru-ead.xml">
+                            <emph render="bold">View Collection</emph></extref></item>
+                </defitem>
+                <defitem>
+                    <label>Franz Boas field notebooks and anthropometric data, ca. 1883-1912 (Mss B B61.5)</label>
+                    <item>
+                        <extref ns2:href="view?docId=ead/Mss.B.B61.5-ead.xml">
+                            <emph render="bold">View Collection</emph></extref></item>
+                </defitem>
+            </list>
+            <p>The American Council of Learned Societies Committee on Native American Languages, Franz Boas Collection of Materials for American Linguistics ( 
+                <extref ns2:href="view?docId=ead/Mss.497.3.B63c-ead.xml">
+                    <emph render="bold">Mss 497.3.B63c</emph></extref>) is a large collection of primary materials on Native American languages assembled, in part, under Boas's supervision, and including a large quantity of material written by Boas himself.</p>
+            <p>Boas appears as a correspondent in numerous APS collections, and in addition to its rich collections for the history of anthropology, the library houses the papers of several of Boas's former students and proteges, including Frank Speck ( 
+                <extref ns2:href="view?docId=ead/Mss.Ms.Coll.126-ead.xml">
+                    <emph render="bold">Mss. Ms. Coll. 126</emph></extref>), Elsie Clews Parsons ( 
+                <extref ns2:href="view?docId=ead/Mss.Ms.Coll.29-ead.xml">
+                    <emph render="bold">Mss. Ms. Coll. 29</emph></extref>), John Alden Mason ( 
+                <extref ns2:href="view?docId=ead/Mss.B.M384-ead.xml">
+                    <emph render="bold">Mss. B M384</emph></extref>), Paul Radin ( 
+                <extref ns2:href="view?docId=ead/Mss.497.3.R114-ead.xml">
+                    <emph render="bold">Mss. 497.3 R114</emph></extref>), and Ashley Montagu ( 
+                <extref ns2:href="view?docId=ead/Mss.Ms.Coll.109-ead.xml">
+                    <emph render="bold">Mss. Ms. Coll. 109</emph></extref>).</p>
+            <p>The APS also houses a microfilm (372.3, reel 1) of original materials in the Office of Anthropology Archives, Smithsonian Institution, Washington, D.C., relating to Boas's trips to Baffin Island (N.W.T.) and British Columbia, during which he studied and collected cultural materials, 1885-1909.</p>
+            <p>The papers of Boas's son Ernst Boas ( 
+                <extref ns2:href="view?docId=ead/Mss.Ms.Coll.10-ead.xml">
+                    <emph render="bold">Mss. Ms. Coll. 10</emph></extref>) are housed at the APS. A physician, Ernst Boas shared his father's liberal political outlook and activist social views.</p>
+        </relatedmaterial>
+        <bibliography id="ref11">
+            <head>Bibliography</head>
+            <bibref>Rohner, Ronald P., ed., 
+                <emph render="italic">The Ethnography of Franz Boas: Letters and Diaries of Franz Boas, Written on the Northwest Coast from 1886 to 1931 </emph>(Chicago: Univ. of Chicago, 1969). 
+                <emph render="bold">Call no.: </emph>B B61e.r</bibref>
+            <bibref>Stocking, George, ed., 
+                <emph render="italic">The Shaping of American Anthropology, 1883-1911: A Franz Boas Reader </emph>(N.Y.: Basic Books, 1974). 
+                <emph render="bold">Call no.: </emph>572.081 B63s</bibref>
+            <bibref>Cole, Douglas, 
+                <emph render="italic">Franz Boas: The Early Years, 1859-1906 </emph>(Seattle: Univ. of Washington, 1999).</bibref>
+            <bibref>Boas, Franz, 
+                <emph render="italic">The Mind of Primitive Man </emph>(N.Y.: MacMillan, 1911). 
+                <emph render="bold">Call no.: </emph>572 B63m</bibref>
+            <bibref>Boas, Franz, 
+                <emph render="italic">Ethnology of the Kwakiutl </emph>(Washington, D.C.:Government Printing Office, 1921). 
+                <emph render="bold">Call no.: </emph>572.97 B63e</bibref>
+            <bibref>Boas, Franz, 
+                <emph render="italic">Primitive Art </emph>(Cambridge, Mass.: Harvard Univ. Press, 1927). 
+                <emph render="bold">Call no.: </emph>571.7 B63p</bibref>
+            <bibref>Boas, Franz, ed., 
+                <emph render="italic">General Anthropology </emph>(Boston: D.C. Heath, 1938). 
+                <emph render="bold">Call no.: </emph>572 B63g.r</bibref>
+            <bibref>Boas, Franz, 
+                <emph render="italic">Race, Language and Culture </emph>(N.Y.: MacMillan, 1940). 
+                <emph render="bold">Call no.: </emph>572.081 B63r</bibref>
+        </bibliography>
+        <controlaccess>
+            <persname rules="aacr" source="naf">Boas, Ernst P.,  (Ernst Philip), 1891-1955</persname>
+            <occupation source="lcsh">Anthropologists -- United States.</occupation>
+            <subject source="ingest">Anthropology--Research--United States</subject>
+            <subject source="lcsh">Anthropology--United States--History.</subject>
+            <subject source="lcsh">Anthropology--United States.</subject>
+            <subject source="lcsh">Communists--United States</subject>
+            <subject source="ingest">Ethnology--North America</subject>
+            <subject source="ingest">Jewish scientists</subject>
+            <subject source="ingest">Refugees, Political</subject>
+            <subject source="local">Scientists, Refugee</subject>
+            <subject source="ingest">Socialists--United States</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref12" level="series">
+                <did>
+                    <unittitle>Series I. Boas Family Papers</unittitle>
+                    <unitdate>1862-1942</unitdate>
+                    <physdesc id="ref13" label="General Physical Description note">9 linear feet</physdesc>
+                </did>
+                <c02 id="ref14" level="otherlevel">
+                    <did>
+                        <unittitle>Family correspondence</unittitle>
+                        <container id="cid97720" type="Box" label="Mixed materials">1</container>
+                        <unitdate>1862-1885 June</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref15" level="otherlevel">
+                    <did>
+                        <unittitle>Family correspondence</unittitle>
+                        <container id="cid97719" type="Box" label="Mixed materials">2</container>
+                        <unitdate>1885 July-1888</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref16" level="otherlevel">
+                    <did>
+                        <unittitle>Family correspondence</unittitle>
+                        <container id="cid97718" type="Box" label="Mixed materials">3</container>
+                        <unitdate>1889-1892</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref17" level="otherlevel">
+                    <did>
+                        <unittitle>Family correspondence</unittitle>
+                        <container id="cid97717" type="Box" label="Mixed materials">4</container>
+                        <unitdate>1892-1894 November</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref18" level="otherlevel">
+                    <did>
+                        <unittitle>Family correspondence</unittitle>
+                        <container id="cid97716" type="Box" label="Mixed materials">5</container>
+                        <unitdate>1894 December-1895</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref19" level="otherlevel">
+                    <did>
+                        <unittitle>Family correspondence</unittitle>
+                        <container id="cid97715" type="Box" label="Mixed materials">6</container>
+                        <unitdate>1896-1898 March</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref20" level="otherlevel">
+                    <did>
+                        <unittitle>Family correspondence</unittitle>
+                        <container id="cid97714" type="Box" label="Mixed materials">7</container>
+                        <unitdate>1898 April-1900</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref21" level="otherlevel">
+                    <did>
+                        <unittitle>Family correspondence</unittitle>
+                        <container id="cid97713" type="Box" label="Mixed materials">8</container>
+                        <unitdate>1901-1902</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref22" level="otherlevel">
+                    <did>
+                        <unittitle>Family correspondence</unittitle>
+                        <container id="cid97712" type="Box" label="Mixed materials">9</container>
+                        <unitdate>1903-1905</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref23" level="otherlevel">
+                    <did>
+                        <unittitle>Family correspondence</unittitle>
+                        <container id="cid97711" type="Box" label="Mixed materials">10</container>
+                        <unitdate>1906-1908 April</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref24" level="otherlevel">
+                    <did>
+                        <unittitle>Family correspondence</unittitle>
+                        <container id="cid97710" type="Box" label="Mixed materials">11</container>
+                        <unitdate>1908 June-1910 August</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref25" level="otherlevel">
+                    <did>
+                        <unittitle>Family correspondence</unittitle>
+                        <container id="cid97709" type="Box" label="Mixed materials">12</container>
+                        <unitdate>1910 September-1911</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref26" level="otherlevel">
+                    <did>
+                        <unittitle>Family correspondence</unittitle>
+                        <container id="cid97708" type="Box" label="Mixed materials">13</container>
+                        <unitdate>1912-1913 October</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref27" level="otherlevel">
+                    <did>
+                        <unittitle>Family correspondence</unittitle>
+                        <container id="cid97707" type="Box" label="Mixed materials">14</container>
+                        <unitdate>1913 November-1915 August</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref28" level="otherlevel">
+                    <did>
+                        <unittitle>Family correspondence</unittitle>
+                        <container id="cid97706" type="Box" label="Mixed materials">15</container>
+                        <unitdate>1915 September-1919</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref29" level="otherlevel">
+                    <did>
+                        <unittitle>Family correspondence</unittitle>
+                        <container id="cid97705" type="Box" label="Mixed materials">16</container>
+                        <unitdate>1920-1931</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref30" level="otherlevel">
+                    <did>
+                        <unittitle>Family correspondence</unittitle>
+                        <container id="cid97704" type="Box" label="Mixed materials">17</container>
+                        <unitdate>1925-1932</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref31" level="otherlevel">
+                    <did>
+                        <unittitle>Family correspondence</unittitle>
+                        <container id="cid97691" type="Box" label="Mixed materials">18</container>
+                        <unitdate>1909-1932</unitdate>
+                    </did>
+                    <c03 id="ref32" level="file">
+                        <did>
+                            <unittitle>Boas, Gertrude</unittitle>
+                            <container id="cid97703" type="Box" label="Mixed materials">18</container>
+                            <unitdate>1922</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref33" level="file">
+                        <did>
+                            <unittitle>Boas, Gertrude and Henry. Letters from Franz and Marie Boas #1</unittitle>
+                            <container id="cid97702" type="Box" label="Mixed materials">18</container>
+                            <unitdate>1922</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref34" level="file">
+                        <did>
+                            <unittitle>Boas, Gertrude and Henry. Letters from Franz and Marie Boas #2</unittitle>
+                            <container id="cid97701" type="Box" label="Mixed materials">18</container>
+                            <unitdate>1922</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref35" level="file">
+                        <did>
+                            <unittitle>Boas, Gertrude and Henry. Letters from Franz and Marie Boas #3</unittitle>
+                            <container id="cid97700" type="Box" label="Mixed materials">18</container>
+                            <unitdate>1922</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref36" level="file">
+                        <did>
+                            <unittitle>Boas Family correspondence</unittitle>
+                            <container id="cid97699" type="Box" label="Mixed materials">18</container>
+                            <unitdate>1909-1921</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref37" level="file">
+                        <did>
+                            <unittitle>Boas, Helene</unittitle>
+                            <container id="cid97698" type="Box" label="Mixed materials">18</container>
+                            <unitdate>1910-1934</unitdate>
+                            <physdesc id="ref38" label="General Physical Description note">8 folders</physdesc>
+                        </did>
+                    </c03>
+                    <c03 id="ref39" level="file">
+                        <did>
+                            <unittitle>Boas, Helene. Letters from aunts</unittitle>
+                            <container id="cid97697" type="Box" label="Mixed materials">18</container>
+                            <unitdate>1930-1932</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref40" level="file">
+                        <did>
+                            <unittitle>Boas, Henry B. Letters to Ernst Boas</unittitle>
+                            <container id="cid97696" type="Box" label="Mixed materials">18</container>
+                            <unitdate>1914-1917</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref41" level="file">
+                        <did>
+                            <unittitle>Boas, Henry B. Letters to Ernst Boas</unittitle>
+                            <container id="cid97695" type="Box" label="Mixed materials">18</container>
+                            <unitdate>1918-1919</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref42" level="file">
+                        <did>
+                            <unittitle>Krackowitzer, Emilie</unittitle>
+                            <container id="cid97694" type="Box" label="Mixed materials">18</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref43" level="file">
+                        <did>
+                            <unittitle>Krackowitzer, Emilie</unittitle>
+                            <container id="cid97693" type="Box" label="Mixed materials">18</container>
+                            <unitdate>1885</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref44" level="file">
+                        <did>
+                            <unittitle>Yampolsky, Helene</unittitle>
+                            <container id="cid97692" type="Box" label="Mixed materials">18</container>
+                        </did>
+                    </c03>
+                </c02>
+            </c01>
+            <c01 id="ref45" level="series">
+                <did>
+                    <unittitle>Series II. United States Federal Bureau of Investigation Files</unittitle>
+                    <unitid>Mss.B.B61.f.1</unitid>
+                    <langmaterial>
+                        <language langcode="eng"/>
+                    </langmaterial>
+                    <container id="cid97762" type="Box" label="Mixed materials">1</container>
+                    <physdesc>
+                        <extent>49.0 p.</extent>
+                    </physdesc>
+                    <unitdate normal="1862/1942" type="inclusive">1862-1942</unitdate>
+                </did>
+                <scopecontent id="ref46">
+                    <head>Scope and Contents note</head>
+                    <p>Franz Boas's FBI files, concerning the FBI investigation into Boas' alleged connections with the Communist party. The continuation of the files beyond the date of Boas' death most likely resulted from similar investigations into the activity of Boas' outspoken son, Ernst Boas.</p>
+                </scopecontent>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Rec.100-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Rec.100</num>
+                    <num>Mss.Rec.100</num>
+                </titleproper>
+                <author>Finding aid prepared by Brian Carpenter</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+                <date>10-2010</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T21:09-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Yavapai linguistic material</unittitle>
+            <unitid>Mss.Rec.100</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="nai"/>
+            </langmaterial>
+            <physdesc>
+                <extent>3.0 Reel(s)</extent>
+            </physdesc>
+            <unitdate>1973</unitdate>
+            <abstract id="ref2" label="Abstract">Elicited Yavapai senteneces and word lists, including phonology and modals. Recorded in Arizona, June - July 1973.</abstract>
+            <physdesc id="ref3" label="General Physical Description note">3 sound tape reels (1 hr., 50 min.) : analog, 3 3/4 ips, 2 track, mono. ; 5 in.</physdesc>
+            <physloc id="ref57" label="Paging">LH-B-32-3</physloc>
+            <origination label="creator">
+                <persname rules="dacs" source="local" role="Author (aut)">Kendall, Martha Oaks (Burnett)</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest">Sine, Harold</persname>
+            </origination>
+        </did>
+        <relatedmaterial id="ref4">
+            <head>Related Archival Materials</head>
+            <p>Phonetic transcriptions and translations from the recording sessions are available in the 
+                <extref ns2:actuate="onLoad" ns2:show="new" ns2:href="http://www.amphilsoc.org/mole/view?docId=ead/Mss.497.3.Am4-ead.xml">Phillips Fund Collection</extref> (Mss.497.3.Am4).</p>
+        </relatedmaterial>
+        <acqinfo id="ref5">
+            <head>Immediate Source of Acquisition</head>
+            <p>Presented by Martha Oaks Kendall in September 1974 (Acc. 1974 1164rec). This material was recorded with the assistance of a Phillips Fund grant.</p>
+        </acqinfo>
+        <controlaccess>
+            <subject source="lcsh">Hokan languages</subject>
+            <genreform source="ingest">Sound recordings</genreform>
+            <subject source="lcsh">Yavapai language</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref6" level="series">
+                <did>
+                    <unittitle>Audio recordings</unittitle>
+                </did>
+                <c02 id="ref7" level="file">
+                    <did>
+                        <unittitle>Yavapai elicitation; The /k/ /m/ problem; Session #1</unittitle>
+                        <unitid>01-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1973-06-21</unitdate>
+                        <physdesc id="ref8" label="General Physical Description note">
+                            <extent>00:13:31</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Kendall, Martha B.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Sine, Harold</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref10">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1273" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5228">
+                        <daodesc>
+                            <p>APSdigrec_1273</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Cottonwood (Ariz.)</geogname>
+                        <subject source="ingest">Yavapai language--Grammar</subject>
+                        <subject source="ingest">Yavapai language--Phonology</subject>
+                        <subject source="ingest">Yavapai language--Syntax</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref11" level="file">
+                    <did>
+                        <unittitle>Yavapai elicitation; The /k/ /m/ problem; Session #2</unittitle>
+                        <unitid>01-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1973-06-22</unitdate>
+                        <physdesc id="ref12" label="General Physical Description note">
+                            <extent>00:08:49</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Kendall, Martha B.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Sine, Harold</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref14">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1274" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5223">
+                        <daodesc>
+                            <p>APSdigrec_1274</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Cottonwood (Ariz.)</geogname>
+                        <subject source="ingest">Yavapai language--Grammar</subject>
+                        <subject source="ingest">Yavapai language--Phonology</subject>
+                        <subject source="ingest">Yavapai language--Syntax</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref15" level="file">
+                    <did>
+                        <unittitle>Yavapai elicitation; The /k/ /m/ problem; Session #3</unittitle>
+                        <unitid>01-03</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1973-06-25</unitdate>
+                        <physdesc id="ref16" label="General Physical Description note">
+                            <extent>00:08:06</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Kendall, Martha B.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Sine, Harold</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref18">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1275" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5232">
+                        <daodesc>
+                            <p>APSdigrec_1275</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Cottonwood (Ariz.)</geogname>
+                        <subject source="ingest">Yavapai language--Grammar</subject>
+                        <subject source="ingest">Yavapai language--Phonology</subject>
+                        <subject source="ingest">Yavapai language--Syntax</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref19" level="file">
+                    <did>
+                        <unittitle>Hokan Word List; Session #1</unittitle>
+                        <unitid>02-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1973-06-26</unitdate>
+                        <physdesc id="ref20" label="General Physical Description note">
+                            <extent>00:03:56</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Kendall, Martha B.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Sine, Harold</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref22">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1276" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5230">
+                        <daodesc>
+                            <p>APSdigrec_1276</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Cottonwood (Ariz.)</geogname>
+                        <subject source="lcsh">Hokan languages</subject>
+                        <subject source="lcsh">Yavapai language</subject>
+                        <subject source="ingest">Yavapai language--Grammar</subject>
+                        <subject source="ingest">Yavapai language--Syntax</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref23" level="file">
+                    <did>
+                        <unittitle>Hokan Word List; Session #2</unittitle>
+                        <unitid>02-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1973-06-27</unitdate>
+                        <physdesc id="ref24" label="General Physical Description note">
+                            <extent>00:07:57</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Kendall, Martha B.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Sine, Harold</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref26">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1277" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5227">
+                        <daodesc>
+                            <p>APSdigrec_1277</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Cottonwood (Ariz.)</geogname>
+                        <subject source="lcsh">Hokan languages</subject>
+                        <subject source="lcsh">Yavapai language</subject>
+                        <subject source="ingest">Yavapai language--Grammar</subject>
+                        <subject source="ingest">Yavapai language--Syntax</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref27" level="file">
+                    <did>
+                        <unittitle>Hokan Word List; Session #3</unittitle>
+                        <unitid>02-03</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1973-06-28</unitdate>
+                        <physdesc id="ref28" label="General Physical Description note">
+                            <extent>00:08:14</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Kendall, Martha B.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Sine, Harold</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref30">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1278" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5229">
+                        <daodesc>
+                            <p>APSdigrec_1278</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Cottonwood (Ariz.)</geogname>
+                        <subject source="lcsh">Hokan languages</subject>
+                        <subject source="lcsh">Yavapai language</subject>
+                        <subject source="ingest">Yavapai language--Grammar</subject>
+                        <subject source="ingest">Yavapai language--Syntax</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref31" level="file">
+                    <did>
+                        <unittitle>Hokan Word List; Session #4</unittitle>
+                        <unitid>02-04</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1973-06-29</unitdate>
+                        <physdesc id="ref32" label="General Physical Description note">
+                            <extent>00:10:29</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Kendall, Martha B.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Sine, Harold</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref34">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1279" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5225">
+                        <daodesc>
+                            <p>APSdigrec_1279</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Cottonwood (Ariz.)</geogname>
+                        <subject source="lcsh">Hokan languages</subject>
+                        <subject source="lcsh">Yavapai language</subject>
+                        <subject source="ingest">Yavapai language--Grammar</subject>
+                        <subject source="ingest">Yavapai language--Syntax</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref35" level="file">
+                    <did>
+                        <unittitle>Yavapai Modals, Session #1</unittitle>
+                        <unitid>02-05</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1973-07-02</unitdate>
+                        <physdesc id="ref36" label="General Physical Description note">
+                            <extent>00:09:23</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Kendall, Martha B.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Sine, Harold</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref38">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1280" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5224">
+                        <daodesc>
+                            <p>APSdigrec_1280</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Flagstaff (Ariz.)</geogname>
+                        <subject source="ingest">Yavapai language--Grammar</subject>
+                        <subject source="ingest">Yavapai language--Modality</subject>
+                        <subject source="ingest">Yavapai language--Syntax</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref39" level="file">
+                    <did>
+                        <unittitle>Yavapai Modals, Session #2</unittitle>
+                        <unitid>02-06</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1973-07-02</unitdate>
+                        <physdesc id="ref40" label="General Physical Description note">
+                            <extent>00:06:45</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Kendall, Martha B.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Sine, Harold</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref42">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1281" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5231">
+                        <daodesc>
+                            <p>APSdigrec_1281</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Flagstaff (Ariz.)</geogname>
+                        <subject source="ingest">Yavapai language--Grammar</subject>
+                        <subject source="ingest">Yavapai language--Modality</subject>
+                        <subject source="ingest">Yavapai language--Syntax</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref43" level="file">
+                    <did>
+                        <unittitle>Yavapai Modals, Session #3</unittitle>
+                        <unitid>02-07</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1973-07-02</unitdate>
+                        <physdesc id="ref44" label="General Physical Description note">
+                            <extent>00:15:20</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Kendall, Martha B.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Sine, Harold</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref46">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1282" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5222">
+                        <daodesc>
+                            <p>APSdigrec_1282</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Flagstaff (Ariz.)</geogname>
+                        <subject source="ingest">Yavapai language--Grammar</subject>
+                        <subject source="ingest">Yavapai language--Modality</subject>
+                        <subject source="ingest">Yavapai language--Syntax</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref47" level="file">
+                    <did>
+                        <unittitle>Yavapai Elicitation Session #1</unittitle>
+                        <unitid>03-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1973-07</unitdate>
+                        <physdesc id="ref48" label="General Physical Description note">
+                            <extent>00:08:36</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Kendall, Martha B.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Sine, Harold</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref49">
+                        <head>Scope and Contents note</head>
+                        <p>Recording consists of isolated phrases and sentences in Yavapai. Contents not specifically identified by collector.</p>
+                    </scopecontent>
+                    <originalsloc id="ref51">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1283" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5226">
+                        <daodesc>
+                            <p>APSdigrec_1283</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Arizona</geogname>
+                        <subject source="ingest">Yavapai language--Grammar</subject>
+                        <subject source="ingest">Yavapai language--Syntax</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref52" level="file">
+                    <did>
+                        <unittitle>Yavapai Elicitation Session #2</unittitle>
+                        <unitid>03-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1973-07</unitdate>
+                        <physdesc id="ref53" label="General Physical Description note">
+                            <extent>00:08:28</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Kendall, Martha B.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Sine, Harold</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref54">
+                        <head>Scope and Contents note</head>
+                        <p>Recording consists of isolated phrases and sentences in Yavapai. Contents not specifically identified by collector.</p>
+                    </scopecontent>
+                    <originalsloc id="ref56">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1284" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5233">
+                        <daodesc>
+                            <p>APSdigrec_1284</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Arizona</geogname>
+                        <subject source="ingest">Yavapai language--Grammar</subject>
+                        <subject source="ingest">Yavapai language--Syntax</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

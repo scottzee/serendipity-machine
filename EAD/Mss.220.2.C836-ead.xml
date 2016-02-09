@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.220.2.C836-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.220.2.C836</num>
+                </titleproper>
+                <author>Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:07-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="item">
+        <did>
+            <unittitle>Observations &amp; remarks tending to explain certain parts of the sacred scriptures, 1812-1813</unittitle>
+            <unitid>Mss.220.2.C836</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid643" type="Volume" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>1.0 Volume(s)</extent>
+                <extent>1 volume, ca. 290 p. </extent>
+            </physdesc>
+            <unitdate normal="1812/1813" type="inclusive">1812-1813</unitdate>
+            <physdesc id="ref1" label="General Physical Description note">1 volume, 290 p.</physdesc>
+            <abstract id="ref2" label="Abstract">This item also contains some newspapers clippings and a manuscript obituary of Julian Halliday Coxe (1833-1834), infant son of Daniel T. Coxe.</abstract>
+            <physloc id="ref6" label="Paging">LH-MV-E-15</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Coxe, John Redman, 1773-1864</persname>
+            </origination>
+        </did>
+        <bioghist id="ref4">
+            <head>Biographical/Historical note</head>
+            <p>John Redman Coxe is best known as a premier physician in nineteenth century America. Coxe was born in New Jersey but spent much of his youth in England because his father was a loyalist during the Revolution. Coxe returned to Philadelphia to study medicine under Benjamin Rush. After traveling throughout Europe to continue his medical education, he established a practice in Philadelphia in 1796.</p>
+            <p>Coxe was an advocate of inoculation at a time when it was a controversial procedure. He became known as a druggist and prepared a syrup concoction that carried his name and lasted until the late-nineteenth century. He later became a professor at the University of Pennsylvania and is credited with helping found pharmaceutical studies in the U.S.. Coxe eventually left the university in a cloud of controversy, primarily because his teachings did not follow the latest trends in medicine.</p>
+            <p>Coxe also founded and edited an important medical journal in Philadelphia. Tracking Coxe’s career, after initial success, the journal folded in part because of its conservative take on medical practices. In addition to his editing work, Coxe authored or edited a number of important medical books.</p>
+        </bioghist>
+        <acqinfo id="ref3">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Purchased from Hook for $50.00 and accessioned, 09/08/1955 (1227ms).</p>
+        </acqinfo>
+        <odd id="ref5">
+            <head>Early American History Note</head>
+            <p>John Redman Coxe was a premier physician in nineteenth century America best known for his work in medicine as a physician, teacher, and author. The John Redman Coxe Collection shows a different side of Coxe. The APS Collection is a bound, handwritten essay by Coxe entitled, “Observations and Remarks Tending to Explain Certain Parts of the Sacred Scriptures, 1812-1813.” This fascinating and often-sophisticated volume deals with various arguments put forward by skeptics that challenge the accuracy of the Bible, with particular attention paid to Genesis. Coxe then offers his own rebuttal or the rebuttal of others. Coxe frequently challenges prevailing translations of Hebrew words, believing that more accurate definitions can sometimes solve confusion or controversy. Although the work was never published, it does offer insight into the types of debates about the Bible accessible to Americans in the nineteenth century.</p>
+        </odd>
+        <controlaccess>
+            <persname rules="aacr" source="local">Coxe, Daniel T.</persname>
+            <persname rules="aacr" source="naf">Coxe, Julian Halliday, 1833-1834</persname>
+            <subject source="lcsh">Bible - Criticism, interpretation, etc.</subject>
+            <genreform source="leah">Manuscript Essays</genreform>
+            <subject source="leah">Natural History</subject>
+            <subject source="leah">Religion</subject>
+            <subject source="leah">Science and Technology</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

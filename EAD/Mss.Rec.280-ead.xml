@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Rec.280</num>
+                </titleproper>
+                <author>Finding aid prepared by Brian Carpenter</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+                <date>August 17, 2012</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T21:15-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Kiowa Belief Systems</unittitle>
+            <unitid>Mss.Rec.280</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>24.0 Tape(s)</extent>
+            </physdesc>
+            <unitdate>1994</unitdate>
+            <physdesc id="ref1" label="General Physical Description">24 audiocassettes (29 hr., 4 min.) : analog, stereo.</physdesc>
+            <origination label="creator">
+                <persname rules="aacr" source="local" role="Author (aut)">Kracht, Benjamin</persname>
+            </origination>
+        </did>
+        <controlaccess>
+            <subject source="ingest">Indians of North America--Oklahoma--Dance</subject>
+            <subject source="lcsh">Kiowa Indians--Music</subject>
+            <subject source="lcsh">Kiowa Indians--Religion</subject>
+            <subject source="lcsh">Kiowa Indians--Societies, etc.</subject>
+            <subject source="lcsh">Powwows</subject>
+            <genreform source="ingest">Sound recordings</genreform>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

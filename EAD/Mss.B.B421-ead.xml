@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.B421-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.B421</num>
+                </titleproper>
+                <author>Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:32-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Robert Bell correspondence, 1874-1908</unittitle>
+            <unitid>Mss.B.B421</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid252" type="Box" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>0.25 Linear feet</extent>
+                <extent>77 items</extent>
+            </physdesc>
+            <unitdate normal="1874/1908" type="inclusive">1874-1908</unitdate>
+            <abstract id="ref1" label="Abstract">The letters concern a variety of topics, the most significant being Canada, geography, North American Indians, paleontology, geology, and the Geological Survey of Canada. Correspondents include Franz Boas, Elliot Cones, William Isbister, J. M. LeMoine, James C. Pilling, and E. F. S .J. Petitot.</abstract>
+            <physdesc id="ref5" label="General Physical Description note">77 items.</physdesc>
+            <physloc id="ref6" label="Paging">LH-MV-C-2</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Allen, J. A.,  (Joel Asaph), 1838-1921</persname>
+            </origination>
+            <origination label="creator">
+                <corpname rules="aacr" source="naf" role="Correspondent (crp)">American Museum of Natural History. Dept. of Anthropology.</corpname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Bell, Robert, 1841-1917</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Boas,  Franz, 1858-1942 </persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Coues, Elliott, 1842-1899</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Isbister, William</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Le Moine, J. M., Sir,  (James MacPherson), 1825-1912</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Petitot, Emile Fortune Stanislas, 1838-1917</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Pilling, James Constantine, 1846-1895</persname>
+            </origination>
+        </did>
+        <bioghist id="ref4">
+            <head>Biographical/Historical note</head>
+            <p>Canadian geologist Robert Bell directed the Geological Survey of Canada from 1901-1906.</p>
+        </bioghist>
+        <acqinfo id="ref2">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Purchased from Montreal Book Auctions Ltd., (cat. 112), and accessioned, 11/10/1978 (1978 1596-1602ms).</p>
+        </acqinfo>
+        <controlaccess>
+            <corpname rules="aacr" source="naf">Geological Survey of Canada.</corpname>
+            <corpname rules="aacr" source="naf">International Congress of Americanists.</corpname>
+            <corpname rules="aacr" source="naf">World's Columbian Exposition (1893 : Chicago, Ill.).</corpname>
+            <subject source="lcsh">Eskimos--Canada</subject>
+            <subject source="lcsh">Geography -- Canada.</subject>
+            <subject source="lcsh">Geology -- Canada.</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

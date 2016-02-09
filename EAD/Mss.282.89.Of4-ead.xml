@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.282.89.Of4</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:08-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="item">
+        <did>
+            <unittitle>Institutionalization of the Catholic Church in the Americas: The case of colonial Guatemala, 1524-1563</unittitle>
+            <unitid>Mss.282.89.Of4</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid703" type="Volume" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>1.0 Volume(s)</extent>
+                <extent>1 volume, 400 p., photocopy</extent>
+            </physdesc>
+            <unitdate normal="1979/1979">1979</unitdate>
+            <abstract id="ref1" label="Abstract">An abstract of this University of Pennsylvania dissertation states, "Institutionalization of the Catholic Church in Guatemala, i.e., the process of continuous crystalization of norms, organization, and framework which regulate religious behavior, is the main object of this study."</abstract>
+            <physdesc id="ref6" label="General Physical Description note">1 volume, 400 p., photocopy.</physdesc>
+            <physloc id="ref7" label="Paging">LH-MV-E-7</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">O'Flaherty, Edward.</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref5">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by Edward M. O'Flaherty and accessioned, 1980 (136ms).</p>
+        </acqinfo>
+        <controlaccess>
+            <corpname source="ingest">Catholic Church -- Guatemala.</corpname>
+            <genreform source="lcsh">Dissertations.</genreform>
+            <geogname source="lcsh">Guatemala -- History -- To 1821.</geogname>
+            <subject source="lcsh">Missionaries.</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

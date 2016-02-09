@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.M381-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.M381</num>
+                    <num>Mss.B.M381</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T21:24-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Correspondence and accounts of the Mason and Dixon survey, 1758-1769</unittitle>
+            <unitid>Mss.B.M381</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid13267002" type="Box" label="Mixed materials">1</container>
+            <container parent="cid13267002" type="Reel">1</container>
+            <physdesc>
+                <extent>0.25 Linear feet</extent>
+            </physdesc>
+            <unitdate normal="1758/1769" type="inclusive">1758-1769</unitdate>
+            <abstract id="ref2" label="Abstract">Correspondence from Charles Mason and Jeremiah Dixon to Thomas Birch, and Nevil Maskelyne to Charles Mason, relating to the survey, and the transits of Venus (1761,1769).</abstract>
+            <physloc id="ref4" label="Paging">LH-B-19-9; LH-MV-E-3 (B M381.1)</physloc>
+            <physdesc id="ref1" label="General Physical Description note">
+                <extent>21 photocopies; 1 microfilm reel</extent></physdesc>
+            <origination label="creator">
+                <persname source="ingest">Dixon, Jeremiah</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest">Mason, Charles, 1728-1786</persname>
+            </origination>
+        </did>
+        <relatedmaterial id="ref5">
+            <head>Related Archival Materials note</head>
+            <p>See also: 
+                <extref ns2:actuate="onLoad" ns2:show="new" ns2:href="http://www.amphilsoc.org/mole/view?docId=ead/Mss.974.8.P383-ead.xml">Minutes and papers of the Mason and Dixon survey, 1760-1768 (Mss.974.8.P383)</extref>.</p>
+        </relatedmaterial>
+        <odd id="ref6">
+            <head>Early American History Note</head>
+            <p>The Mason and Dixon Survey Collection at the APS consists of 1.) two volumes relating to their work drawing a border between Pennsylvania and Maryland and 2.) a box of correspondence. The portion of the collection being described here consists of the correspondence. This part of the collection is a box of photostats, mostly from 1761 and 1769, that include field reports and other correspondence.</p>
+            <p>The other portion of the Mason and Dixon Collection (Mss.974.8.P383) contains two volumes. One details the Penn family’s costs, which goes into specific details about items purchased and used for the venture. The second volume is a manuscript copy of the commissioners’ minutes from 1760-1768. The commissioners, who were representatives of both Baltimore and Penn, gave directions to Mason and Dixon. The minutes contain negotiations between the commissioners, which provide insight into surveying methods and the various disagreements between the two sides about boundaries, particularly as they relate to the Delmarva Peninsula. There are a few mentions of Indians and diplomacy, especially around 1767 when Mason and Dixon were extending the line into the Ohio Country.</p>
+        </odd>
+        <bioghist id="ref7">
+            <head>Biographical/Historical note</head>
+            <p>Charles Mason (Oakridge Lynch, Gloucestershire, April 1728– Philadelphia, October 25, 1786) was an English astronomer who made significant contributions to 18th-century science and American history, particularly through his involvement with the survey of the Mason-Dixon line, which came to mark the division between the northern and southern United States (1764-1768).</p>
+        </bioghist>
+        <acqinfo id="ref8">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Acquired, 1947; provenance unknown.</p>
+        </acqinfo>
+        <originalsloc id="ref9">
+            <head>Existence and Location of Originals note</head>
+            <p>Originals in British Museum, Historical Society of Pennsylvania, Maryland Historical Society, and Royal Society.</p>
+        </originalsloc>
+        <controlaccess>
+            <persname source="ingest">Birch, Thomas</persname>
+            <persname source="ingest">Maskelyne, Nevil, 1732-1811</persname>
+            <subject source="leah">Colonial Politics</subject>
+            <genreform source="leah">General Correspondence</genreform>
+            <subject source="leah">Government Affairs</subject>
+            <genreform source="leah">Maps and Surveys</genreform>
+            <geogname source="lcsh">Maryland -- Boundaries.</geogname>
+            <geogname source="lcsh">Mason-Dixon Line.</geogname>
+            <subject source="lcsh">Meteorology.</subject>
+            <genreform source="leah">Official Government Documents and Records</genreform>
+            <geogname source="lcsh">Pennsylvania -- Boundaries.</geogname>
+            <subject source="leah">Pennsylvania History</subject>
+            <subject source="leah">Science and Technology</subject>
+            <subject source="leah">Surveying and Maps</subject>
+            <subject source="lcsh">Surveys.</subject>
+            <subject source="lcsh">Transits.</subject>
+            <geogname source="lcsh">Venus (Planet)</geogname>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref15" level="series">
+                <did>
+                    <unittitle>21 items photostats and typescripts. 1758-1771</unittitle>
+                </did>
+                <c02 id="ref21" level="file">
+                    <did>
+                        <unittitle>Memoranda to Revd. Dr. [James] Bradley</unittitle>
+                        <unitdate>May 1, 1758</unitdate>
+                        <physdesc id="ref22" label="General Physical Description note">8" x 13"</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Mason, Charles, 1728-1786</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref23">
+                        <head>Scope and Contents note</head>
+                        <p>Greenwich, Typescript of D. 1p. Memo. relative to alternations made on astronomical instruments, July 5,1742-July 1753. From original in Bodleian library.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref24" level="file">
+                    <did>
+                        <unittitle>Letter to [Thomas Birch]</unittitle>
+                        <unitdate>Oct. 2, 1760</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Dixon, Jeremiah</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref25">
+                        <head>Scope and Contents note</head>
+                        <p>Cockfield, Photostat of A.L.S. 1p. From original in British Museum.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref26" level="file">
+                    <did>
+                        <unittitle>Letter to Tho[ma]s Birch</unittitle>
+                        <unitdate>Nov. 24, 1760</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Mason, Charles, 1728-1786</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref27">
+                        <head>Scope and Contents note</head>
+                        <p>Portsmouth, Photostat of L.S: C. Mason, J. Dixon. 1p. and add. Scientific instruments. From original in British museum.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref28" level="file">
+                    <did>
+                        <unittitle>Letter to Charles Mason</unittitle>
+                        <unitdate>Nov. 29, 1760</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Maskelyne, Nevil, 1732-1811</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref29">
+                        <head>Scope and Contents note</head>
+                        <p>London, Photostate of A.L.S. 4p.,add. Instructions for observing the Transit of Venus. From original in Maskelyne Collection. Greenwich observatory.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref30" level="file">
+                    <did>
+                        <unittitle>Letter to Tho[ma]s Birch</unittitle>
+                        <unitdate>Dec. 1, 1760</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Dixon, Jeremiah</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref31">
+                        <head>Scope and Contents note</head>
+                        <p>Portsmouth Point, Photostat of A.L.S. 1p. and add. Everything in readiness for sailing except orders from the directors of the India co. From original in British Museum.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref32" level="file">
+                    <did>
+                        <unittitle>Letter to Tho[ma]s Birch</unittitle>
+                        <unitdate>Dec. 8, 1760</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Dixon, Jeremiah</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref33">
+                        <head>Scope and Contents note</head>
+                        <p>Portsmouth, Photostat of A.L.S. 1p. and add. Capt. Smith's sailing instructions. From original in British Museum.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref34" level="file">
+                    <did>
+                        <unittitle>Mason and Dixon's expences &amp;c. to the accompt of the Royal society</unittitle>
+                        <unitdate>Oct. 23, Oct. 5, 1760, 1761</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Mason, Charles, 1728-1786</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref35">
+                        <head>Scope and Contents note</head>
+                        <p>Photostat of D. 2p. From original in Maskelyne Collection, Greenwich observatory. Contains also: Receipt from Charles Mason to Nevil Maskelyne; Jan. 2, 1762.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref36" level="file">
+                    <did>
+                        <unittitle>Letter to Tho[ma]s Birch</unittitle>
+                        <unitdate>Jan. 12, 1761</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Dixon, Jeremiah</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref37">
+                        <head>Scope and Contents note</head>
+                        <p>Plymouth, Photostat of A.L.S. 1p. and add. Report to the Royal Society on the condition of his vessel after an encounter with a French ship; impossible to now reach Indian in time for the observations. From original in British Museum.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref38" level="file">
+                    <did>
+                        <unittitle>Letter to [Thomas] Birch</unittitle>
+                        <unitdate>Feb. 27, 1761</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Dixon, Jeremiah</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref39">
+                        <head>Scope and Contents note</head>
+                        <p>St. Cruz in the Island Tenarif, Photostat of A.L.S. 1p. and add. Report to the Royal Society on the voyage thus far. From original in British Museum.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref40" level="file">
+                    <did>
+                        <unittitle>Letter to Tho[ma]s Birch</unittitle>
+                        <unitdate>May 6, 1761</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Dixon, Jeremiah</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref41">
+                        <head>Scope and Contents note</head>
+                        <p>Cape of Good Hope, Photostat of A.L.S. 1p. and add. Making all possible dispatch to erect an observatory in time for the Transit. From original in British Museum.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref42" level="file">
+                    <did>
+                        <unittitle>Receipt for ten pounds from Nevil Maskelyne</unittitle>
+                        <unitdate>Jan. 2, 1762</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Mason, Charles, 1728-1786</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref43">
+                        <head>Scope and Contents note</head>
+                        <p>St. Helena, Photostat of A.D. (On same sheet with Mason and Dixon's expences...Oct. 23,1760-Oct. 5, 1761) From original in Maskelyne Collection, Greenwich observatory.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref44" level="file">
+                    <did>
+                        <unittitle>Letter to Charles Mason</unittitle>
+                        <unitdate>Jan. 31, 1769</unitdate>
+                        <physdesc id="ref45" label="General Physical Description note">8 1/2" x 11"</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Maskelyne, Nevil, 1732-1811</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref46">
+                        <head>Scope and Contents note</head>
+                        <p>Greenwich, Typescript of L. 2p. Terms settled for Mason's visit to Ireland to observe the transit of Venus. From original in Maskelyne Collection, Greenwich observatory.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref47" level="file">
+                    <did>
+                        <unittitle>Letter to Cha[rle]s Mason</unittitle>
+                        <unitdate>Feb. 7, 1769</unitdate>
+                        <physdesc id="ref48" label="General Physical Description note">8 1/2" x 11"</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Maskelyne, Nevil, 1732-1811</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref49">
+                        <head>Scope and Contents note</head>
+                        <p>Greenwich, Typescript of L. 1p. Astronomical instruments. From original in Maskelyne Collection, Greenwich observatory.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref50" level="file">
+                    <did>
+                        <unittitle>Letter to Charles Mason</unittitle>
+                        <unitdate>May 8, 1769</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Maskelyne, Nevil, 1732-1811</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref51">
+                        <head>Scope and Contents note</head>
+                        <p>Greenwich, Photostat of A.L.S. 3p. and add. Astronomical observations and instruments. From original in Maskelyne Collection, Greenwich observatory.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref52" level="file">
+                    <did>
+                        <unittitle>Letter to Charles Mason</unittitle>
+                        <unitdate>May 23, 1769</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Maskelyne, Nevil, 1732-1811</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref53">
+                        <head>Scope and Contents note</head>
+                        <p>Greenwich, Photostat of A.L.S. 3p. and add. Astronomical observations; Transit of Venus. From original in Maskelyne Collection, Greenwich observatory.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref54" level="file">
+                    <did>
+                        <unittitle>Letter to Charles Mason</unittitle>
+                        <unitdate>June 24, 1769</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Maskelyne, Nevil, 1732-1811</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref55">
+                        <head>Scope and Contents note</head>
+                        <p>Greenwich, Photostat of A.L.S. 3p. and add. Astronomical observations; Transit of Venus. From original in Maskelyne Collection, Greenwich observatory.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref56" level="file">
+                    <did>
+                        <unittitle>Letter to Charles Mason</unittitle>
+                        <unitdate>Aug. 7, 1769</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Maskelyne, Nevil, 1732-1811</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref57">
+                        <head>Scope and Contents note</head>
+                        <p>Greenwich, Photostat of A.L.S. 3p. and add. Astronomical observations; Transit of Venus; mentions Dr. Smith of Pennsylvania. From original in Maskelyne Collection, Greenwich observatory.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref58" level="file">
+                    <did>
+                        <unittitle>Letter to Charles Mason</unittitle>
+                        <unitdate>Sept. 7, 1769</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Maskelyne, Nevil, 1732-1811</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref59">
+                        <head>Scope and Contents note</head>
+                        <p>Greenwich, Photostat of A.L.S. 3p. and add. Astronomical observations. From original in Maskelyne Collection, Greenwich observatory.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref60" level="file">
+                    <did>
+                        <unittitle>Letter to Charles Mason</unittitle>
+                        <unitdate>Oct. 6, 1769</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Maskelyne, Nevil, 1732-1811</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref61">
+                        <head>Scope and Contents note</head>
+                        <p>Greenwich, Photostat of A.L.S. 3p. and add. Astronomical observations. Mr. Winthrop and Transit of Venus. From original in Maskelyne Collection, Greenwich obervatory.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref62" level="file">
+                    <did>
+                        <unittitle>Letter to Charles Mason</unittitle>
+                        <unitdate>Nov. 9, 1769</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Maskelyne, Nevil, 1732-1811</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref63">
+                        <head>Scope and Contents note</head>
+                        <p>London, Photostat of A.L.S. 3p. and add. Observations of the Transit of Vernus made by various persons including [John] Winthrop. From original in Maskelyne Collection, Greewich observatory.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref64" level="file">
+                    <did>
+                        <unittitle>Letter to Nevil Maskelyne</unittitle>
+                        <unitdate>Jan. 30, 1771</unitdate>
+                        <physdesc id="ref65" label="General Physical Description note">8 1/2" x 11"</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Mason, Charles, 1728-1786</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref66">
+                        <head>Scope and Contents note</head>
+                        <p>Tetbury, Typescript of L. 1p. Astronomical affairs. From original in Maskelyne Collection, Greenwich observatory.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref16" level="file">
+                    <did>
+                        <unittitle>Letter to Charles Mason</unittitle>
+                        <unitdate>Undated</unitdate>
+                        <physdesc id="ref17" label="General Physical Description note">8 1/2" x 11"</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Maskelyne, Nevil, 1732-1811</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref18">
+                        <head>Scope and Contents note</head>
+                        <p>Greenwich; Tuesday morn. Typescript of L. 1p. Transit of Venus of June 6, 1761. From original in Maskelyne Collection, Greenwich Observatory.</p>
+                    </scopecontent>
+                </c02>
+            </c01>
+            <c01 id="ref10" level="item">
+                <did>
+                    <unittitle>Journal (copy), 1763-1768</unittitle>
+                    <unitid>B M381.1</unitid>
+                    <langmaterial>
+                        <language langcode="eng"/>
+                    </langmaterial>
+                    <container id="cid13267003" type="Reel" label="Microform">1</container>
+                    <physdesc>
+                        <extent>1.0 Reel(s)</extent>
+                    </physdesc>
+                    <unitdate normal="1763/1768" type="inclusive">1763-1768</unitdate>
+                    <physdesc id="ref13" label="General Physical Description note">1 microfilm copy (from microfilm) of original in the National Archives.</physdesc>
+                    <abstract id="ref12" label="Abstract">Journal during the survey of the Pennsylvania-Maryland line, 1763-1768.</abstract>
+                </did>
+                <originalsloc id="ref14">
+                    <head>Existence and Location of Originals note</head>
+                    <p>Originals in the National Archives.</p>
+                </originalsloc>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

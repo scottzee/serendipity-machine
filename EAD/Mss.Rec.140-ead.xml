@@ -1,0 +1,652 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Rec.140-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Rec.140</num>
+                    <num>Mss.Rec.140</num>
+                </titleproper>
+                <author>Finding aid prepared by Brian Carpenter</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+                <date>02-2011</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T21:11-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Recordings in the Carrier language</unittitle>
+            <unitid>Mss.Rec.140</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="ath"/>
+            </langmaterial>
+            <physdesc>
+                <extent>4.0 Tape(s)</extent>
+            </physdesc>
+            <unitdate normal="1987/1988" type="inclusive">1987-1988</unitdate>
+            <physdesc id="ref2" label="General Physical Description note">4 audiocassettes (3 hr., 8 min.) : analog, 1 7/8 ips, 1/4 track, stereo.</physdesc>
+            <physloc id="ref82" label="Paging">LH-B-32-4</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Prunet, Jean-Francois</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref3">
+            <head>Immediate Source of Acquisition</head>
+            <p>Presented by Jean-Francois Prunet in 1988 (Acc. 1988 2741re). This material was recorded with the assistance of a Phillips Fund grant.</p>
+        </acqinfo>
+        <relatedmaterial id="ref4">
+            <head>Related Archival Materials</head>
+            <p>A 56-page transcript of the recording is available in the 
+                <extref ns2:actuate="onLoad" ns2:show="new" ns2:href="http://www.amphilsoc.org/mole/view?docId=ead/Mss.497.3.Am4-ead.xml">Phillips Fund Collection</extref> (Mss.497.3.Am4).</p>
+        </relatedmaterial>
+        <userestrict id="ref83">
+            <head>Conditions Governing Use</head>
+            <p>Duplication of these recordings is restricted. Please consult the Manuscripts Librarian for details.</p>
+        </userestrict>
+        <controlaccess>
+            <subject source="ingest">Carrier language</subject>
+            <subject source="lcsh">Names, Carrier</subject>
+            <genreform source="ingest">Sound recordings</genreform>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref5" level="series">
+                <did>
+                    <unittitle>Audio recordings</unittitle>
+                </did>
+                <c02 id="ref6" level="file">
+                    <did>
+                        <unittitle>Carrier word and phrase list, Josephina Austin: 1-80</unittitle>
+                        <unitid>01-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1987-06-18</unitdate>
+                        <physdesc id="ref7" label="General Physical Description note">
+                            <extent>00:20:08</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Austin, Josephina</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Prunet, Jean-Francois</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref8">
+                        <head>Scope and Contents note</head>
+                        <p>The female researchers who can be heard on the recording are not identified in the recording's documentation.</p>
+                    </scopecontent>
+                    <originalsloc id="ref10">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1926" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6268">
+                        <daodesc>
+                            <p>APSdigrec_1926</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Carrier language</subject>
+                        <geogname source="ingest">Vancouver (B.C.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref11" level="file">
+                    <did>
+                        <unittitle>Carrier word and phrase list, Josephina Austin: 81-116</unittitle>
+                        <unitid>01-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1987-06-19</unitdate>
+                        <physdesc id="ref12" label="General Physical Description note">
+                            <extent>00:07:47</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Austin, Josephina</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Prunet, Jean-Francois</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref13">
+                        <head>Scope and Contents note</head>
+                        <p>The female researchers who can be heard on the recording are not identified in the recording's documentation.</p>
+                    </scopecontent>
+                    <originalsloc id="ref15">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1927" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6270">
+                        <daodesc>
+                            <p>APSdigrec_1927</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Carrier language</subject>
+                        <geogname source="ingest">Vancouver (B.C.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref16" level="file">
+                    <did>
+                        <unittitle>Carrier word and phrase list, Rose Pierre: 1-32</unittitle>
+                        <unitid>01-03</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1987-10-25</unitdate>
+                        <physdesc id="ref17" label="General Physical Description note">
+                            <extent>00:07:26</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Pierre, Rose</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Prunet, Jean-Francois</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref19">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1928" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6273">
+                        <daodesc>
+                            <p>APSdigrec_1928</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Burnaby (B.C.)</geogname>
+                        <subject source="ingest">Carrier language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref20" level="file">
+                    <did>
+                        <unittitle>Carrier word and phrase list, Rose Pierre: 33-91</unittitle>
+                        <unitid>01-04</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1987-11-01</unitdate>
+                        <physdesc id="ref21" label="General Physical Description note">
+                            <extent>00:13:14</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Pierre, Rose</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Prunet, Jean-Francois</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref23">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1929" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6269">
+                        <daodesc>
+                            <p>APSdigrec_1929</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Burnaby (B.C.)</geogname>
+                        <subject source="ingest">Carrier language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref24" level="file">
+                    <did>
+                        <unittitle>Carrier word and phrase list, Rose Pierre: 92-133</unittitle>
+                        <unitid>01-05</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1987-11-14</unitdate>
+                        <physdesc id="ref25" label="General Physical Description note">
+                            <extent>00:08:24</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Pierre, Rose</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Prunet, Jean-Francois</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref27">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1930" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6267">
+                        <daodesc>
+                            <p>APSdigrec_1930</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Burnaby (B.C.)</geogname>
+                        <subject source="ingest">Carrier language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref28" level="file">
+                    <did>
+                        <unittitle>Carrier word and phrase list, Rose Pierre: 134-161</unittitle>
+                        <unitid>02-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1988-01-17</unitdate>
+                        <physdesc id="ref29" label="General Physical Description note">
+                            <extent>00:06:30</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Pierre, Rose</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Prunet, Jean-Francois</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref31">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1931" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6272">
+                        <daodesc>
+                            <p>APSdigrec_1931</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Burnaby (B.C.)</geogname>
+                        <subject source="ingest">Carrier language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref32" level="file">
+                    <did>
+                        <unittitle>Carrier word and phrase list, Rose Pierre: 162-215</unittitle>
+                        <unitid>02-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1988-01-24</unitdate>
+                        <physdesc id="ref33" label="General Physical Description note">
+                            <extent>00:12:59</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Pierre, Rose</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Prunet, Jean-Francois</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref35">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1932" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6271">
+                        <daodesc>
+                            <p>APSdigrec_1932</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Burnaby (B.C.)</geogname>
+                        <subject source="ingest">Carrier language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref36" level="file">
+                    <did>
+                        <unittitle>Carrier word and phrase list, Rose Pierre: 216-254</unittitle>
+                        <unitid>02-03</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1988-01-31</unitdate>
+                        <physdesc id="ref37" label="General Physical Description note">
+                            <extent>00:09:12</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Pierre, Rose</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Prunet, Jean-Francois</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref39">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1933" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6276">
+                        <daodesc>
+                            <p>APSdigrec_1933</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Burnaby (B.C.)</geogname>
+                        <subject source="ingest">Carrier language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref40" level="file">
+                    <did>
+                        <unittitle>Carrier word and phrase list, Rose Pierre: 255-276</unittitle>
+                        <unitid>02-04</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1988-01-31</unitdate>
+                        <physdesc id="ref41" label="General Physical Description note">
+                            <extent>00:05:11</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Pierre, Rose</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Prunet, Jean-Francois</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref43">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1934" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6275">
+                        <daodesc>
+                            <p>APSdigrec_1934</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Burnaby (B.C.)</geogname>
+                        <subject source="ingest">Carrier language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref44" level="file">
+                    <did>
+                        <unittitle>Carrier word and phrase list, Rose Pierre: 277-332</unittitle>
+                        <unitid>02-05</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1988-02-14</unitdate>
+                        <physdesc id="ref45" label="General Physical Description note">
+                            <extent>00:13:48</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Pierre, Rose</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Prunet, Jean-Francois</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref46">
+                        <head>Scope and Contents note</head>
+                        <p>The word list on this program consists primarily of Carrier versions of English and French personal names.</p>
+                    </scopecontent>
+                    <originalsloc id="ref48">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1935" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6274">
+                        <daodesc>
+                            <p>APSdigrec_1935</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Burnaby (B.C.)</geogname>
+                        <subject source="ingest">Carrier language</subject>
+                        <subject source="ingest">Names, Carrier</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref49" level="file">
+                    <did>
+                        <unittitle>Carrier word and phrase list, Rose Pierre: 333-377</unittitle>
+                        <unitid>02-06</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1988-02-20</unitdate>
+                        <physdesc id="ref50" label="General Physical Description note">
+                            <extent>00:09:10</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Pierre, Rose</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Prunet, Jean-Francois</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref51">
+                        <head>Scope and Contents note</head>
+                        <p>The word list on this program consists of Carrier versions of English and French personal names.</p>
+                    </scopecontent>
+                    <originalsloc id="ref53">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1936" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6266">
+                        <daodesc>
+                            <p>APSdigrec_1936</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Burnaby (B.C.)</geogname>
+                        <subject source="ingest">Carrier language</subject>
+                        <subject source="ingest">Names, Carrier</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref54" level="file">
+                    <did>
+                        <unittitle>Carrier word and phrase list, Rose Pierre: 378-392</unittitle>
+                        <unitid>02-07</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1988-02-21</unitdate>
+                        <physdesc id="ref55" label="General Physical Description note">
+                            <extent>00:02:52</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Pierre, Rose</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Prunet, Jean-Francois</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref57">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1937" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6282">
+                        <daodesc>
+                            <p>APSdigrec_1937</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Burnaby (B.C.)</geogname>
+                        <subject source="ingest">Carrier language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref58" level="file">
+                    <did>
+                        <unittitle>Carrier word and phrase list, Rose Pierre: 393-437</unittitle>
+                        <unitid>03-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1988-02-21</unitdate>
+                        <physdesc id="ref59" label="General Physical Description note">
+                            <extent>00:09:06</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Pierre, Rose</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Prunet, Jean-Francois</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref61">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1938" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6281">
+                        <daodesc>
+                            <p>APSdigrec_1938</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Burnaby (B.C.)</geogname>
+                        <subject source="ingest">Carrier language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref62" level="file">
+                    <did>
+                        <unittitle>Carrier word and phrase list, Rose Pierre: 438-451</unittitle>
+                        <unitid>03-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1988-05-03</unitdate>
+                        <physdesc id="ref63" label="General Physical Description note">
+                            <extent>00:03:06</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Pierre, Rose</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Prunet, Jean-Francois</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref65">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1939" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6279">
+                        <daodesc>
+                            <p>APSdigrec_1939</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Burnaby (B.C.)</geogname>
+                        <subject source="ingest">Carrier language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref66" level="file">
+                    <did>
+                        <unittitle>Carrier word and phrase list, Rose Pierre: 452-484</unittitle>
+                        <unitid>03-03</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1988-05-08</unitdate>
+                        <physdesc id="ref67" label="General Physical Description note">
+                            <extent>00:07:05</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Pierre, Rose</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Prunet, Jean-Francois</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref69">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1940" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6284">
+                        <daodesc>
+                            <p>APSdigrec_1940</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Burnaby (B.C.)</geogname>
+                        <subject source="ingest">Carrier language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref70" level="file">
+                    <did>
+                        <unittitle>Carrier word and phrase list, Rose Pierre: 485-508</unittitle>
+                        <unitid>03-04</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1988-05-26</unitdate>
+                        <physdesc id="ref71" label="General Physical Description note">
+                            <extent>00:05:00</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Pierre, Rose</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Prunet, Jean-Francois</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref73">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1941" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6283">
+                        <daodesc>
+                            <p>APSdigrec_1941</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Burnaby (B.C.)</geogname>
+                        <subject source="ingest">Carrier language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref74" level="file">
+                    <did>
+                        <unittitle>Carrier word and phrase list, Rose Pierre: 509-588</unittitle>
+                        <unitid>04-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1988-08-12</unitdate>
+                        <physdesc id="ref75" label="General Physical Description note">
+                            <extent>00:31:24</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Pierre, Rose</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Prunet, Jean-Francois</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref77">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1942" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6278">
+                        <daodesc>
+                            <p>APSdigrec_1942</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Carrier language</subject>
+                        <geogname source="ingest">Tache (B.C.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref78" level="file">
+                    <did>
+                        <unittitle>Carrier word and phrase list, Rose Pierre: 588-626</unittitle>
+                        <unitid>04-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1988-08-12</unitdate>
+                        <physdesc id="ref79" label="General Physical Description note">
+                            <extent>00:15:38</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Pierre, Rose</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Prunet, Jean-Francois</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref81">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1943" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6280">
+                        <daodesc>
+                            <p>APSdigrec_1943</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Carrier language</subject>
+                        <geogname source="ingest">Tache (B.C.)</geogname>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

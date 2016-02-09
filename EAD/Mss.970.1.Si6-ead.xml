@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.970.1.Si6-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.970.1.Si6</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:26-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="item">
+        <did>
+            <unittitle>Ernestine H. Wieder Singer notes, 1935-1937</unittitle>
+            <unitid>Mss.970.1.Si6</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1073" type="Volume" label="Manuscripts">2</container>
+            <physdesc>
+                <extent>2.0 Volume(s)</extent>
+                <extent>2 volumes, ca. 150 p.</extent>
+            </physdesc>
+            <unitdate normal="1935/1937" type="inclusive">1935-1937</unitdate>
+            <abstract id="ref1" label="Abstract">These items include notes on "primitive economics" (Incan) for A. Irving Hallowell and from seminars with Linton Satterthwaite (on Mayan architecture), E. B. Howard (on problems of the Clovis site in New Mexico), and others at the University of Pennsylvania. There are also notes taken at the 1936 meeting of the American Anthropological Association of papers by various anthropologists in attendance, including Ruth Benedict, Frederica de Laguna, Waiter Dyk, William N. Fenton, Alfred V. Kidder, David G. Mandelbaum, George P. Murdock, Arthur C. Parker, Elsie Clews Parsons, Gladys A. Reichard, William A. Ritchie, Linton Satterthwaite, Gene Weltfish, and others regarding Cree, Flatheads, Iroquois, Kaingang (Southern Brazil), Kiowa, Mayan, Natchez, Navajo, Ojibwa, Pawnee, Pueblos, Sahaptin, Saulteaux, Siouan, Tarascan, Tonowanda (Seneca), Zuni, etc.</abstract>
+            <physdesc id="ref6" label="General Physical Description note">2 volumes, ca. 150 p.</physdesc>
+            <physloc id="ref7" label="Paging">LH-MV-E-13</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Singer, Ernestine H. Wieder.</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref5">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Received from unknown source, possibly a purchase, and accessioned, 1977 (1977 1341ms).</p>
+        </acqinfo>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>Ernestine H. Wieder Singer was an anthropologist and studied at the University of Pennsylvania.</p>
+        </bioghist>
+        <controlaccess>
+            <corpname rules="aacr" source="naf">American Anthropological Association. Meeting.</corpname>
+            <persname source="ingest">Benedict, Ruth, 1887-1848</persname>
+            <persname source="ingest">Fenton, William N., (William Nelson), 1908-2005</persname>
+            <persname source="ingest">Hallowell, A. Irving ,  (Alfred Irving), 1892-1974</persname>
+            <persname rules="aacr" source="naf">Howard, Edgar Billings, 1887-1943 </persname>
+            <persname source="ingest">Parsons, Elsie Worthington Clews, 1875-1941</persname>
+            <persname source="ingest">Satterthwaite, Linton, 1897-</persname>
+            <subject source="lcsh">Anthropology</subject>
+            <geogname source="lcsh">Clovis Site (N.M.)</geogname>
+            <geogname source="lcsh">Guatemala -- Antiquities.</geogname>
+            <subject source="lcsh">Incas -- Economic conditions.</subject>
+            <subject source="lcsh">Indian architecture--Central America</subject>
+            <subject source="lcsh">Indians of South America--Economic conditions</subject>
+            <genreform source="lcsh">Lecture notes.</genreform>
+            <subject source="lcsh">Maya architecture.</subject>
+            <geogname source="lcsh">New Mexico -- Antiquities.</geogname>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

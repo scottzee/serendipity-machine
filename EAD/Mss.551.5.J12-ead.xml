@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.551.1.J12-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.551.5.J12</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:18-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Meteorological observations made for the Franklin Institute, 1839-1865</unittitle>
+            <unitid>Mss.551.5.J12</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid932" type="Box" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>0.25 Linear feet</extent>
+                <extent>230 items</extent>
+            </physdesc>
+            <unitdate normal="1839/1865" type="inclusive">1839-1865</unitdate>
+            <abstract id="ref1" label="Abstract">These items contain observations made at Gettysburg, Pennsylvania. The entries for January 1860-September 1865 are duplicates. One series was made under the direction of the Smithsonian Institution and is on the printed forms supplied by that institution. With this are: 2 memoranda by Michael, undated; 2 broadsides, Pennsylvania College of Gettysburg. Order of exercises; April 15, 1851; and Smithsonian institution. Registry of periodical phenomena...</abstract>
+            <physdesc id="ref19" label="General Physical Description note">230 items.</physdesc>
+            <physloc id="ref21" label="Paging">LH-MV-E-9; LH-SB-Black Case-15 (OS)</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Jacobs, M.(Michael),1808-1871.</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref18">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Gift from Lutheran Theological Seminary, Mount Airy, Pa. (Margaret J. Hort), and accessioned, 1958 (1958 1621ms).</p>
+        </acqinfo>
+        <altformavail id="ref14">
+            <head>Existence and Location of Copies note</head>
+            <p>This collection is also available on microfilm (Film 1467, Reel 1).</p>
+        </altformavail>
+        <bioghist id="ref12">
+            <head>Biographical/Historical note</head>
+            <p>Michael Jacobs was a Pennsylvania Lutheran clergyman and educator; he taught mathematics and natural sciences at Pennsylvania (now Gettysburg) College, 1832-1866.</p>
+        </bioghist>
+        <odd id="ref20">
+            <head>Early American History Note</head>
+            <p>A bound notebook that contains detailed meteorological observations from Gettysburg, Pa.</p>
+        </odd>
+        <controlaccess>
+            <corpname rules="aacr" source="naf">Smithsonian Institution.</corpname>
+            <geogname source="lcsh">Gettysburg (Pa.) -- Climate.</geogname>
+            <genreform source="leah">Meteorological Data</genreform>
+            <subject source="lcsh">Meteorology -- Pennsylvania -- Gettysburg -- Observations.</subject>
+            <subject source="leah">Science and Technology</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

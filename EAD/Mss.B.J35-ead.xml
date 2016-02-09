@@ -1,0 +1,2698 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.J35-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.J35</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T19:34-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Thomas Jefferson papers, 1775-1825</unittitle>
+            <unitid>Mss.B.J35</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1351" type="Box" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>0.5 Linear feet</extent>
+                <extent>Ca. 250 items</extent>
+            </physdesc>
+            <unitdate normal="1775/1825" type="inclusive">1775-1825</unitdate>
+            <abstract id="ref8" label="Abstract">The Thomas Jefferson papers contain a large number of correspondence both to and from Jefferson, as well as various other material related to American Revolutionary War and Early Republic. Includes correspondence with Patrick Henry, Charles Willson Peale, Richard Henry Lee, Horatio Gates, David Rittenhouse, Robert Patterson</abstract>
+            <physdesc id="ref15" label="General Physical Description note">Ca. 250 items.</physdesc>
+            <physloc id="ref526" label="Paging">LH-MV-C-11 (B J35, B J35.cL, B J35.p, B J35.x); LH-MV-E-2 (B J35.f, B J35.g, B J35Le); LH-MV-E-14 (B J35ca); LH-SB-Black Case-28 (B J35.50)</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Jefferson, Thomas, 1743-1826</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref7">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by Edwin Morris Betts and accessioned, 1954 (1954 107ms). See in-house shelf list for sources and accession numbers and dates.</p>
+        </acqinfo>
+        <altformavail id="ref5">
+            <head>Existence and Location of Copies note</head>
+            <p>Parts of this collection are available on microfilm (Film 199).</p>
+            <p>Many items have been printed in Thwaites 
+                <emph render="italic">Early Western Travels, 1748-1846</emph> (1904) and in Bergh, 
+                <emph render="italic">The writings of Thomas Jefferson</emph> (1907).</p>
+        </altformavail>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>Thomas Jefferson (1743-1826, APS 1780) was a philosopher, governor of Virginia, founder of the University of Virginia, author of the Declaration of Independence, and president of the United States. He served as vice-president of the American Philosophical Society from 1791 to 1794, and president from 1797 to 1814.</p>
+            <p>Jefferson was born in 1743 at Shadwell, in what became Albermarle County, Virginia. His father was Peter Jefferson, a planter and surveyor, and his mother was Jane Randolph. Upon his father’s death in 1757 Jefferson inherited an estate of 5,000 acres and the slaves to work it. As a boy Jefferson received a classical education in local schools which were both run by two ministers, William Douglas and James Maury. In 1760 he enrolled at the College of William and Mary, where his studies included natural and moral philosophy. Jefferson recalled later that three men played particularly influential roles during this time. They included William Small (1734-1775), the college’s professor of natural philosophy from whom Jefferson said, "I got my first views of the expansion of science &amp; of the system of things in which we are placed." Another mentor was the lawyer George Wythe (1726?-1806), with whom Jefferson formed a life-long, close friendship. The third major influence on young Jefferson was the royal governor Francis Fauquier (1703?-1768). Fauquier regularly opened his official residence to gatherings of his circle of friends that included Small, Whyte and Jefferson. After two years of study at the college, Jefferson spent the next five years reading law under Whyte, whom he called his “earliest and best friend.”</p>
+            <p>After his admittance to the bar in 1767, Jefferson entered upon a successful legal practice. In 1772 he married Martha Wayles Skelton; the couple eventually had six children, two of whom reached adulthood. The next year he doubled his property with the death of his father-in-law to include over 10,000 acres and about 180 slaves. He had also embarked on a project that would occupy him for the rest of his life, the construction of Monticello, a modified Palladian villa he was building on top a densely wooded mountain near Charlottesville, Virginia. This and his other architectural works, including the Virginia Capital, his home “Poplar Forest,” and the University of Virginia, were built in the tradition of the Renaissance Italian Andrea Palladio. Jefferson acquired his understanding of architecture the way he acquired most of his knowledge, through books.</p>
+            <p>In the meantime, Jefferson had launched a political career that would make him one of the most prominent of the so-called Founding Fathers. It began with his election in 1768 to the House of Burgesses, where he soon became an outspoken critic of imperial policies in the colonies. In 1774 he wrote 
+                <emph render="italic">A Summary View of the Rights of British America</emph> in which he used legal arguments and the language of “natural rights” in his denial of the right of Parliament to legislate over the colonies. In 1775 he was elected to the Second Continental Congress at Philadelphia. In the early summer of 1776, he was appointed to lead a five-man committee to draft a declaration of independence. Even though two of the committee members, Benjamin Franklin and John Adams, were more experienced and better known, the task of drafting the document fell to him for political reasons and because he possessed a "peculiar felicity of expression.” Congress debated Jefferson’s declaration for two and a half days in the beginning of July 1776 before approving a revised version.</p>
+            <p>In the fall of 1776 Jefferson returned to Virginia as a member of the newly constituted House of Delegates. Here he focused on revising the state constitution that had been adopted during his absence. Jefferson was particularly proud of the Statute of Religious Freedom that he drafted in 1777 and that was, after much delay, enacted in 1786. Based on the belief that religion was a matter of private conscience, the law offered neither protection nor support for religion by the state. Another one of his major reforms, however, ended in failure. His Bill for the More General Diffusion of Knowledge (1778) was defeated in 1785. The plan called for a comprehensive system of public education designed to help create a citizenry that would be prepared to bear the rights and responsibilities that came with membership in a republic.</p>
+            <p>Another issue that Jefferson was deeply concerned with was slavery. He was a slaveholder all his adult life and, unlike some of his fellow Virginia planters who, like George Washington, publicly acted on their antislavery views by freeing their slaves, he freed only a handful during his life and in his will. Jefferson’s views on slavery are complicated by his long-term relationship with his slave and deceased wife’s half-sister Sally Hemings, with whom he fathered as many as six children. There is no doubt that Jefferson hated slavery; however, he hated it primarily for its effects on what it did to (white) republican society. While he often stated that slaves should be freed, he also argued that any plans for emancipation had to be followed by the removal of free African Americans from the United States. Ultimately, his economic dependence on the labor of slaves, fear of racial violence, and profound racism help explain why he never publicly advocated abolition. Slavery, he famously wrote, was like “holding the wolf by the ears, and we can neither hold him, nor safely let go.”</p>
+            <p>In 1779 Jefferson was elected governor of Virginia, a difficult post given its weak powers during particularly trying times. In 1781 the British invaded the state, forcing the government to abandon Richmond for Charlottesville. Early the next year, Jefferson, whose term had expired but whose successor had not yet been elected, was forced to flee from Monticello from the approaching British. The House of Delegates subsequently heaped more humiliation on Jefferson when it voted to inquire into his conduct. In the end, the legislature did not censure him and passed a customary resolution of thanks for his services.</p>
+            <p>Nevertheless, Jefferson was deeply stung by the criticism, and he decided to quit politics for good. He retired to Monticello where he focused on “domestic and literary objects.” During this period Jefferson wrote his only book, 
+                <emph render="italic">Notes on the State of Virginia</emph>, which was published in 1785. The book, which grew out of a series of questions posed by the French legation to the United States, makes evident Jefferson’s manifold interests in the natural sciences. His discussions included detailed descriptions of the American continent that were primarily designed to counter European claims of American biological inferiority and decay. Jefferson was especially eager to refute the theory of American degeneracy that had been proposed by the French naturalist Georges-Louis Leclerc, Comte de Buffon (1707-1788, APS 1768). In his widely popular 
+                <emph render="italic">Histoire Naturelle</emph>, Buffon argued that the American climate produced an “animated Nature [that] is weaker, less active, and more circumscribed in the variety of her productions” than its European counterpart. In his book Jefferson included detailed discussions of American animals, complete with tables listing their average weights, in order to disprove the Comte’s claims. He also included a discussion of Native Americans, who he believed had the same potential as Europeans.</p>
+            <p>In 1782 the death of his wife Martha plunged Jefferson into a state of depression. "A single event wiped away all my plans,” he wrote in a letter to the Marquis de Chastellux, “and left me a blank which I had not the spirits to fill up." It ended only with his return to Congress in November 1783 and appointment to a commission to negotiate treaties of commerce with European states. Jefferson resided in France from 1784 to 1789, a five-year period he considered among the happiest of his life. His official duties did not hinder him from immersing himself in Parisian culture, including its art, music and theater. He traveled to Italy, France, the Netherlands, England, and the Rhineland not just on official business but also to acquire knowledge that might prove beneficial to his own nation, including ingenious inventions like phosphorous matches and a mold to make spaghetti. Despite the restraints of his official position, Jefferson was a great supporter of the French Revolution which he saw as an extension of the American. "Here," he declared, "is but the first chapter in the history of European liberty."</p>
+            <p>In 1789 Jefferson went home to the United States for what he anticipated to be a temporary stay. However, instead of returning to Paris, he accepted the appointment by President Washington as the nation’s first Secretary of State. His main tasks were the settlement of Anglo-American issues left over from the Treaty of Paris and the further expansion of American commerce, which he associated with a strengthened French alliance. He was also concerned with pacification of the Native Americans, and with the manipulation of American neutrality in European wars to advance American national interests. His efforts to achieve commercial liberation, strengthen the alliance with France, and support revolution abroad were met with opposition by the Secretary of the Treasury Alexander Hamilton (1757-1804, APS 1780), whose system relied on trade and friendship with Britain. Hamilton’s financial plan, which included a national bank, funding of the debt, and subsidies for American manufactures, contributed to the emergence of a political opposition led by Jefferson and Madison. As the division between the so-called Federalists and Republicans deepened, Jefferson was attacked as an enemy of the administration. Jefferson, in turn, labeled Hamilton and his supporters as “Anglican” and “monarchical.” The divisions between the two parties threatened American peace when war between England and France broke out in 1793. However, Washington issued a declaration of neutrality and Jefferson acquiesced, especially after the French minister Edmond Genet defied the American president’s declaration by openly seeking American support for France.</p>
+            <p>Jefferson left office and returned to Monticello at the end of 1793. He focused on agricultural improvements and simple manufactures, such as a nailery, and also on improvements of Monticello. In 1796 he was once again called out of retirement when his party nominated him as their presidential candidate against John Adams. Jefferson lost to Adams, placing him in the awkward position of Vice President and political opponent to the president. The late 1790s marked a critical period in American history that not only brought the nation to the brink of war but also resulted in intensely partisan struggles that deepened the divisions in the American Congress and people. In 1798 Congress passed the Alien and Sedition Acts that were designed to silence and punish political opponents; Jefferson responded by secretly writing the Kentucky Resolutions, which pronounced these laws to be unconstitutional.</p>
+            <p>In 1800 Jefferson defeated Adams and Aaron Burr in the presidential election. Anxious to leave the partisan divisions behind and restore harmony he pronounced in his inaugural address "We are all republicans--we are all federalists." For Jefferson, his election marked a return to the ideals of the Revolution that had been abandoned during the previous decade. He called his election “the revolution of 1800;” it was a revolution in the principles of government as that of 1776 had been in form.</p>
+            <p>The major accomplishment during Jefferson’s first term was the Louisiana Purchase in 1803, doubling the size of the United States. Even before the purchase Jefferson had been planning a voyage of discovery across the continent to the Pacific. At the time, Jefferson was six years into what would be a seventeen year term as president of the American Philosophical Society, and he took full advantage of the expertise of its members to help in the preparations of the expedition. Jefferson had been elected to the APS in 1780, and he had long been a supporter of scientific inquiry and exploration. From 1781 to 1786 he served as a councilor of the Society, and even though his official duties prevented him from taking an active part in the organization’s affairs, he convinced the Society in 1783 that David Rittenhouse (1732-1796, APS 1768) should make an orrery to be presented to the King of France. Jefferson regarded himself as a champion and representative of American science, and he wanted to bring with him to Europe a very tangible piece of evidence for the scientific genius of America.</p>
+            <p>In 1791 Jefferson was elected vice president of the Society, a position he held until 1794. During this period he once again took advantage of his connection to the Society to promote an enterprise that he considered to be of great public service but that the government would not sponsor. In 1793 he enlisted the members to support the French botanist André Michaux (1749–1802) in his quest to "find the shortest &amp; most convenient route of communication between the U.S. &amp; the Pacific Ocean." Jefferson was forced to withdraw support before the expedition got underway when he learned that Michaux intended to aid the French Minister Genet in his efforts to arouse support for France. Still, Jefferson shared with the Society a commitment to the promotion of science, and in 1797, he was elected president of the Society. That the membership held Jefferson in high esteem is reflected in their rejection of his two offers of resignation, the first after the relocation of the seat of government to Washington, and the second in 1808, shortly before his retirement to Monticello.</p>
+            <p>In 1803 Jefferson did not hesitate to turn once again to its members in his quest to launch a scientific expedition. He chose his personal secretary Meriwether Lewis (1774-1809, APS 1803) as the leader of what he called the “exploring party,” and sent him to Philadelphia to consult with five members of the APS to acquire the necessary skills for making scientific observations. After spending several weeks at the Lancaster home of Andrew Ellicott (1754-1820, APS 1785), Lewis received instruction from Robert Patterson (1743-1824, APS 1783), Wistar, Benjamin Rush (1745-1813, APS 1768), and Benjamin Smith Barton (1766-1815, APS 1789). In the meantime, the Society’s secretary John Vaughan worked to obtain the necessary instruments to make scientific recordings. "The object of your mission,” Jefferson wrote in his detailed instructions to Lewis, “is to explore the Missouri river, &amp; such principal stream of it, as, by it's course &amp; communication with the water of the Pacific ocean may offer the most direct &amp; practicable water communication across this continent, for the purposes of commerce.” He asked him to record observations "with great pains &amp; accuracy to be entered distinctly, &amp; intelligibly for others as well as yourself.” Lewis selected William Clark to be co-captain of the so-called Corps of Discovery, and in July 1803 he set out from Washington, D.C. to meet Clark in what was then the Indiana Territory. For the next three years, the Corps gathered extensive information about the geography, natural resources, and inhabitants on their journey from the Mississippi River to the Pacific Ocean. The APS was rewarded for its support of the successful expedition when it became a major repository for many of the collected specimens and the original journals. Indeed, over the years Jefferson gave many objects to the Society; in 1819 the members thanked him for the “many important MSS. Documents, calculated to throw light on the history of our country, on the customs, manners, and languages of the Indian nations, and various other interesting national subjects.” The Society was especially grateful for his donation of “several as yet unedited MSS. volumes of scientific notes and observations by Messrs. Lewis and Clark.” Jefferson resigned as president of the Society in 1817; the next year the members honored him with election as one of the councilors, an office he retained until his death in 1826.</p>
+            <p>Jefferson was easily reelected as president of the United States in 1804; however, his second term turned out to be less triumphant. The outbreak of renewed warfare in Europe once again threatened American peace. As a neutral nation, the United States insisted on free trade with the belligerent nations, including Britain and France. However, each of these two powers demanded that the United States cease trade with its enemy. Britain in particular violated American neutrality by impressing American seamen, sending British ships into American waters, and seizing American vessels. Jefferson ultimately decided to attain concessions through economic sanctions. The embargo of American commerce and navigations was enacted by Congress in December 1807. This experiment in “peaceable coercion,” which lasted for almost a year, failed to reach its objectives. In fact, rather then leading to improvements in foreign relations, the economic effects of the trade restrictions as well as the efforts by the administration to enforce them produced primarily domestic discontentment. The embargo was repealed toward the end of his administration; three years later the United States went to war with Britain.</p>
+            <p>In 1809 Jefferson, who did not seek reelection for a third term, retired to Monticello. There he was surrounded by his daughter Martha Jefferson Randolph, known as Patsy, her husband Thomas Mann Randolph (1768-1828, APS 1794), and their children. In 1810 he described a typical day to a friend, "From breakfast to dinner [midafternoon], I am in my shops, my garden, or on horseback among my farms; from dinner to dark, I give to society and recreation with neighbors and friends; and from candle light to early bed-time, I read." In 1815 his library numbered around 6,000 volumes. He carried on an extensive correspondence with many individuals, writing about a wide variety of subjects, from political topics to scientific questions, from Indian languages to agriculture. He also drafted a memoir of his life to 1790, wrote a number of essays, and translated two works from the French. He completed what became known as the Jefferson Bible in which he tried to identify the real Jesus amid the corruptions introduced by theologians and ministers. Jefferson was a deist who regarded Jesus as a great moral leader rather then a divine figure.</p>
+            <p>In the mid-1810s Jefferson once again turned to one of his most important causes, public education. Even though a comprehensive plan was again rejected by the Virginia state legislature, Jefferson succeeded in gaining approval for a state university. The University of Virginia was chartered in 1819. Jefferson designed the buildings, including the “academical village,” helped recruit a faculty, drafted the curriculum, and acquired a library. In his epitaph, which he wrote himself, he chose to be remembered as the author of the Declaration of Independence and the Virginia Statute for Religious Freedom, and as the Father of the University of Virginia.</p>
+            <p>Jefferson’s final years were beset by financial problems that ultimately resulted in his bankruptcy. He was also troubled by the course of national politics, warning that the Missouri Compromise was a “fire bell in the night.” He died at Monticello at the fiftieth anniversary of independence, on July 4, 1826.</p>
+        </bioghist>
+        <scopecontent id="ref524">
+            <head>Scope and Contents note</head>
+            <p>The Thomas Jefferson papers contain a large number of correspondence both to and from Jefferson, as well as various other material related to American Revolutionary War and Early Republic. A large portion of the material, including the correspondence, are from the American Revolutionary War, including letters to both George Washington and President of the Continental Congress Samuel Huntington detailing the movement of Benedict Arnold and the British Troops through Virginia.</p>
+            <p>Other correspondence includes letters of recommendations, including those to get Robert Patterson appointed to the directorship of the U.S. Mint, and to aid in securing a professorship for Franklin Bache. Personal letters include several to Jefferson's son-in-law John Eppes, including one that accompanied a collection of plants brought back to from Lewis and Clarke’s expedition. Letters from Jefferson's years in the Presidency include one from 1805, to Patterson about men being held in Kentucky who cannot speak “any language known there” and asking Patterson if he knows of anyone who can read Arabic in hopes of understanding who the men are and setting them free. As Vice President, Jefferson defends himself from various attacks printed in a newspaper in a letter to Samuel Smith.</p>
+            <p>In a letter dated during his presidency, Jefferson tells Charles Wilson Peale, “Very soon after I came into office I found it not only proper but necessary that I should make it a rule never to write letter of recommendation to persons traveling beyond seas. But being desirous of doing anything I can in favor of your son, I enclose a special passport under my own hand…”</p>
+            <p>Along with Jefferson's handwritten passport for Rembrandt Peale, other items of interest include: the Plan of Government for Virginia (1776); Resolution for independence from the Virginia Convention (1776); Jefferson's 1803 address to the Miami and Delaware tribes; notices of Jefferson's election to the Presidency of the American Philosophical Society for 1805 and 1809.</p>
+            <p>Other items in the collection were not created directly by or for Jefferson, such as the Virginia act authorizing the transfer of the Old Northwest to the U.S.; the Virginia oath of allegiance; Proceedings of the Virginia Convention March 20-27, 1775; Lord Dunmore to the House of Burgesses; Lord Dunmore to General Howe (1776).</p>
+            <p>The collection includes photocopies of some material housed in other repositories.</p>
+        </scopecontent>
+        <odd id="ref525">
+            <head>Early American History Note</head>
+            <p>This is the primary collection of Thomas Jefferson Papers at the APS. The collection is rich and extensive. The collection is well-described and inventoried in MOLE. What follows below is a general summary of some of the more noteworthy pieces.</p>
+            <p>There are some documents from revolutionary war, including the period during which Jefferson was governor of Virginia. The early documents are from prominent Virginians to Jefferson during the revolutionary era. It contains three letters from Edmund Pendleton dated 1775 and 1776 that discuss politics, two letters from William Fleming from 1776 and 1779 that discuss economic and military matters, and a series of letters from Richard Henry Lee that discuss current affairs.This portion of the collection contains notes on the Virginia Convention, discussion of military matters, and regular government business.</p>
+            <p>The later documents are an assortment of letters dealing with American Philosophical Society affairs, science, and engineering. It includes a long letter from Jonathan Williams that deals with a dispute between William Temple Franklin and the APS, and a long letter from Robert Fulton to Thomas Jefferson that includes sketches of a weapon that fires weapons underwater.</p>
+            <p>The collections contains correspondence from France when Jefferson served as the emissary to the nation during the late-Confederation period. These and some of the documents from the Washington administration contain discussions of politics. There is a particularly rich series of letters from 1798 on early republican politics.</p>
+            <p>A large portion of the revolutionary era documents were not written by or addressed to Jefferson. Instead, they contain other sources that chronicle the political history of Virginia during the Revolution, especially for the years 1775-1776. This includes speeches and letters from Lord Dunmore, and petitions, speeches, and letters of Virginians, and official government proceedings and documents. It is likely these were compiled by Jefferson to help L.H. Giardin write a history of Virginia, as one of the letters has a handwritten header “a specimen of the spirit which animated Virginia in 1775.”</p>
+            <p>There are only a few letters from presidential years, most notably a speech delivered to the Miami and Delaware Indians in 1803. Some of the earliest correspondence between Thomas Jefferson and Robert Patterson dates to Jefferson second term as President and discusses matters of state, with one letter inviting Patterson to be the Director of the Mint. The later documents to Patterson chronicle Jefferson’s pursuits in natural history.</p>
+            <p>There is, however, a significant amount of retirement correspondence, some of which chronicles Jefferson’s involvement in science and technology, including a plan for the Virginia Agricultural Society.</p>
+            <p>A letter to Matthew Carey on religion in which he discusses his refusal to comment on his views publicly, significant correspondence with David Rittenhouse from 1790s in Philadelphia, a passport for Rembrandt Peale with a letter to Charles Willson Peale are among the other noteworthy pieces of correspondence.</p>
+        </odd>
+        <controlaccess>
+            <corpname rules="aacr" source="naf">American Philosophical Society.</corpname>
+            <persname rules="aacr" source="naf">Bache, Franklin, 1792-1864</persname>
+            <persname rules="aacr" source="naf">Byrd, William, 1674-1744</persname>
+            <persname rules="aacr" source="naf">Correia da Serra, José Francisco, 1750-1823</persname>
+            <persname source="ingest">Du Ponceau , Peter Stephen, 1760-1844</persname>
+            <persname rules="aacr" source="naf">Eppes, John Wayles, 1773-1823</persname>
+            <persname rules="aacr" source="naf">Fleming, William, 1729-1795</persname>
+            <persname rules="aacr" source="naf">Fulton, Robert, 1765-1815</persname>
+            <persname rules="aacr" source="naf">Girardin, Louis Hue, 1771-1825</persname>
+            <persname rules="aacr" source="naf">Ingenhousz, Jan, 1730-1799</persname>
+            <persname source="ingest">Lee, Richard Henry, 1732-1794</persname>
+            <persname rules="aacr" source="naf">Mease, James, 1771-1846</persname>
+            <persname rules="aacr" source="naf">Mitchill, Samuel L.,  (Samuel Latham), 1764-1831</persname>
+            <persname source="ingest">Patterson, Robert, 1743-1824</persname>
+            <persname rules="aacr" source="naf">Peale, Charles Willson, 1741-1827</persname>
+            <persname source="ingest">Pendleton, Edmund, 1721-1803</persname>
+            <persname source="ingest">Rittenhouse, David, 1732-1796</persname>
+            <persname rules="aacr" source="naf">Rush, Benjamin, 1746-1813</persname>
+            <persname rules="aacr" source="naf">Thornton, William, 1759-1828</persname>
+            <persname rules="aacr" source="naf">Vaughan, John, 1756-1841</persname>
+            <persname rules="aacr" source="local">Washington, Bushrod, 1762-1829</persname>
+            <persname rules="aacr" source="naf">Washington, George, 1732-1799</persname>
+            <persname source="ingest">Williams, Jonathan.</persname>
+            <persname rules="aacr" source="local">Wistar, Caspar, 1761-1818</persname>
+            <subject source="leah">American Revolution</subject>
+            <subject source="lcsh">Boundaries, State.</subject>
+            <subject source="lcsh">Canals.</subject>
+            <subject source="lcsh">Chemistry</subject>
+            <subject source="leah">Colony and State Specific History</subject>
+            <subject source="leah">Diplomatic History</subject>
+            <subject source="leah">Early National Politics</subject>
+            <genreform source="leah">General Correspondence</genreform>
+            <subject source="leah">Government Affairs</subject>
+            <subject source="lcsh">Indians of North America--Languages</subject>
+            <subject source="lcsh">Linguistics.</subject>
+            <subject source="lcsh">Louisiana Purchase -- Enclopedias.</subject>
+            <subject source="leah">Native America</subject>
+            <subject source="leah">Natural History</subject>
+            <genreform source="leah">Official Government Documents and Records</genreform>
+            <geogname source="lcsh">Philadelphia (Pa.) -- Social life and customs.</geogname>
+            <subject source="lcsh">Plants.</subject>
+            <genreform source="leah">Political Correspondence</genreform>
+            <occupation source="lcsh">Presidents -- United States.</occupation>
+            <subject source="lcsh">Science -- United States -- 18th century.</subject>
+            <subject source="leah">Science and Technology</subject>
+            <subject source="lcsh">Scientific apparatus and instruments.</subject>
+            <subject source="lcsh">Seeds.</subject>
+            <geogname source="lcsh">United States -- Politics and government -- 1775-1783 -- Anecdotes, facetiae, satire, etc.</geogname>
+            <geogname source="lcsh">United States -- Politics and government -- 1783-1865.</geogname>
+            <geogname source="lcsh">Virginia -- History.</geogname>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref16" level="series">
+                <did>
+                    <unittitle>Thomas Jefferson collection</unittitle>
+                    <unitid>B J35Le</unitid>
+                    <langmaterial>
+                        <language langcode="eng"/>
+                    </langmaterial>
+                    <physdesc>
+                        <extent>63.0 Item(s)</extent>
+                    </physdesc>
+                    <unitdate normal="1791/1840" type="inclusive">1791-1840</unitdate>
+                    <abstract id="ref17" label="Abstract">Letters to and from various persons, including L.H. Girardin, Correa de Serra, Alexander Humboldt, Caspar Wistar, Peter Stephen Duponceau, et al.</abstract>
+                    <physdesc id="ref18" label="General Physical Description note">63 items.</physdesc>
+                    <origination label="creator">
+                        <persname rules="aacr" source="naf" role="Correspondent (crp)">Corrêa da Serra, Edward J. </persname>
+                    </origination>
+                    <origination label="creator">
+                        <persname source="ingest" role="Correspondent (crp)">Du Ponceau , Peter Stephen, 1760-1844</persname>
+                    </origination>
+                    <origination label="creator">
+                        <persname rules="aacr" source="naf" role="Correspondent (crp)">Girardin, Louis Hue, 1771-1825</persname>
+                    </origination>
+                    <origination label="creator">
+                        <persname rules="aacr" source="naf" role="Correspondent (crp)">Humboldt, Alexander von, 1769-1859</persname>
+                    </origination>
+                    <origination label="creator">
+                        <persname rules="aacr" source="naf" role="Author (aut)">Jefferson, Thomas, 1743-1826</persname>
+                    </origination>
+                    <origination label="creator">
+                        <persname rules="aacr" source="local" role="Correspondent (crp)">Wistar, Caspar, 1761-1818</persname>
+                    </origination>
+                </did>
+                <c02 id="ref41" level="item">
+                    <did>
+                        <unittitle>Thomas Jefferson to John Stuart, November 10, 1796.</unittitle>
+                        <unitdate normal="1796/1796">1769 November 10</unitdate>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Thomas Jefferson to John Stuart, November 10, 1796. " ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/text:2561">
+                        <daodesc>
+                            <p>Thomas Jefferson to John Stuart, November 10, 1796. </p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref42" level="item">
+                    <did>
+                        <unittitle>Land surrounding R. Carter's Patent for 400 acres</unittitle>
+                        <physdesc>
+                            <extent>1 map, 20.3 x 30.5 cm</extent>
+                        </physdesc>
+                        <unitdate>1790 October 17</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf" role="Cartographer (ctg)">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref43">
+                        <head>Scope and Contents note</head>
+                        <p>Annotation: "The line which divides Rob. Carter's 400 a[cre]s between Mr. [John] Wayles and Carter H. Harrison (who purchased the moiety) was run by Col. Carrington from Carter and Shelton's corner red oak to Willis' Creek S. 65 W. 272 po."</p>
+                        <p>Jefferson sold his share of this land, which came to him through his wife, Martha Skelton, to Nicholas Lewis, and the indenture which conveyed the land is with the map.</p>
+                    </scopecontent>
+                    <otherfindaid id="ref44">
+                        <head>Other Finding Aids note</head>
+                        <p>Realms of Gold, 22 (1).</p>
+                    </otherfindaid>
+                </c02>
+                <c02 id="ref19" level="item">
+                    <did>
+                        <unittitle>Invitation From Thomas Jefferson to David Foster.</unittitle>
+                        <physdesc>
+                            <extent>1.0 Item(s)</extent>
+                        </physdesc>
+                        <unitdate normal="1802/1802">1802 February 1 </unitdate>
+                        <abstract id="ref20" label="Abstract">Invitation for Foster to dine with Jefferson</abstract>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Invitation From Thomas Jefferson to David Foster." ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/text:2697">
+                        <daodesc>
+                            <p>Invitation From Thomas Jefferson to David Foster., 1802 February 1  </p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref40" level="item">
+                    <did>
+                        <unittitle>Thomas Jefferson to Benjamin Smith Barton, September 21, 1809.</unittitle>
+                        <unitdate normal="1809/1809">1809 September 21</unitdate>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Thomas Jefferson to Benjamin Smith Barton, September 21, 1809. " ns2:role="Image-Service" ns2:href="http://cdm.amphilsoc.org/u?/earlyam,399">
+                        <daodesc>
+                            <p>Thomas Jefferson to Benjamin Smith Barton, September 21, 1809. </p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref27" level="item">
+                    <did>
+                        <unittitle>Thomas Jefferson to [Robert] Patterson, December 19, 1809.</unittitle>
+                        <unitdate normal="1809/1809">1809 December 19</unitdate>
+                        <abstract id="ref29" label="Abstract">Letter to Patterson accompanying a paper by Mr. Lambert, to be presented to the American Philosophical Society.</abstract>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Thomas Jefferson to [Robert] Patterson, December 19, 1809. " ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/text:2556">
+                        <daodesc>
+                            <p>Thomas Jefferson to [Robert] Patterson, December 19, 1809. , 1809 December 19 </p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref32" level="item">
+                    <did>
+                        <unittitle>Thomas Jefferson to Joseph Nicolson, May 21, 1814.</unittitle>
+                        <unitdate normal="1814/1814">1814 May 21</unitdate>
+                        <abstract id="ref33" label="Abstract">Letter from Jefferson thanking Nicolson for the introduction to a Mr. McCulloch, and for Nicolson's defense of the constitution from "those who were rapidly monarchising it."</abstract>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Thomas Jefferson to Joseph Nicolson, May 21, 1814. " ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/text:2552">
+                        <daodesc>
+                            <p>Thomas Jefferson to Joseph Nicolson, May 21, 1814. , 1814 May 21 </p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref30" level="item">
+                    <did>
+                        <unittitle>William Lambert to Thomas Jefferson, June 24, 1814</unittitle>
+                        <unitdate normal="1814/1814">1814 June 24 </unitdate>
+                        <abstract id="ref31" label="Abstract">Letter from Lambert proposing a topic of inquiry for the American Philosophical Society concerning the accuracy of the Julian calendar, and advocating an additional year be switched from leap year to a common year to fix a problem that will occur 3600 years from the beginning of the calendar.</abstract>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="William Lambert to Thomas Jefferson, June 24, 1814 " ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/text:2557">
+                        <daodesc>
+                            <p>William Lambert to Thomas Jefferson, June 24, 1814 , 1814 June 24  </p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref21" level="item">
+                    <did>
+                        <unittitle>Thomas Jefferson to John Vaughn, March 1, 1815.</unittitle>
+                        <unitdate normal="1815/1815">1815 March 1</unitdate>
+                        <abstract id="ref22" label="Abstract">Letter to John Vaughn, relating Jefferson's need to replenish his library after offering his books to the Library of Congress.</abstract>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Thomas Jefferson to John Vaughn. " ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/text:2559">
+                        <daodesc>
+                            <p>Thomas Jefferson to John Vaughn. , 1815 March 1 </p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref34" level="item">
+                    <did>
+                        <unittitle>J. W. Gilmore to John Vaughn, June 16, 1815.</unittitle>
+                        <unitdate normal="1815/1815">1815 June 16</unitdate>
+                        <abstract id="ref35" label="Abstract">Letter from J. W. Gilmore to John Vaughn, touching on a number of topics including the purchase of books for Thomas Jefferson.</abstract>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="J. W. Gilmore to John Vaughn, June 16, 1815. " ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/text:2554">
+                        <daodesc>
+                            <p>J. W. Gilmore to John Vaughn, June 16, 1815. , 1815 June 16 </p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref23" level="item">
+                    <did>
+                        <unittitle>Thomas Jefferson to [John] Vaughn, June 7, 1817.</unittitle>
+                        <unitdate normal="1817/1817">1817 June 7</unitdate>
+                        <abstract id="ref24" label="Abstract">Letter to [John] Vaughn, asking for assistance in ordering books from France and investing money.</abstract>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Thomas Jefferson to [John] Vaughn, June 7, 1817." ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/text:2551">
+                        <daodesc>
+                            <p>Thomas Jefferson to [John] Vaughn, June 7, 1817., 1817 June 7 </p>
+                        </daodesc>
+                    </dao>
+                </c02>
+            </c01>
+            <c01 id="ref73" level="series">
+                <did>
+                    <unittitle>Papers</unittitle>
+                </did>
+                <c02 id="ref475" level="file">
+                    <did>
+                        <unittitle>Notes for the biography of George Wythe.</unittitle>
+                        <unitid>B J35.70</unitid>
+                        <unitdate>1743-1826</unitdate>
+                        <physdesc id="ref476" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref477">
+                        <head>Scope and Contents note</head>
+                        <p>Xerox of A.D. 3p. Emphasizes Wythe's part in the Stamp Act crisis and the Revolutionary War. Presented by Herbert R. Strauss; May 1972.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref74" level="file">
+                    <did>
+                        <unittitle>Letter to the House of Burgesses of Virginia;</unittitle>
+                        <unitid>B J35.51 no.9</unitid>
+                        <unitdate>June, [1775]</unitdate>
+                        <physdesc id="ref75" label="General Physical Description note">12-3/4x7</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Dunmore, John Murray, Earl of, 1732-1809</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref76">
+                        <head>Scope and Contents note</head>
+                        <p>L. 8p. Copy. (see T.Jefferson. Correspondence...; 1775-1784. no.9.) Concerning the outbreak of war.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref77" level="file">
+                    <did>
+                        <unittitle>Letter to Capt. White-Eyes;</unittitle>
+                        <unitid>B J35.51 no.13</unitid>
+                        <unitdate>[1775]</unitdate>
+                        <physdesc id="ref78" label="General Physical Description note">12-1/2x7-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Dunmore, John Murray, Earl of, 1732-1809</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref79">
+                        <head>Scope and Contents note</head>
+                        <p>D. 1p. Copy. (see T. Jefferson. Correspondence...; 1775-1784. no.13.) Wishes peace between Indians and colonists. Not Found: 7/19/2010</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref80" level="file">
+                    <did>
+                        <unittitle>Speech to Peyton Randolph by the Williamsburg volunteers, and his reply;</unittitle>
+                        <unitid>B J35.51 no.3</unitid>
+                        <unitdate>June 2, [1775]</unitdate>
+                        <physdesc id="ref81" label="General Physical Description note">12-3/4x7-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Williamsburg (Va.) Volunteers</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref82">
+                        <head>Scope and Contents note</head>
+                        <p>D. 2p. Copy. (see T.Jefferson. Correspondence...; 1775-1784. no.3.) Concerning his services at the Continental Congress.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref83" level="file">
+                    <did>
+                        <unittitle>Oath of allegiance;</unittitle>
+                        <unitid>B J35.51 no.25</unitid>
+                        <unitdate>[1776]</unitdate>
+                        <physdesc id="ref84" label="General Physical Description note">12-3/4x7-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Virginia (State)</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref85">
+                        <head>Scope and Contents note</head>
+                        <p>D. 1p. Copy. (see T.Jefferson. Correspondence...; 1775-1784. no.25.)</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref86" level="file">
+                    <did>
+                        <unittitle>Resolutions calling for independence;</unittitle>
+                        <unitid>B J35.51 no.15</unitid>
+                        <unitdate>May 15, [1776]</unitdate>
+                        <physdesc id="ref87" label="General Physical Description note">12-3/4x7-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Virginia. Convention</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref88">
+                        <head>Scope and Contents note</head>
+                        <p>D. 1p. Incomplete. Copy. (see T.Jefferson. Correspondence...; 1775-1784. no.15.) Printed: Boyd, I, 291.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref89" level="file">
+                    <did>
+                        <unittitle>Letter to ----;</unittitle>
+                        <unitid>B J35.51 no. 32</unitid>
+                        <unitdate>[1782?]</unitdate>
+                        <physdesc id="ref90" label="General Physical Description note">12-3/4x8</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Lee, Henry, 1756-1818</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref91">
+                        <head>Scope and Contents note</head>
+                        <p>L. 1p. Extract. Copy. (see T.Jefferson Correspondence...; 1775-1784. no.32.) Concerning the war. Concerning Gates. On same sheet as: H.Gates to ----; July 20, 1780.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref92" level="file">
+                    <did>
+                        <unittitle>An act authorizing the transfer of its claim to the territory northwest of the Ohio River;</unittitle>
+                        <unitid>B J35.51 no.34</unitid>
+                        <unitdate>February, [1784]</unitdate>
+                        <physdesc id="ref93" label="General Physical Description note">12-1/2x7-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Virginia</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref94">
+                        <head>Scope and Contents note</head>
+                        <p>D. 3p. Copy. (see T.Jefferson. Correspondence...; 1775-1784. no.34.) Printed: Boyd, VI, 5771.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref95" level="file">
+                    <did>
+                        <unittitle>Letter to [William Howe?];</unittitle>
+                        <unitid>B J35.51 no.12</unitid>
+                        <unitdate>1775</unitdate>
+                        <physdesc id="ref96" label="General Physical Description note">12x7-3/4</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Dunmore, John Murray, Earl of, 1732-1809</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref97">
+                        <head>Scope and Contents note</head>
+                        <p>L. 2p. Incomplete. Copy (see T.Jefferson. Correspondence...; 1775-1784. Concerning the war.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref98" level="file">
+                    <did>
+                        <unittitle>Proceedings;</unittitle>
+                        <unitid>B J35.51 no.1</unitid>
+                        <unitdate>March 20- March 27, 1775</unitdate>
+                        <physdesc id="ref99" label="General Physical Description note">13x7-3/4</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Virginia (Colony). Convention of 1775</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref100">
+                        <head>Scope and Contents note</head>
+                        <p>D. 10p. Copy. (see T. Jefferson. Correspondence...; 1775-1784. no.1.) Refers to B.Franklin, T.Jefferson, etc.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref101" level="file">
+                    <did>
+                        <unittitle>Letter to Andrew Lewis and John Boyer;</unittitle>
+                        <unitid>B J35.51 no.7</unitid>
+                        <unitdate>1775</unitdate>
+                        <physdesc id="ref102" label="General Physical Description note">12-3/4x7-3/4</physdesc>
+                        <origination label="creator">
+                            <corpname source="ingest">Virginia. Freeholders of Botetourt</corpname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref103">
+                        <head>Scope and Contents note</head>
+                        <p>L. 2p. Copy. (see T. Jefferson. Correspondence...; 1775-1784. no. 7.) Concerning the sentiments of this part of Virginia at the outbreak of the Revolution.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref104" level="file">
+                    <did>
+                        <unittitle>Letter to Thomas Jefferson;</unittitle>
+                        <unitid>B J35.51 no.2.</unitid>
+                        <unitdate>April 5, 1775</unitdate>
+                        <physdesc id="ref105" label="General Physical Description note">12-3/4x7-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Wythe, George, 1726-1806</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref106">
+                        <head>Scope and Contents note</head>
+                        <p>Williamsburg, L. 1p. Copy. (see T.Jefferson. Correspondence...; 1775-1784. no.2.) Printed: Boyd, I, 163. On same sheet is letter from same to same; April 7, 1775.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref107" level="file">
+                    <did>
+                        <unittitle>Letter to Thomas Jefferson;</unittitle>
+                        <unitid>B J35.51 no.2.</unitid>
+                        <unitdate>April 7, 1775</unitdate>
+                        <physdesc id="ref108" label="General Physical Description note">12-3/4x7-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Wythe, George, 1726-1806</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref109">
+                        <head>Scope and Contents note</head>
+                        <p>L. 2p. Copy. (see T.Jefferson. Correspondence...; 1775-1784. no.2.) Printed: Boyd, I, 163-164. On same sheet as same to same; April 5, 1775.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref110" level="file">
+                    <did>
+                        <unittitle>Letter to the House of Burgesses of Virginia;</unittitle>
+                        <unitid>B J35.51 no.4</unitid>
+                        <unitdate>June 14, 1775</unitdate>
+                        <physdesc id="ref111" label="General Physical Description note">12-3/4x7-3/4</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Dunmore, John Murray, Earl of, 1732-1809</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref112">
+                        <head>Scope and Contents note</head>
+                        <p>L. 5p. Copy. (see T.Jefferson. Correspondence...; 1775-1784. no.4.) Printed: Boyd, I, 173ff.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref113" level="file">
+                    <did>
+                        <unittitle>Letter to [Thomas Jefferson];</unittitle>
+                        <unitid>B J35.51 no.5</unitid>
+                        <unitdate>Aug. 12, 1775</unitdate>
+                        <physdesc id="ref114" label="General Physical Description note">6-1/4x7-3/4</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Tucker, St. George, 1752-1827</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref115">
+                        <head>Scope and Contents note</head>
+                        <p>Bermuda, L. 1p. Incomplete. Copy. (see T. Jefferson. Correspondence...; 1775-1784. no. 5.) Printed: Boyd, I, 239.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref116" level="file">
+                    <did>
+                        <unittitle>Letter to Thomas Jefferson;</unittitle>
+                        <unitid>B J35.x3</unitid>
+                        <unitdate>Nov. 16, 1775</unitdate>
+                        <physdesc id="ref117" label="General Physical Description note">7 3/4" x 12 1/2"</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Pendleton, Edmund, 1721-1803</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref118">
+                        <head>Scope and Contents note</head>
+                        <p>Caroline, Copy of L. 2p. Military and naval movements. Printed: Boyd, I, 260-261.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref119" level="file">
+                    <did>
+                        <unittitle>Letter to William Howe;</unittitle>
+                        <unitid>B J35.51 no.6</unitid>
+                        <unitdate>Nov. 30, 1775</unitdate>
+                        <physdesc id="ref120" label="General Physical Description note">12-3/4x7-3/4</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Dunmore, John Murray, Earl of, 1732-1809</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref121">
+                        <head>Scope and Contents note</head>
+                        <p>L. 4p. (see T.Jefferson. Correspondence...; 1775-1784. no.6.) Concerning the war.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref508" level="file">
+                    <did>
+                        <unittitle>Miscellaneous notes of Virginia news concerning the Revolution;</unittitle>
+                        <unitid>B J35.51 no.8</unitid>
+                        <unitdate>[1775]</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref509" level="file">
+                    <did>
+                        <unittitle>Correspondence between Lord Dunmore and Robert Howe concerning Norfolk and the war.</unittitle>
+                        <unitid>B J35.51 no. 10</unitid>
+                        <unitdate>1775</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Dunmore, John Murray, Earl of, 1732-1809</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref510" level="file">
+                    <did>
+                        <unittitle>Patrick Henry to the House of Burgesses.</unittitle>
+                        <unitid>B J35.51 no. 11</unitid>
+                        <unitdate>[1775]</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Henry, Patrick, 1726-1799</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref511">
+                        <head>Scope and Contents note</head>
+                        <p>Appointment of officers.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref122" level="file">
+                    <did>
+                        <unittitle>Proposals to General Gage for separating the northern and southern governments;</unittitle>
+                        <unitid>B J35.51 no.26</unitid>
+                        <unitdate>1776</unitdate>
+                        <physdesc id="ref123" label="General Physical Description note">12-3/4x7-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Connelly,</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref124">
+                        <head>Scope and Contents note</head>
+                        <p>[?]. D. 2p. Copy. (see T. Jefferson. Correspondence...; 1775-1784. no.26.)</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref125" level="file">
+                    <did>
+                        <unittitle>Plan of government for Virginia, by Mason and Jefferson;</unittitle>
+                        <unitid>B J35.51 no.17</unitid>
+                        <unitdate>June 8 - June 10, 1776</unitdate>
+                        <physdesc id="ref126" label="General Physical Description note">12-3/4x7-1/4</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref127">
+                        <head>Scope and Contents note</head>
+                        <p>D. 10p. Extract. Copy. (see T. Jefferson. Correspondence...; 1775-1784. no.17.) Printed: Boyd, I, 366ff. On same sheet is copy of letter from E. Pendleton to T. Jefferson; Aug.10,1776.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref128" level="file">
+                    <did>
+                        <unittitle>Letter to [Thomas] Jefferson;</unittitle>
+                        <unitid>B J35.51 no.14</unitid>
+                        <unitdate>Feb. 4, 1776</unitdate>
+                        <physdesc id="ref129" label="General Physical Description note">12-3/4x7-1/2 and 10x7-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Nelson, Thomas, 1738-1789</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref130">
+                        <head>Scope and Contents note</head>
+                        <p>Philadelphia, L. 3p. Copy. (see T.Jefferson. Correspondence...; 1775-1784. no.14.) Printed: Boyd, I, 285-286.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref131" level="file">
+                    <did>
+                        <unittitle>Resolution for individual states to form governments;</unittitle>
+                        <unitid>B J35.51 no.16</unitid>
+                        <unitdate>May 15, 1776</unitdate>
+                        <physdesc id="ref132" label="General Physical Description note">12-3/4x7-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">United States. Continental Congress</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref133">
+                        <head>Scope and Contents note</head>
+                        <p>D. 2p. Copy. (see T. Jefferson. Correspondence...; 1775-1784. no.16.) Printed: Journals of the Continental Congress, IV, 357-358.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref134" level="file">
+                    <did>
+                        <unittitle>Letter to [Thomas Jefferson]:</unittitle>
+                        <unitid>B J35.x5</unitid>
+                        <unitdate>June 15, 1776</unitdate>
+                        <physdesc id="ref135" label="General Physical Description note">7 1/2" x 12 1/2"</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Fleming, William, 1729-1795</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref136">
+                        <head>Scope and Contents note</head>
+                        <p>W[illia]msburg, Copy of L. 2p. Discouraging news from Canada. War with Indians imminent. Declaration of rights to serve as basis of the new government. Bureau of rolls. v.8,186 - S.2,v.33, no.33.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref137" level="file">
+                    <did>
+                        <unittitle>Letter to [Thomas Jefferson];</unittitle>
+                        <unitid>B J35.x8</unitid>
+                        <unitdate>June 23, 1776</unitdate>
+                        <physdesc id="ref138" label="General Physical Description note">7 3/4" x 12 1/2"</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Lee, Richard Henry, 1732-1794</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref139">
+                        <head>Scope and Contents note</head>
+                        <p>York Copy of L. 1p. Bureau of rolls, v.8,352 - S.2,v.51, no.20. Printed: Ballagh, V.1,418.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref140" level="file">
+                    <did>
+                        <unittitle>Resolution;</unittitle>
+                        <unitid>B J35.51 no.20</unitid>
+                        <unitdate>June 24, 1776</unitdate>
+                        <physdesc id="ref141" label="General Physical Description note">11-3/4x7-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">United States. Continental Congress</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref142">
+                        <head>Scope and Contents note</head>
+                        <p>D. 1p. Copy. (see T.Jefferson. Correspondence...; 1775-1784. no.20.) Defining treason to the colonial cause. On same sheet as copy of letter from G. Wythe to T.Jefferson; July 27, 1776.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref512" level="file">
+                    <did>
+                        <unittitle>Letter to --</unittitle>
+                        <unitid>B J35.51 no. 18</unitid>
+                        <unitdate>June 29, 1776</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref515" level="file">
+                    <did>
+                        <unittitle>Declaration of independence;</unittitle>
+                        <unitid>B J35.80</unitid>
+                        <unitdate>July 4, 1776</unitdate>
+                        <origination label="creator">
+                            <corpname source="ingest">United States. Continental Congress.</corpname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref516">
+                        <head>Scope and Contents note</head>
+                        <p>Xerox of draft of Declaration.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref517" level="file">
+                    <did>
+                        <unittitle>Declaration of independence;</unittitle>
+                        <unitid>B J35.81</unitid>
+                        <unitdate>July 4, 1776</unitdate>
+                        <abstract id="ref518" label="Abstract">Deacidified xerox copy of the Declaration of Independence.</abstract>
+                        <origination label="creator">
+                            <corpname source="ingest">United States. Continental Congress.</corpname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref487" level="file">
+                    <did>
+                        <unittitle>Letter to [Richard Henry Lee];</unittitle>
+                        <unitid>B J35.74</unitid>
+                        <unitdate>July 8, 1776</unitdate>
+                        <physdesc id="ref488" label="General Physical Description note">9-3/4x7-3/4</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref489">
+                        <head>Scope and Contents note</head>
+                        <p>Xerox of copy of L. 1p., enclosures wanting. For original enclosures</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref143" level="file">
+                    <did>
+                        <unittitle>Letter to [Thomas Jefferson];</unittitle>
+                        <unitid>B J35.x7</unitid>
+                        <unitdate>July 21, 1776</unitdate>
+                        <physdesc id="ref144" label="General Physical Description note">7 3/4" x 12 1/2"</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Lee, Richard Henry, 1732-1794</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref145">
+                        <head>Scope and Contents note</head>
+                        <p>Chantilly Copy of L. 2p. Bureau of rolls,v.8,351 - S.2,v.51, no.12. Printed: Ballagh, v.1,210.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref146" level="file">
+                    <did>
+                        <unittitle>Letter to [Thomas Jefferson];</unittitle>
+                        <unitid>B J35.51 no.19</unitid>
+                        <unitdate>July 27, 1776</unitdate>
+                        <physdesc id="ref147" label="General Physical Description note">12-3/4x7-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Fleming, William, 1729-1795</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref148">
+                        <head>Scope and Contents note</head>
+                        <p>Mo[u]nt Pleasant, L. 4p. Copy. (see T.Jefferson. Correspondence...; 1775-1784. no.19.) Printed: Boyd, I, 474-476.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref149" level="file">
+                    <did>
+                        <unittitle>Letter to T[homas] J[efferson];</unittitle>
+                        <unitid>B J35.51 no.20</unitid>
+                        <unitdate>July 27, 1776</unitdate>
+                        <physdesc id="ref150" label="General Physical Description note">11-3/4x7-1/2 and 12-3/4x7-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Wythe, George, 1726-1806</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref151">
+                        <head>Scope and Contents note</head>
+                        <p>Williamsburg, L. 2p. Copy. (see T.Jefferson. Correspondence...; 1775-1784. no.20.) Printed: Boyd, I, 476-477. On same sheet is copy of resolution by the continental congress; June 24, 1776.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref152" level="file">
+                    <did>
+                        <unittitle>Letter to [Thomas Jefferson];</unittitle>
+                        <unitid>B J35.x6</unitid>
+                        <unitdate>July 29, 1776</unitdate>
+                        <physdesc id="ref153" label="General Physical Description note">7 3/4" x 10"</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Pendleton, Edmund, 1721-1803</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref154">
+                        <head>Scope and Contents note</head>
+                        <p>Caroline, Copy of L. 2p. Account of the war. Bureau of rolls, v.8,450 - S.2,v.65, no.50.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref155" level="file">
+                    <did>
+                        <unittitle>Letter to [Thomas Jefferson];</unittitle>
+                        <unitid>B J35.x2</unitid>
+                        <unitdate>August 10, 1776</unitdate>
+                        <physdesc id="ref156" label="General Physical Description note">7 3/4" x 12 1/2"</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Pendleton, Edmund, 1721-1803</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref157">
+                        <head>Scope and Contents note</head>
+                        <p>Caroline, Copy of L. 4p. Alterations in the original Declaration of independence. The proposed new constitution. Military movements. Bureau of rolls, v.8,450 - S.2,v.65, no.53.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref158" level="file">
+                    <did>
+                        <unittitle>Letter to [Thomas Jefferson];</unittitle>
+                        <unitid>B J35.51 no.17</unitid>
+                        <unitdate>Aug. 10, 1776</unitdate>
+                        <physdesc id="ref159" label="General Physical Description note">12-3/4x7-1/4</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Pendleton, Edmund, 1721-1803</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref160">
+                        <head>Scope and Contents note</head>
+                        <p>L. 1p. Extract. Copy (see T.Jefferson. Correspondence...; 1775-1784. Printed: Boyd, I, 489. On same sheet as copy of: Jefferson. Plan of government...;[June 8-10,1776.]</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref161" level="file">
+                    <did>
+                        <unittitle>Letter to [Thomas Jefferson;]</unittitle>
+                        <unitid>B J35.51 no.21</unitid>
+                        <unitdate>Aug. 10, 1776</unitdate>
+                        <physdesc id="ref162" label="General Physical Description note">9x7-3/4</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Pendleton, Edmund, 1721-1803</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref163">
+                        <head>Scope and Contents note</head>
+                        <p>L. 2p. Incomplete. Copy. (see T.Jefferson. Correspondence...; 1775-1784. no. 21.) Printed: Boyd, I, 488-491.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref164" level="file">
+                    <did>
+                        <unittitle>Letter to [Thomas Jefferson];</unittitle>
+                        <unitid>B J35.51 no.22</unitid>
+                        <unitdate>Aug. 24, 1776</unitdate>
+                        <physdesc id="ref165" label="General Physical Description note">12-3/4x7-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Nichols, Robert Carter</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref166">
+                        <head>Scope and Contents note</head>
+                        <p>Williamsburg, L. 1p. Copy. (see T.Jefferson. Correspondence...; 1775-1784. no.22.) Printed: Boyd, I, 502-503.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref167" level="file">
+                    <did>
+                        <unittitle>Letter to [Thomas Jefferson];</unittitle>
+                        <unitid>B J35.x10</unitid>
+                        <unitdate>Nov. 3, 1776</unitdate>
+                        <physdesc id="ref168" label="General Physical Description note">7 1/2" x 12 1/2"</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Lee, Richard Henry, 1732-1794</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref169">
+                        <head>Scope and Contents note</head>
+                        <p>Philadelphia, Copy of L. 4p. Mutilated. Bureau of rolls, v.8,351 - S.2,v.51, no.13. Printed: Ballagh, v.1,222</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref170" level="file">
+                    <did>
+                        <unittitle>Letter to T[homas] J[efferson];</unittitle>
+                        <unitid>B J35.51 no.23</unitid>
+                        <unitdate>Nov. 11, 1776</unitdate>
+                        <physdesc id="ref171" label="General Physical Description note">6-3/4x6-1/4</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Wythe, George, 1726-1806</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref172">
+                        <head>Scope and Contents note</head>
+                        <p>L. 1p. Copy. (see T. Jefferson. Correspondence...; 1775-1784. no.23.) Printed: Boyd, I, 597-598.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref173" level="file">
+                    <did>
+                        <unittitle>Letter to T[homas] J[efferson];</unittitle>
+                        <unitid>B J35.51 no.24</unitid>
+                        <unitdate>Nov. 18, 1776</unitdate>
+                        <physdesc id="ref174" label="General Physical Description note">12-3/4x7-1/4</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Wythe, George, 1726-1806</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref175">
+                        <head>Scope and Contents note</head>
+                        <p>Philadelphia, L. 2p. Copy. (see T.Jefferson. Correspondence...; 1775-1784. no.24.) Printed: Boyd, I, 603-604.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref176" level="file">
+                    <did>
+                        <unittitle>Letter to Henry Laurens;</unittitle>
+                        <unitid>B J35.51 no.27</unitid>
+                        <unitdate>Feb. 11, 1778</unitdate>
+                        <physdesc id="ref177" label="General Physical Description note">12-1/2x7-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Burgoyne, John, 1722-1792</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref178">
+                        <head>Scope and Contents note</head>
+                        <p>Cambridge, L. 6p. Copy. (see T. Jefferson. Correspondence...; 1775-1784. no.27.) Concerning his imprisonment and treatment.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref179" level="item">
+                    <did>
+                        <unittitle>Proceedings...;</unittitle>
+                        <unitid>B J35.51 no. 28</unitid>
+                        <unitdate>May 4, 1778</unitdate>
+                        <physdesc id="ref180" label="General Physical Description note">12-1/2x8</physdesc>
+                        <origination label="creator">
+                            <corpname source="ingest">Virginia (State). General assembly</corpname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref181">
+                        <head>Scope and Contents note</head>
+                        <p>D. 2p. Copy. (see T. Jefferson. Correspondence...; 1775-1784. no. 28.) Concerning the case of Josiah Philips.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref182" level="file">
+                    <did>
+                        <unittitle>Letter to [Thomas Jefferson];</unittitle>
+                        <unitid>B J35.51 no.29</unitid>
+                        <unitdate>Oct. 5, 1778</unitdate>
+                        <physdesc id="ref183" label="General Physical Description note">12-1/2x7-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Lee, Richard Henry, 1732-1794</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref184">
+                        <head>Scope and Contents note</head>
+                        <p>Philadelphia, L. 2p. Incomplete. Copy. (see T. Jefferson. Correspondence...; 1775-1784. no.29.) Printed: Boyd, II, 214-215.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref185" level="file">
+                    <did>
+                        <unittitle>Letter to [Thomas Jefferson];</unittitle>
+                        <unitid>B J35.x9</unitid>
+                        <unitdate>March 15, 1779</unitdate>
+                        <physdesc id="ref186" label="General Physical Description note">5x7-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Lee, Richard Henry, 1732-1794</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref187">
+                        <head>Scope and Contents note</head>
+                        <p>Philadelphia, Copy of L. 2p. Bureau of rolls, v.8,352 - S.2, v.51, no.23. Printed: Ballagh, v.2,38.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref188" level="file">
+                    <did>
+                        <unittitle>Letter to [Patrick Henry];</unittitle>
+                        <unitid>B J35.51 no.30</unitid>
+                        <unitdate>March 27, 1779</unitdate>
+                        <physdesc id="ref189" label="General Physical Description note">12-3/4x7-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref190">
+                        <head>Scope and Contents note</head>
+                        <p>Albemarle, L. 2p. Incomplete. (see T. Jefferson. Correspondence...; 1775-1784. no. 30.) Printed: Boyd, II, 237-</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref191" level="file">
+                    <did>
+                        <unittitle>Letter to Patrick Henry;</unittitle>
+                        <unitid>B J35.51 no.31</unitid>
+                        <unitdate>April 29, 1779</unitdate>
+                        <physdesc id="ref192" label="General Physical Description note">13x8</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Clark, George Rogers, 1752-1818</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref193">
+                        <head>Scope and Contents note</head>
+                        <p>Kaskaskia, L. 5p. Copy. (see T.Jefferson. Correspondence...; 1775-1784. no.31.) Printed: Boyd, II, 256-260.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref194" level="file">
+                    <did>
+                        <unittitle>Letter to [Thomas Jefferson];</unittitle>
+                        <unitid>B J35.x4</unitid>
+                        <unitdate>May 22, 1779</unitdate>
+                        <physdesc id="ref195" label="General Physical Description note">7 3/4" x 12 1/2"</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Fleming, William, 1729-1795</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref196">
+                        <head>Scope and Contents note</head>
+                        <p>Philadelphia, Copy of L. 4p. Desperate condition of country. Need for ratification of confederation. Depredations of the enemy. Bureau of rolls, v.8,186 - S.2,v.33, no.37.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref197" level="file">
+                    <did>
+                        <unittitle>Commission to Harry Innes to adjust and settle claims to unpatented lands, in Montgomery and Washington districts;</unittitle>
+                        <unitid>B J35.46</unitid>
+                        <unitdate>Sept. 29, 1779</unitdate>
+                        <physdesc id="ref198" label="General Physical Description note">7 3/4" x 7 1/4"</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref199">
+                        <head>Scope and Contents note</head>
+                        <p>D.S. 1p. Seal.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref200" level="file">
+                    <did>
+                        <unittitle>Letter to ----;</unittitle>
+                        <unitid>B J35.51 no.32</unitid>
+                        <unitdate>July 20, 1780</unitdate>
+                        <physdesc id="ref201" label="General Physical Description note">12-3/4x8</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Gates, Horatio, 1728-1806</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref202">
+                        <head>Scope and Contents note</head>
+                        <p>Hillsborough, L. 1p. Copy. (see T. Jefferson. Correspondence...; 1775-1784. no.32.) Concerning the war. Refers to Jefferson. On same sheet is copy of letter from Henry Lee to ---.; [1782].</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref203" level="file">
+                    <did>
+                        <unittitle>Letter to the president of Congress [Samuel Huntington];</unittitle>
+                        <unitid>B J35.14</unitid>
+                        <unitdate>Jan. 10, 1781</unitdate>
+                        <physdesc id="ref204" label="General Physical Description note">7 3/4" x 12 3/4"</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref205">
+                        <head>Scope and Contents note</head>
+                        <p>Richmond, Copy of L. 3p. Bureau of rolls, v.6,92 - S.1,v.1,no. 68. Printed: Ford, v.2,405</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref206" level="file">
+                    <did>
+                        <unittitle>Letter to [George Washington];</unittitle>
+                        <unitid>B J35.15</unitid>
+                        <unitdate>May 28, 1781</unitdate>
+                        <physdesc id="ref207" label="General Physical Description note">7 1/2" x 12 1/2"</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref208">
+                        <head>Scope and Contents note</head>
+                        <p>Charlottesville, Copy of L. 2p. Bureau of rolls,v.6,485 - S.1,v.1, no.97. Printed: Ford, v.3,41.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref209" level="file">
+                    <did>
+                        <unittitle>Letter to [Charles Thomson?];</unittitle>
+                        <unitid>B J35.13</unitid>
+                        <unitdate>Dec. 20, 1781</unitdate>
+                        <physdesc id="ref210" label="General Physical Description note">8" x 9 3/4"</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref211">
+                        <head>Scope and Contents note</head>
+                        <p>Richmond Typescript of L. 1p. Has been appointed councillor of the American philosophical society. Queries made by M. de Marbois. Presented by George Vaux, June 1917, cf. covering letter of June 6,1917 to I.Minis Hays in Archives.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref513" level="file">
+                    <did>
+                        <unittitle>Concerning Benedict Arnold's raid on Virginia.</unittitle>
+                        <unitid>B J35.51 no. 33</unitid>
+                        <unitdate>1781</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref212" level="file">
+                    <did>
+                        <unittitle>Journals...;</unittitle>
+                        <unitid>B J35.51 no.35</unitid>
+                        <unitdate>March 1, 1784</unitdate>
+                        <physdesc id="ref213" label="General Physical Description note">12-1/2x7-3/4</physdesc>
+                        <origination label="creator">
+                            <corpname source="ingest">United States. Continental Congress</corpname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref214">
+                        <head>Scope and Contents note</head>
+                        <p>D. 2p. Extract. (see T.Jefferson, Correspondence...; 1775-1784. no.35.) Printed: Journals of the continental congress, XXIV, 112.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref215" level="file">
+                    <did>
+                        <unittitle>Letter to [Isaac Zane ?];</unittitle>
+                        <unitid>B J35.23</unitid>
+                        <unitdate>March 17, 1784</unitdate>
+                        <physdesc id="ref216" label="General Physical Description note">7 1/4" x 9"</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref217">
+                        <head>Scope and Contents note</head>
+                        <p>Annapolis, A.L.S. 1p. and end. News about the British ministry from Dr. Franklin. Deed of cession for the western country. Hopkinson writes about bill before [Pa.] Assembly relative to Rittenhouse.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref218" level="file">
+                    <did>
+                        <unittitle>Letter to Mr. Stockdale;</unittitle>
+                        <unitid>B J35.41</unitid>
+                        <unitdate>Sept. 1, 1784</unitdate>
+                        <physdesc id="ref219" label="General Physical Description note">9 1/4" x 7 1/4"</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref220">
+                        <head>Scope and Contents note</head>
+                        <p>Paris, A.L.S. 1p. and add. Orders copy of Blackstone. Mr. [William Temple] Franklin is acting as his agent in the purchase of other books. Mr. Franklin may be found at Gov. Franklin's. Not printed in Boyd.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref221" level="file">
+                    <did>
+                        <unittitle>Letter to [Benjamin] Franklin, Passy;</unittitle>
+                        <unitid>B J35.53</unitid>
+                        <unitdate>Nov. 25, 1784</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref222">
+                        <head>Scope and Contents note</head>
+                        <p>Photostat of A.L. in 3rd Person. 1p. and add. (from original in Library of Congress.) Concerning Beaumarchais' demands on Virginia. Presented by Julian Boyd, 1951.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref484" level="file">
+                    <did>
+                        <unittitle>Letter to ----;</unittitle>
+                        <unitid>B J35.73</unitid>
+                        <unitdate>July 5, 1785</unitdate>
+                        <physdesc id="ref485" label="General Physical Description note">10x7</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref486">
+                        <head>Scope and Contents note</head>
+                        <p>Paris, Xerox of A.L.S. 1p. Introduces William Temple Franklin and refers to "his grandfather."</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref223" level="file">
+                    <did>
+                        <unittitle>Letter to [Francis Hopkinson];</unittitle>
+                        <unitid>B J35.35</unitid>
+                        <unitdate>July 6, 1785</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref224">
+                        <head>Scope and Contents note</head>
+                        <p>Paris, Photo. of A.L.S. 2p. The harpsichord. Dr. Franklin's departure. Mr. Jefferson's Notes. From original in Independence hall. Presented by C.F. Jenkins, 1948.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref225" level="file">
+                    <did>
+                        <unittitle>Letter to [Johannes Ingenhousz];</unittitle>
+                        <unitid>B J35.52</unitid>
+                        <unitdate>July 14, 1785</unitdate>
+                        <physdesc id="ref226" label="General Physical Description note">9x7</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref227">
+                        <head>Scope and Contents note</head>
+                        <p>Paris, A.L.S. 1p.and end. (see Thomas Jefferson papers.) Forwards package which B. Franklin left with him.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref228" level="file">
+                    <did>
+                        <unittitle>Letter to [Thomas Jefferson];</unittitle>
+                        <unitid>B J35.x12</unitid>
+                        <unitdate>July 18, 1785</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Holker, Jean</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref229">
+                        <head>Scope and Contents note</head>
+                        <p>Rouen, Photostat of A.L.S. 2p. In French. Dr. Franklin left previous day for Le Havre. No information on case of books. From origin al in Harvard college. Presented by C.F. Jenkins, 1948.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref230" level="file">
+                    <did>
+                        <unittitle>Letter to ---- ----;</unittitle>
+                        <unitid>B J35.10</unitid>
+                        <unitdate>Nov. 24, 1785</unitdate>
+                        <physdesc id="ref231" label="General Physical Description note">7 1/2" x 9"</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref232">
+                        <head>Scope and Contents note</head>
+                        <p>Paris, A.L.S. 1p. In French. Mentions American prisoners.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref233" level="file">
+                    <did>
+                        <unittitle>Letter to Dr. Ingenhausz;</unittitle>
+                        <unitid>B J35.9</unitid>
+                        <unitdate>July 9, 1787</unitdate>
+                        <physdesc id="ref234" label="General Physical Description note">7 1/4" x 9"</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref235">
+                        <head>Scope and Contents note</head>
+                        <p>Paris, A.L.S. 1p. and add. Acknowledges letter and pamphlet; offers to forward mail to Dr. Franklin. (Contains fine impression of T.J.'s seal)</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref236" level="file">
+                    <did>
+                        <unittitle>Letter to Thomas Jefferson, Stamford, Conn.;</unittitle>
+                        <unitid>B J35.x18</unitid>
+                        <unitdate>Oct. 13, 1787</unitdate>
+                        <physdesc id="ref237" label="General Physical Description note">12-1/2x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Bushnell, David, ca. 1742-1824</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref238">
+                        <head>Scope and Contents note</head>
+                        <p>Xerox of A.L.S. 2p. (from original in New Haven Colony Historical Society) Printed: APS. Transactions, o.s., IV, 303. Presented by Herbert Ebert (cf.letter of 6/26/68).</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref239" level="file">
+                    <did>
+                        <unittitle>Letter to Mr. Van Damme;</unittitle>
+                        <unitid>B J35.59</unitid>
+                        <unitdate>March 21, 1788</unitdate>
+                        <physdesc id="ref240" label="General Physical Description note">4-1/2x7</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref241">
+                        <head>Scope and Contents note</head>
+                        <p>Photo.of A.L.in 3rd.P. 1p.and add. In French. (from original in Diederich Collection, 139 Di, University of Amsterdam Library.) Hopes Van Damme can locate certain books for him.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref242" level="file">
+                    <did>
+                        <unittitle>Letter to Gen. Washington;</unittitle>
+                        <unitid>B J35.42</unitid>
+                        <unitdate>Dec. 5, 1788</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref243">
+                        <head>Scope and Contents note</head>
+                        <p>Paris, A.L.S. 1p. and end. in Washington's hand. Corrects date of letter sent the day previous. Press copy in L.C.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref244" level="file">
+                    <did>
+                        <unittitle>Letter to Benjamin Vaughan;</unittitle>
+                        <unitid>B J35.33</unitid>
+                        <unitdate>Mar.11, 1789</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref245">
+                        <head>Scope and Contents note</head>
+                        <p>Paris, Enlargement print A.L.S. 2p. and add. Cultivation of rice. Has asked for a leave of absence to return to America from April to November. From original in possession of Mrs. Frances Vaughan Finletter,March 1951.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref466" level="file">
+                    <did>
+                        <unittitle>Letter to [William Temple] Franklin;</unittitle>
+                        <unitid>B J35.67</unitid>
+                        <unitdate>July 6, 1790</unitdate>
+                        <physdesc id="ref467" label="General Physical Description note">5x7-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref468">
+                        <head>Scope and Contents note</head>
+                        <p>A.L. in. 3rd P. 1p. Invitation to dine.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref246" level="file">
+                    <did>
+                        <unittitle>Indenture of Thomas Jefferson and Nicholas Lewis,</unittitle>
+                        <unitid>B J35.7</unitid>
+                        <unitdate>October 17, 1790</unitdate>
+                        <physdesc id="ref247" label="General Physical Description note">8" x 12 1/4"</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref248">
+                        <head>Scope and Contents note</head>
+                        <p>on the one part, and William Ronald, on the other part, for a tract of land in Cumberland county... A.D.S. 3p. and end., also survey - 1p.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref249" level="file">
+                    <did>
+                        <unittitle>Letter to [Thomas Jefferson];</unittitle>
+                        <unitid>B J35.x17</unitid>
+                        <unitdate>Oct. 27, 1790</unitdate>
+                        <physdesc id="ref250" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Bonne, Rigobert, 1727-1794</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref251">
+                        <head>Scope and Contents note</head>
+                        <p>Paris, Photodup. copy of typed transcript. 3p. In French. (from trans. in Jefferson Papers, Princeton: original in Library of Congress) Forwards pamphlet on measures for APS: philosophical basis for his ideal measure. See printed Minutes, p.196.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref252" level="file">
+                    <did>
+                        <unittitle>Letter to John Churchman;</unittitle>
+                        <unitid>B J35.21</unitid>
+                        <unitdate>Nov. 23, 1790?</unitdate>
+                        <physdesc id="ref253" label="General Physical Description note">7" x 8 1/2"</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref254">
+                        <head>Scope and Contents note</head>
+                        <p>A.L. in 3d P. 1p. and add. and end. "came to hand 24 Nov. 1790" Encloses letter to Mr. Leroy who will distribute Mr. Churchman's chart and pamphlet [Magnetic atlas]. Bur. of rolls, S.2,v.15,no.67.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref451" level="file">
+                    <did>
+                        <unittitle>Letter to [David] Rittenhouse;</unittitle>
+                        <unitid>B J35.62</unitid>
+                        <unitdate>March 19, 1791</unitdate>
+                        <physdesc id="ref452" label="General Physical Description note">5x7-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref453">
+                        <head>Scope and Contents note</head>
+                        <p>A.L.S. 1p.and add. Rode into the country and couldnot drink tea with him or go to APS meeting where Barton read a paper. Sends drawing paper.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref256" level="file">
+                    <did>
+                        <unittitle>Letter to Benjamin Franklin Bache;</unittitle>
+                        <unitid>B J35.54</unitid>
+                        <unitdate>April 22, 1791</unitdate>
+                        <physdesc id="ref257" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref258">
+                        <head>Scope and Contents note</head>
+                        <p>Photo.of typed copy of L.in 3rd P. 1p. (see Jefferson papers.) Concerning the Aurora. Presented by J.P.Boyd; March 1961.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref259" level="file">
+                    <did>
+                        <unittitle>Letter to [John] Vaughan;</unittitle>
+                        <unitid>B J35.58</unitid>
+                        <unitdate>May 16, 1791</unitdate>
+                        <physdesc id="ref260" label="General Physical Description note">4-1/2x7-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref261">
+                        <head>Scope and Contents note</head>
+                        <p>A.L.in 3rd.P. 1p. (see Jefferson papers.) Forwards an Argand double lamp for use for the APS.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref262" level="file">
+                    <did>
+                        <unittitle>Letter to Messrs. Havens &amp; Dering;</unittitle>
+                        <unitid>B J35.45</unitid>
+                        <unitdate>Dec. 22, 1791</unitdate>
+                        <physdesc id="ref263" label="General Physical Description note">9 1/4" x 7 3/4"</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref264">
+                        <head>Scope and Contents note</head>
+                        <p>Phila., A.L.S. 1p. and add. Acknowledges information on the Hessian fly. Interest of APS in subject. Bur. of rolls, S.1,4,243.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref454" level="file">
+                    <did>
+                        <unittitle>Letter to David Rittenhouse, Philadelphia;</unittitle>
+                        <unitid>B J35.63</unitid>
+                        <unitdate>Aug. 12, 1792</unitdate>
+                        <physdesc id="ref455" label="General Physical Description note">9-1/4x7-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref456">
+                        <head>Scope and Contents note</head>
+                        <p>Monticello, A.L. 1p.and add. Signature clipped. Instructions for purchasing "Equatorial" instrument from Mr. Leiper.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref265" level="file">
+                    <did>
+                        <unittitle>Letter to [David] Rittenhouse, dated Philadelphia,</unittitle>
+                        <unitid>B J35.1</unitid>
+                        <unitdate>Apr. 11, 1793</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref266">
+                        <head>Scope and Contents note</head>
+                        <p>pertains to instructions which the [American philosophical] Society is to frame for Michaud [André Michaux's journey to the western country]. A.L.S. 1p. and address. See Early Minutes - meetings for April 19 and 30, 1793 (A.P.S. Proceedings, v.22, pt.3) Purchased for the Society by Arthur Pforzheimer [New York bookdealer] at the Parke-Burnet sale held on March 10,1938, #66.- Has been microfilmed - see Film No. 71; see also Film 199, 81</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref457" level="file">
+                    <did>
+                        <unittitle>Letter to David Rittenhouse, Philadelphia;</unittitle>
+                        <unitid>B J35.64</unitid>
+                        <unitdate>Nov. 6, 1793</unitdate>
+                        <physdesc id="ref458" label="General Physical Description note">10x8</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref459">
+                        <head>Scope and Contents note</head>
+                        <p>Germantown, A.L.S. 1p.and add. Sends bill of lading for copper for the mint. Asks if new engraver is needed for the mint.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref267" level="file">
+                    <did>
+                        <unittitle>Letter to the Speaker of the House of Representatives of the U.S.;</unittitle>
+                        <unitid>B J35.6</unitid>
+                        <unitdate>December 16, 1793</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref268">
+                        <head>Scope and Contents note</head>
+                        <p>Philadelphia, Encloses his report, as Secretary of State on the privileges and restrictions on the commerce of the United States in foreign countries. Copy of L. and D. 22p. 0. Contains also the action of the Committee of the House upon the Report . For printed copy of letter and report see Bergh - Writings of Thomas Jefferson, V.3,261; Ford - Writings of Thomas Jefferson, V.6,470. See also Bureau of Rolls, Bulletin, V.6,221 (Calendar of Jefferson Papers). Not Found: 7/19/2010</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref269" level="file">
+                    <did>
+                        <unittitle>Letter to Benjamin Franklin Bache, Philadelphia;</unittitle>
+                        <unitid>B J35.56</unitid>
+                        <unitdate>Dec. 26, 1795</unitdate>
+                        <physdesc id="ref270" label="General Physical Description note">9x7-1/4</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref271">
+                        <head>Scope and Contents note</head>
+                        <p>Monticello, Photo.of A.L.S. 1p.and add.,end. (see Jefferson papers.) Order for his newspaper. Wishes to know of new edition of Benjamin Franklin's works. From original in Central Library, Salford, England.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref272" level="file">
+                    <did>
+                        <unittitle>Letter to Bushrod Washington;</unittitle>
+                        <unitid>B J35.24</unitid>
+                        <unitdate>Oct. 9, 1796</unitdate>
+                        <physdesc id="ref273" label="General Physical Description note">7" x 9"</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref274">
+                        <head>Scope and Contents note</head>
+                        <p>Monticello, A.L.S. 1p. and end. Encloses record in the case of Dickerson v. Paulett &amp; Marks.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref481" level="file">
+                    <did>
+                        <unittitle>Letter to [Thomas] Willing;</unittitle>
+                        <unitid>B J35.72</unitid>
+                        <unitdate>Feb. 23, 1798</unitdate>
+                        <physdesc id="ref482" label="General Physical Description note">5x8</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref483">
+                        <head>Scope and Contents note</head>
+                        <p>A.L. in 3rd.P. 1p.and add. (Francis Lewis Randolph Collection of Thomas Jefferson materials) Gives reason why he never attends evening parties, and cannot attend the Assembly. Never attended Washington's parties.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref275" level="file">
+                    <did>
+                        <unittitle>Letter to Samuel Smith;</unittitle>
+                        <unitid>B J35.11</unitid>
+                        <unitdate>Aug. 22, 1798</unitdate>
+                        <physdesc id="ref276" label="General Physical Description note">7 1/2" x 9"</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref277">
+                        <head>Scope and Contents note</head>
+                        <p>Monticello, A.L.S. 4p. Printed: Lipscomb and Bergh, v.10, 55.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref278" level="file">
+                    <did>
+                        <unittitle>Letter to Genl. Daniel Smith;</unittitle>
+                        <unitid>B J35.36</unitid>
+                        <unitdate>Sep.10, 1800</unitdate>
+                        <physdesc id="ref279" label="General Physical Description note">8" x 10"</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref280">
+                        <head>Scope and Contents note</head>
+                        <p>Monticello, A.L.S. 1p. and add. Acknowledges Chickasaw vocabulary; anxious to preserve as many Indian languages as possible. News of friends.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref281" level="file">
+                    <did>
+                        <unittitle>Letter to [Thomas Jefferson];</unittitle>
+                        <unitid>B J35.x1</unitid>
+                        <unitdate>August 22, 1800</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Rush, Benjamin, 1746-1813</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref282">
+                        <head>Scope and Contents note</head>
+                        <p>Philadelphia, Photostat of A.L.S. 5p. From original in Library of Congress; presented by Col. Lawrence Martin, April 1944.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref283" level="file">
+                    <did>
+                        <unittitle>Letter to Benjamin Rush, Philadelphia;</unittitle>
+                        <unitid>B J35.12</unitid>
+                        <unitdate>Sept. 23, 1800</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref284">
+                        <head>Scope and Contents note</head>
+                        <p>Monticello, Photostat of A.L.S. 2p.and add.,end. Friendly letter. Concerning yellow fever, the XYZ affair, religion, and Franklin.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref285" level="file">
+                    <did>
+                        <unittitle>Letter to Benjamin Rush;</unittitle>
+                        <unitid>B J35.8</unitid>
+                        <unitdate>Dec. 14, 1800</unitdate>
+                        <physdesc id="ref286" label="General Physical Description note">8" x 9 3/4"</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref287">
+                        <head>Scope and Contents note</head>
+                        <p>Washington, A.L.S. 1p. and add. Acknowledges melon seeds. Republicans seem to have obtained a majority of 8 in the late election. Bureau of Rolls, V.6,398-S.2,v.70,52.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref288" level="file">
+                    <did>
+                        <unittitle>Letter to Dwight Foster;</unittitle>
+                        <unitid>B J35.32</unitid>
+                        <unitdate>Feb. 1, 1802</unitdate>
+                        <physdesc id="ref289" label="General Physical Description note">8" x 5"</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref290">
+                        <head>Scope and Contents note</head>
+                        <p>Printed D. filled in in ms. 1p. and add., end. Invitation to dine. (Came originally with Jenks-Jefferson collection)</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref521" level="file">
+                    <did>
+                        <unittitle>Letter to [Thomas Jefferson]</unittitle>
+                        <unitid>B J35.83</unitid>
+                        <unitdate>December 31, 1802</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Vaughan, John, 1756-1841</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref519" level="file">
+                    <did>
+                        <unittitle>Tho[ma]s Jefferson to the Miami and Delaware Indians.</unittitle>
+                        <unitid>B J35.82</unitid>
+                        <unitdate>January 8, 1803</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref520">
+                        <head>Scope and Contents note</head>
+                        <p>MSL-1 [Washington], 4 pp. Copy of D.S. FILM199 FRAME428</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref291" level="file">
+                    <did>
+                        <unittitle>Letter to Mrs. Eppes;</unittitle>
+                        <unitid>B J35.34</unitid>
+                        <unitdate>Jan. 18, 1803</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref292">
+                        <head>Scope and Contents note</head>
+                        <p>Washington, Photostat of A.L.S. 1p. Her arrival at Edgehill. Mr. Giles's aid in Congress.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref293" level="file">
+                    <did>
+                        <unittitle>Recognition of Alire Raffeneau De Lille [sic] as sub-commissionary of commercial relations with France;</unittitle>
+                        <unitid>B J35.50</unitid>
+                        <unitdate>Oct. 20, 1803</unitdate>
+                        <physdesc id="ref294" label="General Physical Description note">15-1/2x10</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref295">
+                        <head>Scope and Contents note</head>
+                        <p>Washington, Photostat of D.S.: Th.Jefferson, pres. and James Madison, Sec. of state. 1p. Presented by W.J.Robbins.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref522" level="file">
+                    <did>
+                        <unittitle>Letter to Dugald Stewart;</unittitle>
+                        <unitid>B J35.84</unitid>
+                        <unitdate>December 21,1803</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Buchan, David Stewart Erskine, Earl of, 1742-1829</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref523">
+                        <head>Scope and Contents note</head>
+                        <p>S. Castle street, Photostat of A.N.S. 1p. and enc. - 2p. Encloses copy of letter from president Jefferson [Jefferson to Buchan, July 10, 1803]. From original in Laing collection, University of Edinburgh.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref469" level="file">
+                    <did>
+                        <unittitle>Letter to Thomas Jefferson;</unittitle>
+                        <unitid>B J35.68</unitid>
+                        <unitdate>January 4, 1805</unitdate>
+                        <physdesc id="ref470" label="General Physical Description note">10x8</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">James, Thomas C., (Thomas Chalkley), 1766-1835</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref471">
+                        <head>Scope and Contents note</head>
+                        <p>Phila., A.L.S. 1p. Informs Jefferson of his reelection as president of the A.P.S.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref299" level="file">
+                    <did>
+                        <unittitle>Commission to Meriwether Lewis;</unittitle>
+                        <unitid>B J35.55</unitid>
+                        <unitdate>April 15, 1805</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref300">
+                        <head>Scope and Contents note</head>
+                        <p>Washington, Photo.of printed D.filled in in ms.S. 1p. (from photograph,not original document). Presented by Mrs. Robbins; May 1962.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref301" level="file">
+                    <did>
+                        <unittitle>Letter to Robert Patterson;</unittitle>
+                        <unitid>B J35.p</unitid>
+                        <unitdate>April 27, 1805</unitdate>
+                        <physdesc id="ref302" label="General Physical Description note">9 3/4" x 8"</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref303">
+                        <head>Scope and Contents note</head>
+                        <p>Washington, Copy of L. 1p. and add. (see T. Jefferson. Letters to Robert Patterson,1805-1824) Offers him the office of Director of the Mint. Bur. of Rolls S.1,10,289.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref304" level="file">
+                    <did>
+                        <unittitle>Letter to Robert Patterson;</unittitle>
+                        <unitid>B J35.p</unitid>
+                        <unitdate>June 13, 1805</unitdate>
+                        <physdesc id="ref305" label="General Physical Description note">10" x 8"</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref306">
+                        <head>Scope and Contents note</head>
+                        <p>Washington, A.L.S. 1p., add. and end. (see T. Jefferson. Letters to Robert Patterson,1805-1824) Mr. Patterson will receive commission as Director of the Mint as Mr. Boudinot's resignation takes effect the last day of the month. Bur. of rolls. S.2,67,65.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref307" level="file">
+                    <did>
+                        <unittitle>Letter to Messrs. McDowell, Rodger, Finley, and Patterson;</unittitle>
+                        <unitid>B J35.3</unitid>
+                        <unitdate>Aug. 31, 1805</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref308">
+                        <head>Scope and Contents note</head>
+                        <p>Monticello, sends a small parcel of the Jerusalem wheat which he received from a gentleman in Ireland. Photostat of A.L.S. 1p. and add. Copy (?) in Mass. hist. soc.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref309" level="file">
+                    <did>
+                        <unittitle>Letter to [Samuel Latham] Mitchell (sic);</unittitle>
+                        <unitid>B J35.16</unitid>
+                        <unitdate>Sept. 8, 1805</unitdate>
+                        <physdesc id="ref310" label="General Physical Description note">7 3/4" x 8 1/2"</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref311">
+                        <head>Scope and Contents note</head>
+                        <p>Monticello, A.L. in 3d P. 1p. On his return to Washington, expects to find a collection of the chemical subjects of Louisiana which Capt. Lewis desires forwarded to the Philosophical society at Philadelphia. Bureau of rolls,v.6,p.327 - S.2, v.60,no.113.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref296" level="file">
+                    <did>
+                        <unittitle>Letter to Thomas Jefferson;</unittitle>
+                        <unitid>B J35.61</unitid>
+                        <unitdate>July, 1805</unitdate>
+                        <physdesc id="ref297" label="General Physical Description note">8x6-1/4</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Marum, M. van (Martinus), 1750-1837</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref298">
+                        <head>Scope and Contents note</head>
+                        <p>Ha[a]rlem, Photo.of L. 1p. In French. (from original in Hollandsche Maatschappij der Wetenschappen, Haarlem.) Notifies him of election to "Societe Batavé". Refers to the APS.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref312" level="file">
+                    <did>
+                        <unittitle>Letters to Robert Patterson,</unittitle>
+                        <unitid>B J35.p</unitid>
+                        <unitdate>1805-1824</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref313">
+                        <head>Scope and Contents note</head>
+                        <p>13 items in 12 - all A.L.S.'s but 1. 27 April, 13 June 1805. 5 Nov 1806. 18 Oct 1807. 21 March 1811. 29 May, 9 Aug. 1812. 13 Oct 22, Dec 1815. 18 Oct. 1818. 2 Feb, 4 July 1819. 17 May 1824. With this collection came a letter from J. Madison to Patterson. July 2, 1805. (see in Misc. mss. collections)</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref490" level="file">
+                    <did>
+                        <unittitle>Letter to Destutt-Tracy;</unittitle>
+                        <unitid>B J35.75</unitid>
+                        <unitdate>Feb. 14, 1806</unitdate>
+                        <physdesc id="ref491" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref492">
+                        <head>Scope and Contents note</head>
+                        <p>Washington, Xerox of A.L.S. 1p. Thanks for his work on Ideologie; favorable comments on it. De Tracy elected to the APS.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref316" level="file">
+                    <did>
+                        <unittitle>Letter to M[artin] Van Marum, Ha[a]rlem;</unittitle>
+                        <unitid>B J35.60</unitid>
+                        <unitdate>May 3, 1806</unitdate>
+                        <physdesc id="ref317" label="General Physical Description note">10x8</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref318">
+                        <head>Scope and Contents note</head>
+                        <p>Washington, Photo.of A.L.S. 1p.and add. (from original in Hollandsche Maatschappij der Wetenschappen, Haarlem.) Thanks for election to the Batavian society and will be "a willing intermediate [sic]" for relations with the APS.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref478" level="file">
+                    <did>
+                        <unittitle>Letter to [Francois Andre] Michaux;</unittitle>
+                        <unitid>B J35.71</unitid>
+                        <unitdate>July 12, 1806</unitdate>
+                        <physdesc id="ref479" label="General Physical Description note">11x7</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref480">
+                        <head>Scope and Contents note</head>
+                        <p>Washington, Copy of A.L. in 3rd P. 1p. (From Charles Hamilton Auction No. 73, Dec. 6, 1973.) Thanks Michaux for "the book of his travels &amp; the pamphlet he has been so kind as to send him."</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref319" level="file">
+                    <did>
+                        <unittitle>Letter to Robert Patterson;</unittitle>
+                        <unitid>B J35.p</unitid>
+                        <unitdate>Nov. 5, 1806</unitdate>
+                        <physdesc id="ref320" label="General Physical Description note">9 3/4" x 7 1/4"</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref321">
+                        <head>Scope and Contents note</head>
+                        <p>Washington, A.L.S. 1p. and add. (see T. Jefferson to Robert Patterson, 1805-1824) Acknowledges receipt of the Nautical almanac and two small tracts. Bur. of rolls S.2,67,68</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref314" level="file">
+                    <did>
+                        <unittitle>Drawing of a carriage, with manuscript notes;</unittitle>
+                        <unitid>B J35.29</unitid>
+                        <unitdate>1806</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref315">
+                        <head>Scope and Contents note</head>
+                        <p>ca. Photostat of A.D. 3p.,accompanied by photostats of letter, in another hand, in German, dated: Jan.15, 1806. (from the original in the University of Virginia.)</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref322" level="file">
+                    <did>
+                        <unittitle>Letter to Robert Patterson;</unittitle>
+                        <unitid>B J35.p</unitid>
+                        <unitdate>Oct. 18, 1807</unitdate>
+                        <physdesc id="ref323" label="General Physical Description note">9 3/4" x 7 3/4"</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref324">
+                        <head>Scope and Contents note</head>
+                        <p>Washington, A.L.S. 1p. and add. (see T. Jefferson. Letters to Robert Patterson, 1805-1824) Sends some Arabic notes relative to two persons confined on suspicion; asks aid in translating in order to release the men if proper. Bur. of rolls, S.2,67,70.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref493" level="file">
+                    <did>
+                        <unittitle>Letter to [James]? Cheetham;</unittitle>
+                        <unitid>B J35.76</unitid>
+                        <unitdate>Nov. 6, 1807</unitdate>
+                        <physdesc id="ref494" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref495">
+                        <head>Scope and Contents note</head>
+                        <p>Xerox of A.L.S. 1p. Concerns payment of newspaper bill. Syas he is nearing retirement and has not read N.Y. Evening Post for two years. Don't send any more.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref325" level="file">
+                    <did>
+                        <unittitle>Letter to Samuel H. Smith</unittitle>
+                        <unitid>B J35.25</unitid>
+                        <unitdate>Dec. 16, 1807</unitdate>
+                        <physdesc id="ref326" label="General Physical Description note">7" x 9"</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref327">
+                        <head>Scope and Contents note</head>
+                        <p>A.L. in 3d P. 1p. and add., end. Contains note by S.H. Smith (?) Questions whether enclosed pieces are worth publishing [ca. British merchants].</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref460" level="file">
+                    <did>
+                        <unittitle>Letter to Henry Voigt, Philadelphia;</unittitle>
+                        <unitid>B J35.65</unitid>
+                        <unitdate>Jan. 6, 1808</unitdate>
+                        <physdesc id="ref461" label="General Physical Description note">9-3/4x7-3/4</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref462">
+                        <head>Scope and Contents note</head>
+                        <p>Washington, A.L.S. 1p.and add. Sends money for watch and hopes it can be delivered by a person who will carry it in his pocket; suggests Jonathan Williams.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref328" level="file">
+                    <did>
+                        <unittitle>Letter to Jonathan Williams;</unittitle>
+                        <unitid>B J35.31</unitid>
+                        <unitdate>Jan. 19, 1808</unitdate>
+                        <physdesc id="ref329" label="General Physical Description note">8" x 5"</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref330">
+                        <head>Scope and Contents note</head>
+                        <p>A.L. in 3d P. 1p. and add. Excuses himself from attending meeting [of the U.S. Military philosophical society].</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref331" level="file">
+                    <did>
+                        <unittitle>Letter to [Thomas] Jefferson;</unittitle>
+                        <unitid>B J35.x11</unitid>
+                        <unitdate>Jan. 21, 1808</unitdate>
+                        <physdesc id="ref332" label="General Physical Description note">7 1/2" x 9 1/2"</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Williams, Jonathan, 1750-1815</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref333">
+                        <head>Scope and Contents note</head>
+                        <p>Washington, A.Dr. of L. 2p., end. Encloses letter from Gov. Franklin to his son, W.T.Franklin; dissension between them. Delay in W.T.F.'s publication of his grandfather's papers; suggests that APS demand some action.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref334" level="file">
+                    <did>
+                        <unittitle>Letter to C. W. Peale; Passport for Rembrandt Peale;</unittitle>
+                        <unitid>B J35.18</unitid>
+                        <unitdate>March 13, 1808</unitdate>
+                        <physdesc id="ref335" label="General Physical Description note">7 3/4" x 9 3/4"</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref336">
+                        <head>Scope and Contents note</head>
+                        <p>Washington, A.L.S. 1p. and enc. - 1p. Seal on enc. Encloses a passport for his son, Rembrandt Peale, who goes abroad to paint portraits; suggests eleven Frenchmen who might sit for him. Reproduced: APS Library Bulletin for 1946, p.12.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref496" level="file">
+                    <did>
+                        <unittitle>Letter to M[arquis] de la Fayette;</unittitle>
+                        <unitid>B J35.77</unitid>
+                        <unitdate>July 18, 1808</unitdate>
+                        <physdesc id="ref497" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref498">
+                        <head>Scope and Contents note</head>
+                        <p>Washington, Xerox of A.L.S. 1p. Mentions Duplantier. Concerns the negotiation of lands and the sale to the city of New Orleans.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref337" level="file">
+                    <did>
+                        <unittitle>Memorial to James Madison concerning his ship of slaves which was captured and sold in Cuba;</unittitle>
+                        <unitid>B J35.57</unitid>
+                        <unitdate>July 28, 1808</unitdate>
+                        <physdesc id="ref338" label="General Physical Description note">12-3/4x7-3/4</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Grove, S. (Samuel), 1782-1834</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref339">
+                        <head>Scope and Contents note</head>
+                        <p>Charleston, D.S. 1p.and end.by T.Jefferson with a statement on U.S.policy on slavery. Presented by Morris Duane; Nov. 26, 1963.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref340" level="file">
+                    <did>
+                        <unittitle>Memorial to James Madison,</unittitle>
+                        <unitid>B J35.57</unitid>
+                        <unitdate>Aug. 17, 1808</unitdate>
+                        <physdesc id="ref341" label="General Physical Description note">12-3/4x7-3/4</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Grove, S. (Samuel), 1782-1834</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref342">
+                        <head>Scope and Contents note</head>
+                        <p>asking that his ship of slaves be recaptured for him, and a note by Th[omas] Jefferson, as president, that "The government of the U.S. will not make itself an accomplice in...selling them in slavery. Charleston, July 28, 1808. D.S. 1p.and end. (see Jefferson papers.) Presented by Morris Duane,Nov.1963.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref472" level="file">
+                    <did>
+                        <unittitle>Letter to [Thomas Jefferson];</unittitle>
+                        <unitid>B J35.69</unitid>
+                        <unitdate>January 6, 1809</unitdate>
+                        <physdesc id="ref473" label="General Physical Description note">10-1/2x8-3/4</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">James, Thomas C., (Thomas Chalkley), 1766-1835</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref474">
+                        <head>Scope and Contents note</head>
+                        <p>Phila., A.L.S. 1p. Informs Jefferson of his reelection as president of the A.P.S.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref343" level="file">
+                    <did>
+                        <unittitle>Letters patent for plot of ground in the territory northwest of the Ohio, Steubenville, issued to William Crawford;</unittitle>
+                        <unitid>B J35.49</unitid>
+                        <unitdate>Feb. 10, 1809</unitdate>
+                        <physdesc id="ref344" label="General Physical Description note">8 1/2" x 15 1/4"</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref345">
+                        <head>Scope and Contents note</head>
+                        <p>Washington, D.C., Printed D. filled in and S: Th. Jefferson, president; James Madison, secretary of state. 1p. Seal.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref346" level="file">
+                    <did>
+                        <unittitle>[Plan for an agricultural society; ?]</unittitle>
+                        <unitid>B J35.19</unitid>
+                        <unitdate>March, 1811</unitdate>
+                        <physdesc id="ref347" label="General Physical Description note">7 3/4" x 9 3/4"</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref348">
+                        <head>Scope and Contents note</head>
+                        <p>A.D. 4p. Printed: Lipscomb and Bergh,v.17,404.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref349" level="file">
+                    <did>
+                        <unittitle>Letter to Robert Patterson;</unittitle>
+                        <unitid>B J35.p</unitid>
+                        <unitdate>March 21, 1811</unitdate>
+                        <physdesc id="ref350" label="General Physical Description note">9 3/4" x 8"</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref351">
+                        <head>Scope and Contents note</head>
+                        <p>Monticello, A.L.S. 1p. and add. (see T. Jefferson. Letters to Robert Patterson,1805-1824). His interest in astronomy and scientific instruments. Bur. of rolls S.2,67,58.</p>
+                    </scopecontent>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Thomas Jefferson to Robert Patterson, March 21, 1811. " ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/text:2555">
+                        <daodesc>
+                            <p>Thomas Jefferson to Robert Patterson, March 21, 1811. , 1811 March 21 </p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref352" level="file">
+                    <did>
+                        <unittitle>Letter to ---- Goodman;</unittitle>
+                        <unitid>B J35.4</unitid>
+                        <unitdate>Oct. 10(?), 1812</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref353">
+                        <head>Scope and Contents note</head>
+                        <p>Monticello, relates to the finishing of a certain house. Photostat of A.L.S. 1p.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref354" level="file">
+                    <did>
+                        <unittitle>Letter to Robert Patterson;</unittitle>
+                        <unitid>B J35.p</unitid>
+                        <unitdate>May 29, 1812</unitdate>
+                        <physdesc id="ref355" label="General Physical Description note">9 3/4" x 7 1/2"</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref356">
+                        <head>Scope and Contents note</head>
+                        <p>Monticello, A.L.S. 1p. (see T. Jefferson. Letters to Robert Patterson,1805-1824) Sends papers intended for the [American philosophical] Society. Necessity for uniformity in a system of weights and measures. Bur. of rolls, S.2,67,59</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref357" level="file">
+                    <did>
+                        <unittitle>Letter to [Robert] Patterson;</unittitle>
+                        <unitid>B J35.p</unitid>
+                        <unitdate>Aug. 9, 1812</unitdate>
+                        <physdesc id="ref358" label="General Physical Description note">9 3/4" x 7 1/2"</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref359">
+                        <head>Scope and Contents note</head>
+                        <p>Monticello, A.L.S. 1p. (see T. Jefferson. Letters to Robert Patterson, 1805-1824) Sends paper by William Lambert and recommends him for membership in the APS. War with Great Britain.</p>
+                    </scopecontent>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Thomas Jefferson to Robert Patterson, August 9, 1812. " ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/text:2553">
+                        <daodesc>
+                            <p>Thomas Jefferson to Robert Patterson, August 9, 1812. , 1812 August 9 </p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref360" level="file">
+                    <did>
+                        <unittitle>Letter to Paul Allen;</unittitle>
+                        <unitid>B J35.40</unitid>
+                        <unitdate>Aug.18, 1813</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref361">
+                        <head>Scope and Contents note</head>
+                        <p>Monticello, Photostat of A.L.S. 14p. Biographical information in re Meriwether Lewis; instructions for the Lewis and Clark expedition. Sponsorship by APS of earlier expedition of André Michaux. Printed: Lewis and Clark, History of expedition, by Paul Allen, Phila., 1814, v.1,vii. Presented by Mr. Charles Biddle from draft in L.C., Feb. 1954.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref362" level="file">
+                    <did>
+                        <unittitle>Letter to Thomas Jefferson;</unittitle>
+                        <unitid>B J35.x15</unitid>
+                        <unitdate>June 29, 1813</unitdate>
+                        <physdesc id="ref363" label="General Physical Description note">10 1/4" x 8 1/4"</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Fulton, Robert, 1765-1815</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref364">
+                        <head>Scope and Contents note</head>
+                        <p>New York, A.Dr. of L.S. 15p. and end. illus. Describes experiments for firing projectiles under water. With this is Fulton's: Specification of my mode of firing under water and destroying ships of war,1813. 8p. 9 3/4" x 8" The handwriting of the two documents is authenticated by George H. Moore and R.H. Thurston.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref463" level="file">
+                    <did>
+                        <unittitle>Letter to Thomas Voigt, Philadelphia;</unittitle>
+                        <unitid>B J35.66</unitid>
+                        <unitdate>July 30, 1813</unitdate>
+                        <physdesc id="ref464" label="General Physical Description note">10x8</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref465">
+                        <head>Scope and Contents note</head>
+                        <p>Monticello, A.L.S. 1p.and add.,end. Orders a lady's watch and specifies how to pack it for shipment. Mr. Short will advise on chain needed.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref365" level="file">
+                    <did>
+                        <unittitle>Letter to James Madison, Washington;</unittitle>
+                        <unitid>B J35.5</unitid>
+                        <unitdate>Feb. 14, 1814</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref366">
+                        <head>Scope and Contents note</head>
+                        <p>Monticello, Photostat of A.L.S. 1p.and add.,end. Forwards letter from Mr. Mill.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref367" level="file">
+                    <did>
+                        <unittitle>Letter to Joseph Nicholson;</unittitle>
+                        <unitid>B J35.26</unitid>
+                        <unitdate>May 21, 1814</unitdate>
+                        <physdesc id="ref368" label="General Physical Description note">8" x 10"</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref369">
+                        <head>Scope and Contents note</head>
+                        <p>Monticello, A.L.S. 1p. and add., end. Comments on his cooperation in "atchieving... the republican ascendancy and rescuing our constitution from... those who were...monarchising it." Mentions Mr. McCulloch.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref370" level="file">
+                    <did>
+                        <unittitle>Letter to Th. Jefferson,Monticello;</unittitle>
+                        <unitid>B J35.x14</unitid>
+                        <unitdate>June 10, 1814</unitdate>
+                        <physdesc id="ref371" label="General Physical Description note">13 3/4" x 8"</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Leavitt, Dudley, 1772-1851</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref372">
+                        <head>Scope and Contents note</head>
+                        <p>Centre Harbor, N.H., A.L.S. 3p. and add., end. Transcribes a lunar table which he asks to be laid before the APS. (Enclosed originally with letter from T. Jefferson to Robert Patterson, June 29, 1814, which see) Presented by the Rev. James O. Patterson, Aug. 1955. Not found: 7/19/2010</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref373" level="file">
+                    <did>
+                        <unittitle>Letter to Robert Patterson,Phila.;</unittitle>
+                        <unitid>B J35.47</unitid>
+                        <unitdate>June 29, 1814</unitdate>
+                        <physdesc id="ref374" label="General Physical Description note">9 3/4" x 7 3/4"</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref375">
+                        <head>Scope and Contents note</head>
+                        <p>Monticello, A.L.S. 1p. and add., end. Asks that he forward the enclosed paper to the Philosophical Society (Dudley Leavit to T. Jefferson, June 10, 1814 - which see) Presented by the Rev. James O. Patterson, Aug. 1955.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref376" level="file">
+                    <did>
+                        <unittitle>Letter to Dr. William Thornton;</unittitle>
+                        <unitid>B J35.30</unitid>
+                        <unitdate>Feb. 9, 1815</unitdate>
+                        <physdesc id="ref377" label="General Physical Description note">8" x 10"</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref378">
+                        <head>Scope and Contents note</head>
+                        <p>Monticello, A.L.S. 1p. and add. Contains short note by Dr. Thornton. Water supply for Monticello. Crosbie's claim to Janes' loom. Small portion printed: Betts' Jefferson's garden book,p. 541.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref379" level="file">
+                    <did>
+                        <unittitle>Letter to R[obert] Patterson;</unittitle>
+                        <unitid>B J35.p</unitid>
+                        <unitdate>Oct. 13, 1815</unitdate>
+                        <physdesc id="ref380" label="General Physical Description note">9 3/4" x 7 3/4"</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref381">
+                        <head>Scope and Contents note</head>
+                        <p>Monticello, A.L.S. 1p. and portion of add. leaf Reverse contains draft (inc.) of Patterson's reply, Nov.22,1815. (see T. Jefferson. Letters to Robert Patterson, 1805-1824) Instructions for shipping the time piece. Comments on scientific instruments.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref382" level="file">
+                    <did>
+                        <unittitle>Letter to James Maese (sic), Phila.;</unittitle>
+                        <unitid>B J35.37</unitid>
+                        <unitdate>Oct. 15, 1815</unitdate>
+                        <physdesc id="ref383" label="General Physical Description note">9 3/4" x 7 3/4"</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref384">
+                        <head>Scope and Contents note</head>
+                        <p>Monticello, A.L.S. 1p. and add., end. Information about American medals; mentions Dr. Franklin. Bur. of Rolls. Ser.2,v.61,no.26.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref385" level="file">
+                    <did>
+                        <unittitle>Letter to Robert Patterson;</unittitle>
+                        <unitid>B J35.p</unitid>
+                        <unitdate>Dec. 22, 1815</unitdate>
+                        <physdesc id="ref386" label="General Physical Description note">9 3/4" x 7 3/4"</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref387">
+                        <head>Scope and Contents note</head>
+                        <p>Monticello, A.L.S. 1p. (see T. Jefferson. Letters to Robert Patterson, 1805-1824) Wrote to the President on behalf of Mr. Hassler. Scientific instruments.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref388" level="file">
+                    <did>
+                        <unittitle>Letter to Matthew Carey;</unittitle>
+                        <unitid>B J35.20</unitid>
+                        <unitdate>Oct. [Nov. ?] 11, 1816</unitdate>
+                        <physdesc id="ref389" label="General Physical Description note">6 3/4" x 9 3/4"</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref390">
+                        <head>Scope and Contents note</head>
+                        <p>Poplar Forest near Lynchburg, A.L. 1p. and add. (signature cut off, another supplied) Carey's Olive Branch. Rejection of British treaty without laying it before the Senate. Views on religion. Bur. of rolls, v.6,65 - Ser. 1,v.14, 101</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref391" level="file">
+                    <did>
+                        <unittitle>Letter to J.W. Eppes;</unittitle>
+                        <unitid>B J35.44</unitid>
+                        <unitdate>April 30, 1816</unitdate>
+                        <physdesc id="ref392" label="General Physical Description note">10" x 8"</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref393">
+                        <head>Scope and Contents note</head>
+                        <p>Monticello, A.L.S. 2p. Education of Francis [Eppes]. Prophecy of great intercourse with Spanish America.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref394" level="file">
+                    <did>
+                        <unittitle>Letter to John W. Eppes;</unittitle>
+                        <unitid>B J35.43</unitid>
+                        <unitdate>March 6, 1817</unitdate>
+                        <physdesc id="ref395" label="General Physical Description note">9 3/4" x 8", 2 1/2" x 5"</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref396">
+                        <head>Scope and Contents note</head>
+                        <p>Monticello, A.L.S. 2p. and scrap of address Sends dial and various shrubs, including cuttings of a snowberry bush and the sweet scented curran[t] which were brought from the Pacific ocean by Lewis and Clark.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref397" level="file">
+                    <did>
+                        <unittitle>Letter to [Thomas Jefferson];</unittitle>
+                        <unitid>B J35.x16</unitid>
+                        <unitdate>Sept. 16, 1817</unitdate>
+                        <physdesc id="ref398" label="General Physical Description note">8-1/2x6-3/4</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Cooper, Thomas, 1759-1839</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref399">
+                        <head>Scope and Contents note</head>
+                        <p>Philadelphia, Photo.of A.L.S. 4p. (see Jefferson papers.) His difficulties at UofP. Proposal for removing to Williamsburg on certain conditions, to teach medicine there.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref400" level="file">
+                    <did>
+                        <unittitle>Letter to John Vaughan,</unittitle>
+                        <unitid>B J35</unitid>
+                        <unitdate>February 18, 1818</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref401">
+                        <head>Scope and Contents note</head>
+                        <p>dated Monticello, mentions the death of Dr. [Caspar] Wistar; thinks the continuation of Wistar's weekly assemblages worthy of Mr. Vaughan's attention. A.L.S. 1p. Endorsement on back in Vaughan's (?) hand: 1818 - Jefferson on Death of Wistar; also in another hand: Thomas Jefferson to Jno Vaughan, Monticello, Purchased in February 1938 from Arthur Pforzheimer, 26 E. 56th St., New York City for $54.</p>
+                    </scopecontent>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Thomas Jefferson to [John] Vaughn, April 8, 1818. " ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/text:2558">
+                        <daodesc>
+                            <p>Thomas Jefferson to [John] Vaughn, April 8, 1818. , 1818 April 8 </p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref502" level="file">
+                    <did>
+                        <unittitle>Letter to [Mordecai Noah], Montecello, Repro.</unittitle>
+                        <unitid>B J35.79</unitid>
+                        <unitdate>28 May, 1818</unitdate>
+                        <physdesc id="ref503" label="General Physical Description note">8 1/2 x 11</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref504">
+                        <head>Scope and Contents note</head>
+                        <p>of ALS. 1p. On Judaism, prejudice, public opinion, and religious freedom. From Sotheby's Preview #66, 1986.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref402" level="file">
+                    <did>
+                        <unittitle>Letter to John Vaughan;</unittitle>
+                        <unitid>B J35.48</unitid>
+                        <unitdate>Oct. 6, 1818</unitdate>
+                        <physdesc id="ref403" label="General Physical Description note">9 3/4" x 8"</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1824</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref404">
+                        <head>Scope and Contents note</head>
+                        <p>Monticello, A.L.S. 1p. and add., end. Returns letter for Mr. Correa, as he and Dr. Cooper have set out for Philadelphia. Asks for further explanation in re instruments for the Astronomical committee and the danger of losing the privilege of the building [of the APS ?]. Presented by Mrs. Howard W. Lang, December 1955.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref405" level="file">
+                    <did>
+                        <unittitle>Letter to Robert Patterson;</unittitle>
+                        <unitid>B J35.p</unitid>
+                        <unitdate>Oct. 18, 1818</unitdate>
+                        <physdesc id="ref406" label="General Physical Description note">9 3/4" x 7 3/4"</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref407">
+                        <head>Scope and Contents note</head>
+                        <p>Monticello, A.L.S. "Copy" 1p. Transcribed on obverse of letter of Feb.2, 1819. (see T. Jefferson. Letters to Robert Patterson, 1805-1824) Sends telescope in care of Mr. Trist to be repaired in Philadelphia.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref408" level="file">
+                    <did>
+                        <unittitle>Letter to Robert Patterson;</unittitle>
+                        <unitid>B J35.p</unitid>
+                        <unitdate>Feb. 2, 1819</unitdate>
+                        <physdesc id="ref409" label="General Physical Description note">9 3/4" x 7 3/4"</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref410">
+                        <head>Scope and Contents note</head>
+                        <p>Monticello, A.L.S. 1p. and add. One same sheet with letter of Oct. 18,1818 (see T. Jefferson. Letters to Robert Patterson, 1805-1824) Transcribes copy of letter of Oct. 18, 1818 in re repair of telescope.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref499" level="file">
+                    <did>
+                        <unittitle>Letter to [Joseph-Leonard] Poirey;</unittitle>
+                        <unitid>B J35.78</unitid>
+                        <unitdate>March 8, 1819</unitdate>
+                        <physdesc id="ref500" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref501">
+                        <head>Scope and Contents note</head>
+                        <p>Monticello, Xerox of A.L.S. 1p. Concerns payment for services. Recounts delays in getting the act of Congress authorizing payment. Mentions Lafayette.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref411" level="file">
+                    <did>
+                        <unittitle>Letter to M. [John] Lavel;</unittitle>
+                        <unitid>B J35.22</unitid>
+                        <unitdate>June 4, 1819</unitdate>
+                        <physdesc id="ref412" label="General Physical Description note">7 3/4" x 9 1/2"</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref413">
+                        <head>Scope and Contents note</head>
+                        <p>Monticello, A.L.S. 1p. Relative to a volume of Grimm.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref414" level="file">
+                    <did>
+                        <unittitle>Letter to Robert Patterson;</unittitle>
+                        <unitid>B J35.p</unitid>
+                        <unitdate>July 4, 1819</unitdate>
+                        <physdesc id="ref415" label="General Physical Description note">10" x 8"</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref416">
+                        <head>Scope and Contents note</head>
+                        <p>Monticello, A.L. in 3d P. 1p. and add. (see T. Jefferson. Letters to Robert Patterson, 1805-1824) Sends letter and remittance to Mr. Davenport.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref417" level="file">
+                    <did>
+                        <unittitle>Letter to Thomas Jefferson, Monticello;</unittitle>
+                        <unitid>B J35.x19</unitid>
+                        <unitdate>Feb. 3, 1823</unitdate>
+                        <physdesc id="ref418" label="General Physical Description note">12-1/2x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Fabbroni, Leopoldo Pelli</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref419">
+                        <head>Scope and Contents note</head>
+                        <p>Florence, Italy, L. 2p. In French. Draft. (see Jefferson Papers.) Death of his father, Giovanni Fabroni.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref420" level="file">
+                    <did>
+                        <unittitle>Letter to Franklin Bache;</unittitle>
+                        <unitid>B J35.38</unitid>
+                        <unitdate>April 10, 1824</unitdate>
+                        <physdesc id="ref421" label="General Physical Description note">9 3/4" x 7 3/4"</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref422">
+                        <head>Scope and Contents note</head>
+                        <p>Monticello, A.L.S. 1p. and add., end. Relative to appointment as professor at the University [of Virginia].</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref423" level="file">
+                    <did>
+                        <unittitle>Letter to Franklin Bache;</unittitle>
+                        <unitid>B J35.39</unitid>
+                        <unitdate>May 17, 1824</unitdate>
+                        <physdesc id="ref424" label="General Physical Description note">9 3/4" x 7 3/4"</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref425">
+                        <head>Scope and Contents note</head>
+                        <p>Monticello, A.L.S. 1p. and add., end. Acknowledges volume of chemistry; comments on its applications to the utilities of life; makes favorable comparison with discoveries of illustrious ancestor [B. Franklin]. Draft of letter in L.C.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref426" level="file">
+                    <did>
+                        <unittitle>Letter to Robert Patterson;</unittitle>
+                        <unitid>B J35.p</unitid>
+                        <unitdate>May 17, 1824</unitdate>
+                        <physdesc id="ref427" label="General Physical Description note">9 3/4" x 7 3/4"</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref428">
+                        <head>Scope and Contents note</head>
+                        <p>Monticello, A.L.S. 1p. and add. (see T. Jefferson. Letters to Robert Patterson, 1805-1824) Enclosed letter and pamphlet from the Baron de Ferrusac to be referred to the APS.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref429" level="file">
+                    <did>
+                        <unittitle>Letter to Mr. [Thomas] Jefferson;</unittitle>
+                        <unitid>B J35.x13</unitid>
+                        <unitdate>May 30, 1824</unitdate>
+                        <physdesc id="ref430" label="General Physical Description note">9 3/4" x 8"</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Brown, Samuel, 1769-1830</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref431">
+                        <head>Scope and Contents note</head>
+                        <p>Phila., A.L.S. 1p. and add., end. Recommends Dr. [Franklin] Bache for the chair of Chemistry at the University of Virginia.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref432" level="file">
+                    <did>
+                        <unittitle>Letter to [David] Shriver, dated;</unittitle>
+                        <unitid>B J35.2</unitid>
+                        <unitdate>Dec. 21, 1824</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref433">
+                        <head>Scope and Contents note</head>
+                        <p>acknowledges receipt of pamphlet and map on the canal uniting the eastern and western waters. A.L. in 3d P. 1p. 0. Photostat. Original in possession of Henry Shriver. Presented by J. Alexis Shriver, see accompanying letter for further details.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref434" level="file">
+                    <did>
+                        <unittitle>Letter to the Rev. Mr. Hatch;</unittitle>
+                        <unitid>B J35.17</unitid>
+                        <unitdate>March 16, 1825</unitdate>
+                        <physdesc id="ref435" label="General Physical Description note">8" x 4 3/4"</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref436">
+                        <head>Scope and Contents note</head>
+                        <p>Monticello, A.N. in 3d P. 1p. and add. Relative to the course of study for his grandsons, Benjamin and Lewis.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref505" level="file">
+                    <did>
+                        <unittitle>Catalogue of engraved portraits of Thomas Jefferson...;</unittitle>
+                        <unitid>B J35ca</unitid>
+                        <unitdate>1889</unitdate>
+                        <physdesc id="ref506" label="General Physical Description note">6 1/2 x 4</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Campbell, William J., -1931</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref507">
+                        <head>Scope and Contents note</head>
+                        <p>2 vols. 3 ms. vols. ca.500p. Includes also one vol. "Points of Interest about Portraits of Thomas Jefferson." 1. Jefferson, Thomas, 1743-1826. I. Assoc.: Campbell, William J. II. Assoc.: Campbell, William M.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref437" level="file">
+                    <did>
+                        <unittitle>Commonplace book</unittitle>
+                        <unitid>B J35.g</unitid>
+                        <unitdate>March 20, 1943</unitdate>
+                        <physdesc id="ref438" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref439">
+                        <head>Scope and Contents note</head>
+                        <p>Typescript. 284p.and covering letter: G. Chinard to R.S. Morris; Unpublished part of: Chinard, ed. T. Jefferson. Commonplace book... Presented by R.S. Morris, as suggested in above letter, by G. Chinard; 1944.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref440" level="file">
+                    <did>
+                        <unittitle>[List of slaves at Poplar Forest and Bear Creek, giving clothing and blankets needed]</unittitle>
+                        <unitid>B J35.27</unitid>
+                        <unitdate>Undated</unitdate>
+                        <physdesc id="ref441" label="General Physical Description note">4 1/2" x 7 1/2"</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref442">
+                        <head>Scope and Contents note</head>
+                        <p>A.D. 4p. Not found: 7/19/2010</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref443" level="file">
+                    <did>
+                        <unittitle>[Commonplace book];</unittitle>
+                        <unitid>B J35.cL</unitid>
+                        <unitdate>Undated</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref444">
+                        <head>Scope and Contents note</head>
+                        <p>Photostat of A.D. pp.1-114, 137 [i.e. 228p.] F. From original in Library of Congress. Presented by Dr. Gilbert Chinard, 1946. Unlocated. See Subject File.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref445" level="file">
+                    <did>
+                        <unittitle>...Farm book...ed. by Edwin M. Betts.</unittitle>
+                        <unitid>B J35.f</unitid>
+                        <unitdate>Undated</unitdate>
+                        <physdesc id="ref446" label="General Physical Description note">11" x 8 1/2"</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref447">
+                        <head>Scope and Contents note</head>
+                        <p>Typescript 1381p. Original ms. of volume prepared by Dr. Betts and published as Vol. 35. of APS Memoirs. Presented by Dr. Betts, June 1954.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref448" level="file">
+                    <did>
+                        <unittitle>Letter to Mr. Rittenhouse;</unittitle>
+                        <unitid>B J35.28</unitid>
+                        <unitdate>Undated</unitdate>
+                        <physdesc id="ref449" label="General Physical Description note">7 3/4" x 5"</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref450">
+                        <head>Scope and Contents note</head>
+                        <p>Monday morng. A.L. in 3d P. 1p. and add. Sends certain books; asks for return of others.</p>
+                    </scopecontent>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.509.063 C76</num>
+                </titleproper>
+                <author>Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:16-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Conference on Science Manuscripts (1960 : Washington, D.C.) Records, 1958-1964.</unittitle>
+            <unitid>Mss.509.063 C76</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid593" type="Box" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>1.0 Linear feet</extent>
+                <extent>Ca. 1000 items. </extent>
+            </physdesc>
+            <unitdate normal="1958/1964" type="inclusive">1958-1964</unitdate>
+            <abstract id="ref1" label="Abstract">This collection contains correspondence, papers, accounts, etc., about a conference at Washington, D.C., 5-6 May 1960, to discuss the need, feasibility, and methods of collecting, preserving, and studying the papers of scientists. Nathan Reingold was chairman of the conference.</abstract>
+            <physdesc id="ref2" label="General Physical Description note">Circa 1000 items (1 linear ft.).</physdesc>
+            <origination label="creator">
+                <corpname rules="local" source="naf" role="Author (aut)">Conference on Science Manuscripts (1960 : Washington, D.C.).</corpname>
+            </origination>
+        </did>
+        <acqinfo id="ref4">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by Dr. Nathan Reingold, 1965 (2608ms).</p>
+        </acqinfo>
+        <odd id="ref3">
+            <head>General note</head>
+            <p>The papers read at this conference are printed in "Isis" 53/1 (1962).</p>
+        </odd>
+        <controlaccess>
+            <genreform source="lcsh">Accounts.</genreform>
+            <subject source="lcsh">Science -- Documentation.</subject>
+            <subject source="lcsh">Science -- Manuscripts.</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

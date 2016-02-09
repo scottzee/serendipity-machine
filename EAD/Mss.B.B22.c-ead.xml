@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.B22.c-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.B22.c</num>
+                </titleproper>
+                <author>Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:30-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Charles Nicoll Bancker family papers, 1733-1894</unittitle>
+            <unitid>Mss.B.B22.c</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid183" type="Box" label="Manuscripts">1-7</container>
+            <physdesc>
+                <extent>3.25 Linear feet</extent>
+                <extent>3.25 linear ft.; 2 volumes</extent>
+            </physdesc>
+            <unitdate normal="1733/1894" type="inclusive">1733-1894</unitdate>
+            <physdesc id="ref4" label="General Physical Description note">3.25 linear ft.; 2 volumes.</physdesc>
+            <abstract id="ref1" label="Abstract">In addition to correspondence, the collection contains various documents, such as a furniture inventory volume (30pp.); a Daybook, 1795-1800 (120pp.); and a very interesting journal (unidentified, but by one of the Banckers, and filed under "Description of a trip..."), from New York to Albany and back, between July 20-Aug. 15, 1793 (1 vol., 31 pp.). It contains detailed observations of the Hudson River and the towns along the way. C.N. Bancker was in business and trade prior to 1826, and in the insurance business after that date, so there is material relating to those topics in this collection. He owned a substantial library of the period, which was used by Charles Wilkes's Expedition after 1837 (see Reynell Coates to Bancker). This library, along with Bancker's notable scientific instrument collection, was sold after his death and there are published auction catalogues in the collection. There is much family correspondence from: Anne E. Bancker, Charles Gerard Bancker, Evert Bancker, Sarah U. Bancker, Violetta Bancker Talbot, Elizabeth Bancker Teackle, and John Teackle.</abstract>
+            <physloc id="ref7" label="Paging">LH-MV-C-1; LH-SB-Black Case-26 (OS)</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Adams, John, 1735-1826</persname>
+            </origination>
+            <origination label="creator">
+                <famname rules="aacr" source="local" role="Author (aut)">Bancker family </famname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Bancker, Anne E.</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="local" role="Correspondent (crp)">Bancker, Charles Gerard</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Bancker, Charles Nicoll, 1778-1869</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Bancker, Evert, b. 1734</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="local" role="Correspondent (crp)">Bancker, Sarah U.</persname>
+            </origination>
+            <origination label="creator">
+                <famname rules="aacr" source="local" role="Correspondent (crp)">Banks family</famname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Beasley, Frederick, 1777-1845</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Buchanan, James, 1791-1868</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Fillmore, Millard, 1800-1874</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Gallatin, Albert, 1761-1849</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Girard, Stephen, 1750-1831</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Hazard, Samuel, 1784-1870 </persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Henry, Joseph, 1797-1878</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Jefferson, Thomas, 1743-1826</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Lafayette, Marie Joseph Paul Yves, marquis de, 1757-1834</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Madison, James, 1751-1836</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Marshall, John G.,  (John George), 1789-1880</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">McIlvaine, H. M.</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Miller, Samuel, 1769-1850</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="local" role="Correspondent (crp)">Montgomery, James C.</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Montgomery, John T.,  (John Teackle), 1817</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Muhlenberg, William Augustus, 1796-1877</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Peale, Titian Ramsay, 1799-1885</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Pickering, Timothy, 1745-1829</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="naf" role="Correspondent (crp)">Poinsett, Joel Roberts, 1779-1851</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Scott, Winfield, 1786-1866</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Smith, Christopher</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Stevens, John, 1749-1838</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="local" role="Correspondent (crp)">Talbot, Violetta Bancker</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="local" role="Correspondent (crp)">Teackle, Elizabeth Bancker</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Teackle, John</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="local" role="Correspondent (crp)">Upshur, Abel Percy</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="local" role="Correspondent (crp)">Washington, Bushrod, 1762-1829</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref3">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Accessions, 1965-1976; gifts of Sarah B. Mortimer, 1966, and Frances Talbot, 1973. See in-house shelf list.</p>
+        </acqinfo>
+        <arrangement id="ref5">
+            <head>Arrangement note</head>
+            <p>This collection was assembled in three major accessions, one group, 1791-1864, containing letters to and from Bancker and other members of his family on education, business, and personal topics, with such correspondents as Samuel Hazard, H.M. McIlvaine, James C. Montgomery, and John T. Montgomery (2 boxes). The bulk of the collection was received after 1966 and is more diverse, with more correspondence both earlier and later among family members; and also with many "extraneous" letters from prominent Americans. Many of thse letters are addressed to Frederick Beasley of the University of Pennsylvania.</p>
+        </arrangement>
+        <bioghist id="ref2">
+            <head>Biographical/Historical note</head>
+            <p>Charles Nicoll Bancker was a merchant and financier.</p>
+        </bioghist>
+        <odd id="ref6">
+            <head>Early American History Note</head>
+            <p>This extensive collection (13 boxes) contains a range of correspondence, although the bulk of it relates to Charles Nicoll Bancker, a prominent Philadelphia businessman in the 1800s. The letters provide a picture of the family life and business career of Bancker from his earliest beginnings to his success later in life. Aside from the Charles Bancker portion of the collection, the holdings contain a wide variety of other documents, ranging from colonial era documents written in Dutch in Albany to letters from James Madison to Thomas Jefferson from the nineteenth century on religious education.</p>
+            <p>Charles Nicoll Bancker was a prominent Philadelphian. Born in New York, he came to Philadelphia in 1791 to try his hand at business in the capital city. By the 1820s, he had established himself as a successful businessman, founding and then serving as the president of the Franklin Fire Insurance company.</p>
+            <p>The Charles Nicoll Banker portion of the collection consists primarily of correspondence among family members. This portion of the collection begins in the 1790s, when Bancker was a young adult who had recently arrived in Philadelphia, and continues to the 1860s. The content of these letters often relate to family affairs, although there are smatterings of letters dealing with business matters. Bancker also corresponded with many prominent individuals and fellow merchants. While his papers are dominated by family correspondence, some of the later papers (after 1815) touch more directly on Bancker’s business affairs and include Bancker’s letters to and from significant figures in the nineteenth century Pennsylvania, such as Samuel Hazard and John Montgomery, often dealing with landed interests. Although Bancker was well-known for his library and interest in science, there is little discussion of that in this collection aside from an acknowledgment from Reynell Coates of the U.S. Exploring Expedition that thanked Bancker for access to his holdings.</p>
+            <p>Aside from the letter correspondence, the collection also includes Bancker’s Daybook from 1795-1801 and inventory of furniture. These two bound documents contain information on his business dealings and daily financial activities for that early period of his life in Philadelphia. There is also an account book from the 1760s of Evert Bancker, Charles’ father.</p>
+            <p>Included in the Bancker Collection are numerous letters (more than four boxes) to and from members of the extended Bancker family that range from the 1710s-1860s. Of particular note is an undated oration written by Sarah Upshur Teackle, Charles’ wife. In poetic verse, the four-page document advocates women’s liberation and probably dates to the early-nineteenth century before her marriage to Charles Bancker. There is also a series of letters from a colonist in Savannah who was a loyalist during the American Revolution and corresponded with Charles Nicoll. The records of the Bancker family from the 1730s, of which there is a fairly substantial amount, were written from Albany and are in Dutch. Some of these have typed translations. There are large collections from the Teackle, Beasley, and Talbot families, many that date to the nineteenth century. All three families were prominent in early American circles and were related to Bancker through marriage.</p>
+            <p>In addition, the collection has various other documents that do not directly relate to Charles Nicoll Bancker or his immediate family. There is a journal from 1793 that chronicles a trip from New York City to Albany up the Hudson River aboard a schooner and then an overland trip throughout upstate New York. The journal offers a vivid depiction of travel and life in the early republic. The author – perhaps a member of the Bancker family – makes numerous observations about the geography, economy, and people of the Hudson River Valley. The journal writer paid particular attention to merchant stores and visited as many as he could. There are two pencil sketches in the back of the journal.</p>
+            <p>There is an assortment of miscellaneous letters written by prominent Americans that the family acquired over time. Correspondence from this portion of the collection includes letters by John Adams, Thomas Jefferson, James Madison, Stephen Girard, Nicholas Biddle, Albert Gallatin, Andrew Jackson, Millard Fillmore, James Buchanan, and George McClellan. Most of these letters contain little content aside from a signature, but some have significant content. Albert Gallatin’s letter details his thoughts on currency, debt, and the government’s role in shaping fiscal policy. One of Thomas Jefferson’s letters discusses his agricultural pursuits, economic policies, and European diplomacy. A James Madison letter details the creation of the University of Virginia, including the role of religion on campus and in the curriculum.</p>
+            <p>There are also papers that relate to the family’s genealogy, which traces the Bancker family’s American roots to Dutch settlers in seventeenth-century Albany. This genealogical material was likely used by Howard James Banker to compile A Partial History and Genealogical Record of the Bancker or Banker Families (1909)</p>
+        </odd>
+        <controlaccess>
+            <subject source="leah">American Revolution</subject>
+            <subject source="leah">Antebellum Politics</subject>
+            <subject source="leah">Business and Skilled Trades</subject>
+            <genreform source="leah">Business Records and Accounts</genreform>
+            <genreform source="lcsh">Catalogs.</genreform>
+            <subject source="leah">Colonial Politics</subject>
+            <subject source="leah">Colony and State Specific History</subject>
+            <genreform source="lcsh">Daybooks.</genreform>
+            <subject source="leah">Early National Politics</subject>
+            <subject source="leah">Education</subject>
+            <genreform source="leah">Family Correspondence</genreform>
+            <genreform source="leah">General Correspondence</genreform>
+            <subject source="lcsh">Insurance agents -- United States.</subject>
+            <genreform source="lcsh">Inventories.</genreform>
+            <genreform source="lcsh">Journals (notebooks).</genreform>
+            <subject source="leah">Land and Speculation</subject>
+            <genreform source="leah">Literature</genreform>
+            <subject source="leah">Literature, Arts, and Culture</subject>
+            <genreform source="leah">Manuscript Essays</genreform>
+            <subject source="leah">Marriage and Family Life</subject>
+            <occupation source="lcsh">Merchants - United States</occupation>
+            <geogname source="lcsh">New York (State) -- Description and travel.</geogname>
+            <subject source="leah">Pennsylvania History</subject>
+            <subject source="leah">Philadelphia History</subject>
+            <genreform source="leah">Political Correspondence</genreform>
+            <occupation source="lcsh">Politicians -- United States.</occupation>
+            <genreform source="leah">Sketchbooks</genreform>
+            <subject source="leah">Social Life and Custom</subject>
+            <subject source="leah">Trade</subject>
+            <subject source="leah">Travel</subject>
+            <genreform source="leah">Travel Narratives and Journals</genreform>
+            <geogname source="lcsh">United States - Commerce - To 1865</geogname>
+            <geogname source="lcsh">United States - Social conditions - To 1865</geogname>
+            <subject source="leah">Women's History</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

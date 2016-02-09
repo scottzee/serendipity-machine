@@ -1,0 +1,2937 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Rec.254-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Rec.254</num>
+                    <num>Mss.Rec.254</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Brian Carpenter</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+                <date>11-2010</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T21:15-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Fieldwork in the Menominee language</unittitle>
+            <unitid>Mss.Rec.254</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="alg"/>
+            </langmaterial>
+            <physdesc>
+                <extent>11.0 Tape(s)</extent>
+            </physdesc>
+            <unitdate normal="1999/2000" type="inclusive">1999-2000</unitdate>
+            <physdesc id="ref2" label="General Physical Description note">11 sound cassettes (10 hr., 11 min.) : analog, 1 7/8 ips, stereo.</physdesc>
+            <physloc id="ref338" label="Paging">LH-B-32-5</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Kavanaugh, Rebecca P.</persname>
+            </origination>
+        </did>
+        <arrangement id="ref3">
+            <head>Arrangement note</head>
+            <p>Original tapes numbered 4-5, 9-13, 15-18.</p>
+        </arrangement>
+        <accessrestrict id="ref4">
+            <head>Conditions Governing Access</head>
+            <p>This material has access restrictions. Please consult a curator for details.</p>
+        </accessrestrict>
+        <acqinfo id="ref5">
+            <head>Immediate Source of Acquisition</head>
+            <p>Presented by Rebecca Kavanaugh. This material was recorded with the assistance of a Phillips Fund grant.</p>
+        </acqinfo>
+        <controlaccess>
+            <subject source="lcsh">Menominee Indians--Folklore</subject>
+            <subject source="lcsh">Menominee Indians--Social life and customs</subject>
+            <subject source="lcsh">Menominee language</subject>
+            <genreform source="ingest">Sound recordings</genreform>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref6" level="series">
+                <did>
+                    <unittitle>Audio recordings</unittitle>
+                </did>
+                <c02 id="ref7" level="file">
+                    <did>
+                        <unittitle>Introductions and conversation</unittitle>
+                        <unitid>04-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1999-07-13</unitdate>
+                        <physdesc id="ref8" label="General Physical Description note">
+                            <extent>00:03:26</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Floring, Marie</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Kavanaugh, Rebecca P.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Nelson, Lillian</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Skubitz, Sarah</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Zhuckkahosee, Tillie</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref10">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2692" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3203">
+                        <daodesc>
+                            <p>APSdigrec_2692</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Keshena (Wis.)</geogname>
+                        <subject source="lcsh">Menominee language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref11" level="file">
+                    <did>
+                        <unittitle>Story about two brothers</unittitle>
+                        <unitid>04-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1999-07-13</unitdate>
+                        <physdesc id="ref12" label="General Physical Description note">
+                            <extent>00:03:56</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Kavanaugh, Rebecca P.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Nelson, Lillian</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref14">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2693" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3197">
+                        <daodesc>
+                            <p>APSdigrec_2693</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Brothers--Folklore</subject>
+                        <geogname source="ingest">Keshena (Wis.)</geogname>
+                        <subject source="lcsh">Menominee Indians--Folklore</subject>
+                        <subject source="lcsh">Menominee language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref15" level="file">
+                    <did>
+                        <unittitle>Story about two dogs and a skunk</unittitle>
+                        <unitid>04-03</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1999-07-13</unitdate>
+                        <physdesc id="ref16" label="General Physical Description note">
+                            <extent>00:01:23</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Kavanaugh, Rebecca P.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Nelson, Lillian</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref18">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2694" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3200">
+                        <daodesc>
+                            <p>APSdigrec_2694</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Dogs--Folklore</subject>
+                        <geogname source="ingest">Keshena (Wis.)</geogname>
+                        <subject source="lcsh">Menominee Indians--Folklore</subject>
+                        <subject source="lcsh">Menominee language</subject>
+                        <subject source="ingest">Skunks--Folklore</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref19" level="file">
+                    <did>
+                        <unittitle>Words and phrases used around the house</unittitle>
+                        <unitid>04-04</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1999-07-13</unitdate>
+                        <physdesc id="ref20" label="General Physical Description note">
+                            <extent>00:02:59</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Floring, Marie</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Kavanaugh, Rebecca P.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Nelson, Lillian</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Skubitz, Sarah</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Zhuckkahosee, Tillie</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref22">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2695" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3214">
+                        <daodesc>
+                            <p>APSdigrec_2695</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Keshena (Wis.)</geogname>
+                        <subject source="lcsh">Menominee language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref23" level="file">
+                    <did>
+                        <unittitle>Self-introduction</unittitle>
+                        <unitid>04-05</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1999-07-13</unitdate>
+                        <physdesc id="ref24" label="General Physical Description note">
+                            <extent>00:03:17</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Kavanaugh, Rebecca P.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref25">
+                        <head>Scope and Contents note</head>
+                        <p>Speaker not identified on recording or accompanying documentation.</p>
+                    </scopecontent>
+                    <originalsloc id="ref27">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2696" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3210">
+                        <daodesc>
+                            <p>APSdigrec_2696</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Keshena (Wis.)</geogname>
+                        <subject source="lcsh">Menominee Indians</subject>
+                        <subject source="lcsh">Menominee language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref28" level="file">
+                    <did>
+                        <unittitle>Self-introduction and prayer</unittitle>
+                        <unitid>04-06</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1999-07-13</unitdate>
+                        <physdesc id="ref29" label="General Physical Description note">
+                            <extent>00:04:22</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Kavanaugh, Rebecca P.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref30">
+                        <head>Scope and Contents note</head>
+                        <p>Speaker not identified on recording or accompanying documentation.</p>
+                    </scopecontent>
+                    <originalsloc id="ref32">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2697" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3199">
+                        <daodesc>
+                            <p>APSdigrec_2697</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Keshena (Wis.)</geogname>
+                        <subject source="ingest">Menominee Indians--Religion</subject>
+                        <subject source="lcsh">Menominee language</subject>
+                        <subject source="ingest">Prayers</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref33" level="file">
+                    <did>
+                        <unittitle>Self-introduction and the Bullfrog Song</unittitle>
+                        <unitid>04-07</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1999-07-13</unitdate>
+                        <physdesc id="ref34" label="General Physical Description note">
+                            <extent>00:01:17</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Kavanaugh, Rebecca P.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref35">
+                        <head>Scope and Contents note</head>
+                        <p>Words to song given in Menominee, then English. Speaker not identified on recording or accompanying documentation.</p>
+                    </scopecontent>
+                    <originalsloc id="ref37">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2698" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3202">
+                        <daodesc>
+                            <p>APSdigrec_2698</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Keshena (Wis.)</geogname>
+                        <subject source="ingest">Menominee Indians--Music</subject>
+                        <subject source="lcsh">Menominee language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref38" level="file">
+                    <did>
+                        <unittitle>Self-introduction, Angela Loudbear</unittitle>
+                        <unitid>04-08</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1999-07-13</unitdate>
+                        <physdesc id="ref39" label="General Physical Description note">
+                            <extent>00:01:14</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Kavanaugh, Rebecca P.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Loudbear, Angela</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref40">
+                        <head>Scope and Contents note</head>
+                        <p>Primarily in Menominee.</p>
+                    </scopecontent>
+                    <originalsloc id="ref42">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2699" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3206">
+                        <daodesc>
+                            <p>APSdigrec_2699</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Keshena (Wis.)</geogname>
+                        <subject source="lcsh">Menominee Indians</subject>
+                        <subject source="lcsh">Menominee language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref43" level="file">
+                    <did>
+                        <unittitle>Story of the Partridge Dance</unittitle>
+                        <unitid>04-09</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1999-07-13</unitdate>
+                        <physdesc id="ref44" label="General Physical Description note">
+                            <extent>00:02:05</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Kavanaugh, Rebecca P.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Loudbear, Angela</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref45">
+                        <head>Scope and Contents note</head>
+                        <p>Story told in Menominee, then in English.</p>
+                    </scopecontent>
+                    <originalsloc id="ref47">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2700" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3213">
+                        <daodesc>
+                            <p>APSdigrec_2700</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Keshena (Wis.)</geogname>
+                        <subject source="lcsh">Menominee Indians--Folklore</subject>
+                        <subject source="lcsh">Menominee language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref48" level="file">
+                    <did>
+                        <unittitle>Acknowledgement of mentors</unittitle>
+                        <unitid>04-10</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1999-07-13</unitdate>
+                        <physdesc id="ref49" label="General Physical Description note">
+                            <extent>00:02:05</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Kavanaugh, Rebecca P.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref50">
+                        <head>Scope and Contents note</head>
+                        <p>Speakers not identified on recording or accompanying documentation.</p>
+                    </scopecontent>
+                    <originalsloc id="ref52">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2701" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3205">
+                        <daodesc>
+                            <p>APSdigrec_2701</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Keshena (Wis.)</geogname>
+                        <subject source="lcsh">Menominee language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref53" level="file">
+                    <did>
+                        <unittitle>Discussion of goals for recording session</unittitle>
+                        <unitid>04-11</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1999-08-02</unitdate>
+                        <physdesc id="ref54" label="General Physical Description note">
+                            <extent>00:07:59</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Floring, Marie</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Kavanaugh, Rebecca P.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Nelson, Lillian</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Skubitz, Sarah</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Zhuckkahosee, Tillie</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref56">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2702" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3215">
+                        <daodesc>
+                            <p>APSdigrec_2702</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Keshena (Wis.)</geogname>
+                        <subject source="lcsh">Menominee language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref57" level="file">
+                    <did>
+                        <unittitle>Story about learning and teaching Menominee</unittitle>
+                        <unitid>04-12</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1999-08-02</unitdate>
+                        <physdesc id="ref58" label="General Physical Description note">
+                            <extent>00:01:38</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Floring, Marie</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Kavanaugh, Rebecca P.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref59">
+                        <head>Scope and Contents note</head>
+                        <p>In Menominee only.</p>
+                    </scopecontent>
+                    <originalsloc id="ref61">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2703" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3212">
+                        <daodesc>
+                            <p>APSdigrec_2703</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Keshena (Wis.)</geogname>
+                        <subject source="lcsh">Menominee Indians</subject>
+                        <subject source="ingest">Menominee language--Study and teaching</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref62" level="file">
+                    <did>
+                        <unittitle>Story about learning and teaching Menominee</unittitle>
+                        <unitid>04-13</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1999-08-02</unitdate>
+                        <physdesc id="ref63" label="General Physical Description note">
+                            <extent>00:02:04</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Floring, Marie</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Kavanaugh, Rebecca P.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref64">
+                        <head>Scope and Contents note</head>
+                        <p>In English.</p>
+                    </scopecontent>
+                    <originalsloc id="ref66">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2704" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3195">
+                        <daodesc>
+                            <p>APSdigrec_2704</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Keshena (Wis.)</geogname>
+                        <subject source="lcsh">Menominee Indians</subject>
+                        <subject source="ingest">Menominee language--Study and teaching</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref67" level="file">
+                    <did>
+                        <unittitle>Self-introduction, Angela Loudbear</unittitle>
+                        <unitid>04-14</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1999-08-02</unitdate>
+                        <physdesc id="ref68" label="General Physical Description note">
+                            <extent>00:01:00</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Kavanaugh, Rebecca P.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Loudbear, Angela</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref69">
+                        <head>Scope and Contents note</head>
+                        <p>Given in Menominee, then in English.</p>
+                    </scopecontent>
+                    <originalsloc id="ref71">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2705" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3196">
+                        <daodesc>
+                            <p>APSdigrec_2705</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Keshena (Wis.)</geogname>
+                        <subject source="lcsh">Menominee Indians</subject>
+                        <subject source="lcsh">Menominee language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref72" level="file">
+                    <did>
+                        <unittitle>Story of the Partridge Dance</unittitle>
+                        <unitid>04-15</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1999-08-02</unitdate>
+                        <physdesc id="ref73" label="General Physical Description note">
+                            <extent>00:01:16</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Kavanaugh, Rebecca P.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Loudbear, Angela</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref74">
+                        <head>Scope and Contents note</head>
+                        <p>In Menominee only.</p>
+                    </scopecontent>
+                    <originalsloc id="ref76">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2706" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3207">
+                        <daodesc>
+                            <p>APSdigrec_2706</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Keshena (Wis.)</geogname>
+                        <subject source="lcsh">Menominee Indians--Folklore</subject>
+                        <subject source="lcsh">Menominee language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref77" level="file">
+                    <did>
+                        <unittitle>Story of the Partridge Dance</unittitle>
+                        <unitid>04-16</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1999-08-02</unitdate>
+                        <physdesc id="ref78" label="General Physical Description note">
+                            <extent>00:00:50</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Kavanaugh, Rebecca P.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Loudbear, Angela</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref79">
+                        <head>Scope and Contents note</head>
+                        <p>In English.</p>
+                    </scopecontent>
+                    <originalsloc id="ref81">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2707" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3211">
+                        <daodesc>
+                            <p>APSdigrec_2707</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Keshena (Wis.)</geogname>
+                        <subject source="lcsh">Menominee Indians--Folklore</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref82" level="file">
+                    <did>
+                        <unittitle>Prayer</unittitle>
+                        <unitid>04-17</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1999-08-02</unitdate>
+                        <physdesc id="ref83" label="General Physical Description note">
+                            <extent>00:03:43</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Kavanaugh, Rebecca P.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref84">
+                        <head>Scope and Contents note</head>
+                        <p>Prayer introduced in English and given in Menominee. Speaker not identified on recording or accompanying documentation.</p>
+                    </scopecontent>
+                    <originalsloc id="ref86">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2708" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3204">
+                        <daodesc>
+                            <p>APSdigrec_2708</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Keshena (Wis.)</geogname>
+                        <subject source="ingest">Menominee Indians--Religion</subject>
+                        <subject source="lcsh">Menominee language</subject>
+                        <subject source="ingest">Prayers</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref87" level="file">
+                    <did>
+                        <unittitle>Prayer</unittitle>
+                        <unitid>04-18</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1999-08-02</unitdate>
+                        <physdesc id="ref88" label="General Physical Description note">
+                            <extent>00:01:29</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Kavanaugh, Rebecca P.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref89">
+                        <head>Scope and Contents note</head>
+                        <p>Speakers not identified on recording or accompanying documentation.</p>
+                    </scopecontent>
+                    <originalsloc id="ref91">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2709" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3208">
+                        <daodesc>
+                            <p>APSdigrec_2709</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Keshena (Wis.)</geogname>
+                        <subject source="ingest">Menominee Indians--Religion</subject>
+                        <subject source="ingest">Prayers</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref92" level="file">
+                    <did>
+                        <unittitle>Discussion of Menominee stories just heard</unittitle>
+                        <unitid>04-19</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1999-08-02</unitdate>
+                        <physdesc id="ref93" label="General Physical Description note">
+                            <extent>00:01:49</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Floring, Marie</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Kavanaugh, Rebecca P.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Shawano, Lavina</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Skubitz, Sarah</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Snow, Margaret</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Zhuckkahosee, Tillie</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref94">
+                        <head>Scope and Contents note</head>
+                        <p>Conversation in English and Menominee.</p>
+                    </scopecontent>
+                    <originalsloc id="ref96">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2710" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3201">
+                        <daodesc>
+                            <p>APSdigrec_2710</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Keshena (Wis.)</geogname>
+                        <subject source="lcsh">Menominee Indians--Folklore</subject>
+                        <subject source="lcsh">Menominee language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref97" level="file">
+                    <did>
+                        <unittitle>Story from childhood about a forbidden lake and a fireball that came from a spring</unittitle>
+                        <unitid>04-20</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1999-08-02</unitdate>
+                        <physdesc id="ref98" label="General Physical Description note">
+                            <extent>00:06:04</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Kavanaugh, Rebecca P.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Shawano, Lavina</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref100">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2711" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3209">
+                        <daodesc>
+                            <p>APSdigrec_2711</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Keshena (Wis.)</geogname>
+                        <subject source="lcsh">Menominee Indians--Folklore</subject>
+                        <subject source="lcsh">Menominee language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref101" level="file">
+                    <did>
+                        <unittitle>Story from childhood about a forbidden lake and a fireball that came from a spring</unittitle>
+                        <unitid>04-21</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1999-08-02</unitdate>
+                        <physdesc id="ref102" label="General Physical Description note">
+                            <extent>00:03:17</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Kavanaugh, Rebecca P.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Shawano, Lavina</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref103">
+                        <head>Scope and Contents note</head>
+                        <p>In English only.</p>
+                    </scopecontent>
+                    <originalsloc id="ref105">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2712" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3216">
+                        <daodesc>
+                            <p>APSdigrec_2712</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Keshena (Wis.)</geogname>
+                        <subject source="lcsh">Menominee Indians--Folklore</subject>
+                        <subject source="lcsh">Menominee language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref106" level="file">
+                    <did>
+                        <unittitle>Story about drownings and the importance of respecting the land</unittitle>
+                        <unitid>05-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1999-08-02</unitdate>
+                        <physdesc id="ref107" label="General Physical Description note">
+                            <extent>00:03:41</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Kavanaugh, Rebecca P.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Shawano, Lavina</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref108">
+                        <head>Scope and Contents note</head>
+                        <p>In English only.</p>
+                    </scopecontent>
+                    <originalsloc id="ref110">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2713" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3198">
+                        <daodesc>
+                            <p>APSdigrec_2713</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Keshena (Wis.)</geogname>
+                        <subject source="lcsh">Menominee Indians--Folklore</subject>
+                        <subject source="lcsh">Menominee language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref111" level="file">
+                    <did>
+                        <unittitle>Discussion of stories just heard</unittitle>
+                        <unitid>05-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1999-08-02</unitdate>
+                        <physdesc id="ref112" label="General Physical Description note">
+                            <extent>00:02:26</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Kavanaugh, Rebecca P.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Shawano, Lavina</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Skubitz, Sarah</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Zhuckkahosee, Tillie</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref113">
+                        <head>Scope and Contents note</head>
+                        <p>Discussion primarily in Menominee.</p>
+                    </scopecontent>
+                    <originalsloc id="ref115">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2714" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3225">
+                        <daodesc>
+                            <p>APSdigrec_2714</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Keshena (Wis.)</geogname>
+                        <subject source="lcsh">Menominee Indians--Folklore</subject>
+                        <subject source="lcsh">Menominee language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref116" level="file">
+                    <did>
+                        <unittitle>Story about advice from elders to use tobacco in making prayers</unittitle>
+                        <unitid>05-03</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1999-08-02</unitdate>
+                        <physdesc id="ref117" label="General Physical Description note">
+                            <extent>00:04:40</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Kavanaugh, Rebecca P.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Snow, Margaret</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Zhuckkahosee, Tillie</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref118">
+                        <head>Scope and Contents note</head>
+                        <p>Two personal accounts given, one in English, one in Menominee, then English.</p>
+                    </scopecontent>
+                    <originalsloc id="ref120">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2715" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3219">
+                        <daodesc>
+                            <p>APSdigrec_2715</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Keshena (Wis.)</geogname>
+                        <subject source="ingest">Menominee Indians--Religion</subject>
+                        <subject source="lcsh">Menominee language</subject>
+                        <subject source="ingest">Prayers</subject>
+                        <subject source="ingest">Tobacco</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref121" level="file">
+                    <did>
+                        <unittitle>Story of Indians in the West using tobacco to protect their home from a storm</unittitle>
+                        <unitid>05-04</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1999-08-02</unitdate>
+                        <physdesc id="ref122" label="General Physical Description note">
+                            <extent>00:03:46</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Kavanaugh, Rebecca P.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Shawano, Lavina</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Skubitz, Sarah</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Zhuckkahosee, Tillie</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref123">
+                        <head>Scope and Contents note</head>
+                        <p>In Menominee only.</p>
+                    </scopecontent>
+                    <originalsloc id="ref125">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2716" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3218">
+                        <daodesc>
+                            <p>APSdigrec_2716</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Indians of North America--West (U.S.)</subject>
+                        <geogname source="ingest">Keshena (Wis.)</geogname>
+                        <subject source="ingest">Menominee Indians--Religion</subject>
+                        <subject source="lcsh">Menominee language</subject>
+                        <subject source="ingest">Prayers</subject>
+                        <subject source="ingest">Tobacco</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref126" level="file">
+                    <did>
+                        <unittitle>Stories and discussion of the use of tobacco and cedar poles to protect homes from storms</unittitle>
+                        <unitid>05-05</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1999-08-02</unitdate>
+                        <physdesc id="ref127" label="General Physical Description note">
+                            <extent>00:07:07</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Kavanaugh, Rebecca P.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Shawano, Lavina</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref129">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3360" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3232">
+                        <daodesc>
+                            <p>APSdigrec_3360</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Keshena (Wis.)</geogname>
+                        <subject source="ingest">Menominee Indians--Religion</subject>
+                        <subject source="lcsh">Menominee language</subject>
+                        <subject source="ingest">Prayers</subject>
+                        <subject source="ingest">Tobacco</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref130" level="file">
+                    <did>
+                        <unittitle>Self-introduction, Tillie Zhuckkahosee</unittitle>
+                        <unitid>05-06</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1999-08-02</unitdate>
+                        <physdesc id="ref131" label="General Physical Description note">
+                            <extent>00:01:16</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Kavanaugh, Rebecca P.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Zhuckkahosee, Tillie</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref133">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3361" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3223">
+                        <daodesc>
+                            <p>APSdigrec_3361</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Keshena (Wis.)</geogname>
+                        <subject source="lcsh">Menominee Indians</subject>
+                        <subject source="lcsh">Menominee language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref134" level="file">
+                    <did>
+                        <unittitle>Self-introduction, Lavina Shawano</unittitle>
+                        <unitid>05-07</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1999-08-02</unitdate>
+                        <physdesc id="ref135" label="General Physical Description note">
+                            <extent>00:01:10</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Kavanaugh, Rebecca P.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Shawano, Lavina</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref137">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3362" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3227">
+                        <daodesc>
+                            <p>APSdigrec_3362</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Keshena (Wis.)</geogname>
+                        <subject source="lcsh">Menominee Indians</subject>
+                        <subject source="lcsh">Menominee language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref138" level="file">
+                    <did>
+                        <unittitle>Self-introduction, Sarah Skubitz</unittitle>
+                        <unitid>05-08</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1999-08-02</unitdate>
+                        <physdesc id="ref139" label="General Physical Description note">
+                            <extent>00:01:06</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Kavanaugh, Rebecca P.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Skubitz, Sarah</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref141">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3363" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3229">
+                        <daodesc>
+                            <p>APSdigrec_3363</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Keshena (Wis.)</geogname>
+                        <subject source="lcsh">Menominee Indians</subject>
+                        <subject source="lcsh">Menominee language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref142" level="file">
+                    <did>
+                        <unittitle>Self-introduction, Marie Floring</unittitle>
+                        <unitid>05-09</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1999-08-02</unitdate>
+                        <physdesc id="ref143" label="General Physical Description note">
+                            <extent>00:01:29</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Floring, Marie</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Kavanaugh, Rebecca P.</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref145">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3364" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3235">
+                        <daodesc>
+                            <p>APSdigrec_3364</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Keshena (Wis.)</geogname>
+                        <subject source="lcsh">Menominee Indians</subject>
+                        <subject source="lcsh">Menominee language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref146" level="file">
+                    <did>
+                        <unittitle>Self-introduction, Margaret Snow</unittitle>
+                        <unitid>05-10</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1999-08-02</unitdate>
+                        <physdesc id="ref147" label="General Physical Description note">
+                            <extent>00:01:14</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Kavanaugh, Rebecca P.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Snow, Margaret</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref149">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3365" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3222">
+                        <daodesc>
+                            <p>APSdigrec_3365</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Keshena (Wis.)</geogname>
+                        <subject source="lcsh">Menominee Indians</subject>
+                        <subject source="lcsh">Menominee language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref150" level="file">
+                    <did>
+                        <unittitle>Discussion of compensation for recording sessions</unittitle>
+                        <unitid>05-11</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1999-08-02</unitdate>
+                        <physdesc id="ref151" label="General Physical Description note">
+                            <extent>00:03:11</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Kavanaugh, Rebecca P.</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref153">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3366" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3233">
+                        <daodesc>
+                            <p>APSdigrec_3366</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Keshena (Wis.)</geogname>
+                        <subject source="lcsh">Menominee language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref154" level="file">
+                    <did>
+                        <unittitle>Poem about a little chipmunk</unittitle>
+                        <unitid>05-12</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1999-08-02</unitdate>
+                        <physdesc id="ref155" label="General Physical Description note">
+                            <extent>00:01:20</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Floring, Marie</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Kavanaugh, Rebecca P.</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref157">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3367" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3230">
+                        <daodesc>
+                            <p>APSdigrec_3367</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Chipmunks--Folklore</subject>
+                        <geogname source="ingest">Keshena (Wis.)</geogname>
+                        <subject source="lcsh">Menominee language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref158" level="file">
+                    <did>
+                        <unittitle>Story about granddaughter and "This Little Piggy" nursery rhyme</unittitle>
+                        <unitid>05-13</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1999-08-02</unitdate>
+                        <physdesc id="ref159" label="General Physical Description note">
+                            <extent>00:01:41</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Kavanaugh, Rebecca P.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Snow, Margaret</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref160">
+                        <head>Scope and Contents note</head>
+                        <p>Introduced in English, then given in Menominee.</p>
+                    </scopecontent>
+                    <originalsloc id="ref162">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3368" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3224">
+                        <daodesc>
+                            <p>APSdigrec_3368</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Keshena (Wis.)</geogname>
+                        <subject source="lcsh">Menominee language</subject>
+                        <subject source="ingest">Nursery rhymes</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref163" level="file">
+                    <did>
+                        <unittitle>Story about granddaughter and "This Little Piggy" nursery rhyme</unittitle>
+                        <unitid>05-14</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1999-08-02</unitdate>
+                        <physdesc id="ref164" label="General Physical Description note">
+                            <extent>00:02:04</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Kavanaugh, Rebecca P.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Snow, Margaret</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref166">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3369" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3221">
+                        <daodesc>
+                            <p>APSdigrec_3369</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Keshena (Wis.)</geogname>
+                        <subject source="ingest">Nursery rhymes</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref167" level="file">
+                    <did>
+                        <unittitle>Translation of "Itsy Bitsy Spider" nursery rhyme, with discussion</unittitle>
+                        <unitid>05-15</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1999-08-02</unitdate>
+                        <physdesc id="ref168" label="General Physical Description note">
+                            <extent>00:02:21</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Floring, Marie</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Kavanaugh, Rebecca P.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Loudbear, Angela</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Shawano, Lavina</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Skubitz, Sarah</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Snow, Margaret</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Zhuckkahosee, Tillie</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref170">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3370" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3220">
+                        <daodesc>
+                            <p>APSdigrec_3370</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Keshena (Wis.)</geogname>
+                        <subject source="lcsh">Menominee language</subject>
+                        <subject source="ingest">Nursery rhymes</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref171" level="file">
+                    <did>
+                        <unittitle>Discussion of translation of "This Little Piggy"</unittitle>
+                        <unitid>05-16</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1999-08-02</unitdate>
+                        <physdesc id="ref172" label="General Physical Description note">
+                            <extent>00:07:20</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Floring, Marie</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Kavanaugh, Rebecca P.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Loudbear, Angela</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Shawano, Lavina</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Skubitz, Sarah</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Snow, Margaret</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Zhuckkahosee, Tillie</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref174">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3371" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3226">
+                        <daodesc>
+                            <p>APSdigrec_3371</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Keshena (Wis.)</geogname>
+                        <subject source="lcsh">Menominee language</subject>
+                        <subject source="ingest">Nursery rhymes</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref175" level="file">
+                    <did>
+                        <unittitle>Miscellaneous conversations in Menominee and English</unittitle>
+                        <unitid>09-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1999-10-12</unitdate>
+                        <physdesc id="ref176" label="General Physical Description note">
+                            <extent>00:03:29</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Floring, Marie</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Kavanaugh, Rebecca P.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Loudbear, Angela</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Shawano, Lavina</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Skubitz, Sarah</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Snow, Margaret</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Zhuckkahosee, Tillie</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref178">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3372" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3231">
+                        <daodesc>
+                            <p>APSdigrec_3372</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Keshena (Wis.)</geogname>
+                        <subject source="lcsh">Menominee language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref179" level="file">
+                    <did>
+                        <unittitle>Replay of previously recorded word list, with comments</unittitle>
+                        <unitid>09-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1999-11-08</unitdate>
+                        <physdesc id="ref180" label="General Physical Description note">
+                            <extent>00:07:02</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Floring, Marie</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Kavanaugh, Rebecca P.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Loudbear, Angela</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Nelson, Lillian</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Shawano, Lavina</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Skubitz, Sarah</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Snow, Margaret</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Zhuckkahosee, Tillie</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref181">
+                        <head>Scope and Contents note</head>
+                        <p>This recording session was also recorded on a separate machine in a different location. See Related Recording.</p>
+                    </scopecontent>
+                    <originalsloc id="ref183">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3373" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3234">
+                        <daodesc>
+                            <p>APSdigrec_3373</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Keshena (Wis.)</geogname>
+                        <subject source="lcsh">Menominee language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref184" level="file">
+                    <did>
+                        <unittitle>Discussion of food-related Menominee vocabulary words and their correct spelling</unittitle>
+                        <unitid>09-03</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1999-11-08</unitdate>
+                        <physdesc id="ref185" label="General Physical Description note">
+                            <extent>00:20:38</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Floring, Marie</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Kavanaugh, Rebecca P.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Loudbear, Angela</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Nelson, Lillian</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Shawano, Lavina</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Skubitz, Sarah</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Snow, Margaret</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Zhuckkahosee, Tillie</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref186">
+                        <head>Scope and Contents note</head>
+                        <p>This program was also recorded on a separate machine in a different location. See Related Recording. This program ends at the 21:23 mark of the corresponding program.</p>
+                    </scopecontent>
+                    <originalsloc id="ref188">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3374" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3228">
+                        <daodesc>
+                            <p>APSdigrec_3374</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Keshena (Wis.)</geogname>
+                        <subject source="lcsh">Menominee language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref189" level="file">
+                    <did>
+                        <unittitle>Discussion of food-related Menominee vocabulary words and their correct spelling</unittitle>
+                        <unitid>09-04</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1999-11-08</unitdate>
+                        <physdesc id="ref190" label="General Physical Description note">
+                            <extent>00:15:30</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Floring, Marie</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Kavanaugh, Rebecca P.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Loudbear, Angela</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Nelson, Lillian</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Shawano, Lavina</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Skubitz, Sarah</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Snow, Margaret</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Zhuckkahosee, Tillie</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref191">
+                        <head>Scope and Contents note</head>
+                        <p>This program was also recorded on a separate machine in a different location in two sections. See Related Recordings. Begins at 21:50 mark of first corresponding program. Interval from 2:19 to 2:38 covers the gap between the two corresponding programs.</p>
+                    </scopecontent>
+                    <originalsloc id="ref193">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3375" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3241">
+                        <daodesc>
+                            <p>APSdigrec_3375</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Keshena (Wis.)</geogname>
+                        <subject source="lcsh">Menominee language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref194" level="file">
+                    <did>
+                        <unittitle>Paradigms for "eat," with discussion of correct spelling</unittitle>
+                        <unitid>09-05</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1999-11-08</unitdate>
+                        <physdesc id="ref195" label="General Physical Description note">
+                            <extent>00:15:43</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Floring, Marie</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Kavanaugh, Rebecca P.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Loudbear, Angela</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Nelson, Lillian</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Shawano, Lavina</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Skubitz, Sarah</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Snow, Margaret</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Zhuckkahosee, Tillie</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref196">
+                        <head>Scope and Contents note</head>
+                        <p>This program was also recorded on a separate machine in a different location. See Related Recording. This program ends at the 15:52 mark of the corresponding recording.</p>
+                    </scopecontent>
+                    <originalsloc id="ref198">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3376" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3239">
+                        <daodesc>
+                            <p>APSdigrec_3376</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Keshena (Wis.)</geogname>
+                        <subject source="lcsh">Menominee language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref199" level="file">
+                    <did>
+                        <unittitle>Replay of previously recorded word list, with comments (Recorder B)</unittitle>
+                        <unitid>10-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1999-11-08</unitdate>
+                        <physdesc id="ref200" label="General Physical Description note">
+                            <extent>00:07:04</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Floring, Marie</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Kavanaugh, Rebecca P.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Loudbear, Angela</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Nelson, Lillian</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Shawano, Lavina</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Skubitz, Sarah</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Snow, Margaret</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Zhuckkahosee, Tillie</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref201">
+                        <head>Scope and Contents note</head>
+                        <p>This recording session was also recorded on a separate machine in a different location. See Related Recording.</p>
+                    </scopecontent>
+                    <originalsloc id="ref203">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3377" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3238">
+                        <daodesc>
+                            <p>APSdigrec_3377</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Keshena (Wis.)</geogname>
+                        <subject source="lcsh">Menominee language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref204" level="file">
+                    <did>
+                        <unittitle>Discussion of food-related Menominee vocabulary words and their correct spelling (Recorder B)</unittitle>
+                        <unitid>10-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1999-11-08</unitdate>
+                        <physdesc id="ref205" label="General Physical Description note">
+                            <extent>00:24:07</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Floring, Marie</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Kavanaugh, Rebecca P.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Loudbear, Angela</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Nelson, Lillian</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Shawano, Lavina</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Skubitz, Sarah</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Snow, Margaret</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Zhuckkahosee, Tillie</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref206">
+                        <head>Scope and Contents note</head>
+                        <p>This program was also recorded on a separate machine in a different location in two sections. See Related Recordings. Interval from 20:53 to 21:23 covers the gap between the two corresponding programs. This program ends at the 2:19 mark of the second corresponding recording.</p>
+                    </scopecontent>
+                    <originalsloc id="ref208">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3378" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3240">
+                        <daodesc>
+                            <p>APSdigrec_3378</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Keshena (Wis.)</geogname>
+                        <subject source="lcsh">Menominee language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref209" level="file">
+                    <did>
+                        <unittitle>Discussion of food-related Menominee vocabulary words and their correct spelling (Recorder B)</unittitle>
+                        <unitid>10-03</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1999-11-08</unitdate>
+                        <physdesc id="ref210" label="General Physical Description note">
+                            <extent>00:13:03</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Floring, Marie</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Kavanaugh, Rebecca P.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Loudbear, Angela</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Nelson, Lillian</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Shawano, Lavina</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Skubitz, Sarah</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Snow, Margaret</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Zhuckkahosee, Tillie</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref211">
+                        <head>Scope and Contents note</head>
+                        <p>This recording session was also recorded on a separate machine in a different location. This program begins 2:37 into corresponding program. See Related Recording.</p>
+                    </scopecontent>
+                    <originalsloc id="ref213">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3379" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3237">
+                        <daodesc>
+                            <p>APSdigrec_3379</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Keshena (Wis.)</geogname>
+                        <subject source="lcsh">Menominee language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref214" level="file">
+                    <did>
+                        <unittitle>Paradigms for "eat," with discussion of correct spelling (Recorder B)</unittitle>
+                        <unitid>10-04</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1999-11-08</unitdate>
+                        <physdesc id="ref215" label="General Physical Description note">
+                            <extent>00:18:12</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Floring, Marie</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Kavanaugh, Rebecca P.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Loudbear, Angela</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Nelson, Lillian</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Shawano, Lavina</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Skubitz, Sarah</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Snow, Margaret</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Zhuckkahosee, Tillie</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref216">
+                        <head>Scope and Contents note</head>
+                        <p>This program was also recorded on a separate machine in a different location in two sections. See Related Recordings. The interval from 15:52 to 16:32 covers the gap between the two corresponding programs. This program ends at the 1:35 mark of the second corresponding recording.</p>
+                    </scopecontent>
+                    <originalsloc id="ref218">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3380" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3246">
+                        <daodesc>
+                            <p>APSdigrec_3380</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Keshena (Wis.)</geogname>
+                        <subject source="lcsh">Menominee language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref219" level="file">
+                    <did>
+                        <unittitle>Paradigms for "eat," with discussion of correct spelling</unittitle>
+                        <unitid>11-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1999-11-08</unitdate>
+                        <physdesc id="ref220" label="General Physical Description note">
+                            <extent>00:16:25</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Floring, Marie</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Kavanaugh, Rebecca P.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Loudbear, Angela</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Nelson, Lillian</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Shawano, Lavina</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Skubitz, Sarah</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Snow, Margaret</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Zhuckkahosee, Tillie</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref221">
+                        <head>Scope and Contents note</head>
+                        <p>This program was also recorded on a separate machine in a different location in two sections. See Related Recordings. This program begins at the 16:32 mark of the first corresponding program. The interval from 1:35 to 2:01 covers the gap between the two corresponding programs. This program ends at the 14:31 mark of the second corresponding recording.</p>
+                    </scopecontent>
+                    <originalsloc id="ref223">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3381" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3244">
+                        <daodesc>
+                            <p>APSdigrec_3381</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Keshena (Wis.)</geogname>
+                        <subject source="lcsh">Menominee language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref224" level="file">
+                    <did>
+                        <unittitle>Words and phrases related to schools and education</unittitle>
+                        <unitid>11-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1999-12-06</unitdate>
+                        <physdesc id="ref225" label="General Physical Description note">
+                            <extent>00:14:44</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Floring, Marie</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Kavanaugh, Rebecca P.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Loudbear, Angela</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Nelson, Lillian</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Shawano, Lavina</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Skubitz, Sarah</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Snow, Margaret</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Zhuckkahosee, Tillie</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref227">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3382" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3243">
+                        <daodesc>
+                            <p>APSdigrec_3382</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Education</subject>
+                        <geogname source="ingest">Keshena (Wis.)</geogname>
+                        <subject source="lcsh">Menominee language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref228" level="file">
+                    <did>
+                        <unittitle>Names of places on the Menominee Reservation</unittitle>
+                        <unitid>11-03</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1999-12-06</unitdate>
+                        <physdesc id="ref229" label="General Physical Description note">
+                            <extent>00:05:54</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Kavanaugh, Rebecca P.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Loudbear, Angela</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref231">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3383" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3245">
+                        <daodesc>
+                            <p>APSdigrec_3383</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Keshena (Wis.)</geogname>
+                        <subject source="ingest">Menominee Indian Reservation (Wis.)</subject>
+                        <subject source="lcsh">Menominee language</subject>
+                        <subject source="ingest">Names, Geographical--Wisconsin</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref232" level="file">
+                    <did>
+                        <unittitle>Words for relatives, followed by elicitations of verbs</unittitle>
+                        <unitid>11-04</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1999-12-06</unitdate>
+                        <physdesc id="ref233" label="General Physical Description note">
+                            <extent>00:19:00</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Kavanaugh, Rebecca P.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Skubitz, Sarah</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref235">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3384" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3247">
+                        <daodesc>
+                            <p>APSdigrec_3384</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Keshena (Wis.)</geogname>
+                        <subject source="ingest">Menominee Indians--Kinship</subject>
+                        <subject source="lcsh">Menominee language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref236" level="file">
+                    <did>
+                        <unittitle>Paradigms for "eat," with discussion of correct spelling (Recorder B)</unittitle>
+                        <unitid>12-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1999-11-08</unitdate>
+                        <physdesc id="ref237" label="General Physical Description note">
+                            <extent>00:15:34</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Floring, Marie</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Kavanaugh, Rebecca P.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Loudbear, Angela</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Nelson, Lillian</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Shawano, Lavina</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Skubitz, Sarah</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Snow, Margaret</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Zhuckkahosee, Tillie</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref238">
+                        <head>Scope and Contents note</head>
+                        <p>This program was also recorded on a separate machine in a different location. See Related Recordings. This program begins at the 2:01 mark of the corresponding program. The interval from 14:31 to the end is not on the corresponding program.</p>
+                    </scopecontent>
+                    <originalsloc id="ref240">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3385" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3252">
+                        <daodesc>
+                            <p>APSdigrec_3385</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Keshena (Wis.)</geogname>
+                        <subject source="lcsh">Menominee language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref241" level="file">
+                    <did>
+                        <unittitle>Reading and discussion of Menominee names in Leonard Bloomfield's "Menomini Texts"</unittitle>
+                        <unitid>12-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>2000-03-15</unitdate>
+                        <physdesc id="ref242" label="General Physical Description note">
+                            <extent>00:07:38</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Floring, Marie</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Kavanaugh, Rebecca P.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Skubitz, Sarah</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Zhuckkahosee, Tillie</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref244">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3386" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3254">
+                        <daodesc>
+                            <p>APSdigrec_3386</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Bloomfield, Leonard, 1887-1949</subject>
+                        <geogname source="ingest">Keshena (Wis.)</geogname>
+                        <subject source="lcsh">Menominee language</subject>
+                        <subject source="ingest">Names, Menominee</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref245" level="file">
+                    <did>
+                        <unittitle>Reading and discussion of Leonard Bloomfield's commentary in "Menomini Texts"</unittitle>
+                        <unitid>12-03</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>2000-03-15</unitdate>
+                        <physdesc id="ref246" label="General Physical Description note">
+                            <extent>00:06:20</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Floring, Marie</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Kavanaugh, Rebecca P.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Skubitz, Sarah</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Zhuckkahosee, Tillie</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref248">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3387" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3251">
+                        <daodesc>
+                            <p>APSdigrec_3387</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Bloomfield, Leonard, 1887-1949</subject>
+                        <geogname source="ingest">Keshena (Wis.)</geogname>
+                        <subject source="lcsh">Menominee Indians</subject>
+                        <subject source="lcsh">Menominee language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref249" level="file">
+                    <did>
+                        <unittitle>Discussion of stories in Bloomfield's "Texts," past researchers, and Hell-Diver</unittitle>
+                        <unitid>12-04</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>2000-03-15</unitdate>
+                        <physdesc id="ref250" label="General Physical Description note">
+                            <extent>00:19:10</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Floring, Marie</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Kavanaugh, Rebecca P.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Skubitz, Sarah</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Snow, Margaret</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Zhuckkahosee, Tillie</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref252">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3388" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3250">
+                        <daodesc>
+                            <p>APSdigrec_3388</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Bloomfield, Leonard, 1887-1949</subject>
+                        <subject source="ingest">Horned grebe</subject>
+                        <geogname source="ingest">Keshena (Wis.)</geogname>
+                        <subject source="lcsh">Menominee language</subject>
+                        <subject source="ingest">Names, Menominee</subject>
+                        <subject source="ingest">Skinner, Alanson, 1886-1925</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref253" level="file">
+                    <did>
+                        <unittitle>Reading of verb forms from Bloomfield's "Menomini Texts"</unittitle>
+                        <unitid>12-05</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>2000-03-15</unitdate>
+                        <physdesc id="ref254" label="General Physical Description note">
+                            <extent>00:15:05</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Floring, Marie</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Kavanaugh, Rebecca P.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Skubitz, Sarah</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Snow, Margaret</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Zhuckkahosee, Tillie</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref256">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3389" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3249">
+                        <daodesc>
+                            <p>APSdigrec_3389</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Keshena (Wis.)</geogname>
+                        <subject source="lcsh">Menominee language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref257" level="file">
+                    <did>
+                        <unittitle>Elicitation of Menominee sentences</unittitle>
+                        <unitid>13-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>2000-03-01</unitdate>
+                        <physdesc id="ref258" label="General Physical Description note">
+                            <extent>00:22:15</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Kavanaugh, Rebecca P.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Loudbear, Angela</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Skubitz, Sarah</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref260">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3390" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3253">
+                        <daodesc>
+                            <p>APSdigrec_3390</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Keshena (Wis.)</geogname>
+                        <subject source="lcsh">Menominee language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref261" level="file">
+                    <did>
+                        <unittitle>Story about a fox</unittitle>
+                        <unitid>13-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>2000-03-01</unitdate>
+                        <physdesc id="ref262" label="General Physical Description note">
+                            <extent>00:10:01</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Kavanaugh, Rebecca P.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Skubitz, Sarah</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref264">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3391" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3262">
+                        <daodesc>
+                            <p>APSdigrec_3391</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Foxes--Folklore</subject>
+                        <geogname source="ingest">Keshena (Wis.)</geogname>
+                        <subject source="lcsh">Menominee Indians--Folklore</subject>
+                        <subject source="lcsh">Menominee language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref265" level="file">
+                    <did>
+                        <unittitle>Story of Me'napus roasting ducks</unittitle>
+                        <unitid>13-03</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>2000-03-01</unitdate>
+                        <physdesc id="ref266" label="General Physical Description note">
+                            <extent>00:02:30</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Kavanaugh, Rebecca P.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Skubitz, Sarah</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref268">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3392" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3260">
+                        <daodesc>
+                            <p>APSdigrec_3392</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Keshena (Wis.)</geogname>
+                        <subject source="lcsh">Menominee Indians--Folklore</subject>
+                        <subject source="lcsh">Menominee language</subject>
+                        <subject source="ingest">Nanabush (Legendary character)--Legends</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref269" level="file">
+                    <did>
+                        <unittitle>Story of the white birch</unittitle>
+                        <unitid>13-04</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>2000-03-01</unitdate>
+                        <physdesc id="ref270" label="General Physical Description note">
+                            <extent>00:02:18</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Kavanaugh, Rebecca P.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Skubitz, Sarah</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref272">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3393" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3264">
+                        <daodesc>
+                            <p>APSdigrec_3393</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Birch--Folklore</subject>
+                        <geogname source="ingest">Keshena (Wis.)</geogname>
+                        <subject source="lcsh">Menominee Indians--Folklore</subject>
+                        <subject source="lcsh">Menominee language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref273" level="file">
+                    <did>
+                        <unittitle>Story of a man who could spit beads</unittitle>
+                        <unitid>13-05</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>2000-03-01</unitdate>
+                        <physdesc id="ref274" label="General Physical Description note">
+                            <extent>00:02:43</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Kavanaugh, Rebecca P.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Skubitz, Sarah</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref276">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3394" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3257">
+                        <daodesc>
+                            <p>APSdigrec_3394</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Keshena (Wis.)</geogname>
+                        <subject source="lcsh">Menominee Indians--Folklore</subject>
+                        <subject source="lcsh">Menominee language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref277" level="file">
+                    <did>
+                        <unittitle>Discussion why some stories can only be told in the wintertime</unittitle>
+                        <unitid>13-06</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>2000-03-01</unitdate>
+                        <physdesc id="ref278" label="General Physical Description note">
+                            <extent>00:02:43</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Kavanaugh, Rebecca P.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref279">
+                        <head>Scope and Contents note</head>
+                        <p>Primary speaker not identified.</p>
+                    </scopecontent>
+                    <originalsloc id="ref281">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3395" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3259">
+                        <daodesc>
+                            <p>APSdigrec_3395</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Keshena (Wis.)</geogname>
+                        <subject source="lcsh">Menominee Indians--Folklore</subject>
+                        <subject source="lcsh">Menominee language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref282" level="file">
+                    <did>
+                        <unittitle>Discussion of Me'napus</unittitle>
+                        <unitid>13-07</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>2000-03-01</unitdate>
+                        <physdesc id="ref283" label="General Physical Description note">
+                            <extent>00:01:09</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Kavanaugh, Rebecca P.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref284">
+                        <head>Scope and Contents note</head>
+                        <p>Primary speaker not identified.</p>
+                    </scopecontent>
+                    <originalsloc id="ref286">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3396" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3265">
+                        <daodesc>
+                            <p>APSdigrec_3396</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Keshena (Wis.)</geogname>
+                        <subject source="lcsh">Menominee Indians--Folklore</subject>
+                        <subject source="lcsh">Menominee language</subject>
+                        <subject source="ingest">Nanabush (Legendary character)</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref287" level="file">
+                    <did>
+                        <unittitle>Story of a girl who wanted to go to a dance</unittitle>
+                        <unitid>13-08</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>2000-03-01</unitdate>
+                        <physdesc id="ref288" label="General Physical Description note">
+                            <extent>00:03:50</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Kavanaugh, Rebecca P.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Skubitz, Sarah</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref290">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3397" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3258">
+                        <daodesc>
+                            <p>APSdigrec_3397</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Devil--Folklore</subject>
+                        <geogname source="ingest">Keshena (Wis.)</geogname>
+                        <subject source="lcsh">Menominee Indians--Folklore</subject>
+                        <subject source="lcsh">Menominee language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref291" level="file">
+                    <did>
+                        <unittitle>Story of a woman who didn't teach her child good behavior</unittitle>
+                        <unitid>13-09</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>2000-03-01</unitdate>
+                        <physdesc id="ref292" label="General Physical Description note">
+                            <extent>00:03:09</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Kavanaugh, Rebecca P.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Skubitz, Sarah</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref294">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3398" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3256">
+                        <daodesc>
+                            <p>APSdigrec_3398</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Discipline of children</subject>
+                        <geogname source="ingest">Keshena (Wis.)</geogname>
+                        <subject source="lcsh">Menominee Indians--Folklore</subject>
+                        <subject source="lcsh">Menominee language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref295" level="file">
+                    <did>
+                        <unittitle>Story of Me'napus</unittitle>
+                        <unitid>15-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>2000-02-23</unitdate>
+                        <physdesc id="ref296" label="General Physical Description note">
+                            <extent>00:08:05</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Floring, Marie</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Kavanaugh, Rebecca P.</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref298">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3399" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3263">
+                        <daodesc>
+                            <p>APSdigrec_3399</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Menominee Indians--Folklore</subject>
+                        <subject source="lcsh">Menominee language</subject>
+                        <subject source="ingest">Nanabush (Legendary character)--Legends</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref299" level="file">
+                    <did>
+                        <unittitle>Discussion of stories, John Satterlee, family histories, and miscellaneous topics</unittitle>
+                        <unitid>15-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>2000-03-15</unitdate>
+                        <physdesc id="ref300" label="General Physical Description note">
+                            <extent>00:20:32</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Floring, Marie</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Kavanaugh, Rebecca P.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Skubitz, Sarah</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Zhuckkahosee, Tillie</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref302">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3400" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3261">
+                        <daodesc>
+                            <p>APSdigrec_3400</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Keshena (Wis.)</geogname>
+                        <subject source="lcsh">Menominee Indians</subject>
+                        <subject source="lcsh">Menominee Indians--History</subject>
+                        <subject source="lcsh">Menominee language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref303" level="file">
+                    <did>
+                        <unittitle>Group discussion of commonly-used verbs and phrases</unittitle>
+                        <unitid>15-03</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>2000-04-03</unitdate>
+                        <physdesc id="ref304" label="General Physical Description note">
+                            <extent>00:31:08</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Floring, Marie</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Kavanaugh, Rebecca P.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Loudbear, Angela</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Skubitz, Sarah</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Zhuckkahosee, Tillie</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref305">
+                        <head>Scope and Contents note</head>
+                        <p>A multi-part, day-long group workshop session to write down commonly-used Menominee verbs, phrases, and other vocabulary for the purposes of creating teaching material. Some of the participants are not identifiable.</p>
+                    </scopecontent>
+                    <originalsloc id="ref307">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3401" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3268">
+                        <daodesc>
+                            <p>APSdigrec_3401</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Keshena (Wis.)</geogname>
+                        <subject source="ingest">Menominee language--Study and teaching</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref308" level="file">
+                    <did>
+                        <unittitle>Group discussion of commonly-used verbs and phrases</unittitle>
+                        <unitid>16-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>2000-04-03</unitdate>
+                        <physdesc id="ref309" label="General Physical Description note">
+                            <extent>00:29:40</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Floring, Marie</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Kavanaugh, Rebecca P.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Loudbear, Angela</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Skubitz, Sarah</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Zhuckkahosee, Tillie</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref310">
+                        <head>Scope and Contents note</head>
+                        <p>A multi-part, day-long group workshop session to write down commonly-used Menominee verbs, phrases, and other vocabulary for the purposes of creating teaching material. Some of the participants are not identifiable.</p>
+                    </scopecontent>
+                    <originalsloc id="ref312">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3402" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3269">
+                        <daodesc>
+                            <p>APSdigrec_3402</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Keshena (Wis.)</geogname>
+                        <subject source="ingest">Menominee language--Study and teaching</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref313" level="file">
+                    <did>
+                        <unittitle>Group discussion of commonly-used verbs and phrases</unittitle>
+                        <unitid>16-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>2000-04-03</unitdate>
+                        <physdesc id="ref314" label="General Physical Description note">
+                            <extent>00:12:24</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Floring, Marie</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Kavanaugh, Rebecca P.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Loudbear, Angela</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Skubitz, Sarah</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Zhuckkahosee, Tillie</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref315">
+                        <head>Scope and Contents note</head>
+                        <p>A multi-part, day-long group workshop session to write down commonly-used Menominee verbs, phrases, and other vocabulary for the purposes of creating teaching material. Some of the participants are not identifiable.</p>
+                    </scopecontent>
+                    <originalsloc id="ref317">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3403" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3267">
+                        <daodesc>
+                            <p>APSdigrec_3403</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Keshena (Wis.)</geogname>
+                        <subject source="ingest">Menominee language--Study and teaching</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref318" level="file">
+                    <did>
+                        <unittitle>Group discussion of commonly-used verbs and phrases</unittitle>
+                        <unitid>16-03</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>2000-04-03</unitdate>
+                        <physdesc id="ref319" label="General Physical Description note">
+                            <extent>00:14:55</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Floring, Marie</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Kavanaugh, Rebecca P.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Loudbear, Angela</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Skubitz, Sarah</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Zhuckkahosee, Tillie</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref320">
+                        <head>Scope and Contents note</head>
+                        <p>A multi-part, day-long group workshop session to write down commonly-used Menominee verbs, phrases, and other vocabulary for the purposes of creating teaching material. Some of the participants are not identifiable.</p>
+                    </scopecontent>
+                    <originalsloc id="ref322">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3404" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3271">
+                        <daodesc>
+                            <p>APSdigrec_3404</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Keshena (Wis.)</geogname>
+                        <subject source="ingest">Menominee language--Study and teaching</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref323" level="file">
+                    <did>
+                        <unittitle>Group discussion of commonly-used verbs and phrases</unittitle>
+                        <unitid>17-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>2000-04-03</unitdate>
+                        <physdesc id="ref324" label="General Physical Description note">
+                            <extent>00:34:53</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Floring, Marie</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Kavanaugh, Rebecca P.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Skubitz, Sarah</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Zhuckkahosee, Tillie</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref325">
+                        <head>Scope and Contents note</head>
+                        <p>A multi-part, day-long group workshop session to write down commonly-used Menominee verbs, phrases, and other vocabulary for the purposes of creating teaching material. Some of the participants are not identifiable.</p>
+                    </scopecontent>
+                    <originalsloc id="ref327">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3405" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3272">
+                        <daodesc>
+                            <p>APSdigrec_3405</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Keshena (Wis.)</geogname>
+                        <subject source="ingest">Menominee language--Study and teaching</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref328" level="file">
+                    <did>
+                        <unittitle>Group discussion of commonly-used verbs and phrases</unittitle>
+                        <unitid>17-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>2000-04-03</unitdate>
+                        <physdesc id="ref329" label="General Physical Description note">
+                            <extent>00:33:52</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Floring, Marie</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Kavanaugh, Rebecca P.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Skubitz, Sarah</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Snow, Margaret</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Zhuckkahosee, Tillie</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref330">
+                        <head>Scope and Contents note</head>
+                        <p>A multi-part, day-long group workshop session to write down commonly-used Menominee verbs, phrases, and other vocabulary for the purposes of creating teaching material. From 15:08 to 20:00 there is a discussion of local politics and the role of teaching Menominee language and culture. Some of the participants are not identifiable.</p>
+                    </scopecontent>
+                    <originalsloc id="ref332">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3406" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3274">
+                        <daodesc>
+                            <p>APSdigrec_3406</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Keshena (Wis.)</geogname>
+                        <subject source="ingest">Menominee Indians--Education</subject>
+                        <subject source="ingest">Menominee language--Study and teaching</subject>
+                        <subject source="ingest">Wisconsin--Politics and government</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref333" level="file">
+                    <did>
+                        <unittitle>Group discussion of commonly-used verbs and phrases</unittitle>
+                        <unitid>18-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>2000-04-03</unitdate>
+                        <physdesc id="ref334" label="General Physical Description note">
+                            <extent>00:28:11</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Floring, Marie</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Kavanaugh, Rebecca P.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Skubitz, Sarah</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Snow, Margaret</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Zhuckkahosee, Tillie</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref335">
+                        <head>Scope and Contents note</head>
+                        <p>A multi-part, day-long group workshop session to write down commonly-used Menominee verbs, phrases, and other vocabulary for the purposes of creating teaching material. Some of the participants are not identifiable.</p>
+                    </scopecontent>
+                    <originalsloc id="ref337">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3407" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3275">
+                        <daodesc>
+                            <p>APSdigrec_3407</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Keshena (Wis.)</geogname>
+                        <subject source="ingest">Menominee language--Study and teaching</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

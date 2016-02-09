@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.H912-ead.xml">PUBLIC "-//American Philosophical Society//TEXT (US::PPAmP::B H192::George Hunter Journals)//EN" "hunter.xml"</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>George Hunter Journals
+                    <date type="span">1796-1809</date>
+                    <num>Mss.B.H912</num>
+                </titleproper>
+                <author>Finding aid prepared by rsc</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+                <date>2003</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T19:33-0400</date>
+            </creation>
+            <langusage>ENG</langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>George Hunter Journals</unittitle>
+            <unitid>Mss.B.H912</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>0.25 Linear feet</extent>
+            </physdesc>
+            <unitdate normal="1796/1809" type="inclusive">1796-1809</unitdate>
+            <abstract id="ref1" label="Abstract">Though less well known than their peers Lewis and Clark, William Dunbar and George Hunter played an important role in the early scientific exploration of the Louisiana Purchase. While the original goal of organizing a southern counterpart to the Corps of Discovery proved overly ambitious, Dunbar and Hunter provided important geographic information for future explorations and gave the first scientific description of the Hot Springs of Arkansas and Ouachita Mountains. 
+                <lb/>The four surviving journals of George Hunter provide engaging accounts of travel in the Ohio and Mississippi Valley in 1796, 1802, and 1809, and include the most interesting record of the expedition to the Hot Springs of Arkansas in 1804-1805, complete with his detailed notes on natural history and meteorology. The volumes also contain various references to relations with the Delaware, Chickasaw, Choctaw, Cherokee, and Osage Indians. The APS owns a contemporary copy of Hunter's journal (
+                <extref ns2:actuate="onLoad" ns2:show="new" ns2:href="http://www.amphilsoc.org/mole/view?docId=ead/Mss.917.6.Ex7-ead.xml">"Journal up the Red and Washita Rivers with William Dunbar"; Mss.917.6.Ex7</extref>), from which extracts were printed in Thomas Jefferson, 
+                <emph render="italic">Message... Communicating Discoveries Made in Exploring the Missouri</emph> (New York, 1806), and which is described by Isaac J. Cox, "An Early Explorer of the Louisiana Purchase," APS 
+                <emph render="italic">Library Bulletin</emph> 1946: 73. The journals were edited by John F. McDermott and published in APS 
+                <emph render="italic">Transactions</emph> 53 (1963).</abstract>
+            <physloc id="ref41" label="Paging">LH-MV-E-14</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Hunter, George, 1755-1824</persname>
+            </origination>
+        </did>
+        <bibliography id="ref20">
+            <head>Bibliography</head>
+        </bibliography>
+        <odd id="ref40">
+            <head>Early American History Note</head>
+            <p>This rich four volume collection contains the travel journals of George Hunter kept during his various expeditions in the early republic. The journals provide intricate details on travel, life in the west, and natural history in very readable prose.</p>
+            <p>Hunter traveled to Kentucky and the Illinois Country from Philadelphia in 1796 and 1802. He kept a journal for both trips. He recorded his daily activities, meetings and visits to important trading centers, and observations about the territory, including commentary on international rivalries and Indian relations. The first journal was kept by George Sr. on a scouting trip to through the territory that took him as far as the Mississippi. The second one was kept by George Sr. and Jr.. George Hunter Sr. traveled throughout Louisiana as well in 1804-1805 and 1809 after the Louisiana Purchase, keeping similar journals.</p>
+        </odd>
+        <altformavail id="ref19">
+            <head>Existence and Location of Copies note</head>
+            <p>The journals are available on microfilm (Film 200).</p>
+        </altformavail>
+        <otherfindaid id="ref17">
+            <head>Other Finding Aids note</head>
+            <p>The journals are also indexed in the online 
+                <extref ns2:href="http://www.amphilsoc.org/natam/search">Daythal Kendall Guide to Native American Collections at the American Philosophical Society</extref> (Item numbers 93 and 473).</p>
+        </otherfindaid>
+        <relatedmaterial id="ref15">
+            <head>Related Archival Materials note</head>
+            <p>A contemporary copy of Hunter's Red River journal is included as 
+                <extref ns2:actuate="onLoad" ns2:show="new" ns2:href="http://www.amphilsoc.org/mole/view?docId=ead/Mss.917.6.Ex7-ead.xml">"Journal up the Red and Washita Rivers with William Dunbar"</extref> (Mss.917.6.Ex7).</p>
+            <p>The APS has copies of 
+                <extref ns2:href="http://www.amphilsoc.org/mole/view?docId=ead/Mss.917.7.d91-ead.xml">William Dunbar's "Journal of a voyage... to the Mouth of the Red River" and "Journal of a Geometrical Survey to the Hot Springs"</extref> (Mss.917.7.D91).</p>
+            <p>William Dunbar's papers are housed in the Mississippi Department of Archives and History, Jackson, Mississippi. Additional Dunbar Papers, including his journal of the expedition to the Hot Springs, is housed in the special collections department of the Ouachita Baptist University library.</p>
+        </relatedmaterial>
+        <processinfo id="ref13">
+            <head>Processing Information note</head>
+            <p>Recatalogued by rsc, 2003.</p>
+        </processinfo>
+        <acqinfo id="ref11">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Acquired from Mrs. M. F. Green, December 1940.</p>
+        </acqinfo>
+        <prefercite id="ref9">
+            <head>Preferred Citation note</head>
+            <p>Cite as: George Hunter Journals, American Philosophical Society.</p>
+        </prefercite>
+        <scopecontent id="ref5">
+            <head>Scope and Contents note</head>
+            <p>The Dunbar-Hunter expedition has suffered by comparison with that of Lewis and Clark both for its lack of epic scale and for the lack of literary polish of its writers. Nevertheless the four surviving journals of George Hunter provide engaging accounts of travel in the Ohio and Mississippi Valley in 1796, 1802, and 1809, and include the most interesting record of the expedition to the Hot Springs of Arkansas in 1804-1805.</p>
+            <p>Hunter's journals for 1796 and 1802 cover his journeys to St. Louis, Mo., and Lexington, Ky., respectively. Literate but not exactly literary, Hunter's terse observations on a region in the midst of almost sixty years of continuous warfare are effective at conveying a sense of the difficulty of travel, the excitement of the frontier, and the possibilities he felt that the future held for the west. In his 1796 journal, Hunter provides an impression of a difficult life in a lawless and often violent region and of the fluidity of intercultural encounters with Indians of various tribes, with fur traders, Frenchmen, Spaniards, Americans, and people of mixed race. The Ohio Valley itself seemed scarred by the protracted warfare, with the banks of the river littered with abandoned villages despite an abundance of food and good land. In many passages, Hunter hints at the sense of violence hanging over the region, whether epitomized by an Indian woman whose nose was cut off by her husband for infidelity or by an elderly alcoholic Indian left with only one wife after two others were murdered by family members.</p>
+            <p>By 1802, Hunter found that travel in Kentucky had improved little, and his interests in the mineral resources of the region seem to have sharpened. The journal includes a fine account of the overland trip across Pennsylvania (through Carlisle, Shippensburg, and Berlin), but Hunter devotes far more space to a visit to a cave in Kentucky, and to discussions of salt production at Blue Lick, saltpeter, potash, lime, and iron, silver, and lead deposits, and more generally to the geology of the region, suggesting that he may once again have been investigating purchasing (or speculating in) western lands. His references to the potential profitability of the ginseng trade may signal one of the purposes for the trip.</p>
+            <p>The last two journals document the expedition to the Hot Springs, commencing from time of the departure from St. Catharine's Landing on October 16, 1804, until their return to Natchez in January 1805. Intended for official perusal, the journal includes a separate, highly detailed record of geographic position, with brief references to weather and other conditions of the journey, as well as the longer narrative of the journey.</p>
+            <p>The journal entries for the 1809 expedition (vol. 2) are very brief and cover only the beginning stages of the journey. The journals have been published in their entirety in John Francis McDermott, "The Western Journals of Dr. George Hunter, 1796-1805," 
+                <title render="italic">Transactions of the American Philosophical Society</title> 53 (1963).</p>
+        </scopecontent>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>Though less well known than their peers Lewis and Clark, William Dunbar and George Hunter played an important role in the early scientific exploration of the Louisiana Purchase. While the original goal of organizing a southern counterpart to the Corps of Discovery proved overly ambitious, Dunbar and Hunter provided important geographic information for future explorations and gave the first scientific description of the Hot Springs of Arkansas and Ouachita Mountains.</p>
+            <p>While Lewis and Clark were being fitted out to explore the northern and western reaches of the Louisiana Purchase, Thomas Jefferson conceived of carrying a parallel expedition to the south, aiming not only to substantiate the American claim to the territory and better define the boundaries, but to survey the plants, animals, and minerals, the soil and climate, and to assess the situation with respect to Indians and Indian trade. To lead the expedition, Jefferson turned to his fellow member of the American Philosophical Society, William Dunbar, a resident of West Florida since before the Revolution and one of the most respected scientific figures in the Old Southwest.</p>
+            <p>The decision of whom to name as second in command was more difficult, however, and was resolved only when George Hunter entered the picture. Like Dunbar, Hunter was a Scot by birth and a scientist by reputation. At sixteen, he had been sent to work with a noted druggist in Edinburgh, a trade he continued and after his remove to Philadelphia in 1774. After working with the druggists Christopher and Charles Marshall for a brief period and serving in the militia during the Revolution, Hunter set out on his own, developing a successful wholesale trade in pharmaceuticals and probably, a retail trade as well.</p>
+            <p>As important as his scientific credentials were to the Dunbar expedition, Hunter's experience in wilderness travel was crucial. In 1796, he embarked on a journey from Philadelphia overland to Pittsburgh, and then along the Ohio and Mississippi Rivers. His reasons for undertaking this trip may be tied up in speculative interests in western lands, but he recorded that when he reached the furthest point of his journey in St. Louis he was "politely received" by the Spanish governor of Upper Louisiana, Zenon Trudeau, and offered a grant of 1,000 acres if he would agree to settle there. Although there is no indication that Hunter considered taking Trudeau up on the offer, he returned to the west in 1802, traveling as far as Kentucky and taking extensive notes on the wealth of mineral productions in the state, including saltpeter, potash, and lime, as well as iron, silver, and lead, once again suggesting an interest in some form of western speculation. Indeed, Hunter's focus on mineral wealth gave Jefferson some pause in naming him to the Hot Springs expedition. Jefferson informed Dunbar that he was concerned lest an "indulgence" to Hunter's "principal qualifications" might divert the mission to a mere "march for gold and silver mines."</p>
+            <p>With Jefferson's support, in March 1804 Congress authorized a scant $3,000 to support an expedition to survey the Arkansas and Red Rivers to their sources and define the extent of the Louisiana Purchase in the southwest. Hunter, like Meriwether Lewis before him, was sent to Robert Patterson to learn navigation and to gain familiarity with the scientific instruments he would need on the voyage. After gathering Indian presents and other supplies, Hunter convinced Secretary of War Henry Dearborn to allow him to add his son, George Jr., to the expedition roster, and on May 24 the two left Philadelphia overland for Pittsburgh and then by river to Natchez.</p>
+            <p>On July 24, a party of 15 staged for the expedition at Dunbar's plantation, the Forest, only to find a few days later that their plans would have to be postponed until the spring due to increasing hostility with the Osages. Yet rather than wait, Jefferson suggested to Dunbar that the expedition be scaled back to a more modest foray up the Red and Ouachita Rivers as far as the Hot Springs -- a prospect that had the double advantage of being ready to go in the fall and, not coincidentally, of better fitting the funds made available by Congress. Thus on October 16, 1804, the party left St. Catharine's Landing and ascended the Red River to the Black River and finally to the Ouachita, reaching the Springs on December 9, 1804. Despite an accident with a pistol in which Hunter nearly shot off his thumb and some troubles with the boats, which had too deep a draught for the rivers, the expedition went off with few incidents. In addition to keeping a careful record of their geographic and natural historical observations, Hunter and Dunbar carried out a series of chemical tests on the waters at the Hot Springs that Jefferson found important enough to include in his annual message to Congress in 1805. They remained at the springs for about a month before returning to Natchez, and by the end of March, Hunter was back home in Philadelphia.</p>
+            <p>Hunter apparently resumed his trade as a druggist and although he soon decided against participating in the more extensive survey that Jefferson still hoped to see through, Hunter did not sever his relationship with the Old Southwest. In 1809, he and his son undertook a third voyage to Kentucky, and six years later, he and his family relocated to New Orleans. He continued to work as a pharmacist, operating a rolling mill as a side enterprise, until his death in New Orleans on February 23, 1832.</p>
+        </bioghist>
+        <controlaccess>
+            <persname source="naf">Dunbar, William, 1749-1810</persname>
+            <persname source="ingest">Hunter, George H.</persname>
+            <geogname source="lcsh">Arkansas--Description and travel</geogname>
+            <subject source="lcsh">Cherokee Indians </subject>
+            <subject source="lcsh">Chickasaw Indians</subject>
+            <subject source="lcsh">Choctaw Indians</subject>
+            <subject source="lcsh">Delaware Indians</subject>
+            <subject source="lcsh">Exploration</subject>
+            <subject source="leah">Exploration.</subject>
+            <subject source="lcsh">Geology--Kentucky</subject>
+            <subject source="lcsh">Hot springs--Arkansas</subject>
+            <geogname source="lcsh">Illinois--Description and travel--18th century</geogname>
+            <genreform source="ingest">Journals (notebooks)</genreform>
+            <geogname source="lcsh">Kentucky--Description and travel--18th century</geogname>
+            <geogname source="lcsh">Louisiana Purchase--Discovery and exploration</geogname>
+            <geogname source="lcsh">Louisiana--Description and travel</geogname>
+            <subject source="lcsh">Meteorology--Louisiana</subject>
+            <subject source="leah">Native America</subject>
+            <subject source="lcsh">Natural history--Louisiana</subject>
+            <subject source="lcsh">Osage Indians</subject>
+            <geogname source="lcsh">Ouachita Mountains Region (Ark. And Okla.)--Discovery and exploration</geogname>
+            <subject source="leah">Travel</subject>
+            <genreform source="leah">Travel Narratives and Journals</genreform>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref21" level="item">
+                <did>
+                    <unittitle>"Journal... of a tour from Philadelphia to Kentuckey &amp; the Illinois Country"</unittitle>
+                    <container id="cid12587" type="Volume" label="Mixed materials">1</container>
+                    <physdesc>
+                        <extent>80p.</extent>
+                    </physdesc>
+                    <unitdate>1796 July 14-Oct. 15</unitdate>
+                    <origination label="creator">
+                        <persname source="ingest">Hunter, George</persname>
+                    </origination>
+                </did>
+                <scopecontent id="ref23">
+                    <head>Scope and Contents note</head>
+                    <p>Ohio River settlements; fur traders; Indians; St. Louis; Kaskaskia; Kentucky; etc.</p>
+                    <p>4p. of miscellaneous accounts are located at the end of the volume.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref24" level="item">
+                <did>
+                    <unittitle>"Journal from Philadelphia Toward Lexington Kentucky"</unittitle>
+                    <container id="cid12586" type="Volume" label="Mixed materials">1</container>
+                    <physdesc>
+                        <extent>56p.</extent>
+                    </physdesc>
+                    <unitdate>1802 Aug. 19-Sept. 8</unitdate>
+                    <origination label="creator">
+                        <persname source="ingest">Hunter, George</persname>
+                    </origination>
+                </did>
+                <scopecontent id="ref26">
+                    <head>Scope and Contents note</head>
+                    <p>Kentucky; caves; salt petre mines; nitrate of lime; ginseng; ores; lost in wilderness (cont. in vol. 2).</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref27" level="item">
+                <did>
+                    <unittitle>"Journal from Philadelphia Toward Lexington Kentucky," part 2</unittitle>
+                    <container id="cid12585" type="Volume" label="Mixed materials">2</container>
+                    <physdesc>
+                        <extent>66p.</extent>
+                    </physdesc>
+                    <unitdate>1802 Sept. 13-Oct. 26</unitdate>
+                    <origination label="creator">
+                        <persname source="ingest">Hunter, George</persname>
+                    </origination>
+                </did>
+            </c01>
+            <c01 id="ref28" level="item">
+                <did>
+                    <unittitle>Journal of Ouachita and Red River Expedition</unittitle>
+                    <container id="cid12584" type="Volume" label="Mixed materials">2</container>
+                    <physdesc>
+                        <extent>72p.</extent>
+                    </physdesc>
+                    <unitdate>1804 May 27-1805 Jan. 28</unitdate>
+                    <origination label="creator">
+                        <persname source="ingest">Hunter, George</persname>
+                    </origination>
+                </did>
+                <scopecontent id="ref30">
+                    <head>Scope and Contents note</head>
+                    <p>Building boat at Pittsburgh; mammoth bones; arrival in Natchez; expedition delayed until spring; brief account of journey and return home.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref31" level="item">
+                <did>
+                    <unittitle>"Journey to Upper Louisiana of G. Hunter and G. H. Hunter"</unittitle>
+                    <container id="cid12583" type="Volume" label="Mixed materials">2</container>
+                    <physdesc>
+                        <extent>3p.</extent>
+                    </physdesc>
+                    <unitdate>1809 July 29-Aug. 1</unitdate>
+                    <origination label="creator">
+                        <persname source="ingest">Hunter, George</persname>
+                    </origination>
+                </did>
+                <scopecontent id="ref33">
+                    <head>Scope and Contents note</head>
+                    <p>Brief account of journey from Philadelphia to Ohio.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref34" level="item">
+                <did>
+                    <unittitle>"Journal of an Excursion from Natchez on the Mississippi..."</unittitle>
+                    <container id="cid12582" type="Volume" label="Mixed materials">3</container>
+                    <physdesc>
+                        <extent>134p.</extent>
+                    </physdesc>
+                    <unitdate>1804 Oct. 16-Dec. 31</unitdate>
+                    <origination label="creator">
+                        <persname source="ingest">Hunter, George</persname>
+                    </origination>
+                </did>
+                <scopecontent id="ref36">
+                    <head>Scope and Contents note</head>
+                    <p>Complete record of expedition. Back of volume contains thermometrical log, record of position, and other miscellaneous observations.</p>
+                    <p>Inside cover of volume has stationer's ticket for Thomas Dobson.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref37" level="item">
+                <did>
+                    <unittitle>"Journal of an Excursion from Natchez on the Mississippi...," part 2</unittitle>
+                    <container id="cid12581" type="Volume" label="Mixed materials">4</container>
+                    <physdesc>
+                        <extent>34p.</extent>
+                    </physdesc>
+                    <unitdate>1805 Jan. 1-March 27</unitdate>
+                    <origination label="creator">
+                        <persname source="ingest">Hunter, George</persname>
+                    </origination>
+                </did>
+                <scopecontent id="ref39">
+                    <head>Scope and Contents note</head>
+                    <p>Inside cover of volume has stationer's ticket for Thomas Dobson.</p>
+                </scopecontent>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

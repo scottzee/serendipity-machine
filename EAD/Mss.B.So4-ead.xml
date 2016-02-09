@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.So4-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.So4</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T20:01-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>W. J. (William Johnson) Sollas letters, 1888-1928</unittitle>
+            <unitid>Mss.B.So4</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1615" type="Box" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>0.25 Linear feet</extent>
+                <extent>36 items</extent>
+            </physdesc>
+            <unitdate normal="1888/1928" type="inclusive">1888-1928</unitdate>
+            <physdesc id="ref6" label="General Physical Description note">36 items.</physdesc>
+            <abstract id="ref1" label="Abstract">These are letters written to Sollas primarily concerning British geology and paleontology. There are mostly one or two letters per author, and there is one letter from Sollas.</abstract>
+            <physloc id="ref7" label="Paging">LH-MV-B-2</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Sollas, W. J.(William Johnson),1849-1936.</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref5">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Purchased from W. Myers (Sotheby, lot 815, 821) and accessioned, 06/--/1980 (1980 1301ms).</p>
+        </acqinfo>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>W. J. Sollas was a geologist.</p>
+        </bioghist>
+        <controlaccess>
+            <persname rules="aacr" source="naf">Bidder, George Parker, 1806-1878</persname>
+            <persname rules="aacr" source="local">Carlin, Henry</persname>
+            <famname source="ingest">Cartailhac, Edoard Philippe Emile, -- 1845-1921.</famname>
+            <persname rules="aacr" source="local">Cunynghame, Henry</persname>
+            <persname rules="aacr" source="local">David, Cara</persname>
+            <persname rules="aacr" source="local">Deyerr, Gerard</persname>
+            <famname source="ingest">Dobson, D. P.</famname>
+            <persname rules="aacr" source="naf">Dubois, Eugène, 1858-1940</persname>
+            <persname rules="aacr" source="naf">Evans, F. W.,  (Frederick William), 1808-1893 </persname>
+            <persname rules="aacr" source="local">Fletcher, L.</persname>
+            <persname rules="aacr" source="local">Foster, Le Neve</persname>
+            <persname rules="aacr" source="naf">Foster, M., Sir,  (Michael), 1836-1907</persname>
+            <persname rules="aacr" source="naf">Fowler, Thomas, 1832-1904</persname>
+            <persname rules="aacr" source="naf">Fox, Henry </persname>
+            <persname source="naf">Geikie, Archibald, Sir, 1835-1924</persname>
+            <persname rules="aacr" source="naf">Green, A. H.,  (Alexander Henry), 1832-1896 </persname>
+            <persname source="ingest">Haddon, Alfred C. (Alfred Cort), 1855-1940.</persname>
+            <persname rules="aacr" source="local">Haug, Emile, 1861-1927</persname>
+            <persname rules="aacr" source="naf">Hume, W. F. ,  (William Fraser), 1867-1949</persname>
+            <persname rules="aacr" source="naf">Jukes-Browne, A. J.,  (Alfred John), 1851-1914 </persname>
+            <persname source="naf">Lankester, E. Ray, Sir,  (Edwin Ray), 1847-1929</persname>
+            <subject source="lcsh">Geology -- Great Britain.</subject>
+            <subject source="lcsh">Paleontology -- Great Britain.</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.973.314.L95-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.973.314.L95</num>
+                    <num>Mss.973.314.L95</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T21:22-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Papers of American Loyalists, 1782-1798</unittitle>
+            <unitid>Mss.973.314.L95</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid13321001" type="Box-folder" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>10.0 Item(s)</extent>
+            </physdesc>
+            <unitdate normal="1782/1798" type="inclusive">1782-1798</unitdate>
+            <abstract id="ref2" label="Abstract">There are letters, petitions, and reports concerning the Loyalists and the losses they sustained in the Revolutionary War. Includes the Committee of American Merchants, Observations on trade (1783), Banished American merchants petition (1789), and Classes of American loyalists and their claims.</abstract>
+            <physloc id="ref4" label="Paging">LH-MV-B-11; LH-SB-Black Case-15 (OS)</physloc>
+            <physdesc id="ref3" label="General Physical Description note">10 items.</physdesc>
+        </did>
+        <odd id="ref5">
+            <head>Early American History Note</head>
+            <p>The Loyalist Collection contains ten documents that pertain to the interests and affairs of American Loyalists after the American Revolution. The items convey the grievances of Loyalists, particularly merchants. The documents of relate to how the states treated Loyalists and their property after the Revolution. Most of the documents are either official government documents or formal reports. Reports by the Committee of American Merchants, a Loyalists group that formed in Britain after the war, are included as are records relating to the disposition of Penn family interests in Pennsylvania. Also of note is a multi-page, loose-leaf list of loyalists and their claims on the British treasury for services rendered during the war.</p>
+        </odd>
+        <acqinfo id="ref6">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Purchased and accessioned, 1958 (1958 1538ms).</p>
+        </acqinfo>
+        <controlaccess>
+            <subject source="lcsh">American loyalists.</subject>
+            <subject source="leah">American Revolution</subject>
+            <subject source="leah">Colonial Politics</subject>
+            <subject source="lcsh">Commerce.</subject>
+            <subject source="leah">Government Affairs</subject>
+            <subject source="leah">Land and Speculation</subject>
+            <genreform source="leah">Legal Records</genreform>
+            <genreform source="leah">Official Government Documents and Records</genreform>
+            <genreform source="lcsh">Petitions.</genreform>
+            <genreform source="leah">Political Correspondence</genreform>
+            <genreform source="lcsh">Reports.</genreform>
+            <geogname source="lcsh">United States -- History -- Revolution, 1775-1783 -- Personal histories.</geogname>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref7" level="series">
+                <did>
+                    <unittitle>Papers</unittitle>
+                </did>
+                <c02 id="ref14" level="file">
+                    <did>
+                        <unittitle>Letter to Thomas Townshend;</unittitle>
+                        <unitdate>Nov. 16, 1782</unitdate>
+                        <physdesc id="ref15" label="General Physical Description note">12-1/4x8</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Dorchester, Guy Carleton, Baron, 1724-1808</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref16">
+                        <head>Scope and Contents note</head>
+                        <p>New York, L. 4p.and end. Copy. (see Loyalist... Material; 1782-1798.) Concerning Washington's attempt to entice Loyalists back to his side.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref17" level="file">
+                    <did>
+                        <unittitle>Observations on the trade of North America;</unittitle>
+                        <unitdate>July 22, 1783</unitdate>
+                        <physdesc id="ref18" label="General Physical Description note">16-1/2 x 11</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Loyalist American merchants</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref19">
+                        <head>Scope and Contents note</head>
+                        <p>D.S.: Edw[ar]d Payne. 10p.and end. (see Loyalist... Material; 1782-1798.)</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref20" level="file">
+                    <did>
+                        <unittitle>An act repealing two laws and for asserting the right to expel aliens (Loyalists);</unittitle>
+                        <unitdate>March 24, 1784</unitdate>
+                        <physdesc id="ref21" label="General Physical Description note">14-1/2x9</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Commonwealth of Massachusetts</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref22">
+                        <head>Scope and Contents note</head>
+                        <p>D. 4p.,end. Copy. Attest: John Avery, jun. Sec. (see Loyalist... Material; 1782-1798.)</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref23" level="file">
+                    <did>
+                        <unittitle>An ordinance respecting suits for the recovery of debts;</unittitle>
+                        <unitdate>March 26, 1784</unitdate>
+                        <physdesc id="ref24" label="General Physical Description note">12x7-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">South Carolina. General assembly</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref25">
+                        <head>Scope and Contents note</head>
+                        <p>D. Attest: John Vanderhorst, sec. 3p.and end. (see Loyalist ... Material; 1782-1798.)</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref11" level="file">
+                    <did>
+                        <unittitle>A representation of such acts passed in the United States relative to them, passed since the peace;</unittitle>
+                        <unitdate>[1784]</unitdate>
+                        <physdesc id="ref12" label="General Physical Description note">14-1/2x9-1/4</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Loyalists, American</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref13">
+                        <head>Scope and Contents note</head>
+                        <p>D. 13p.and end. (see Loyalist... Material; 1782-1798.)</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref8" level="file">
+                    <did>
+                        <unittitle>Petition to the Lords commissioners of His Majesty's Treasury;</unittitle>
+                        <unitdate>[1784?]</unitdate>
+                        <physdesc id="ref9" label="General Physical Description note">15-1/4x9-1/2, 15x10</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Loyalist American merchants</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref10">
+                        <head>Scope and Contents note</head>
+                        <p>D.S.: Cumb[erlan]d Wilson and 36 others. 3p. (see Loyalist... Material; 1782-1798.) ----Copies (2).</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref38" level="file">
+                    <did>
+                        <unittitle>Classes of loyalists and their claims on the British treasury</unittitle>
+                        <unitdate>[1785?]</unitdate>
+                    </did>
+                    <scopecontent id="ref39">
+                        <head>Scope and Contents note</head>
+                        <p>Groups of claimants based on services rendered; includes "Claimants who rendered services", "Claimants who bore arms", etc.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref26" level="file">
+                    <did>
+                        <unittitle>Statement of monies paid to John Penn, sr., and John Penn, jr., by the state of Pennsylvania;</unittitle>
+                        <unitdate>Oct. 24, 1788</unitdate>
+                        <physdesc id="ref27" label="General Physical Description note">14-1/2x9-1/4</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Rittenhouse, David, 1732-1796</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref28">
+                        <head>Scope and Contents note</head>
+                        <p>D.S.: Dav[i]d Rittenhouse and Jo[h]n Nicholson. 2p.and end. (see Loyalist... Material;1782-1798.) Attached to this is: Penna. Supreme executive council. Certification...; Oct. 25, 1788.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref29" level="file">
+                    <did>
+                        <unittitle>Certification of authenticity of statement by D.Rittenhouse and John Nicholson;</unittitle>
+                        <unitdate>Oct. 25, 1788</unitdate>
+                        <physdesc id="ref30" label="General Physical Description note">8x12-3/4x</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Pennsylvania. Supreme Executive Council</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref31">
+                        <head>Scope and Contents note</head>
+                        <p>Philadelphia, Printed D.filled in in ms.S.: David Redick, vice president. Attest: Cha[rle]s Biddle, Secy. 1p. Seal. (see Loyalist... Material; 1782-1798.) Attached to: D.Rittenhouse. Statement...;Oct.24, 1788.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref32" level="file">
+                    <did>
+                        <unittitle>Brief state of the case of the British merchants trading to North America prior to 1776;</unittitle>
+                        <unitdate>March 18, 1794</unitdate>
+                        <physdesc id="ref33" label="General Physical Description note">15x9-3/4</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Merchants - British</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref34">
+                        <head>Scope and Contents note</head>
+                        <p>D. 8p.and end. (see Loyalist... Material; 1782-1798.)</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref35" level="file">
+                    <did>
+                        <unittitle>Letter to Alex[ander] Brynes;</unittitle>
+                        <unitdate>June 1, 1798</unitdate>
+                        <physdesc id="ref36" label="General Physical Description note">9-1/4x8</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Edward, Lt.Gen</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref37">
+                        <head>Scope and Contents note</head>
+                        <p>Halifax, L. 1p.and end. Duplicate. (see Loyalist... Material; 1782-1798.) Orders him to pay artificers from the war chest.</p>
+                    </scopecontent>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.497.3.H39-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.497.3.H39</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney. Revised by Friederike Baer (NEH 2010).</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:12-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Correspondence on Indian names, 1854-1860</unittitle>
+            <unitid>Mss.497.3.H39</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid806" type="Volume" label="Manuscripts">1</container>
+            <container parent="cid806" type="Box-folder">1</container>
+            <physdesc>
+                <extent>1.0 Volume(s)</extent>
+                <extent>1 volume, 22 items</extent>
+            </physdesc>
+            <unitdate normal="1854/1860" type="inclusive">1854-1860</unitdate>
+            <abstract id="ref1" label="Abstract">This volume of letters Sebastian Ferris Streeter and John Henry Alexander, both of the Maryland Historical Society, relating to efforts of Henry to secure information on Indian names and to obtain travel grants from the Maryland Historical Society, the Historical Society of Pennsylvania, and the Smithsonian Institution. There are letters from Edward Ballard of Maine Historical Society, and P. W. Leland and Usher Parsons of Rhode Island Historical Society, concerning New England Indian place names. There is also a letter (1854) to J. Francis Fisher and others of the Historical Society of Pennsylvania, in response to a circular appeal, on Indian names of Northampton County, Pennsylvania (929.4 H39).</abstract>
+            <physdesc id="ref4" label="General Physical Description note">1 volume; 22 items.</physdesc>
+            <physloc id="ref75" label="Paging">LH-MV-E-8</physloc>
+            <origination label="creator">
+                <persname source="naf" role="Author (aut)">Henry, Mathew Schropp, 1790-1862 </persname>
+            </origination>
+        </did>
+        <relatedmaterial id="ref5">
+            <head>Related Archival Materials note</head>
+            <p>Letter to J. Francis Fisher and members of the Historical Society of Pennsylvania regarding Indian names of Northampton County, Pennsylvania (929.4 H39):</p>
+            <p>Gives county lists based on old deeds. Accompanied by a map of 1752, traced from Melish's 
+                <title render="italic">Map of Pennsylvania</title> (1826), but showing Indian place names. Principal source for place names is Heckewelder, with additional note by Henry. Offers to do more, if the Historical Society is interested.</p>
+        </relatedmaterial>
+        <odd id="ref6">
+            <head>General note</head>
+            <p>Freeman Guide 85, plus individual letters.</p>
+        </odd>
+        <arrangement id="ref74">
+            <head>Arrangement note</head>
+            <p>The letters are listed in the order they are arranged in the volume.</p>
+        </arrangement>
+        <acqinfo id="ref3">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Received and accessioned, 04/1914 (51119).</p>
+        </acqinfo>
+        <controlaccess>
+            <persname rules="aacr" source="naf">Alexander, J. H. (John Henry), 1812-1867.</persname>
+            <persname rules="aacr" source="naf">Ballard, Edward, 1820-1897 </persname>
+            <persname rules="aacr" source="naf">Fisher, Joshua Francis, 1807-1873</persname>
+            <corpname source="ingest">Historical Society of Pennsylvania.</corpname>
+            <famname source="ingest">Leland, P. W.</famname>
+            <corpname source="ingest">Maine Historical Society.</corpname>
+            <corpname source="ingest">Maryland Historical Society.</corpname>
+            <persname rules="aacr" source="naf">Parsons, Usher, 1788-1868</persname>
+            <corpname source="ingest">Rhode Island Historical Society.</corpname>
+            <corpname rules="aacr" source="naf">Smithsonian Institution.</corpname>
+            <persname rules="aacr" source="local">Streeter, Sebastian Ferris</persname>
+            <subject source="lcsh">Indians of North America--Pennsylvania--Names</subject>
+            <subject source="lcsh">Names, Indian -- North America.</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref7" level="series">
+                <did>
+                    <unittitle>Correspondence</unittitle>
+                    <unitdate normal="1857/1860" type="inclusive">1857-1860</unitdate>
+                </did>
+                <c02 id="ref8" level="file">
+                    <did>
+                        <unittitle>Letter to Matthew S. Henry</unittitle>
+                        <unitid>1</unitid>
+                        <unitdate>Jan. 17, 1857</unitdate>
+                        <physdesc id="ref9" label="General Physical Description note">8x5</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Streeter, Sebastian F. (Sebastian Ferris), 1810-1864</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref10">
+                        <head>Scope and Contents note</head>
+                        <p>Baltimore, A.L.S. 3p. Only J.H.Alexander can help with Indian names in Penna.and N.J. Asks for definition of Powhatan names.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref11" level="file">
+                    <did>
+                        <unittitle>Letter to Matthew S. Henry</unittitle>
+                        <unitid>2</unitid>
+                        <unitdate>Feb. 8, 1857</unitdate>
+                        <physdesc id="ref12" label="General Physical Description note">8x5</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Streeter, Sebastian F. (Sebastian Ferris), 1810-1864</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref13">
+                        <head>Scope and Contents note</head>
+                        <p>Baltimore, A.L.S. 6p. Cannot help with expenses to visit Indian tribes in Canada to study languages. Refers to Heckewelder. Concerning definitions of Powhatan names. Freeman Guide 3063.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref44" level="file">
+                    <did>
+                        <unittitle>Letter to [Matthew S. Henry]</unittitle>
+                        <unitid>3</unitid>
+                        <unitdate>March 10-13, 1857</unitdate>
+                        <physdesc id="ref45" label="General Physical Description note">8x5</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Streeter, Sebastian F. (Sebastian Ferris), 1810-1864</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref46">
+                        <head>Scope and Contents note</head>
+                        <p>Baltimore; A.L.S. 8p. Concerning definitions of Indian names, expecially those of the Lenni Lenape and the Powhatans. Freeman Guide 1185.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref14" level="file">
+                    <did>
+                        <unittitle>Letter to Matthew S. Henry</unittitle>
+                        <unitid>4</unitid>
+                        <unitdate>March 27, 1857</unitdate>
+                        <physdesc id="ref15" label="General Physical Description note">8x5</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Streeter, Sebastian F. (Sebastian Ferris), 1810-1864</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref16">
+                        <head>Scope and Contents note</head>
+                        <p>Baltimore, A.L.S. 2p. Will ask Alexander if his letters should be forwarded to Henry. If the answer is no, that is final. Freeman Guide 1186.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref17" level="file">
+                    <did>
+                        <unittitle>Letter to Matthew S. Henry</unittitle>
+                        <unitid>5</unitid>
+                        <unitdate>March 30, 1857</unitdate>
+                        <physdesc id="ref18" label="General Physical Description note">8x5</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Streeter, Sebastian F. (Sebastian Ferris), 1810-1864</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref19">
+                        <head>Scope and Contents note</head>
+                        <p>Baltimore, A.L.S. 2p. Left correspondence with Alexander, and will forward it to Henry if he agrees. Concerning definition of Indian names, possibly Iroquoian. Freeman Guide 1186.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref23" level="file">
+                    <did>
+                        <unittitle>Letter to Matthew S. Henry</unittitle>
+                        <unitid>6</unitid>
+                        <unitdate>April 3, 1857</unitdate>
+                        <physdesc id="ref24" label="General Physical Description note">8x5</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Streeter, Sebastian F. (Sebastian Ferris), 1810-1864</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref25">
+                        <head>Scope and Contents note</head>
+                        <p>Baltimore, A.L.S. 3p. Enc. Forwarded letters to Henry, as Alexander's enclosed note recommends. Concerning study of Indian languages. For enclosure, see: ALexander to M.S. Henry; April 2, 1857 (497.3:H39, no.14). Freeman Guide 1186.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref32" level="file">
+                    <did>
+                        <unittitle>Letter to [Matthew S. Henry]</unittitle>
+                        <unitid>7</unitid>
+                        <unitdate>May 2, 1857</unitdate>
+                        <physdesc id="ref33" label="General Physical Description note">8x5</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Streeter, Sebastian F. (Sebastian Ferris), 1810-1864</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref34">
+                        <head>Scope and Contents note</head>
+                        <p>Baltimore, A.L.S. 1p. Will write when he has time, for he has just returned from an extensive trip. Freeman Guide 1186.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref38" level="file">
+                    <did>
+                        <unittitle>Letter to [Matthew S. Henry]</unittitle>
+                        <unitid>8</unitid>
+                        <unitdate>Sept. 22, 1857</unitdate>
+                        <physdesc id="ref39" label="General Physical Description note">8x5</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Streeter, Sebastian F. (Sebastian Ferris), 1810-1864</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref40">
+                        <head>Scope and Contents note</head>
+                        <p>Baltimore, A.L.S. 1p. Has been too busy to answer properly Can see Alexander. Freeman Guide 1186.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref41" level="file">
+                    <did>
+                        <unittitle>Letter to Matthew S. Henry</unittitle>
+                        <unitid>9</unitid>
+                        <unitdate>Oct. 14, 1857</unitdate>
+                        <physdesc id="ref42" label="General Physical Description note">8x5</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Streeter, Sebastian F. (Sebastian Ferris), 1810-1864</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref43">
+                        <head>Scope and Contents note</head>
+                        <p>Baltimore, A.L.S. 3p. No financial aid can be expected from Maryland, and Alexander says Henry is not encouraging. Freeman Guide 1186.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref47" level="file">
+                    <did>
+                        <unittitle>Letter to Matthew S. Henry</unittitle>
+                        <unitid>10</unitid>
+                        <unitdate>Jan. 14, 1858</unitdate>
+                        <physdesc id="ref48" label="General Physical Description note">7x4-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Streeter, Sebastian F. (Sebastian Ferris), 1810-1864</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref49">
+                        <head>Scope and Contents note</head>
+                        <p>Baltimore, A.L.S. 3p. Concerning publication of work on Indian names. Freeman Guide 3707.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref50" level="file">
+                    <did>
+                        <unittitle>Letter to Matthew S. Henry</unittitle>
+                        <unitid>11</unitid>
+                        <unitdate>Oct. 18, 1859</unitdate>
+                        <physdesc id="ref51" label="General Physical Description note">8x5</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Streeter, Sebastian F. (Sebastian Ferris), 1810-1864</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref52">
+                        <head>Scope and Contents note</head>
+                        <p>Baltimore, A.L.S. 2p.and end. Is too occupied to work on the hobby of Indian languages. No help from Maryland is possible on publications. Freeman Guide 1187.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref53" level="file">
+                    <did>
+                        <unittitle>Letter to [Matthew S. Henry]</unittitle>
+                        <unitid>12</unitid>
+                        <unitdate>Nov. 10, 1859</unitdate>
+                        <physdesc id="ref54" label="General Physical Description note">8x5</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Streeter, Sebastian F. (Sebastian Ferris), 1810-1864</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref55">
+                        <head>Scope and Contents note</head>
+                        <p>Baltimore, A.L.S. 2p. Could not help in his request to locate certain documents.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref71" level="file">
+                    <did>
+                        <unittitle>Letter to Matthew S. Henry</unittitle>
+                        <unitid>13</unitid>
+                        <unitdate>undated</unitdate>
+                        <physdesc id="ref72" label="General Physical Description note">8x5</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Streeter, Sebastian F. (Sebastian Ferris), 1810-1864</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref73">
+                        <head>Scope and Contents note</head>
+                        <p>A.L.S. 2p. Incomplete. Concerning the definitions of Indian names. Freeman Guide 1188.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref20" level="file">
+                    <did>
+                        <unittitle>Letter to M[atthew] S. Henry, Philadelphia</unittitle>
+                        <unitid>14</unitid>
+                        <unitdate>April 2, 1857</unitdate>
+                        <physdesc id="ref21" label="General Physical Description note">8x6-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Alexander, J. H. (John Henry), 1812-1867</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref22">
+                        <head>Scope and Contents note</head>
+                        <p>Baltimore, A.L.S. 1p. Will confer with Henry at the Smithsonian about aid for Indian language studies. Enclosed originally in: Streeter to M.S.Henry; (497.3:H39,no.6). Freeman Guide 1110.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref26" level="file">
+                    <did>
+                        <unittitle>Letter to M[atthew] S. Henry, Philadelphia</unittitle>
+                        <unitid>15</unitid>
+                        <unitdate>April 17, 1857</unitdate>
+                        <physdesc id="ref27" label="General Physical Description note">8x5</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Alexander, J. H. (John Henry), 1812-1867</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref28">
+                        <head>Scope and Contents note</head>
+                        <p>Baltimore, A.L.S. 4p. His knowledge of the sciences which Henry and the smithsonian aid. Refers to Schoolcraft in the study of Indian languages. Freeman Guide 1111.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref29" level="file">
+                    <did>
+                        <unittitle>Letter to M[atthew] S. Henry, Philadelphia</unittitle>
+                        <unitid>16</unitid>
+                        <unitdate>April 30, 1857</unitdate>
+                        <physdesc id="ref30" label="General Physical Description note">8x5</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Alexander, J. H. (John Henry), 1812-1867</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref31">
+                        <head>Scope and Contents note</head>
+                        <p>Baltimore, A.L.S. 3p. Wishes the secretary of the Historical society of Pennsylvania to notify the Maryland historical society of plans to aid him study Delaware linguistics, then Henry and the Smithsonian might aid. Freeman Guide 1112.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref35" level="file">
+                    <did>
+                        <unittitle>Letter to M[atthew] S. Henry, Philadelphia</unittitle>
+                        <unitid>17</unitid>
+                        <unitdate>Aug. 21, 1857</unitdate>
+                        <physdesc id="ref36" label="General Physical Description note">8x5</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Alexander, J. H. (John Henry), 1812-1867</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref37">
+                        <head>Scope and Contents note</head>
+                        <p>Baltimore, A.L.S. 2p. Chances that Henry and the Smithsonian will help on the study of Indian language. Freeman Guide 1113.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref68" level="file">
+                    <did>
+                        <unittitle>Maryland names</unittitle>
+                        <unitid>18</unitid>
+                        <unitdate>undated</unitdate>
+                        <physdesc id="ref69" label="General Physical Description note">8x5</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Alexander, J. H. (John Henry), 1812-1867</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref70">
+                        <head>Scope and Contents note</head>
+                        <p>A.D. 4p. These names are based on Indian words. Freeman Guide 344.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref56" level="file">
+                    <did>
+                        <unittitle>Letter to Matthew S. Henry, Philadelphia</unittitle>
+                        <unitid>19</unitid>
+                        <unitdate>Dec. 31, 1859</unitdate>
+                        <physdesc id="ref57" label="General Physical Description note">8x5</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Ballard, Edward, 1804-1870</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref58">
+                        <head>Scope and Contents note</head>
+                        <p>Brunswick, Me., A.L.S. 8p. Concerning Indian names in New England. Freeman Guide 346.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref59" level="file">
+                    <did>
+                        <unittitle>Letter to M[atthew] S. Henry, Philadelphia</unittitle>
+                        <unitid>20</unitid>
+                        <unitdate>Feb. 6-7, 1860</unitdate>
+                        <physdesc id="ref60" label="General Physical Description note">8x5</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Ballard, Edward, 1804-1870</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref61">
+                        <head>Scope and Contents note</head>
+                        <p>Brunswick, Me., A.L.S. 12p. Concerning the Indians and their languages. Freeman Guide 346.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref65" level="file">
+                    <did>
+                        <unittitle>Letter to Matthew S. Henry</unittitle>
+                        <unitid>21</unitid>
+                        <unitdate>Jan. 22, 1860</unitdate>
+                        <physdesc id="ref66" label="General Physical Description note">8x5</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Parsons, Usher, 1788-1868</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref67">
+                        <head>Scope and Contents note</head>
+                        <p>Providence, A.L.S. 3p. Concerning Indian place names in New England. Freeman Guide 359.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref62" level="file">
+                    <did>
+                        <unittitle>Letter to M[atthew] S. Henry</unittitle>
+                        <unitid>22</unitid>
+                        <unitdate>Jan. 9, 1860</unitdate>
+                        <physdesc id="ref63" label="General Physical Description note">9-3/4x8</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Leland, P. Washington (Phineas Washington), 1798-1870</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref64">
+                        <head>Scope and Contents note</head>
+                        <p>Fall River, A.L.S. 2p. Sends copy of publication. Has worked on Algonquin dialects only. Refers to Parsons. Freeman Guide 357.</p>
+                    </scopecontent>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

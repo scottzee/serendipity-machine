@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Film.1351-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Film.1351</num>
+                </titleproper>
+                <author>Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T20:13-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>George Combe Papers, [ca. 1822-1836]</unittitle>
+            <unitid>Mss.Film.1351</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid581" type="Reel" label="Microform">1-3</container>
+            <physdesc>
+                <extent>3.0 Microfilm reel(s)</extent>
+            </physdesc>
+            <unitdate normal="1822/1836" type="inclusive">Circa 1822-1836</unitdate>
+            <abstract id="ref1" label="Abstract">This microfilm contains letterbooks of correspondence from Combe to other phrenologists and theorists of the day.</abstract>
+            <physdesc id="ref2" label="General Physical Description note">3 microfilm reels. Reproduced by National Library of Scotland, 1975.</physdesc>
+            <physloc id="ref8" label="Paging">LH-RR-Media Rm-6</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Combe, George, 1788-1858</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Hamilton, William, Sir</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">McKenzie, George Steuart, Sir, 1780-1848</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Spurzheim, J. G.,  (Johann Gaspar), 1776-1832</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Welsh, David, 1793-1845</persname>
+            </origination>
+        </did>
+        <bioghist id="ref6">
+            <head>Biographical/Historical note</head>
+            <p>George Combe was a phrenologist.</p>
+        </bioghist>
+        <acqinfo id="ref4">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by Terry Parssinen and accessioned, 12/22/1975 (1975 1146-1148mf).</p>
+        </acqinfo>
+        <originalsloc id="ref3">
+            <head>Existence and Location of Originals note</head>
+            <p>Originals in: National Library of Scotland, Edinburgh.</p>
+        </originalsloc>
+        <odd id="ref7">
+            <head>Early American History Note</head>
+            <p>This is a microfilm of an early American collection that may be of interest to researchers at the APS and may complement an original manuscript collection at the APS.</p>
+        </odd>
+        <controlaccess>
+            <corpname rules="aacr" source="naf">Phrenological Society.</corpname>
+            <genreform source="leah">Microfilm Collection</genreform>
+            <subject source="lcsh">Phrenology.</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

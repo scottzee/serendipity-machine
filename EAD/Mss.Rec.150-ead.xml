@@ -1,0 +1,1381 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Rec.150</num>
+                    <num>Mss.Rec.150</num>
+                </titleproper>
+                <author>Finding aid prepared by Brian Carpenter</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+                <date>08-2010</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T21:12-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Iroqouis material</unittitle>
+            <unitid>Mss.Rec.150</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="iro"/>
+            </langmaterial>
+            <physdesc>
+                <extent>14.0 Item(s)</extent>
+                <extent>14 phonograph discs</extent>
+            </physdesc>
+            <unitdate>1941, 1945, 1948</unitdate>
+            <physdesc id="ref2" label="General Physical Description note">14 sound discs (2 hr., 20 min.) : analog, 78 rpm ; 12 in.</physdesc>
+            <physloc id="ref177" label="Paging">LH-B-32-4</physloc>
+            <origination label="creator">
+                <persname source="ingest">Buck, George</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Fenton, William N., (William Nelson), 1908-2005</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest">General, Alexander J. (Deskaheh after 1925)</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest">General, Jack</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest">Green, George, Mrs.</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest">Green, George</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest">John, Willie</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest">Johnny John, Chauncey</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest">Jones, Albert</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest">Styres, Edward</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest">Thomas, David</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref3">
+            <head>Immediate Source of Acquisition</head>
+            <p>Donated by William Fenton in 1990. The records are copies made at the Library of Congress from original field recordings made on a Presto Disk Recorder.</p>
+        </acqinfo>
+        <relatedmaterial id="ref4">
+            <head>Related Archival Materials</head>
+            <p>
+                <extref ns2:actuate="onLoad" ns2:show="new" ns2:href="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Ms.Coll.20-ead.xml">William N. Fenton Papers (Mss.Ms.Coll.20)</extref></p>
+        </relatedmaterial>
+        <accessrestrict id="ref5">
+            <head>Conditions Governing Access</head>
+            <p>This material has access restritions. Please consult a curator for details.</p>
+        </accessrestrict>
+        <controlaccess>
+            <subject source="lcsh">Cayuga Indians--Music</subject>
+            <subject source="lcsh">Iroquois Indians--Music</subject>
+            <subject source="ingest">Iroquois Indians--Rites and ceremonies</subject>
+            <subject source="lcsh">Onondaga Indians--Music</subject>
+            <subject source="lcsh">Seneca Indians--Music</subject>
+            <genreform source="ingest">Sound recordings</genreform>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref6" level="series">
+                <did>
+                    <unittitle>Audio recordings</unittitle>
+                </did>
+                <c02 id="ref7" level="file">
+                    <did>
+                        <unittitle>Test strip with Snipe Song</unittitle>
+                        <unitid>01-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1945-04-29</unitdate>
+                        <physdesc id="ref8" label="General Physical Description note">
+                            <extent>00:00:51</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Fenton, William N., (William Nelson), 1908-2005</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref9">
+                        <head>Scope and Contents note</head>
+                        <p>Original record 1, side A.</p>
+                    </scopecontent>
+                    <originalsloc id="ref11">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Phonograph record) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3530" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:8168">
+                        <daodesc>
+                            <p>APSdigrec_3530</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Iroquois Indians--Music</subject>
+                        <geogname source="ingest">Six Nations Indian Reserve No. 40 (Ont.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref12" level="file">
+                    <did>
+                        <unittitle>Greeting and Ado'wa when opening ceremony at Longhouse</unittitle>
+                        <unitid>01-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1945-04-29</unitdate>
+                        <physdesc id="ref13" label="General Physical Description note">
+                            <extent>00:01:57</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Fenton, William N., (William Nelson), 1908-2005</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Thomas, David</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref14">
+                        <head>Scope and Contents note</head>
+                        <p>Original record 1, side A.</p>
+                    </scopecontent>
+                    <originalsloc id="ref16">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Phonograph record) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3531" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:8172">
+                        <daodesc>
+                            <p>APSdigrec_3531</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Iroquois Indians--Music</subject>
+                        <subject source="ingest">Iroquois Indians--Rites and ceremonies</subject>
+                        <subject source="lcsh">Onondaga Indians--Music</subject>
+                        <geogname source="ingest">Six Nations Indian Reserve No. 40 (Ont.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref17" level="file">
+                    <did>
+                        <unittitle>Seventh Song of Condolence, used at Syracuse</unittitle>
+                        <unitid>01-03</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1945-04-29</unitdate>
+                        <physdesc id="ref18" label="General Physical Description note">
+                            <extent>00:01:20</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Fenton, William N., (William Nelson), 1908-2005</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Thomas, David</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref19">
+                        <head>Scope and Contents note</head>
+                        <p>Original record 1, side A.</p>
+                    </scopecontent>
+                    <originalsloc id="ref21">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Phonograph record) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3532" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:8161">
+                        <daodesc>
+                            <p>APSdigrec_3532</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Iroquois Indians--Music</subject>
+                        <subject source="ingest">Iroquois Indians--Rites and ceremonies</subject>
+                        <subject source="lcsh">Onondaga Indians--Music</subject>
+                        <geogname source="ingest">Six Nations Indian Reserve No. 40 (Ont.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref22" level="file">
+                    <did>
+                        <unittitle>Seventh Song of Condolence, used at Syracuse</unittitle>
+                        <unitid>01-04</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1945-04-29</unitdate>
+                        <physdesc id="ref23" label="General Physical Description note">
+                            <extent>00:01:25</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Fenton, William N., (William Nelson), 1908-2005</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Thomas, David</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref24">
+                        <head>Scope and Contents note</head>
+                        <p>Original record 1, side B.</p>
+                    </scopecontent>
+                    <originalsloc id="ref26">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Phonograph record) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3533" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:8164">
+                        <daodesc>
+                            <p>APSdigrec_3533</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Iroquois Indians--Music</subject>
+                        <subject source="ingest">Iroquois Indians--Rites and ceremonies</subject>
+                        <subject source="lcsh">Onondaga Indians--Music</subject>
+                        <geogname source="ingest">Six Nations Indian Reserve No. 40 (Ont.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref27" level="file">
+                    <did>
+                        <unittitle>1st of Six Songs used at Canada</unittitle>
+                        <unitid>01-05</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1945-04-29</unitdate>
+                        <physdesc id="ref28" label="General Physical Description note">
+                            <extent>00:01:35</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Fenton, William N., (William Nelson), 1908-2005</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Thomas, David</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref29">
+                        <head>Scope and Contents note</head>
+                        <p>Original record 1, side B.</p>
+                    </scopecontent>
+                    <originalsloc id="ref31">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Phonograph record) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3534" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:8170">
+                        <daodesc>
+                            <p>APSdigrec_3534</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Iroquois Indians--Music</subject>
+                        <subject source="ingest">Iroquois Indians--Rites and ceremonies</subject>
+                        <subject source="lcsh">Onondaga Indians--Music</subject>
+                        <geogname source="ingest">Six Nations Indian Reserve No. 40 (Ont.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref32" level="file">
+                    <did>
+                        <unittitle>Six Songs, Ahiyaknigainage: 1-2</unittitle>
+                        <unitid>02-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1945</unitdate>
+                        <physdesc id="ref33" label="General Physical Description note">
+                            <extent>00:02:58</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Fenton, William N., (William Nelson), 1908-2005</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Thomas, David</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref34">
+                        <head>Scope and Contents note</head>
+                        <p>Original record 2, side A.</p>
+                    </scopecontent>
+                    <originalsloc id="ref36">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Phonograph record) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3535" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:8184">
+                        <daodesc>
+                            <p>APSdigrec_3535</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Iroquois Indians--Music</subject>
+                        <subject source="ingest">Iroquois Indians--Rites and ceremonies</subject>
+                        <subject source="lcsh">Onondaga Indians--Music</subject>
+                        <geogname source="ingest">Six Nations Indian Reserve No. 40 (Ont.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref37" level="file">
+                    <did>
+                        <unittitle>Six Songs, Ahiyaknigainage: Great Hymn</unittitle>
+                        <unitid>02-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1945</unitdate>
+                        <physdesc id="ref38" label="General Physical Description note">
+                            <extent>00:02:10</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Fenton, William N., (William Nelson), 1908-2005</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Thomas, David</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref39">
+                        <head>Scope and Contents note</head>
+                        <p>Original record 2, side A.</p>
+                    </scopecontent>
+                    <originalsloc id="ref41">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Phonograph record) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3536" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:8183">
+                        <daodesc>
+                            <p>APSdigrec_3536</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Iroquois Indians--Music</subject>
+                        <subject source="ingest">Iroquois Indians--Rites and ceremonies</subject>
+                        <subject source="lcsh">Onondaga Indians--Music</subject>
+                        <geogname source="ingest">Six Nations Indian Reserve No. 40 (Ont.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref42" level="file">
+                    <did>
+                        <unittitle>Six Songs, Ahiyaknigainage: 6th Song</unittitle>
+                        <unitid>02-03</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1945</unitdate>
+                        <physdesc id="ref43" label="General Physical Description note">
+                            <extent>00:02:53</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Fenton, William N., (William Nelson), 1908-2005</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Thomas, David</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref44">
+                        <head>Scope and Contents note</head>
+                        <p>Original record 2, side B.</p>
+                    </scopecontent>
+                    <originalsloc id="ref46">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Phonograph record) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3537" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:8171">
+                        <daodesc>
+                            <p>APSdigrec_3537</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Iroquois Indians--Music</subject>
+                        <subject source="ingest">Iroquois Indians--Rites and ceremonies</subject>
+                        <subject source="lcsh">Onondaga Indians--Music</subject>
+                        <geogname source="ingest">Six Nations Indian Reserve No. 40 (Ont.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref47" level="file">
+                    <did>
+                        <unittitle>Reply of Cayugas</unittitle>
+                        <unitid>02-04</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1945</unitdate>
+                        <physdesc id="ref48" label="General Physical Description note">
+                            <extent>00:02:30</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Fenton, William N., (William Nelson), 1908-2005</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Thomas, David</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref49">
+                        <head>Scope and Contents note</head>
+                        <p>Original record 2, side B.</p>
+                    </scopecontent>
+                    <originalsloc id="ref51">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Phonograph record) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3538" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:8181">
+                        <daodesc>
+                            <p>APSdigrec_3538</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Iroquois Indians--Music</subject>
+                        <subject source="ingest">Iroquois Indians--Rites and ceremonies</subject>
+                        <subject source="lcsh">Onondaga Indians--Music</subject>
+                        <geogname source="ingest">Six Nations Indian Reserve No. 40 (Ont.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref52" level="file">
+                    <did>
+                        <unittitle>Over the Great Forest</unittitle>
+                        <unitid>03-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1945</unitdate>
+                        <physdesc id="ref53" label="General Physical Description note">
+                            <extent>00:04:58</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Fenton, William N., (William Nelson), 1908-2005</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">General, Alex</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref54">
+                        <head>Scope and Contents note</head>
+                        <p>Original record 3, side A.</p>
+                    </scopecontent>
+                    <originalsloc id="ref56">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Phonograph record) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3539" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:8177">
+                        <daodesc>
+                            <p>APSdigrec_3539</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Cayuga Indians--Music</subject>
+                        <subject source="lcsh">Iroquois Indians--Music</subject>
+                        <subject source="ingest">Iroquois Indians--Rites and ceremonies</subject>
+                        <geogname source="ingest">Six Nations Indian Reserve No. 40 (Ont.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref57" level="file">
+                    <did>
+                        <unittitle>Over the Great Forest</unittitle>
+                        <unitid>03-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1945</unitdate>
+                        <physdesc id="ref58" label="General Physical Description note">
+                            <extent>00:04:58</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Fenton, William N., (William Nelson), 1908-2005</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">General, Alex</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref59">
+                        <head>Scope and Contents note</head>
+                        <p>Original record 3, side B.</p>
+                    </scopecontent>
+                    <originalsloc id="ref61">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Phonograph record) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3540" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:8153">
+                        <daodesc>
+                            <p>APSdigrec_3540</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Cayuga Indians--Music</subject>
+                        <subject source="lcsh">Iroquois Indians--Music</subject>
+                        <subject source="ingest">Iroquois Indians--Rites and ceremonies</subject>
+                        <geogname source="ingest">Six Nations Indian Reserve No. 40 (Ont.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref62" level="file">
+                    <did>
+                        <unittitle>Athahinon?keh: Going on the Road, Eulogy of the Founders</unittitle>
+                        <unitid>04-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1945</unitdate>
+                        <physdesc id="ref63" label="General Physical Description note">
+                            <extent>00:05:20</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Fenton, William N., (William Nelson), 1908-2005</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Thomas, David</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref64">
+                        <head>Scope and Contents note</head>
+                        <p>Original record 4, side A.</p>
+                    </scopecontent>
+                    <originalsloc id="ref66">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Phonograph record) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3541" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:8157">
+                        <daodesc>
+                            <p>APSdigrec_3541</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Iroquois Indians--Music</subject>
+                        <subject source="ingest">Iroquois Indians--Rites and ceremonies</subject>
+                        <subject source="lcsh">Onondaga Indians--Music</subject>
+                        <geogname source="ingest">Six Nations Indian Reserve No. 40 (Ont.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref67" level="file">
+                    <did>
+                        <unittitle>Welcome at Woods Edge</unittitle>
+                        <unitid>04-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1945</unitdate>
+                        <physdesc id="ref68" label="General Physical Description note">
+                            <extent>00:05:22</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Fenton, William N., (William Nelson), 1908-2005</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">General, Alex</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref69">
+                        <head>Scope and Contents note</head>
+                        <p>Original record 4, side B.</p>
+                    </scopecontent>
+                    <originalsloc id="ref71">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Phonograph record) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3542" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:8156">
+                        <daodesc>
+                            <p>APSdigrec_3542</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Cayuga Indians--Music</subject>
+                        <subject source="lcsh">Iroquois Indians--Music</subject>
+                        <subject source="ingest">Iroquois Indians--Rites and ceremonies</subject>
+                        <geogname source="ingest">Six Nations Indian Reserve No. 40 (Ont.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref72" level="file">
+                    <did>
+                        <unittitle>The songs of hadiye'qwiyaneh to renew the Little Water Medicine, Group I, songs 1-8</unittitle>
+                        <unitid>05-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1941-02-17</unitdate>
+                        <physdesc id="ref73" label="General Physical Description note">
+                            <extent>00:05:08</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Fenton, William N., (William Nelson), 1908-2005</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Johnny John, Chauncey</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref74">
+                        <head>Scope and Contents note</head>
+                        <p>Original record 57, side A.</p>
+                    </scopecontent>
+                    <originalsloc id="ref76">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Phonograph record) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3543" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:8182">
+                        <daodesc>
+                            <p>APSdigrec_3543</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Allegany Indian Reservation (N.Y.)</geogname>
+                        <subject source="lcsh">Iroquois Indians--Music</subject>
+                        <subject source="ingest">Iroquois Indians--Rites and ceremonies</subject>
+                        <subject source="lcsh">Seneca Indians--Music</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref77" level="file">
+                    <did>
+                        <unittitle>The songs of hadiye'qwiyaneh to renew the Little Water Medicine, Group I, songs 9-16</unittitle>
+                        <unitid>05-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1941-02-17</unitdate>
+                        <physdesc id="ref78" label="General Physical Description note">
+                            <extent>00:04:42</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Fenton, William N., (William Nelson), 1908-2005</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Johnny John, Chauncey</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref79">
+                        <head>Scope and Contents note</head>
+                        <p>Original record 57, side B.</p>
+                    </scopecontent>
+                    <originalsloc id="ref81">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Phonograph record) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3544" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:8159">
+                        <daodesc>
+                            <p>APSdigrec_3544</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Allegany Indian Reservation (N.Y.)</geogname>
+                        <subject source="lcsh">Iroquois Indians--Music</subject>
+                        <subject source="ingest">Iroquois Indians--Rites and ceremonies</subject>
+                        <subject source="lcsh">Seneca Indians--Music</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref82" level="file">
+                    <did>
+                        <unittitle>The songs of hadiye'qwiyaneh to renew the Little Water Medicine, Group I, songs 17-24</unittitle>
+                        <unitid>06-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1941-02-17</unitdate>
+                        <physdesc id="ref83" label="General Physical Description note">
+                            <extent>00:04:35</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Fenton, William N., (William Nelson), 1908-2005</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Johnny John, Chauncey</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref84">
+                        <head>Scope and Contents note</head>
+                        <p>Original record 58, side A.</p>
+                    </scopecontent>
+                    <originalsloc id="ref86">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Phonograph record) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3545" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:8158">
+                        <daodesc>
+                            <p>APSdigrec_3545</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Allegany Indian Reservation (N.Y.)</geogname>
+                        <subject source="lcsh">Iroquois Indians--Music</subject>
+                        <subject source="ingest">Iroquois Indians--Rites and ceremonies</subject>
+                        <subject source="lcsh">Seneca Indians--Music</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref87" level="file">
+                    <did>
+                        <unittitle>The songs of hadiye'qwiyaneh to renew the Little Water Medicine, Group II, songs 1-7</unittitle>
+                        <unitid>06-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1941-02-17</unitdate>
+                        <physdesc id="ref88" label="General Physical Description note">
+                            <extent>00:05:10</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Fenton, William N., (William Nelson), 1908-2005</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Johnny John, Chauncey</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref89">
+                        <head>Scope and Contents note</head>
+                        <p>Original record 58, side B.</p>
+                    </scopecontent>
+                    <originalsloc id="ref91">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Phonograph record) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3546" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:8186">
+                        <daodesc>
+                            <p>APSdigrec_3546</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Allegany Indian Reservation (N.Y.)</geogname>
+                        <subject source="lcsh">Iroquois Indians--Music</subject>
+                        <subject source="ingest">Iroquois Indians--Rites and ceremonies</subject>
+                        <subject source="lcsh">Seneca Indians--Music</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref92" level="file">
+                    <did>
+                        <unittitle>The songs of hadiyen?gwa?ye:ni to renew the Little Water Medicine, Group II, songs 8-13</unittitle>
+                        <unitid>07-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1941-02-17</unitdate>
+                        <physdesc id="ref93" label="General Physical Description note">
+                            <extent>00:05:14</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Fenton, William N., (William Nelson), 1908-2005</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Johnny John, Chauncey</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref94">
+                        <head>Scope and Contents note</head>
+                        <p>Original record 59, side A.</p>
+                    </scopecontent>
+                    <originalsloc id="ref96">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Phonograph record) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3547" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:8174">
+                        <daodesc>
+                            <p>APSdigrec_3547</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Allegany Indian Reservation (N.Y.)</geogname>
+                        <subject source="lcsh">Iroquois Indians--Music</subject>
+                        <subject source="ingest">Iroquois Indians--Rites and ceremonies</subject>
+                        <subject source="lcsh">Seneca Indians--Music</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref97" level="file">
+                    <did>
+                        <unittitle>The songs of hadiyen?gwa?ye:ni to renew the Little Water Medicine, Group II, songs 14-20</unittitle>
+                        <unitid>07-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1941-02-17</unitdate>
+                        <physdesc id="ref98" label="General Physical Description note">
+                            <extent>00:05:22</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Fenton, William N., (William Nelson), 1908-2005</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Johnny John, Chauncey</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref99">
+                        <head>Scope and Contents note</head>
+                        <p>Original record 59, side B.</p>
+                    </scopecontent>
+                    <originalsloc id="ref101">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Phonograph record) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3548" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:8176">
+                        <daodesc>
+                            <p>APSdigrec_3548</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Allegany Indian Reservation (N.Y.)</geogname>
+                        <subject source="lcsh">Iroquois Indians--Music</subject>
+                        <subject source="ingest">Iroquois Indians--Rites and ceremonies</subject>
+                        <subject source="lcsh">Seneca Indians--Music</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref102" level="file">
+                    <did>
+                        <unittitle>The songs of hadiyen?gwa?ye:ni to renew the Little Water Medicine, Group II, songs 21-26</unittitle>
+                        <unitid>08-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1941-02-17</unitdate>
+                        <physdesc id="ref103" label="General Physical Description note">
+                            <extent>00:04:01</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Fenton, William N., (William Nelson), 1908-2005</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Johnny John, Chauncey</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref104">
+                        <head>Scope and Contents note</head>
+                        <p>Original record 60, side A.</p>
+                    </scopecontent>
+                    <originalsloc id="ref106">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Phonograph record) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3549" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:8160">
+                        <daodesc>
+                            <p>APSdigrec_3549</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Allegany Indian Reservation (N.Y.)</geogname>
+                        <subject source="lcsh">Iroquois Indians--Music</subject>
+                        <subject source="ingest">Iroquois Indians--Rites and ceremonies</subject>
+                        <subject source="lcsh">Seneca Indians--Music</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref107" level="file">
+                    <did>
+                        <unittitle>The songs of hadiyen?gwa?ye:ni to renew the Little Water Medicine, Group III, songs 1-6</unittitle>
+                        <unitid>08-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1941-02-17</unitdate>
+                        <physdesc id="ref108" label="General Physical Description note">
+                            <extent>00:05:03</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Fenton, William N., (William Nelson), 1908-2005</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Johnny John, Chauncey</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref109">
+                        <head>Scope and Contents note</head>
+                        <p>Original record 60, side B.</p>
+                    </scopecontent>
+                    <originalsloc id="ref111">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Phonograph record) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3550" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:8175">
+                        <daodesc>
+                            <p>APSdigrec_3550</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Allegany Indian Reservation (N.Y.)</geogname>
+                        <subject source="lcsh">Iroquois Indians--Music</subject>
+                        <subject source="ingest">Iroquois Indians--Rites and ceremonies</subject>
+                        <subject source="lcsh">Seneca Indians--Music</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref112" level="file">
+                    <did>
+                        <unittitle>The songs of hadiyen?gwa?ye:ni to renew the Little Water Medicine, Group III, songs 7-12</unittitle>
+                        <unitid>09-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1941-02-17</unitdate>
+                        <physdesc id="ref113" label="General Physical Description note">
+                            <extent>00:05:01</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Fenton, William N., (William Nelson), 1908-2005</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Johnny John, Chauncey</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref114">
+                        <head>Scope and Contents note</head>
+                        <p>Original record 61, side A.</p>
+                    </scopecontent>
+                    <originalsloc id="ref116">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Phonograph record) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3551" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:8167">
+                        <daodesc>
+                            <p>APSdigrec_3551</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Allegany Indian Reservation (N.Y.)</geogname>
+                        <subject source="lcsh">Iroquois Indians--Music</subject>
+                        <subject source="ingest">Iroquois Indians--Rites and ceremonies</subject>
+                        <subject source="lcsh">Seneca Indians--Music</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref117" level="file">
+                    <did>
+                        <unittitle>The songs of hadiyen?gwa?ye:ni to renew the Little Water Medicine, Group IV, songs 1-6</unittitle>
+                        <unitid>09-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1941-02-17</unitdate>
+                        <physdesc id="ref118" label="General Physical Description note">
+                            <extent>00:05:00</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Fenton, William N., (William Nelson), 1908-2005</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Johnny John, Chauncey</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref119">
+                        <head>Scope and Contents note</head>
+                        <p>Original record 61, side B.</p>
+                    </scopecontent>
+                    <originalsloc id="ref121">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Phonograph record) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3552" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:8180">
+                        <daodesc>
+                            <p>APSdigrec_3552</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Allegany Indian Reservation (N.Y.)</geogname>
+                        <subject source="lcsh">Iroquois Indians--Music</subject>
+                        <subject source="ingest">Iroquois Indians--Rites and ceremonies</subject>
+                        <subject source="lcsh">Seneca Indians--Music</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref122" level="file">
+                    <did>
+                        <unittitle>The songs of hadiyen?gwa?ye:ni to renew the Little Water Medicine, Group IV, songs 7-13</unittitle>
+                        <unitid>10-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1941-02-17</unitdate>
+                        <physdesc id="ref123" label="General Physical Description note">
+                            <extent>00:05:00</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Fenton, William N., (William Nelson), 1908-2005</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Johnny John, Chauncey</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref124">
+                        <head>Scope and Contents note</head>
+                        <p>Original record 62, side A.</p>
+                    </scopecontent>
+                    <originalsloc id="ref126">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Phonograph record) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3553" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:8179">
+                        <daodesc>
+                            <p>APSdigrec_3553</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Allegany Indian Reservation (N.Y.)</geogname>
+                        <subject source="lcsh">Iroquois Indians--Music</subject>
+                        <subject source="ingest">Iroquois Indians--Rites and ceremonies</subject>
+                        <subject source="lcsh">Seneca Indians--Music</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref127" level="file">
+                    <did>
+                        <unittitle>The songs of hadiyen?gwa?ye:ni to renew the Little Water Medicine, Group IV, songs 14-24</unittitle>
+                        <unitid>10-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1941-02-17</unitdate>
+                        <physdesc id="ref128" label="General Physical Description note">
+                            <extent>00:05:16</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Fenton, William N., (William Nelson), 1908-2005</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Johnny John, Chauncey</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref129">
+                        <head>Scope and Contents note</head>
+                        <p>Original record 62, side B.</p>
+                    </scopecontent>
+                    <originalsloc id="ref131">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Phonograph record) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3554" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:8165">
+                        <daodesc>
+                            <p>APSdigrec_3554</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Allegany Indian Reservation (N.Y.)</geogname>
+                        <subject source="lcsh">Iroquois Indians--Music</subject>
+                        <subject source="ingest">Iroquois Indians--Rites and ceremonies</subject>
+                        <subject source="lcsh">Seneca Indians--Music</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref132" level="file">
+                    <did>
+                        <unittitle>Gane'o'q Drum Dance</unittitle>
+                        <unitid>11-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1945-11-24</unitdate>
+                        <physdesc id="ref133" label="General Physical Description note">
+                            <extent>00:05:18</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Fenton, William N., (William Nelson), 1908-2005</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Johnny John, Chauncey</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Jones, Albert</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref134">
+                        <head>Scope and Contents note</head>
+                        <p>Original record 25, side A.</p>
+                    </scopecontent>
+                    <originalsloc id="ref136">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Phonograph record) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3555" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:8162">
+                        <daodesc>
+                            <p>APSdigrec_3555</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Allegany Indian Reservation (N.Y.)</geogname>
+                        <subject source="lcsh">Iroquois Indians--Music</subject>
+                        <subject source="lcsh">Seneca Indians--Music</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref137" level="file">
+                    <did>
+                        <unittitle>Corn Dance</unittitle>
+                        <unitid>11-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1945-11-24</unitdate>
+                        <physdesc id="ref138" label="General Physical Description note">
+                            <extent>00:05:13</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Fenton, William N., (William Nelson), 1908-2005</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Johnny John, Chauncey</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Jones, Albert</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref139">
+                        <head>Scope and Contents note</head>
+                        <p>Original record 25, side B.</p>
+                    </scopecontent>
+                    <originalsloc id="ref141">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Phonograph record) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3556" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:8178">
+                        <daodesc>
+                            <p>APSdigrec_3556</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Allegany Indian Reservation (N.Y.)</geogname>
+                        <subject source="lcsh">Iroquois Indians--Music</subject>
+                        <subject source="lcsh">Seneca Indians--Music</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref142" level="file">
+                    <did>
+                        <unittitle>Fish Dance of Olden Times</unittitle>
+                        <unitid>12-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1945</unitdate>
+                        <physdesc id="ref143" label="General Physical Description note">
+                            <extent>00:04:27</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Buck, George</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Fenton, William N., (William Nelson), 1908-2005</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Styres, Edward</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref144">
+                        <head>Scope and Contents note</head>
+                        <p>Original record 12, side A.</p>
+                    </scopecontent>
+                    <originalsloc id="ref146">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Phonograph record) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3557" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:8173">
+                        <daodesc>
+                            <p>APSdigrec_3557</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Cayuga Indians--Music</subject>
+                        <subject source="lcsh">Iroquois Indians--Music</subject>
+                        <geogname source="ingest">Six Nations Indian Reserve No. 40 (Ont.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref147" level="file">
+                    <did>
+                        <unittitle>Cayuga Fish Dance</unittitle>
+                        <unitid>12-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1945</unitdate>
+                        <physdesc id="ref148" label="General Physical Description note">
+                            <extent>00:05:21</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Buck, George</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Fenton, William N., (William Nelson), 1908-2005</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Styres, Edward</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref149">
+                        <head>Scope and Contents note</head>
+                        <p>Original record 12, side B.</p>
+                    </scopecontent>
+                    <originalsloc id="ref151">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Phonograph record) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3558" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:8163">
+                        <daodesc>
+                            <p>APSdigrec_3558</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Cayuga Indians--Music</subject>
+                        <subject source="lcsh">Iroquois Indians--Music</subject>
+                        <geogname source="ingest">Six Nations Indian Reserve No. 40 (Ont.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref152" level="file">
+                    <did>
+                        <unittitle>Old Time Women's Dance</unittitle>
+                        <unitid>13-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1945-11-16</unitdate>
+                        <physdesc id="ref153" label="General Physical Description note">
+                            <extent>00:05:07</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Fenton, William N., (William Nelson), 1908-2005</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Green, George</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">John, Willie</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref154">
+                        <head>Scope and Contents note</head>
+                        <p>Original record 5, side A.</p>
+                    </scopecontent>
+                    <originalsloc id="ref156">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Phonograph record) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3559" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:8185">
+                        <daodesc>
+                            <p>APSdigrec_3559</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Cayuga Indians--Music</subject>
+                        <subject source="lcsh">Iroquois Indians--Music</subject>
+                        <geogname source="ingest">Six Nations Indian Reserve No. 40 (Ont.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref157" level="file">
+                    <did>
+                        <unittitle>Individual Songs: Willie John and George Green</unittitle>
+                        <unitid>13-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1945-11-16</unitdate>
+                        <physdesc id="ref158" label="General Physical Description note">
+                            <extent>00:02:44</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Fenton, William N., (William Nelson), 1908-2005</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Green, George</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">John, Willie</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref159">
+                        <head>Scope and Contents note</head>
+                        <p>Original record 5, side B.</p>
+                    </scopecontent>
+                    <originalsloc id="ref161">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Phonograph record) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3560" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:8154">
+                        <daodesc>
+                            <p>APSdigrec_3560</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Cayuga Indians--Music</subject>
+                        <subject source="lcsh">Iroquois Indians--Music</subject>
+                        <geogname source="ingest">Six Nations Indian Reserve No. 40 (Ont.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref162" level="file">
+                    <did>
+                        <unittitle>Individual Songs: Mrs. George Green</unittitle>
+                        <unitid>13-03</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1945-11-16</unitdate>
+                        <physdesc id="ref163" label="General Physical Description note">
+                            <extent>00:01:46</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Fenton, William N., (William Nelson), 1908-2005</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Green, George, Mrs.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref164">
+                        <head>Scope and Contents note</head>
+                        <p>Original record 5, side B.</p>
+                    </scopecontent>
+                    <originalsloc id="ref166">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Phonograph record) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3561" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:8169">
+                        <daodesc>
+                            <p>APSdigrec_3561</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Cayuga Indians--Music</subject>
+                        <subject source="lcsh">Iroquois Indians--Music</subject>
+                        <geogname source="ingest">Six Nations Indian Reserve No. 40 (Ont.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref167" level="file">
+                    <did>
+                        <unittitle>Garter Dance</unittitle>
+                        <unitid>14-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1948-05</unitdate>
+                        <physdesc id="ref168" label="General Physical Description note">
+                            <extent>00:06:03</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Buck, George</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Fenton, William N., (William Nelson), 1908-2005</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Styres, Edward</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref169">
+                        <head>Scope and Contents note</head>
+                        <p>Original record 11, side A.</p>
+                    </scopecontent>
+                    <originalsloc id="ref171">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Phonograph record) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3562" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:17287">
+                        <daodesc>
+                            <p>APSdigrec_3562</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Cayuga Indians--Music</subject>
+                        <subject source="lcsh">Iroquois Indians--Music</subject>
+                        <geogname source="ingest">Six Nations Indian Reserve No. 40 (Ont.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref172" level="file">
+                    <did>
+                        <unittitle>Pigeon Song</unittitle>
+                        <unitid>14-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1948-05</unitdate>
+                        <physdesc id="ref173" label="General Physical Description note">
+                            <extent>00:05:46</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Buck, George</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Fenton, William N., (William Nelson), 1908-2005</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">General, Jack</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Styres, Edward</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref174">
+                        <head>Scope and Contents note</head>
+                        <p>Original record 11, side B.</p>
+                    </scopecontent>
+                    <originalsloc id="ref176">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Phonograph record) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3563" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:17290">
+                        <daodesc>
+                            <p>APSdigrec_3563</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Cayuga Indians--Music</subject>
+                        <subject source="lcsh">Iroquois Indians--Music</subject>
+                        <geogname source="ingest">Six Nations Indian Reserve No. 40 (Ont.)</geogname>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

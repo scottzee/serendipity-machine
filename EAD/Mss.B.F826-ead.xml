@@ -1,0 +1,2876 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.F826-ead.xml">PUBLIC "-//American Philosophical Society Library//TEXT(US::PAAV::B F826:: William Parker Foulke Papers)//EN" "foulke.xml"</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>William Parker Foulke Papers
+                    <date certainty="approximate" type="span">1840-1865</date>
+                    <num>Mss.B.F826</num>
+                </titleproper>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+                <date>9/2000</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T19:17-0400</date>
+            </creation>
+            <langusage>ENG</langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>William Parker Foulke Papers, 1840-1865</unittitle>
+            <unitid>Mss.B.F826</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>3.75 Linear feet</extent>
+                <extent>ca. 3,000 items</extent>
+            </physdesc>
+            <unitdate normal="1840/1865" type="inclusive">1840-1865</unitdate>
+            <abstract id="ref1" label="Abstract">A product of the distinctive culture of reform in antebellum Philadelphia, William Parker Foulke was the scion of the old elite who put a conservative stamp on social change. Trained as an attorney, Foulke spent much of his adult life engaging his deep amateur interest in natural history and mental philosophy and devoting himself to a variety of civic and philanthropic causes, including the colonization of freed slaves, penal reform, and cultural institutions in his native Philadelphia. 
+                <lb/>The Foulke Papers are the product of the diverse social and intellectual interests of the Philadelphia attorney and philanthropist William Parker Foulke. Consisting primarily of correspondence, notes, and essays, the collection touches on Foulke's many interests. The collection includes numerous lectures delivered by Foulke along with material on the Lancaster County Prison, New York Prison Association, and the Philadelphia Society For Alleviating the Miseries of Public Prisons; notebooks concerning prisons and prisoners, including a 1846-1852 diary, and a listing of prisoners, their race, age, crime, sentence, and observations; a diary concerning the American Colonization Society (1852); a copy of an arctic diary (1853-1854) by John Wall Wilson, in the hand of Isaac Israel Hayes, which recounts much of the journey aboard the brig 
+                <emph render="italic">Advance</emph>, commanded by Elisha Kent Kane. There is also a list of buildings (1820-1841) designed by John Haviland, and material on the American Academy of Music, Philadelphia.</abstract>
+            <physloc id="ref467" label="Paging">LH-MV-C-7 (B F826); LH-MV-E-1 (B F826.1); LH-SB-Black Case-26 (B F826, OS)</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Foulke, William Parker, 1816-1865</persname>
+            </origination>
+        </did>
+        <bibliography id="ref16">
+            <head>Bibliography</head>
+            <bibref>Foulke, William Parker, "Account of the remains of a fossil extinct reptile recently discovered at Haddonfield, New Jersey," 
+                <emph render="italic">Proceedings</emph> of the Academy of Natural Sciences of Philadelphia (December 1858) 
+                <emph render="bold">Call no.: </emph>Pam. 384, no.11 and 389, 14</bibref>
+            <bibref>_____, 
+                <emph render="italic">Considerations respecting the policy of some recent legislation in Pennsylvania </emph>(Philadelphia, 1861) 
+                <emph render="bold">Call no.: </emph>Pam. v.1053, no.7 (re: Prisons)</bibref>
+            <bibref>_____, 
+                <emph render="italic">Discourse in commemoration of the founding of the Academy of Natural Sciences of Philadelphia. </emph>(Philadelphia, 1854) 
+                <emph render="bold">Call no.: </emph>506.73 Ac1mi no.4</bibref>
+            <bibref>_____, "Notes respecting the Indians of Lancaster County, Pennsylvania," 
+                <emph render="italic">Memoirs </emph>of the Historical Society of Pennsylvania 4, 2 (1850) 
+                <emph render="bold">Call no.: </emph>970.1 Pam. no.9</bibref>
+            <bibref>_____, 
+                <emph render="italic">Remarks on cellular separation. Read by appointment of the American association for the improvement of penal and reformatory institutions </emph>(Philadelphia, 1861) 
+                <emph render="bold">Call no.: </emph>365 F82r</bibref>
+            <bibref>_____, 
+                <emph render="italic">Remarks on the penal system of Pennsylvania particularly with reference to county prisons </emph>(Philadelphia, 1855) 
+                <emph render="bold">Call no.: </emph>365 Pam. v.7, no.10</bibref>
+            <bibref>_____, 
+                <emph render="italic">The right use of history: an anniversary discourse delivered before the Historical Society of Pennsylvania </emph>(Philadelphia, 1856) 
+                <emph render="bold">Call no.: </emph>Pam. v.473, no.12</bibref>
+        </bibliography>
+        <odd id="ref459">
+            <head>African American History Note</head>
+            <p>Among his many interests, Foulke was concerned with the colonization of West Africa for settlement of ex-slaves. As an agent for the Pennsylvania Colonization Society, Foulke kept a 
+                <ref target="ref434">valuable diary of his activities in 1852</ref>. Colonization also appears as a theme in his correspondence with 
+                <ref target="ref143">Edward Everett (1794-1865)</ref>, 
+                <ref target="ref124">Elliott Cresson (1796-1854)</ref>, 
+                <ref target="ref234">John H. B. Latrobe (1803-1891)</ref>, 
+                <ref target="ref262">William Francis Lynch (1801-1865)</ref>, and 
+                <ref target="ref269">William McLain (1855-1857)</ref>, among others.</p>
+        </odd>
+        <odd id="ref460">
+            <head>Early American History Note</head>
+            <p>The William Parker Foulke Collection is one of the largest and richest collections at the APS. The collection, described and inventories in depth in MOLE, reflects the wide and varied interests of one of Philadelphia's most prominent 19th century citizens.</p>
+            <p>Perhaps one of the most interesting and often overlooked aspects of Foulke is his interest in historical writing. Known today as a reformer of prisons, Foulke showed a keen interest in writing and thinking about the past. He has essays on Native Americans, a piece of historical fiction on Dunmore’s War, an essay on the writing of American history, an essay on the “right use of history,” a history of freemasonry, and a fascinating and detailed account of Native Americans and Pennsylvanians in the colonial period.</p>
+        </odd>
+        <odd id="ref18">
+            <head>General note</head>
+            <p>Prior to their arrival at the APS, the Foulke Papers suffered from fire and environmental damage. The most fragile items have been encapsulated in mylar, but many others remain fragile, particularly along the folds, and may be handled only with great care</p>
+        </odd>
+        <separatedmaterial id="ref15">
+            <head>Separated Materials note</head>
+            <p>A Foulke family account book, 1797, is housed separately (B F826.1).</p>
+            <p>Photographs and maps have been removed to their respective departments for proper storage.</p>
+        </separatedmaterial>
+        <relatedmaterial id="ref13">
+            <head>Related Archival Materials note</head>
+            <p>Lesley, J. P., "William Parker Foulke," APS 
+                <title render="italic">Proceedings </title>10 (1868): 481-510.</p>
+            <p>See also the William Parker Foulke Minute-book of the Eastern State Penitentiary, 1846-1858, at the Historical Society of Pennsylvania. The HSP collections include other Foulke material.</p>
+        </relatedmaterial>
+        <acqinfo id="ref11">
+            <head>Immediate Source of Acquisition note</head>
+            <p>The collection was acquired between 1973 and 1976; see 1973-2292ms, 74-734ms, 74-851 ms, 75-606ms, 75-1145ms, 76-281ms.</p>
+        </acqinfo>
+        <prefercite id="ref9">
+            <head>Preferred Citation note</head>
+            <p>Cite as: William Parker Foulke Papers, American Philosophical Society.</p>
+        </prefercite>
+        <scopecontent id="ref5">
+            <head>Scope and Contents note</head>
+            <p>The Foulke Papers are the product of the diverse social and intellectual interests of William Parker Foulke (1816-1865), a Philadelphia attorney and philanthropist. Consisting primarily of correspondence, notes, and essays, the collection touches on Foulke's many interests ranging from colonization of freed slaves to penal reform, mental philosophy, geology and paleontology, and Philadelphia cultural institutions.</p>
+            <p>A solid reformer, Foulke was deeply devoted to the cause of penal reform, and the collection is rich in material relating to county and state prisons and prison reform associations, particularly the Philadelphia Prison Society, the New York Prison Association, and the Philadelphia Society for Alleviating the Miseries in Public Prisons. Foulke corresponded with a great number of prison reformers, including Dorothea Lynde Dix (1802-1887), Louis Mathurin Moreau-Christophe (1799-1881), A. Blouet (probably Guillaume Abel Blouet, 1795-1853), H. C. King, Isaac G. Gordon (1819-1893), James Hall, and the architect John Haviland (1792-1852). In addition to the correspondence, Foulke collected some biographical material on John Haviland for an obituary he published, including a list of prisons he designed and copies of a few of his letters one of which includes a sketch of a radiating plan for a prison. Two notebooks on prisons and prisoners are located at the end of the collection.</p>
+            <p>As an agent for the Pennsylvania Colonization Society in 1852, Foulke kept a valuable diary of his activities, and while less well documented than his interests in prison reform, colonization appears as a theme in his correspondence with Edward Everett (1794-1865), Elliott Cresson (1796-1854), John H. B. Latrobe (1803-1891), William Francis Lynch (1801-1865), and William McLain, among others.</p>
+            <p>Foulke's fascination with natural history is reflected in the presence in the collection of some interesting materials relating to arctic exploration and geological research. His support for Arctic exploration resulted in acquiring the diary of John Wall Wilson, 1853-1854, and in significant correspondence with Isaac Israel Hayes and minor correspondence with Henry Grinnell and Elisha Kent Kane, as well as miscellaneous folders labeled "Arctic Expedition." Perhaps the most unusual arctic item is an exchange of letters with the great landscape painter Frederick Edwin Church (1826-1900) regarding submission of his painting of Haye's dog to the Pennsylvania Academy of Fine Arts.</p>
+            <p>Geologically, Foulke was involved with the Pennsylvania Geological Survey and in supporting the establishment of a state school of mines. In addition to some interesting correspondence with Martin Hans Boyé (1812-1909), James Curtis Booth (1810-1888), John Chapman Cresson (1806-1876), George H. Hart, Joseph Leidy (More natural historical than geological or paleontological), Henry D. Rogers (1808-1866), John Fries Frazer (1812-1872), Peter Wenrick Sheafer (b. 1819), and J. W. Guernsey, there is an important account of Foulke's role in the discovery of 
+                <emph render="italic">Hadrosaurus foulkei </emph>in 1858, including a map of the excavation site. This work was published in the 
+                <emph render="italic">Proceedings </emph>of the Academy of Natural Sciences.</p>
+            <p>Given Foulke's industrious efforts in the city, Philadelphia institutions are well represented in collection, including the Franklin Institute, Academy of Natural Sciences, Historical Society of Pennsylvania, and a small but important cache of materials relating to the establishment of the American Academy of Music. A series of lectures delivered by Foulke at the Frankford Lyceum in 1843 reveal his thoughts on mental philosophy, induction, "popular studies," and romance, and can profitably be compared to a manuscript, "Elements of Mental Philosophy," he prepared for his sister Elizabeth's benefit in 1838. This manuscript is a lengthy exposition of mental philosophy showing the influence of popular writers on the subject, such as Abercrombie, Rush, and Stewart. Other essays or sets of notes, some intended for publication, touch on the history of Freemasonry (Foulke became a mason in 1851), the geology of Pennsylvania, photography (probably written before 1845), and of course, penal reform and colonization.</p>
+            <p>Foulke's family correspondence goes well beyond the typical platitudes and family news. As a young man he wrote long, personally revealing letters to his cousin Deborah Bringhurst, discussing his thoughts on spirituality and religion, mesmerism, and other topics. There is a very fine set of letters written by Foulke to his aunt Eleanor (1792-1882) describing his tour of Pennsylvania county prisons in 1847 and 1848, describing travel conditions in central and western Pennsylvania, the landscape, geology, social life in small towns, and agriculture. Letters to his father, Richard Parker Foulke (1789-1860), mother Anna Catherine Strohn Foulke (1792-1856), and wife Julia are somewhat less revealing, but provide interesting background material for interpreting his social and intellectual life.</p>
+            <p>The collection also includes biographical materials on Foulke assembled by Julia Foulke, Frederick A. Packard, and J. Peter Lesley.</p>
+        </scopecontent>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>William Parker Foulke was a product of the distinctive culture of reform in antebellum Philadelphia, a scion of the old elite putting a conservative stamp on social change. A descendant of Welsh Quakers who had emigrated in 1698, Foulke was a tireless worker in the cause of the colonization of freedmen and in prison reform, though his philanthropic interests and financial largesse were as varied as his financial commitments.</p>
+            <p>Describing himself as a Federalist in politics even years after the failure of that party, Foulke was possessed of a rambling and incisive intellect and a strong sense of social obligation for the high standing he had inherited. He indulged an appetite for natural science, mental and moral philosophy, and literature during the 1830s, passing through a period of deep religious skepticism before emerging as a diffuse, non- (or anti-) sectarian believer. It was out of this spiritual sense of the community of man and nature that Foulke developed a distinctive social philosophy that may first have appeared in lectures he delivered at the Frankford Lyceum in 1843.</p>
+            <p>Having studied for the law under John B. Wallace and John Morin Scott, Foulke was admitted to the Pennsylvania bar in 1841, though the law could hardly be said to be his life's work. At age 29, he began an association with the two reforms that would occupy so much time and energy in his short life. Sensitized to the problems of incarceration through his legal training, Foulke joined the Philadelphia Society for Alleviating the Miseries in Public Prisons in July, 1845, the first of many prison reform organizations that would attract his support. Following in the tradition of his Quaker forebears, Foulke was an assiduous student of the penitentiary and the cognate issues of instilling discipline, repentance, and social order. Directing his attention first to the nearby Eastern State Penitentiary, he was rapidly drawn into the controversy between the Pennsylvania System, in which prisoners were isolated in silent confinement, and alternate models said to be less harsh.</p>
+            <p>Foulke spent several years comparing alternative disciplinary models and writing on correctional issues in the 
+                <emph render="italic">Journal on Prison Discipline and Philanthropy </emph>and in separate pamphlets. Following a tour of mid-Atlantic correctional institutions in 1847 and 1848, Foulke was instrumental in erecting the new Lancaster County Prison, and contributed materially to later penitentiaries in several other counties in Pennsylvania. In his broad view of penal discipline he considered issues ranging from relief of the suffering to prison architecture, and he became a noted supporter of "cellular isolation" and hard labor. He was associated with the American Association for Improvement of Prison Discipline, the Convention of State Prison Wardens (becoming Corresponding Secretary in 1861), and was in regular contact with prisons and prison associations in New York, Massachusetts, and Maryland.</p>
+            <p>In October, 1845, Foulke threw his support to a second major reform, the Pennsylvania Colonization Society. An antislavery organization that resettled as many as 1,000 freed slaves per year in West Africa, the Colonization Society fell out of favor with the more radical abolitionists during the mid-1840s and was roundly opposed as well by most pro-slavery advocates. Foulke, however, committed himself to the project of resettlement, never wavering in support until the time of his death in 1865, at which time he was the Society's Vice President. His cherished scheme of locating a more healthful home for the transplanted freemen than Liberia died for lack of congressional support and from opposition in both pro-slavery and anti-slavery circles.</p>
+            <p>Among his numerous other social commitments, Foulke was a prominent financial supporter of arctic exploration at a time when it first gripped the public consciousness in the United States, assisting both Isaac Israel Hayes (1860). He was a major benefactor of Philadelphia cultural institutions, particularly the American Academy of Music, and was a member of the Academy of Natural Sciences of Philadelphia, the Historical Society of Pennsylvania, and, like his grandfather John Foulke (1757-1796), the American Philosophical Society. He was, as well, an avid natural historian and geologist, active in support of the Pennsylvania Geological Survey. Perhaps his most visibly lasting achievement may have been his discovery in 1858 of a dinosaur skeleton in a marl pit in Haddonfield, N.J. 
+                <emph render="italic">Hadrosaurus foulkei, </emph>the first dinosaur discovered in America, was named after Foulke by Joseph Leidy.</p>
+            <p>In 1855, Foulke married Julia DeVeaux Powel (d. 1884), daughter of Col. John Hare Powel, with who he had seven children. He died at his residence on Pine Street on June 18, 1865.</p>
+        </bioghist>
+        <controlaccess>
+            <persname rules="aacr" source="naf">Bache, A.D.,  (Alexander Dallas), 1806-1867</persname>
+            <persname source="ingest">Bringhurst</persname>
+            <persname source="ingest">Cadwalader, John</persname>
+            <persname source="ingest">Carey , Henry Charles, 1793-1879</persname>
+            <persname rules="aacr" source="naf">Carson, Joseph, 1808-1876</persname>
+            <persname source="ingest">Cassin, John, 1813-1869</persname>
+            <persname source="ingest">Dix, Dorothea Lynde, 1802-1887</persname>
+            <persname source="ingest">Du Ponceau , Peter Stephen, 1760-1844</persname>
+            <persname rules="aacr" source="naf">Everett, Edward, 1794-1865</persname>
+            <persname source="naf">Frazer, John Fries, 1812-1872</persname>
+            <persname source="ingest">Gilpin, Henry D. (Henry Dilworth), 1801-1860</persname>
+            <persname source="ingest">Grinnell, Henry</persname>
+            <persname source="ingest">Hart, George H.</persname>
+            <persname rules="aacr" source="naf">Kane, Elisha Kent, 1820-1857</persname>
+            <persname source="ingest">Landis, Henry D.</persname>
+            <persname rules="aacr" source="naf">LeConte, John L.,  (John Lawrence), 1825-1883</persname>
+            <persname source="ingest">Leidy, Joseph, 1823-1891</persname>
+            <persname source="naf">Lesley, J. P.,  (J. Peter), 1819-1903</persname>
+            <persname rules="aacr" source="naf">Morton, Samuel George, 1799-1851</persname>
+            <persname source="ingest">Olden, Charles Smith</persname>
+            <persname source="ingest">Packard, Frederick A.,  (Frederick Adolphus), 1794-1867</persname>
+            <persname source="ingest">Rogers, Henry D.,  (Henry Darwin), 1806-1866</persname>
+            <persname source="ingest">Sheafer, Peter W.</persname>
+            <persname rules="aacr" source="naf">Sumner, Charles, 1811-1874</persname>
+            <subject source="local">Abolition, emancipation, freedom</subject>
+            <subject source="ingest">Advance (Brig)</subject>
+            <subject source="ingest">Africa, West--Description and travel</subject>
+            <subject source="ingest">American Academy of Music (Philadelphia, Pa.)</subject>
+            <subject source="ingest">American Colonization Society</subject>
+            <subject source="ingest">Antislavery movements--Pennsylvania</subject>
+            <subject source="ingest">Archaeology--Pennsylvania</subject>
+            <subject source="lcsh">Arctic regions--Discovery and exploration</subject>
+            <subject source="local">Colonization, repatriation</subject>
+            <subject source="ingest">Dinosaurs--New Jersey</subject>
+            <subject source="ingest">Eastern State Penitentiary (Philadelphia, Pa.)</subject>
+            <subject source="ingest">Freemasons--Pennsylvania</subject>
+            <genreform source="leah">General Correspondence</genreform>
+            <subject source="ingest">Geology--Pennsylvania</subject>
+            <subject source="ingest">Haviland, John, 1792-1852</subject>
+            <subject source="ingest">Hayes, I. I. (Isaac Israel), 1832-1881</subject>
+            <subject source="ingest">Kane, Elisha Kent, 1820-1857</subject>
+            <subject source="ingest">Lancaster (Penn.) County Prison</subject>
+            <subject source="leah">Law</subject>
+            <genreform source="leah">Legal Records</genreform>
+            <genreform source="leah">Literature</genreform>
+            <subject source="leah">Literature, Arts, and Culture</subject>
+            <subject source="ingest">Lyceums--Pennsylvania--Philadelphia</subject>
+            <genreform source="leah">Manuscript Essays</genreform>
+            <subject source="ingest">Mesmerism</subject>
+            <genreform source="leah">Miscellaneous</genreform>
+            <subject source="leah">Native America</subject>
+            <subject source="ingest">New York Prison Association</subject>
+            <subject source="leah">Pennsylvania History</subject>
+            <subject source="ingest">Pennsylvania--Description and travel--19th century</subject>
+            <subject source="leah">Philadelphia History</subject>
+            <subject source="ingest">Philadelphia Society For Alleviating the Miseries of Public Prisons</subject>
+            <subject source="ingest">Philadelphia--History--19th century</subject>
+            <genreform source="leah">Political Correspondence</genreform>
+            <subject source="ingest">Prison reformers--Pennsylvania</subject>
+            <subject source="ingest">Prisons--Design and construction</subject>
+            <subject source="ingest">Prisons--New York (State)</subject>
+            <subject source="ingest">Prisons--Pennsylvania</subject>
+            <subject source="ingest">Reformers--Pennsylvania</subject>
+            <subject source="leah">Science and Technology</subject>
+            <subject source="lcsh">Slavery -- United States.</subject>
+            <subject source="local">Social conditions, social advocacy, social reform</subject>
+            <subject source="ingest">Wilson, John Wall</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref19" level="series">
+                <did>
+                    <unittitle>William Parker Foulke Papers</unittitle>
+                    <container id="cid7771" type="Box" label="Mixed materials">1-7</container>
+                    <physdesc>
+                        <extent>3.75 linear feet</extent>
+                    </physdesc>
+                    <unitdate>ca. 1840-1865</unitdate>
+                </did>
+                <c02 id="ref20" level="file">
+                    <did>
+                        <unittitle>A</unittitle>
+                    </did>
+                    <c03 id="ref21" level="otherlevel">
+                        <did>
+                            <unittitle>Academy of Natural Sciences</unittitle>
+                            <container id="cid8190" type="Box" label="Mixed materials">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref22" level="otherlevel">
+                        <did>
+                            <unittitle>Adams and Co.</unittitle>
+                            <container id="cid8189" type="Box" label="Mixed materials">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref23" level="otherlevel">
+                        <did>
+                            <unittitle>Adshead, Joseph</unittitle>
+                            <container id="cid8188" type="Box" label="Mixed materials">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref24" level="otherlevel">
+                        <did>
+                            <unittitle>Africa</unittitle>
+                            <container id="cid8187" type="Box" label="Mixed materials">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref25" level="otherlevel">
+                        <did>
+                            <unittitle>African Repository</unittitle>
+                            <container id="cid8186" type="Box" label="Mixed materials">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref26" level="otherlevel">
+                        <did>
+                            <unittitle>Allen, W H</unittitle>
+                            <container id="cid8185" type="Box" label="Mixed materials">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref27" level="otherlevel">
+                        <did>
+                            <unittitle>American Academy of Music, Philadelphia</unittitle>
+                            <container id="cid8184" type="Box" label="Mixed materials">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref28" level="otherlevel">
+                        <did>
+                            <unittitle>American Association for Improvement of Prison Discipline</unittitle>
+                            <container id="cid8183" type="Box" label="Mixed materials">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref29" level="otherlevel">
+                        <did>
+                            <unittitle>American Colonization Society</unittitle>
+                            <container id="cid8182" type="Box" label="Mixed materials">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref30" level="otherlevel">
+                        <did>
+                            <unittitle>Andrews, Ethan Allen</unittitle>
+                            <container id="cid8181" type="Box" label="Mixed materials">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref31" level="otherlevel">
+                        <did>
+                            <unittitle>Anthony, Joseph B</unittitle>
+                            <container id="cid8180" type="Box" label="Mixed materials">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref32" level="otherlevel">
+                        <did>
+                            <unittitle>Appropriation Bill</unittitle>
+                            <container id="cid8179" type="Box" label="Mixed materials">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref33" level="otherlevel">
+                        <did>
+                            <unittitle>Argrus, Charles</unittitle>
+                            <container id="cid8178" type="Box" label="Mixed materials">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref34" level="otherlevel">
+                        <did>
+                            <unittitle>[Arnsbury?], Edward</unittitle>
+                            <container id="cid8177" type="Box" label="Mixed materials">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref35" level="otherlevel">
+                        <did>
+                            <unittitle>Arctic Expedition</unittitle>
+                            <container id="cid8176" type="Box" label="Mixed materials">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref36" level="otherlevel">
+                        <did>
+                            <unittitle>Artillery Company</unittitle>
+                            <container id="cid8175" type="Box" label="Mixed materials">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref37" level="otherlevel">
+                        <did>
+                            <unittitle>Ashmead, Lewis</unittitle>
+                            <container id="cid8174" type="Box" label="Mixed materials">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref38" level="otherlevel">
+                        <did>
+                            <unittitle>Astronomy</unittitle>
+                            <container id="cid8173" type="Box" label="Mixed materials">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref39" level="otherlevel">
+                        <did>
+                            <unittitle>Aulderman, S S</unittitle>
+                            <container id="cid8172" type="Box" label="Mixed materials">1</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref40" level="file">
+                    <did>
+                        <unittitle>B</unittitle>
+                        <container id="cid8138" type="Box" label="Mixed materials">1</container>
+                    </did>
+                    <c03 id="ref41" level="otherlevel">
+                        <did>
+                            <unittitle>Bache, Alexander Dallas</unittitle>
+                            <container id="cid8171" type="Box" label="Mixed materials">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref42" level="otherlevel">
+                        <did>
+                            <unittitle>Baker, C H</unittitle>
+                            <container id="cid8170" type="Box" label="Mixed materials">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref43" level="otherlevel">
+                        <did>
+                            <unittitle>Baker, Richard</unittitle>
+                            <container id="cid8169" type="Box" label="Mixed materials">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref44" level="otherlevel">
+                        <did>
+                            <unittitle>Bannan, John</unittitle>
+                            <container id="cid8168" type="Box" label="Mixed materials">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref45" level="otherlevel">
+                        <did>
+                            <unittitle>Barclay, James J</unittitle>
+                            <container id="cid8167" type="Box" label="Mixed materials">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref46" level="otherlevel">
+                        <did>
+                            <unittitle>Barnes, Albert</unittitle>
+                            <container id="cid8166" type="Box" label="Mixed materials">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref47" level="otherlevel">
+                        <did>
+                            <unittitle>Barton, Isaac</unittitle>
+                            <container id="cid8165" type="Box" label="Mixed materials">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref48" level="otherlevel">
+                        <did>
+                            <unittitle>Bays, John</unittitle>
+                            <container id="cid8164" type="Box" label="Mixed materials">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref49" level="otherlevel">
+                        <did>
+                            <unittitle>Beck, C.</unittitle>
+                            <container id="cid8163" type="Box" label="Mixed materials">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref50" level="otherlevel">
+                        <did>
+                            <unittitle>Beirne, P</unittitle>
+                            <container id="cid8162" type="Box" label="Mixed materials">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref51" level="otherlevel">
+                        <did>
+                            <unittitle>Bell, John</unittitle>
+                            <container id="cid8161" type="Box" label="Mixed materials">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref52" level="otherlevel">
+                        <did>
+                            <unittitle>Benson, Stephen A</unittitle>
+                            <container id="cid8160" type="Box" label="Mixed materials">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref53" level="otherlevel">
+                        <did>
+                            <unittitle>Biddle, John B</unittitle>
+                            <container id="cid8159" type="Box" label="Mixed materials">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref54" level="otherlevel">
+                        <did>
+                            <unittitle>Bidwell, S S</unittitle>
+                            <container id="cid8158" type="Box" label="Mixed materials">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref55" level="otherlevel">
+                        <did>
+                            <unittitle>Birdie</unittitle>
+                            <container id="cid8157" type="Box" label="Mixed materials">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref56" level="otherlevel">
+                        <did>
+                            <unittitle>Blodget, L.</unittitle>
+                            <container id="cid8156" type="Box" label="Mixed materials">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref57" level="otherlevel">
+                        <did>
+                            <unittitle>Blouet, A</unittitle>
+                            <container id="cid8155" type="Box" label="Mixed materials">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref58" level="otherlevel">
+                        <did>
+                            <unittitle>Board of Exameners</unittitle>
+                            <container id="cid8154" type="Box" label="Mixed materials">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref59" level="otherlevel">
+                        <did>
+                            <unittitle>Bond, Ellen B A</unittitle>
+                            <container id="cid8153" type="Box" label="Mixed materials">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref60" level="otherlevel">
+                        <did>
+                            <unittitle>Booth, James C</unittitle>
+                            <container id="cid8152" type="Box" label="Mixed materials">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref61" level="otherlevel">
+                        <did>
+                            <unittitle>Boyé, Martin Hans</unittitle>
+                            <container id="cid8151" type="Box" label="Mixed materials">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref62" level="otherlevel">
+                        <did>
+                            <unittitle>Bracco, John</unittitle>
+                            <container id="cid8150" type="Box" label="Mixed materials">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref63" level="otherlevel">
+                        <did>
+                            <unittitle>Brecoster?, Benjamin H</unittitle>
+                            <container id="cid8149" type="Box" label="Mixed materials">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref64" level="otherlevel">
+                        <did>
+                            <unittitle>Brickenstein, Herman</unittitle>
+                            <container id="cid8148" type="Box" label="Mixed materials">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref65" level="otherlevel">
+                        <did>
+                            <unittitle>Bridges, Robert</unittitle>
+                            <container id="cid8147" type="Box" label="Mixed materials">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref66" level="otherlevel">
+                        <did>
+                            <unittitle>Brigg, M D</unittitle>
+                            <container id="cid8146" type="Box" label="Mixed materials">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref67" level="otherlevel">
+                        <did>
+                            <unittitle>Bringhurst, Deborah. Folder 1</unittitle>
+                            <container id="cid8145" type="Box" label="Mixed materials">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref68" level="otherlevel">
+                        <did>
+                            <unittitle>Bringhurst, Deborah. Folder 2</unittitle>
+                            <container id="cid8144" type="Box" label="Mixed materials">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref69" level="otherlevel">
+                        <did>
+                            <unittitle>Brown, John</unittitle>
+                            <container id="cid8143" type="Box" label="Mixed materials">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref70" level="otherlevel">
+                        <did>
+                            <unittitle>Br_ nner,</unittitle>
+                            <container id="cid8142" type="Box" label="Mixed materials">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref71" level="otherlevel">
+                        <did>
+                            <unittitle>Budd, John B</unittitle>
+                            <container id="cid8141" type="Box" label="Mixed materials">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref72" level="otherlevel">
+                        <did>
+                            <unittitle>"The Buffalo"</unittitle>
+                            <container id="cid8140" type="Box" label="Mixed materials">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref73" level="otherlevel">
+                        <did>
+                            <unittitle>Burroughs, J H</unittitle>
+                            <container id="cid8139" type="Box" label="Mixed materials">1</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref74" level="file">
+                    <did>
+                        <unittitle>C</unittitle>
+                        <container id="cid8085" type="Box" label="Mixed materials">1</container>
+                    </did>
+                    <c03 id="ref75" level="otherlevel">
+                        <did>
+                            <unittitle>Cadbury, Joel</unittitle>
+                            <container id="cid8137" type="Box" label="Mixed materials">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref76" level="otherlevel">
+                        <did>
+                            <unittitle>Cadwalader, John</unittitle>
+                            <container id="cid8136" type="Box" label="Mixed materials">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref77" level="otherlevel">
+                        <did>
+                            <unittitle>"Camp Charlotte, a tale of 1774"</unittitle>
+                            <container id="cid8135" type="Box" label="Mixed materials">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref78" level="otherlevel">
+                        <did>
+                            <unittitle>Carey, Henry C[harles]</unittitle>
+                            <container id="cid8134" type="Box" label="Mixed materials">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref79" level="otherlevel">
+                        <did>
+                            <unittitle>Carson, [Joseph?]</unittitle>
+                            <container id="cid8133" type="Box" label="Mixed materials">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref80" level="otherlevel">
+                        <did>
+                            <unittitle>Cassin, J[ohn]</unittitle>
+                            <container id="cid8132" type="Box" label="Mixed materials">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref81" level="otherlevel">
+                        <did>
+                            <unittitle>Catalogue of Books Read</unittitle>
+                            <container id="cid8131" type="Box" label="Mixed materials">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref82" level="otherlevel">
+                        <did>
+                            <unittitle>Cattell, J Mc</unittitle>
+                            <container id="cid8130" type="Box" label="Mixed materials">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref83" level="otherlevel">
+                        <did>
+                            <unittitle>Chambers, Elizabeth</unittitle>
+                            <container id="cid8129" type="Box" label="Mixed materials">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref84" level="otherlevel">
+                        <did>
+                            <unittitle>Chandler, Joseph</unittitle>
+                            <container id="cid8128" type="Box" label="Mixed materials">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref85" level="otherlevel">
+                        <did>
+                            <unittitle>Chandler, L A</unittitle>
+                            <container id="cid8127" type="Box" label="Mixed materials">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref86" level="otherlevel">
+                        <did>
+                            <unittitle>Chase, M J</unittitle>
+                            <container id="cid8126" type="Box" label="Mixed materials">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref87" level="otherlevel">
+                        <did>
+                            <unittitle>Church, Frederick E</unittitle>
+                            <container id="cid8125" type="Box" label="Mixed materials">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref88" level="otherlevel">
+                        <did>
+                            <unittitle>Clark, Henry</unittitle>
+                            <container id="cid8124" type="Box" label="Mixed materials">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref89" level="otherlevel">
+                        <did>
+                            <unittitle>Clark, Joseph</unittitle>
+                            <container id="cid8123" type="Box" label="Mixed materials">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref90" level="otherlevel">
+                        <did>
+                            <unittitle>Clemson, L G</unittitle>
+                            <container id="cid8122" type="Box" label="Mixed materials">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref91" level="otherlevel">
+                        <did>
+                            <unittitle>Clerk, Andrew</unittitle>
+                            <container id="cid8121" type="Box" label="Mixed materials">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref92" level="otherlevel">
+                        <did>
+                            <unittitle>Cochran, I L</unittitle>
+                            <container id="cid8120" type="Box" label="Mixed materials">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref93" level="otherlevel">
+                        <did>
+                            <unittitle>Colonization Herald</unittitle>
+                            <container id="cid8119" type="Box" label="Mixed materials">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref94" level="otherlevel">
+                        <did>
+                            <unittitle>Colonization Societies</unittitle>
+                            <container id="cid8118" type="Box" label="Mixed materials">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref95" level="otherlevel">
+                        <did>
+                            <unittitle>Concerning American History</unittitle>
+                            <container id="cid8117" type="Box" label="Mixed materials">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref96" level="otherlevel">
+                        <did>
+                            <unittitle>Concerning Charles Brown, Rev.</unittitle>
+                            <container id="cid8116" type="Box" label="Mixed materials">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref97" level="otherlevel">
+                        <did>
+                            <unittitle>Concerning County Prisons</unittitle>
+                            <container id="cid8115" type="Box" label="Mixed materials">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref98" level="otherlevel">
+                        <did>
+                            <unittitle>Concerning the Formation and Publication of Opinions</unittitle>
+                            <container id="cid8114" type="Box" label="Mixed materials">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref99" level="otherlevel">
+                        <did>
+                            <unittitle>Concerning the Geology of Pennsylvania</unittitle>
+                            <container id="cid8113" type="Box" label="Mixed materials">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref100" level="otherlevel">
+                        <did>
+                            <unittitle>Concerning George Washington</unittitle>
+                            <container id="cid8112" type="Box" label="Mixed materials">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref101" level="otherlevel">
+                        <did>
+                            <unittitle>Concerning History</unittitle>
+                            <container id="cid8111" type="Box" label="Mixed materials">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref102" level="otherlevel">
+                        <did>
+                            <unittitle>Concerning the History of Free Masonry</unittitle>
+                            <container id="cid8110" type="Box" label="Mixed materials">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref103" level="otherlevel">
+                        <did>
+                            <unittitle>Concerning Houses in Germantown</unittitle>
+                            <container id="cid8109" type="Box" label="Mixed materials">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref104" level="otherlevel">
+                        <did>
+                            <unittitle>Concerning Indians of Lancaster County</unittitle>
+                            <container id="cid8108" type="Box" label="Mixed materials">2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref105" level="otherlevel">
+                        <did>
+                            <unittitle>Concerning Law</unittitle>
+                            <container id="cid8107" type="Box" label="Mixed materials">2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref106" level="otherlevel">
+                        <did>
+                            <unittitle>Concerning Liability of Depositary</unittitle>
+                            <container id="cid8106" type="Box" label="Mixed materials">2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref107" level="otherlevel">
+                        <did>
+                            <unittitle>Concerning Mental Science</unittitle>
+                            <container id="cid8105" type="Box" label="Mixed materials">2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref108" level="otherlevel">
+                        <did>
+                            <unittitle>Concerning Mines</unittitle>
+                            <container id="cid8104" type="Box" label="Mixed materials">2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref109" level="otherlevel">
+                        <did>
+                            <unittitle>Concerning Penal Reform</unittitle>
+                            <container id="cid8103" type="Box" label="Mixed materials">2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref110" level="otherlevel">
+                        <did>
+                            <unittitle>Concerning Penitentiaries</unittitle>
+                            <container id="cid8102" type="Box" label="Mixed materials">2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref111" level="otherlevel">
+                        <did>
+                            <unittitle>Concerning Photography</unittitle>
+                            <container id="cid8101" type="Box" label="Mixed materials">2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref112" level="otherlevel">
+                        <did>
+                            <unittitle>Concerning the Power of Courts</unittitle>
+                            <container id="cid8100" type="Box" label="Mixed materials">2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref113" level="otherlevel">
+                        <did>
+                            <unittitle>Concerning Prison Labor</unittitle>
+                            <container id="cid8099" type="Box" label="Mixed materials">2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref114" level="otherlevel">
+                        <did>
+                            <unittitle>Concerning Representation</unittitle>
+                            <container id="cid8098" type="Box" label="Mixed materials">2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref115" level="otherlevel">
+                        <did>
+                            <unittitle>Concerning "The Right Use of History"</unittitle>
+                            <container id="cid8097" type="Box" label="Mixed materials">2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref116" level="otherlevel">
+                        <did>
+                            <unittitle>Concerning a School of Mines</unittitle>
+                            <container id="cid8096" type="Box" label="Mixed materials">2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref117" level="otherlevel">
+                        <did>
+                            <unittitle>Concerning State Lunatic Asylum</unittitle>
+                            <container id="cid8095" type="Box" label="Mixed materials">2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref118" level="otherlevel">
+                        <did>
+                            <unittitle>Concerning the Trinity</unittitle>
+                            <container id="cid8094" type="Box" label="Mixed materials">2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref119" level="otherlevel">
+                        <did>
+                            <unittitle>Conyngham, John N</unittitle>
+                            <container id="cid8093" type="Box" label="Mixed materials">2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref120" level="otherlevel">
+                        <did>
+                            <unittitle>Cooper, C C</unittitle>
+                            <container id="cid8092" type="Box" label="Mixed materials">2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref121" level="otherlevel">
+                        <did>
+                            <unittitle>Coppee, H</unittitle>
+                            <container id="cid8091" type="Box" label="Mixed materials">2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref122" level="otherlevel">
+                        <did>
+                            <unittitle>Coppinger, William</unittitle>
+                            <container id="cid8090" type="Box" label="Mixed materials">2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref123" level="otherlevel">
+                        <did>
+                            <unittitle>Crawford, Thomas H</unittitle>
+                            <container id="cid8089" type="Box" label="Mixed materials">2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref124" level="otherlevel">
+                        <did>
+                            <unittitle>Cresson, Elliott</unittitle>
+                            <container id="cid8088" type="Box" label="Mixed materials">2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref125" level="otherlevel">
+                        <did>
+                            <unittitle>Cresson, John C</unittitle>
+                            <container id="cid8087" type="Box" label="Mixed materials">2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref126" level="otherlevel">
+                        <did>
+                            <unittitle>Cuttle, John L</unittitle>
+                            <container id="cid8086" type="Box" label="Mixed materials">2</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref127" level="file">
+                    <did>
+                        <unittitle>D</unittitle>
+                        <container id="cid8078" type="Box" label="Mixed materials">2</container>
+                    </did>
+                    <c03 id="ref128" level="otherlevel">
+                        <did>
+                            <unittitle>Dillingham, W H</unittitle>
+                            <container id="cid8084" type="Box" label="Mixed materials">2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref129" level="otherlevel">
+                        <did>
+                            <unittitle>Dinner Tickets</unittitle>
+                            <container id="cid8083" type="Box" label="Mixed materials">2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref130" level="otherlevel">
+                        <did>
+                            <unittitle>Dix, Dorothea Lynde</unittitle>
+                            <container id="cid8082" type="Box" label="Mixed materials">2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref131" level="otherlevel">
+                        <did>
+                            <unittitle>Duane, W</unittitle>
+                            <container id="cid8081" type="Box" label="Mixed materials">2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref132" level="otherlevel">
+                        <did>
+                            <unittitle>Dunn, I H</unittitle>
+                            <container id="cid8080" type="Box" label="Mixed materials">2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref133" level="otherlevel">
+                        <did>
+                            <unittitle>DuPonceau, Peter Stephen</unittitle>
+                            <container id="cid8079" type="Box" label="Mixed materials">2</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref134" level="file">
+                    <did>
+                        <unittitle>E</unittitle>
+                        <container id="cid8067" type="Box" label="Mixed materials">2</container>
+                    </did>
+                    <c03 id="ref135" level="otherlevel">
+                        <did>
+                            <unittitle>Elder, Dr.</unittitle>
+                            <container id="cid8077" type="Box" label="Mixed materials">2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref136" level="otherlevel">
+                        <did>
+                            <unittitle>Elements of Mental Philosophy</unittitle>
+                            <container id="cid8076" type="Box" label="Mixed materials">2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref137" level="otherlevel">
+                        <did>
+                            <unittitle>Emlen, George</unittitle>
+                            <container id="cid8075" type="Box" label="Mixed materials">2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref138" level="otherlevel">
+                        <did>
+                            <unittitle>Essay on Law and Metaphysics</unittitle>
+                            <container id="cid8074" type="Box" label="Mixed materials">2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref139" level="otherlevel">
+                        <did>
+                            <unittitle>Essay on Laws</unittitle>
+                            <container id="cid8073" type="Box" label="Mixed materials">2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref140" level="otherlevel">
+                        <did>
+                            <unittitle>Essay on Romance</unittitle>
+                            <container id="cid8072" type="Box" label="Mixed materials">2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref141" level="otherlevel">
+                        <did>
+                            <unittitle>Estate Papers</unittitle>
+                            <container id="cid8071" type="Box" label="Mixed materials">2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref142" level="otherlevel">
+                        <did>
+                            <unittitle>Evans, Edmund C</unittitle>
+                            <container id="cid8070" type="Box" label="Mixed materials">2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref143" level="otherlevel">
+                        <did>
+                            <unittitle>Everett, Edward</unittitle>
+                            <container id="cid8069" type="Box" label="Mixed materials">2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref144" level="otherlevel">
+                        <did>
+                            <unittitle>Extract of J.M's letters to</unittitle>
+                            <container id="cid8068" type="Box" label="Mixed materials">2</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref145" level="file">
+                    <did>
+                        <unittitle>F</unittitle>
+                        <container id="cid8038" type="Box" label="Mixed materials">2</container>
+                    </did>
+                    <c03 id="ref146" level="otherlevel">
+                        <did>
+                            <unittitle>Fisher, Charles Henry</unittitle>
+                            <container id="cid8066" type="Box" label="Mixed materials">2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref147" level="otherlevel">
+                        <did>
+                            <unittitle>Fisher, Joshua Francis</unittitle>
+                            <container id="cid8065" type="Box" label="Mixed materials">2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref148" level="otherlevel">
+                        <did>
+                            <unittitle>Florence, Thomas B</unittitle>
+                            <container id="cid8064" type="Box" label="Mixed materials">2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref149" level="otherlevel">
+                        <did>
+                            <unittitle>Foulke, Eleanor. Folder 1</unittitle>
+                            <container id="cid8063" type="Box" label="Mixed materials">2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref150" level="otherlevel">
+                        <did>
+                            <unittitle>Foulke, Eleanor. Folder 2</unittitle>
+                            <container id="cid8062" type="Box" label="Mixed materials">2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref151" level="otherlevel">
+                        <did>
+                            <unittitle>Foulke, Francis E.</unittitle>
+                            <container id="cid8061" type="Box" label="Mixed materials">2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref152" level="otherlevel">
+                        <did>
+                            <unittitle>Foulke, John Francis</unittitle>
+                            <container id="cid8060" type="Box" label="Mixed materials">2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref153" level="otherlevel">
+                        <did>
+                            <unittitle>Foulke, Judah</unittitle>
+                            <container id="cid8059" type="Box" label="Mixed materials">2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref154" level="otherlevel">
+                        <did>
+                            <unittitle>Foulke, Julia</unittitle>
+                            <container id="cid8058" type="Box" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref155" level="otherlevel">
+                        <did>
+                            <unittitle>Foulke, Julia. Accounts</unittitle>
+                            <container id="cid8057" type="Box" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref156" level="otherlevel">
+                        <did>
+                            <unittitle>Foulke, Julia. Biographical Material on William Parker Foulke</unittitle>
+                            <container id="cid8056" type="Box" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref157" level="otherlevel">
+                        <did>
+                            <unittitle>Foulke, Richard P. Folder 1</unittitle>
+                            <container id="cid8055" type="Box" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref158" level="otherlevel">
+                        <did>
+                            <unittitle>Foulke, Richard P. Folder 2</unittitle>
+                            <container id="cid8054" type="Box" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref159" level="otherlevel">
+                        <did>
+                            <unittitle>Foulke, W. D.</unittitle>
+                            <container id="cid8053" type="Box" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref160" level="otherlevel">
+                        <did>
+                            <unittitle>Foulke, [William's Father]</unittitle>
+                            <container id="cid8052" type="Box" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref161" level="otherlevel">
+                        <did>
+                            <unittitle>Foulke, [William's Mother]</unittitle>
+                            <container id="cid8051" type="Box" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref162" level="otherlevel">
+                        <did>
+                            <unittitle>Foulke vs Gideon Bast</unittitle>
+                            <container id="cid8050" type="Box" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref163" level="otherlevel">
+                        <did>
+                            <unittitle>Foulketon, Pennsylvania</unittitle>
+                            <container id="cid8049" type="Box" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref164" level="otherlevel">
+                        <did>
+                            <unittitle>Foulkhouse, J</unittitle>
+                            <container id="cid8048" type="Box" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref165" level="otherlevel">
+                        <did>
+                            <unittitle>Fulton County Commissioners</unittitle>
+                            <container id="cid8047" type="Box" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref166" level="otherlevel">
+                        <did>
+                            <unittitle>Fourestier, Joseph M D</unittitle>
+                            <container id="cid8046" type="Box" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref167" level="otherlevel">
+                        <did>
+                            <unittitle>Forms</unittitle>
+                            <container id="cid8045" type="Box" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref168" level="otherlevel">
+                        <did>
+                            <unittitle>Franklin Institute</unittitle>
+                            <container id="cid8044" type="Box" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref169" level="otherlevel">
+                        <did>
+                            <unittitle>Franklin Kite Club</unittitle>
+                            <container id="cid8043" type="Box" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref170" level="otherlevel">
+                        <did>
+                            <unittitle>Frazer, John Fries</unittitle>
+                            <container id="cid8042" type="Box" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref171" level="otherlevel">
+                        <did>
+                            <unittitle>Freas, P R</unittitle>
+                            <container id="cid8041" type="Box" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref172" level="otherlevel">
+                        <did>
+                            <unittitle>Friends of the Opera House</unittitle>
+                            <container id="cid8040" type="Box" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref173" level="otherlevel">
+                        <did>
+                            <unittitle>Fry, Joseph R</unittitle>
+                            <container id="cid8039" type="Box" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref174" level="file">
+                    <did>
+                        <unittitle>G</unittitle>
+                        <container id="cid8020" type="Box" label="Mixed materials">3</container>
+                    </did>
+                    <c03 id="ref175" level="otherlevel">
+                        <did>
+                            <unittitle>Geological Survey</unittitle>
+                            <container id="cid8037" type="Box" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref176" level="otherlevel">
+                        <did>
+                            <unittitle>Gibbons, Charles</unittitle>
+                            <container id="cid8036" type="Box" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref177" level="otherlevel">
+                        <did>
+                            <unittitle>Gilpin, Henry D</unittitle>
+                            <container id="cid8035" type="Box" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref178" level="otherlevel">
+                        <did>
+                            <unittitle>Gilpine, Richard A</unittitle>
+                            <container id="cid8034" type="Box" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref179" level="otherlevel">
+                        <did>
+                            <unittitle>Gliddon, George R</unittitle>
+                            <container id="cid8033" type="Box" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref180" level="otherlevel">
+                        <did>
+                            <unittitle>Goodman, John</unittitle>
+                            <container id="cid8032" type="Box" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref181" level="otherlevel">
+                        <did>
+                            <unittitle>Gordon, Isaac G</unittitle>
+                            <container id="cid8031" type="Box" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref182" level="otherlevel">
+                        <did>
+                            <unittitle>Gould and Lincoln</unittitle>
+                            <container id="cid8030" type="Box" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref183" level="otherlevel">
+                        <did>
+                            <unittitle>Grant, George</unittitle>
+                            <container id="cid8029" type="Box" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref184" level="otherlevel">
+                        <did>
+                            <unittitle>Gregg, W W</unittitle>
+                            <container id="cid8028" type="Box" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref185" level="otherlevel">
+                        <did>
+                            <unittitle>Grier, Mary R</unittitle>
+                            <container id="cid8027" type="Box" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref186" level="otherlevel">
+                        <did>
+                            <unittitle>Grinnell, Henry</unittitle>
+                            <container id="cid8026" type="Box" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref187" level="otherlevel">
+                        <did>
+                            <unittitle>Groinn, Charles J M</unittitle>
+                            <container id="cid8025" type="Box" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref188" level="otherlevel">
+                        <did>
+                            <unittitle>Guernsey, John W</unittitle>
+                            <container id="cid8024" type="Box" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref189" level="otherlevel">
+                        <did>
+                            <unittitle>Gummere's Boarding School</unittitle>
+                            <container id="cid8023" type="Box" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref190" level="otherlevel">
+                        <did>
+                            <unittitle>Gummey and Sons</unittitle>
+                            <container id="cid8022" type="Box" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref191" level="otherlevel">
+                        <did>
+                            <unittitle>Guss, Samuel</unittitle>
+                            <container id="cid8021" type="Box" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref192" level="file">
+                    <did>
+                        <unittitle>H</unittitle>
+                        <container id="cid7988" type="Box" label="Mixed materials">3</container>
+                    </did>
+                    <c03 id="ref193" level="otherlevel">
+                        <did>
+                            <unittitle>Haddonfield Dig -</unittitle>
+                            <container id="cid8019" type="Box" label="Mixed materials">3</container>
+                            <unitdate>1858</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref194" level="otherlevel">
+                        <did>
+                            <unittitle>Hall, James</unittitle>
+                            <container id="cid8018" type="Box" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref195" level="otherlevel">
+                        <did>
+                            <unittitle>Haly, W W</unittitle>
+                            <container id="cid8017" type="Box" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref196" level="otherlevel">
+                        <did>
+                            <unittitle>Hamilton, Edward</unittitle>
+                            <container id="cid8016" type="Box" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref197" level="otherlevel">
+                        <did>
+                            <unittitle>Hand, James</unittitle>
+                            <container id="cid8015" type="Box" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref198" level="otherlevel">
+                        <did>
+                            <unittitle>Hare, Mary</unittitle>
+                            <container id="cid8014" type="Box" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref199" level="otherlevel">
+                        <did>
+                            <unittitle>Hare, Richard</unittitle>
+                            <container id="cid8013" type="Box" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref200" level="otherlevel">
+                        <did>
+                            <unittitle>Hare, Robert Powell</unittitle>
+                            <container id="cid8012" type="Box" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref201" level="otherlevel">
+                        <did>
+                            <unittitle>Hare, S E</unittitle>
+                            <container id="cid8011" type="Box" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref202" level="otherlevel">
+                        <did>
+                            <unittitle>Harned, Jacob and Co.</unittitle>
+                            <container id="cid8010" type="Box" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref203" level="otherlevel">
+                        <did>
+                            <unittitle>Hart, George H</unittitle>
+                            <container id="cid8009" type="Box" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref204" level="otherlevel">
+                        <did>
+                            <unittitle>Harvard College</unittitle>
+                            <container id="cid8008" type="Box" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref205" level="otherlevel">
+                        <did>
+                            <unittitle>Haviland, Edward</unittitle>
+                            <container id="cid8007" type="Box" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref206" level="otherlevel">
+                        <did>
+                            <unittitle>Haviland, John</unittitle>
+                            <container id="cid8006" type="Box" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref207" level="otherlevel">
+                        <did>
+                            <unittitle>Haviland, John Biography</unittitle>
+                            <container id="cid8005" type="Box" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref208" level="otherlevel">
+                        <did>
+                            <unittitle>Havilland, John von Sontag</unittitle>
+                            <container id="cid8004" type="Box" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref209" level="otherlevel">
+                        <did>
+                            <unittitle>Hayes, Benjamin</unittitle>
+                            <container id="cid8003" type="Box" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref210" level="otherlevel">
+                        <did>
+                            <unittitle>Hayes, Isaac Israel. Folder 1</unittitle>
+                            <container id="cid8002" type="Box" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref211" level="otherlevel">
+                        <did>
+                            <unittitle>Hayes, Isaac Israel. Folder 2</unittitle>
+                            <container id="cid8001" type="Box" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref212" level="otherlevel">
+                        <did>
+                            <unittitle>Hayes I. I. Eulogy of E. K.Kane</unittitle>
+                            <container id="cid8000" type="Box" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref213" level="otherlevel">
+                        <did>
+                            <unittitle>Hazard, Joseph P</unittitle>
+                            <container id="cid7999" type="Box" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref214" level="otherlevel">
+                        <did>
+                            <unittitle>Hegen, A.</unittitle>
+                            <container id="cid7998" type="Box" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref215" level="otherlevel">
+                        <did>
+                            <unittitle>Henry, Alexander</unittitle>
+                            <container id="cid7997" type="Box" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref216" level="otherlevel">
+                        <did>
+                            <unittitle>Hickock, A C</unittitle>
+                            <container id="cid7996" type="Box" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref217" level="otherlevel">
+                        <did>
+                            <unittitle>Historical Society of Pennsylvania</unittitle>
+                            <container id="cid7995" type="Box" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref218" level="otherlevel">
+                        <did>
+                            <unittitle>Holloway, John</unittitle>
+                            <container id="cid7994" type="Box" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref219" level="otherlevel">
+                        <did>
+                            <unittitle>Horstmann, Brothers and Co.</unittitle>
+                            <container id="cid7993" type="Box" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref220" level="otherlevel">
+                        <did>
+                            <unittitle>Houston, George S</unittitle>
+                            <container id="cid7992" type="Box" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref221" level="otherlevel">
+                        <did>
+                            <unittitle>Howard, Joseph P</unittitle>
+                            <container id="cid7991" type="Box" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref222" level="otherlevel">
+                        <did>
+                            <unittitle>Hughs, Francis W</unittitle>
+                            <container id="cid7990" type="Box" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref223" level="otherlevel">
+                        <did>
+                            <unittitle>Hunter R. M</unittitle>
+                            <container id="cid7989" type="Box" label="Mixed materials">3</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref224" level="file">
+                    <did>
+                        <unittitle>K</unittitle>
+                    </did>
+                    <c03 id="ref225" level="otherlevel">
+                        <did>
+                            <unittitle>Kane, Eliasha Kent</unittitle>
+                            <container id="cid7987" type="Box" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref226" level="otherlevel">
+                        <did>
+                            <unittitle>Kennedy, Ellen</unittitle>
+                            <container id="cid7986" type="Box" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref227" level="otherlevel">
+                        <did>
+                            <unittitle>King, H C</unittitle>
+                            <container id="cid7985" type="Box" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref228" level="otherlevel">
+                        <did>
+                            <unittitle>Kinley, Alexander M</unittitle>
+                            <container id="cid7984" type="Box" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref229" level="otherlevel">
+                        <did>
+                            <unittitle>Kirkbride, T. S.</unittitle>
+                            <container id="cid7983" type="Box" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref230" level="otherlevel">
+                        <did>
+                            <unittitle>Knox, John C</unittitle>
+                            <container id="cid7982" type="Box" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref231" level="file">
+                    <did>
+                        <unittitle>L</unittitle>
+                        <container id="cid7949" type="Box" label="Mixed materials">4</container>
+                    </did>
+                    <c03 id="ref232" level="otherlevel">
+                        <did>
+                            <unittitle>Lancaster County Prison</unittitle>
+                            <container id="cid7981" type="Box" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref233" level="otherlevel">
+                        <did>
+                            <unittitle>Landis, Henry D</unittitle>
+                            <container id="cid7980" type="Box" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref234" level="otherlevel">
+                        <did>
+                            <unittitle>Latrobe, John Hazlehurst Boneval</unittitle>
+                            <container id="cid7979" type="Box" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref235" level="otherlevel">
+                        <did>
+                            <unittitle>Law Academy of Philadelphia</unittitle>
+                            <container id="cid7978" type="Box" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref236" level="otherlevel">
+                        <did>
+                            <unittitle>Law Association</unittitle>
+                            <container id="cid7977" type="Box" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref237" level="otherlevel">
+                        <did>
+                            <unittitle>Law Cases</unittitle>
+                            <container id="cid7976" type="Box" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref238" level="otherlevel">
+                        <did>
+                            <unittitle>Law Certificate</unittitle>
+                            <container id="cid7975" type="Box" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref239" level="otherlevel">
+                        <did>
+                            <unittitle>Lea, Isaac</unittitle>
+                            <container id="cid7974" type="Box" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref240" level="otherlevel">
+                        <did>
+                            <unittitle>Lea, Nina</unittitle>
+                            <container id="cid7973" type="Box" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref241" level="otherlevel">
+                        <did>
+                            <unittitle>LeBrun, Napoleón Eugéne Henry Charles</unittitle>
+                            <container id="cid7972" type="Box" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref242" level="otherlevel">
+                        <did>
+                            <unittitle>LeConte, John L</unittitle>
+                            <container id="cid7971" type="Box" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref243" level="otherlevel">
+                        <did>
+                            <unittitle>Lecture on Induction</unittitle>
+                            <container id="cid7970" type="Box" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref244" level="otherlevel">
+                        <did>
+                            <unittitle>Lecture on Popular Studies</unittitle>
+                            <container id="cid7969" type="Box" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref245" level="otherlevel">
+                        <did>
+                            <unittitle>Lecture on Romance</unittitle>
+                            <container id="cid7968" type="Box" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref246" level="otherlevel">
+                        <did>
+                            <unittitle>Leesa, Isaac</unittitle>
+                            <container id="cid7967" type="Box" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref247" level="otherlevel">
+                        <did>
+                            <unittitle>Legal Briefs</unittitle>
+                            <container id="cid7966" type="Box" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref248" level="otherlevel">
+                        <did>
+                            <unittitle>Lehman, William</unittitle>
+                            <container id="cid7965" type="Box" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref249" level="otherlevel">
+                        <did>
+                            <unittitle>Leidy, Joseph</unittitle>
+                            <container id="cid7964" type="Box" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref250" level="otherlevel">
+                        <did>
+                            <unittitle>Lesley, J Peter</unittitle>
+                            <container id="cid7963" type="Box" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref251" level="otherlevel">
+                        <did>
+                            <unittitle>Lesley, J Peter Biographical Sketch of Foulke.</unittitle>
+                            <container id="cid7962" type="Box" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref252" level="otherlevel">
+                        <did>
+                            <unittitle>Lewis, J F</unittitle>
+                            <container id="cid7961" type="Box" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref253" level="otherlevel">
+                        <did>
+                            <unittitle>Lewis, Joseph</unittitle>
+                            <container id="cid7960" type="Box" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref254" level="otherlevel">
+                        <did>
+                            <unittitle>Library Company of Philadelphia</unittitle>
+                            <container id="cid7959" type="Box" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref255" level="otherlevel">
+                        <did>
+                            <unittitle>Lieber, Francis</unittitle>
+                            <container id="cid7958" type="Box" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref256" level="otherlevel">
+                        <did>
+                            <unittitle>Linding?, P C</unittitle>
+                            <container id="cid7957" type="Box" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref257" level="otherlevel">
+                        <did>
+                            <unittitle>List of Subscribers for Lands</unittitle>
+                            <container id="cid7956" type="Box" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref258" level="otherlevel">
+                        <did>
+                            <unittitle>Livingston, M</unittitle>
+                            <container id="cid7955" type="Box" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref259" level="otherlevel">
+                        <did>
+                            <unittitle>Lubbren, Frederick M</unittitle>
+                            <container id="cid7954" type="Box" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref260" level="otherlevel">
+                        <did>
+                            <unittitle>Ludlow, James R</unittitle>
+                            <container id="cid7953" type="Box" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref261" level="otherlevel">
+                        <did>
+                            <unittitle>Lykens, Isaac</unittitle>
+                            <container id="cid7952" type="Box" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref262" level="otherlevel">
+                        <did>
+                            <unittitle>Lynch, W[illiam?] F[rancis?]</unittitle>
+                            <container id="cid7951" type="Box" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref263" level="otherlevel">
+                        <did>
+                            <unittitle>Lytle, John J</unittitle>
+                            <container id="cid7950" type="Box" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref264" level="file">
+                    <did>
+                        <unittitle>M</unittitle>
+                        <container id="cid7911" type="Box" label="Mixed materials">4</container>
+                    </did>
+                    <c03 id="ref265" level="otherlevel">
+                        <did>
+                            <unittitle>McAllister and Co.</unittitle>
+                            <container id="cid7948" type="Box" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref266" level="otherlevel">
+                        <did>
+                            <unittitle>McCall, General</unittitle>
+                            <container id="cid7947" type="Box" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref267" level="otherlevel">
+                        <did>
+                            <unittitle>McCall, Mrs. George A</unittitle>
+                            <container id="cid7946" type="Box" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref268" level="otherlevel">
+                        <did>
+                            <unittitle>McIlvaine William</unittitle>
+                            <container id="cid7945" type="Box" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref269" level="otherlevel">
+                        <did>
+                            <unittitle>McLain, W. M.</unittitle>
+                            <container id="cid7944" type="Box" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref270" level="otherlevel">
+                        <did>
+                            <unittitle>McMichael, Morton</unittitle>
+                            <container id="cid7943" type="Box" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref271" level="otherlevel">
+                        <did>
+                            <unittitle>McMinn, W</unittitle>
+                            <container id="cid7942" type="Box" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref272" level="otherlevel">
+                        <did>
+                            <unittitle>McMurtrie, Francis</unittitle>
+                            <container id="cid7941" type="Box" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref273" level="otherlevel">
+                        <did>
+                            <unittitle>McPartland, Mary</unittitle>
+                            <container id="cid7940" type="Box" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref274" level="otherlevel">
+                        <did>
+                            <unittitle>McStround, George</unittitle>
+                            <container id="cid7939" type="Box" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref275" level="otherlevel">
+                        <did>
+                            <unittitle>Makanoy House</unittitle>
+                            <container id="cid7938" type="Box" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref276" level="otherlevel">
+                        <did>
+                            <unittitle>Malcolm, Henry</unittitle>
+                            <container id="cid7937" type="Box" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref277" level="otherlevel">
+                        <did>
+                            <unittitle>Mannor, Thomas B</unittitle>
+                            <container id="cid7936" type="Box" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref278" level="otherlevel">
+                        <did>
+                            <unittitle>Manwell, George Woods</unittitle>
+                            <container id="cid7935" type="Box" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref279" level="otherlevel">
+                        <did>
+                            <unittitle>Markland, John</unittitle>
+                            <container id="cid7934" type="Box" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref280" level="otherlevel">
+                        <did>
+                            <unittitle>Marriage Bond. Wm. and Julia Foulke</unittitle>
+                            <container id="cid7933" type="Box" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref281" level="otherlevel">
+                        <did>
+                            <unittitle>Marston, John</unittitle>
+                            <container id="cid7932" type="Box" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref282" level="otherlevel">
+                        <did>
+                            <unittitle>Martin, Balina</unittitle>
+                            <container id="cid7931" type="Box" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref283" level="otherlevel">
+                        <did>
+                            <unittitle>Maryland Penitentiary</unittitle>
+                            <container id="cid7930" type="Box" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref284" level="otherlevel">
+                        <did>
+                            <unittitle>Masonic Hall</unittitle>
+                            <container id="cid7929" type="Box" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref285" level="otherlevel">
+                        <did>
+                            <unittitle>Massachusetts State Prison</unittitle>
+                            <container id="cid7928" type="Box" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref286" level="otherlevel">
+                        <did>
+                            <unittitle>Matthew,</unittitle>
+                            <container id="cid7927" type="Box" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref287" level="otherlevel">
+                        <did>
+                            <unittitle>Matthews, Adonisah</unittitle>
+                            <container id="cid7926" type="Box" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref288" level="otherlevel">
+                        <did>
+                            <unittitle>Memie, Charles</unittitle>
+                            <container id="cid7925" type="Box" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref289" level="otherlevel">
+                        <did>
+                            <unittitle>Memoranda.</unittitle>
+                            <container id="cid7924" type="Box" label="Mixed materials">4</container>
+                            <unitdate>1850</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref290" level="otherlevel">
+                        <did>
+                            <unittitle>Mendenhall, David</unittitle>
+                            <container id="cid7923" type="Box" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref291" level="otherlevel">
+                        <did>
+                            <unittitle>Miller, Anne H</unittitle>
+                            <container id="cid7922" type="Box" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref292" level="otherlevel">
+                        <did>
+                            <unittitle>Miller, Hugh</unittitle>
+                            <container id="cid7921" type="Box" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref293" level="otherlevel">
+                        <did>
+                            <unittitle>Miller, Spencer</unittitle>
+                            <container id="cid7920" type="Box" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref294" level="otherlevel">
+                        <did>
+                            <unittitle>Miscellaneous Writings</unittitle>
+                            <container id="cid7919" type="Box" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref295" level="otherlevel">
+                        <did>
+                            <unittitle>Miscellany</unittitle>
+                            <container id="cid7918" type="Box" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref296" level="otherlevel">
+                        <did>
+                            <unittitle>Moravian Historical Society</unittitle>
+                            <container id="cid7917" type="Box" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref297" level="otherlevel">
+                        <did>
+                            <unittitle>Moreau-Christophe, L. M.</unittitle>
+                            <container id="cid7916" type="Box" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref298" level="otherlevel">
+                        <did>
+                            <unittitle>Morrele, L</unittitle>
+                            <container id="cid7915" type="Box" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref299" level="otherlevel">
+                        <did>
+                            <unittitle>Morrell, Edward</unittitle>
+                            <container id="cid7914" type="Box" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref300" level="otherlevel">
+                        <did>
+                            <unittitle>Morris, Ellwood</unittitle>
+                            <container id="cid7913" type="Box" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref301" level="otherlevel">
+                        <did>
+                            <unittitle>Morton, Samuel George</unittitle>
+                            <container id="cid7912" type="Box" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref302" level="file">
+                    <did>
+                        <unittitle>N</unittitle>
+                        <container id="cid7902" type="Box" label="Mixed materials">4</container>
+                    </did>
+                    <c03 id="ref303" level="otherlevel">
+                        <did>
+                            <unittitle>Nary, Joseph</unittitle>
+                            <container id="cid7910" type="Box" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref304" level="otherlevel">
+                        <did>
+                            <unittitle>National Democratic Quarterly Review</unittitle>
+                            <container id="cid7909" type="Box" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref305" level="otherlevel">
+                        <did>
+                            <unittitle>Neal, Joseph C</unittitle>
+                            <container id="cid7908" type="Box" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref306" level="otherlevel">
+                        <did>
+                            <unittitle>New York Prison Association</unittitle>
+                            <container id="cid7907" type="Box" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref307" level="otherlevel">
+                        <did>
+                            <unittitle>New York Prisons</unittitle>
+                            <container id="cid7906" type="Box" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref308" level="otherlevel">
+                        <did>
+                            <unittitle>Norman, Joseph</unittitle>
+                            <container id="cid7905" type="Box" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref309" level="otherlevel">
+                        <did>
+                            <unittitle>Notes on Albert Barnes' Essay</unittitle>
+                            <container id="cid7904" type="Box" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref310" level="otherlevel">
+                        <did>
+                            <unittitle>Notes on Discourse of General Harrison</unittitle>
+                            <container id="cid7903" type="Box" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref311" level="file">
+                    <did>
+                        <unittitle>O</unittitle>
+                        <container id="cid7899" type="Box" label="Mixed materials">4</container>
+                    </did>
+                    <c03 id="ref312" level="otherlevel">
+                        <did>
+                            <unittitle>Olden, Charles Smith</unittitle>
+                            <container id="cid7901" type="Box" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref313" level="otherlevel">
+                        <did>
+                            <unittitle>Olmsted, Edward</unittitle>
+                            <container id="cid7900" type="Box" label="Mixed materials">4</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref314" level="file">
+                    <did>
+                        <unittitle>P</unittitle>
+                    </did>
+                    <c03 id="ref315" level="otherlevel">
+                        <did>
+                            <unittitle>Packard, Frederick A</unittitle>
+                            <container id="cid7898" type="Box" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref316" level="otherlevel">
+                        <did>
+                            <unittitle>Packard, Frederick W Biographical Essay on Foulke.</unittitle>
+                            <container id="cid7897" type="Box" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref317" level="otherlevel">
+                        <did>
+                            <unittitle>Parker, Jeremiah</unittitle>
+                            <container id="cid7896" type="Box" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref318" level="otherlevel">
+                        <did>
+                            <unittitle>Parker, Richard</unittitle>
+                            <container id="cid7895" type="Box" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref319" level="otherlevel">
+                        <did>
+                            <unittitle>Parker, William</unittitle>
+                            <container id="cid7894" type="Box" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref320" level="otherlevel">
+                        <did>
+                            <unittitle>Parrish,</unittitle>
+                            <container id="cid7893" type="Box" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref321" level="otherlevel">
+                        <did>
+                            <unittitle>Paulsons American Daily Advertiser</unittitle>
+                            <container id="cid7892" type="Box" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref322" level="otherlevel">
+                        <did>
+                            <unittitle>Pearce, J S</unittitle>
+                            <container id="cid7891" type="Box" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref323" level="otherlevel">
+                        <did>
+                            <unittitle>Peel Hall Estate</unittitle>
+                            <container id="cid7890" type="Box" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref324" level="otherlevel">
+                        <did>
+                            <unittitle>Pennsylvania Colonization Society</unittitle>
+                            <container id="cid7889" type="Box" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref325" level="otherlevel">
+                        <did>
+                            <unittitle>Pennsylvania Farm Journal</unittitle>
+                            <container id="cid7888" type="Box" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref326" level="otherlevel">
+                        <did>
+                            <unittitle>Pennsylvania Inquirer and National Gazette</unittitle>
+                            <container id="cid7887" type="Box" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref327" level="otherlevel">
+                        <did>
+                            <unittitle>Pennsylvania Literary Association</unittitle>
+                            <container id="cid7886" type="Box" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref328" level="otherlevel">
+                        <did>
+                            <unittitle>Pettel, William P</unittitle>
+                            <container id="cid7885" type="Box" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref329" level="otherlevel">
+                        <did>
+                            <unittitle>Philadelphia Association and Reading Room</unittitle>
+                            <container id="cid7884" type="Box" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref330" level="otherlevel">
+                        <did>
+                            <unittitle>Philadelphia Club</unittitle>
+                            <container id="cid7883" type="Box" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref331" level="otherlevel">
+                        <did>
+                            <unittitle>Philadelphia Holy Royal Arch Chapter</unittitle>
+                            <container id="cid7882" type="Box" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref332" level="otherlevel">
+                        <did>
+                            <unittitle>Philadelphia Prison Society</unittitle>
+                            <container id="cid7881" type="Box" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref333" level="otherlevel">
+                        <did>
+                            <unittitle>Philadelphia Society for Alleviating the Miseries of Public Prisons</unittitle>
+                            <container id="cid7880" type="Box" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref334" level="otherlevel">
+                        <did>
+                            <unittitle>Philadelphia Water Supply</unittitle>
+                            <container id="cid7879" type="Box" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref335" level="otherlevel">
+                        <did>
+                            <unittitle>Philadelphia Young Men's Society</unittitle>
+                            <container id="cid7878" type="Box" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref336" level="otherlevel">
+                        <did>
+                            <unittitle>Poems</unittitle>
+                            <container id="cid7877" type="Box" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref337" level="otherlevel">
+                        <did>
+                            <unittitle>Potter, A</unittitle>
+                            <container id="cid7876" type="Box" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref338" level="otherlevel">
+                        <did>
+                            <unittitle>Powel, H. W. Hare</unittitle>
+                            <container id="cid7875" type="Box" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref339" level="otherlevel">
+                        <did>
+                            <unittitle>Powel?, J</unittitle>
+                            <container id="cid7874" type="Box" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref340" level="otherlevel">
+                        <did>
+                            <unittitle>Powel, Katy</unittitle>
+                            <container id="cid7873" type="Box" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref341" level="otherlevel">
+                        <did>
+                            <unittitle>Powel, Mary</unittitle>
+                            <container id="cid7872" type="Box" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref342" level="otherlevel">
+                        <did>
+                            <unittitle>Powel, Robert H</unittitle>
+                            <container id="cid7871" type="Box" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref343" level="otherlevel">
+                        <did>
+                            <unittitle>Powel, Samuel</unittitle>
+                            <container id="cid7870" type="Box" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref344" level="otherlevel">
+                        <did>
+                            <unittitle>Preston Retrial</unittitle>
+                            <container id="cid7869" type="Box" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref345" level="otherlevel">
+                        <did>
+                            <unittitle>Price, Charles</unittitle>
+                            <container id="cid7868" type="Box" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref346" level="otherlevel">
+                        <did>
+                            <unittitle>Price, Elis K</unittitle>
+                            <container id="cid7867" type="Box" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref347" level="otherlevel">
+                        <did>
+                            <unittitle>Price, Jacob</unittitle>
+                            <container id="cid7866" type="Box" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref348" level="otherlevel">
+                        <did>
+                            <unittitle>Price, R Butler</unittitle>
+                            <container id="cid7865" type="Box" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref349" level="otherlevel">
+                        <did>
+                            <unittitle>Prison Committee</unittitle>
+                            <container id="cid7864" type="Box" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref350" level="otherlevel">
+                        <did>
+                            <unittitle>Prisons</unittitle>
+                            <container id="cid7863" type="Box" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref351" level="otherlevel">
+                        <did>
+                            <unittitle>Prissy</unittitle>
+                            <container id="cid7862" type="Box" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref352" level="otherlevel">
+                        <did>
+                            <unittitle>Prohibition Society</unittitle>
+                            <container id="cid7861" type="Box" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref353" level="file">
+                    <did>
+                        <unittitle>R</unittitle>
+                        <container id="cid7848" type="Box" label="Mixed materials">5</container>
+                    </did>
+                    <c03 id="ref354" level="otherlevel">
+                        <did>
+                            <unittitle>Rae, Dr.</unittitle>
+                            <container id="cid7860" type="Box" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref355" level="otherlevel">
+                        <did>
+                            <unittitle>Ravenel, Margaretta A</unittitle>
+                            <container id="cid7859" type="Box" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref356" level="otherlevel">
+                        <did>
+                            <unittitle>Read, Zach</unittitle>
+                            <container id="cid7858" type="Box" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref357" level="otherlevel">
+                        <did>
+                            <unittitle>Reed, William B</unittitle>
+                            <container id="cid7857" type="Box" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref358" level="otherlevel">
+                        <did>
+                            <unittitle>Rents</unittitle>
+                            <container id="cid7856" type="Box" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref359" level="otherlevel">
+                        <did>
+                            <unittitle>Rhey, John L</unittitle>
+                            <container id="cid7855" type="Box" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref360" level="otherlevel">
+                        <did>
+                            <unittitle>Rittenhouse, Joseph</unittitle>
+                            <container id="cid7854" type="Box" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref361" level="otherlevel">
+                        <did>
+                            <unittitle>Roberts, Soloman W</unittitle>
+                            <container id="cid7853" type="Box" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref362" level="otherlevel">
+                        <did>
+                            <unittitle>Rogers, Henry D</unittitle>
+                            <container id="cid7852" type="Box" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref363" level="otherlevel">
+                        <did>
+                            <unittitle>Rosengarten, G</unittitle>
+                            <container id="cid7851" type="Box" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref364" level="otherlevel">
+                        <did>
+                            <unittitle>Ruschenberger, W</unittitle>
+                            <container id="cid7850" type="Box" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref365" level="otherlevel">
+                        <did>
+                            <unittitle>Russ, John D[ennison?]</unittitle>
+                            <container id="cid7849" type="Box" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref366" level="file">
+                    <did>
+                        <unittitle>S</unittitle>
+                        <container id="cid7822" type="Box" label="Mixed materials">5</container>
+                    </did>
+                    <c03 id="ref367" level="otherlevel">
+                        <did>
+                            <unittitle>Sales, Sarah K</unittitle>
+                            <container id="cid7847" type="Box" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref368" level="otherlevel">
+                        <did>
+                            <unittitle>Schieffelin, H M</unittitle>
+                            <container id="cid7846" type="Box" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref369" level="otherlevel">
+                        <did>
+                            <unittitle>Setty, L Bransen</unittitle>
+                            <container id="cid7845" type="Box" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref370" level="otherlevel">
+                        <did>
+                            <unittitle>Select and Common Councils of Philadelphia</unittitle>
+                            <container id="cid7844" type="Box" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref371" level="otherlevel">
+                        <did>
+                            <unittitle>Settle, D S</unittitle>
+                            <container id="cid7843" type="Box" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref372" level="otherlevel">
+                        <did>
+                            <unittitle>Sharpless, Townsend</unittitle>
+                            <container id="cid7842" type="Box" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref373" level="otherlevel">
+                        <did>
+                            <unittitle>Sheafer, Peter W. Folder 1</unittitle>
+                            <container id="cid7841" type="Box" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref374" level="otherlevel">
+                        <did>
+                            <unittitle>Sheafer, Peter W. Folder 2</unittitle>
+                            <container id="cid7840" type="Box" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref375" level="otherlevel">
+                        <did>
+                            <unittitle>Shippen, W.</unittitle>
+                            <container id="cid7839" type="Box" label="Mixed materials">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref376" level="otherlevel">
+                        <did>
+                            <unittitle>A. H. Simmons and Co.</unittitle>
+                            <container id="cid7838" type="Box" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref377" level="otherlevel">
+                        <did>
+                            <unittitle>Slack, J H</unittitle>
+                            <container id="cid7837" type="Box" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref378" level="otherlevel">
+                        <did>
+                            <unittitle>Smith, Charles E</unittitle>
+                            <container id="cid7836" type="Box" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref379" level="otherlevel">
+                        <did>
+                            <unittitle>Smith, George W</unittitle>
+                            <container id="cid7835" type="Box" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref380" level="otherlevel">
+                        <did>
+                            <unittitle>Smith, R H</unittitle>
+                            <container id="cid7834" type="Box" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref381" level="otherlevel">
+                        <did>
+                            <unittitle>Smith, William</unittitle>
+                            <container id="cid7833" type="Box" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref382" level="otherlevel">
+                        <did>
+                            <unittitle>Snyders, C A</unittitle>
+                            <container id="cid7832" type="Box" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref383" level="otherlevel">
+                        <did>
+                            <unittitle>Sparrow, Jeremiah</unittitle>
+                            <container id="cid7831" type="Box" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref384" level="otherlevel">
+                        <did>
+                            <unittitle>Spaughn, W H</unittitle>
+                            <container id="cid7830" type="Box" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref385" level="otherlevel">
+                        <did>
+                            <unittitle>Speech on Emigration</unittitle>
+                            <container id="cid7829" type="Box" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref386" level="otherlevel">
+                        <did>
+                            <unittitle>Streeter, T F</unittitle>
+                            <container id="cid7828" type="Box" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref387" level="otherlevel">
+                        <did>
+                            <unittitle>Stroebel, John C</unittitle>
+                            <container id="cid7827" type="Box" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref388" level="otherlevel">
+                        <did>
+                            <unittitle>Stroud, Eleanor H</unittitle>
+                            <container id="cid7826" type="Box" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref389" level="otherlevel">
+                        <did>
+                            <unittitle>Stroud, George M</unittitle>
+                            <container id="cid7825" type="Box" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref390" level="otherlevel">
+                        <did>
+                            <unittitle>Struther, I S</unittitle>
+                            <container id="cid7824" type="Box" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref391" level="otherlevel">
+                        <did>
+                            <unittitle>Sumner, Charles</unittitle>
+                            <container id="cid7823" type="Box" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref392" level="file">
+                    <did>
+                        <unittitle>T</unittitle>
+                        <container id="cid7814" type="Box" label="Mixed materials">6</container>
+                    </did>
+                    <c03 id="ref393" level="otherlevel">
+                        <did>
+                            <unittitle>Taylor, Richard</unittitle>
+                            <container id="cid7821" type="Box" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref394" level="otherlevel">
+                        <did>
+                            <unittitle>Tobrelet, I</unittitle>
+                            <container id="cid7820" type="Box" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref395" level="otherlevel">
+                        <did>
+                            <unittitle>Tower, C</unittitle>
+                            <container id="cid7819" type="Box" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref396" level="otherlevel">
+                        <did>
+                            <unittitle>Townsend, Edward</unittitle>
+                            <container id="cid7818" type="Box" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref397" level="otherlevel">
+                        <did>
+                            <unittitle>Townsend, Joseph B</unittitle>
+                            <container id="cid7817" type="Box" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref398" level="otherlevel">
+                        <did>
+                            <unittitle>Train, George Francis</unittitle>
+                            <container id="cid7816" type="Box" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref399" level="otherlevel">
+                        <did>
+                            <unittitle>Tyson, I R</unittitle>
+                            <container id="cid7815" type="Box" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref400" level="file">
+                    <did>
+                        <unittitle>V</unittitle>
+                        <container id="cid7809" type="Box" label="Mixed materials">6</container>
+                    </did>
+                    <c03 id="ref401" level="otherlevel">
+                        <did>
+                            <unittitle>Vaux, Richard</unittitle>
+                            <container id="cid7813" type="Box" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref402" level="otherlevel">
+                        <did>
+                            <unittitle>Vaux and Withers</unittitle>
+                            <container id="cid7812" type="Box" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref403" level="otherlevel">
+                        <did>
+                            <unittitle>Viele, Egbart L</unittitle>
+                            <container id="cid7811" type="Box" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref404" level="otherlevel">
+                        <did>
+                            <unittitle>Vondersmith, J V</unittitle>
+                            <container id="cid7810" type="Box" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref405" level="file">
+                    <did>
+                        <unittitle>W</unittitle>
+                        <container id="cid7782" type="Box" label="Mixed materials">6</container>
+                    </did>
+                    <c03 id="ref406" level="otherlevel">
+                        <did>
+                            <unittitle>Walker, John H</unittitle>
+                            <container id="cid7808" type="Box" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref407" level="otherlevel">
+                        <did>
+                            <unittitle>Wallace, J B</unittitle>
+                            <container id="cid7807" type="Box" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref408" level="otherlevel">
+                        <did>
+                            <unittitle>Wallace, John W</unittitle>
+                            <container id="cid7806" type="Box" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref409" level="otherlevel">
+                        <did>
+                            <unittitle>Ward, Townsend</unittitle>
+                            <container id="cid7805" type="Box" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref410" level="otherlevel">
+                        <did>
+                            <unittitle>Warder, George, et al.</unittitle>
+                            <container id="cid7804" type="Box" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref411" level="otherlevel">
+                        <did>
+                            <unittitle>Warder, John</unittitle>
+                            <container id="cid7803" type="Box" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref412" level="otherlevel">
+                        <did>
+                            <unittitle>Warner, D. B.</unittitle>
+                            <container id="cid7802" type="Box" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref413" level="otherlevel">
+                        <did>
+                            <unittitle>Warner, John</unittitle>
+                            <container id="cid7801" type="Box" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref414" level="otherlevel">
+                        <did>
+                            <unittitle>Warren, James C.</unittitle>
+                            <container id="cid7800" type="Box" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref415" level="otherlevel">
+                        <did>
+                            <unittitle>Watkins, M Carrington</unittitle>
+                            <container id="cid7799" type="Box" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref416" level="otherlevel">
+                        <did>
+                            <unittitle>Watson, John Fanning</unittitle>
+                            <container id="cid7798" type="Box" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref417" level="otherlevel">
+                        <did>
+                            <unittitle>Wheatley, Charles M</unittitle>
+                            <container id="cid7797" type="Box" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref418" level="otherlevel">
+                        <did>
+                            <unittitle>Wickersham, Cadwalader</unittitle>
+                            <container id="cid7796" type="Box" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref419" level="otherlevel">
+                        <did>
+                            <unittitle>Wilcocks, Alexander</unittitle>
+                            <container id="cid7795" type="Box" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref420" level="otherlevel">
+                        <did>
+                            <unittitle>Will of Wm. Parker</unittitle>
+                            <container id="cid7794" type="Box" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref421" level="otherlevel">
+                        <did>
+                            <unittitle>Williams, Daniel</unittitle>
+                            <container id="cid7793" type="Box" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref422" level="otherlevel">
+                        <did>
+                            <unittitle>Williams, Ennion</unittitle>
+                            <container id="cid7792" type="Box" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref423" level="otherlevel">
+                        <did>
+                            <unittitle>Williams, Henry I</unittitle>
+                            <container id="cid7791" type="Box" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref424" level="otherlevel">
+                        <did>
+                            <unittitle>"Willie" to Mother</unittitle>
+                            <container id="cid7790" type="Box" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref425" level="otherlevel">
+                        <did>
+                            <unittitle>Wilson, A P</unittitle>
+                            <container id="cid7789" type="Box" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref426" level="otherlevel">
+                        <did>
+                            <unittitle>[Wilson, John Wall]. Arctic Expedition Diary,</unittitle>
+                            <container id="cid7788" type="Box" label="Mixed materials">6</container>
+                            <physdesc>
+                                <extent>2 folders</extent>
+                            </physdesc>
+                            <unitdate>Oct. 1853-Oct. 15, 1854</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref427" level="otherlevel">
+                        <did>
+                            <unittitle>Wisong, W A</unittitle>
+                            <container id="cid7787" type="Box" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref428" level="otherlevel">
+                        <did>
+                            <unittitle>Woodward, George W</unittitle>
+                            <container id="cid7786" type="Box" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref429" level="otherlevel">
+                        <did>
+                            <unittitle>Worrell, Isaac C</unittitle>
+                            <container id="cid7785" type="Box" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref430" level="otherlevel">
+                        <did>
+                            <unittitle>Fragments</unittitle>
+                            <container id="cid7784" type="Box" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref431" level="otherlevel">
+                        <did>
+                            <unittitle>Unknown</unittitle>
+                            <container id="cid7783" type="Box" label="Mixed materials">6</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref442" level="otherlevel">
+                    <did>
+                        <unittitle>Photographs</unittitle>
+                        <container id="cid7775" type="Box" label="Mixed materials">7</container>
+                        <abstract id="ref446" label="Abstract">These represent a sample of the available photographs in the William Parker Foulke Papers.</abstract>
+                    </did>
+                    <c03 id="ref455" level="item">
+                        <did>
+                            <unittitle>William Parker Foulke, full length portrait.</unittitle>
+                            <physdesc>
+                                <extent>1.0 Item(s)</extent>
+                            </physdesc>
+                            <unitdate>n. d. </unitdate>
+                            <abstract id="ref456" label="Abstract">Full length view of Foulke, standing beside chair.</abstract>
+                            <physloc id="ref461" label="Location note">U4-4-87</physloc>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="William Parker Foulke, full length portrait." ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:3502">
+                            <daodesc>
+                                <p>William Parker Foulke, full length portrait., n. d.  </p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref453" level="item">
+                        <did>
+                            <unittitle>William Parker Foulke, bust, profile, formal.</unittitle>
+                            <physdesc>
+                                <extent>1.0 Item(s)</extent>
+                            </physdesc>
+                            <unitdate>n. d. </unitdate>
+                            <abstract id="ref454" label="Abstract">Bust length profile of Foulke.</abstract>
+                            <physloc id="ref462" label="Location note">F11-8-16</physloc>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="William Parker Foulke, bust, profile, formal. " ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:3499">
+                            <daodesc>
+                                <p>William Parker Foulke, bust, profile, formal. , n. d.  </p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref457" level="item">
+                        <did>
+                            <unittitle>William Parker Foulke, half length, profile, formal, standing.</unittitle>
+                            <physdesc>
+                                <extent>1.0 Item(s)</extent>
+                            </physdesc>
+                            <unitdate>n. d. </unitdate>
+                            <abstract id="ref458" label="Abstract">Profile portrait of Foulke.</abstract>
+                            <physloc id="ref463" label="Location note">F11-8-15</physloc>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="William Parker Foulke, half length, profile, formal, standing. " ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:3503">
+                            <daodesc>
+                                <p>William Parker Foulke, half length, profile, formal, standing. , n. d.  </p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref451" level="item">
+                        <did>
+                            <unittitle>Lisa de Veaux Foulke.</unittitle>
+                            <physdesc>
+                                <extent>1.0 Item(s)</extent>
+                            </physdesc>
+                            <unitdate normal="1882/1882">1882</unitdate>
+                            <abstract id="ref452" label="Abstract">Full length view of Lisa de Veaux Foulke in evening gown.</abstract>
+                            <physloc id="ref464" label="Location note">U5-3-23</physloc>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Lisa de Veaux Foulke. " ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:3500">
+                            <daodesc>
+                                <p>Lisa de Veaux Foulke. , 1882 </p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref447" level="item">
+                        <did>
+                            <unittitle>Hallowell [?], bust, formal.</unittitle>
+                            <physdesc>
+                                <extent>1.0 Item(s)</extent>
+                            </physdesc>
+                            <unitdate>n. d. </unitdate>
+                            <abstract id="ref448" label="Abstract">Frontal portrait of Hallowell [?].</abstract>
+                            <physloc id="ref465" label="Location note">F11-8-18</physloc>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Hallowell [?], bust, formal. " ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:3504">
+                            <daodesc>
+                                <p>Hallowell [?], bust, formal. , n. d.  </p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref449" level="item">
+                        <did>
+                            <unittitle>Isaac Lea, bust, formal.</unittitle>
+                            <physdesc>
+                                <extent>1.0 Item(s)</extent>
+                            </physdesc>
+                            <unitdate>n. d. </unitdate>
+                            <abstract id="ref450" label="Abstract">Formal 3/4 portrait of Lea wearing glasses.</abstract>
+                            <physloc id="ref466" label="Location note">F8-23-5</physloc>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Isaac Lea, bust, formal. " ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:3498">
+                            <daodesc>
+                                <p>Isaac Lea, bust, formal. , n. d.  </p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                </c02>
+                <c02 id="ref432" level="file">
+                    <did>
+                        <unittitle>Miscellaneous</unittitle>
+                    </did>
+                    <c03 id="ref433" level="otherlevel">
+                        <did>
+                            <unittitle>Diaries</unittitle>
+                            <container id="cid7781" type="Box" label="Mixed materials">7</container>
+                            <unitdate>1853,1854</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref434" level="otherlevel">
+                        <did>
+                            <unittitle>Diary. re. American Colonization Society,</unittitle>
+                            <container id="cid7780" type="Box" label="Mixed materials">7</container>
+                            <unitdate>1852</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref435" level="otherlevel">
+                        <did>
+                            <unittitle>Handwriting Copybooks</unittitle>
+                            <container id="cid7779" type="Box" label="Mixed materials">7</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref436" level="otherlevel">
+                        <did>
+                            <unittitle>Maps</unittitle>
+                        </did>
+                        <scopecontent id="ref438">
+                            <head>Scope and Contents note</head>
+                            <p>Transferred to Map Room</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref439" level="otherlevel">
+                        <did>
+                            <unittitle>Memorabilia</unittitle>
+                            <container id="cid7778" type="Box" label="Mixed materials">7</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref440" level="otherlevel">
+                        <did>
+                            <unittitle>Newspaper Clippings</unittitle>
+                            <container id="cid7777" type="Box" label="Mixed materials">7</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref441" level="otherlevel">
+                        <did>
+                            <unittitle>Notebooks Concerning Prisons and prisoners</unittitle>
+                            <container id="cid7776" type="Box" label="Mixed materials">7</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref443" level="otherlevel">
+                        <did>
+                            <unittitle>Receipt Book</unittitle>
+                            <container id="cid7774" type="Box" label="Mixed materials">7</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref444" level="otherlevel">
+                        <did>
+                            <unittitle>Account book</unittitle>
+                            <unitid>B F826.1</unitid>
+                            <container id="cid13282005" type="Volume" label="Manuscripts">1</container>
+                            <physdesc>
+                                <extent>1.0 vol.</extent>
+                            </physdesc>
+                            <unitdate>1797</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref445" level="otherlevel">
+                        <did>
+                            <unittitle>Commonplace book,</unittitle>
+                            <container id="cid7772" type="Box" label="Mixed materials">7</container>
+                            <unitdate>1843-45</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

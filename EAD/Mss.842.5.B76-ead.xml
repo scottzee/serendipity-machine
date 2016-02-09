@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.842.5.B76-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.842.5.B76</num>
+                </titleproper>
+                <author>Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:23-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Plays, late 18th century</unittitle>
+            <unitid>Mss.842.5.B76</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="fre"/>
+            </langmaterial>
+            <container id="cid362" type="Box" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>0.25 Linear feet</extent>
+                <extent>7 pieces (ca. 250 pages)</extent>
+            </physdesc>
+            <unitdate normal="1775/1800" type="inclusive">Circa late 18th century</unitdate>
+            <abstract id="ref1" label="Abstract">Comedies and tragedies, possibly not all by Mme. Brillon, entitled :La mort de Sénèque," "Charles le Mauvais, roi de Navarre; ou, La clémence du roi Jean," "Charles premier, roi d'Angleterre," "Marguerite d'Anjou, reine d'Angleterre," "Molière aux enfers," "Le songe, opéra comique," and "Le bienfaisant maladroit; ou, plus de bruit que de besogne."</abstract>
+            <physloc id="ref6" label="Paging">LH-MV-E-11</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Brillon, Mme</persname>
+            </origination>
+        </did>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>Parisian hostess Mme. Brillon counted Benjamin Franklin among her wide circle of friends.</p>
+        </bioghist>
+        <acqinfo id="ref2">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Purchase from Gilbert Chimard, a descendant of Mme. Brillon, 1955.</p>
+        </acqinfo>
+        <odd id="ref5">
+            <head>Early American History Note</head>
+            <p>This collection includes a number of plays apparently written by Madame Anne Louise Boyvin d’Hardancourt Brillon de Juoy, a prominent Parisian salon hostess and musician. The authorship of some of the plays is not entirely clear.</p>
+            <p>A second, related collection, 
+                <extref ns2:actuate="onLoad" ns2:show="new" ns2:href="http://www.amphilsoc.org/mole/view?docId=ead/Mss.781.508.B762-ead.xml">Musical Compositions, 18th Century (Mss.781.508.B762)</extref>, contains a number of musical compositions by Brillon. Her most famous composition, Le Marche des Insurgents, which was inspired by the American victory at Saratoga, is included in this collection. Many of these compositions are handwritten and appear to be from the eighteenth century, although it is unclear when they were written and who wrote them.</p>
+            <p>Combined, the two collections capture the creative work of one of the most prominent French women of the time.</p>
+        </odd>
+        <controlaccess>
+            <subject source="leah">Beyond Early America</subject>
+            <genreform source="leah">Foreign Language</genreform>
+            <subject source="lcsh">French drama -- 18th century.</subject>
+            <subject source="lcsh">French literature -- 18th century.</subject>
+            <genreform source="leah">Literature</genreform>
+            <subject source="leah">Literature, Arts, and Culture</subject>
+            <genreform source="leah">Miscellaneous</genreform>
+            <genreform source="lcsh">Scripts.</genreform>
+            <subject source="leah">Women's History</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

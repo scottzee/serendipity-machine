@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.M585-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.M585</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T19:44-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="item">
+        <did>
+            <unittitle>John F. (John Fishbourne) Mifflin receipt book, 1800-1813</unittitle>
+            <unitid>Mss.B.M585</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1424" type="Volume" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>1.0 Volume(s)</extent>
+                <extent>1 volume, 60 p.</extent>
+            </physdesc>
+            <unitdate normal="1800/1813" type="inclusive">1800-1813</unitdate>
+            <abstract id="ref1" label="Abstract">This volume includes receipts for payments of taxes, ground rents, rents, judgements, bills of exchange, and settlements of estates. Some are for monies collected for the American Philosophical Society, and for Major Zebulon Pike's expedition (1811). The names of Samuel Breck, James Mease, Robert Millegan, and John Vaughan appear. Under date of Feb. 11, 1804 is receipt signed by Jn. Vaughan for admission fee to the American Philosophical Society.</abstract>
+            <physdesc id="ref8" label="General Physical Description note">1 volume, 60 p.</physdesc>
+            <physloc id="ref10" label="Paging">LH-MV-E-14</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Mifflin, John F.(John Fishbourne),1759-1813.</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref7">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by Seymour Adelman, 1948.</p>
+        </acqinfo>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>John Fishbourne Mifflin was a Philadelphia lawyer and was elected to the American Philosophical Society in 1796.</p>
+        </bioghist>
+        <odd id="ref9">
+            <head>Early American History Note</head>
+            <p>The John Mifflin receipt book is a fairly straight forward collection. Mifflin had some involvement in financing the Pike Expedition, some record of which is in the transactions of the receipt book. He was also a prominent Philadelphian. As such, names of other prominent Philadelphians with whom he conducted business are recorded. The Mifflin receipt book is unusual in one respect. Occasionally, Mifflin provides hisotrical details on his property.</p>
+        </odd>
+        <controlaccess>
+            <corpname rules="aacr" source="naf">American Philosophical Society.</corpname>
+            <persname source="ingest">Breck, Samuel, 1771-1862</persname>
+            <persname rules="aacr" source="naf">Mease, James, 1771-1846</persname>
+            <persname rules="aacr" source="local">Millegan, Robert</persname>
+            <persname source="ingest">Pike, Zebulon Montgomery, 1779-1813</persname>
+            <persname rules="aacr" source="naf">Vaughan, John, 1756-1841</persname>
+            <subject source="leah">Business and Skilled Trades</subject>
+            <genreform source="leah">Business Records and Accounts</genreform>
+            <subject source="lcsh">Legal documents.</subject>
+            <genreform source="lcsh">Receipts.</genreform>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

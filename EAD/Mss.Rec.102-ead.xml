@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Rec.102-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Rec.102</num>
+                    <num>Mss.Rec.102</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Brian Carpenter</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+                <date>Janurary  2011</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T21:09-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Malecite stories</unittitle>
+            <unitid>Mss.Rec.102</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="alg"/>
+            </langmaterial>
+            <physdesc>
+                <extent>3.0 Reel(s)</extent>
+            </physdesc>
+            <unitdate>Circa 1975</unitdate>
+            <abstract id="ref2" label="Abstract">Stories given entirely in Malecite-Passamaquoddy, save for a few interjections in English. No additional identifying information is given with the recording. Recorded circa 1975 or earlier.</abstract>
+            <physdesc id="ref3" label="General Physical Description note">3 sound tape reels (3 hr., 18 min.) : analog, 3 3/4 ips, 2 track, mono ; 5 in.</physdesc>
+            <physloc id="ref37" label="Paging">LH-B-32-3</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Szábo, László</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref4">
+            <head>Immediate Source of Acquisition</head>
+            <p>Presented by László Szábo in 1975 (Acc. 1975 541-543rec). This material was recorded with the assistance of a Phillips Fund grant.</p>
+        </acqinfo>
+        <odd id="ref5">
+            <head>General note</head>
+            <p>Portions of these recordings are slightly distorted due to close placement of microphone to the speaker during recording or contain a minor uncorrected speed variation due to a fluctation of the electric generator supplying power to the collector's tape recorder.</p>
+        </odd>
+        <controlaccess>
+            <subject source="lcsh">Malecite Indians--Folklore</subject>
+            <subject source="lcsh">Passamaquoddy language</subject>
+            <genreform source="ingest">Sound recordings</genreform>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref6" level="series">
+                <did>
+                    <unittitle>Audio recordings</unittitle>
+                </did>
+                <c02 id="ref7" level="file">
+                    <did>
+                        <unittitle>Malecite Stories</unittitle>
+                        <unitid>01-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1975</unitdate>
+                        <physdesc id="ref8" label="General Physical Description note">
+                            <extent>00:31:30</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Szabó, László</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref9">
+                        <head>Scope and Contents note</head>
+                        <p>Entirely in Malecite-Passamaquoddy, save for a few interjections in English. No additional identifying information given with recording. This program has a minor uncorrected speed variation due to a fluctation of the electric generator supplying power to the collector's tape recorder. Tape runs out during program.</p>
+                    </scopecontent>
+                    <originalsloc id="ref11">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1297" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3871">
+                        <daodesc>
+                            <p>APSdigrec_1297</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Malecite Indians--Folklore</subject>
+                        <subject source="lcsh">Passamaquoddy language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref12" level="file">
+                    <did>
+                        <unittitle>Malecite Stories</unittitle>
+                        <unitid>02-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1975</unitdate>
+                        <physdesc id="ref13" label="General Physical Description note">
+                            <extent>00:32:31</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Szabó, László</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref14">
+                        <head>Scope and Contents note</head>
+                        <p>Entirely in Malecite-Passamaquoddy, save for a few interjections in English. No additional identifying information given with recording. This program has a minor uncorrected speed variation due to a fluctation of the electric generator supplying power to the collector's tape recorder. Tape runs out during program.</p>
+                    </scopecontent>
+                    <originalsloc id="ref16">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1298" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3870">
+                        <daodesc>
+                            <p>APSdigrec_1298</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Malecite Indians--Folklore</subject>
+                        <subject source="lcsh">Passamaquoddy language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref17" level="file">
+                    <did>
+                        <unittitle>Malecite Stories</unittitle>
+                        <unitid>03-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1975</unitdate>
+                        <physdesc id="ref18" label="General Physical Description note">
+                            <extent>00:34:09</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Szabó, László</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref19">
+                        <head>Scope and Contents note</head>
+                        <p>Entirely in Malecite-Passamaquoddy, except for a few interjections in English. No additional identifying information given with recording. Program slightly distorted due to close placement of microphone to the speaker during recording. Tape runs out during program.</p>
+                    </scopecontent>
+                    <originalsloc id="ref21">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1299" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3874">
+                        <daodesc>
+                            <p>APSdigrec_1299</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Malecite Indians--Folklore</subject>
+                        <subject source="lcsh">Passamaquoddy language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref22" level="file">
+                    <did>
+                        <unittitle>Malecite Stories</unittitle>
+                        <unitid>04-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1975</unitdate>
+                        <physdesc id="ref23" label="General Physical Description note">
+                            <extent>00:34:13</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Szabó, László</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref24">
+                        <head>Scope and Contents note</head>
+                        <p>Entirely in Malecite-Passamaquoddy, save for a few interjections in English. No additional identifying information given with recording. Program slightly distorted due to close placement of microphone to the speaker during recording. Tape runs out during program.</p>
+                    </scopecontent>
+                    <originalsloc id="ref26">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1300" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3869">
+                        <daodesc>
+                            <p>APSdigrec_1300</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Malecite Indians--Folklore</subject>
+                        <subject source="lcsh">Passamaquoddy language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref27" level="file">
+                    <did>
+                        <unittitle>Malecite Stories</unittitle>
+                        <unitid>05-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1975</unitdate>
+                        <physdesc id="ref28" label="General Physical Description note">
+                            <extent>00:32:34</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Szabó, László</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref29">
+                        <head>Scope and Contents note</head>
+                        <p>Entirely in Malecite-Passamaquoddy, save for a few interjections in English. No additional identifying information given with recording. Program slightly distorted due to close placement of microphone to the speaker during recording.</p>
+                    </scopecontent>
+                    <originalsloc id="ref31">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1301" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3873">
+                        <daodesc>
+                            <p>APSdigrec_1301</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Malecite Indians--Folklore</subject>
+                        <subject source="lcsh">Passamaquoddy language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref32" level="file">
+                    <did>
+                        <unittitle>Malecite Stories</unittitle>
+                        <unitid>06-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1975</unitdate>
+                        <physdesc id="ref33" label="General Physical Description note">
+                            <extent>00:32:36</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Szabó, László</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref34">
+                        <head>Scope and Contents note</head>
+                        <p>Entirely in Malecite-Passamaquoddy, save for a few interjections in English. No additional identifying information given with recording. Program slightly distorted due to close placement of microphone to the speaker during recording.</p>
+                    </scopecontent>
+                    <originalsloc id="ref36">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1302" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3872">
+                        <daodesc>
+                            <p>APSdigrec_1302</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Malecite Indians--Folklore</subject>
+                        <subject source="ingest">Malecite Indians--Music</subject>
+                        <subject source="lcsh">Passamaquoddy language</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

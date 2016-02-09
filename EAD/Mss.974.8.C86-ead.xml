@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.974.8.C86-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.974.8.C86</num>
+                </titleproper>
+                <author>Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:27-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="item">
+        <did>
+            <unittitle>Criticism of Franklin's historical review of the constitution and government of Pennsylvania</unittitle>
+            <unitid>Mss.974.8.C86</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid119913" type="Volume" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>1.0 Volume(s)</extent>
+                <extent>1 volume, 28 p.</extent>
+            </physdesc>
+            <unitdate normal="1760/1760">Circa 1760</unitdate>
+            <physdesc id="ref1" label="General Physical Description note">1 volume, 28 p.</physdesc>
+            <physloc id="ref4" label="Paging">LH-MV-E-13</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Unidentified author</persname>
+            </origination>
+        </did>
+        <odd id="ref3">
+            <head>Early American History Note</head>
+            <p>This manuscript offers a critique of A Historical Review of the Constitution and Government of Pennsylvania (1759). A Historical review was anonymously published, but it has been credited to either Benjamin Franklin or Richard Jackson. Written in the wake of the politically divisive 1750s, the pamphlet attacked the proprietors of Pennsylvania and the proprietary nature of the colonial government and defended the actions of the Assembly and Quaker Party during the Seven Years’ War. The manuscript in the APS’s vault was written in 1759 or 1760, likely in London. It defends the proprietor and the government in general. Largely unknown to historians, this manuscript provides insight into the deep political divisions within colonial Pennsylvania by offering a clear view into the beliefs of the proprietors and the proprietary party. The anonymous author of the work is almost certainly Thomas Penn. The manuscript was never published.</p>
+        </odd>
+        <controlaccess>
+            <persname source="ingest">Penn, Thomas, 1702-1775</persname>
+            <subject source="leah">Colonial Politics</subject>
+            <genreform source="leah">Manuscript Essays</genreform>
+            <subject source="leah">Pennsylvania History</subject>
+            <subject source="leah">Seven Years' War</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

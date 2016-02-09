@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Rec.87</num>
+                    <num>Mss.Rec.87</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Brian Carpenter</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+                <date>2010</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T21:19-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Stoney (Assiniboine) texts taken at Stoney Reserve, Morley, Alberta; January 1, 1968 - August 21-23, 1971</unittitle>
+            <unitid>Mss.Rec.87</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="sio"/>
+            </langmaterial>
+            <physdesc>
+                <extent>3.0 Reel(s)</extent>
+            </physdesc>
+            <unitdate normal="1968/1971" type="inclusive">1968, 1971</unitdate>
+            <abstract id="ref2" label="Abstract">This collection consists of one tape of a New Years' Service held at a Community Hall on 1 January 1968, and two tapes of autobiographical stories, folkloric stories, tribal histories, and descriptions of customs given in the Stoney language only by Carl Simeon (identified as a "speaker of the younger dialect") on 21 August 1971 and by Willie Good Stoney (identified as a "speaker of theh older dialect") on 23 August 1971.</abstract>
+            <physdesc id="ref3" label="General Physical Description note">3 sound tape reels (52 min.) : analog, 3 3/4 ips, half track, mono ; 5 in.</physdesc>
+            <physloc id="ref72" label="Paging">LH-B-32-3</physloc>
+            <origination label="creator">
+                <persname source="ingest">Rider, Dillon</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest">SImeon, Carl</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest">Snow, John</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest">Stoney, William Good</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Taylor, Allan R. (Allan Ross), 1931-</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest">Wesley, Lazarus</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref4">
+            <head>Immediate Source of Acquisition</head>
+            <p>Donated by Allan R. Taylor in 1972 (Acc.1972 636ms). This material was recorded with the assistance of a Phillips Fund grant.</p>
+        </acqinfo>
+        <relatedmaterial id="ref5">
+            <head>Related Archival Materials</head>
+            <p>Transcriptions and translations of the texts on these recordings can be found in 
+                <extref ns2:actuate="onLoad" ns2:show="new" ns2:href="http://www.amphilsoc.org/mole/view?docId=ead/Mss.497.3.Am4-ead.xml">Phillips Fund collection</extref> (Mss.497.3.Am4).</p>
+        </relatedmaterial>
+        <controlaccess>
+            <subject source="lcsh">Assiniboine Indians--Education</subject>
+            <subject source="lcsh">Assiniboine Indians--First contact with Europeans</subject>
+            <subject source="lcsh">Assiniboine Indians--Folklore</subject>
+            <subject source="lcsh">Assiniboine Indians--Food</subject>
+            <subject source="lcsh">Assiniboine Indians--History</subject>
+            <subject source="lcsh">Assiniboine Indians--Religion</subject>
+            <subject source="lcsh">Assiniboine Indians--Social life and customs</subject>
+            <subject source="lcsh">Canada. Treaties, etc. 1877 September 22</subject>
+            <subject source="lcsh">Cree language</subject>
+            <subject source="lcsh">Indian sign language</subject>
+            <subject source="lcsh">Indians of North America--Alberta--History</subject>
+            <subject source="lcsh">Sarsi language</subject>
+            <subject source="lcsh">Siksika Indians</subject>
+            <subject source="lcsh">Siksika language</subject>
+            <genreform source="ingest">Sound recordings</genreform>
+            <subject source="lcsh">Stoney language</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref6" level="series">
+                <did>
+                    <unittitle>Audio recordings</unittitle>
+                </did>
+                <c02 id="ref7" level="file">
+                    <did>
+                        <unittitle>New Years' service at Community Hall</unittitle>
+                        <unitid>01-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1971-08-24; 1968-01-01</unitdate>
+                        <physdesc id="ref8" label="General Physical Description note">
+                            <extent>00:07:10</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Harbeck, Warren A.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Rider, Dillon</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Snow, John</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Taylor, Allan R. (Allan Ross), 1931-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Wesley, Lazarus</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref9">
+                        <head>Scope and Contents note</head>
+                        <p>A transcription of this program in Stoney and an English translation are available in the collector's documentation.</p>
+                    </scopecontent>
+                    <originalsloc id="ref11">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3517" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3708">
+                        <daodesc>
+                            <p>APSdigrec_3517</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Assiniboine Indians--Religion</subject>
+                        <subject source="lcsh">Assiniboine Indians--Social life and customs</subject>
+                        <geogname source="ingest">Morley (Alta.)</geogname>
+                        <subject source="ingest">New Year sermons</subject>
+                        <subject source="ingest">Prayers</subject>
+                        <subject source="lcsh">Stoney language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref12" level="file">
+                    <did>
+                        <unittitle>Band Council, Culture</unittitle>
+                        <unitid>02-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1971-08-21</unitdate>
+                        <physdesc id="ref13" label="General Physical Description note">
+                            <extent>00:07:13</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Simeon, Carl</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Taylor, Allan R. (Allan Ross), 1931-</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref14">
+                        <head>Scope and Contents note</head>
+                        <p>A text given in Stoney (Nakoda) only by Carl Simeon, identified as a "speaker of younger dialect." Introduced in English by the collector. A transcription of this text in Stoney and an English translation are available in the collector's documentation.</p>
+                    </scopecontent>
+                    <originalsloc id="ref16">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3518" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3704">
+                        <daodesc>
+                            <p>APSdigrec_3518</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Assiniboine Indians--Education</subject>
+                        <subject source="ingest">Assiniboine Indians--Kings and rulers</subject>
+                        <geogname source="ingest">Morley (Alta.)</geogname>
+                        <subject source="lcsh">Stoney language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref17" level="file">
+                    <did>
+                        <unittitle>Life Story</unittitle>
+                        <unitid>02-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1971-08-21</unitdate>
+                        <physdesc id="ref18" label="General Physical Description note">
+                            <extent>00:02:50</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Simeon, Carl</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Taylor, Allan R. (Allan Ross), 1931-</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref19">
+                        <head>Scope and Contents note</head>
+                        <p>A text given in Stoney (Nakoda) only by Carl Simeon, identified as a "speaker of younger dialect." A transcription of this text in Stoney and an English translation are available in the collector's documentation.</p>
+                    </scopecontent>
+                    <originalsloc id="ref21">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3519" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3703">
+                        <daodesc>
+                            <p>APSdigrec_3519</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Assiniboine Indians</subject>
+                        <subject source="ingest">Autobiography</subject>
+                        <geogname source="ingest">Morley (Alta.)</geogname>
+                        <subject source="lcsh">Stoney language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref22" level="file">
+                    <did>
+                        <unittitle>History</unittitle>
+                        <unitid>02-03</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1971-08-21</unitdate>
+                        <physdesc id="ref23" label="General Physical Description note">
+                            <extent>00:01:11</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Simeon, Carl</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Taylor, Allan R. (Allan Ross), 1931-</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref24">
+                        <head>Scope and Contents note</head>
+                        <p>A text given in Stoney (Nakoda) only by Carl Simeon, identified as a "speaker of younger dialect." A transcription of this text in Stoney and an English translation are available in the collector's documentation.</p>
+                    </scopecontent>
+                    <originalsloc id="ref26">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3520" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3713">
+                        <daodesc>
+                            <p>APSdigrec_3520</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Indian sign language</subject>
+                        <geogname source="ingest">Morley (Alta.)</geogname>
+                        <subject source="lcsh">Stoney language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref27" level="file">
+                    <did>
+                        <unittitle>What kind of love they have</unittitle>
+                        <unitid>02-04</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1971-08-21</unitdate>
+                        <physdesc id="ref28" label="General Physical Description note">
+                            <extent>00:02:17</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Simeon, Carl</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Taylor, Allan R. (Allan Ross), 1931-</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref29">
+                        <head>Scope and Contents note</head>
+                        <p>A text given in Stoney (Nakoda) only by Carl Simeon, identified as a "speaker of younger dialect." A transcription of this text in Stoney and an English translation are available in the collector's documentation.</p>
+                    </scopecontent>
+                    <originalsloc id="ref31">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3521" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3705">
+                        <daodesc>
+                            <p>APSdigrec_3521</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Assiniboine Indians</subject>
+                        <geogname source="ingest">Morley (Alta.)</geogname>
+                        <subject source="lcsh">Siksika Indians</subject>
+                        <subject source="lcsh">Stoney language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref32" level="file">
+                    <did>
+                        <unittitle>Different languages</unittitle>
+                        <unitid>02-05</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1971-08-21</unitdate>
+                        <physdesc id="ref33" label="General Physical Description note">
+                            <extent>00:02:49</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Simeon, Carl</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Taylor, Allan R. (Allan Ross), 1931-</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref34">
+                        <head>Scope and Contents note</head>
+                        <p>A text given in Stoney (Nakoda) only by Carl Simeon, identified as a "speaker of younger dialect." A transcription of this text in Stoney and an English translation are available in the collector's documentation.</p>
+                    </scopecontent>
+                    <originalsloc id="ref36">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3522" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3710">
+                        <daodesc>
+                            <p>APSdigrec_3522</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Cree language</subject>
+                        <geogname source="ingest">Morley (Alta.)</geogname>
+                        <subject source="lcsh">Sarsi language</subject>
+                        <subject source="lcsh">Siksika language</subject>
+                        <subject source="lcsh">Stoney language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref37" level="file">
+                    <did>
+                        <unittitle>History</unittitle>
+                        <unitid>03-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1971-08-23</unitdate>
+                        <physdesc id="ref38" label="General Physical Description note">
+                            <extent>00:03:44</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Stoney, Will Good</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Taylor, Allan R. (Allan Ross), 1931-</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref39">
+                        <head>Scope and Contents note</head>
+                        <p>A text given in Stoney (Nakoda) only by Willie Good Stoney, identified as a "speaker of older dialect." Introduced in English by collector. A transcription of this text in Stoney and an English translation are available in the collector's documentation.</p>
+                    </scopecontent>
+                    <originalsloc id="ref41">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3523" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3712">
+                        <daodesc>
+                            <p>APSdigrec_3523</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Assiniboine Indians--History</subject>
+                        <subject source="lcsh">Assiniboine Indians--Religion</subject>
+                        <geogname source="ingest">Morley (Alta.)</geogname>
+                        <subject source="lcsh">Stoney language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref42" level="file">
+                    <did>
+                        <unittitle>How they eat</unittitle>
+                        <unitid>03-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1971-08-23</unitdate>
+                        <physdesc id="ref43" label="General Physical Description note">
+                            <extent>00:00:30</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Stoney, Will Good</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Taylor, Allan R. (Allan Ross), 1931-</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref44">
+                        <head>Scope and Contents note</head>
+                        <p>A text given in Stoney (Nakoda) only by Willie Good Stoney, identified as a "speaker of older dialect." A transcription of this text in Stoney and an English translation are available in the collector's documentation.</p>
+                    </scopecontent>
+                    <originalsloc id="ref46">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3524" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3714">
+                        <daodesc>
+                            <p>APSdigrec_3524</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Assiniboine Indians--Food</subject>
+                        <geogname source="ingest">Morley (Alta.)</geogname>
+                        <subject source="lcsh">Stoney language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref47" level="file">
+                    <did>
+                        <unittitle>Indians</unittitle>
+                        <unitid>03-03</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1971-08-23</unitdate>
+                        <physdesc id="ref48" label="General Physical Description note">
+                            <extent>00:02:12</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Stoney, Will Good</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Taylor, Allan R. (Allan Ross), 1931-</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref49">
+                        <head>Scope and Contents note</head>
+                        <p>A text given in Stoney (Nakoda) only by Willie Good Stoney, identified as a "speaker of older dialect." A transcription of this text in Stoney and an English translation are available in the collector's documentation.</p>
+                    </scopecontent>
+                    <originalsloc id="ref51">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3525" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3702">
+                        <daodesc>
+                            <p>APSdigrec_3525</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Assiniboine Indians</subject>
+                        <subject source="lcsh">Cree Indians</subject>
+                        <subject source="lcsh">Indians of North America--Alberta--History</subject>
+                        <geogname source="ingest">Morley (Alta.)</geogname>
+                        <subject source="lcsh">Siksika Indians</subject>
+                        <subject source="lcsh">Stoney language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref52" level="file">
+                    <did>
+                        <unittitle>Treaty Number 7</unittitle>
+                        <unitid>03-04</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1971-08-23</unitdate>
+                        <physdesc id="ref53" label="General Physical Description note">
+                            <extent>00:05:24</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Stoney, Will Good</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Taylor, Allan R. (Allan Ross), 1931-</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref54">
+                        <head>Scope and Contents note</head>
+                        <p>A text given in Stoney (Nakoda) only by Willie Good Stoney, identified as a "speaker of older dialect." A transcription of this text in Stoney and an English translation are available in the collector's documentation.</p>
+                    </scopecontent>
+                    <originalsloc id="ref56">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3526" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3709">
+                        <daodesc>
+                            <p>APSdigrec_3526</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Assiniboine Indians</subject>
+                        <subject source="lcsh">Cree Indians</subject>
+                        <subject source="lcsh">Indians of North America--Alberta--History</subject>
+                        <geogname source="ingest">Morley (Alta.)</geogname>
+                        <subject source="lcsh">Siksika Indians</subject>
+                        <subject source="lcsh">Stoney language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref57" level="file">
+                    <did>
+                        <unittitle>Why they live in this reserve</unittitle>
+                        <unitid>03-05</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1971-08-23</unitdate>
+                        <physdesc id="ref58" label="General Physical Description note">
+                            <extent>00:01:55</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Stoney, Will Good</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Taylor, Allan R. (Allan Ross), 1931-</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref59">
+                        <head>Scope and Contents note</head>
+                        <p>A text given in Stoney (Nakoda) only by Willie Good Stoney, identified as a "speaker of older dialect." A transcription of this text in Stoney and an English translation are available in the collector's documentation.</p>
+                    </scopecontent>
+                    <originalsloc id="ref61">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3527" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3707">
+                        <daodesc>
+                            <p>APSdigrec_3527</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Assiniboine Indians--Social life and customs</subject>
+                        <geogname source="ingest">Morley (Alta.)</geogname>
+                        <subject source="lcsh">Stoney language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref62" level="file">
+                    <did>
+                        <unittitle>How the first whitemen came</unittitle>
+                        <unitid>03-06</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1971-08-23</unitdate>
+                        <physdesc id="ref63" label="General Physical Description note">
+                            <extent>00:05:36</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Stoney, Will Good</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Taylor, Allan R. (Allan Ross), 1931-</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref64">
+                        <head>Scope and Contents note</head>
+                        <p>A text given in Stoney (Nakoda) only by Willie Good Stoney, identified as a "speaker of older dialect." A transcription of this text in Stoney and an English translation are available in the collector's documentation.</p>
+                    </scopecontent>
+                    <originalsloc id="ref66">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3528" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3706">
+                        <daodesc>
+                            <p>APSdigrec_3528</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Assiniboine Indians--First contact with Europeans</subject>
+                        <subject source="lcsh">Assiniboine Indians--History</subject>
+                        <geogname source="ingest">Morley (Alta.)</geogname>
+                        <subject source="lcsh">Stoney language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref67" level="file">
+                    <did>
+                        <unittitle>Iktûmî</unittitle>
+                        <unitid>03-07</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1971-08-23</unitdate>
+                        <physdesc id="ref68" label="General Physical Description note">
+                            <extent>00:09:13</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Stoney, Will Good</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Taylor, Allan R. (Allan Ross), 1931-</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref69">
+                        <head>Scope and Contents note</head>
+                        <p>A text given in Stoney (Nakoda) only by Willie Good Stoney, identified as a "speaker of older dialect." A transcription of this text in Stoney and an English translation are available in the collector's documentation.</p>
+                    </scopecontent>
+                    <originalsloc id="ref71">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3529" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3711">
+                        <daodesc>
+                            <p>APSdigrec_3529</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Assiniboine Indians--Folklore</subject>
+                        <subject source="ingest">Bears--Folklore</subject>
+                        <geogname source="ingest">Morley (Alta.)</geogname>
+                        <subject source="lcsh">Stoney language</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

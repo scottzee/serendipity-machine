@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Rec.104-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Rec.104</num>
+                </titleproper>
+                <author>Finding aid prepared by Anne Harney, Brian Carpenter</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T21:09-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Hopi and Tewa recordings</unittitle>
+            <unitid>Mss.Rec.104</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="mul"/>
+            </langmaterial>
+            <physdesc>
+                <extent>14.0 Reel(s)</extent>
+            </physdesc>
+            <unitdate normal="1964/1969" type="inclusive">1964-1965, 1969</unitdate>
+            <langmaterial id="ref4" label="Language of Materials">Recordings are primarily Hopi but include some Tewa.</langmaterial>
+            <abstract id="ref5" label="Abstract">The recordings include names of plants, birds, reptiles, and other animals (including domesticated); costumes (including Kachina); Migration legend; place-names; kinship terms; numerals; weaving; pottery; Hopi, Huichol, and Tarahumara belts; medicine man; etc. Informants include: Frank Capella (Hopi and Tewa), Grace Chapella (Tewa), Ralph Charlie (Hopi?), George Cochase (Hopi and Tewa), Jim Kewanwytewa (Hopi), Donald Mahkewa (Tewa), Nettie Masayumptewa (Hopi?), Edmund Nequatewa (Hopi), Garnet Pavatea (Hopi?), Frank Sehma (Hopi), Henry Sheldon (Hopi), Annette Silas (Hopi), Albert Sinquah (Hopi), Dennis Sinquah (Hopi and Tewa), David Tawameiniwa (Hopi?), Joe Tevenyouma (Hopi?), Barton Wright (Hopi?), and Margaret Wright (Hopi?).</abstract>
+            <physdesc id="ref2" label="General Physical Description note">14 sound tape reels (28 hr.) : analog, 3 3/4 ips, 2 track, mono ; 7 in.</physdesc>
+            <physloc id="ref10" label="Paging">LH-B-32-3</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Whiting, Alfred F., 1912-1978</persname>
+            </origination>
+        </did>
+        <bioghist id="ref1">
+            <head>Biographical notea</head>
+            <p>Alfred Frank Whiting, 1912-1978, worked as anthropolgist and ethnobotanist.</p>
+        </bioghist>
+        <accessrestrict id="ref7">
+            <head>Conditions Governing Access</head>
+            <p>Material is restricted but reproduction allowed after 1986.</p>
+        </accessrestrict>
+        <acqinfo id="ref8">
+            <head>Immediate Source of Acquisition</head>
+            <p>Donated by Department of Anthropology, Northern Arizona University through P. David Seaman, 1976. (Acc. 1976 396r)</p>
+        </acqinfo>
+        <controlaccess>
+            <subject source="ingest">Animals--Nomenclature</subject>
+            <subject source="lcsh">Birds--Nomenclature</subject>
+            <subject source="ingest">Clothing and dress</subject>
+            <subject source="lcsh">Costumes</subject>
+            <subject source="lcsh">Hopi Indians--Ethnobotany</subject>
+            <subject source="lcsh">Hopi Indians--Folklore</subject>
+            <subject source="lcsh">Hopi Indians--Kinship</subject>
+            <subject source="lcsh">Hopi Indians--Names</subject>
+            <subject source="lcsh">Hopi Indians--Religion</subject>
+            <subject source="lcsh">Hopi Indians--Rites and ceremonies</subject>
+            <subject source="lcsh">Hopi language</subject>
+            <subject source="lcsh">Hopi pottery</subject>
+            <genreform source="lcsh">Interviews.</genreform>
+            <subject source="lcsh">Kachinas</subject>
+            <subject source="lcsh">Mammals.</subject>
+            <subject source="lcsh">Plants--Nomenclature</subject>
+            <genreform source="ingest">Sound recordings</genreform>
+            <subject source="lcsh">Tewa Indians--Ethnobotany</subject>
+            <subject source="lcsh">Tewa Indians--Kinship</subject>
+            <subject source="lcsh">Tewa language</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

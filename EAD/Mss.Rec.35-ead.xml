@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Rec.35-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Rec.35</num>
+                </titleproper>
+                <author>Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T21:16-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Keresan tales in the Acoma and Cochiti dialects</unittitle>
+            <unitid>Mss.Rec.35</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="mul"/>
+            </langmaterial>
+            <container id="cid120202" type="Reel" label="Audio">1-9</container>
+            <physdesc>
+                <extent>9.0 Reel(s)</extent>
+            </physdesc>
+            <unitdate>1957, 1959</unitdate>
+            <physdesc id="ref3" label="General Physical Description note">9 sound tape reels (3 hr., 45 min.) : analog, 7 1/2 ips, half track, mono and stereo ; 7 in.</physdesc>
+            <abstract id="ref4" label="Abstract">Keresan dialect study (62 sample utterances in seven dialects: Acoma, Laguna, Zia, Santa Ana, San Felipe, Santo Domingo, Cochiti). 18 Acoma texts and tales; speakers' general translations of four texts; text and informal translation. One Cochiti text.</abstract>
+            <physloc id="ref5" label="Paging">LH-B-32-2</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Maring, Joel</persname>
+            </origination>
+        </did>
+        <relatedmaterial id="ref6">
+            <head>Related Archival Materials</head>
+            <p>Transcripts and translations of most of the stories on these tapes are available in the 
+                <extref ns2:actuate="onLoad" ns2:show="new" ns2:href="http://www.amphilsoc.org/mole/view?docId=ead/Mss.497.3.Am4-ead.xml">Phillips Fund Collection</extref> (Mss.497.3.Am4).</p>
+        </relatedmaterial>
+        <acqinfo id="ref2">
+            <head>Immediate Source of Acquisition</head>
+            <p>Presented by Joel Maring in 1960. This material was recorded with the assistance of a Phillips Fund grant.</p>
+        </acqinfo>
+        <controlaccess>
+            <subject source="lcsh">Acoma dialect</subject>
+            <subject source="lcsh">Acoma Indians--Folklore</subject>
+            <subject source="lcsh">Cochiti dialect</subject>
+            <subject source="lcsh">Cochiti Indians--Folklore</subject>
+            <subject source="ingest">Coyote (Legendary character)--Legends</subject>
+            <subject source="lcsh">Keres language </subject>
+            <subject source="lcsh">Keresan Indians </subject>
+            <subject source="lcsh">Laguna dialect</subject>
+            <subject source="local">San Felipe dialect</subject>
+            <subject source="local">Santa Ana dialect</subject>
+            <subject source="local">Santo Domingo dialect</subject>
+            <genreform source="ingest">Sound recordings</genreform>
+            <subject source="local">Zia dialect</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

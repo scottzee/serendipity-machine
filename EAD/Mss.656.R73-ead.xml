@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.656.R73-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.656.R73</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:22-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="item">
+        <did>
+            <unittitle>Log, 1804-1805, of the China Packet</unittitle>
+            <unitid>Mss.656.R73</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1003" type="Volume" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>1.0 Volume(s)</extent>
+                <extent>1 volume, ca. 280 p.</extent>
+            </physdesc>
+            <unitdate normal="1804/1805" type="inclusive">1804-1805</unitdate>
+            <abstract id="ref1" label="Abstract">This volume is from the voyage of the China Packet from Philadelphia to Canton, China, and return. The concluding statement reads: "One hundred &amp; thirty days from Maccoa out of which time we had 30 Calm days, the longest passage I Ever had from China. With this Journal I have done and glad Am I."</abstract>
+            <physdesc id="ref6" label="General Physical Description note">1 volume, ca. 280 p.</physdesc>
+            <physloc id="ref8" label="Paging">LH-MV-E-11</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Rosseter, John,d. ca. 1811.</persname>
+            </origination>
+        </did>
+        <odd id="ref7">
+            <head>Early American History Note</head>
+            <p>This bound volume contains the log for the ship China Packet during its voyage from Philadelphia to China and back to Philadelphia in 1804-1805. The content is primarily meteorological.</p>
+        </odd>
+        <acqinfo id="ref5">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Received and accessioned, 1900 (1900 3342).</p>
+        </acqinfo>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>John Rosseter was a ship captain.</p>
+        </bioghist>
+        <controlaccess>
+            <subject source="leah">International Trade.</subject>
+            <subject source="leah">International Travel</subject>
+            <genreform source="lcsh">Logbooks.</genreform>
+            <genreform source="leah">Meteorological Data</genreform>
+            <genreform source="leah">Scientific Data</genreform>
+            <genreform source="leah">Travel Narratives and Journals</genreform>
+            <subject source="lcsh">Voyages and travels.</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

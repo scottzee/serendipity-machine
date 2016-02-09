@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.C974m</num>
+                </titleproper>
+                <author>Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T19:05-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Manasseh Cutler papers, 1787-1806</unittitle>
+            <unitid>Mss.B.C974m</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid654" type="Box" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>0.25 Linear feet</extent>
+            </physdesc>
+            <unitdate normal="1787/1806" type="inclusive">1787-1806</unitdate>
+            <physdesc id="ref3" label="General Physical Description note">14 items, photocopies.</physdesc>
+            <abstract id="ref1" label="Abstract">Miscellaneous letters from and to Benjamin Smith Barton, Nicholas Collin, Henry Muhlenberg, Jeremy Belknap, Monsieur Le Roi, and a broadside by Robert Aitken. These letters concern botany and zoology in the U.S., England, and on the Continent, and mention contemporary figures as well as the American Philosophical Society.</abstract>
+            <physloc id="ref6" label="Paging">LH-B-16-4</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Barton, Benjamin Smith, 1766-1815</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Belknap, Jeremy, 1744-1798</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Collin, Nicholas, 1746-1831</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="local" role="Author (aut)">Cutler, Manasseh, 1742-1823</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Muhlenberg, Gotthilf Henrich Ernst, 1753-1815</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Muhlenberg, Henry, 1753-1815</persname>
+            </origination>
+        </did>
+        <bioghist id="ref5">
+            <head>Biographical/Historical note</head>
+            <p>Manasseh Cutler was a clergyman and botanist.</p>
+        </bioghist>
+        <acqinfo id="ref4">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Received from Roger W. Moss, 07/1968; accessioned, 1969 (1969 381ms).</p>
+        </acqinfo>
+        <originalsloc id="ref2">
+            <head>Existence and Location of Originals note</head>
+            <p>Originals in: Ohio University Archives.</p>
+        </originalsloc>
+        <odd id="ref7">
+            <head>Early American History Note</head>
+            <p>The Mannasseh Cutler Collection contains photocopies of Cutler correspondence to prominent scientists in the early republic (1787-1806). Correspondents include Benjamin Smith Barton and Henry Muhlenberg.</p>
+        </odd>
+        <controlaccess>
+            <corpname rules="aacr" source="naf">American Philosophical Society.</corpname>
+            <subject source="lcsh">Botany -- England.</subject>
+            <subject source="lcsh">Botany -- Europe.</subject>
+            <subject source="lcsh">Botany -- United States.</subject>
+            <subject source="leah">Natural History</subject>
+            <subject source="leah">Science and Technology</subject>
+            <genreform source="leah">Scientific Correspondence</genreform>
+            <subject source="lcsh">Zoology -- England.</subject>
+            <subject source="lcsh">Zoology -- Europe.</subject>
+            <subject source="lcsh">Zoology -- United States.</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

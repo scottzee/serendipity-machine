@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.647.P53-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.647.P53</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:22-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="item">
+        <did>
+            <unittitle>Record of indentures of individuals bound out as apprentices, servants, etc., and of German and other redemptioners, 1771 October 3 - 1773 October 5</unittitle>
+            <unitid>Mss.647.P53</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid998" type="Volume" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>1.0 Volume(s)</extent>
+            </physdesc>
+            <unitdate normal="1771/1773" type="inclusive">1771-1773</unitdate>
+            <physdesc id="ref10" label="General Physical Description note">1 volume.</physdesc>
+            <abstract id="ref1" label="Abstract">This volume contains the names of the indentured and to whom bound, the length of time, and the occupation to be learned or performed. There is an index in the back of this volume.</abstract>
+            <physloc id="ref13" label="Paging">LH-MV-E-11</physloc>
+            <origination label="creator">
+                <corpname source="ingest" role="Author (aut)">Philadelphia (Pa.).Mayor.</corpname>
+            </origination>
+        </did>
+        <custodhist id="ref11">
+            <head>Custodial History note</head>
+            <p>Deposited in Philadelphia City Archives, 02/23/1971; returned, 04/--/1987.</p>
+        </custodhist>
+        <acqinfo id="ref9">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by Thomas P. Roberts and accessioned, 1835 (1835 2761). Deposited in Phila. City Archives; 23 Feb. 1971. Returned to APS, April 1987.</p>
+            <p></p>
+        </acqinfo>
+        <altformavail id="ref5">
+            <head>Existence and Location of Copies note</head>
+            <p>This item is also available on microfilm (Film 1477).</p>
+        </altformavail>
+        <odd id="ref3">
+            <head>General note</head>
+            <p>This item was printed in the Pennsylvania-German Society "Proceedings" 16/4(1907).</p>
+        </odd>
+        <odd id="ref12">
+            <head>Early American History Note</head>
+            <p>This large volume contains the records of those entering contracts of indentured servitude in Philadelphia from 1771-1773. The records not only list the name of the person, but contain details on their profession and on the terms of the indenture. Although the volume is described as the records of German immigrants, there are other indentures included, such as that of John Slour, “a free negro,” records of those arriving from Ireland, and of young Philadelphians choosing to enter indentured contracts. The volume had been on loan to the City Archives until 1987. During that time, approximately twenty pages went missing. Otherwise, the volume appears to be complete and contains over 800 pages of records with each page contain information for about four to six individuals.</p>
+        </odd>
+        <controlaccess>
+            <subject source="leah">African American</subject>
+            <subject source="lcsh">Apprentices -- Pennsylvania.</subject>
+            <subject source="leah">Business and Skilled Trades</subject>
+            <genreform source="leah">Business Records and Accounts</genreform>
+            <subject source="lcsh">Germans -- United States.</subject>
+            <subject source="leah">Government Affairs</subject>
+            <subject source="lcsh">Indentured servants -- Pennsylvania.</subject>
+            <genreform source="leah">Legal Records</genreform>
+            <genreform source="leah">Official Government Documents and Records</genreform>
+            <subject source="leah">Philadelphia History</subject>
+            <subject source="leah">Social Life and Custom</subject>
+            <subject source="leah">Women's History</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

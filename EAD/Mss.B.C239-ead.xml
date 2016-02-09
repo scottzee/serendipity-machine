@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.C239-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.C239</num>
+                </titleproper>
+                <author>Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T19:00-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Joseph Carson papers, 1810-1877</unittitle>
+            <unitid>Mss.B.C239</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid422" type="Box" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>0.25 Linear feet</extent>
+                <extent>35 items</extent>
+            </physdesc>
+            <unitdate normal="1810/1877" type="inclusive">1810-1877</unitdate>
+            <physdesc id="ref1" label="General Physical Description note">35 items.</physdesc>
+            <abstract id="ref2" label="Abstract">This collection contains material relating to his legal affairs, medical publications, receipts for books purchased, and information on botany. Important correspondents include Edward H. Clarke, George Mifflin Dallas, Samuel David Gross, and Joseph Henry. There is also family history in these papers.</abstract>
+            <physloc id="ref6" label="Paging">LH-MV-C-3</physloc>
+            <origination label="creator">
+                <famname rules="aacr" source="naf" role="Correspondent (crp)">Carson family</famname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Carson, Joseph, 1808-1876</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Clarke, Edward H.,  (Edward Hammond), 1820-1877</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Dallas, George Mifflin, 1792-1864</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Gross, Samuel D.,  (Samuel David), 1805-1884</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Henry, Joseph, 1797-1878</persname>
+            </origination>
+        </did>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>Physician Joseph Carson taught medicine at the University of Pennsylvania.</p>
+        </bioghist>
+        <odd id="ref5">
+            <head>Early American History Note</head>
+            <p>The APS collection of Joseph Carson’s letters is relatively small, especially for the purposes of this guide. Joseph Carson was a Philadelphia born and educated physician who spent time serving as a ship’s physician. The collection has six documents from before 1850. They range from letters to receipts to notes from a lecture. Of particular significance is a very long letter Carson wrote from Calcultta in 1830 to Samuel Grant, an associate in the U.S.. Carson had been asked to carry a bill of exchange for Grant, which he had some difficulty disposing of because Grant’s credit was not well-known, and to purchase goods on Grant’s behalf for sale in the U.S.. Carson details the process and availability of goods in India, and the reasons for his decision to purchase silk and indigo for Grant. Carson then goes on to describe his experience on the trip, stating that he “played the part of merchant and doctor.”</p>
+            <p>Joseph Carson was a Philadelphia born and educated physician who spent time serving as a ship’s physician. He attended the University of Pennsylvania, studying under Thomas Hewson and graduating in 1830. He served briefly as the physician to the Philadelphia almshouse before embarking as a ship’s surgeon aboard an India bound merchant vessel Georgiana. Upon his return in 1832, he began his own practice and became a well-regarded obstetrician. Carson was also interested in materia medica, a precursor to modern pharmacology and a field that reflected Carson’s interest in natural history and botany. Carson published two well-received books in the field, Illustrations of Medical Botany: Consisting of Coloured Figures of the Plants Affording the Important Articles of the Materia Medica and The Elements of the Materia Medica. He eventually became a professor of materia medica at the University of Pennsylvania.</p>
+        </odd>
+        <controlaccess>
+            <subject source="leah">Americans Abroad</subject>
+            <subject source="lcsh">Botany.</subject>
+            <genreform source="leah">Business Records and Accounts</genreform>
+            <subject source="leah">Education</subject>
+            <genreform source="leah">Educational Material</genreform>
+            <genreform source="leah">General Correspondence</genreform>
+            <subject source="lcsh">Medical publishing</subject>
+            <subject source="leah">Medicine</subject>
+            <subject source="lcsh">Medicine -- Pennsylvania -- Philadelphia.</subject>
+            <genreform source="leah">Notebooks</genreform>
+            <genreform source="lcsh">Receipts.</genreform>
+            <subject source="leah">Trade</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

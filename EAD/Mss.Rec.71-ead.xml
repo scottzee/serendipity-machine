@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Rec.71-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Rec.71</num>
+                    <num>Mss.Rec.71</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Finding aid prepared by Anne Harney. Inventory added by Brian Carpenter.</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+                <date>11-2010</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T21:18-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Siouan texts: mutual intelligibility survey</unittitle>
+            <unitid>Mss.Rec.71</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="sio"/>
+            </langmaterial>
+            <physdesc>
+                <extent>1.0 Reel(s)</extent>
+            </physdesc>
+            <unitdate>1968</unitdate>
+            <abstract id="ref2" label="Abstract">These texts are from Eagle Butte, South Dakota; Sintaluta, Saskatchewan; Fort Totten, North Dakota; Griswold, Manitoba; and Alberta. This recording is the basis for Harbeck's report, "A Study in Mutual Intelligibility and Linguistic Separation Among Five Siouan Languages" (37 pages) (Mss.497.3.Am4).</abstract>
+            <physdesc id="ref3" label="General Physical Description note">1 sound tape reel (12 min.) : analog, 7 1/2 ips, 2 track, mono ; 5 in.</physdesc>
+            <physloc id="ref27" label="Paging">LH-B-32-3</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Harbeck, Warren A.</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref4">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by Warren A. Harbeck and accessioned, 09/24/1969 (1970 161r). This material was recorded with the assistance of a Phillips Fund grant.</p>
+        </acqinfo>
+        <bioghist id="ref5">
+            <head>Biographical/Historical note</head>
+            <p>Warren A. Harbeck was a recipient of an American Philosophical Society Phillips Fund grant in 1968, from which this material was created.</p>
+        </bioghist>
+        <controlaccess>
+            <subject source="lcsh">Assiniboine dialect</subject>
+            <subject source="lcsh">Dakota language</subject>
+            <subject source="lcsh">Indians of North America--Languages</subject>
+            <subject source="lcsh">Lakota dialect</subject>
+            <subject source="lcsh">Siouan languages--Mutual intelligibility</subject>
+            <genreform source="ingest">Sound recordings</genreform>
+            <subject source="lcsh">Stoney language</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref6" level="series">
+                <did>
+                    <unittitle>Audio recordings</unittitle>
+                </did>
+                <c02 id="ref7" level="file">
+                    <did>
+                        <unittitle>Why I Like my Language</unittitle>
+                        <unitid>01-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1968</unitdate>
+                        <physdesc id="ref8" label="General Physical Description note">
+                            <extent>00:02:01</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Good Bear, Henry</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Harbeck, Warren A.</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref10">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2580" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:21442">
+                        <daodesc>
+                            <p>APSdigrec_2580</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Lakota dialect</subject>
+                        <geogname source="ingest">Rapid City (S.D.)</geogname>
+                        <subject source="lcsh">Siouan languages--Mutual intelligibility</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref11" level="file">
+                    <did>
+                        <unittitle>Greetings to the Stoney People</unittitle>
+                        <unitid>01-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1968</unitdate>
+                        <physdesc id="ref12" label="General Physical Description note">
+                            <extent>00:02:02</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Eashappie, Albert</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Harbeck, Warren A.</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref14">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2581" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:21443">
+                        <daodesc>
+                            <p>APSdigrec_2581</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Assiniboine dialect</subject>
+                        <geogname source="ingest">Sintaluta (Sask.)</geogname>
+                        <subject source="lcsh">Siouan languages--Mutual intelligibility</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref15" level="file">
+                    <did>
+                        <unittitle>A Visit with Florence Joshua</unittitle>
+                        <unitid>01-03</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1968</unitdate>
+                        <physdesc id="ref16" label="General Physical Description note">
+                            <extent>00:03:15</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Harbeck, Warren A.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Joshua, Florence</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref18">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2582" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:21445">
+                        <daodesc>
+                            <p>APSdigrec_2582</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Dakota language</subject>
+                        <geogname source="ingest">Fort Totten (N.D.)</geogname>
+                        <subject source="lcsh">Siouan languages--Mutual intelligibility</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref19" level="file">
+                    <did>
+                        <unittitle>How Jacob House Got his Stoney Name</unittitle>
+                        <unitid>01-04</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1968</unitdate>
+                        <physdesc id="ref20" label="General Physical Description note">
+                            <extent>00:01:42</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Harbeck, Warren A.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">House, Jacob</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref22">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2583" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:21444">
+                        <daodesc>
+                            <p>APSdigrec_2583</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Rocky Mountain House (Alta.)</geogname>
+                        <subject source="lcsh">Siouan languages--Mutual intelligibility</subject>
+                        <subject source="lcsh">Stoney language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref23" level="file">
+                    <did>
+                        <unittitle>What Donald Pratt Does around the Reserve</unittitle>
+                        <unitid>01-05</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1968</unitdate>
+                        <physdesc id="ref24" label="General Physical Description note">
+                            <extent>00:02:58</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Harbeck, Warren A.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Pratt, Donald</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref26">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2584" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:21446">
+                        <daodesc>
+                            <p>APSdigrec_2584</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Dakota Indians--Social life and customs</subject>
+                        <subject source="lcsh">Dakota language</subject>
+                        <geogname source="ingest">Griswold (Man.)</geogname>
+                        <subject source="lcsh">Siouan languages--Mutual intelligibility</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

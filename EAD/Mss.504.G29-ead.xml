@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.504.G29-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.504.G29</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:14-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="item">
+        <did>
+            <unittitle>Notes, 1825-1829, on natural history</unittitle>
+            <unitid>Mss.504.G29</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid849" type="Volume" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>1.0 Volume(s)</extent>
+                <extent>1 item, 36 p. </extent>
+            </physdesc>
+            <unitdate normal="1825/1829" type="inclusive">1825-1829</unitdate>
+            <abstract id="ref1" label="Abstract">These notes, apparently drawn together for lectures, are on general studies, but with a particular emphasis on zoology.</abstract>
+            <langmaterial id="ref7" label="Language of Materials note">In French.</langmaterial>
+            <physdesc id="ref6" label="General Physical Description note">1 volume, 36 p.</physdesc>
+            <physloc id="ref8" label="Paging">LH-MV-E-9</physloc>
+            <origination label="creator">
+                <persname source="naf" role="Author (aut)">Geoffroy Saint-Hilaire, Etienne, 1772-1844 </persname>
+            </origination>
+        </did>
+        <odd id="ref9">
+            <head>Early American History Note</head>
+            <p>This manuscript collection falls outside the geographic scope of the Early American guide (British North America and the United States before 1840). It may be of interest to scholars interested in global history, international relations, imperialism, or the U.S. in the world.</p>
+        </odd>
+        <acqinfo id="ref5">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Purchased from Kenneth W. Randall (cat. 40, #50; $100.00) and accessioned, 11/17/1969 (1969 1506ms).</p>
+        </acqinfo>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>French zoologist Geoffroy Saint-Hilaire taught at the Muséum d'histoire naturelle in Paris.</p>
+        </bioghist>
+        <controlaccess>
+            <subject source="leah">Beyond Early America</subject>
+            <subject source="lcsh">Biology.</subject>
+            <subject source="lcsh">Natural history.</subject>
+            <genreform source="lcsh">Notes.</genreform>
+            <subject source="lcsh">Zoology.</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

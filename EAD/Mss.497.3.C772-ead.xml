@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.497.3.C772-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.497.3.C772</num>
+                </titleproper>
+                <author>Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:11-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Iroquois personal names, 1900-1951</unittitle>
+            <unitid>Mss.497.3.C772</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="iro"/>
+            </langmaterial>
+            <container id="cid601" type="Reel" label="Microform">1</container>
+            <container id="cid602" type="Volume" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>1332.0 pp.</extent>
+                <extent>1 typed item, 1332 p.; 1 microfilm reel</extent>
+            </physdesc>
+            <unitdate normal="1900/1951" type="inclusive">1900-1951</unitdate>
+            <physdesc id="ref1" label="General Physical Description note">1 typed manuscript, 1332 pages. This collection is also available on microfilm (Film 1374).</physdesc>
+            <abstract id="ref2" label="Abstract">This item is an alphabetical list of about 6200 Iroquoian names beginning with A, D, E, G, H, J, N, O, R, S, T, V, W, and Y. Each entry includes phonetic spelling, gender, tribe, location, date, and clan. The name is then analyzed by radicals, with historical information about its bearer (where relevant). Cross reference to variants and from English names of Indians. Preface by Cooke, edited by C. Marius Barbeau (?), which classifies names and gives numbers and sex.</abstract>
+            <physloc id="ref10" label="Paging">LH-MV-E-8</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Cooke, Charles, 1870-1958</persname>
+            </origination>
+        </did>
+        <bioghist id="ref4">
+            <head>Biographical/Historical note</head>
+            <p>Canadian ethnologist Charles Cooke compiled the list of the some 6,200 Iroquoian names.</p>
+        </bioghist>
+        <acqinfo id="ref3">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Purchased from Charles Marius Barbeau and accessioned, 07/1951.</p>
+        </acqinfo>
+        <relatedmaterial id="ref9">
+            <head>Related Archival Material</head>
+            <p>A recording of Charles Cooke reading through this list alphabetically is available in 
+                <extref ns2:actuate="onLoad" ns2:show="new" ns2:href="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Rec.10-ead.xml">Recording 10</extref>.</p>
+        </relatedmaterial>
+        <controlaccess>
+            <subject source="lcsh">Mohawk language</subject>
+            <subject source="lcsh">Names, Indian -- North America.</subject>
+            <subject source="lcsh">Names, Iroquois</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref5" level="item">
+                <did>
+                    <unittitle>Iroquois personal names spoken</unittitle>
+                    <unitid>Rec. 10</unitid>
+                    <langmaterial>
+                        <language langcode="iro"/>
+                    </langmaterial>
+                    <container id="cid97881" type="Reel" label="Microform">5</container>
+                    <physdesc>
+                        <extent>5.0 Reel(s)</extent>
+                    </physdesc>
+                    <unitdate normal="1900/1951" type="inclusive">1900-1951</unitdate>
+                    <physdesc id="ref7" label="General Physical Description note">5 audio tapes.</physdesc>
+                    <abstract id="ref6" label="Abstract">On the recordings, the names are spoken by Cooke, alphabetically, in Iroquois.</abstract>
+                    <origination label="creator">
+                        <persname rules="aacr" source="naf" role="Author (aut)">Cooke, Charles, 1870-1958</persname>
+                    </origination>
+                </did>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

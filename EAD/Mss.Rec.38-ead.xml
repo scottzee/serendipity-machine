@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Rec.38</num>
+                </titleproper>
+                <author>Finding aid prepared by Brian Carpenter</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+                <date>June 2011</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T21:16-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Legends, etc., collected among the Hare Indians, Fort Good Hope, N.W.T., Canada</unittitle>
+            <unitid>Mss.Rec.38</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="ath"/>
+            </langmaterial>
+            <physdesc>
+                <extent>19.0 Reel(s)</extent>
+            </physdesc>
+            <unitdate normal="1961/1962" type="inclusive">1961-1962</unitdate>
+            <abstract id="ref2" label="Abstract">Field recordings made at Fort Good Hope and Colville Lake, Northwest Territories, Canada, in the summers of 1961 and 1962. Includes vocabulary and phrase lists relating to hunting, animals, berry-picking, material culture, place names, health, and body parts; songs; autobiographical stories; animal stories; conversations with children.</abstract>
+            <physloc id="ref4" label="Paging">LH-B-32-2</physloc>
+            <physdesc id="ref5" label="General Physical Description">19 sound tape reels (14 hr.) : analog, 3 3/4 ips, half track, mono ; 5 in.</physdesc>
+            <origination label="creator">
+                <persname source="naf" role="Author (aut)">Hara, Hiroko, 1934-</persname>
+            </origination>
+        </did>
+        <relatedmaterial id="ref1">
+            <head>Related Archival Materials</head>
+            <p>Manuscripts accompanying tapes 1-6 are available in the microfilm collection, 
+                <extref ns2:actuate="onLoad" ns2:show="new" ns2:href="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Film.1115-ead.xml">Field notes of the Hare Indians, 1961</extref>.</p>
+            <p>Manuscripts accompanying 7-19 are available in the microfilm collection, 
+                <extref ns2:actuate="onLoad" ns2:show="new" ns2:href="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Film.1175-ead.xml">Materials collected among the Hare Indians, 1962-1963</extref>.</p>
+            <p>Related manuscript materials are available in the 
+                <extref ns2:actuate="onLoad" ns2:show="new" ns2:href="http://www.amphilsoc.org/mole/view?docId=ead/Mss.497.3.Am4-ead.xml">Phillips Fund Collection</extref>.</p>
+        </relatedmaterial>
+        <acqinfo id="ref3">
+            <head>Immediate Source of Acquisition</head>
+            <p>Tapes 1-6 presented by Hiroko Sue in 1961 (Acc. 1961 1887r), tapes 7-19 presented in 1964 (Acc. 1964 1170r). This material was recorded with the assistance of a Phillips Fund grant.</p>
+        </acqinfo>
+        <controlaccess>
+            <subject source="lcsh">Fishing</subject>
+            <subject source="ingest">Hunting</subject>
+            <subject source="ingest">Indians of North America--Northwest Territories--Languages</subject>
+            <subject source="lcsh">Kawchottine Indians</subject>
+            <subject source="lcsh">Kawchottine Indians--Folklore</subject>
+            <subject source="lcsh">Kawchottine Indians--Music</subject>
+            <subject source="lcsh">Kawchottine Indians--Social life and customs</subject>
+            <subject source="lcsh">Kawchottine language</subject>
+            <genreform source="lcsh">Oral histories</genreform>
+            <genreform source="ingest">Sound recordings</genreform>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

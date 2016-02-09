@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Rec.27-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Rec.27</num>
+                    <num>Mss.Rec.27</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Brian Carpenter</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+                <date>2010</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T21:15-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>New Familiar Abenakis and English Dialogues</unittitle>
+            <unitid>Mss.Rec.27</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="alg"/>
+            </langmaterial>
+            <container id="cid12986024" type="Reel" label="Audio">1-5</container>
+            <physdesc>
+                <extent>5.0 Tape(s)</extent>
+            </physdesc>
+            <unitdate>1957</unitdate>
+            <abstract id="ref3" label="Abstract">A reading of Joseph Laurent's 
+                <emph render="italic">New Familiar Abenakis and English Dialogues</emph> (St-Francis, Quebec, 1884). The author was a chief of the Abenakis Indians at the village of St. Francis, Quebec. The reader is the son of the author. Recorded in New Hampshire in 1957.</abstract>
+            <physdesc id="ref2" label="General Physical Description note">5 sound tape reels (7 hr., 51 min.) : analog, 7 1/2 ips, half track, mono ; 7 in.</physdesc>
+            <physloc id="ref57" label="Paging">LH-B-32-2</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Day, Gordon M.</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="dacs" source="local" role="Author in quotations or text extracts (aqt)">Laurent, Joseph</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest" role="Speaker (spk)">Laurent, Stephen</persname>
+            </origination>
+        </did>
+        <processinfo id="ref4">
+            <head>Processing Information note</head>
+            <p>A constant low-frequency hum was partially corrected upon transfer to DAT by a Rane ME 15 Graphic Equalizer at -2 db at 40 hz, -6 db at 63 hz, -12 db at 100 hz, -4 db at 160 hz, board EQ flat.</p>
+        </processinfo>
+        <acqinfo id="ref5">
+            <head>Immediate Source of Acquisition</head>
+            <p>Donated by Stephen Laurent. This material was recorded with the assistance of a Phillips Fund grant.</p>
+        </acqinfo>
+        <controlaccess>
+            <subject source="lcsh">Abenaki language--Glossaries, vocabularies, etc.</subject>
+            <genreform source="ingest">Sound recordings</genreform>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref6" level="series">
+                <did>
+                    <unittitle>Audio recordings</unittitle>
+                </did>
+                <c02 id="ref7" level="file">
+                    <did>
+                        <unittitle>From title page through plejes, a pair of breeches, p. 26</unittitle>
+                        <unitid>01-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1957</unitdate>
+                        <physdesc id="ref8" label="General Physical Description note">
+                            <extent>00:48:13</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Day, Gordon M.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Laurent, Joseph</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Laurent, Stephen</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref9">
+                        <head>Scope and Contents note</head>
+                        <p>A reading from Joseph Laurent's _New Familiar Abenakis and English Dialogues_, (St-Francis, Quebec, 1884). The author was a chief of the Abenakis Indians at the village of St. Francis, Quebec. The reader is the son of the author.</p>
+                    </scopecontent>
+                    <originalsloc id="ref11">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0898" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5066">
+                        <daodesc>
+                            <p>APSdigrec_0898</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Abenaki language--Glossaries, vocabularies, etc.</subject>
+                        <geogname source="ingest">New Hampshire</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref12" level="file">
+                    <did>
+                        <unittitle>From plejesal, plural of plejes, p. 26, thru wôbhagasak, carps, p. 39</unittitle>
+                        <unitid>01-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1957</unitdate>
+                        <physdesc id="ref13" label="General Physical Description note">
+                            <extent>00:48:15</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Day, Gordon M.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Laurent, Joseph</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Laurent, Stephen</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref14">
+                        <head>Scope and Contents note</head>
+                        <p>A reading from Joseph Laurent's _New Familiar Abenakis and English Dialogues_, (St-Francis, Quebec, 1884). The author was a chief of the Abenakis Indians at the village of St. Francis, Quebec. The reader is the son of the author.</p>
+                    </scopecontent>
+                    <originalsloc id="ref16">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0899" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5068">
+                        <daodesc>
+                            <p>APSdigrec_0899</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Abenaki language--Glossaries, vocabularies, etc.</subject>
+                        <geogname source="ingest">New Hampshire</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref17" level="file">
+                    <did>
+                        <unittitle>From kikômkwa, sucker, p. 39, thru Paslid, Basil, p. 55</unittitle>
+                        <unitid>02-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1957</unitdate>
+                        <physdesc id="ref18" label="General Physical Description note">
+                            <extent>00:48:33</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Day, Gordon M.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Laurent, Joseph</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Laurent, Stephen</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref19">
+                        <head>Scope and Contents note</head>
+                        <p>A reading from Joseph Laurent's _New Familiar Abenakis and English Dialogues_, (St-Francis, Quebec, 1884). The author was a chief of the Abenakis Indians at the village of St. Francis, Quebec. The reader is the son of the author.</p>
+                    </scopecontent>
+                    <originalsloc id="ref21">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0900" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5069">
+                        <daodesc>
+                            <p>APSdigrec_0900</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Abenaki language--Glossaries, vocabularies, etc.</subject>
+                        <geogname source="ingest">New Hampshire</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref22" level="file">
+                    <did>
+                        <unittitle>From Paslid, Basil, p. 55, thru nisinska taba pazekw kasta, 21 times, p. 80</unittitle>
+                        <unitid>02-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1957</unitdate>
+                        <physdesc id="ref23" label="General Physical Description note">
+                            <extent>00:48:33</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Day, Gordon M.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Laurent, Joseph</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Laurent, Stephen</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref24">
+                        <head>Scope and Contents note</head>
+                        <p>A reading from Joseph Laurent's _New Familiar Abenakis and English Dialogues_, (St-Francis, Quebec, 1884). The author was a chief of the Abenakis Indians at the village of St. Francis, Quebec. The reader is the son of the author.</p>
+                    </scopecontent>
+                    <originalsloc id="ref26">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0901" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5067">
+                        <daodesc>
+                            <p>APSdigrec_0901</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Abenaki language--Glossaries, vocabularies, etc.</subject>
+                        <geogname source="ingest">New Hampshire</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref27" level="file">
+                    <did>
+                        <unittitle>From nisinska taba nis kasta, 22 times, p. 80 thru N'kizônkholônana n'tebaikizosôganna, we (exclusive) have sold our watch, p. 104</unittitle>
+                        <unitid>03-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1957</unitdate>
+                        <physdesc id="ref28" label="General Physical Description note">
+                            <extent>00:48:17</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Day, Gordon M.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Laurent, Joseph</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Laurent, Stephen</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref29">
+                        <head>Scope and Contents note</head>
+                        <p>A reading from Joseph Laurent's _New Familiar Abenakis and English Dialogues_, (St-Francis, Quebec, 1884). The author was a chief of the Abenakis Indians at the village of St. Francis, Quebec. The reader is the son of the author.</p>
+                    </scopecontent>
+                    <originalsloc id="ref31">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0902" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5070">
+                        <daodesc>
+                            <p>APSdigrec_0902</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Abenaki language--Glossaries, vocabularies, etc.</subject>
+                        <geogname source="ingest">New Hampshire</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref32" level="file">
+                    <did>
+                        <unittitle>N'kizônkholônana n'tebaikizosôganna, we (exclusive) have sold our watch, p. 104, thru N'wôbigiji, I shall be white, p. 131</unittitle>
+                        <unitid>03-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1957</unitdate>
+                        <physdesc id="ref33" label="General Physical Description note">
+                            <extent>00:48:18</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Day, Gordon M.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Laurent, Joseph</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Laurent, Stephen</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref34">
+                        <head>Scope and Contents note</head>
+                        <p>A reading from Joseph Laurent's _New Familiar Abenakis and English Dialogues_, (St-Francis, Quebec, 1884). The author was a chief of the Abenakis Indians at the village of St. Francis, Quebec. The reader is the son of the author.</p>
+                    </scopecontent>
+                    <originalsloc id="ref36">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0903" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5074">
+                        <daodesc>
+                            <p>APSdigrec_0903</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Abenaki language--Glossaries, vocabularies, etc.</subject>
+                        <geogname source="ingest">New Hampshire</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref37" level="file">
+                    <did>
+                        <unittitle>N'wôbigiji kizi, I shall have been white, p. 131, thru Aowak wigwômek, they are in the house, p. 162</unittitle>
+                        <unitid>04-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1957</unitdate>
+                        <physdesc id="ref38" label="General Physical Description note">
+                            <extent>00:48:07</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Day, Gordon M.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Laurent, Joseph</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Laurent, Stephen</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref39">
+                        <head>Scope and Contents note</head>
+                        <p>A reading from Joseph Laurent's _New Familiar Abenakis and English Dialogues_, (St-Francis, Quebec, 1884). The author was a chief of the Abenakis Indians at the village of St. Francis, Quebec. The reader is the son of the author.</p>
+                    </scopecontent>
+                    <originalsloc id="ref41">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0904" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5075">
+                        <daodesc>
+                            <p>APSdigrec_0904</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Abenaki language--Glossaries, vocabularies, etc.</subject>
+                        <geogname source="ingest">New Hampshire</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref42" level="file">
+                    <did>
+                        <unittitle>Ôda n'-d-aiw, I am not, p. 162, thru kadopimuk, to be hungry, p. 184</unittitle>
+                        <unitid>04-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1957</unitdate>
+                        <physdesc id="ref43" label="General Physical Description note">
+                            <extent>00:48:16</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Day, Gordon M.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Laurent, Joseph</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Laurent, Stephen</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref44">
+                        <head>Scope and Contents note</head>
+                        <p>A reading from Joseph Laurent's _New Familiar Abenakis and English Dialogues_, (St-Francis, Quebec, 1884). The author was a chief of the Abenakis Indians at the village of St. Francis, Quebec. The reader is the son of the author.</p>
+                    </scopecontent>
+                    <originalsloc id="ref46">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0905" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5076">
+                        <daodesc>
+                            <p>APSdigrec_0905</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Abenaki language--Glossaries, vocabularies, etc.</subject>
+                        <geogname source="ingest">New Hampshire</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref47" level="file">
+                    <did>
+                        <unittitle>Kadopi, be thou hungry, p. 184, thru 'wdoloak, they have a canoe, p. 202</unittitle>
+                        <unitid>05-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1957</unitdate>
+                        <physdesc id="ref48" label="General Physical Description note">
+                            <extent>00:48:08</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Day, Gordon M.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Laurent, Joseph</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Laurent, Stephen</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref49">
+                        <head>Scope and Contents note</head>
+                        <p>A reading from Joseph Laurent's _New Familiar Abenakis and English Dialogues_, (St-Francis, Quebec, 1884). The author was a chief of the Abenakis Indians at the village of St. Francis, Quebec. The reader is the son of the author.</p>
+                    </scopecontent>
+                    <originalsloc id="ref51">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0906" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5073">
+                        <daodesc>
+                            <p>APSdigrec_0906</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Abenaki language--Glossaries, vocabularies, etc.</subject>
+                        <geogname source="ingest">New Hampshire</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref52" level="file">
+                    <did>
+                        <unittitle>Footnote, p. 202, thru the end</unittitle>
+                        <unitid>05-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1957</unitdate>
+                        <physdesc id="ref53" label="General Physical Description note">
+                            <extent>00:36:25</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Day, Gordon M.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Laurent, Joseph</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Laurent, Stephen</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref54">
+                        <head>Scope and Contents note</head>
+                        <p>A reading from Joseph Laurent's _New Familiar Abenakis and English Dialogues_, (St-Francis, Quebec, 1884). The author was a chief of the Abenakis Indians at the village of St. Francis, Quebec. The reader is the son of the author. "Note that the meanings of the names of the months on the last page of text was recorded together with the names on pp. 18-19."</p>
+                    </scopecontent>
+                    <originalsloc id="ref56">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0907" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5072">
+                        <daodesc>
+                            <p>APSdigrec_0907</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Abenaki language--Glossaries, vocabularies, etc.</subject>
+                        <geogname source="ingest">New Hampshire</geogname>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

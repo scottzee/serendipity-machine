@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.917.3.L58x-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.917.3.L58x</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:24-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Documents concerning the William Clark Papers, 1953-1956</unittitle>
+            <unitid>Mss.917.3.L58x</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1034" type="Box" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>0.25 Linear feet</extent>
+                <extent>Ca. 124 p.</extent>
+            </physdesc>
+            <unitdate normal="1953/1956" type="inclusive">1953-1956</unitdate>
+            <abstract id="ref6" label="Abstract">This collection includes correspondence of William E. Lingelbach, briefs, news accounts, etc., concerning the Clark documents that had belonged to General John Hammond and which were turned over to the Minnesota Historical Society in 1953, resulting in litigation concerning ownership.</abstract>
+            <physdesc id="ref11" label="General Physical Description note">Ca. 124 p.</physdesc>
+            <physloc id="ref12" label="Paging">LH-MV-E-12</physloc>
+            <origination label="creator">
+                <persname source="naf" role="Author (aut)">Lingelbach , William E.,  (William Ezra), 1871-1962</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref10">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Received and accessioned, 1977.</p>
+        </acqinfo>
+        <bioghist id="ref8">
+            <head>Biographical/Historical note</head>
+            <p>William E. Lingelbach was the Librarian of the American Philosophical Society when the issue arose of the ownership of the William Clark papers discovered in an attic in Minnesota.</p>
+        </bioghist>
+        <controlaccess>
+            <corpname rules="aacr" source="naf">American Philosophical Society.</corpname>
+            <persname rules="aacr" source="naf">Clark, William, 1770-1838</persname>
+            <persname rules="aacr" source="naf">Hammond, John Henry, d. 1890</persname>
+            <persname rules="aacr" source="naf">Lewis, Meriwether, 1774-1809</persname>
+            <corpname source="ingest">Minnesota Historical Society.</corpname>
+            <subject source="lcsh">Archives -- Law and legislation -- United States.</subject>
+            <genreform source="lcsh">Briefs.</genreform>
+            <genreform source="lcsh">Clippings.</genreform>
+            <subject source="lcsh">Manuscripts.</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

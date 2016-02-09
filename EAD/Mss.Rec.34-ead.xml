@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Rec.34-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Rec.34</num>
+                    <num>Mss.Rec.34</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Brian Carpenter</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+                <date>11-2010</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T21:16-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Malecite words pertaining to natural history</unittitle>
+            <unitid>Mss.Rec.34</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="alg"/>
+            </langmaterial>
+            <container id="cid13063001" type="Reel" label="Audio">1</container>
+            <physdesc>
+                <extent>1.0 Tape(s)</extent>
+            </physdesc>
+            <unitdate>1959</unitdate>
+            <abstract id="ref3" label="Abstract">Linguistic field recordings made at Woodstock Reserve, New Brunswick, Canada, in June 1959. A reading of Malecite words and their English equivalents for multiple varieties and groupings of animals and plants, fish, dwellings, canoes and other water craft, hunting &amp; fishing, and numbers &amp; measures. The final 6 minutes of the recording consist of a reading from from Joseph Laurent's "New Familiar Abenakis and English Dialogues" (St-Francis, Quebec, 1884).</abstract>
+            <physdesc id="ref2" label="General Physical Description note">1 sound tape reel (1 hr., 11 min.) : analog, 7 1/2 ips, half track, mono ; 7 in.</physdesc>
+            <physloc id="ref22" label="Paging">LH-B-32-2</physloc>
+            <origination label="creator">
+                <persname source="ingest">Paul, Peter Lewis, 1902-1989</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Smith, Nicholas N.</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref4">
+            <head>Immediate Source of Acquisition</head>
+            <p>Presented by Nicholas Smith in 1959. This material was recorded with the assistance of a Phillips Fund grant.</p>
+        </acqinfo>
+        <relatedmaterial id="ref5">
+            <head>Related Archival Materials</head>
+            <p>A complete text of the recording and the collector's notes are available in the 
+                <extref ns2:actuate="onLoad" ns2:show="new" ns2:href="http://www.amphilsoc.org/mole/view?docId=ead/Mss.497.3.Am4-ead.xml">Phillips Fund Collection</extref> (Mss.497.3.Am4).</p>
+        </relatedmaterial>
+        <controlaccess>
+            <subject source="lcsh">Malecite Indians</subject>
+            <subject source="lcsh">Malecite Indians--Ethnobotany</subject>
+            <subject source="lcsh">Malecite Indians--Ethnozoology</subject>
+            <subject source="lcsh">Passamaquoddy language</subject>
+            <genreform source="ingest">Sound recordings</genreform>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref6" level="series">
+                <did>
+                    <unittitle>Audio recordings</unittitle>
+                </did>
+                <c02 id="ref7" level="file">
+                    <did>
+                        <unittitle>Malecite Words Pertaining to Natural History</unittitle>
+                        <unitid>01-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1959-06</unitdate>
+                        <physdesc id="ref8" label="General Physical Description note">
+                            <extent>00:46:42</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Paul, Peter Lewis, 1902-1989</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Smith, Nicholas N.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref9">
+                        <head>Scope and Contents note</head>
+                        <p>Recorded at Woodstock Reserve, New Brunswick, Canada.</p>
+                    </scopecontent>
+                    <originalsloc id="ref11">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0908" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3906">
+                        <daodesc>
+                            <p>APSdigrec_0908</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Malecite Indians</subject>
+                        <subject source="lcsh">Malecite Indians--Ethnobotany</subject>
+                        <subject source="lcsh">Malecite Indians--Ethnozoology</subject>
+                        <geogname source="ingest">New Brunswick</geogname>
+                        <subject source="lcsh">Passamaquoddy language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref12" level="file">
+                    <did>
+                        <unittitle>Malecite Words Pertaining to Natural History</unittitle>
+                        <unitid>01-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1959-06</unitdate>
+                        <physdesc id="ref13" label="General Physical Description note">
+                            <extent>00:18:08</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Paul, Peter Lewis, 1902-1989</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Smith, Nicholas N.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref14">
+                        <head>Scope and Contents note</head>
+                        <p>Recorded at Woodstock Reserve, New Brunswick, Canada.</p>
+                    </scopecontent>
+                    <originalsloc id="ref16">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0909" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3907">
+                        <daodesc>
+                            <p>APSdigrec_0909</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Malecite Indians</subject>
+                        <geogname source="ingest">New Brunswick</geogname>
+                        <subject source="lcsh">Passamaquoddy language</subject>
+                        <subject source="ingest">Passamaquoddy language--Numerals</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref17" level="file">
+                    <did>
+                        <unittitle>Reading from Joseph Laurent's "New Familiar Abenakis and English Dialogues"</unittitle>
+                        <unitid>01-03</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1959-06</unitdate>
+                        <physdesc id="ref18" label="General Physical Description note">
+                            <extent>00:06:17</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Paul, Peter Lewis, 1902-1989</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Smith, Nicholas N.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref19">
+                        <head>Scope and Contents note</head>
+                        <p>A reading of an excerpt from Joseph Laurent's _New Familiar Abenakis and English Dialogues_, (St-Francis, Quebec, 1884). Recorded at Woodstock Reserve, New Brunswick, Canada.</p>
+                    </scopecontent>
+                    <originalsloc id="ref21">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0910" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3908">
+                        <daodesc>
+                            <p>APSdigrec_0910</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Abenaki language--Glossaries, vocabularies, etc.</subject>
+                        <geogname source="ingest">New Brunswick</geogname>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.B61.5-ead.xml">boas.xml</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Field notebooks and anthropometric data
+                    <date type="span">ca. 1883-1912</date>
+                    <num>Mss.B.B61.5</num>
+                </titleproper>
+                <author>Finding aid prepared by rsc</author>
+                <sponsor>Encoding was made possible by a grant from the Gladys Krieble Delmas Foundation to the Philadelphia Consortium of Special Collections Libraries.</sponsor>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+                <date>3/2002</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:53-0400</date>
+            </creation>
+            <langusage>ENG</langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Field notebooks and anthropometric data</unittitle>
+            <unitid>Mss.B.B61.5</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>1.5 Linear feet</extent>
+            </physdesc>
+            <unitdate normal="1883/1912" type="inclusive">ca. 1883-1912</unitdate>
+            <abstract id="ref2" label="Abstract">Anthropometric data from various Native American groups, language materials from the Northwest Coast and Mexico, typescripts of papers, a diary of a field trip to Baffin Island (N.W.T.), Canada, and genealogical data</abstract>
+            <physdesc id="ref1" label="General Physical Description note">1.5 lin. feet</physdesc>
+            <physloc id="ref90" label="Paging">LH-B-14-3</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Boas,  Franz, 1858-1942 </persname>
+            </origination>
+        </did>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>Born in Minden, Germany, on July 8, 1858, the anthropologist Franz Boas was the son of the merchant Meier Boas and his wife, Sophie Meyer. Raised in the radical and tradition of German Judaism, Franz's youth was steeped in politically liberal beliefs and a largely secular outlook that he carried with him from university through his emigration to the United States.</p>
+            <p>At the universities of Heidelberg and Bonn, Boas studied physics and geography before completing a doctorate in physical geography at Kiel in 1881. Intending on testing then-current theories of environmental determinism, he signed on to an anthropological expedition to Baffin Island in 1883-1884, expecting that he would document the close adaptative fit of Central Eskimo cultures to their extreme climate. His experiences in the arctic, however, led him to the contrary conclusion: that social traditions, not environmental, exerted a dominant influence over human societies, and from this point onward, he was led to pursue the cultural over than physical dimensions of humanity.</p>
+            <p>Although he returned to Berlin after the expedition, Boas emigrated to the United States in 1885 to assume an editorial position with the journal 
+                <emph render="italic">Science</emph>, hoping to use it as a stepping-stone to an academic appointment. In 1886, he embarked upon a second major field excursion into what would become his most famous ethnographic project, working among the Kwakiutl (Kwakwaka'wakw) Indians of the Northwest Coast, after which he secured his first academic position in 1889, at Clark University in Worcester, Mass. After three years at Clark and a failed appointment at the Field Museum in Chicago in 1892 (during which he played a part in organizing the anthropological exhibits for the Columbian World's Fair), Boas moved to New York City.</p>
+            <p>The restless activity of Boas's early years slowed in New York. Hired by the American Museum of Natural History (1895-1905), which became the recipient of the amazingly rich anthropological collections he accumulated on the Northwest Coast, Boas began to teach classes at Columbia University in 1896, where three years later he was appointed Professor of Anthropology. For the next 37 years, Boas ruled the anthropological roost at Columbia, accruing unprecedented power in his discipline, wielding grants, recommendations, and appointments with remarkable dexterity, and collecting about him a remarkable group of younger scholars as students and colleagues.</p>
+            <p>Distancing himself from some of the main currents of contemporary anthropological thought in the United States, and particularly from the evolutionist assumptions that riddled the discipline, Boas championed an anthropology that viewed human cultures as shaped more by historical "tradition" than biological propensity. Claiming to resist any overarching, synthetic theories of human relations, and particularly evolutionary theories of sociocultural development, Boas laid the theoretical groundwork for what became modern cultural relativism. In the process, he helped to clarify the demarcation between the concepts of culture and race and its expression in the divergence of the four fields in anthropology -- linguistics, ethnography, physical anthropology, and archaeology.</p>
+            <p>Boas's relatively few forays into physical anthropology included a pioneering anthropometric study in 1910-1911, demonstrating that the alleged mental and physical inferiority of immigrants disappeared statistically by the second generation. Opposed to immigration quotas and disdainful of the claims to science used to justify them, Boas was a consistent, strident opponent of racial determinism in intellect or behavior. A committed, politically active Socialist, he was frequently an outspoken critic of American policy. During the First World War, he spoke out against the treatment of German Americans and "enemy aliens" -- to the point of putting himself at risk -- and the rise of the Nazi party in Germany proved an even greater crusade. Despite his age, Boas took an active role in the anti-fascist struggle in the United States and was involved with numerous committees to assist refugee scholars. He was equally ardent in his efforts to criticize racial and ethnic bigotry in the United States.</p>
+            <p>As a mentor, Boas had a reputation of being directive, at times overbearing, and at the same time of doing too little to prepare his students for the rigors of fieldwork. The extraordinary number of students coming out of Columbia under his care, however, has arguably done as much to extend the Boasian approach than Boas's own writing. Margaret Mead, Ruth Benedict, Elsie Clews Parsons, Alfred Kroeber, Frank Speck, Edward Sapir, Zora Neale Hurston, Ella Deloria, Melville Herskovits, Leslie Spier, Paul Radin, and Ashley Montagu are all students of Boas. Many continued in the same intellectual stream, some diverged, yet all bore traces of Boas's influence. He left a mark as well on the institutions of the discipline, as one of the founders of the American Anthropological Association and of the 
+                <title render="italic">International Journal of American Linguistics</title>.</p>
+        </bioghist>
+        <scopecontent id="ref4">
+            <head>Scope and Contents note</head>
+            <p>Anthropometric data from various Native American groups, language materials from the Northwest Coast and Mexico, typescripts of papers, a diary of a field trip to Baffin Island (N.W.T.), Canada, and genealogical data.</p>
+            <p>The Series also includes a small number of essays by Boas, including his "Darwin in relation to anthropology."</p>
+        </scopecontent>
+        <acqinfo id="ref6">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Gift of Northwestern University Library, 1979 (accession number 1979-1592ms).</p>
+        </acqinfo>
+        <prefercite id="ref7">
+            <head>Preferred Citation note</head>
+            <p>Cite as: Franz Boas field notebooks and anthropometric data, American Philosophical Society.</p>
+        </prefercite>
+        <relatedmaterial id="ref8">
+            <head>Related Archival Materials note</head>
+            <list type="deflist">
+                <head>Other Franz Boas Collections</head>
+                <defitem>
+                    <label>Franz Boas Papers, 1862-1942 (Mss B B61)</label>
+                    <item>
+                        <extref ns2:href="view?docId=ead/Mss.B.B61-ead.xml">
+                            <emph render="bold">View Collection</emph></extref></item>
+                </defitem>
+                <defitem>
+                    <label>Franz Boas Professional Papers, ca. 1860-1942 (Mss B B61p)</label>
+                    <item>
+                        <extref ns2:href="view?docId=ead/Mss.B.B61p-ead.xml">
+                            <emph render="bold">View Collection</emph></extref></item>
+                </defitem>
+                <defitem>
+                    <label>Boas Family Papers, 1862-1942 (Mss B B61f)</label>
+                    <item>
+                        <extref ns2:href="view?docId=ead/Mss.B.B61f-ead.xml">
+                            <emph render="bold">View Collection</emph></extref></item>
+                </defitem>
+                <defitem>
+                    <label>Boas-Rukeyser Collection, 1869-1940 (Mss B B61ru)</label>
+                    <item>
+                        <extref ns2:href="view?docId=ead/Mss.B.B61ru-ead.xml">
+                            <emph render="bold">View Collection</emph></extref></item>
+                </defitem>
+                <defitem>
+                    <label>United States Federal Bureau of Investigation Files, 1939-1950 (Mss B B61f.1)</label>
+                    <item>
+                        <extref ns2:href="view?docId=ead/Mss.B.B61f.1-ead.xml">
+                            <emph render="bold">View Collection</emph></extref></item>
+                </defitem>
+            </list>
+            <p>The American Council of Learned Societies Committee on Native American Languages, Franz Boas Collection of Materials for American Linguistics ( 
+                <extref ns2:href="view?docId=ead/Mss.497.3.B63c-ead.xml">
+                    <emph render="bold">Mss 497.3.B63c</emph></extref>) is a large collection of primary materials on Native American languages assembled, in part, under Boas's supervision, and including a large quantity of material written by Boas himself.</p>
+            <p>Boas appears as a correspondent in numerous APS collections, and in addition to its rich collections for the history of anthropology, the library houses the papers of several of Boas's former students and proteges, including Frank Speck ( 
+                <extref ns2:href="view?docId=ead/Mss.Ms.Coll.126-ead.xml">
+                    <emph render="bold">Mss. Ms. Coll. 126</emph></extref>), Elsie Clews Parsons ( 
+                <extref ns2:href="view?docId=ead/Mss.Ms.Coll.29-ead.xml">
+                    <emph render="bold">Mss. Ms. Coll. 29</emph></extref>), John Alden Mason ( 
+                <extref ns2:href="view?docId=ead/Mss.B.M384-ead.xml">
+                    <emph render="bold">Mss. B M384</emph></extref>), Paul Radin ( 
+                <extref ns2:href="view?docId=ead/Mss.497.3.R114-ead.xml">
+                    <emph render="bold">Mss. 497.3 R114</emph></extref>), and Ashley Montagu ( 
+                <extref ns2:href="view?docId=ead/Mss.Ms.Coll.109-ead.xml">
+                    <emph render="bold">Mss. Ms. Coll. 109</emph></extref>).</p>
+            <p>The APS also houses a microfilm (372.3, reel 1) of original materials in the Office of Anthropology Archives, Smithsonian Institution, Washington, D.C., relating to Boas's trips to Baffin Island (N.W.T.) and British Columbia, during which he studied and collected cultural materials, 1885-1909.</p>
+            <p>The papers of Boas's son Ernst Boas ( 
+                <extref ns2:href="view?docId=ead/Mss.Ms.Coll.10-ead.xml">
+                    <emph render="bold">Mss. Ms. Coll. 10</emph></extref>) are housed at the APS. A physician, Ernst Boas shared his father's liberal political outlook and activist social views.</p>
+        </relatedmaterial>
+        <bibliography id="ref11">
+            <head>Bibliography</head>
+            <bibref>Rohner, Ronald P., ed., 
+                <emph render="italic">The Ethnography of Franz Boas: Letters and Diaries of Franz Boas, Written on the Northwest Coast from 1886 to 1931 </emph>(Chicago: Univ. of Chicago, 1969). 
+                <emph render="bold">Call no.: </emph>B B61e.r</bibref>
+            <bibref>Stocking, George, ed., 
+                <emph render="italic">The Shaping of American Anthropology, 1883-1911: A Franz Boas Reader </emph>(N.Y.: Basic Books, 1974). 
+                <emph render="bold">Call no.: </emph>572.081 B63s</bibref>
+            <bibref>Cole, Douglas, 
+                <emph render="italic">Franz Boas: The Early Years, 1859-1906 </emph>(Seattle: Univ. of Washington, 1999).</bibref>
+            <bibref>Boas, Franz, 
+                <emph render="italic">The Mind of Primitive Man </emph>(N.Y.: MacMillan, 1911). 
+                <emph render="bold">Call no.: </emph>572 B63m</bibref>
+            <bibref>Boas, Franz, 
+                <emph render="italic">Ethnology of the Kwakiutl </emph>(Washington, D.C.:Government Printing Office, 1921). 
+                <emph render="bold">Call no.: </emph>572.97 B63e</bibref>
+            <bibref>Boas, Franz, 
+                <emph render="italic">Primitive Art </emph>(Cambridge, Mass.: Harvard Univ. Press, 1927). 
+                <emph render="bold">Call no.: </emph>571.7 B63p</bibref>
+            <bibref>Boas, Franz, ed., 
+                <emph render="italic">General Anthropology </emph>(Boston: D.C. Heath, 1938). 
+                <emph render="bold">Call no.: </emph>572 B63g.r</bibref>
+            <bibref>Boas, Franz, 
+                <emph render="italic">Race, Language and Culture </emph>(N.Y.: MacMillan, 1940). 
+                <emph render="bold">Call no.: </emph>572.081 B63r</bibref>
+        </bibliography>
+        <controlaccess>
+            <persname rules="aacr" source="naf">Darwin, Charles, 1809-1882</persname>
+            <subject source="ingest">Anthropology--Research--United States</subject>
+            <subject source="lcsh">Anthropometry -- Research.</subject>
+            <geogname source="ingest">Baffin Island (N.W.T.)</geogname>
+            <genreform source="lcsh">Diaries.</genreform>
+            <subject source="lcsh">Indians of Mexico--Languages</subject>
+            <subject source="ingest">Indians of North America--Anthropometry</subject>
+            <subject source="ingest">Indians of North America--Northwest Territories--Languages</subject>
+            <genreform source="ingest">Notebooks</genreform>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref12" level="series">
+                <did>
+                    <unittitle>Field notebooks and anthropometric data</unittitle>
+                    <unitdate>ca. 1883-1912</unitdate>
+                    <physdesc id="ref13" label="General Physical Description note">1.5 linear feet</physdesc>
+                    <origination label="creator">
+                        <persname rules="aacr" source="naf">Boas,  Franz, 1858-1942 </persname>
+                    </origination>
+                </did>
+                <c02 id="ref14" level="file">
+                    <did>
+                        <unittitle>Anthropometric datasheets: Recorded at Kamloops School...</unittitle>
+                        <container id="cid97761" type="Box" label="Mixed materials">1</container>
+                        <unitdate>Summer 1897</unitdate>
+                    </did>
+                    <scopecontent id="ref15">
+                        <head>Scope and Contents note</head>
+                        <p>Recorded at Kamloops School and other locations, British Columbia and Washington. Data for Lilloet, Bella Bella, Salish, Thompson.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref16" level="file">
+                    <did>
+                        <unittitle>Anthropometric datasheets: Recorded at Winnebago Reservation...</unittitle>
+                        <container id="cid97760" type="Box" label="Mixed materials">1</container>
+                        <unitdate>Summer 1892</unitdate>
+                    </did>
+                    <scopecontent id="ref17">
+                        <head>Scope and Contents note</head>
+                        <p>Recorded at Winnebago Reservation, Minn. Data for Winnebago.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref18" level="file">
+                    <did>
+                        <unittitle>Anthropometric datasheets: Recorded at Tahlequah, Oklahoma, and other locations...</unittitle>
+                        <container id="cid97759" type="Box" label="Mixed materials">1</container>
+                        <unitdate>Summer 1892</unitdate>
+                    </did>
+                    <scopecontent id="ref19">
+                        <head>Scope and Contents note</head>
+                        <p>Recorded at Tahlequah, Oklahoma, and other locations. Data for Cherokee.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref20" level="file">
+                    <did>
+                        <unittitle>Anthropometric datasheets: Recorded at Lincoln College, Philadelphia...</unittitle>
+                        <container id="cid97758" type="Box" label="Mixed materials">1</container>
+                        <unitdate>Summer 1892</unitdate>
+                    </did>
+                    <scopecontent id="ref21">
+                        <head>Scope and Contents note</head>
+                        <p>Recorded at Lincoln College, Philadelphia. Data for Oglalla, Cheyenne, Omaha, etc.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref22" level="file">
+                    <did>
+                        <unittitle>Anthropometric datasheets: Data for Santee, Yankton, etc.</unittitle>
+                        <container id="cid97757" type="Box" label="Mixed materials">1</container>
+                        <unitdate>Summer 1892</unitdate>
+                    </did>
+                    <scopecontent id="ref23">
+                        <head>Scope and Contents note</head>
+                        <p>Data for Santee, Yankton, etc.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref24" level="file">
+                    <did>
+                        <unittitle>Anthropometric datasheets: Recorded at various locations in Ontario...</unittitle>
+                        <container id="cid97756" type="Box" label="Mixed materials">1</container>
+                        <unitdate>Summer 1892</unitdate>
+                    </did>
+                    <scopecontent id="ref25">
+                        <head>Scope and Contents note</head>
+                        <p>Recorded at various locations in Ontario. Data for Mississagua, Chippewa, Oneida, Munsee, Ottawa, etc.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref26" level="file">
+                    <did>
+                        <unittitle>Anthropometric datasheets: Recorded at Crow Agency, N.D....</unittitle>
+                        <container id="cid97755" type="Box" label="Mixed materials">1</container>
+                        <unitdate>Summer 1892</unitdate>
+                    </did>
+                    <scopecontent id="ref27">
+                        <head>Scope and Contents note</head>
+                        <p>Recorded at Crow Agency, N.D. Data for Crow.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref28" level="file">
+                    <did>
+                        <unittitle>Anthropometric datasheets: Recorded at Cheyenne River Agency, S.D....</unittitle>
+                        <container id="cid97754" type="Box" label="Mixed materials">2</container>
+                        <unitdate>Summer 1891</unitdate>
+                    </did>
+                    <scopecontent id="ref29">
+                        <head>Scope and Contents note</head>
+                        <p>Recorded at Cheyenne River Agency, S.D. Data for Dakota, etc.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref30" level="file">
+                    <did>
+                        <unittitle>Anthropometric datasheets: Recorded at White Earth Agency...</unittitle>
+                        <container id="cid97753" type="Box" label="Mixed materials">2</container>
+                        <unitdate>Summer 1892</unitdate>
+                    </did>
+                    <scopecontent id="ref31">
+                        <head>Scope and Contents note</head>
+                        <p>Recorded at White Earth Agency, Leech lake, and Pine Point, Minn. Data for Chippewa, etc.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref32" level="file">
+                    <did>
+                        <unittitle>Anthropometric datasheets: Recorded at Anadarko, Fort Sill, and Grantham Springs...</unittitle>
+                        <container id="cid97752" type="Box" label="Mixed materials">2</container>
+                        <unitdate>ca.1892</unitdate>
+                    </did>
+                    <scopecontent id="ref33">
+                        <head>Scope and Contents note</head>
+                        <p>Recorded at Anadarko, Fort Sill, and Grantham Springs, Indian Territory (Oklahoma). Data for Kiowa, Comanche, Apache, etc.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref34" level="file">
+                    <did>
+                        <unittitle>Anthropometric datasheets: Recorded at Omaha Government School...</unittitle>
+                        <container id="cid97751" type="Box" label="Mixed materials">2</container>
+                        <unitdate normal="1891/1892" type="inclusive">ca. 1891-1892</unitdate>
+                    </did>
+                    <scopecontent id="ref35">
+                        <head>Scope and Contents note</head>
+                        <p>Recorded at Omaha Government School, Nebraska. Data for Omaha.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref36" level="file">
+                    <did>
+                        <unittitle>Anthropometric datasheets: Recorded at Stonewall and Tishimingo...</unittitle>
+                        <container id="cid97750" type="Box" label="Mixed materials">2</container>
+                        <unitdate>Summer 1891</unitdate>
+                    </did>
+                    <scopecontent id="ref37">
+                        <head>Scope and Contents note</head>
+                        <p>Recorded at Stonewall and Tishimingo, Indian Territory (Oklahoma). Data for Chickasaw.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref38" level="file">
+                    <did>
+                        <unittitle>Anthropometric datasheets: Recorded at various locations in Saskatchewan and Manitoba...</unittitle>
+                        <container id="cid97749" type="Box" label="Mixed materials">2</container>
+                        <unitdate>Summer 1891</unitdate>
+                    </did>
+                    <scopecontent id="ref39">
+                        <head>Scope and Contents note</head>
+                        <p>Recorded at various locations in Saskatchewan and Manitoba. Data for Ojibwa, Cree, Saulteux, etc.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref40" level="file">
+                    <did>
+                        <unittitle>Anthropometric datasheets: Recorded at Kamloops, Lytton, and other locations...</unittitle>
+                        <container id="cid97748" type="Box" label="Mixed materials">2</container>
+                        <unitdate>Summer 1892</unitdate>
+                    </did>
+                    <scopecontent id="ref41">
+                        <head>Scope and Contents note</head>
+                        <p>Recorded at Kamloops, Lytton, and other locations in British Columbia, Spokane, Washington. Data for Thompson, etc.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref42" level="file">
+                    <did>
+                        <unittitle>Baffinland diary</unittitle>
+                        <container id="cid97747" type="Box" label="Mixed materials">3</container>
+                        <unitdate>1883 July 16-1884 January</unitdate>
+                        <physdesc id="ref43" label="General Physical Description note">Black cloth binding</physdesc>
+                    </did>
+                    <scopecontent id="ref88">
+                        <head>Native American Images note</head>
+                        <p>Sketches</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref44" level="file">
+                    <did>
+                        <unittitle>Baffinland notebook</unittitle>
+                        <container id="cid97746" type="Box" label="Mixed materials">3</container>
+                        <unitdate>1883-1884</unitdate>
+                        <physdesc id="ref45" label="General Physical Description note">Black cloth binding</physdesc>
+                    </did>
+                    <scopecontent id="ref89">
+                        <head>Native American Images note</head>
+                        <p>Sketches</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref46" level="file">
+                    <did>
+                        <unittitle>Field notes 1886 #1</unittitle>
+                        <container id="cid97745" type="Box" label="Mixed materials">3</container>
+                        <unitdate>1886 September 18-October 3</unitdate>
+                        <physdesc id="ref47" label="General Physical Description note">Brown lea.</physdesc>
+                    </did>
+                    <scopecontent id="ref48">
+                        <head>Scope and Contents note</head>
+                        <p>Includes vocabularies, texts, shorthand notes for Tsimshian, Bella Coola, Tlingit, Bella Bella Native American Images note: Sketches.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref49" level="file">
+                    <did>
+                        <unittitle>Field notes 1886 #2</unittitle>
+                        <container id="cid97744" type="Box" label="Mixed materials">3</container>
+                        <unitdate>1886 November</unitdate>
+                        <physdesc id="ref50" label="General Physical Description note">Disbound.</physdesc>
+                    </did>
+                    <scopecontent id="ref51">
+                        <head>Scope and Contents note</head>
+                        <p>Includes vocabularies, texts, shorthand notes for Comox, Lequiltoq, Sisia'atl (Sechelt).</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref52" level="file">
+                    <did>
+                        <unittitle>Field notes 1886 #3</unittitle>
+                        <container id="cid97743" type="Box" label="Mixed materials">3</container>
+                        <unitdate>1886 October 26-November</unitdate>
+                        <physdesc id="ref53" label="General Physical Description note">Disbound</physdesc>
+                    </did>
+                    <scopecontent id="ref54">
+                        <head>Scope and Contents note</head>
+                        <p>Includes vocabularies, texts, shorthand notes for Bella Coola, Tlingit, Cowichan, Nitinat, Comox, Pentlatch, Lequiltoq, Sisia'atl (Sechelt).</p>
+                        <p>native American Images note; Sketches</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref55" level="file">
+                    <did>
+                        <unittitle>Field notes 1886 #4</unittitle>
+                        <container id="cid97742" type="Box" label="Mixed materials">3</container>
+                        <unitdate>1886 November-December 16</unitdate>
+                        <physdesc id="ref56" label="General Physical Description note">Black paper</physdesc>
+                    </did>
+                    <scopecontent id="ref57">
+                        <head>Scope and Contents note</head>
+                        <p>Includes vocabularies, texts, shorthand notes for Pentlatch, Comox, Eeqswem, Nanaimo, Squamish.</p>
+                        <p>Native American Images note: Sketches</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref58" level="file">
+                    <did>
+                        <unittitle>Field notes 1888 #1</unittitle>
+                        <container id="cid97741" type="Box" label="Mixed materials">3</container>
+                        <unitdate>1888 May 31-June</unitdate>
+                        <physdesc id="ref59" label="General Physical Description note">Black cloth binding</physdesc>
+                    </did>
+                    <scopecontent id="ref60">
+                        <head>Scope and Contents note</head>
+                        <p>Includes vocabularies, texts, shorthand notes for Squamish, Tsimshian, Nisgah, Haida, Coastal Salishan anthropometry, Tahltan, Kwakwala, Tlingit, Heiltsuk.</p>
+                        <p>Native American Images note: Sketches</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref61" level="file">
+                    <did>
+                        <unittitle>Field notes 1888 #2</unittitle>
+                        <container id="cid97740" type="Box" label="Mixed materials">3</container>
+                        <unitdate>1888 June-July 24</unitdate>
+                        <physdesc id="ref62" label="General Physical Description note">Black cloth binding</physdesc>
+                    </did>
+                    <scopecontent id="ref63">
+                        <head>Scope and Contents note</head>
+                        <p>Includes vocabularies, texts, shorthand notes for Heiltsuk, Tlingit, Haida, Cowichan, "Aht," Nootka, Ntlakapamuk, Kootena.</p>
+                        <p>Native American Images note: Sketches.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref64" level="file">
+                    <did>
+                        <unittitle>Field notes 1889 #1</unittitle>
+                        <container id="cid97739" type="Box" label="Mixed materials">3</container>
+                        <unitdate>1889 July 24</unitdate>
+                        <physdesc id="ref65" label="General Physical Description note">Black cloth binding, 351p.</physdesc>
+                    </did>
+                    <scopecontent id="ref66">
+                        <head>Scope and Contents note</head>
+                        <p>Part of BAAS survey, including linguistic data on Songish, Alberni, Bella Coola, and Bella Bella.</p>
+                        <p>Native American Images note: Sketches</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref67" level="file">
+                    <did>
+                        <unittitle>Field notes 1889 #2</unittitle>
+                        <container id="cid97738" type="Box" label="Mixed materials">3</container>
+                        <unitdate>1889(?)</unitdate>
+                        <physdesc id="ref68" label="General Physical Description note">Black cloth binding, 373p.</physdesc>
+                    </did>
+                    <scopecontent id="ref69">
+                        <head>Scope and Contents note</head>
+                        <p>Part of BAAS survey, including linguistic data on Bella Coola, River Inlet, Kwakiutl, Nootka.</p>
+                        <p>Native American Images note: Sketches</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref70" level="file">
+                    <did>
+                        <unittitle>Field notes</unittitle>
+                        <container id="cid97737" type="Box" label="Mixed materials">3</container>
+                        <unitdate>1909-1912?</unitdate>
+                        <physdesc id="ref71" label="General Physical Description note">Red paper binding</physdesc>
+                    </did>
+                    <scopecontent id="ref72">
+                        <head>Scope and Contents note</head>
+                        <p>Linguistic data and texts for Chatino and (?) Nahuatl.</p>
+                        <p>Native American Images note: Sketches</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref73" level="file">
+                    <did>
+                        <unittitle>Inuit word lists and proper names</unittitle>
+                        <container id="cid97736" type="Box" label="Mixed materials">3</container>
+                        <unitdate>ca.1882-1883</unitdate>
+                        <physdesc id="ref74" label="General Physical Description note">1 folder</physdesc>
+                    </did>
+                </c02>
+                <c02 id="ref75" level="file">
+                    <did>
+                        <unittitle>TMs. The Relation of Darwin to Anthropology</unittitle>
+                        <unitdate>n.d.</unitdate>
+                        <physdesc id="ref76" label="General Physical Description note">1 folder</physdesc>
+                        <physloc id="ref91" label="Location note">LH-MV-E-1-1</physloc>
+                    </did>
+                </c02>
+                <c02 id="ref77" level="file">
+                    <did>
+                        <unittitle>Spanish Elements in Modern Nahuatl</unittitle>
+                        <container id="cid97734" type="Box" label="Mixed materials">3</container>
+                        <unitdate>ca.1882-1883</unitdate>
+                        <physdesc id="ref78" label="General Physical Description note">1 folder</physdesc>
+                    </did>
+                    <scopecontent id="ref79">
+                        <head>Scope and Contents note</head>
+                        <p>Folder includes disparate linguistic materials from the Northwest Coast, including for Coastal Salish (re: a religious prophet), Puyallup, Tsimshian.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref80" level="file">
+                    <did>
+                        <unittitle>TMs, Theory of Correlations</unittitle>
+                        <container id="cid97733" type="Box" label="Mixed materials">3</container>
+                        <unitdate>n.d.</unitdate>
+                        <physdesc id="ref81" label="General Physical Description note">1 folder</physdesc>
+                    </did>
+                </c02>
+                <c02 id="ref82" level="file">
+                    <did>
+                        <unittitle>TMs. Was sind Rassen?</unittitle>
+                        <container id="cid97732" type="Box" label="Mixed materials">3</container>
+                        <unitdate>n.d.</unitdate>
+                        <physdesc id="ref83" label="General Physical Description note">6p.</physdesc>
+                    </did>
+                    <scopecontent id="ref84">
+                        <head>Scope and Contents note</head>
+                        <p>In German.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref85" level="file">
+                    <did>
+                        <unittitle>Miscellaneous</unittitle>
+                        <container id="cid97731" type="Box" label="Mixed materials">3</container>
+                        <unitdate>n.d.</unitdate>
+                        <physdesc id="ref86" label="General Physical Description note">1 folder</physdesc>
+                    </did>
+                    <scopecontent id="ref87">
+                        <head>Native American Images note</head>
+                        <p>Includes Boas Family genealogical information (1920s?), forms for anthropometric surveys, stereograph of cranium of male Aleut; two silver prints of Amazonian Indians, etc.</p>
+                    </scopecontent>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

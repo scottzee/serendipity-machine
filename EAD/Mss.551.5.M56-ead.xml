@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.551.5.M56-ead.xml">PUBLIC "-//American Philosophical Society//TEXT (US::PPAmP::551.5 M56::Meteorology Collection)//EN" "meteorology.xml"</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Meteorology Collection
+                    <date type="span">1748-1822</date>
+                    <num>Mss.551.5.M56</num>
+                </titleproper>
+                <author>Finding aid prepared by rws</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+                <date>2006</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:18-0400</date>
+            </creation>
+            <langusage>ENG</langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Meteorology Collection</unittitle>
+            <unitid>Mss.551.5.M56</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>30.0 Volume(s)</extent>
+            </physdesc>
+            <unitdate normal="1748/1822" type="inclusive">1748-1822</unitdate>
+            <abstract id="ref1" label="Abstract">Featuring the work of at least ten different authors, this collection includes several, unrelated meteorological observations from the mid-18th Century to the early 19th Century. While the majority of these records depict weather patterns in Philadelphia, there are also descriptions for Delaware, New England, London, and South America among others.</abstract>
+            <physloc id="ref36" label="Paging">LH-MV-B-11</physloc>
+            <origination label="creator">
+                <persname source="local" role="Author (aut)">Various</persname>
+            </origination>
+        </did>
+        <odd id="ref40">
+            <head>Early American History Note</head>
+            <p>This collection contains a group of metrological observations made between the 1750-1800. The data was compiled at different locations and by different people. There are fifteen volumes kept by a member of the Pemberton family in the collection. These contain weather data for Philadelphia from the colonial and revolutionary era. There are also observations from England and elsewhere. Some of the data includes graphs and other detailed information.</p>
+        </odd>
+        <altformavail id="ref13">
+            <head>Existence and Location of Copies note</head>
+            <p>Collection also available on microfilm (Film 1467, Reel 1).</p>
+        </altformavail>
+        <processinfo id="ref11">
+            <head>Processing Information note</head>
+            <p>Recatalogued by RWS, 2006.</p>
+        </processinfo>
+        <acqinfo id="ref9">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by the authors and others, various dates.</p>
+        </acqinfo>
+        <prefercite id="ref7">
+            <head>Preferred Citation note</head>
+            <p>Cite as: Meteorology Collection, American Philosophical Society.</p>
+        </prefercite>
+        <scopecontent id="ref3">
+            <head>Scope and Contents note</head>
+            <p>This collection contains miscellaneous and unrelated meteorological observations from the mid-18th Century to the early 19th Century profiling locations as diverse as Philadelphia, South America, and London. The majority of the records contain daily charts noting the prominent weather indicators, some of which include remarks by the respective authors.</p>
+        </scopecontent>
+        <controlaccess>
+            <persname rules="aacr" source="local">Adair, William</persname>
+            <persname source="ingest">Curson, Samuel</persname>
+            <persname source="naf">Dunbar, William, 1749-1810</persname>
+            <persname rules="aacr" source="naf">Haines, Reuben, 1786-1831</persname>
+            <persname rules="aacr" source="naf">Hazard, Samuel, 1784-1870 </persname>
+            <persname source="ingest">Legaux, Peter,1748-1827.</persname>
+            <persname rules="aacr" source="naf">Madison, James, 1751-1836</persname>
+            <persname source="ingest">Pemberton, Phineas</persname>
+            <persname rules="aacr" source="naf">Reichel, Charles Gotthold, 1751-1825</persname>
+            <persname source="ingest">Williams, Samuel, 1743-1817</persname>
+            <genreform source="leah">Meteorological Data</genreform>
+            <subject source="lcsh">Meteorology - Delaware - Observations</subject>
+            <subject source="lcsh">Meteorology - New England - Observations</subject>
+            <subject source="lcsh">Meteorology - Observations</subject>
+            <subject source="lcsh">Meteorology - Pennsylvania</subject>
+            <subject source="lcsh">Meteorology - South America - Observations</subject>
+            <subject source="leah">Science and Technology</subject>
+            <subject source="lcsh">Weather</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref14" level="series">
+                <did>
+                    <unittitle>Meteorology Collection</unittitle>
+                    <physdesc>
+                        <extent>ca. 30 items</extent>
+                    </physdesc>
+                    <unitdate>1748-1822</unitdate>
+                </did>
+                <c02 id="ref15" level="file">
+                    <did>
+                        <unittitle>Meteorological observations taken in and around Philadelphia</unittitle>
+                        <unitid>I</unitid>
+                        <physdesc>
+                            <extent>15 notebooks</extent>
+                        </physdesc>
+                        <unitdate>1748-1776</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Pemberton, Phineas</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref37">
+                        <head>Scope and Contents note</head>
+                        <p>D. 15 notebooks. Various sizes. (see Meteorological material, No. I.) Abstracted and printed in APS Trans., n.s., vol. VI, 395ff. Presented by James Pemberton; 1791. Cf. Minutes. 1. Aug.-Nov.1748:Dec.4,1748-Sept.30,1749. 2. Jan.1758-Feb.1760. 3. Jan.1767-April 1768: Jan.-Aug.28,1769: April-Nov.1770. 4. Jan.1768-Dec.1769. 5. Jan.-Dec.1770. 6. Dec.1770-Feb.1771: Dec.1770-July 24, 1772. 7. Jan.1771-Dec.1772. 8. Jan.-April 25, 1772: July 25-Oct.31, 1772.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref16" level="file">
+                    <did>
+                        <unittitle>Meteorological journals</unittitle>
+                        <unitid>II</unitid>
+                        <unitdate>1758, 1767, 1768</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Pemberton, Phineas</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref38">
+                        <head>Scope and Contents note</head>
+                        <p>D. 34 leaves. Various sizes. This seems to have been abstracted from the Meteorological observations...No.I of this group. Presented by James Pemberton; 1791. Cf.Minutes.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref17" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <unitid>III</unitid>
+                        <unitdate>1749-1778</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Pemberton, Phineas</persname>
+                        </origination>
+                    </did>
+                    <c03 id="ref18" level="file">
+                        <did>
+                            <unittitle>Account of barometer and thermometer at Bridgewater, England and Philadelphia</unittitle>
+                            <unitdate>1767-1768</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref19" level="file">
+                        <did>
+                            <unittitle>Meteorological observations, taken at London, England (extracts)</unittitle>
+                            <unitdate>1751-1761</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref20" level="file">
+                        <did>
+                            <unittitle>Meteorological observations, taken at Maryland</unittitle>
+                            <unitdate>1753-1754</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref21" level="file">
+                        <did>
+                            <unittitle>Meteorological observations, unidentified location</unittitle>
+                            <unitdate>1749, 1766-1767</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref22" level="file">
+                        <did>
+                            <unittitle>Meteorological observations, taken at Philadelphia</unittitle>
+                            <unitdate>1770, 1774, 1777-1778</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref23" level="file">
+                    <did>
+                        <unittitle>Meteorological observations, taken at Philadelphia</unittitle>
+                        <unitid>IV</unitid>
+                        <unitdate>1768</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref24" level="file">
+                    <did>
+                        <unittitle>The highest and lowest stations of the barometer and thermometer in London</unittitle>
+                        <unitid>V</unitid>
+                        <unitdate>1771</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref25" level="file">
+                    <did>
+                        <unittitle>Meteorological observations taken in New England, and account of a hurricane in New England</unittitle>
+                        <unitid>VI</unitid>
+                        <unitdate>1771, 1773</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Williams, Samuel</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref26" level="file">
+                    <did>
+                        <unittitle>Meteorological observations at Lewes, DE.</unittitle>
+                        <unitid>VII</unitid>
+                        <unitdate>1773-1775</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="local">Adair, William</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref27" level="file">
+                    <did>
+                        <unittitle>Tables of meteorological observations taken at Philadelphia</unittitle>
+                        <unitid>VIII</unitid>
+                        <unitdate>1773-1777</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref28" level="file">
+                    <did>
+                        <unittitle>Meteorological observations, taken at Nazareth, PA.</unittitle>
+                        <unitid>IX</unitid>
+                        <unitdate>1787-1790</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Reichel, Charles Gotthold, 1751-1825</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref29" level="file">
+                    <did>
+                        <unittitle>Meteorological observations</unittitle>
+                        <unitid>X</unitid>
+                        <unitdate>1798-1802</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Madison, James, 1751-1836</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref30" level="file">
+                    <did>
+                        <unittitle>Meteorological observations, sent to John Vaughan, Natchez</unittitle>
+                        <unitid>XI</unitid>
+                        <unitdate>1803</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Dunbar, William, 1749-1810</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref31" level="file">
+                    <did>
+                        <unittitle>Observations on the warmth of the sea water, etc. from Smyrna to Philadelphia</unittitle>
+                        <unitid>XII</unitid>
+                        <unitdate>1815</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="local">Hazard, Samuel</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref32" level="file">
+                    <did>
+                        <unittitle>Barometrical observations made in South America</unittitle>
+                        <unitid>XIII</unitid>
+                        <unitdate>[1817]</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Curson, Samuel</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref33" level="file">
+                    <did>
+                        <unittitle>Meteorological observations made at Spring Mill, PA</unittitle>
+                        <unitid>XIV</unitid>
+                        <unitdate>1820-1821</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Legaux, Peter</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref34" level="file">
+                    <did>
+                        <unittitle>Meteorological observations made at Germantown, PA</unittitle>
+                        <unitid>XV</unitid>
+                        <unitdate>1820-1821</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Haines, Reuben</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref35" level="file">
+                    <did>
+                        <unittitle>Remarks on meteorological observations</unittitle>
+                        <unitid>XVI</unitid>
+                        <unitdate>[ca. 1822]</unitdate>
+                    </did>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

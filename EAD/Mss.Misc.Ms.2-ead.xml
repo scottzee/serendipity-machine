@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Misc.Ms.2</num>
+                </titleproper>
+                <author>Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T20:17-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc audience="internal" level="collection">
+        <did>
+            <unittitle>Papers, 1828-1845, concerning Buffon</unittitle>
+            <unitid>Mss.Misc.Ms.2</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="fre"/>
+            </langmaterial>
+            <container id="cid383" type="Box-folder" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>58.0 p.</extent>
+            </physdesc>
+            <unitdate normal="1828/1845" type="inclusive">1828-1845</unitdate>
+            <abstract id="ref1" label="Abstract">This collection contains notes and correspondence by Humbert-Bazile with descendants of Buffon, concerning Buffon, his work, and his family. This material was probably used in Humbert-Bazile's "Buffon su famille, ses collaborateurs, et ses familiers" (Paris, 1863).</abstract>
+            <physdesc id="ref4" label="General Physical Description note">58 p.</physdesc>
+            <physloc id="ref5" label="Paging">LH-MV-D-11</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Humbert-Bazile, M.</persname>
+            </origination>
+        </did>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>Humbert-Bazile wrote a biography of Georges Louis Leclerc Buffon, a natural philosopher.</p>
+        </bioghist>
+        <acqinfo id="ref2">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by Paul C. Richards and accessioned, 12/05/1966 (1966 2343).</p>
+        </acqinfo>
+        <controlaccess>
+            <persname rules="aacr" source="naf">Buffon, Georges Louis Leclerc, comte de, 1707-1788</persname>
+            <persname rules="aacr" source="local" role="Donor (dnr)">Richards, Paul C.</persname>
+            <subject source="lcsh">Natural history.</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

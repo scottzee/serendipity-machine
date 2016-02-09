@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Rec.183</num>
+                </titleproper>
+                <author>Finding aid prepared by Brian Carpenter</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+                <date>March 2012</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T21:13-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>The future of the Museum of the American Indian</unittitle>
+            <unitid>Mss.Rec.183</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>1.0 Tape(s)</extent>
+            </physdesc>
+            <unitdate normal="1984/1984">1984</unitdate>
+            <physdesc id="ref1" label="General Physical Description">1 audiocassette (54 min.) : analog, 1 7/8 ips, stereo.</physdesc>
+            <abstract id="ref2" label="Abstract">Radio broadcast: "Manhattan at Large." Councilman Stanley Michaels, host. Topic: "The Future of the Museum of the American Indian." Guests: Dr. Edmund Carpenter, Anthropologist, Member Board of Trustees, Museum of the American Indian; Pamela Mann, Asst. N.Y., Attorney General; N.Y. Assemblyman Herman D. Farrell, Jr.; Randle Borshi, Deputy Commissioner, N.Y. City Dept. of Cultural Affairs.</abstract>
+            <origination label="creator">
+                <persname rules="dacs" source="local" role="Speaker (spk)">Borshi, Randle</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="local" role="Speaker (spk)">Carpenter, Edmund, 1922-2011</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="local" role="Speaker (spk)">Farrell, Herman D.</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="local" role="Speaker (spk)">Mann, Pamela</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="local" role="Speaker (spk)">Michaels, Stanley</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref3">
+            <head>Immediate Source of Acquisition</head>
+            <p>Gift of William N. Fenton. Removed from the 
+                <extref ns2:actuate="onLoad" ns2:show="new" ns2:href="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Ms.Coll.20-ead.xml">William Fenton Papers (Mss.Ms.Coll.20)</extref>. (Acc. 1994-579r)</p>
+        </acqinfo>
+        <controlaccess>
+            <persname source="ingest" role="Collector (col)">Fenton, William N., (William Nelson), 1908-2005</persname>
+            <corpname source="ingest">Museum of the American Indian, Heye Foundation</corpname>
+            <genreform source="ingest">Sound recordings</genreform>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

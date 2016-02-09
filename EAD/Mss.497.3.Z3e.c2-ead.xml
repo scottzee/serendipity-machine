@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.497.3.Z3e.c2-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.497.3.Z3e.c2</num>
+                </titleproper>
+                <author>Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:13-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="item">
+        <did>
+            <unittitle>Essay of an Onondaga grammar; or A short introduction to learn the Onondaga al. Maqua tongue / [edited by John W. Jordan]</unittitle>
+            <unitid>Mss.497.3.Z3e.c2</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="iro"/>
+            </langmaterial>
+            <container id="cid2182" type="Volume" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>1.0 Volume(s)</extent>
+                <extent>1 volume, 46 p. </extent>
+            </physdesc>
+            <unitdate normal="1887/1887">Circa 1887</unitdate>
+            <physdesc id="ref1" label="General Physical Description note">1 volume, 46 p.</physdesc>
+            <abstract id="ref2" label="Abstract">This was the editor's copy. Originally interleaved with letters from: William N. Beauchamp, Eben N. Horsford, Isaac Craig, Horatio Hale, De Cost Smith, Daniel G. Brinton, and Albert Cusiek.</abstract>
+            <physloc id="ref4" label="Paging">LH-MV-E-15</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="local" role="Correspondent (crp)">Beauchamp, William N.</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Brinton, Daniel Garrison, 1837-1899</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Craig, Isaac, 1742?-1826 </persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="local" role="Correspondent (crp)">Cusiek, Albert</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Hale, Horatio, 1817-1896</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Horsford, Eben Norton, 1818-1893</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Editor (edt)">Jordan, John Woolf , 1840-1921</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="dacs" source="naf" role="Contributor (ctb)">Olbrechts, Frans M., 1899-1958</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Smith, De Cost, 1864-1939</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Zeisberger, David, 1721-1808</persname>
+            </origination>
+        </did>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>David Zeisberger served as a Moravian minister.</p>
+        </bioghist>
+        <controlaccess>
+            <subject source="lcsh">Indians of North America--Languages</subject>
+            <subject source="lcsh">Onondaga language</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

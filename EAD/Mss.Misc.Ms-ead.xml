@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Misc.Ms</num>
+                </titleproper>
+                <author>Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T20:17-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc audience="internal" level="collection">
+        <did>
+            <unittitle>Correspondence, 1935-1962, concerning progesterone.</unittitle>
+            <unitid>Mss.Misc.Ms</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid145" type="Folder" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>9.0 Item(s)</extent>
+            </physdesc>
+            <unitdate normal="1935/1962" type="inclusive">1935-1962</unitdate>
+            <langmaterial id="ref6" label="Language of Materials note">There is an English translation of the letter written in German.</langmaterial>
+            <physdesc id="ref5" label="General Physical Description note">9 items, photocopies and originals.</physdesc>
+            <abstract id="ref1" label="Abstract">This correspondence concerns the nomenclature of the hormone progesterone. Included is an exchange with George W. Corner, Karl Mason, K.H. Slotta, and O. Wintersteiner.</abstract>
+            <physloc id="ref7" label="Paging">LH-MV-D-11</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Allen, Willard M., 1904-1993</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Corner, George Washington, 1889-1981</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="local" role="Correspondent (crp)">Mason, Karl, 1900-</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Parkes, A. S., Sir,  (Alan Sterling), 1900- </persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Slotta, Karl Heinrich, 1895-</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="local" role="Correspondent (crp)">Wintersteiner, Oskar Paul, 1898-1971</persname>
+            </origination>
+        </did>
+        <originalsloc id="ref4">
+            <head>Existence and Location of Originals note</head>
+            <p>Existence and location of originals unknown.</p>
+        </originalsloc>
+        <acqinfo id="ref3">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by George Washington Corner, 1980.</p>
+        </acqinfo>
+        <bioghist id="ref2">
+            <head>Biographical/Historical note</head>
+            <p>Willard Myron Allen, a physician and scientist, held professorships in obstetrics and gynecology at the medical schools of University of Rochester, Washington University, and University of Maryland (Baltimore).</p>
+        </bioghist>
+        <controlaccess>
+            <subject source="lcsh">Biochemistry.</subject>
+            <subject source="lcsh">Endocrinology -- Nomenclature.</subject>
+            <subject source="lcsh">Hormones, Sex.</subject>
+            <subject source="lcsh">Progesterone.</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

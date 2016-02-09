@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.C13-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.C13</num>
+                </titleproper>
+                <author>Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:55-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Amelia Smith Calvert diaries, 1912-1929</unittitle>
+            <unitid>Mss.B.C13</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid394" type="Volume" label="Manuscripts">1-2</container>
+            <physdesc>
+                <extent>2.0 Volume(s)</extent>
+                <extent>2 volumes, 657 p.</extent>
+            </physdesc>
+            <unitdate normal="1912/1929" type="inclusive">1912-1929</unitdate>
+            <physdesc id="ref1" label="General Physical Description note">2 volumes, 657 p.</physdesc>
+            <abstract id="ref2" label="Abstract">These two diaries were kept by Amelia Smith Calvert on trips to Europe with her husband Philip Powell Calvert. They record little scientific information, although there is mention of some of the entomologists and scientists whom they met (e.g. Professor Robert Newstead of University of Liverpool). In general, her observations are those of a literate and passionate sightseer who records travel events in great detail. The British diary (1912) includes descriptions of Liverpool, Edinburgh, York, Lincoln, Cambridge, Oxford, and London, and observations of the entomological specimens they saw in London. The Europe diary (1929) includes descriptions of Antwerp, Brussels, Amsterdam, Lucerne, Venice (of particular interest), Padua, and Milan. There is a description of P.P. Calvert's examination of insect specimens in the collection of Baron de Sélys-Longchamps in the Institut royal des sciences naturelles de Belgique.</abstract>
+            <physloc id="ref5" label="Paging">LH-MV-E-14</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Calvert, Amelia Smith, b. 1876</persname>
+            </origination>
+        </did>
+        <bioghist id="ref4">
+            <head>Biographical/Historical note</head>
+            <p>Amelia Smith Calvert co-authored "A Year of Costa Rican Natural History," 1917, with her husband, Philadelphia entomologist, Philip Powell Calvert.</p>
+        </bioghist>
+        <acqinfo id="ref3">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Gift from Miss A. E. Hopkinson and accessioned, 1966 (1966 734-5ms).</p>
+        </acqinfo>
+        <controlaccess>
+            <persname rules="aacr" source="naf">Calvert, Philip Powell, b. 1871</persname>
+            <corpname rules="aacr" source="naf">Institut royal des sciences naturelles de Belgique.</corpname>
+            <persname rules="aacr" source="naf">Newstead, Robert, 1859-1947</persname>
+            <persname rules="aacr" source="naf">Sélys-Longchamps, Michel-Edmond, baron de, 1813-1900</persname>
+            <geogname source="lcsh">Brussels (Belgium) -- Description and travel.</geogname>
+            <genreform source="lcsh">Diaries.</genreform>
+            <geogname source="ingest">Edinburgh (Scotland)--Description and travel</geogname>
+            <geogname source="lcsh">England -- Description and travel.</geogname>
+            <subject source="lcsh">Entomology -- Research.</subject>
+            <geogname source="lcsh">Italy -- Description and travel.</geogname>
+            <geogname source="lcsh">Netherlands -- Description and travel.</geogname>
+            <geogname source="lcsh">Switzerland -- Description and travel.</geogname>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

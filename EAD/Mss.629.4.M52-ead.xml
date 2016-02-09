@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.629.4.M52-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.629.4.M52</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:22-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Papers concerning UFOs, 1952-1976</unittitle>
+            <unitid>Mss.629.4.M52</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid991" type="Box" label="Manuscripts">1-24</container>
+            <physdesc>
+                <extent>12.0 Linear feet</extent>
+                <extent>Ca. 12,000 items</extent>
+            </physdesc>
+            <unitdate normal="1952/1976" type="inclusive">1952-1976</unitdate>
+            <abstract id="ref1" label="Abstract">This collection includes correspondence, articles, newsclippings, photographs, and recordings, concerning Menzel's documentation of UFOs as natural phenomena explainable in scientific terms. One can find material on the National Investigation Committee on Aerial Phenomena, Project Blue Book, the Velikovsky controversy, and a card file of meteor activity, 1946-1961.</abstract>
+            <physloc id="ref10" label="Paging">LH-B-31-9</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Menzel, Donald Howard, 1901-1976</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref9">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by Donald Howard Menzel and family, 1963-1982; accessioned, 10/--/1971. See in-house shelf list for additional accession numbers and dates.</p>
+        </acqinfo>
+        <relatedmaterial id="ref5">
+            <head>Related Archival Materials note</head>
+            <p>
+                <extref ns2:actuate="onLoad" ns2:show="new" ns2:href="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.M522-ead.xml">Donald Howard Menzel's Autobiography</extref> is also located in the American Philosophical Society Library (Mss.B.M522).</p>
+        </relatedmaterial>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>Donald Howard Menzel was an astrophysicist.</p>
+        </bioghist>
+        <controlaccess>
+            <persname rules="aacr" source="naf">Botley, Cicely Mary</persname>
+            <persname rules="aacr" source="naf">Boyd, Lyle Gifford, 1907- </persname>
+            <persname rules="aacr" source="naf">Condon, Edward Uhler, 1902-1974</persname>
+            <persname rules="aacr" source="naf">Hynek, J. Allen,  (Joseph Allen), 1910-1986</persname>
+            <persname rules="aacr" source="naf">Keyhoe, Donald E.,  (Donald Edward), 1897- </persname>
+            <persname source="naf">Klass, Philip J.</persname>
+            <persname rules="aacr" source="naf">Maney, Charles Albert, 1891- </persname>
+            <persname rules="aacr" source="naf">Markowitz, William</persname>
+            <corpname source="ingest">National Investigations Committee on Aerial Phenomena.</corpname>
+            <corpname source="ingest">Project Blue Book (U.S.)</corpname>
+            <persname rules="aacr" source="local">Quintanella, Hector</persname>
+            <persname rules="aacr" source="naf">Sagan, Carl, 1934-1996</persname>
+            <persname rules="aacr" source="local">Schreibsten, Norman</persname>
+            <persname rules="aacr" source="naf">Velikovsky, Immanuel, 1895-1979</persname>
+            <persname rules="aacr" source="naf">Wellman, Wade </persname>
+            <subject source="lcsh">Astronomy.</subject>
+            <genreform source="lcsh">Card files.</genreform>
+            <genreform source="lcsh">Clippings.</genreform>
+            <subject source="lcsh">Meteors.</subject>
+            <genreform source="lcsh">Photoprints.</genreform>
+            <genreform source="lcsh">Recordings.</genreform>
+            <subject source="lcsh">Unidentified flying objects.</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

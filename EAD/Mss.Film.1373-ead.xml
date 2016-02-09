@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Film.1373-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Film.1373</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T20:13-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Sir Edward Sabine papers,[ca. 1826-1853].</unittitle>
+            <unitid>Mss.Film.1373</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1798" type="Reel" label="Microform">1-3</container>
+            <physdesc>
+                <extent>3.0 Microfilm reel(s)</extent>
+            </physdesc>
+            <unitdate>Circa 1826-1853</unitdate>
+            <abstract id="ref1" label="Abstract">These papers include correspondence to Sabine, and miscellaneous accounts, receipts, and military records.</abstract>
+            <physdesc id="ref11" label="General Physical Description note">3 microfilm reels.</physdesc>
+            <physloc id="ref12" label="Paging">LH-RR-Media Rm-6</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Sabine, Edward, Sir, 1788-1883</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref9">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Received from Public Record Office, London, and accessioned, 1977 (1977 1593mf).</p>
+        </acqinfo>
+        <userestrict id="ref7">
+            <head>Conditions Governing Use note</head>
+            <p>No reproduction may be made for publication without the assent of the Public Records Office, London.</p>
+        </userestrict>
+        <bioghist id="ref5">
+            <head>Biographical/Historical note</head>
+            <p>Edward Sabine was a geophysicist and was president of the Royal Society; he was elected to the American Philosophical Society in 1841.</p>
+        </bioghist>
+        <originalsloc id="ref3">
+            <head>Existence and Location of Originals note</head>
+            <p>Originals in Public Record Office, London.</p>
+        </originalsloc>
+        <odd id="ref13">
+            <head>Early American History Note</head>
+            <p>This microfilm collection may be of interest to some early American scholars.</p>
+        </odd>
+        <controlaccess>
+            <genreform source="lcsh">Accounts.</genreform>
+            <subject source="lcsh">Geophysics.</subject>
+            <genreform source="leah">Microfilm Collection</genreform>
+            <genreform source="lcsh">Receipts.</genreform>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

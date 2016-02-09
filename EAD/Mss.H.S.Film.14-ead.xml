@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.H.S.Film.14</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T20:16-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>William Darlington papers, 1777-1863</unittitle>
+            <unitid>Mss.H.S.Film.14</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1943" type="Reel" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>1.0 Microfilm reel(s)</extent>
+            </physdesc>
+            <unitdate normal="1777/1863" type="inclusive">1777-1863</unitdate>
+            <abstract id="ref8" label="Abstract">This collection includes miscellaneous letters and drafts of letters; genealogical notes, medical essays, copies of letters and essays sent to newspapers and magazines; bills and receipts; invitations; military and other commissions; and a biographical memoir of General John Lacey, 1823. There are also papers, principally official, of his son Lieut. B. S. B. Darlington, U.S.N.</abstract>
+            <physdesc id="ref15" label="General Physical Description note">1 microfilm reel.</physdesc>
+            <physloc id="ref17" label="Paging">LH-RR-Media Rm-7</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Darlington, William, 1782-1863</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref7">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Purchased from Free Library of Philadelphia and accessioned, 09/13/1965 (1965 1810mf).</p>
+            <p></p>
+        </acqinfo>
+        <bioghist id="ref5">
+            <head>Biographical/Historical note</head>
+            <p>William Darlington was a physician and naturalist.</p>
+        </bioghist>
+        <originalsloc id="ref3">
+            <head>Existence and Location of Originals note</head>
+            <p>Originals in Rare Book Dept., Free Library of Philadelphia, Pennsylvania.</p>
+        </originalsloc>
+        <odd id="ref16">
+            <head>Early American History Note</head>
+            <p>This is a microfilm of an early American collection that may be of interest to researchers at the APS and may complement an original manuscript collection at the APS.</p>
+        </odd>
+        <controlaccess>
+            <famname source="ingest">Darlington, B. S. B.</famname>
+            <persname rules="aacr" source="naf">Lacey, John, 1755-1814</persname>
+            <corpname source="ingest">United States. -- Navy.</corpname>
+            <subject source="lcsh">Medicine.</subject>
+            <genreform source="leah">Microfilm Collection</genreform>
+            <subject source="lcsh">Natural history.</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

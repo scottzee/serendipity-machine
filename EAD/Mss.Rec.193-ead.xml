@@ -1,0 +1,1275 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Rec.193</num>
+                    <num>Mss.Rec.193</num>
+                </titleproper>
+                <author>Finding aid prepared by Brian Carpenter</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+                <date>01-2011</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T21:14-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Potawatomi language recordings</unittitle>
+            <unitid>Mss.Rec.193</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="nai"/>
+            </langmaterial>
+            <physdesc>
+                <extent>16.0 Tape(s)</extent>
+            </physdesc>
+            <unitdate normal="1992/1992">1992</unitdate>
+            <physdesc id="ref2" label="General Physical Description note">16 sound cassettes (18 hr., 4 min.) : analog, 1 7/8 ips, stereo.</physdesc>
+            <physloc id="ref165" label="Paging">LH-B-32-4</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Buszard-Welcher, Laura</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest">Wesaw, Julia</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest">Wesaw, Martin</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref3">
+            <head>Immediate Source of Acquisition</head>
+            <p>Donated by Laura Buszard-Welcher in 1995 (Acc. 1995-144r). This material was recorded with the assistance of a Phillips Fund grant.</p>
+        </acqinfo>
+        <controlaccess>
+            <subject source="lcsh">Basket making</subject>
+            <subject source="lcsh">Berries--Harvesting</subject>
+            <subject source="lcsh">Maple syrup</subject>
+            <subject source="lcsh">Potawatomi Indians--Domestic life</subject>
+            <subject source="lcsh">Potawatomi Indians--Education</subject>
+            <subject source="lcsh">Potawatomi Indians--Social life and customs</subject>
+            <subject source="lcsh">Potawatomi language</subject>
+            <subject source="lcsh">Potawatomi language--Acquisition</subject>
+            <subject source="lcsh">Potawatomi language--Study and teaching</subject>
+            <subject source="lcsh">Pottery craft</subject>
+            <genreform source="ingest">Sound recordings</genreform>
+            <subject source="lcsh">United States. Navy.</subject>
+            <subject source="ingest">World War, 1939-1945</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref4" level="series">
+                <did>
+                    <unittitle>Audio recordings</unittitle>
+                </did>
+                <c02 id="ref5" level="file">
+                    <did>
+                        <unittitle>Potawatomi language class</unittitle>
+                        <unitid>01-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1992-07-01</unitdate>
+                        <physdesc id="ref6" label="General Physical Description note">
+                            <extent>00:44:48</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Buszard-Welcher, Laura A.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Wesaw, Julia</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Wesaw, Martin</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref7">
+                        <head>Scope and Contents note</head>
+                        <p>Potawatomi language class held at the College of the Potawatomi Center taught by Julia Wesaw and Martin Wesaw. Small informal group. Vocabulary drills. Original tapes held at Berkeley Language Center, University of California, Berkeley. Original tape 1, program 1. Formerly numbered 1:1.</p>
+                    </scopecontent>
+                    <originalsloc id="ref9">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2837" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3407">
+                        <daodesc>
+                            <p>APSdigrec_2837</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Dowagiac (Mich.)</geogname>
+                        <subject source="lcsh">Potawatomi language</subject>
+                        <subject source="lcsh">Potawatomi language--Study and teaching</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref10" level="file">
+                    <did>
+                        <unittitle>Potawatomi language class</unittitle>
+                        <unitid>01-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1992-07-01</unitdate>
+                        <physdesc id="ref11" label="General Physical Description note">
+                            <extent>00:45:01</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Buszard-Welcher, Laura A.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Wesaw, Julia</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Wesaw, Martin</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref12">
+                        <head>Scope and Contents note</head>
+                        <p>Potawatomi language class held at the College of the Potawatomi Center taught by Julia Wesaw and Martin Wesaw. Small informal group. Vocabulary drills. Original tapes held at Berkeley Language Center, University of California, Berkeley. Original tape 1, program 2. Formerly numbered 2:1.</p>
+                    </scopecontent>
+                    <originalsloc id="ref14">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2838" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3408">
+                        <daodesc>
+                            <p>APSdigrec_2838</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Dowagiac (Mich.)</geogname>
+                        <subject source="lcsh">Potawatomi language</subject>
+                        <subject source="lcsh">Potawatomi language--Study and teaching</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref15" level="file">
+                    <did>
+                        <unittitle>Interview with Julia &amp; John Wesaw</unittitle>
+                        <unitid>02-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1992-07-06</unitdate>
+                        <physdesc id="ref16" label="General Physical Description note">
+                            <extent>00:22:43</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Buszard-Welcher, Laura A.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Wesaw, John</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Wesaw, Julia</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref17">
+                        <head>Scope and Contents note</head>
+                        <p>Conversation in English about berry picking, boarding school, and speaking Potawatomi. Original tapes held at Berkeley Language Center, University of California, Berkeley. Original tape 2, program 1. Formerly numbered 2:2.</p>
+                    </scopecontent>
+                    <originalsloc id="ref19">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2839" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3411">
+                        <daodesc>
+                            <p>APSdigrec_2839</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Berries--Harvesting</subject>
+                        <geogname source="ingest">Hartford (Mich.)</geogname>
+                        <subject source="lcsh">Potawatomi Indians--Education</subject>
+                        <subject source="lcsh">Potawatomi Indians--Social life and customs</subject>
+                        <subject source="lcsh">Potawatomi language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref20" level="file">
+                    <did>
+                        <unittitle>Interview with Julia &amp; John Wesaw</unittitle>
+                        <unitid>02-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1992-07-06</unitdate>
+                        <physdesc id="ref21" label="General Physical Description note">
+                            <extent>00:23:34</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Buszard-Welcher, Laura A.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Wesaw, John</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Wesaw, Julia</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref22">
+                        <head>Scope and Contents note</head>
+                        <p>Conversation in English about racial discrimination, personal stories, berry picking, and baskets. Original tapes held at Berkeley Language Center, University of California, Berkeley. Original tape 2, program 2. Formerly numbered 3:1.</p>
+                    </scopecontent>
+                    <originalsloc id="ref24">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2840" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3412">
+                        <daodesc>
+                            <p>APSdigrec_2840</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Basket making</subject>
+                        <subject source="ingest">Berries--Harvesting</subject>
+                        <geogname source="ingest">Hartford (Mich.)</geogname>
+                        <subject source="lcsh">Potawatomi Indians--Social life and customs</subject>
+                        <subject source="ingest">Race discrimination</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref25" level="file">
+                    <did>
+                        <unittitle>Interview with Julia Wesaw &amp; Ella Louis</unittitle>
+                        <unitid>03-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1992-07-07</unitdate>
+                        <physdesc id="ref26" label="General Physical Description note">
+                            <extent>00:26:21</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Buszard-Welcher, Laura A.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Louis, Ella</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Wesaw, Julia</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref27">
+                        <head>Scope and Contents note</head>
+                        <p>Discussion of speaking and learning Potawatomi. Discussion and elicitation of words for the seasons, birds and animals, times of the day, and weather. Original tapes held at Berkeley Language Center, University of California, Berkeley. Original tape 3, program 1. Formerly numbered 3:2.</p>
+                    </scopecontent>
+                    <originalsloc id="ref29">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2841" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3414">
+                        <daodesc>
+                            <p>APSdigrec_2841</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Hartford (Mich.)</geogname>
+                        <subject source="lcsh">Potawatomi Indians--Social life and customs</subject>
+                        <subject source="lcsh">Potawatomi language</subject>
+                        <subject source="lcsh">Potawatomi language--Acquisition</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref30" level="file">
+                    <did>
+                        <unittitle>Interview with Julia Wesaw &amp; Ella Louis</unittitle>
+                        <unitid>03-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1992-07-07</unitdate>
+                        <physdesc id="ref31" label="General Physical Description note">
+                            <extent>00:20:50</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Buszard-Welcher, Laura A.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Louis, Ella</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Wesaw, Julia</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref32">
+                        <head>Scope and Contents note</head>
+                        <p>Elicitation of miscellaneous Potawatomi words and phrases, as well as words for animals, birds, and household items. Original tapes held at Berkeley Language Center, University of California, Berkeley. Original tape 3, program 2. Formerly numbered 3:3.</p>
+                    </scopecontent>
+                    <originalsloc id="ref34">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2842" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3413">
+                        <daodesc>
+                            <p>APSdigrec_2842</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Hartford (Mich.)</geogname>
+                        <subject source="lcsh">Potawatomi language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref35" level="file">
+                    <did>
+                        <unittitle>Interview with Julia Wesaw &amp; Ella Louis</unittitle>
+                        <unitid>04-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1992-07-07</unitdate>
+                        <physdesc id="ref36" label="General Physical Description note">
+                            <extent>00:22:01</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Buszard-Welcher, Laura A.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Louis, Ella</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Wesaw, Julia</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref37">
+                        <head>Scope and Contents note</head>
+                        <p>Discussion of basket making. Elicitation of Potawatomi words for colors, animals, and parts of the body. Original tapes held at Berkeley Language Center, University of California, Berkeley. Original tape 3, program 3. Formerly numbered 4:1.</p>
+                    </scopecontent>
+                    <originalsloc id="ref39">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2843" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3416">
+                        <daodesc>
+                            <p>APSdigrec_2843</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Basket making</subject>
+                        <geogname source="ingest">Hartford (Mich.)</geogname>
+                        <subject source="lcsh">Potawatomi Indians--Social life and customs</subject>
+                        <subject source="lcsh">Potawatomi language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref40" level="file">
+                    <did>
+                        <unittitle>Interview with Julia Wesaw &amp; Ella Louis</unittitle>
+                        <unitid>04-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1992-07-07</unitdate>
+                        <physdesc id="ref41" label="General Physical Description note">
+                            <extent>00:25:01</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Buszard-Welcher, Laura A.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Louis, Ella</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Wesaw, Julia</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref42">
+                        <head>Scope and Contents note</head>
+                        <p>Elicitation of Potawatomi words for animals, food, money, parts of the body, and miscellaneous terms, followed by general discussion. Original tapes held at Berkeley Language Center, University of California, Berkeley. Original tape 3, program 4. Formerly numbered 4:2.</p>
+                    </scopecontent>
+                    <originalsloc id="ref44">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2844" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3418">
+                        <daodesc>
+                            <p>APSdigrec_2844</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Hartford (Mich.)</geogname>
+                        <subject source="lcsh">Potawatomi Indians--Social life and customs</subject>
+                        <subject source="lcsh">Potawatomi language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref45" level="file">
+                    <did>
+                        <unittitle>Interview with Julia Wesaw on the making of Black Ash baskets</unittitle>
+                        <unitid>05-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1992-07</unitdate>
+                        <physdesc id="ref46" label="General Physical Description note">
+                            <extent>00:24:27</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Buszard-Welcher, Laura A.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Wesaw, Julia</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref47">
+                        <head>Scope and Contents note</head>
+                        <p>General conversation and description of basket-making, including some Potawatomi vocabulary. Original tapes held at Berkeley Language Center, University of California, Berkeley. Original tape 4, program 1. Formerly numbered 4:3.</p>
+                    </scopecontent>
+                    <originalsloc id="ref49">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2845" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3417">
+                        <daodesc>
+                            <p>APSdigrec_2845</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Basket making</subject>
+                        <geogname source="ingest">Hartford (Mich.)</geogname>
+                        <subject source="lcsh">Potawatomi Indians--Social life and customs</subject>
+                        <subject source="lcsh">Potawatomi language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref50" level="file">
+                    <did>
+                        <unittitle>Interview with Julia Wesaw on the making of Black Ash baskets</unittitle>
+                        <unitid>05-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1992-07</unitdate>
+                        <physdesc id="ref51" label="General Physical Description note">
+                            <extent>00:21:50</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Buszard-Welcher, Laura A.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Wesaw, Julia</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref52">
+                        <head>Scope and Contents note</head>
+                        <p>Conversation in English about basket making while consultant makes a basket, with other conversation on cooking turtle, other animals, and pottery making. Original tapes held at Berkeley Language Center, University of California, Berkeley. Original tape 4, program 2. Formerly numbered 5:1.</p>
+                    </scopecontent>
+                    <originalsloc id="ref54">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2846" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3419">
+                        <daodesc>
+                            <p>APSdigrec_2846</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Basket making</subject>
+                        <geogname source="ingest">Hartford (Mich.)</geogname>
+                        <subject source="lcsh">Potawatomi Indians--Social life and customs</subject>
+                        <subject source="ingest">Pottery craft</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref55" level="file">
+                    <did>
+                        <unittitle>Interview with Julia Wesaw</unittitle>
+                        <unitid>06-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1992-07</unitdate>
+                        <physdesc id="ref56" label="General Physical Description note">
+                            <extent>00:23:45</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Buszard-Welcher, Laura A.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Wesaw, Julia</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref57">
+                        <head>Scope and Contents note</head>
+                        <p>Informal interview conducted while consultant made baskets. TV in background. Many long pauses. Original tapes held at Berkeley Language Center, University of California, Berkeley. Original tape 4, program 3. Formerly numbered 5:2.</p>
+                    </scopecontent>
+                    <originalsloc id="ref59">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2847" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3427">
+                        <daodesc>
+                            <p>APSdigrec_2847</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Basket making</subject>
+                        <geogname source="ingest">Hartford (Mich.)</geogname>
+                        <subject source="ingest">Potawatomi Indians</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref60" level="file">
+                    <did>
+                        <unittitle>Interview with Julia Wesaw</unittitle>
+                        <unitid>06-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1992-07</unitdate>
+                        <physdesc id="ref61" label="General Physical Description note">
+                            <extent>00:22:02</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Buszard-Welcher, Laura A.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Wesaw, Julia</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref62">
+                        <head>Scope and Contents note</head>
+                        <p>Informal interview conducted while consultant made baskets. TV in background. Many long pauses. Original tapes held at Berkeley Language Center, University of California, Berkeley. Original tape 4, program 4. Formerly numbered 5:3.</p>
+                    </scopecontent>
+                    <originalsloc id="ref64">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2848" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3426">
+                        <daodesc>
+                            <p>APSdigrec_2848</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Basket making</subject>
+                        <geogname source="ingest">Hartford (Mich.)</geogname>
+                        <subject source="ingest">Potawatomi Indians</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref65" level="file">
+                    <did>
+                        <unittitle>Interview with Julia Wesaw reading words and phrases from Daniels' text</unittitle>
+                        <unitid>07-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1992-07</unitdate>
+                        <physdesc id="ref66" label="General Physical Description note">
+                            <extent>00:43:45</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Buszard-Welcher, Laura A.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Wesaw, Julia</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref67">
+                        <head>Scope and Contents note</head>
+                        <p>Interview with readings and elicitations from B. Daniels, et al., eds., "Potawatomi Language Manual, Resource Materials and Training Exercises" (Milwaukee: Great Lakes Inter-Tribal Council, Inc., University of Wisconsin-Milwaukee, 1976) Original tapes held at Berkeley Language Center, University of California, Berkeley. Original tape 5, program 1. Formerly numbered 6:1.</p>
+                    </scopecontent>
+                    <originalsloc id="ref69">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2849" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3428">
+                        <daodesc>
+                            <p>APSdigrec_2849</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Basket making</subject>
+                        <geogname source="ingest">Hartford (Mich.)</geogname>
+                        <subject source="lcsh">Ottawa language</subject>
+                        <subject source="lcsh">Potawatomi language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref70" level="file">
+                    <did>
+                        <unittitle>Interview with Julia Wesaw reading words and phrases from Daniels' text</unittitle>
+                        <unitid>07-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1992-07</unitdate>
+                        <physdesc id="ref71" label="General Physical Description note">
+                            <extent>00:32:31</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Buszard-Welcher, Laura A.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Wesaw, Julia</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref72">
+                        <head>Scope and Contents note</head>
+                        <p>Interview with readings and elicitations from B. Daniels, et al., eds., "Potawatomi Language Manual, Resource Materials and Training Exercises" (Milwaukee: Great Lakes Inter-Tribal Council, Inc., University of Wisconsin-Milwaukee, 1976) Original tapes held at Berkeley Language Center, University of California, Berkeley. Original tape 5, program 2. Formerly numbered 6:2.</p>
+                    </scopecontent>
+                    <originalsloc id="ref74">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2850" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3433">
+                        <daodesc>
+                            <p>APSdigrec_2850</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Basket making</subject>
+                        <geogname source="ingest">Hartford (Mich.)</geogname>
+                        <subject source="lcsh">Ottawa language</subject>
+                        <subject source="lcsh">Potawatomi language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref75" level="file">
+                    <did>
+                        <unittitle>Interview with Martin Wesaw</unittitle>
+                        <unitid>08-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1992-07</unitdate>
+                        <physdesc id="ref76" label="General Physical Description note">
+                            <extent>00:43:19</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Buszard-Welcher, Laura A.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Wesaw, Martin</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref77">
+                        <head>Scope and Contents note</head>
+                        <p>Discussion followed by the text "When I was young" about childhood and personal history given in Potawatomi and English. Elicitation of numbers. Discussion of Potawatomi speakers. Elicitation of verb paradigms for 'walk,' 'to be red,' and 'hit.' Discussion of making maple syrup. Original tapes held at Berkeley Language Center, University of California, Berkeley. Original tape 6, program 1. Formerly numbered 7:1.</p>
+                    </scopecontent>
+                    <originalsloc id="ref79">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2851" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3434">
+                        <daodesc>
+                            <p>APSdigrec_2851</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Maple syrup</subject>
+                        <geogname source="ingest">Michigan</geogname>
+                        <subject source="ingest">Potawatomi Indians</subject>
+                        <subject source="lcsh">Potawatomi language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref80" level="file">
+                    <did>
+                        <unittitle>Interview with Martin Wesaw</unittitle>
+                        <unitid>08-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1992-07</unitdate>
+                        <physdesc id="ref81" label="General Physical Description note">
+                            <extent>00:28:38</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Buszard-Welcher, Laura A.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Wesaw, Martin</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref82">
+                        <head>Scope and Contents note</head>
+                        <p>Interview, with the text "Making Maple Syrup" given in English. Conversation in English on consultant's personal history, a tornado, and selling baskets. Original tapes held at Berkeley Language Center, University of California, Berkeley. Original tape 6, program 2. Formerly numbered 7:2.</p>
+                    </scopecontent>
+                    <originalsloc id="ref84">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2852" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3436">
+                        <daodesc>
+                            <p>APSdigrec_2852</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Maple syrup</subject>
+                        <geogname source="ingest">Michigan</geogname>
+                        <subject source="ingest">Potawatomi Indians</subject>
+                        <subject source="lcsh">Potawatomi language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref85" level="file">
+                    <did>
+                        <unittitle>Interview with Martin Wesaw</unittitle>
+                        <unitid>09-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1992-07</unitdate>
+                        <physdesc id="ref86" label="General Physical Description note">
+                            <extent>00:44:12</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Buszard-Welcher, Laura A.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Wesaw, Martin</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref87">
+                        <head>Scope and Contents note</head>
+                        <p>Interview, with text "Making Maple Syrup" given in Potawatomi, conversation on picking blueberries, and miscellaneous elicited vocabulary. Original tapes held at Berkeley Language Center, University of California, Berkeley. Original tape 7, program 1. Formerly numbered 8:1.</p>
+                    </scopecontent>
+                    <originalsloc id="ref89">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2853" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3437">
+                        <daodesc>
+                            <p>APSdigrec_2853</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Blueberries</subject>
+                        <geogname source="ingest">Hartford (Mich.)</geogname>
+                        <subject source="ingest">Maple syrup</subject>
+                        <subject source="ingest">Potawatomi Indians</subject>
+                        <subject source="lcsh">Potawatomi language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref90" level="file">
+                    <did>
+                        <unittitle>Interview with Martin Wesaw</unittitle>
+                        <unitid>09-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1992-07</unitdate>
+                        <physdesc id="ref91" label="General Physical Description note">
+                            <extent>00:40:13</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Buszard-Welcher, Laura A.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Wesaw, Martin</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref92">
+                        <head>Scope and Contents note</head>
+                        <p>Elicitation of Potawatomi words for fruits, vegetables, animals, trees, followed by verb paradigms for 'hit.' Includes general conversation and analysis of earlier text, "When I was young." Original tapes held at Berkeley Language Center, University of California, Berkeley. Original tape 7, program 2. Formerly numbered 9:1.</p>
+                    </scopecontent>
+                    <originalsloc id="ref94">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2854" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3447">
+                        <daodesc>
+                            <p>APSdigrec_2854</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Hartford (Mich.)</geogname>
+                        <subject source="lcsh">Potawatomi language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref95" level="file">
+                    <did>
+                        <unittitle>Interview with Martin Wesaw</unittitle>
+                        <unitid>10-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1992-07</unitdate>
+                        <physdesc id="ref96" label="General Physical Description note">
+                            <extent>00:42:41</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Buszard-Welcher, Laura A.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Wesaw, Martin</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref97">
+                        <head>Scope and Contents note</head>
+                        <p>Discussion of hunting and elicitation of related Potawatomi words. Conversation about berry-picking, followed by story about huckleberries. Ends with elicitation of verb paradigms for 'hit.' Original tapes held at Berkeley Language Center, University of California, Berkeley. Original tape 8, program 1. Formerly numbered 10:1.</p>
+                    </scopecontent>
+                    <originalsloc id="ref99">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2855" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3450">
+                        <daodesc>
+                            <p>APSdigrec_2855</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Berries--Harvesting</subject>
+                        <geogname source="ingest">Hartford (Mich.)</geogname>
+                        <subject source="ingest">Huckleberries</subject>
+                        <subject source="ingest">Hunting</subject>
+                        <subject source="ingest">Potawatomi Indians</subject>
+                        <subject source="lcsh">Potawatomi language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref100" level="file">
+                    <did>
+                        <unittitle>Interview with Martin Wesaw</unittitle>
+                        <unitid>10-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1992-07</unitdate>
+                        <physdesc id="ref101" label="General Physical Description note">
+                            <extent>00:05:54</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Buszard-Welcher, Laura A.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Wesaw, Martin</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref102">
+                        <head>Scope and Contents note</head>
+                        <p>Elicitation of Potawatomi verb paradigms for 'hit.' Original tapes held at Berkeley Language Center, University of California, Berkeley. Original tape 8, program 2. Formerly numbered 10:2.</p>
+                    </scopecontent>
+                    <originalsloc id="ref104">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2856" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3457">
+                        <daodesc>
+                            <p>APSdigrec_2856</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Hartford (Mich.)</geogname>
+                        <subject source="lcsh">Potawatomi language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref105" level="file">
+                    <did>
+                        <unittitle>Interview with Martin Wesaw</unittitle>
+                        <unitid>11-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1992-07</unitdate>
+                        <physdesc id="ref106" label="General Physical Description note">
+                            <extent>00:43:32</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Buszard-Welcher, Laura A.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Wesaw, Martin</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref107">
+                        <head>Scope and Contents note</head>
+                        <p>Interview, including text "Going to school" given in Potawatomi and English, story about being in the Navy in World War II, and discussion of life after being in the service. Original tapes held at Berkeley Language Center, University of California, Berkeley. Original tape 9, program 1. Formerly numbered 11:1.</p>
+                    </scopecontent>
+                    <originalsloc id="ref109">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2857" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3455">
+                        <daodesc>
+                            <p>APSdigrec_2857</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Hartford (Mich.)</geogname>
+                        <subject source="lcsh">Potawatomi Indians--Education</subject>
+                        <subject source="lcsh">Potawatomi language</subject>
+                        <subject source="ingest">United States. Navy.</subject>
+                        <subject source="ingest">World War, 1939-1945</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref110" level="file">
+                    <did>
+                        <unittitle>Interview with Martin Wesaw</unittitle>
+                        <unitid>11-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1992-07</unitdate>
+                        <physdesc id="ref111" label="General Physical Description note">
+                            <extent>00:40:58</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Buszard-Welcher, Laura A.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Wesaw, Martin</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref112">
+                        <head>Scope and Contents note</head>
+                        <p>Recollections in English, elicitations of Potawatomi verb paradigms for "walk," "hit," and "to be round," with general English conversation. Original tapes held at Berkeley Language Center, University of California, Berkeley. Original tape 9, program 2. Formerly numbered 12:1.</p>
+                    </scopecontent>
+                    <originalsloc id="ref114">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2858" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3456">
+                        <daodesc>
+                            <p>APSdigrec_2858</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Hartford (Mich.)</geogname>
+                        <subject source="lcsh">Potawatomi language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref115" level="file">
+                    <did>
+                        <unittitle>Interview and elicitations with Julia Wesaw</unittitle>
+                        <unitid>12-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1992-07-27</unitdate>
+                        <physdesc id="ref116" label="General Physical Description note">
+                            <extent>00:36:46</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Buszard-Welcher, Laura A.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Wesaw, Julia</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref117">
+                        <head>Scope and Contents note</head>
+                        <p>Elicitation of Potawatomi questions, variations of "go," seasons, and negated sentences, with general conversation. Original tapes held at Berkeley Language Center, University of California, Berkeley. Original tape 10, program 1. Formerly numbered 12:2.</p>
+                    </scopecontent>
+                    <originalsloc id="ref119">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2859" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3459">
+                        <daodesc>
+                            <p>APSdigrec_2859</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Hartford (Mich.)</geogname>
+                        <subject source="lcsh">Potawatomi language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref120" level="file">
+                    <did>
+                        <unittitle>Interview, texts, and elicitations with Martin Wesaw</unittitle>
+                        <unitid>12-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1992-07-27</unitdate>
+                        <physdesc id="ref121" label="General Physical Description note">
+                            <extent>00:43:27</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Buszard-Welcher, Laura A.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Wesaw, Martin</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref122">
+                        <head>Scope and Contents note</head>
+                        <p>Elicitation of Potawatomi sentences, words for directions, and review of material from earlier text, "Going to school." Original tapes held at Berkeley Language Center, University of California, Berkeley. Original tape 11, program 1. Formerly numbered 13:1.</p>
+                    </scopecontent>
+                    <originalsloc id="ref124">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2860" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3460">
+                        <daodesc>
+                            <p>APSdigrec_2860</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Hartford (Mich.)</geogname>
+                        <subject source="lcsh">Potawatomi language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref125" level="file">
+                    <did>
+                        <unittitle>Interview, texts, and elicitations with Martin Wesaw</unittitle>
+                        <unitid>13-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1992-07</unitdate>
+                        <physdesc id="ref126" label="General Physical Description note">
+                            <extent>00:43:36</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Buszard-Welcher, Laura A.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Wesaw, Martin</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref127">
+                        <head>Scope and Contents note</head>
+                        <p>Elicitation of miscellaneous Potawatomi vocabulary, discussion of old sayings, conversation about granddaughter, texts "Barney Google" and "Sorehead" given in Potawatomi and English, and "Getting lost" in English. Original tapes held at Berkeley Language Center, University of California, Berkeley. Original tape 11, program 2. Formerly numbered 14:1.</p>
+                    </scopecontent>
+                    <originalsloc id="ref129">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2861" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3462">
+                        <daodesc>
+                            <p>APSdigrec_2861</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Granddaughters</subject>
+                        <geogname source="ingest">Hartford (Mich.)</geogname>
+                        <subject source="ingest">Potawatomi Indians</subject>
+                        <subject source="lcsh">Potawatomi language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref130" level="file">
+                    <did>
+                        <unittitle>Interview and elicitations with Julia Wesaw</unittitle>
+                        <unitid>13-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1992-07-29</unitdate>
+                        <physdesc id="ref131" label="General Physical Description note">
+                            <extent>00:42:42</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Buszard-Welcher, Laura A.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Wesaw, Julia</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref132">
+                        <head>Scope and Contents note</head>
+                        <p>Elicitation of Potawatomi verbs and terms for clothing and household items. Original tapes held at Berkeley Language Center, University of California, Berkeley. Original tape 12, program 1. Formerly numbered 15:1.</p>
+                    </scopecontent>
+                    <originalsloc id="ref134">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2862" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3463">
+                        <daodesc>
+                            <p>APSdigrec_2862</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Clothing and dress</subject>
+                        <geogname source="ingest">Hartford (Mich.)</geogname>
+                        <subject source="lcsh">Potawatomi Indians--Domestic life</subject>
+                        <subject source="lcsh">Potawatomi language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref135" level="file">
+                    <did>
+                        <unittitle>Interview and elicitations with Julia Wesaw</unittitle>
+                        <unitid>14-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1992-07-29</unitdate>
+                        <physdesc id="ref136" label="General Physical Description note">
+                            <extent>00:40:09</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Buszard-Welcher, Laura A.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Wesaw, Julia</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref137">
+                        <head>Scope and Contents note</head>
+                        <p>Elicitation of Potawatomi verbs and adjectives. Original tapes held at Berkeley Language Center, University of California, Berkeley. Original tape 12, program 2. Formerly numbered 16:1.</p>
+                    </scopecontent>
+                    <originalsloc id="ref139">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2863" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3465">
+                        <daodesc>
+                            <p>APSdigrec_2863</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Hartford (Mich.)</geogname>
+                        <subject source="lcsh">Potawatomi language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref140" level="file">
+                    <did>
+                        <unittitle>Interview and elicitations with Julia Wesaw</unittitle>
+                        <unitid>14-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1992-07-29</unitdate>
+                        <physdesc id="ref141" label="General Physical Description note">
+                            <extent>00:43:01</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Buszard-Welcher, Laura A.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Wesaw, Julia</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref142">
+                        <head>Scope and Contents note</head>
+                        <p>Elicitation of Potawatomi words and phrases, primarily verbs, with terms for birds and clothing. Original tapes held at Berkeley Language Center, University of California, Berkeley. Original tape 13, program 1. Formerly numbered 17:1.</p>
+                    </scopecontent>
+                    <originalsloc id="ref144">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2864" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3466">
+                        <daodesc>
+                            <p>APSdigrec_2864</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Birds</subject>
+                        <subject source="ingest">Clothing and dress</subject>
+                        <geogname source="ingest">Hartford (Mich.)</geogname>
+                        <subject source="lcsh">Potawatomi language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref145" level="file">
+                    <did>
+                        <unittitle>Interview and elicitations with Julia Wesaw</unittitle>
+                        <unitid>15-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1992-07-29</unitdate>
+                        <physdesc id="ref146" label="General Physical Description note">
+                            <extent>00:27:19</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Buszard-Welcher, Laura A.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Wesaw, Julia</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref147">
+                        <head>Scope and Contents note</head>
+                        <p>Elicitation of Potawatomi words and phrases. Original tapes held at Berkeley Language Center, University of California, Berkeley. Original tape 13, program 2. Formerly numbered 17:2.</p>
+                    </scopecontent>
+                    <originalsloc id="ref149">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2865" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3467">
+                        <daodesc>
+                            <p>APSdigrec_2865</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Hartford (Mich.)</geogname>
+                        <subject source="lcsh">Potawatomi language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref150" level="file">
+                    <did>
+                        <unittitle>Interview with Martin Wesaw</unittitle>
+                        <unitid>15-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1992-07</unitdate>
+                        <physdesc id="ref151" label="General Physical Description note">
+                            <extent>00:43:28</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Buszard-Welcher, Laura A.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Wesaw, Martin</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref152">
+                        <head>Scope and Contents note</head>
+                        <p>Interview, with the text "Setting traps" given in Potawatomi and English, and "Getting lost" in Potawatomi. Conversation on growing fruits and vegetables. Elicitation of Potawatomi words related to fishing. Original tapes held at Berkeley Language Center, University of California, Berkeley. Original tape 14, program 1. Formerly numbered 18:1.</p>
+                    </scopecontent>
+                    <originalsloc id="ref154">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2866" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3470">
+                        <daodesc>
+                            <p>APSdigrec_2866</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Fishing</subject>
+                        <subject source="ingest">Fruits</subject>
+                        <geogname source="ingest">Hartford (Mich.)</geogname>
+                        <subject source="lcsh">Potawatomi language</subject>
+                        <subject source="ingest">Trapping</subject>
+                        <subject source="ingest">Vegetable gardening</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref155" level="file">
+                    <did>
+                        <unittitle>Interview and elicitations with Martin Wesaw</unittitle>
+                        <unitid>16-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1992-07</unitdate>
+                        <physdesc id="ref156" label="General Physical Description note">
+                            <extent>00:40:01</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Buszard-Welcher, Laura A.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Wesaw, Martin</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref157">
+                        <head>Scope and Contents note</head>
+                        <p>Elicitation of Potawatomi words and phrases, primarily verbs and terms for clothing. Original tapes held at Berkeley Language Center, University of California, Berkeley. Original tape 14, program 2. Formerly numbered 19:1.</p>
+                    </scopecontent>
+                    <originalsloc id="ref159">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2867" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3472">
+                        <daodesc>
+                            <p>APSdigrec_2867</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Clothing and dress</subject>
+                        <geogname source="ingest">Hartford (Mich.)</geogname>
+                        <subject source="lcsh">Potawatomi language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref160" level="file">
+                    <did>
+                        <unittitle>Interview and elicitations with Martin Wesaw</unittitle>
+                        <unitid>16-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1992-07</unitdate>
+                        <physdesc id="ref161" label="General Physical Description note">
+                            <extent>00:34:53</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Buszard-Welcher, Laura A.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Wesaw, Martin</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref162">
+                        <head>Scope and Contents note</head>
+                        <p>Elicitation of Potawatomi verb paradigms for "hit," "see," and "cry." Original tapes held at Berkeley Language Center, University of California, Berkeley. Original tape 15, program 1. Formerly numbered 19:2.</p>
+                    </scopecontent>
+                    <originalsloc id="ref164">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2868" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3471">
+                        <daodesc>
+                            <p>APSdigrec_2868</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Hartford (Mich.)</geogname>
+                        <subject source="lcsh">Potawatomi language</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

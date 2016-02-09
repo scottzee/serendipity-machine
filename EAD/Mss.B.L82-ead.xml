@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.L82-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.L82</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T19:40-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Selections from the correspondence of the Honourable James Logan, 1699-1750</unittitle>
+            <unitid>Mss.B.L82</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1401" type="Volume" label="Manuscripts">1-4</container>
+            <physdesc>
+                <extent>4.0 Volume(s)</extent>
+                <extent>4 volumes, copies</extent>
+            </physdesc>
+            <unitdate normal="1699/1750" type="inclusive">1699-1750</unitdate>
+            <physdesc id="ref10" label="General Physical Description note">4 volumes, copies.</physdesc>
+            <abstract id="ref1" label="Abstract">Copied by Mrs. Deborah Norris Logan from original letters and papers in her family, with additions by J. Francis Fisher and Redmond Conyngham. Includes Logan's correspondence with William Penn, Hannah Callowhill Penn, Isaac Norris, Governor George Clarke of New York, Governor William Gooch of Virginia, and Governor George Thomas of Pennsylvania. Contains materials regarding early Philadelphia and Indian and colonial affairs.</abstract>
+            <physloc id="ref13" label="Paging">LH-MV-E-3</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Logan, James, 1674-1751</persname>
+            </origination>
+        </did>
+        <originalsloc id="ref11">
+            <head>Existence and Location of Originals note</head>
+            <p>Copies of original papers in the Historical Society of Pennsylvania.</p>
+        </originalsloc>
+        <acqinfo id="ref9">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by Dr. and Mrs. George Logan, 1817-1819, and by Redmond Conyngham and J. Francis Fisher; accessioned, 1900. See in-house shelf list for additional accession numbers.</p>
+        </acqinfo>
+        <altformavail id="ref5">
+            <head>Existence and Location of Copies note</head>
+            <p>Printed in large part in 
+                <emph render="italic">Correspondence Between William Penn and James Logan</emph> (Historical Society of Pennsylvania, Memoirs 9, 10 [1870-1872]). Among the items not included in this work are Logan's letters to Governors George Clarke of New York, Sir William Gooch of Virginia, and George Thomas of Pennsylvania, 1737-1745, on Indian and general colonial policies; extracts from Logan's commercial letterbook, 1717; and letters on literary topics, book purchases, and his library, including letters to Peter Collinson, Benjamin Franklin, Abraham Redwood, and John Whiston.</p>
+        </altformavail>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>James Logan was a merchant, statesman, and scholar.</p>
+        </bioghist>
+        <odd id="ref12">
+            <head>Early American History Note</head>
+            <p>These four volumes of letters are edited transcriptions of letters now at the HSP. The letters were edited by Deborah Norris Logan, who authored books on colonial Pennsylvania history in the nineteenth century. Although many of the letters are nearly complete, Norris occasionally summarizes content rather than transcribe it. There are some letters that are not from or to Logan, but were likely in his possession. Among those are letters from Conrad Weiser, Richard Peters, and Thomas Lee of Virginia. Although the letters are from 1674-1751, most are from the first quarter of the eighteenth century.</p>
+            <p>This collection of Logan correspondence consists of four bound volumes compiled by Deborah Norris Logan. The first volume opens with a biographical profile of Logan. The remaining part of this volume and the other three contain Deborah’s transactions of his letters. These letters, most of which are in original form at the HSP, contain much of Logan’s official correspondence as a representative of the proprietor. Conrad Weiser is a regular letter writer, and some of his correspondence is addressed to people other than James Logan. There is a significant number of letters to/from William Penn, and a lot of the material touches on colonial politics, especially Indian affairs.</p>
+            <p>The volumes organize Logan’s correspondence by theme or event. For instance, there is a section on Logan’s correspondence with William Penn up until 1704, another section on Governor Evans’ “false alarm,” when he claimed Philadelphia was about to be attacked, and a section on Indian and colonial affairs. The volumes are intended to move chronological and convey a clear perspective on the colony’s history and Logan’s place within it. Each volume contains a rough table of contents compiled by Deborah that outlines her organization of the letters.</p>
+        </odd>
+        <controlaccess>
+            <persname rules="aacr" source="naf">Conyngham, Redmond, 1781-1846</persname>
+            <persname rules="aacr" source="naf">Fisher, Joshua Francis, 1807-1873</persname>
+            <persname source="ingest">Logan, Deborah Norris, 1761-1839</persname>
+            <persname rules="aacr" source="naf">Norris, Isaac, 1671-1735</persname>
+            <persname rules="aacr" source="naf">Penn, Hannah Callowhill, 1671-1726 </persname>
+            <persname source="ingest">Penn, William,1644-1718.</persname>
+            <subject source="leah">Colonial Politics</subject>
+            <subject source="leah">Government Affairs</subject>
+            <genreform source="leah">Official Government Documents and Records</genreform>
+            <subject source="leah">Pennsylvania History</subject>
+            <geogname source="lcsh">Philadelphia (Pa.) -- Politics and government.</geogname>
+            <genreform source="leah">Political Correspondence</genreform>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

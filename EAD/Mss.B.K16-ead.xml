@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.K16-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.K16</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T19:36-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>B. P. (Berwind Peterson) Kaufmann papers, 1962-1967</unittitle>
+            <unitid>Mss.B.K16</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1365" type="Bin" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>0.25 Linear feet</extent>
+                <extent>9 items</extent>
+            </physdesc>
+            <unitdate normal="1962/1967" type="inclusive">1962-1967</unitdate>
+            <physdesc id="ref11" label="General Physical Description note">9 items.</physdesc>
+            <abstract id="ref6" label="Abstract">This collection contains some letters, but mostly there are copies of manuscripts by Kaufmann and others, concerning genetics in medical schools, and chromosone changes produced by drugs.</abstract>
+            <physloc id="ref30" label="Paging">LH-MV-C-12</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Kaufmann, B. P.,  (Berwind Peterson), 1897-1975</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref10">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Received and accessioned, 03/15/1981 (1981 225ms).</p>
+        </acqinfo>
+        <bioghist id="ref8">
+            <head>Biographical/Historical note</head>
+            <p>Berwind Peterson Kaufmann was a biologist.</p>
+        </bioghist>
+        <odd id="ref29">
+            <head>Genetics Note</head>
+            <p>This collection contains materials which relate to the history of genetics.</p>
+            <p>
+                <table>
+                    <tgroup cols="3">
+                        <colspec colwidth="30%" colname="1"/>
+                        <colspec colname="2"/>
+                        <colspec colname="3"/>
+                        <thead>
+                            <row>
+                                <entry colname="1">Author</entry>
+                                <entry colname="2">Format</entry>
+                                <entry colname="3">Date</entry>
+                            </row>
+                        </thead>
+                        <tbody>
+                            <row>
+                                <entry valign="top" align="left">
+                                    <ref target="ref13">Deepesh, N. D.</ref></entry>
+                                <entry valign="top" align="left">Correspondence (1 item)</entry>
+                                <entry valign="top" align="left">1962</entry>
+                            </row>
+                            <row>
+                                <entry valign="top" align="left">Kaufmann, Berwind Peterson -- 
+                                    <ref target="ref15">Preliminary Proposals for a Program in Medical Genetics in a Medical School</ref></entry>
+                                <entry valign="top" align="left">Manuscripts (8 pages)</entry>
+                                <entry valign="top" align="left">n.d.</entry>
+                            </row>
+                            <row>
+                                <entry valign="top" align="left">Kaufmann, Berwind Peterson -- 
+                                    <ref target="ref17">Scientific Contributions of B. P. Kaufmann</ref></entry>
+                                <entry valign="top" align="left">Manuscripts (10 pages)</entry>
+                                <entry valign="top" align="left">1964</entry>
+                            </row>
+                            <row>
+                                <entry valign="top" align="left">Kaufmann, Berwind Peterson and Schuler, Dezso -- 
+                                    <ref target="ref23">Genetic and Chromosome Changes Produced by Drugs</ref></entry>
+                                <entry valign="top" align="left">Manuscripts (18 pages)</entry>
+                                <entry valign="top" align="left">Circa 1965</entry>
+                            </row>
+                            <row>
+                                <entry valign="top" align="left">
+                                    <ref target="ref19">Klein, Richard M.</ref></entry>
+                                <entry valign="top" align="left">Correspondence (8 items)</entry>
+                                <entry valign="top" align="left">1962</entry>
+                            </row>
+                            <row>
+                                <entry valign="top" align="left">
+                                    <ref target="ref21">Krivshenko, Jakov D.</ref></entry>
+                                <entry valign="top" align="left">Correspondence (2 items)</entry>
+                                <entry valign="top" align="left">1963</entry>
+                            </row>
+                            <row>
+                                <entry valign="top" align="left">
+                                    <ref target="ref25">von Borstel, R. C.</ref></entry>
+                                <entry valign="top" align="left">Correspondence (2 items)</entry>
+                                <entry valign="top" align="left">1964</entry>
+                            </row>
+                            <row>
+                                <entry valign="top" align="left">Wimber, Donald E. -- 
+                                    <ref target="ref27">Chromosome Breakage Produced by Tritium-labeled Thymidine in Tradescantia Paludosa</ref></entry>
+                                <entry valign="top" align="left">Manuscripts (15 pages)</entry>
+                                <entry valign="top" align="left">n.d.</entry>
+                            </row>
+                        </tbody>
+                    </tgroup>
+                </table></p>
+        </odd>
+        <controlaccess>
+            <famname source="ingest">Deepesh, N. D.</famname>
+            <persname rules="aacr" source="naf">Klein, Richard M, 1937-</persname>
+            <persname rules="aacr" source="local">Krivshenko, J. D.</persname>
+            <persname rules="aacr" source="naf">Schuler, Dezso</persname>
+            <persname rules="aacr" source="naf">Von Borstel, R. C. </persname>
+            <persname rules="aacr" source="naf">Wimber, Donald E., 1930-1997</persname>
+            <subject source="lcsh">Genetics.</subject>
+            <genreform source="lcsh">Manuscripts (for publication).</genreform>
+            <subject source="lcsh">Medical genetics.</subject>
+            <subject source="lcsh">Medicine -- Study and teaching.</subject>
+            <subject source="lcsh">Pharmacogenetics.</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref12" level="series">
+                <did>
+                    <unittitle>Selected Inventory from Genetics Subject Guide</unittitle>
+                </did>
+                <c02 id="ref13" level="file">
+                    <did>
+                        <unittitle>Deepesh, N. D.</unittitle>
+                        <unitdate>1962</unitdate>
+                        <physdesc id="ref14" label="General Physical Description note">Correspondence ( 1 item )</physdesc>
+                    </did>
+                    <controlaccess>
+                        <subject source="local">Bacterial genetics</subject>
+                        <subject source="local">Molecular genetics</subject>
+                        <subject source="local">Radiation genetics</subject>
+                        <subject source="local">Requests for reprints</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref15" level="file">
+                    <did>
+                        <unittitle>Preliminary Proposals for a Program in Medical Genetics in a Medical School</unittitle>
+                        <unitdate>n.d.</unitdate>
+                        <physdesc id="ref16" label="General Physical Description note">Manuscripts ( 8 pages )</physdesc>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf" role="Author (aut)">Kaufmann, B. P.,  (Berwind Peterson), 1897-1975</persname>
+                        </origination>
+                    </did>
+                    <controlaccess>
+                        <subject source="local">Educational matters</subject>
+                        <subject source="local">Graduate study</subject>
+                        <subject source="local">Human genetics</subject>
+                        <subject source="local">Medical research</subject>
+                        <subject source="local">Unpublished manuscripts, notes, etc.</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref17" level="file">
+                    <did>
+                        <unittitle>Scientific Contributions of B. P. Kaufmann</unittitle>
+                        <unitdate>1964</unitdate>
+                        <physdesc id="ref18" label="General Physical Description note">Manuscripts ( 10 pages )</physdesc>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf" role="Author (aut)">Kaufmann, B. P.,  (Berwind Peterson), 1897-1975</persname>
+                        </origination>
+                    </did>
+                    <controlaccess>
+                        <subject source="local">Bibliographical matters</subject>
+                        <subject source="local">Unpublished manuscripts, notes, etc.</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref23" level="file">
+                    <did>
+                        <unittitle>Genetic and Chromosome Changes Produced by Drugs</unittitle>
+                        <unitdate>Circa 1965</unitdate>
+                        <physdesc id="ref24" label="General Physical Description note">Manuscripts ( 18 pages )</physdesc>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf" role="Author (aut)">Kaufmann, B. P.,  (Berwind Peterson), 1897-1975</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf" role="Author (aut)">Schuler, Dezso</persname>
+                        </origination>
+                    </did>
+                    <controlaccess>
+                        <subject source="local">Biochemistry and organic chemistry</subject>
+                        <subject source="local">Cytogenetics</subject>
+                        <subject source="local">Human genetics</subject>
+                        <subject source="local">Medical research</subject>
+                        <subject source="local">Molecular genetics</subject>
+                        <subject source="local">Photographs</subject>
+                        <subject source="local">Population genetics</subject>
+                        <subject source="local">Unpublished manuscripts, notes, etc.</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref19" level="file">
+                    <did>
+                        <unittitle>Klein, Richard M.</unittitle>
+                        <unitdate>1962</unitdate>
+                        <physdesc id="ref20" label="General Physical Description note">Correspondence ( 8 items )</physdesc>
+                    </did>
+                    <controlaccess>
+                        <subject source="local">Cytogenetics</subject>
+                        <subject source="local">Drosophila genetics</subject>
+                        <subject source="local">Editorial matters</subject>
+                        <subject source="local">Genetics of plants</subject>
+                        <subject source="local">Molecular genetics</subject>
+                        <subject source="local">Publication -- American Journal of Botany</subject>
+                        <subject source="local">Radiation genetics</subject>
+                        <subject source="local">Unpublished manuscripts, notes, etc.</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref21" level="file">
+                    <did>
+                        <unittitle>Krivshenko, Jakov D.</unittitle>
+                        <unitdate>1963</unitdate>
+                        <physdesc id="ref22" label="General Physical Description note">Correspondence ( 2 items )</physdesc>
+                    </did>
+                    <controlaccess>
+                        <subject source="local">Cytogenetics</subject>
+                        <subject source="local">Drosophila genetics</subject>
+                        <subject source="local">Laboratory techniques, equipment</subject>
+                        <subject source="local">Radiation genetics</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref25" level="file">
+                    <did>
+                        <unittitle>von Borstel, R. C.</unittitle>
+                        <unitdate>1964</unitdate>
+                        <physdesc id="ref26" label="General Physical Description note">Correspondence ( 2 items )</physdesc>
+                    </did>
+                    <controlaccess>
+                        <subject source="local">Cytogenetics</subject>
+                        <subject source="local">Duryee, William R.</subject>
+                        <subject source="local">Editorial matters</subject>
+                        <subject source="local">McClintock, Barbara</subject>
+                        <subject source="local">Miller, Oscar</subject>
+                        <subject source="local">Radiation genetics</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref27" level="file">
+                    <did>
+                        <unittitle>Chromosome Breakage Produced by Tritium-labeled Thymidine in Tradescantia Paludosa</unittitle>
+                        <unitdate>n.d.</unitdate>
+                        <physdesc id="ref28" label="General Physical Description note">Manuscripts ( 15 pages )</physdesc>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf" role="Author (aut)">Wimber, Donald E., 1930-1997</persname>
+                        </origination>
+                    </did>
+                    <controlaccess>
+                        <subject source="local">Cytogenetics</subject>
+                        <subject source="local">Genetics of plants</subject>
+                        <subject source="local">Radiation genetics</subject>
+                        <subject source="local">Unpublished manuscripts, notes, etc.</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

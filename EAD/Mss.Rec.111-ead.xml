@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Rec.111-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Rec.111</num>
+                </titleproper>
+                <author>Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T21:10-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Papago and Pima oral literature</unittitle>
+            <unitid>Mss.Rec.111</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="mul"/>
+            </langmaterial>
+            <physdesc>
+                <extent>132.0 Reel(s)</extent>
+            </physdesc>
+            <unitdate normal="1977/1978" type="inclusive">1977-1978</unitdate>
+            <physdesc id="ref5" label="General Physical Description">132 sound tape reels (87 hr., 28 min.) : analog, 3 3/4 ips, 2 track, mono ; 5 in., 7 in.</physdesc>
+            <abstract id="ref4" label="Abstract">Papago and Pima oral literature tapes. Includes a variety of songs; discussions of curing practices and sand paintings; war orations and other speeches; myths; etc. Papago informants: Jose Manol, Juan Gregorio, Lupe Antone, Rosana Ventura, Ligali (Mrs. Masi Loin), B. Lopez family, Maila Kelaila, Frances Ventura, Mendes Lopez, Arturo Mendez, Listo Antone, Chico Moreno, Jose Hillman Ventura, Jose Pancho, Baptisto Lopez. Pima informant: Paul Manuel. Recorded at: Ak Cin and Sikol Himadk, Papago Reservation, Arizona; Santa Rosa, Arizona; Phoenix, Arizona.</abstract>
+            <physloc id="ref9" label="Paging">LH-B-32-3</physloc>
+        </did>
+        <bioghist id="ref7">
+            <head>Biographical/Historical note</head>
+            <p>Dr. Donald M. Bahr, then a Professor of Anthropology at Arizona State University, presented the collection in two lots, in July and August 1978.</p>
+        </bioghist>
+        <arrangement id="ref6">
+            <head>Arrangement note</head>
+            <p>The tapes are arranged in the same groupings that Bahr placed them in, however, his numbering system for the separate series was not retained at the APS. Since the Tape Inventories sent by Bahr were keyed to his numbering system they have now been cross-indexed to the APS Rec. 111 series.</p>
+        </arrangement>
+        <acqinfo id="ref8">
+            <head>Immediate Source of Acquisition</head>
+            <p>Donated by Donald Bahr in 1978 (Accs.1978 1057rec (A-K); 1978 1107 (L-O)). This material was recorded with the assistance of a Phillips Fund grant.</p>
+        </acqinfo>
+        <accessrestrict id="ref2">
+            <head>Conditions Governing Access</head>
+            <p>This collection is restricted. Patrons must obtain written permission from Dr. Bahr to copy or reproduce any of the material.</p>
+        </accessrestrict>
+        <controlaccess>
+            <persname rules="aacr" source="naf" role="Collector (col)">Bahr, Donald M. </persname>
+            <subject source="lcsh">Indians of Mexico</subject>
+            <subject source="lcsh">Indians of Mexico--Music</subject>
+            <subject source="lcsh">Pima Indians</subject>
+            <subject source="lcsh">Pima Indians--Folklore</subject>
+            <genreform source="ingest">Sound recordings</genreform>
+            <subject source="lcsh">Tohono O'Odham Indians</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.B855-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.B855</num>
+                </titleproper>
+                <author>Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:55-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Francis Trevelyan Buckland letters, 1863-1872</unittitle>
+            <unitid>Mss.B.B855</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid375" type="Box" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>0.25 Linear feet</extent>
+                <extent>24 items</extent>
+            </physdesc>
+            <unitdate normal="1863/1872" type="inclusive">1863-1872</unitdate>
+            <physdesc id="ref4" label="General Physical Description note">24 items.</physdesc>
+            <abstract id="ref1" label="Abstract">This small collection concerns lectures by Buckland, poisonous snakes and other specimens, salmon fisheries and industry, Darwin and evolution, experimentation with oils and with birds.</abstract>
+            <physloc id="ref5" label="Paging">LH-MV-C-2</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Bovill, Maria Bolton</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Buckland, Francis T.,  (Francis Trevelyan), 1826-1880</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="local" role="Correspondent (crp)">Crooks, J.,  (James)</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Layard, Austen Henry, Sir, 1817-1894</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Ord, William Miller, 1834-1902</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="local" role="Correspondent (crp)">Redmayle, G.</persname>
+            </origination>
+        </did>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>Francis T. Buckland, an English naturalist and the son of geographer William Buckland, worked mainly as an ichthyologist but also published articles on paleontology and the history of geology.</p>
+        </bioghist>
+        <acqinfo id="ref2">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Purchased from John Wilson (£75) and accessioned, 04/02/1979 (1979 696ms).</p>
+        </acqinfo>
+        <controlaccess>
+            <persname rules="aacr" source="naf">Darwin, Charles, 1809-1882</persname>
+            <subject source="lcsh">Birds -- Research -- England.</subject>
+            <subject source="lcsh">Evolution.</subject>
+            <subject source="lcsh">Natural history -- Study and teaching.</subject>
+            <subject source="lcsh">Salmon fisheries.</subject>
+            <subject source="lcsh">Salmon industry.</subject>
+            <subject source="lcsh">Zoological specimens.</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

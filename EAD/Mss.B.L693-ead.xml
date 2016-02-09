@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.L693-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.L693</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T19:40-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Joseph Jackson Lister account books, 1810-1849</unittitle>
+            <unitid>Mss.B.L693</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1397" type="Volume" label="Manuscripts">1-2</container>
+            <physdesc>
+                <extent>2.0 Volume(s)</extent>
+                <extent>2 volumes, ca. 278 p.</extent>
+            </physdesc>
+            <unitdate normal="1810/1849" type="inclusive">1810-1849</unitdate>
+            <physloc id="ref16" label="Paging">LH-MV-E-3; LH-MV-E-14</physloc>
+            <abstract id="ref8" label="Abstract">These account books record receipts and expenditures, interest, profit and loss, repairs, stock shares, wages, income tax, etc.</abstract>
+            <physdesc id="ref15" label="General Physical Description note">2 volumes, ca. 278 p.</physdesc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Lister, Joseph Jackson,1786-1869.</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref14">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Purchased from Wreden ($449.21) and accessioned, 06/21/1972 (1972 1230ms).</p>
+        </acqinfo>
+        <altformavail id="ref12">
+            <head>Existence and Location of Copies note</head>
+            <p>These volumes are also available on microfilm (Film 1302).</p>
+        </altformavail>
+        <bioghist id="ref10">
+            <head>Biographical/Historical note</head>
+            <p>Joseph Jackson Lister, who was the father of Lord Lister, was the discoverer of the law of aplanatic foci in microscopic objectives, the principle upon which modern microscopes are constructed.</p>
+        </bioghist>
+        <odd id="ref17">
+            <head>Early American History Note</head>
+            <p>This manuscript collection falls outside the geographic scope of the Early American guide (British North America and the United States before 1840). It may be of interest to scholars interested in global history, international relations, imperialism, or the U.S. in the world.</p>
+        </odd>
+        <controlaccess>
+            <genreform source="lcsh">Account books.</genreform>
+            <subject source="leah">Beyond Early America</subject>
+            <subject source="lcsh">Scientists -- Great Britain.</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

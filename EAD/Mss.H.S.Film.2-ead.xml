@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.H.S.Film.2-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.H.S.Film.2</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T20:16-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Thomas Henry Huxley papers, 1846-1895</unittitle>
+            <unitid>Mss.H.S.Film.2</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1944" type="Reel" label="Manuscripts">1-20</container>
+            <physdesc>
+                <extent>20.0 Microfilm reel(s)</extent>
+            </physdesc>
+            <unitdate normal="1846/1895" type="inclusive">1846-1895</unitdate>
+            <physdesc id="ref7" label="General Physical Description note">20 microfilm reels.</physdesc>
+            <physloc id="ref9" label="Paging">LH-RR-Media Rm-7</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Huxley, Thomas Henry, 1825-1895</persname>
+            </origination>
+        </did>
+        <relatedmaterial id="ref8">
+            <head>Related Archival Materials note</head>
+            <p>See also the 
+                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.H981-ead.xml">Thomas Henry Huxley Papers (Mss.B.H981)</extref>.</p>
+        </relatedmaterial>
+        <acqinfo id="ref6">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Received from Imperial College of Science and Technology, London, England, and accessioned, 12/--/1963 (1963 2427mf).</p>
+        </acqinfo>
+        <bioghist id="ref4">
+            <head>Biographical/Historical note</head>
+            <p>Thomas Henry Huxley (1825-1895, APS 1869) was an eminent Victorian surgeon, biologist, and educator best known as a passionate defender and popularizer of Darwin's theory of evolution. His partisanship earned him the nickname of "Darwin's Bulldog," although he did not accept the theory uncritically. In addition to his work in biology, he did original research in zoology and paleontology. He is also remembered as the progenitor of a family of highly successful scientists and thinkers.</p>
+            <p>Huxley was born on May 4, 1825 in Ealing, outside of London, the seventh of eight children of George Huxley and Rachel Withers. His family was not well-off, and his formal schooling was limited. Largely self-taught, he read extensively in a variety of subjects, began a medical apprenticeship at age 15, and soon won a scholarship with his brother James to study at Charing Cross Hospital. At Charing Cross his teacher Thomas Wharton Jones inspired his interests in physiology and anatomy, and assisted him with the publication of his first scientific paper on the discovery of a new layer of cells (Huxley’s layer) in the root sheath of a hair. In 1845 Huxley passed the M.B. examination at London University and subsequently the test for membership in the Royal College of Surgeons.</p>
+            <p>Afterward, Huxley took the position of assistant surgeon aboard the Royal Navy frigate 
+                <emph render="italic">H.M.S. Rattlesnake </emph>, when he was 21. This proved to be an important turning-point in his life, and set the course of his career toward zoology, rather than medicine. While the crew charted the seas around Australia and New Guinea, Huxley collected and studied specimens of marine invertebrates and mailed his research results back to England from each port of call. With limited equipment he focused his attention on the ample varieties of planktontic life. After extensive onboard dissections and library research in Sydney, Australia, he also submitted several papers to the Linnean Society, but received no reply. Through his studies Huxley was able to bring greater order to the classification of these minute organisms, instead of putting them in catchall categories like Linnaeus’s Vermes or Cuvier’s Radiata.</p>
+            <p>When he returned to England in 1850, Huxley found that his shipboard research had been well-received by the scientific establishment, and he became acquainted with the top rung of British scientists and thinkers, including the botanist Joseph Hooker, the geologist Charles Lyell, the philosopher Herbert Spencer, and the naturalist Charles Darwin. In 1849 he had sent a major paper “On the Anatomy and the Affinities of the family of the Medusae” to the Royal Society of London, and by the time 
+                <emph render="italic">Rattlesnake</emph> was back in port, his paper had appeared in the Philosophical Transactions. Although for the next several years Huxley was forced to support himself on a naval stipend and by writing popular science articles, success was close at hand. He was elected a fellow of the Royal Society in 1850, and received the Royal Medal in 1852. In 1854 he was appointed to a lectureship at the School of Mines in London.</p>
+            <p>Huxley’s early zoological research was on invertebrates—cnidaria (jellyfish), filter feeding ascidians (like sea squirts) and cephalopods (mollusks). He published another major paper on mollusks in 1853, entitled “On the Morphology of the Cephalous Mollusca” in which he first distinguished his theoretical notions of the development of species. He opened the paper with a quote from Richard Owen, “the highest authority,” in order to assert what he considered to be the “true aims of anatomical investigation”. Although Huxley used Owen’s favorite term “archetype,” he meant something different in his use of the term. Unlike Owen, who understood archetypes in a platonic or “naturphilosophische” sense, Huxley understood it merely as “the conception of a form embodying the most general propositions that can be affirmed” about an organism. Within a given class, such as the cephalopods, he believed the members might vary. Furthermore, he rejected the notion of any progression from a “lower” to a “higher” type within a group. Drawing upon the German zoological literature, Huxley used the term “evolution” in its historic sense, of an unrolling or [embryological] unfolding.</p>
+            <p>In 1854, after Huxley succeeded Edward Forbes as lecturer in the Government School of Mines, he shifted the focus of his research from invertebrates to vertebrates. The shift resulted from his new duties as a lecturer on natural history, that required him to prepare lectures on biological topics previously unfamiliar to him. He also had responsibilities with the Geological Survey that exposed him to a whole range of vertebrate fossils, which involved him in problems of geology and paleontology for the first time. These experiences would prove invaluable for Huxley in preparing him to understand and appreciate the Darwinian concepts of evolution about to unfold.</p>
+            <p>In the late 1850s Huxley began an investigation of the embryology of vertebrates that culminated in his Croonian lecture of 1858 to the Royal Society “On the Theory of the Vertebrate Skull.” His goal in the lecture was to put morphological studies on a more scientific basis, especially by using embryological criteria. Once again drawing upon the tradition of German biology exemplified by K.E. von Baer and M.H. Rathke, Huxley established the thesis that various vertebrate skulls are simply modifications of the same basic type.</p>
+            <p>By 1859 Huxley’s broad background in vertebrate and invertebrate zoology and paleontology prepared him for the role he was about to play in the Evolution controversy. He was at first opposed to any ideas of evolution, criticizing the theories of Lamarck and Chambers. By contrast, Huxley, response to Darwin's 
+                <emph render="italic">Origin of Species </emph>was quite favorable. He was reported to comment, "How stupid of me not to have thought of that." Indeed, after reading a prepublication copy of the 
+                <emph render="italic">Origin</emph>, he wrote to Darwin that nothing had impressed him more since his reading of Baer. He differed from Darwin in that he believed that the evolution was capable of making rapid changes, while Darwin saw it as a slow, steady process. Huxley warned Darwin of the abuse that his theory was likely to engender, and emerged as his most prominent English defender, nicknamed “Darwin’s Bulldog”. Huxley became well-known as a result of his famous debate with the Archbishop Samuel Wilberforce on the subject of evolution in June, 1860 at Oxford, sponsored by the British Association for the Advancement of Science. It is widely agreed that Huxley was the clear winner over Wilberforce in the debate, giving a reasoned and impassioned defense of evolution.</p>
+            <p>Huxley published 
+                <emph render="italic">Evidence on Man's Place in Nature </emph>in 1863, five years after the appearance of Darwin's 
+                <emph render="italic">Origin of Species. </emph>This book, probably his best known, presented a comprehensive review of human and primate paleontology, and is credited as being the first to explicitly apply the concept of evolution to the human race. Throughout his public life, Huxley found himself severely criticized by members of the clergy. He also had an on-going argument with the anatomist and taxonomist Richard Owen, who believed that primates lacked a hippocampus in their brains and therefore evolution from ape to man was impossible. Huxley was able to prove conclusively that primate brains do contain a hippocampus, which tarnished Owen's reputation as a scientist. Their dispute was satirized by Charles Kingsley in his children's book, 
+                <title render="italic">The Water-Babies.</title></p>
+            <p>Apart from his involvement in the Darwinian debate, Huxley’s own most notable scientific research in the 1860s continued his earlier work on vertebrates. One of his chief contributions was to revise the taxonomy of several animal groups, based upon his own observations of their osteological characteristics (i.e. bone structure). In what was probably the first comparative study of a single avian organ system, Huxley divided birds into three principal groups: Saururae, Ratitae and Carinatae, based upon the bony structure of their palate.</p>
+            <p>In his paleontological research Huxley revised the work of Louis Agassiz on Devonian fishes, based upon the new and growing collections to which he had access, as well as his own extensive studies of piscine embryology. He also did work on early tetrapods such as the Anthracosaurus of the Mississippian period. No doubt, Huxley’s most important contribution to paleontology was his study of Mesozoic reptiles, particularly dinosaurs. Perhaps as a result of his recent study of birds, he recognized that the bone structure of all dinosaurs had a strong ornithic character in the tetraradiate arrangement of the ililum, ischium, pubis and the femur. Huxley established the order Ornithischia for these reptiles, which included such forms as the Iguanodon. On the basis of their specific similarities, as well as more general evidence Huxley combined birds and reptiles into a single division, the Sauropsida. This was one of his three great divisions of Vertebrata; the others being Ichthyopsida (fishes and amphibians) and Mammalia.</p>
+            <p>In addition to his contributions to zoology, Huxley was a scientific educator, from his appointment as lecturer in the Government School of Mines in 1854 until the end of his life. In 1872 the School of Mines was incorporated in to the Royal College of Science, after which laboratory work became a principal part of Huxley’s courses. In his view, students’ work in the laboratory ought to include dissection and observation to verify the facts stated in the texts and in the lectures. As an innovative and popular science educator, Huxley did not limit instruction to the academy. As Fullerian professor at the Royal Institution, he gave a number of Friday evening lectures, and presented a wide array of special lectures at various locations. Of all his public lectures, Huxley was most interested in the series of workingmen’s lectures that he presented on a regular basis, beginning in 1855. He declared that he was “sick of the dilettante middle class” and wished to try his skill educating the working classes, who attended his lectures in large numbers. Huxley refused to talk down to his audiences, believing firmly that even the most complex ideas could be understood by the majority of the populace, if they were clearly and logically presented , step-by-step. Several of his finest addresses, such as his series on man’s place in nature or his 1868 talk “On a Piece of Chalk,” were presented to working people. For his accomplishments as a zoologist, paleontologist and educator Huxley was elected to membership in the American Philosophical Society in 1869.</p>
+            <p>Huxley's personal life also bears mention. He married Henrietta Heathorn in 1855, after an eight-year engagement dating from the time 
+                <emph render="italic">Rattlesnake </emph>put into port in Sydney, Australia in 1847. They had eight children. Their eldest surviving son, Leonard, was well-respected as a biographer and man of letters. Leonard's eldest son, Julian, was a biologist and one of the leading figures in 20th century evolutionary synthesis. Leonard's youngest son, Andrew, shared the 1963 Nobel Prize in Physiology or Medicine for his work on nerve impulses and muscle contraction. Both sons were knighted. Leonard's middle son, Aldous, was a prominent figure in modern English literature, best known for his anti-utopian novel, 
+                <title render="italic">Brave New World.</title></p>
+            <p>Deafness eventually ended Huxley’s public speaking engagements, although he broke his silence in 1893 with the Romanes lecture on “Evolution and Ethics” at Oxford. In March of 1895 Huxley suffered a bout of influenza that led to bronchitis. Severely weakened, he suffered a heart attack at the end of June, and died on June 29, 1895.</p>
+        </bioghist>
+        <originalsloc id="ref2">
+            <head>Existence and Location of Originals note</head>
+            <p>Originals in Imperial College of Science and Technology, London, England.</p>
+        </originalsloc>
+        <controlaccess>
+            <persname rules="aacr" source="naf">Darwin, Charles, 1809-1882</persname>
+            <persname rules="aacr" source="naf">Dohrn, Anton, 1840-1909</persname>
+            <persname rules="aacr" source="local">Donnelly, John Fretchfield Dykes, Sir, 1834-1902</persname>
+            <persname rules="aacr" source="naf">Foster, M., Sir,  (Michael), 1836-1907</persname>
+            <persname source="ingest">Haeckel, Ernst Heinrich Philip August</persname>
+            <persname source="naf">Hooker, Joseph Dalton, Sir, 1817-1911</persname>
+            <persname source="naf">Lankester, E. Ray, Sir,  (Edwin Ray), 1847-1929</persname>
+            <persname source="naf">Lyell, Charles, Sir, 1797-1875</persname>
+            <persname source="ingest">Spencer, Herbert, 1820-1903</persname>
+            <persname rules="aacr" source="naf">Tyndall, John, 1820-1893</persname>
+            <persname source="ingest">Wright, Edward Perceval, 1834-1910</persname>
+            <subject source="lcsh">Anthropology</subject>
+            <subject source="lcsh">Biology.</subject>
+            <subject source="lcsh">Evolution.</subject>
+            <subject source="lcsh">Fisheries.</subject>
+            <subject source="lcsh">Geology.</subject>
+            <subject source="lcsh">Natural history.</subject>
+            <subject source="lcsh">Paleontology.</subject>
+            <subject source="lcsh">Religion and science.</subject>
+            <subject source="lcsh">Science -- Study and teaching.</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

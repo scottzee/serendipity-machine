@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Film.481-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Film.481</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T20:15-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="item">
+        <did>
+            <unittitle>Three Pennsylvania statesmen of the olden times, 1932</unittitle>
+            <unitid>Mss.Film.481</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1856" type="Reel" label="Microform">1</container>
+            <physdesc>
+                <extent>1.0 Microfilm reel(s)</extent>
+            </physdesc>
+            <unitdate normal="1932/1932">1932</unitdate>
+            <physdesc id="ref11" label="General Physical Description note">1 microfilm reel.</physdesc>
+            <abstract id="ref6" label="Abstract">This paper contains biographical accounts of Joseph Hiester, Frederick A. Muhlenberg, and Andrew Gregg, and includes genealogical tables.</abstract>
+            <physloc id="ref12" label="Paging">LH-RR-Media Rm-3</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Gregg, David M.</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref5">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by Paul A.W. Wallace, 1950.</p>
+        </acqinfo>
+        <originalsloc id="ref3">
+            <head>Existence and Location of Originals note</head>
+            <p>Originals in possession of Paul A.W. Wallace.</p>
+        </originalsloc>
+        <controlaccess>
+            <persname rules="aacr" source="naf">Gregg, Andrew </persname>
+            <persname rules="aacr" source="naf">Hiester, Joseph, 1752-1832</persname>
+            <persname rules="aacr" source="naf">Muhlenberg, Frederick Augustus Conrad, 1750-1801</persname>
+            <persname rules="aacr" source="naf">Muhlenberg, Henry Melchior, 1711-1787</persname>
+            <genreform source="lcsh">Biographies.</genreform>
+            <genreform source="lcsh">Genealogies.</genreform>
+            <subject source="lcsh">Statesmen -- Pennsylvania.</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

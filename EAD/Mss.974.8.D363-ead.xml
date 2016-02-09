@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.974.8.D363-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.974.8.D363</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:27-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Deeds, 1703-1798, for land in Pennsylvania</unittitle>
+            <unitid>Mss.974.8.D363</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1128" type="Box" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>0.25 Linear feet</extent>
+                <extent>29 items</extent>
+            </physdesc>
+            <unitdate normal="1703/1798" type="inclusive">1703-1798</unitdate>
+            <physdesc id="ref5" label="General Physical Description note">29 items.</physdesc>
+            <abstract id="ref1" label="Abstract">This is a miscellaneous collection of deeds, indentures, and land surveys. Many names are represented, including James Claypole, Joseph Harrison, John Penn, Richard Penn, Thomas Penn, Zachariah Poulson, and William Shippen, Jr.</abstract>
+            <physloc id="ref6" label="Paging">LH-SB-XOS Case 1-4 (XOS)</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Various authors</persname>
+            </origination>
+        </did>
+        <odd id="ref7">
+            <head>Early American History Note</head>
+            <p>The Deed Collection is a miscellaneous assortment of land deeds and indentures from Pennsylvania.</p>
+        </odd>
+        <acqinfo id="ref3">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Purchased and accessioned, 1956.</p>
+        </acqinfo>
+        <controlaccess>
+            <persname rules="aacr" source="local">Claypoole, James, 1640-1694</persname>
+            <persname rules="aacr" source="naf">Harrison, Joseph</persname>
+            <persname rules="aacr" source="naf">Penn, John, 1729-1795</persname>
+            <persname rules="aacr" source="naf">Penn, Richard, 1706-1771</persname>
+            <persname source="ingest">Penn, Thomas,1702-1775.</persname>
+            <persname rules="aacr" source="local">Poulson, Zachariah, 1761-1844 </persname>
+            <persname source="ingest">Shippen, William, 1736?-1808</persname>
+            <subject source="lcsh">Deeds -- Pennsylvania.</subject>
+            <genreform source="lcsh">Deeds.</genreform>
+            <genreform source="lcsh">Indentures.</genreform>
+            <subject source="leah">Land and Speculation</subject>
+            <genreform source="leah">Legal Records</genreform>
+            <genreform source="leah">Official Government Documents and Records</genreform>
+            <subject source="leah">Pennsylvania History</subject>
+            <geogname source="lcsh">Pennsylvania.</geogname>
+            <genreform source="lcsh">Surveys (land).</genreform>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

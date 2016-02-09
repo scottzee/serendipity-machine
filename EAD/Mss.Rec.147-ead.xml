@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Rec.147</num>
+                </titleproper>
+                <author>Finding aid prepared by Brian Carpenter</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+                <date>March 2012</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T21:12-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Northern Paiute Stories</unittitle>
+            <unitid>Mss.Rec.147</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="nai"/>
+            </langmaterial>
+            <physdesc>
+                <extent>1.0 Reel(s)</extent>
+            </physdesc>
+            <unitdate normal="1986/1986">1986</unitdate>
+            <physdesc id="ref1" label="General Physical Description ">1 sound tape reel (40 min.) : analog, 7 1/2 ips, quarter track, stereo ; 7 in.</physdesc>
+            <abstract id="ref2" label="Abstract">Three stories ("Mama Bear and the Two Deer," "The Story of Coyote," and "The Story of Coyote and his Brother Wolf,") told in Northern Paiute only by Arthur Manning and Lina Black. Recorded by Violeta Ramsay at Owyhee, Nevada in the summer in 1986.</abstract>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Ramsay, Violeta</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref3">
+            <head>Immediate Source of Acquisition</head>
+            <p>Donated by Violeta Ramsay in 1987. This material was recorded with the assistance of a Phillips Fund grant.</p>
+        </acqinfo>
+        <relatedmaterial id="ref4">
+            <head>Related Archival Materials</head>
+            <p>Transcripts and related manuscript material are available in the 
+                <extref ns2:actuate="onLoad" ns2:show="new" ns2:href="http://www.amphilsoc.org/mole/view?docId=ead/Mss.497.3.Am4-ead.xml">Phillips Fund Collection</extref> (Mss.497.3.Am4).</p>
+        </relatedmaterial>
+        <controlaccess>
+            <subject source="lcsh">Northern Paiute Indians--Folklore</subject>
+            <subject source="lcsh">Northern Paiute language</subject>
+            <genreform source="ingest">Sound recordings</genreform>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

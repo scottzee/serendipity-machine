@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Film.426-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Film.426</num>
+                </titleproper>
+                <author>Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T20:14-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Selected materials on Indian affairs, 1698-1796</unittitle>
+            <unitid>Mss.Film.426</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid402" type="Reel" label="Microform">1-3</container>
+            <physdesc>
+                <extent>3.0 Microfilm reel(s)</extent>
+            </physdesc>
+            <unitdate normal="1698/1796" type="inclusive">1698-1796</unitdate>
+            <physdesc id="ref1" label="General Physical Description note">3 microfilm reels.</physdesc>
+            <abstract id="ref2" label="Abstract">Most of the items microfilmed are from the Public Archives of Canada. From the Daniel Claus Papers, 1761-1796, are letters and papers on Indian affairs at Forts Pitt, Niagara, and Detroit, with letters of Dr. Alexander McKee, Arthur St. Clair, Joseph Chew, Richard Butler, Joseph Brant, and John Graves Simcoe. From the papers of Brigadier Robert Monckton, 1760-1761, are appointments, returns, reports, bills and receipts, and letters relating to Forts Pitt, Bedford, and Niagara, with letters of James Burd, Horatio Gates, Henry Bouquet, Lewis Ourry, Sir John St. Clair, Thomas Hutchins, John Stanwix, and Lord Amherst. There are also excerpts for minutes of the Commissioners of Indian Affairs at Albany, 1723-1746; transcripts from the Public Record Office on Indians, trade, defense, 1698-1767, including names of persons naturalized in British America, 1740-61, and accounts of Lt. Col. Harry Gordon, 1756-1761, 1764-1767; Duquesne-Centrecoeur correspondence, 1752-1753, Fonds Verreau, from the Université Laval, Quebec; and, miscellaneous documents. All materials concern eighteenth-century Indian affairs, especially the Six Nations, and Algonquian Indians.</abstract>
+            <physloc id="ref6" label="Paging">LH-RR-Media Rm-2</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Amherst, Jeffery Amherst, Baron, 1717-1797</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Bouquet, Henry, 1719-1765</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Brant, Joseph, 1742-1807</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Burd, James, 1726-1793</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="local" role="Correspondent (crp)">Butler, Richard, 1743-1791</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Chew, Joseph, d. 1798</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Claus, Christian Daniel, 1727-1781</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Duquesne de Menneville, Ange, marquis</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="local" role="Correspondent (crp)">Gates, Horatio, 1728-1806</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Gordon, Harry</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Hutchins, Thomas, 1730-1789</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">McKee, Alexander, d. 1799</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Monckton, Robert, 1726-1782</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Ourry, Lewis, 1717-1779</persname>
+            </origination>
+            <origination label="creator">
+                <corpname rules="aacr" source="naf" role="Author (aut)">Public Archives of Canada.</corpname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Pécaudy de Contrecoeur, Claude-Pierre, 1705-1775</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Simcoe, John Graves, 1752-1806</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">St. Clair, Arthur, 1734-1818</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">St. Clair, John, Sir</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Stanwix, John, 1690?-1766</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref4">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Initial deposit by Barbara Graymont, 1965; Film 1262 presented by Barbara Graymount and accessioned, 1969 (1969 985mf).</p>
+        </acqinfo>
+        <originalsloc id="ref3">
+            <head>Existence and Location of Originals note</head>
+            <p>Originals in Public Archives of Canada, Ottawa; Public Records Office, London; Université Laval, Quebec.</p>
+        </originalsloc>
+        <odd id="ref5">
+            <head>Early American History Note</head>
+            <p>This is a microfilm of an early American collection that may be of interest to researchers at the APS and may complement an original manuscript collection at the APS.</p>
+        </odd>
+        <controlaccess>
+            <geogname source="lcsh">Fort Bedford (Ont.)</geogname>
+            <geogname source="lcsh">Fort Detroit (Mich.)</geogname>
+            <geogname source="lcsh">Fort Pitt (Pa.)</geogname>
+            <geogname source="lcsh">France -- Colonies -- Canada -- Indigenous peoples.</geogname>
+            <geogname source="lcsh">Great Britain -- Colonies -- America -- Defenses.</geogname>
+            <geogname source="lcsh">Great Britain -- Colonies -- America -- Indigenous peoples.</geogname>
+            <geogname source="lcsh">Great Britain -- Colonies -- America.</geogname>
+            <subject source="lcsh">Indians of North America--Canada--Government relations</subject>
+            <subject source="lcsh">Indians of North America--Government relations</subject>
+            <subject source="lcsh">Iroquois Indians</subject>
+            <genreform source="leah">Microfilm Collection</genreform>
+            <geogname source="lcsh">Old Fort Niagara (N.Y.)</geogname>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

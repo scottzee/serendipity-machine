@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Ms.Coll.8-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Ms.Coll.8</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T21:04-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Linguistic Society of America archives, ca. 1930-1985</unittitle>
+            <unitid>Mss.Ms.Coll.8</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid2031" type="Box" label="Manuscripts">1-108</container>
+            <physdesc>
+                <extent>54.0 Linear feet</extent>
+            </physdesc>
+            <unitdate>Circa 1930-1985</unitdate>
+            <abstract id="ref12" label="Abstract">The Linguistic Society of America was organized in 1924 in New York City, but there is little, if any, material in the archive relating to its early history. The bulk of the collection dates after 1960, although there is scattered correspondence and material for the decades prior to that time. There are administrative records (records of the officers, secretariat, committees, general correspondence); records concerning the summer linguistics institutes run by the LSA; annual meeting records; membership records; material relating to the publications of the LSA; and substantial material concerning affiliations with other organizations (ACLS, NAS, NRC, NEH, Social Science Research Council). There are also financial records of the Society.</abstract>
+            <physdesc id="ref23" label="General Physical Description note">54 linear feet.</physdesc>
+            <physloc id="ref24" label="Paging">University of Missouri</physloc>
+            <origination label="creator">
+                <corpname source="ingest" role="Author (aut)">Linguistic Society of America.</corpname>
+            </origination>
+        </did>
+        <acqinfo id="ref22">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by the Linguistic Society of America, 1981; additonal paper presented by the Linguistic Society of America and accessioned, 1985 (1985 925ms).</p>
+        </acqinfo>
+        <originalsloc id="ref14">
+            <head>Existence and Location of Originals note</head>
+            <p>Collection transferred to Western Historical Manuscript Collection, University of Missouri-Columbia, 11/1995.</p>
+        </originalsloc>
+        <controlaccess>
+            <corpname rules="aacr" source="naf">American Council of Learned Societies.</corpname>
+            <corpname source="ingest">Linguistic Society of America -- Publishing.</corpname>
+            <corpname rules="aacr" source="naf">National Academy of Sciences. (U.S.)</corpname>
+            <corpname source="ingest">National Endowment for the Humanities.</corpname>
+            <corpname rules="aacr" source="naf">National Research Council (U.S.). Committee for Research in Problems of Sex.</corpname>
+            <corpname source="ingest">Social Science Research Council (U.S.).</corpname>
+            <subject source="lcsh">Linguistics -- Societies, etc.</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

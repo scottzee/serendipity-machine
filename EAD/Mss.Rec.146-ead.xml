@@ -1,0 +1,1610 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Rec.146</num>
+                    <num>Mss.Rec.146</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Brian Carpenter</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+                <date>Janurary 2011</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T21:11-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Nez Perce kinship terms</unittitle>
+            <unitid>Mss.Rec.146</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="nai"/>
+            </langmaterial>
+            <physdesc>
+                <extent>20.0 Tape(s)</extent>
+            </physdesc>
+            <unitdate normal="1988/1989" type="inclusive">1988-1989</unitdate>
+            <abstract id="ref3" label="Abstract">Linguistic field recordings of the Nez Percé language. Consists predominantly of elicitation sessions regarding Nez Percé kinships terms, adjectives, grammar, and number, with frequent intermixed discussion. Recorded by Shila Baksi with consultant Horace Axtell in Lewiston, Idaho from April 1988 to May 1989.</abstract>
+            <physdesc id="ref2" label="General Physical Description note">20 sound cassettes (19 hr., 42 min.) : analog, 1 7/8 ips, stereo.</physdesc>
+            <physloc id="ref217" label="Paging">LH-B-32-4</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Speaker (spk)">Axtell, Horace</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Baksi, Shila</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref4">
+            <head>Immediate Source of Acquisition</head>
+            <p>Presented by Shila Baksi in 1990 (Acc. 1990-585r). This material was recorded with the assistance of a Phillips Fund grant.</p>
+        </acqinfo>
+        <relatedmaterial id="ref5">
+            <head>Related Archival Material</head>
+            <p>Transcripts of these recordings are available in the 
+                <extref ns2:actuate="onLoad" ns2:show="new" ns2:href="http://www.amphilsoc.org/mole/view?docId=ead/Mss.497.3.Am4-ead.xml">Phillips Fund Collection (Mss.497.3.Am4)</extref>.</p>
+        </relatedmaterial>
+        <controlaccess>
+            <subject source="lcsh">Nez Percé Indians--Kinship</subject>
+            <subject source="lcsh">Nez Percé language</subject>
+            <subject source="lcsh">Nez Percé language--Adjectives</subject>
+            <subject source="lcsh">Nez Percé language--Grammar</subject>
+            <subject source="lcsh">Nez Percé language--Number</subject>
+            <genreform source="ingest">Sound recordings</genreform>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref6" level="series">
+                <did>
+                    <unittitle>Audio recordings</unittitle>
+                </did>
+                <c02 id="ref7" level="file">
+                    <did>
+                        <unittitle>Nez Perce Kinship Terms</unittitle>
+                        <unitid>01-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1988-04-21</unitdate>
+                        <physdesc id="ref8" label="General Physical Description note">
+                            <extent>00:27:29</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Axtell, Horace</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Baksi, Shila</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref9">
+                        <head>Scope and Contents note</head>
+                        <p>Original cassette 1A</p>
+                    </scopecontent>
+                    <originalsloc id="ref11">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2585" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6591">
+                        <daodesc>
+                            <p>APSdigrec_2585</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Lewiston (Idaho)</geogname>
+                        <subject source="lcsh">Nez Percé Indians--Kinship</subject>
+                        <subject source="lcsh">Nez Percé language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref12" level="file">
+                    <did>
+                        <unittitle>Nez Perce Kinship Terms</unittitle>
+                        <unitid>01-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1988-04-21</unitdate>
+                        <physdesc id="ref13" label="General Physical Description note">
+                            <extent>00:28:04</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Axtell, Horace</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Baksi, Shila</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref14">
+                        <head>Scope and Contents note</head>
+                        <p>Original cassette 1B</p>
+                    </scopecontent>
+                    <originalsloc id="ref16">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2586" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6592">
+                        <daodesc>
+                            <p>APSdigrec_2586</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Lewiston (Idaho)</geogname>
+                        <subject source="lcsh">Nez Percé Indians--Kinship</subject>
+                        <subject source="lcsh">Nez Percé language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref17" level="file">
+                    <did>
+                        <unittitle>Nez Perce Kinship Terms</unittitle>
+                        <unitid>02-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1988-04-21</unitdate>
+                        <physdesc id="ref18" label="General Physical Description note">
+                            <extent>00:30:54</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Axtell, Horace</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Baksi, Shila</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref19">
+                        <head>Scope and Contents note</head>
+                        <p>Original cassette 2A</p>
+                    </scopecontent>
+                    <originalsloc id="ref21">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2587" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6593">
+                        <daodesc>
+                            <p>APSdigrec_2587</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Lewiston (Idaho)</geogname>
+                        <subject source="lcsh">Nez Percé Indians--Kinship</subject>
+                        <subject source="lcsh">Nez Percé language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref22" level="file">
+                    <did>
+                        <unittitle>Nez Perce Kinship Terms</unittitle>
+                        <unitid>02-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1988-04-25</unitdate>
+                        <physdesc id="ref23" label="General Physical Description note">
+                            <extent>00:29:40</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Axtell, Horace</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Baksi, Shila</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref24">
+                        <head>Scope and Contents note</head>
+                        <p>Original cassette 2B</p>
+                    </scopecontent>
+                    <originalsloc id="ref26">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2588" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6597">
+                        <daodesc>
+                            <p>APSdigrec_2588</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Lewiston (Idaho)</geogname>
+                        <subject source="lcsh">Nez Percé Indians--Kinship</subject>
+                        <subject source="lcsh">Nez Percé language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref27" level="file">
+                    <did>
+                        <unittitle>Nez Perce Kinship Terms</unittitle>
+                        <unitid>03-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1988-04-25</unitdate>
+                        <physdesc id="ref28" label="General Physical Description note">
+                            <extent>00:30:12</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Axtell, Horace</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Baksi, Shila</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref29">
+                        <head>Scope and Contents note</head>
+                        <p>Original cassette 3A</p>
+                    </scopecontent>
+                    <originalsloc id="ref31">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2589" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6595">
+                        <daodesc>
+                            <p>APSdigrec_2589</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Lewiston (Idaho)</geogname>
+                        <subject source="lcsh">Nez Percé Indians--Kinship</subject>
+                        <subject source="lcsh">Nez Percé language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref32" level="file">
+                    <did>
+                        <unittitle>Nez Perce Kinship Terms</unittitle>
+                        <unitid>03-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1988-05-17</unitdate>
+                        <physdesc id="ref33" label="General Physical Description note">
+                            <extent>00:30:58</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Axtell, Horace</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Baksi, Shila</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref34">
+                        <head>Scope and Contents note</head>
+                        <p>Original cassette 3B</p>
+                    </scopecontent>
+                    <originalsloc id="ref36">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2590" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6596">
+                        <daodesc>
+                            <p>APSdigrec_2590</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Lewiston (Idaho)</geogname>
+                        <subject source="lcsh">Nez Percé Indians--Kinship</subject>
+                        <subject source="lcsh">Nez Percé language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref37" level="file">
+                    <did>
+                        <unittitle>Nez Perce Kinship Terms</unittitle>
+                        <unitid>04-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1988-05-17</unitdate>
+                        <physdesc id="ref38" label="General Physical Description note">
+                            <extent>00:30:52</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Axtell, Horace</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Baksi, Shila</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref39">
+                        <head>Scope and Contents note</head>
+                        <p>Original cassette 4A</p>
+                    </scopecontent>
+                    <originalsloc id="ref41">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2591" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6601">
+                        <daodesc>
+                            <p>APSdigrec_2591</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Lewiston (Idaho)</geogname>
+                        <subject source="lcsh">Nez Percé Indians--Kinship</subject>
+                        <subject source="lcsh">Nez Percé language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref42" level="file">
+                    <did>
+                        <unittitle>Nez Perce Kinship Terms</unittitle>
+                        <unitid>04-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1988-05-26</unitdate>
+                        <physdesc id="ref43" label="General Physical Description note">
+                            <extent>00:30:47</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Axtell, Horace</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Baksi, Shila</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref44">
+                        <head>Scope and Contents note</head>
+                        <p>Original cassette 4B</p>
+                    </scopecontent>
+                    <originalsloc id="ref46">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2592" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6599">
+                        <daodesc>
+                            <p>APSdigrec_2592</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Lewiston (Idaho)</geogname>
+                        <subject source="lcsh">Nez Percé Indians--Kinship</subject>
+                        <subject source="lcsh">Nez Percé language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref47" level="file">
+                    <did>
+                        <unittitle>Nez Perce Kinship Terms</unittitle>
+                        <unitid>05-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1988-05-26</unitdate>
+                        <physdesc id="ref48" label="General Physical Description note">
+                            <extent>00:30:35</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Axtell, Horace</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Baksi, Shila</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref49">
+                        <head>Scope and Contents note</head>
+                        <p>Original cassette 5A</p>
+                    </scopecontent>
+                    <originalsloc id="ref51">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2593" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6600">
+                        <daodesc>
+                            <p>APSdigrec_2593</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Lewiston (Idaho)</geogname>
+                        <subject source="lcsh">Nez Percé Indians--Kinship</subject>
+                        <subject source="lcsh">Nez Percé language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref52" level="file">
+                    <did>
+                        <unittitle>Nez Perce Kinship Terms</unittitle>
+                        <unitid>05-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1988-05-31</unitdate>
+                        <physdesc id="ref53" label="General Physical Description note">
+                            <extent>00:30:48</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Axtell, Horace</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Baksi, Shila</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref54">
+                        <head>Scope and Contents note</head>
+                        <p>Original cassette 5B</p>
+                    </scopecontent>
+                    <originalsloc id="ref56">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2594" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6609">
+                        <daodesc>
+                            <p>APSdigrec_2594</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Lewiston (Idaho)</geogname>
+                        <subject source="lcsh">Nez Percé Indians--Kinship</subject>
+                        <subject source="lcsh">Nez Percé language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref57" level="file">
+                    <did>
+                        <unittitle>Nez Perce Kinship Terms</unittitle>
+                        <unitid>06-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1988-05-31</unitdate>
+                        <physdesc id="ref58" label="General Physical Description note">
+                            <extent>00:29:34</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Axtell, Horace</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Baksi, Shila</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref59">
+                        <head>Scope and Contents note</head>
+                        <p>Original cassette 6A</p>
+                    </scopecontent>
+                    <originalsloc id="ref61">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2595" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6608">
+                        <daodesc>
+                            <p>APSdigrec_2595</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Lewiston (Idaho)</geogname>
+                        <subject source="lcsh">Nez Percé Indians--Kinship</subject>
+                        <subject source="lcsh">Nez Percé language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref62" level="file">
+                    <did>
+                        <unittitle>Nez Perce Kinship Terms</unittitle>
+                        <unitid>06-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1988-06-09</unitdate>
+                        <physdesc id="ref63" label="General Physical Description note">
+                            <extent>00:30:14</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Axtell, Horace</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Baksi, Shila</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref64">
+                        <head>Scope and Contents note</head>
+                        <p>Original cassette 6B</p>
+                    </scopecontent>
+                    <originalsloc id="ref66">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2596" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6607">
+                        <daodesc>
+                            <p>APSdigrec_2596</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Lewiston (Idaho)</geogname>
+                        <subject source="lcsh">Nez Percé Indians--Kinship</subject>
+                        <subject source="lcsh">Nez Percé language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref67" level="file">
+                    <did>
+                        <unittitle>Nez Perce Kinship Terms</unittitle>
+                        <unitid>07-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1988-06-09</unitdate>
+                        <physdesc id="ref68" label="General Physical Description note">
+                            <extent>00:30:42</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Axtell, Horace</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Baksi, Shila</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref69">
+                        <head>Scope and Contents note</head>
+                        <p>Original cassette 7A</p>
+                    </scopecontent>
+                    <originalsloc id="ref71">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2597" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6613">
+                        <daodesc>
+                            <p>APSdigrec_2597</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Lewiston (Idaho)</geogname>
+                        <subject source="lcsh">Nez Percé Indians--Kinship</subject>
+                        <subject source="lcsh">Nez Percé language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref72" level="file">
+                    <did>
+                        <unittitle>Nez Perce Kinship Terms</unittitle>
+                        <unitid>07-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1988-06-09</unitdate>
+                        <physdesc id="ref73" label="General Physical Description note">
+                            <extent>00:30:47</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Axtell, Horace</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Baksi, Shila</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref74">
+                        <head>Scope and Contents note</head>
+                        <p>Original cassette 7B</p>
+                    </scopecontent>
+                    <originalsloc id="ref76">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2598" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6611">
+                        <daodesc>
+                            <p>APSdigrec_2598</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Lewiston (Idaho)</geogname>
+                        <subject source="lcsh">Nez Percé Indians--Kinship</subject>
+                        <subject source="lcsh">Nez Percé language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref77" level="file">
+                    <did>
+                        <unittitle>Nez Perce Kinship Terms</unittitle>
+                        <unitid>08-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1988-06-14</unitdate>
+                        <physdesc id="ref78" label="General Physical Description note">
+                            <extent>00:31:24</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Axtell, Horace</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Baksi, Shila</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref79">
+                        <head>Scope and Contents note</head>
+                        <p>Original cassette 8A</p>
+                    </scopecontent>
+                    <originalsloc id="ref81">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2599" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6612">
+                        <daodesc>
+                            <p>APSdigrec_2599</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Lewiston (Idaho)</geogname>
+                        <subject source="lcsh">Nez Percé Indians--Kinship</subject>
+                        <subject source="lcsh">Nez Percé language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref82" level="file">
+                    <did>
+                        <unittitle>Nez Perce Kinship Terms</unittitle>
+                        <unitid>08-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1988-06-14</unitdate>
+                        <physdesc id="ref83" label="General Physical Description note">
+                            <extent>00:31:07</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Axtell, Horace</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Baksi, Shila</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref84">
+                        <head>Scope and Contents note</head>
+                        <p>Original cassette 8B</p>
+                    </scopecontent>
+                    <originalsloc id="ref86">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2600" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6617">
+                        <daodesc>
+                            <p>APSdigrec_2600</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Lewiston (Idaho)</geogname>
+                        <subject source="lcsh">Nez Percé Indians--Kinship</subject>
+                        <subject source="lcsh">Nez Percé language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref87" level="file">
+                    <did>
+                        <unittitle>Nez Perce Kinship Terms</unittitle>
+                        <unitid>09-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1988-06-21</unitdate>
+                        <physdesc id="ref88" label="General Physical Description note">
+                            <extent>00:30:58</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Axtell, Horace</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Baksi, Shila</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref89">
+                        <head>Scope and Contents note</head>
+                        <p>Original cassette 9A</p>
+                    </scopecontent>
+                    <originalsloc id="ref91">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2601" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6618">
+                        <daodesc>
+                            <p>APSdigrec_2601</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Lewiston (Idaho)</geogname>
+                        <subject source="lcsh">Nez Percé Indians--Kinship</subject>
+                        <subject source="lcsh">Nez Percé language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref92" level="file">
+                    <did>
+                        <unittitle>Nez Perce Kinship Terms</unittitle>
+                        <unitid>09-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1988-06-21</unitdate>
+                        <physdesc id="ref93" label="General Physical Description note">
+                            <extent>00:30:57</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Axtell, Horace</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Baksi, Shila</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref94">
+                        <head>Scope and Contents note</head>
+                        <p>Original cassette 9B</p>
+                    </scopecontent>
+                    <originalsloc id="ref96">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2602" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6615">
+                        <daodesc>
+                            <p>APSdigrec_2602</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Lewiston (Idaho)</geogname>
+                        <subject source="lcsh">Nez Percé Indians--Kinship</subject>
+                        <subject source="lcsh">Nez Percé language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref97" level="file">
+                    <did>
+                        <unittitle>Nez Perce Kinship Terms</unittitle>
+                        <unitid>10-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1988-07-12</unitdate>
+                        <physdesc id="ref98" label="General Physical Description note">
+                            <extent>00:30:49</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Axtell, Horace</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Baksi, Shila</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref99">
+                        <head>Scope and Contents note</head>
+                        <p>Original cassette 10A</p>
+                    </scopecontent>
+                    <originalsloc id="ref101">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2603" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6616">
+                        <daodesc>
+                            <p>APSdigrec_2603</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Lewiston (Idaho)</geogname>
+                        <subject source="lcsh">Nez Percé Indians--Kinship</subject>
+                        <subject source="lcsh">Nez Percé language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref102" level="file">
+                    <did>
+                        <unittitle>Nez Perce Kinship Terms</unittitle>
+                        <unitid>10-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1988-07-12</unitdate>
+                        <physdesc id="ref103" label="General Physical Description note">
+                            <extent>00:30:07</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Axtell, Horace</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Baksi, Shila</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref104">
+                        <head>Scope and Contents note</head>
+                        <p>Original cassette 10B</p>
+                    </scopecontent>
+                    <originalsloc id="ref106">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2604" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6701">
+                        <daodesc>
+                            <p>APSdigrec_2604</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Lewiston (Idaho)</geogname>
+                        <subject source="lcsh">Nez Percé Indians--Kinship</subject>
+                        <subject source="lcsh">Nez Percé language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref107" level="file">
+                    <did>
+                        <unittitle>Nez Perce Kinship Terms</unittitle>
+                        <unitid>11-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1988-07-12</unitdate>
+                        <physdesc id="ref108" label="General Physical Description note">
+                            <extent>00:30:55</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Axtell, Horace</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Baksi, Shila</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref109">
+                        <head>Scope and Contents note</head>
+                        <p>Original cassette 11A</p>
+                    </scopecontent>
+                    <originalsloc id="ref111">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2605" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6702">
+                        <daodesc>
+                            <p>APSdigrec_2605</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Lewiston (Idaho)</geogname>
+                        <subject source="lcsh">Nez Percé Indians--Kinship</subject>
+                        <subject source="lcsh">Nez Percé language</subject>
+                        <subject source="lcsh">Nez Percé language--Adjectives</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref112" level="file">
+                    <did>
+                        <unittitle>Nez Perce Kinship Terms</unittitle>
+                        <unitid>11-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1988-07-12</unitdate>
+                        <physdesc id="ref113" label="General Physical Description note">
+                            <extent>00:29:35</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Axtell, Horace</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Baksi, Shila</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref114">
+                        <head>Scope and Contents note</head>
+                        <p>Original cassette 11B</p>
+                    </scopecontent>
+                    <originalsloc id="ref116">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2606" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6703">
+                        <daodesc>
+                            <p>APSdigrec_2606</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Lewiston (Idaho)</geogname>
+                        <subject source="lcsh">Nez Percé Indians--Kinship</subject>
+                        <subject source="lcsh">Nez Percé language</subject>
+                        <subject source="lcsh">Nez Percé language--Adjectives</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref117" level="file">
+                    <did>
+                        <unittitle>Nez Perce Kinship Terms</unittitle>
+                        <unitid>12-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1988-07-19</unitdate>
+                        <physdesc id="ref118" label="General Physical Description note">
+                            <extent>00:27:23</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Axtell, Horace</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Baksi, Shila</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref119">
+                        <head>Scope and Contents note</head>
+                        <p>Original cassette 12A</p>
+                    </scopecontent>
+                    <originalsloc id="ref121">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2607" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6707">
+                        <daodesc>
+                            <p>APSdigrec_2607</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Lewiston (Idaho)</geogname>
+                        <subject source="lcsh">Nez Percé Indians--Kinship</subject>
+                        <subject source="lcsh">Nez Percé language</subject>
+                        <subject source="lcsh">Nez Percé language--Adjectives</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref122" level="file">
+                    <did>
+                        <unittitle>Nez Perce Kinship Terms</unittitle>
+                        <unitid>12-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1988-07-26</unitdate>
+                        <physdesc id="ref123" label="General Physical Description note">
+                            <extent>00:29:54</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Axtell, Horace</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Baksi, Shila</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref124">
+                        <head>Scope and Contents note</head>
+                        <p>Original cassette 12B</p>
+                    </scopecontent>
+                    <originalsloc id="ref126">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2608" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6709">
+                        <daodesc>
+                            <p>APSdigrec_2608</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Lewiston (Idaho)</geogname>
+                        <subject source="lcsh">Nez Percé Indians--Kinship</subject>
+                        <subject source="lcsh">Nez Percé language</subject>
+                        <subject source="lcsh">Nez Percé language--Adjectives</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref127" level="file">
+                    <did>
+                        <unittitle>Nez Perce Kinship Terms</unittitle>
+                        <unitid>13-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1988-07-26</unitdate>
+                        <physdesc id="ref128" label="General Physical Description note">
+                            <extent>00:18:15</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Axtell, Horace</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Baksi, Shila</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref129">
+                        <head>Scope and Contents note</head>
+                        <p>Original cassette 13A, part 1</p>
+                    </scopecontent>
+                    <originalsloc id="ref131">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2609" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6706">
+                        <daodesc>
+                            <p>APSdigrec_2609</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Lewiston (Idaho)</geogname>
+                        <subject source="lcsh">Nez Percé language</subject>
+                        <subject source="lcsh">Nez Percé language--Adjectives</subject>
+                        <subject source="lcsh">Nez Percé language--Grammar</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref132" level="file">
+                    <did>
+                        <unittitle>Nez Perce Kinship Terms</unittitle>
+                        <unitid>13-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1988-08-02</unitdate>
+                        <physdesc id="ref133" label="General Physical Description note">
+                            <extent>00:12:19</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Axtell, Horace</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Baksi, Shila</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref134">
+                        <head>Scope and Contents note</head>
+                        <p>Original cassette 13A, part 2</p>
+                    </scopecontent>
+                    <originalsloc id="ref136">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2610" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6708">
+                        <daodesc>
+                            <p>APSdigrec_2610</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Lewiston (Idaho)</geogname>
+                        <subject source="lcsh">Nez Percé language</subject>
+                        <subject source="lcsh">Nez Percé language--Adjectives</subject>
+                        <subject source="lcsh">Nez Percé language--Grammar</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref137" level="file">
+                    <did>
+                        <unittitle>Nez Perce Kinship Terms</unittitle>
+                        <unitid>13-03</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1988-08-02</unitdate>
+                        <physdesc id="ref138" label="General Physical Description note">
+                            <extent>00:28:09</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Axtell, Horace</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Baksi, Shila</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref139">
+                        <head>Scope and Contents note</head>
+                        <p>Original cassette 13B, part 1</p>
+                    </scopecontent>
+                    <originalsloc id="ref141">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2611" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6714">
+                        <daodesc>
+                            <p>APSdigrec_2611</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Lewiston (Idaho)</geogname>
+                        <subject source="lcsh">Nez Percé language</subject>
+                        <subject source="lcsh">Nez Percé language--Adjectives</subject>
+                        <subject source="lcsh">Nez Percé language--Grammar</subject>
+                        <subject source="lcsh">Nez Percé language--Number</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref142" level="file">
+                    <did>
+                        <unittitle>Nez Perce Kinship Terms</unittitle>
+                        <unitid>13-04</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1988-08-23</unitdate>
+                        <physdesc id="ref143" label="General Physical Description note">
+                            <extent>00:01:42</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Axtell, Horace</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Baksi, Shila</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref144">
+                        <head>Scope and Contents note</head>
+                        <p>Original cassette 13B, part 2</p>
+                    </scopecontent>
+                    <originalsloc id="ref146">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2612" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6712">
+                        <daodesc>
+                            <p>APSdigrec_2612</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Lewiston (Idaho)</geogname>
+                        <subject source="lcsh">Nez Percé language</subject>
+                        <subject source="lcsh">Nez Percé language--Grammar</subject>
+                        <subject source="lcsh">Nez Percé language--Number</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref147" level="file">
+                    <did>
+                        <unittitle>Nez Perce Kinship Terms</unittitle>
+                        <unitid>14-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1988-08-23</unitdate>
+                        <physdesc id="ref148" label="General Physical Description note">
+                            <extent>00:30:01</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Axtell, Horace</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Baksi, Shila</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref149">
+                        <head>Scope and Contents note</head>
+                        <p>Original cassette 14A</p>
+                    </scopecontent>
+                    <originalsloc id="ref151">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2613" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6715">
+                        <daodesc>
+                            <p>APSdigrec_2613</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Lewiston (Idaho)</geogname>
+                        <subject source="lcsh">Nez Percé language</subject>
+                        <subject source="lcsh">Nez Percé language--Number</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref152" level="file">
+                    <did>
+                        <unittitle>Nez Perce Kinship Terms</unittitle>
+                        <unitid>14-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1988-08-23</unitdate>
+                        <physdesc id="ref153" label="General Physical Description note">
+                            <extent>00:30:55</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Axtell, Horace</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Baksi, Shila</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref154">
+                        <head>Scope and Contents note</head>
+                        <p>Original cassette 14B</p>
+                    </scopecontent>
+                    <originalsloc id="ref156">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2614" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6711">
+                        <daodesc>
+                            <p>APSdigrec_2614</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Lewiston (Idaho)</geogname>
+                        <subject source="lcsh">Nez Percé language</subject>
+                        <subject source="lcsh">Nez Percé language--Number</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref157" level="file">
+                    <did>
+                        <unittitle>Nez Perce Kinship Terms</unittitle>
+                        <unitid>15-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1988-12-06</unitdate>
+                        <physdesc id="ref158" label="General Physical Description note">
+                            <extent>00:30:39</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Axtell, Horace</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Baksi, Shila</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref159">
+                        <head>Scope and Contents note</head>
+                        <p>Original cassette 15A</p>
+                    </scopecontent>
+                    <originalsloc id="ref161">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2615" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6713">
+                        <daodesc>
+                            <p>APSdigrec_2615</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Lewiston (Idaho)</geogname>
+                        <subject source="lcsh">Nez Percé Indians--Kinship</subject>
+                        <subject source="lcsh">Nez Percé language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref162" level="file">
+                    <did>
+                        <unittitle>Nez Perce Kinship Terms</unittitle>
+                        <unitid>15-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1988-12-06</unitdate>
+                        <physdesc id="ref163" label="General Physical Description note">
+                            <extent>00:28:52</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Axtell, Horace</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Baksi, Shila</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref164">
+                        <head>Scope and Contents note</head>
+                        <p>Original cassette 15B</p>
+                    </scopecontent>
+                    <originalsloc id="ref166">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2616" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6718">
+                        <daodesc>
+                            <p>APSdigrec_2616</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Lewiston (Idaho)</geogname>
+                        <subject source="lcsh">Nez Percé Indians--Kinship</subject>
+                        <subject source="lcsh">Nez Percé language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref167" level="file">
+                    <did>
+                        <unittitle>Nez Perce Kinship Terms</unittitle>
+                        <unitid>16-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1988-12-27</unitdate>
+                        <physdesc id="ref168" label="General Physical Description note">
+                            <extent>00:30:08</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Axtell, Horace</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Baksi, Shila</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref169">
+                        <head>Scope and Contents note</head>
+                        <p>Original cassette 16A</p>
+                    </scopecontent>
+                    <originalsloc id="ref171">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2617" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6719">
+                        <daodesc>
+                            <p>APSdigrec_2617</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Lewiston (Idaho)</geogname>
+                        <subject source="lcsh">Nez Percé Indians--Kinship</subject>
+                        <subject source="lcsh">Nez Percé language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref172" level="file">
+                    <did>
+                        <unittitle>Nez Perce Kinship Terms</unittitle>
+                        <unitid>16-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1988-12-27</unitdate>
+                        <physdesc id="ref173" label="General Physical Description note">
+                            <extent>00:28:36</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Axtell, Horace</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Baksi, Shila</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref174">
+                        <head>Scope and Contents note</head>
+                        <p>Original cassette 16B</p>
+                    </scopecontent>
+                    <originalsloc id="ref176">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2618" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6717">
+                        <daodesc>
+                            <p>APSdigrec_2618</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Lewiston (Idaho)</geogname>
+                        <subject source="lcsh">Nez Percé Indians--Kinship</subject>
+                        <subject source="lcsh">Nez Percé language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref177" level="file">
+                    <did>
+                        <unittitle>Nez Perce Kinship Terms</unittitle>
+                        <unitid>17-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1989-03-13</unitdate>
+                        <physdesc id="ref178" label="General Physical Description note">
+                            <extent>00:29:09</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Axtell, Horace</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Baksi, Shila</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref179">
+                        <head>Scope and Contents note</head>
+                        <p>Original cassette 17A</p>
+                    </scopecontent>
+                    <originalsloc id="ref181">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2619" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6720">
+                        <daodesc>
+                            <p>APSdigrec_2619</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Lewiston (Idaho)</geogname>
+                        <subject source="lcsh">Nez Percé Indians--Kinship</subject>
+                        <subject source="lcsh">Nez Percé language</subject>
+                        <subject source="lcsh">Nez Percé language--Adjectives</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref182" level="file">
+                    <did>
+                        <unittitle>Nez Perce Kinship Terms</unittitle>
+                        <unitid>17-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1989-03-13</unitdate>
+                        <physdesc id="ref183" label="General Physical Description note">
+                            <extent>00:24:06</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Axtell, Horace</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Baksi, Shila</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref184">
+                        <head>Scope and Contents note</head>
+                        <p>Original cassette 17B</p>
+                    </scopecontent>
+                    <originalsloc id="ref186">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2620" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6722">
+                        <daodesc>
+                            <p>APSdigrec_2620</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Lewiston (Idaho)</geogname>
+                        <subject source="lcsh">Nez Percé Indians--Kinship</subject>
+                        <subject source="lcsh">Nez Percé language</subject>
+                        <subject source="lcsh">Nez Percé language--Adjectives</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref187" level="file">
+                    <did>
+                        <unittitle>Nez Perce Kinship Terms</unittitle>
+                        <unitid>18-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1989-04-19</unitdate>
+                        <physdesc id="ref188" label="General Physical Description note">
+                            <extent>00:29:20</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Axtell, Horace</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Baksi, Shila</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref189">
+                        <head>Scope and Contents note</head>
+                        <p>Original cassette 18A</p>
+                    </scopecontent>
+                    <originalsloc id="ref191">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2621" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6723">
+                        <daodesc>
+                            <p>APSdigrec_2621</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Lewiston (Idaho)</geogname>
+                        <subject source="lcsh">Nez Percé Indians--Kinship</subject>
+                        <subject source="lcsh">Nez Percé language</subject>
+                        <subject source="ingest">Nez Percé language--Mood</subject>
+                        <subject source="ingest">Nez Percé language--Tense</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref192" level="file">
+                    <did>
+                        <unittitle>Nez Perce Kinship Terms</unittitle>
+                        <unitid>18-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1989-05-10</unitdate>
+                        <physdesc id="ref193" label="General Physical Description note">
+                            <extent>00:28:40</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Axtell, Horace</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Baksi, Shila</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref194">
+                        <head>Scope and Contents note</head>
+                        <p>Original cassette 18B</p>
+                    </scopecontent>
+                    <originalsloc id="ref196">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2622" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6724">
+                        <daodesc>
+                            <p>APSdigrec_2622</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Lewiston (Idaho)</geogname>
+                        <subject source="lcsh">Nez Percé Indians--Kinship</subject>
+                        <subject source="lcsh">Nez Percé language</subject>
+                        <subject source="ingest">Nez Percé language--Mood</subject>
+                        <subject source="ingest">Nez Percé language--Tense</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref197" level="file">
+                    <did>
+                        <unittitle>Nez Perce Kinship Terms</unittitle>
+                        <unitid>19-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1989-05-10</unitdate>
+                        <physdesc id="ref198" label="General Physical Description note">
+                            <extent>00:30:56</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Axtell, Horace</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Baksi, Shila</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref199">
+                        <head>Scope and Contents note</head>
+                        <p>Original cassette 19A</p>
+                    </scopecontent>
+                    <originalsloc id="ref201">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2623" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6727">
+                        <daodesc>
+                            <p>APSdigrec_2623</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Lewiston (Idaho)</geogname>
+                        <subject source="lcsh">Nez Percé Indians--Kinship</subject>
+                        <subject source="lcsh">Nez Percé language</subject>
+                        <subject source="lcsh">Nez Percé language--Grammar</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref202" level="file">
+                    <did>
+                        <unittitle>Nez Perce Kinship Terms</unittitle>
+                        <unitid>19-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1989-05-23</unitdate>
+                        <physdesc id="ref203" label="General Physical Description note">
+                            <extent>00:30:56</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Axtell, Horace</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Baksi, Shila</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref204">
+                        <head>Scope and Contents note</head>
+                        <p>Original cassette 19B</p>
+                    </scopecontent>
+                    <originalsloc id="ref206">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2624" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6729">
+                        <daodesc>
+                            <p>APSdigrec_2624</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Lewiston (Idaho)</geogname>
+                        <subject source="lcsh">Nez Percé Indians--Kinship</subject>
+                        <subject source="lcsh">Nez Percé language</subject>
+                        <subject source="lcsh">Nez Percé language--Grammar</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref207" level="file">
+                    <did>
+                        <unittitle>Nez Perce Kinship Terms</unittitle>
+                        <unitid>20-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1989-05-23</unitdate>
+                        <physdesc id="ref208" label="General Physical Description note">
+                            <extent>00:30:50</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Axtell, Horace</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Baksi, Shila</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref209">
+                        <head>Scope and Contents note</head>
+                        <p>Original cassette 20A</p>
+                    </scopecontent>
+                    <originalsloc id="ref211">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2625" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6728">
+                        <daodesc>
+                            <p>APSdigrec_2625</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Lewiston (Idaho)</geogname>
+                        <subject source="lcsh">Nez Percé Indians--Kinship</subject>
+                        <subject source="lcsh">Nez Percé language</subject>
+                        <subject source="lcsh">Nez Percé language--Grammar</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref212" level="file">
+                    <did>
+                        <unittitle>Nez Perce Kinship Terms</unittitle>
+                        <unitid>20-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1989-05-23</unitdate>
+                        <physdesc id="ref213" label="General Physical Description note">
+                            <extent>00:13:00</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Axtell, Horace</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Baksi, Shila</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref214">
+                        <head>Scope and Contents note</head>
+                        <p>Original cassette 20B</p>
+                    </scopecontent>
+                    <originalsloc id="ref216">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2626" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6726">
+                        <daodesc>
+                            <p>APSdigrec_2626</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Lewiston (Idaho)</geogname>
+                        <subject source="lcsh">Nez Percé Indians--Kinship</subject>
+                        <subject source="lcsh">Nez Percé language</subject>
+                        <subject source="lcsh">Nez Percé language--Grammar</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

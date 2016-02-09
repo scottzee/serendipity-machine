@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.531.3.So8-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.531.3.So8</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:18-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="item">
+        <did>
+            <unittitle>Descripcão e uso do dynamomêtro, 1807</unittitle>
+            <unitid>Mss.531.3.So8</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="por"/>
+            </langmaterial>
+            <container id="cid921" type="Volume" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>1.0 Volume(s)</extent>
+                <extent>1 volume, 59 p.</extent>
+            </physdesc>
+            <unitdate normal="1807/1907" type="inclusive">1807-1907</unitdate>
+            <physdesc id="ref5" label="General Physical Description note">1 volume, 59 p.</physdesc>
+            <langmaterial id="ref6" label="Language of Materials note">In Portuguese.</langmaterial>
+            <abstract id="ref1" label="Abstract">Descripçaó e uso De Dynamomêtro, Para contreur e comparar a forca relativa dos homens a dos cavallos e de todas as bêstas de tiro: para julgar a resistencia das maguinas... This instrument was used for measuring and comparing the relative strength of men, horses, and other beasts of burden. Also included are descriptions of other instruments, and engraved plate illustrations.</abstract>
+            <physloc id="ref8" label="Paging">LH-MV-E-9</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Souza Palher, Joao de.</persname>
+            </origination>
+        </did>
+        <odd id="ref7">
+            <head>Early American History Note</head>
+            <p>This volume contains descriptions of various tools and other devices, some of which were used to measure strength; others seem to depict electrical devices. There are many detailed engravings that show how the tools worked.</p>
+        </odd>
+        <controlaccess>
+            <subject source="leah">Beyond Early America</subject>
+            <subject source="lcsh">Dynamometer.</subject>
+            <genreform source="lcsh">Engravings.</genreform>
+            <genreform source="leah">Foreign Language</genreform>
+            <subject source="leah">Language and Linguistics</subject>
+            <subject source="lcsh">Scientific apparatus and instruments.</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

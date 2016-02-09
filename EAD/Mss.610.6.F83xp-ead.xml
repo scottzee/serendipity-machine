@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.610.6.F83xp-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.610.6.F83xp</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:21-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="item">
+        <did>
+            <unittitle>Growth: The early history of a cancer research institute, 1927-1957</unittitle>
+            <unitid>Mss.610.6.F83xp</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid977" type="Volume" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>1.0 Volume(s)</extent>
+                <extent>1 volume, photocopy of T.D. ca. 568 p. </extent>
+            </physdesc>
+            <unitdate normal="1984/1984">1984</unitdate>
+            <physdesc id="ref5" label="General Physical Description note">1 volume, photocopy of T.D. ca. 568 p.</physdesc>
+            <physloc id="ref6" label="Paging">LH-MV-E-11</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Patterson, Elizabeth Knight,1909-</persname>
+            </origination>
+        </did>
+        <odd id="ref2">
+            <head>General note</head>
+            <p>History of The Institute for Cancer Research, now part of Fox Chase Cancer Center, Philadelphia. Contains biographical sketches, bibliography.</p>
+        </odd>
+        <controlaccess>
+            <corpname rules="aacr" source="naf">Institute for Cancer Research (Philadelphia, Pa.).</corpname>
+            <persname rules="aacr" source="local">Patterson, Arthur Lindo, 1902-1966</persname>
+            <persname rules="aacr" source="local">Schultz, Helen Redfield, 1900-1988</persname>
+            <persname source="ingest">Schultz, Jack,1904-1971.</persname>
+            <subject source="lcsh">Cancer.</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

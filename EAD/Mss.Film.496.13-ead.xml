@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Film.496.13-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Film.496.13</num>
+                </titleproper>
+                <author>Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T20:15-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Charles Darwin notebooks written during the voyage of the Beagle, 1831-1836</unittitle>
+            <unitid>Mss.Film.496.13</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid55242" type="Reel" label="Microform">1</container>
+            <physdesc>
+                <extent>1.0 Microfilm reel(s)</extent>
+            </physdesc>
+            <unitdate normal="1831/1836" type="inclusive">1831-1836</unitdate>
+            <physdesc id="ref3" label="General Physical Description note">1 microfilm reel.</physdesc>
+            <abstract id="ref1" label="Abstract">Notebooks written during the voyage of the Beagle, 1831-1836. From eighteen original notebooks at Down House, Kent.</abstract>
+            <physloc id="ref5" label="Paging">LH-RR-Media Rm-3</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Darwin, Charles, 1809-1882</persname>
+            </origination>
+        </did>
+        <originalsloc id="ref4">
+            <head>Existence and Location of Originals note</head>
+            <p>Originals at Down House, Kent.</p>
+        </originalsloc>
+        <acqinfo id="ref2">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Accessioned, 1972</p>
+        </acqinfo>
+        <odd id="ref6">
+            <head>Early American History Note</head>
+            <p>This microfilm collection may be of interest to early American scholars.</p>
+        </odd>
+        <controlaccess>
+            <corpname source="ingest">Beagle (Ship)</corpname>
+            <genreform source="leah">Microfilm Collection</genreform>
+            <subject source="lcsh">Natural history.</subject>
+            <subject source="lcsh">Voyages and travels.</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

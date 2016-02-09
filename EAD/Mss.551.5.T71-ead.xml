@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.551.5.T71-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.551.5.T71</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:19-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Meteorological observations, 1805-1808, made at Arkansas</unittitle>
+            <unitid>Mss.551.5.T71</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid939" type="Volume" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>1.0 Volume(s)</extent>
+                <extent>1 volume, 68 p. </extent>
+            </physdesc>
+            <unitdate normal="1805/1808" type="inclusive">1805-1808</unitdate>
+            <abstract id="ref1" label="Abstract">Treat sent this volume to Thomas Jefferson in 1809 from "Arkansa in Louisiana," and wrote, "If from their perusal you can derive, either information or amusement, respecting the climate of this part of our country, your acceptance will be highly gratifying."</abstract>
+            <physdesc id="ref15" label="General Physical Description note">1 volume, 68 p.</physdesc>
+            <physloc id="ref17" label="Paging">LH-MV-E-9</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Treat, John Breck.</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref14">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by Thomas Jefferson, 1809; accessioned, 1934 (1934 70447).</p>
+        </acqinfo>
+        <altformavail id="ref3">
+            <head>Existence and Location of Copies note</head>
+            <p>These materials are also available on microfilm (Film 1467, Reel 3).</p>
+        </altformavail>
+        <odd id="ref16">
+            <head>Early American History Note</head>
+            <p>John Breck Treat’s meteorological observations for 1805-1808 contain information on the temperature, barometer, rainfall, and general observations for Arkansas in the recently acquired Louisiana Territory. The observations were given to Thomas Jefferson.</p>
+        </odd>
+        <controlaccess>
+            <persname rules="aacr" source="naf">Jefferson, Thomas, 1743-1826</persname>
+            <geogname source="lcsh">Arkansas -- Climate.</geogname>
+            <genreform source="leah">Meteorological Data</genreform>
+            <genreform source="lcsh">Meteorological records.</genreform>
+            <subject source="lcsh">Meteorology -- Observations -- Arkansas.</subject>
+            <subject source="leah">Science and Technology</subject>
+            <genreform source="leah">Scientific Data</genreform>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

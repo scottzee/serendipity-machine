@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.530.1.Ar2.7-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.530.1.Ar2.7</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:18-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Erwin Schrödinger correspondence to Wilhelm Wien, 1925-1927</unittitle>
+            <unitid>Mss.530.1.Ar2.7</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid915" type="Box-folder" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>0.25 Linear feet</extent>
+                <extent>17 items, photocopies</extent>
+            </physdesc>
+            <unitdate normal="1925/1927" type="inclusive">1925-1927</unitdate>
+            <physdesc id="ref10" label="General Physical Description note">17 items, photocopies.</physdesc>
+            <abstract id="ref1" label="Abstract">Photocopies of Physicist Erwin Schrödinger letters to Wilhelm Wien from originals owned by Dr. Philip H. K. Siebertz of Munich, Germany. These letters were not included in the microfilmed correspondence for the Archive for the History of Quantum Physics (See RLIN entry PAAV86-A21).</abstract>
+            <physloc id="ref11" label="Paging">LH-B-31-3</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Schrödinger, Erwin, 1887-1961</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref9">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by Paul Forman and accessioned, 1971.</p>
+        </acqinfo>
+        <bioghist id="ref5">
+            <head>Biographical/Historical note</head>
+            <p>Erwin Schrödinger was a physicist.</p>
+        </bioghist>
+        <originalsloc id="ref3">
+            <head>Existence and Location of Originals note</head>
+            <p>Originals in possession of Philip H. K. Siebertz, Munich, Germany.</p>
+        </originalsloc>
+        <controlaccess>
+            <persname rules="aacr" source="naf">Wien, W. ,  (Wilhelm), 1864-1928</persname>
+            <subject source="lcsh">Physics.</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

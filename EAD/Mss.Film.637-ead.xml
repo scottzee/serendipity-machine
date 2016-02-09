@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Film.637-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Film.637</num>
+                </titleproper>
+                <author>Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T20:15-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>George Chalmers papers relating to Indian affairs, 1750-1775</unittitle>
+            <unitid>Mss.Film.637</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid471" type="Reel" label="Microform">1</container>
+            <physdesc>
+                <extent>1.0 Microfilm reel(s)</extent>
+            </physdesc>
+            <unitdate normal="1750/1775" type="inclusive">1750-1775</unitdate>
+            <physdesc id="ref1" label="General Physical Description note">1 microfilm reel. Reproduced at the New York Public Library, 1950.</physdesc>
+            <abstract id="ref2" label="Abstract">Fenton compiled this reel from several collections for his research on American Indians. From the George Chalmers Collection (1750-1775) are correspondence, intelligence reports, and records of treaties concerning the Indians of the Ohio Valley. The writers include Thomas Cresap, Thomas Hutchins, and Sir William Johnson. There are also papers from the Philip John Schuyler papers (1710-1797) and one item from the Withrop, Wait, and Leverett Memorial (1709).</abstract>
+            <physloc id="ref8" label="Paging">LH-RR-Media Rm-3</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Writer of accompanying material (wam)">Cresap, Thomas, 1694?-1790? </persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Fenton, William N., (William Nelson), 1908-2005</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Writer of accompanying material (wam)">Hutchins, Thomas, 1730-1789</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Writer of accompanying material (wam)">Johnson, William, Sir</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Writer of accompanying material (wam)">Schuyler, Philip John, 1733-1804</persname>
+            </origination>
+        </did>
+        <bioghist id="ref5">
+            <head>Biographical/Historical note</head>
+            <p>William Nelson Fenton is an anthropologist and ethnologist specializing in Iroquoian studies.</p>
+        </bioghist>
+        <acqinfo id="ref4">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Gift from William N. Fenton, 1953.</p>
+        </acqinfo>
+        <originalsloc id="ref3">
+            <head>Existence and Location of Originals note</head>
+            <p>Originals in New York Public Library.</p>
+        </originalsloc>
+        <scopecontent id="ref6">
+            <head>Scope and Contents note</head>
+            <p>Includes: 1. Walt Winthrop and John Leverett, memorial on behalf of Massachusetts to John Lord Lovelace, Governor of New York, 3 pages. (Copy, April 19, 1709), concerning French influence on Indians; need to permit Five Nations to act offensively.</p>
+            <p>2. Chalmers collection of documents, approximately 300 frames, 1750-1775: extracts from treaties, proceedings of councils with various tribes, intelligence at Fort Pitt, letters of Sir William Johnson, George Croghan, and others.</p>
+            <p>3. Schuyler Indian papers, 1710-1797: papers generally relating to General Philip Schuyler and his negotiations with Indians, 1775-1797, approximately 600 frames.</p>
+        </scopecontent>
+        <odd id="ref7">
+            <head>Early American History Note</head>
+            <p>This is a microfilm of an early American collection that may be of interest to researchers at the APS and may complement an original manuscript collection at the APS.</p>
+        </odd>
+        <controlaccess>
+            <persname rules="aacr" source="naf" role="Collector (col)">Chalmers, George </persname>
+            <subject source="lcsh">Indians of North America--Government relations</subject>
+            <subject source="lcsh">Indians of North America--Ohio River Valley--Treaties</subject>
+            <genreform source="leah">Microfilm Collection</genreform>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

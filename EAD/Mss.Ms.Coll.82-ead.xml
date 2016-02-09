@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Ms.Coll.82-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Ms.Coll.82</num>
+                </titleproper>
+                <author>Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T21:05-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Benjamin Dean Meritt papers, ca. 1935-1989 American Council of Learned Societies American Philosophical Society American Numismatic Society Athens College Aydelotte, Frank Bonner, Campbell Cherniss, Harold Clement, Paul A. Dinsmoor, William Bell Dow, Sterling Edson, Charles Ferguson, William Scott Friedlander, Paul Greek War Relief Haggard, Patience Hondius, J.J.E. Institute for Advanced Study Moe, Henry A. Princeton University Raubitschek, A.E. Richter, Gisela M.A. Robinson, Charles A. Schweigert, Eugene Gift of Lucy Shoe Meritt, 1993. (Ms. Coll. 82)</unittitle>
+            <unitid>Mss.Ms.Coll.82</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid97722" type="Box" label="Manuscripts">1-39</container>
+            <physdesc>
+                <extent>19.5 Linear feet</extent>
+            </physdesc>
+            <unitdate normal="1935/1989" type="inclusive">1935-1989</unitdate>
+            <physdesc id="ref3" label="General Physical Description note">19.5 linear feet.</physdesc>
+            <abstract id="ref1" label="Abstract">Known for his pioneering work on Athens in the fifth century BC, Benjamin Dean Meritt spent most of his career at the Institute for Advanced Study, where he developed a world-renowned center for the study of Attic epigraphy, or Greek inscriptions. Meritt reconstructed, with A.B. West, the inscribed tribute-quota lists of the Athenian Empire and is perhaps best known for his work on fifth century BC Athenian finances, which resulted in the four-volume Athenian Tribute Lists, co-authored with H.T. Wade-Gery and M.F. McGregor.</abstract>
+            <physloc id="ref5" label="Paging">LH-SB-10-4</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Meritt, Benjamin Dean, 1899-1989 </persname>
+            </origination>
+        </did>
+        <acqinfo id="ref4">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Gift of Lucy Shoe Meritt, 1993.</p>
+        </acqinfo>
+        <bioghist id="ref2">
+            <head>Biographical/Historical note</head>
+            <p>The collection consists of Meritt's correspondence with his colleagues, research notes, manuscripts of papers, and material from lectures and conferences. The correspondence comprises the bulk of the collection, with significant amounts of correspondence with his closest colleague, Geoffrey Woodhead (0.5 linear ft.) and collaborators West, Wade-Gery, and McGregor.</p>
+        </bioghist>
+        <controlaccess>
+            <corpname rules="aacr" source="naf" role="Correspondent (crp)">American Council of Learned Societies.</corpname>
+            <corpname rules="aacr" source="naf" role="Correspondent (crp)">American Numismatic Society.</corpname>
+            <corpname rules="aacr" source="naf" role="Correspondent (crp)">American Philosophical Society.</corpname>
+            <corpname rules="aacr" source="naf" role="Correspondent (crp)">Athens College.</corpname>
+            <persname rules="aacr" source="naf" role="Correspondent (crp)">Aydelotte, Frank, 1880-1956</persname>
+            <persname rules="aacr" source="naf" role="Correspondent (crp)">Bonner , Campbell, b. 1876</persname>
+            <persname rules="aacr" source="naf" role="Correspondent (crp)">Cherniss, Harold F.,  (Harold Fredrik), 1904-1987</persname>
+            <persname rules="dacs" source="naf" role="Correspondent (crp)">Clement, Paul A.</persname>
+            <persname rules="aacr" source="naf" role="Correspondent (crp)">Dinsmoor, William Bell, 1886-1973</persname>
+            <persname rules="aacr" source="naf" role="Correspondent (crp)">Dow, Sterling, 1903-1995</persname>
+            <persname rules="aacr" source="naf" role="Correspondent (crp)">Edson, Charles F., 1905-</persname>
+            <persname rules="aacr" source="naf" role="Correspondent (crp)">Ferguson, William Scott, 1875-195</persname>
+            <persname rules="aacr" source="naf" role="Correspondent (crp)">Friedlander, Paul, 1882-1968</persname>
+            <corpname rules="aacr" source="naf" role="Correspondent (crp)">Greek War Relief Association.</corpname>
+            <persname rules="aacr" source="naf" role="Correspondent (crp)">Haggard, Patience</persname>
+            <persname rules="aacr" source="naf" role="Correspondent (crp)">Hondius, J.J.E.</persname>
+            <persname rules="aacr" source="local" role="Correspondent (crp)">Moe, Henry Allen, 1894-1975</persname>
+            <corpname source="naf" role="Correspondent (crp)">Princeton University.</corpname>
+            <persname rules="aacr" source="naf" role="Correspondent (crp)">Raubitschek, A. E.,  (Antony Erich), 1912-1999</persname>
+            <persname rules="aacr" source="naf" role="Correspondent (crp)">Richter, Gisela Marie Augusta, 1882-1972</persname>
+            <persname rules="aacr" source="naf" role="Correspondent (crp)">Robinson, Charles Alexander, 1900-1965 </persname>
+            <persname rules="aacr" source="naf" role="Correspondent (crp)">Schweigert, Eugene William</persname>
+            <genreform source="lcsh">Correspondence.</genreform>
+            <genreform source="aat">Research notes. </genreform>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

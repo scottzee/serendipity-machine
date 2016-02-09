@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.970.3.Sp3p-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.970.3.Sp3p</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:26-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Manuscripts on Native Americans, 1913-1946</unittitle>
+            <unitid>Mss.970.3.Sp3p</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1080" type="Box" label="Manuscripts">9</container>
+            <physdesc>
+                <extent>4.75 Linear feet</extent>
+            </physdesc>
+            <unitdate normal="1913/1946" type="inclusive">1913-1946</unitdate>
+            <abstract id="ref18" label="Abstract">Series I (4 folders) contains letters from the American Academy of Political and Social Science; Ruth Benedict; Archibald Crozier; George G. Heye; and Linton Satterthwaite.</abstract>
+            <physloc id="ref35" label="Paging">LH-SB-23-6 (with Speck, Ms.Coll.126)</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Speck, Frank Gouldsmith, 1881-1950</persname>
+            </origination>
+        </did>
+        <relatedmaterial id="ref34">
+            <head>Related Archival Materials note</head>
+            <p>American Philosophical Society Library,</p>
+        </relatedmaterial>
+        <separatedmaterial id="ref32">
+            <head>Separated Materials note</head>
+            <p>American Philosophical Society Library,</p>
+        </separatedmaterial>
+        <custodhist id="ref28">
+            <head>Custodial History note</head>
+            <p>Gift of Mrs. Frank G. Speck; transferred from the Delaware County Institute of Science, 1971-1993.</p>
+        </custodhist>
+        <odd id="ref22">
+            <head>General note</head>
+            <p>This collection has been integrated as a subcollection within the Frank G. Speck Papers (Mss. Ms. Coll. #126)</p>
+        </odd>
+        <bioghist id="ref20">
+            <head>Biographical/Historical note</head>
+            <p>Frank Gouldsmith Speck was an anthropologist, linguist and ethnologist. He was educated at Columbia University (A.B., 1904; M.A., 1905), and at the University of Pennsylvania (Ph.D., 1908), where he remained for the rest of his professional career.</p>
+        </bioghist>
+        <acqinfo id="ref13">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Mrs. Frank G. Speck</p>
+        </acqinfo>
+        <altformavail id="ref9">
+            <head>Existence and Location of Copies note</head>
+            <p>Available on microfilm (in a different arrangement from the processed collection) from</p>
+        </altformavail>
+        <arrangement id="ref7">
+            <head>Arrangement note</head>
+            <p>Organized into four series: I. Correspondence, 1926-1946 ; II. Works by Speck, 1913-1942 ; III. Field Notes, n.d. ; IV. Photographs, n.d.</p>
+        </arrangement>
+        <controlaccess>
+            <corpname rules="aacr" source="naf">American Academy of Political and Social Science.</corpname>
+            <persname source="ingest">Benedict, Ruth, 1887-1848</persname>
+            <persname rules="aacr" source="local">Carpenter, Edmund, 1922-2011</persname>
+            <persname source="ingest">Crozier, Archibald.</persname>
+            <persname source="ingest">Eiseley, Loren C., 1907-1977</persname>
+            <persname source="ingest">Hassrick, Royal B.</persname>
+            <persname source="naf">Heye, George G.,  (George Gustav), 1874-1957 </persname>
+            <persname rules="aacr" source="naf">Stein, Philip</persname>
+            <famname source="ingest">Witapanóxwe.</famname>
+            <subject source="lcsh">Algonquian Indians</subject>
+            <subject source="lcsh">Beothuk Indians</subject>
+            <subject source="lcsh">Cherokee Indians </subject>
+            <subject source="lcsh">Chickasaw Indians</subject>
+            <subject source="lcsh">Houma Indians</subject>
+            <subject source="lcsh">Indians of North America--Hunting</subject>
+            <subject source="lcsh">Indians of North America--Social life and customs</subject>
+            <function source="aat">Manuscripts.</function>
+            <subject source="lcsh">Mapuche Indians</subject>
+            <subject source="lcsh">Micmac Indians</subject>
+            <subject source="lcsh">Montagnais Indians</subject>
+            <subject source="lcsh">Naskapi Indians</subject>
+            <subject source="lcsh">Penobscot Indians</subject>
+            <subject source="lcsh">Siouan Indians</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

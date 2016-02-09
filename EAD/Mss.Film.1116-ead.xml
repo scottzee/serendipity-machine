@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Film.1116-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Film.1116</num>
+                </titleproper>
+                <author>Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T20:12-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Joseph Carson letters, 1789-1858</unittitle>
+            <unitid>Mss.Film.1116</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid431" type="Reel" label="Microform">1</container>
+            <physdesc>
+                <extent>1.0 Microfilm reel(s)</extent>
+            </physdesc>
+            <unitdate normal="1789/1858" type="inclusive">1789-1858</unitdate>
+            <physdesc id="ref3" label="General Physical Description note">1 microfilm reel. Reproduced at the American Philosophical Society Library, 1962.</physdesc>
+            <abstract id="ref1" label="Abstract">These letters of American Philosophical Society members and prominent early American scientists were selected from Carson's extra-illustrated draft of "A History of the Medical Department of the University of Pennsylvania" (Philadelphia, 1869).</abstract>
+            <physloc id="ref6" label="Paging">LH-RR-Media Rm-3</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Alison, Francis, 1705-1779</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Bard, John, 1716-1799</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Barton, Benjamin Smith, 1766-1815</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Bond, Thomas, 1712-1784</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Carson, Joseph, 1808-1876</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Clayton, John, 1686-1773</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Colden, Cadwallader, 1688-1776</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Collinson, Peter, 1694-1768</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Cooper, Thomas, 1759-1839</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Currie, William, 1754-1828</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Darlington, William, 1782-1863</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Fothergill, John, 1712-1780</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Hewson, William, 1739-1774</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">McClurg, James, ca. 1746-1823</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Middleton, Peter, 1752-1781</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Mitchill, Samuel L.,  (Samuel Latham), 1764-1831</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Nuttall, Thomas, 1786-1859</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Priestley, Joseph, 1733-1804</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Ramsay, David, 1749-1815</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Smith, William, 1727-1803</persname>
+            </origination>
+            <origination label="creator">
+                <corpname rules="aacr" source="naf" role="Correspondent (crp)">University of Pennsylvania. Dept. of Medicine - Faculty.</corpname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="local" role="Correspondent (crp)">Wistar, Caspar, 1761-1818</persname>
+            </origination>
+        </did>
+        <bioghist id="ref4">
+            <head>Biographical/Historical note</head>
+            <p>Physician Joseph Carson taught medicine at the University of Pennsylvania. The College of Philadelphia's Medical School, founded in 1765, became known as the University of Pennsylvania, Dept. of Medicine In 1779.</p>
+        </bioghist>
+        <originalsloc id="ref2">
+            <head>Existence and Location of Originals note</head>
+            <p>Originals in College of Physicians of Philadelphia.</p>
+        </originalsloc>
+        <odd id="ref5">
+            <head>Early American History Note</head>
+            <p>This is a microfilm of an early American collection that may be of interest to researchers at the APS and may complement an original manuscript collection at the APS.</p>
+        </odd>
+        <controlaccess>
+            <corpname rules="aacr" source="local">American Philosophical Society. Membership.</corpname>
+            <subject source="lcsh">Medical education -- United States.</subject>
+            <subject source="lcsh">Medicine</subject>
+            <genreform source="leah">Microfilm Collection</genreform>
+            <subject source="lcsh">Physicians</subject>
+            <occupation source="lcsh">Scientists.</occupation>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

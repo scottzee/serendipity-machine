@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.C99-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.C99</num>
+                </titleproper>
+                <author>Finding aid prepared by Anne Harney. Revised by Friederike Baer (NEH 2010).</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T19:05-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Georges Cuvier, baron, correspondence, 1799-1829</unittitle>
+            <unitid>Mss.B.C99</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="fre"/>
+            </langmaterial>
+            <container id="cid656" type="Box" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>0.25 Linear feet</extent>
+            </physdesc>
+            <unitdate normal="1799/1829" type="inclusive">1799-1829</unitdate>
+            <physdesc id="ref4" label="General Physical Description note">19 items (18 ms; 1 photocopy).</physdesc>
+            <abstract id="ref1" label="Abstract">These letters relate to natural history, zoology, and the Muséum national d'histoire naturelle, as well as current events.</abstract>
+            <physloc id="ref70" label="Paging">LH-MV-C-3</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Bostock, John, 1773-1846</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Cuvier, Georges, Baron, 1769-1832</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">D'Hericy, Achille</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Hammer-Purgstall, Joseph, Freiherr von,  1774-1856</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Holland, Henry Richard Vassall, Baron, 1773-1840</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">La Cépède, M. le comte de ,  (Bernard Germain Etienne de La Ville sur Illon), 1756-1825</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Lemon, Charles</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Lichtenstein, Hinrich, 1780-1857</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Thouin, André, 1747-1824</persname>
+            </origination>
+        </did>
+        <scopecontent id="ref69">
+            <head>Scope and Contents note</head>
+            <p>The collection includes nineteen letters by Georges Cuvier, dated between 1799 and 1829. They relate primarily to natural history, especially zoology, but also to current events. Some of the letters were written by Cuvier in his capacity as perpetual secretary of the Institut National Des Sciences et des Arts in Paris. There is also information about the Muséum national d'histoire naturelle, where Cuvier held the Chair in Animal Anatomy from 1802 to 1832.</p>
+        </scopecontent>
+        <bioghist id="ref3">
+            <head>Biographical/Historical Note</head>
+            <p>Georges Cuvier (1769-1832) was a French zoologist, paleontologist and historian of science. A committed empiricist, Cuvier opposed theories, arguing that scientists should limit themselves to describing. In zoology his work depended upon his dominant position at the Muséum d’Histoire Naturelle, which was the largest scientific research institution of the era. French government expeditions brought specimens from distant lands to build its collections. Upon his arrival at the Museum Cuvier rearranged its comparative anatomy collections, assembled at the end of the seventeenth century by Claude Perrault and in the middle of the eighteenth century by Louis Jean Marie Daubenton. Although Cuvier traveled little, he published three works of general zoology: 
+                <emph render="italic">Tableau élémentaire de l’histoire naturelle des animaux</emph>(1797), 
+                <emph render="italic">Leçons d’anatomie comparèe</emph> with C. Duméril and G. Duverney (1800, 1805) and 
+                <emph render="italic">Le règne animal</emph>(1817) arranged according to his new system of classification. Perhaps his greatest contribution was the 
+                <emph render="italic">Histoire des poisons</emph>, begun in Normandy and continuing after his death, which provided the basis of modern ichthyology.</p>
+            <p>Cuvier was born at Montbéliard in Württemberg on August 23, 1769, the son of a poor (but still middle class) soldier who was a retired French officer married to a woman twenty years his junior. He was born with a delicate constitution and enjoyed drawing as a child, but also demonstrated a precocious intellectual development and an astonishing memory. Among his childhood accomplishments was to master the entire corpus of Buffon’s works by the age of twelve, to begin a natural history collection and to found a scientific society with some friends. Montbéliard, originally part of Burgundy, had been subject to the duke of Württemberg and adopted the Lutheran faith during the Reformation. Cuvier’s parents intended that he become a Lutheran minister like his uncle, but he was unable to obtain a scholarship to study theology at Tübingen. Instead, the wife of the governor of Montbéliard recommended him to attend the Caroline University. He entered the University in 1784 at the age of fifteen and after two years of general studies, during which he learned German. Cuvier specialized in administrative, juridical and economic sciences, but the curriculum included a considerable amount of natural history. Cuvier’s zoology teacher the gifted twenty-year-old Karl Friedrich Kielmeyer became one of the founders of the German school of Naturphilosophie. Kielmeyer taught Cuvier the art of dissection, and probably also comparative anatomy, taught in Tübingen by J.F. Blumenbach.</p>
+            <p>After three years in 1787, Cuvier won the golden cross of chevaliers, which allowed him to live and learn with children of the aristocracy, and sometimes with the Duke Württemberg himself. Cuvier finished his studies in 1788, and since there were no vacant positions at court, he was forced to accept a position as private tutor in Normandy with an affluent Protestant aristocratic family named d’Héricy. Despite the beginnings of the French Revolution in 1789, his duties as tutor over the next six years kept him away from the radical events and influences of the Revolution. Instead, his life in Caen gave him access to a rich library and botanical garden. In the spring and summer months he accompanied the d’Héricy family to the Château of Fiquainville near the fishing port of Fécamp. There he had an opportunity to dissect many marine animals and shorebirds. He began keeping notes nearly every day together with sketches in large notebooks. Following Carl Linnaeus, he called these his Diarium zoologicum and Diarium botanicum.</p>
+            <p>Also during this period Cuvier corresponded with his friend and closest disciple Christian Heinrich Pfaff at the Caroline University, in order to keep in touch with the University and ducal administration and to provide political intelligence. Cuvier feigned sympathy for the Revolution, since he ran the risk that his mail might be opened by the police; however, he often later expressed his fear and disapproval of the revolutionary regime in which he asserted “the populace made the law.” The Cuvier-Pfaff correspondence is doubly important to the historian of science because during the five-year period between his nineteenth and twenty-third birthdays he acquired the basic scientific ideas he would develop over the course of his career—a “chain of being,” and an uncompromising empiricism divorced from theory. He wrote to Pfaff in 1788: “I wish everything that experience shows us to be carefully disassociated from hypotheses . . . . [S]cience should be based upon facts, despite systems.” In his first publication, a study of wood lice that appeared in the Journal d’histoire naturelle, he appears to have affirmed the notion of a complex chain of being, when he stated, “Here, as elsewhere, nature makes no jumps . . .therefore, the descent is by degrees from crayfish to Squilla, from Squilla to Asellidae, then to lice, to Armadilladiidae and to galley worms. All of these genera must be related to a single class.”</p>
+            <p>Cuvier became a French citizen in 1793, as a result of the French annexation of Montbéliard. Consequently, he sought recognition within Parisian scientific circles. At the suggestion of agronomist H.A. Tessier he sent a selection of his unpublished scientific works to Professor Ètienne Geoffroy Saint-Hilaire. The youthful Saint-Hilaire enthusiastically encouraged Cuvier to come to Paris, which he did in 1795. Shortly after his arrival, Cuvier drew upon the observations of earlier dissections that he had performed in Normandy and presented a paper that represented a new stage in the study of invertebrates. Much later in 1829 he testified that “Before me modern naturalists divided all nonvertebrate animals into two classes, insects and worms. I was the first . . . to offer another division . . . in which I pointed out the characteristics and limits of mollusks, crustaceans, insects, worms, echinoderms and zoophytes.” Cuvier’s new classifications proved so influential that Jean-Baptiste Lamarck in the introduction to his zoology course decided “to follow to a very great extent [the classification] devised by the learned naturalist Cuvier.” Saint-Hilaire and Cuvier worked together for about a year, during which the former, no doubt, influenced by his new associate, dropped his hostility and affirmed the notion of a chain of being. In a jointly published paper on tarsiers [the smallest of primates], they suggested the genus might be considered a link between quadrumana and Chiroptera or bats. In another paper on orangutans, they boldly proposed the theory that the origin of species was from a single type. Cuvier’s Histoire des poisons, begun in Normandy was a work that he gradually improved and published in collaboration with Achille Valenciennes. The volumes began appearing in 1828 and continued long after Cuvier’s death, only stopping with the twenty-second volume in 1849 with Valenciennes’s passing. Cuvier’s classifications of fishes were so solid that they established the bases of modern ichthyology; many of his classes becoming orders or suborders in the current classification system.</p>
+            <p>Cuvier was also famous for his paleontological reconstructions, which had the living creatures as their point of departure. Taking a holistic perspective, he said the living being constitutes “a unique closed system, all parts of which mutually correspond and concur in the same definitive action through a reciprocal reaction. None of these parts can change without changing others, as well . . . .” So, for example, a carnivore ought to have intestines capable of digesting meat, as well as sharp claws and teeth to seize its prey and powerful jaws and muscles appropriate to the osseous structure. As a result, Cuvier asserted that every well preserved piece of bone potentially allows the zoologist to determine the class, order, genus and (even) species from which the specimen came. In addition to his general zoological works and his work on fishes and mollusks, Cuvier made important contributions to the history of science. As permanent secretary of the Academy, Cuvier had to write and deliver periodic reports on the progress of French research in the sciences, reports bound in four volues in 1828 and five volumes again in 1833. He also had responsibility for composing elegies for deceased members of the Academy. Finally, he wrote articles for Michaud’s Biographie universelle on Aristotle, Buffon, Daubenton, Linnaeus, Pliny and Vicq d’Azyr among others.</p>
+            <p>Cuvier’s rapid rise to fame resulted both from the significance of his scientific work and his abilities as a teacher and administrator. Typically, after only a few minutes of preparation, he was able to deliver a logically constructed lecture in a confident manner; and without pausing illustrated his ideas in blackboard drawings that were clear and accurate. In April 1796, at only twenty-six years of age he became a member of the Class of Physical Sciences at the Institut de France. Four years later in 1800 he succeeded the celebrated naturalist Louis-Jean-Marie Daubenton as a professor at the Collège de France, and was given the administrative responsibility for reorganizing the lycèes of Bordeaux, Nice and Mareseilles. In 1803 Cuvier assumed the well-paid duties of permanent secretary for the physical sciences at the Institut. In 1808, after the Empire had replaced the Consulate, Napoleon appointed Cuvier university counselor. In this position he contributed greatly to the organization of the new Sorbonne. Afterward, he was sent on missions to Italy, the Netherlands and southern Germany to reorganize their systems of higher education. In recompense he received the title and endowment of chevalier in 1811. Cuvier fared equally well under the Bourbons of the restored monarchy in 1814. Although supportive of the exercise and growth of Protestantism in an era of ultraroyalist hostility, he became a devoted servant of the French kings. He was director of Protestant universities, and in 1814 became councilor of state. From 1819 until his death he presided over the Council of State, and daily at eleven o’clock attended to the business of the council of state or the council of public instruction. Monday afternoons he set aside for the Institute.</p>
+            <p>Cuvier was always busy, always in a hurry. He had an immense workload of scientific and administrative duties, and as he grew older, he grew busier. He was open to flattery, and easily irritated. A nepotist, he obtained positions for friends and relatives. He was very secretive and very authoritarian. Nevertheless, he was kind to aspiring young persons, both assisting and advising them.</p>
+            <p>A proponent of enlightened despotism, Cuvier seemed to fare well under every political regime. He was short, and during the Revolution very thin. He grew stout during the Empire, and enormously fat after the restoration. Nicknamed “Mammoth,” he appeared as a sort of bishop of science. In February of 1804 he married Mme. Davaucelle, a devout Protestant widow with four children, who bore him four more. She was a kind, energetic and outspoken spouse, who saw to everything, including the naturalist’s favorite Montbèliard chitterling sausages that were never missing from the table. Nevertheless, his happiness was darkened by the death of his four children, and he tried to overcome his grief by incessant toil. One evening in May, 1832 Cuvier experienced a slight paralysis and contraction of his esophagus. He became weaker over the next few days, and died on May 13.</p>
+            <p>A major source of Cuvier’s strength as a scientist, teacher and administrator lay in his powerful memory. He had 19,000 volumes in his library, as well as thousands of pamphlets, the contents of which he had committed to memory and could retrieve within seconds as needed.</p>
+        </bioghist>
+        <acqinfo id="ref2">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Initial deposit, 1958; see in-house shelf list for additional purchases, accession numbers and dates.</p>
+        </acqinfo>
+        <odd id="ref71">
+            <head>Early American History Note</head>
+            <p>This manuscript collection falls outside the geographic scope of the Early American guide (British North America and the United States before 1840). It may be of interest to scholars interested in global history, international relations, imperialism, or the U.S. in the world.</p>
+        </odd>
+        <controlaccess>
+            <corpname rules="aacr" source="naf">Muséum national d'histoire naturelle (France).</corpname>
+            <subject source="leah">Beyond Early America</subject>
+            <subject source="lcsh">Fishes -- Collection and preservation.</subject>
+            <subject source="lcsh">Fossils -- Collection and preservation -- France.</subject>
+            <subject source="lcsh">Natural history.</subject>
+            <subject source="lcsh">Zoology.</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref5" level="series">
+                <did>
+                    <unittitle>Correspondence</unittitle>
+                </did>
+                <c02 id="ref6" level="file">
+                    <did>
+                        <unittitle>Letter to ...;</unittitle>
+                        <unitdate>Dec. 16, 1799</unitdate>
+                        <physdesc id="ref7" label="General Physical Description note">8-1/2x7</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Cuvier, Georges, baron, 1769-1832</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref8">
+                        <head>Scope and Contents note</head>
+                        <p>Paris, An 8 Frimaire 25 Photo.of A.L.S. 6p. In French. (from original in Petrus Camper Papers, K. Nederlandsche Maatschappij tot Bevordering der Geneeskunst, on deposit in Univ. of Amsterdam Library.) Concerning elephants, mammoths and American fossil remains; natural history.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref30" level="file">
+                    <did>
+                        <unittitle>Letter to the Minister of the Interior</unittitle>
+                        <langmaterial>
+                            <language langcode="fre"/>
+                        </langmaterial>
+                        <unitdate>February 25, 1801</unitdate>
+                        <langmaterial id="ref32" label="Language of Materials note">In French</langmaterial>
+                        <origination label="creator">
+                            <persname source="ingest">Cuvier, Georges, baron, 1769-1832</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref31">
+                        <head>Scope and Contents note</head>
+                        <p>Regarding assistance to citizen Mace, who has been stranded on the coast of Coromandel. Mace was traveling to the Cape of Good Hope and the Isle of France.</p>
+                    </scopecontent>
+                    <acqinfo id="ref33">
+                        <head>Immediate Source of Acquisition note</head>
+                        <p>1970 1682.a ms</p>
+                    </acqinfo>
+                </c02>
+                <c02 id="ref34" level="file">
+                    <did>
+                        <unittitle>Letter to Joseph von Hammer-Purgstall</unittitle>
+                        <langmaterial>
+                            <language langcode="fre"/>
+                        </langmaterial>
+                        <unitdate>Sept. 12, 1801</unitdate>
+                        <langmaterial id="ref35" label="Language of Materials note">In French</langmaterial>
+                        <origination label="creator">
+                            <persname source="ingest">Cuvier, Georges, baron, 1769-1832</persname>
+                        </origination>
+                    </did>
+                    <acqinfo id="ref36">
+                        <head>Immediate Source of Acquisition note</head>
+                        <p>1971 144.a ms</p>
+                    </acqinfo>
+                </c02>
+                <c02 id="ref9" level="file">
+                    <did>
+                        <unittitle>Letter to M. le president de la classe des Sciences...de l'Institut national;</unittitle>
+                        <unitdate>Jan. 8, 1804</unitdate>
+                        <physdesc id="ref10" label="General Physical Description note">7 1/2" x 9 1/2"</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Cuvier, Georges, baron, 1769-1832</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref11">
+                        <head>Scope and Contents note</head>
+                        <p>Jardin des pl[antes], le 17 Nivose, An 12. L.S. 1p. and add. In French. Suggests that M. Lacépède or someone else conduct the meeting on Monday in the absence of M. Delambre.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref12" level="file">
+                    <did>
+                        <unittitle>Letter to ----;</unittitle>
+                        <unitdate>Jan. 5, 1816</unitdate>
+                        <physdesc id="ref13" label="General Physical Description note">9 1/2" x 7"</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Cuvier, Georges, baron, 1769-1832</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref14">
+                        <head>Scope and Contents note</head>
+                        <p>A.L.S. 1p. In French. Acknowledges gift for the Museum. Letter being delivered by M. de Candolle.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref37" level="file">
+                    <did>
+                        <unittitle>Letter to to Joseph von Hammer-Purgstall</unittitle>
+                        <langmaterial>
+                            <language langcode="fre"/>
+                        </langmaterial>
+                        <unitdate>Oct. 3, 1816</unitdate>
+                        <langmaterial id="ref39" label="Language of Materials note">In French</langmaterial>
+                        <origination label="creator">
+                            <persname source="ingest">Cuvier, Georges, baron, 1769-1832</persname>
+                        </origination>
+                    </did>
+                    <acqinfo id="ref38">
+                        <head>Immediate Source of Acquisition note</head>
+                        <p>1971 144.b ms</p>
+                    </acqinfo>
+                    <scopecontent id="ref68">
+                        <head>Scope and Contents note</head>
+                        <p>Mentions his work "Le Règne Animal." Refers to de Grote and Heyne.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref15" level="file">
+                    <did>
+                        <unittitle>Letter to [Henry Richard Vassall Fox, first baron] Lord Holland;</unittitle>
+                        <unitdate>Sept. 6, 1818</unitdate>
+                        <physdesc id="ref16" label="General Physical Description note">9x7-1/4</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Cuvier, Georges, baron, 1769-1832</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref17">
+                        <head>Scope and Contents note</head>
+                        <p>A.L.S. 1p. In French. Has been preparing a speech for the Institut de France. Thanks him and Lady Holland for their hospitality.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref18" level="file">
+                    <did>
+                        <unittitle>Letter to Charles Lemon;</unittitle>
+                        <unitdate>Sept. 8, 1823</unitdate>
+                        <physdesc id="ref19" label="General Physical Description note">10x7-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Cuvier, Georges, baron, 1769-1832</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref20">
+                        <head>Scope and Contents note</head>
+                        <p>Paris, A.L.S. 1p. In French. Thanks for comptes de finances. Friendly letter.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref44" level="file">
+                    <did>
+                        <unittitle>Letter to to Francois Andre Michaux</unittitle>
+                        <langmaterial>
+                            <language langcode="fre"/>
+                        </langmaterial>
+                        <unitdate>Nov. 1824</unitdate>
+                        <langmaterial id="ref46" label="Language of Materials note">In French</langmaterial>
+                        <origination label="creator">
+                            <persname source="ingest">Cuvier, Georges, baron, 1769-1832</persname>
+                        </origination>
+                    </did>
+                    <acqinfo id="ref45">
+                        <head>Immediate Source of Acquisition note</head>
+                        <p>1970 1903ms</p>
+                    </acqinfo>
+                </c02>
+                <c02 id="ref21" level="file">
+                    <did>
+                        <unittitle>Letter to Prof. Lichtenstein, Berlin;</unittitle>
+                        <unitdate>Sept. 16, 1826</unitdate>
+                        <physdesc id="ref22" label="General Physical Description note">8-1/4x7-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Cuvier, Georges, baron, 1769-1832</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref23">
+                        <head>Scope and Contents note</head>
+                        <p>A.L.S. 1p.and add. In French. Wishes he could send something by Humboldt and Valenciennes, who go to Berlin. Expedition for fishes. Friendly letter.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref24" level="file">
+                    <did>
+                        <unittitle>Letter to ----;</unittitle>
+                        <unitdate>Oct. 9, 1827</unitdate>
+                        <physdesc id="ref25" label="General Physical Description note">8" x 5"</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Cuvier, Georges, baron, 1769-1832</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref26">
+                        <head>Scope and Contents note</head>
+                        <p>A.L.S. 1p. and add. In French. Invitation to diner.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref47" level="file">
+                    <did>
+                        <unittitle>Letter to the Minister of the Interior</unittitle>
+                        <unitdate>Dec. 9, 1827</unitdate>
+                        <langmaterial id="ref50" label="Language of Materials note">In French</langmaterial>
+                        <origination label="creator">
+                            <persname source="ingest">Cuvier, Georges, baron, 1769-1832</persname>
+                        </origination>
+                    </did>
+                    <acqinfo id="ref48">
+                        <head>Immediate Source of Acquisition note</head>
+                        <p>1970 1682.b ms</p>
+                    </acqinfo>
+                    <scopecontent id="ref49">
+                        <head>Scope and Contents note</head>
+                        <p>Sending prospectus of his “great work;” hopes that it is useful to science and national industry.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref27" level="file">
+                    <did>
+                        <unittitle>Letter to Dr. [John] Bostock;</unittitle>
+                        <unitdate>March 22, 1829</unitdate>
+                        <physdesc id="ref28" label="General Physical Description note">7 3/4" x 6"</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Cuvier, Georges, baron, 1769-1832</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref29">
+                        <head>Scope and Contents note</head>
+                        <p>Paris, A.L.S. 1p. In French. Concerning a translation of his work.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref40" level="file">
+                    <did>
+                        <unittitle>Letter to to Achille d’Hericy</unittitle>
+                        <langmaterial>
+                            <language langcode="fre"/>
+                        </langmaterial>
+                        <unitdate>Dec. 24</unitdate>
+                        <langmaterial id="ref43" label="Language of Materials note">In French</langmaterial>
+                        <origination label="creator">
+                            <persname source="ingest">Cuvier, Georges, baron, 1769-1832</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref41">
+                        <head>Scope and Contents note</head>
+                        <p>Midnight, Christmas Eve. Refers to reviews of his new work. Mentions comments about it by Faujas, Thouin, Reveillere-Lepaux, and Desfontaines.</p>
+                    </scopecontent>
+                    <acqinfo id="ref42">
+                        <head>Immediate Source of Acquisition note</head>
+                        <p>1970 1682.d ms</p>
+                    </acqinfo>
+                </c02>
+                <c02 id="ref51" level="file">
+                    <did>
+                        <unittitle>Letter to Monsieur Cottard</unittitle>
+                        <unitdate>undated</unitdate>
+                        <langmaterial id="ref52" label="Language of Materials note">In French</langmaterial>
+                        <origination label="creator">
+                            <persname source="ingest">Cuvier, Georges, baron, 1769-1832</persname>
+                        </origination>
+                    </did>
+                    <acqinfo id="ref53">
+                        <head>Immediate Source of Acquisition note</head>
+                        <p>1974 1048ms</p>
+                    </acqinfo>
+                </c02>
+                <c02 id="ref54" level="file">
+                    <did>
+                        <unittitle>Letter to ----</unittitle>
+                        <unitdate>undated</unitdate>
+                        <langmaterial id="ref56" label="Language of Materials note">In French</langmaterial>
+                        <origination label="creator">
+                            <persname source="ingest">Cuvier, Georges, baron, 1769-1832</persname>
+                        </origination>
+                    </did>
+                    <acqinfo id="ref55">
+                        <head>Immediate Source of Acquisition note</head>
+                        <p>1971 144.d ms</p>
+                    </acqinfo>
+                </c02>
+                <c02 id="ref57" level="file">
+                    <did>
+                        <unittitle>Letter to "Monsieur"</unittitle>
+                        <unitdate>undated</unitdate>
+                        <langmaterial id="ref59" label="Language of Materials note">In French</langmaterial>
+                        <origination label="creator">
+                            <persname source="ingest">Cuvier, Georges, baron, 1769-1832</persname>
+                        </origination>
+                    </did>
+                    <acqinfo id="ref58">
+                        <head>Immediate Source of Acquisition note</head>
+                        <p>1973 1855ms</p>
+                    </acqinfo>
+                    <scopecontent id="ref60">
+                        <head>Scope and Contents note</head>
+                        <p>Thanks for the fine work sent by "Monsieur." Is returning it with corrections, including the information about the Chair of Comparative Anatomy.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref61" level="file">
+                    <did>
+                        <unittitle>Letter to Joseph von Hammer-Purgstall</unittitle>
+                        <unitdate>undated</unitdate>
+                        <langmaterial id="ref63" label="Language of Materials note">In French</langmaterial>
+                        <origination label="creator">
+                            <persname source="ingest">Cuvier, Georges, baron, 1769-1832</persname>
+                        </origination>
+                    </did>
+                    <acqinfo id="ref62">
+                        <head>Immediate Source of Acquisition note</head>
+                        <p>1971 144.c ms</p>
+                    </acqinfo>
+                </c02>
+                <c02 id="ref64" level="file">
+                    <did>
+                        <unittitle>Letter to de la Cepede</unittitle>
+                        <unitdate>undated</unitdate>
+                        <langmaterial id="ref65" label="Language of Materials note">In French</langmaterial>
+                        <origination label="creator">
+                            <persname source="ingest">Cuvier, Georges, baron, 1769-1832</persname>
+                        </origination>
+                    </did>
+                    <acqinfo id="ref66">
+                        <head>Immediate Source of Acquisition note</head>
+                        <p>1974 21ms</p>
+                    </acqinfo>
+                    <scopecontent id="ref67">
+                        <head>Scope and Contents note</head>
+                        <p>Received his letter with pain; concerning de la Capede's removal from "greatest institution of natural history."</p>
+                    </scopecontent>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

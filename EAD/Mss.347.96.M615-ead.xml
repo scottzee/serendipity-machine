@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.347.96.M615-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.347.96.M615</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:08-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="item">
+        <did>
+            <unittitle>Register Book H, 1765-1777</unittitle>
+            <unitid>Mss.347.96.M615</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid732" type="Volume" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>1.0 Volume(s)</extent>
+                <extent>1 volume, 309 p. </extent>
+            </physdesc>
+            <unitdate normal="1765/1777" type="inclusive">1765-1777</unitdate>
+            <abstract id="ref1" label="Abstract">This volume contains copies of depositions sworn before Peter Miller, letters of attorney, bonds, receipts, bills of sale, and contracts of marriage, etc. There is an index of names, which lists, among many others, George Glentworth, John Kearsley, Reese Meredith, Frederick Phile, and James Ralph. See date of 18 May 1768 for B. Franklin; 30 October 1773 for Kearsley. Film 54-67 Frame 136.</abstract>
+            <physdesc id="ref6" label="General Physical Description note">1 volume, 309 p.</physdesc>
+            <physloc id="ref8" label="Paging">LH-MV-E-7</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Miller, Peter,1724?-1794.</persname>
+            </origination>
+        </did>
+        <odd id="ref7">
+            <head>Early American History Note</head>
+            <p>The Peter Miller deposition book contains a wealth of information about the social life of Philadelphia. Miller was a notary public in the city and had many people appear before him on a variety of matters. The depositions can occasionally provide intriguing details about events and litigation that happened in Philadelphia. One deposition describes a controversy over a rotten tobacco shipment, while others deal with personal disputes over debts. Some of the depositions are in German, providing insight on the German community within Philadelphia.</p>
+        </odd>
+        <acqinfo id="ref5">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Purchased from Allen and accessioned, 1949 (87836).</p>
+        </acqinfo>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>Peter Miller was a Philadelphia notary public.</p>
+        </bioghist>
+        <controlaccess>
+            <persname rules="aacr" source="local">Glentworth, George</persname>
+            <famname source="ingest">Kearsley, John, -- d. 1772.</famname>
+            <persname rules="aacr" source="local">Meredith, Reese</persname>
+            <persname rules="aacr" source="local">Phile, Frederick</persname>
+            <persname rules="aacr" source="naf">Ralph, James</persname>
+            <genreform source="lcsh">Depositions.</genreform>
+            <subject source="lcsh">Legal documents.</subject>
+            <genreform source="leah">Legal Records</genreform>
+            <subject source="lcsh">Notaries -- Pennsylvania -- Philadelphia.</subject>
+            <subject source="leah">Philadelphia History</subject>
+            <genreform source="lcsh">Receipts.</genreform>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

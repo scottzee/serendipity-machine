@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.F351-ead.xml">PUBLIC "-//American Philosophical Society Library//TEXT(US::PAAV::B F351:: John F. Fenton Day Books)//EN" "fentonjf.xml"</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>John F. Fenton Day Books
+                    <date type="span">1829-1844</date>
+                    <num>Mss.B.F351</num>
+                </titleproper>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+                <date>4/2003</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T19:13-0400</date>
+            </creation>
+            <langusage>ENG</langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>John F. Fenton Day Books</unittitle>
+            <unitid>Mss.B.F351</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>0.25 Linear feet</extent>
+                <extent>2 volumes</extent>
+            </physdesc>
+            <unitdate normal="1829/1844" type="inclusive">1829-1844</unitdate>
+            <abstract id="ref2" label="Abstract">Beginning in about 1830, John F. Fenton began a thriving business as a wheelwright in Newtown, Bucks County, Pennsylvania. He married Mary Ann Ring, also of Newtown, on November 26, 1834, and was elected a County Commissioner in the late 1850s. 
+                <lb/>These Day Books provide a detailed record of work performed by Fenton between 1830 and 1844, primarily the manufacture or repair of wagons and wheels (double trees, wagon tongues, sideboards, spokes, rims), with very occasional reference to carriages.</abstract>
+            <physdesc id="ref1" label="General Physical Description note">2 vols. (289pp.); 0.25 linear feet</physdesc>
+            <physloc id="ref10" label="Paging">LH-MV-E-1</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Fenton, John F.</persname>
+            </origination>
+        </did>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>Beginning in about 1830, John F. Fenton began a thriving business as a wheelwright in Newtown, Bucks County, Pennsylvania. He married Mary Ann Ring, also of Newtown, on November 26, 1834, and was elected a County Commissioner in the late 1850s.</p>
+        </bioghist>
+        <scopecontent id="ref4">
+            <head>Scope and Contents note</head>
+            <p>The Fenton Day Books provide a daily record of work performed by the Bucks County wheelwright and County Commissioner, John F. Fenton, between 1830 and 1844, primarily the manufacture or repair of wagons and wheels (double trees, wagon tongues, sideboards, spokes, rims), with very occasional reference to carriages. Other activities are occasionally recorded by Fenton, including making a plough, mending and painting a hay rake, dressing saws, and providing cord wood, and in 1831, he records going hunting "in the pines" and getting five deer.</p>
+            <p>Volume 1 consists of three volumes bound together; volume 2 includes 4 pages of work by hired hands for June 1853.</p>
+        </scopecontent>
+        <prefercite id="ref6">
+            <head>Preferred Citation note</head>
+            <p>Cite as: John F. Fenton Day Books, American Philosophical Society.</p>
+        </prefercite>
+        <acqinfo id="ref7">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Gift of Edward H. Barnsley, 1977 (accn. no. 1977-204ms).</p>
+        </acqinfo>
+        <processinfo id="ref8">
+            <head>Processing Information note</head>
+            <p>Recatalogued rsc April 2003.</p>
+        </processinfo>
+        <odd id="ref9">
+            <head>Early American History Note</head>
+            <p>The John Fenton Collection consists of daybooks for Fenton's business as a wheelwright. The books contain records of clients, prices charged, and costs for goods and labor for the years 1830-1844.</p>
+        </odd>
+        <controlaccess>
+            <subject source="leah">Business and Skilled Trades</subject>
+            <genreform source="leah">Business Records and Accounts</genreform>
+            <subject source="ingest">Carriage and wagon making--Pennsylvania--Bucks County</subject>
+            <genreform source="lcsh">Daybooks.</genreform>
+            <subject source="ingest">Wheelwrights--Pennsylvania--Bucks County</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

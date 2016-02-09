@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.P31.19-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.P31.19</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T19:52-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc audience="internal" level="item">
+        <did>
+            <unittitle>Mary Jane Peale journal, 1844</unittitle>
+            <unitid>Mss.B.P31.19</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1489" type="Volume" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>1.0 Volume(s)</extent>
+                <extent>1 volume, 35 p. </extent>
+            </physdesc>
+            <unitdate normal="1844/1844">1844</unitdate>
+            <abstract id="ref1" label="Abstract">This journal commenced at Deer Park on 26 April 1844, and continues to 8 October 1844. It is the record of a young woman's daily activities, including rising, dressing, sewing, making and serving meals, walking out, visits, and outings.</abstract>
+            <physdesc id="ref12" label="General Physical Description note">1 volume, 35 p.</physdesc>
+            <physloc id="ref14" label="Paging">LH-MV-E-4</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Peale, Mary Jane, 1827-1902</persname>
+            </origination>
+        </did>
+        <odd id="ref13">
+            <head>Administrative Note</head>
+            <p>This record is superseded by, and included in, B P31. It was marked “internal only” in Dec., 2010 and is being kept in the case that it is needed for future administrative needs.</p>
+        </odd>
+        <relatedmaterial id="ref11">
+            <head>Related Archival Materials note</head>
+            <p>Associated materials in the American Philosophical Society Library,</p>
+        </relatedmaterial>
+        <separatedmaterial id="ref9">
+            <head>Separated Materials note</head>
+            <p>Associated materials in the American Philosophical Society Library,</p>
+        </separatedmaterial>
+        <altformavail id="ref5">
+            <head>Existence and Location of Copies note</head>
+            <p>This journal is also available on microfilm (Film 240, Reel 12).</p>
+        </altformavail>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>Mary Jane Patterson Peale was the daughter of Rubens Peale.</p>
+        </bioghist>
+        <controlaccess>
+            <genreform source="lcsh">Journals (notebooks).</genreform>
+            <subject source="lcsh">Manners and customs.</subject>
+            <geogname source="lcsh">United States -- Social life and customs -- 1783-1865.</geogname>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

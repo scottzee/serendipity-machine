@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.M586.f-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.M586.f</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T19:44-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Mifflin family papers, 1772-1851</unittitle>
+            <unitid>Mss.B.M586.f</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1425" type="Box" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>0.25 Linear feet</extent>
+                <extent>19 items</extent>
+            </physdesc>
+            <unitdate normal="1772/1851" type="inclusive">1772-1851</unitdate>
+            <abstract id="ref1" label="Abstract">These are deeds and papers pertaining to the estate of Samuel Mifflin, et al., of Pennsylvania.</abstract>
+            <physdesc id="ref6" label="General Physical Description note">19 items.</physdesc>
+            <physloc id="ref8" label="Paging">LH-B-20-2</physloc>
+            <origination label="creator">
+                <famname source="ingest" role="Author (aut)">Mifflin family.</famname>
+            </origination>
+        </did>
+        <odd id="ref7">
+            <head>Early American History Note</head>
+            <p>The Mifflin Family Papers consists of various documents relating to property the family owned and estates of descendants. The deed collection includes some that represent the estate of the Penn family. Also included in the collection is a plan for the Susquehanna and Tioga Turnpike.</p>
+        </odd>
+        <acqinfo id="ref5">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by Helen Joseph and accessioned, 05/--/1970 (1970 707ms).</p>
+        </acqinfo>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>Samuel Mifflin (born Samuel Mifflin Francis) was the son of Colonel Turbutt Francis and Sarah Mifflin, and the grandson of Tench Francis and Elizabeth Turbutt, and of Colonel Samuel Mifflin.</p>
+        </bioghist>
+        <controlaccess>
+            <persname source="ingest">Francis, Tench, 1730-1800</persname>
+            <persname rules="aacr" source="naf">Franklin, Benjamin, 1706-1790</persname>
+            <persname rules="aacr" source="local">Frick, George A.</persname>
+            <persname rules="aacr" source="naf">Ingersoll, Joseph R.,  (Joseph Reed), 1786-1868</persname>
+            <persname rules="aacr" source="naf">Mifflin, Charles, 1805-1875</persname>
+            <persname rules="aacr" source="naf">Mifflin, Samuel, 1776-1829</persname>
+            <persname rules="aacr" source="naf">Penn, John, 1729-1795</persname>
+            <famname source="ingest">Penn, Richard, -- ca. 1736-1811.</famname>
+            <subject source="leah">Business and Skilled Trades</subject>
+            <genreform source="leah">Business Records and Accounts</genreform>
+            <genreform source="lcsh">Deeds.</genreform>
+            <subject source="leah">Land and Speculation</subject>
+            <genreform source="leah">Legal Records</genreform>
+            <genreform source="lcsh">Maps.</genreform>
+            <geogname source="lcsh">Nescopeck (Pa.) -- Maps.</geogname>
+            <geogname source="lcsh">Philadelphia (Pa.) -- Commerce.</geogname>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

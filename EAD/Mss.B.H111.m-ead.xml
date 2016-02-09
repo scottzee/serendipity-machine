@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.H111.m-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.H111.m</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T19:30-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Ernst Heinrich Philipp August Haeckel letters, 1867-1914</unittitle>
+            <unitid>Mss.B.H111.m</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1312" type="Box-folder" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>0.25 Linear feet</extent>
+                <extent>8 items</extent>
+            </physdesc>
+            <unitdate normal="1867/1914" type="inclusive">1867-1914</unitdate>
+            <abstract id="ref1" label="Abstract">These letters, mostly in German, refer to evolution, Darwin, monism, phylogeny, radiolaria, morphology, and anatomy, and other scientific work of Haeckel and his correspondents.</abstract>
+            <physdesc id="ref8" label="General Physical Description note">8 items.</physdesc>
+            <physloc id="ref9" label="Paging">LH-MV-C-10</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Haeckel, Ernst Heinrich Philip August</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref7">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Initial purchase from Goodspeed's Book Shop ($335.00) and accessioned, 03/10/1975 (1975 318-323ms, 326ms). Subsequent purchase from Goodspeed's Book Shop ($25.00) and accessioned, 05/08/1978 (1978 477ms).</p>
+        </acqinfo>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>Ernst Haeckel was a German zoologist. In 1862 he became a professor of comparative anatomy and director of the Zoological Institute of the University of Jena, and after 1865 he was a professor of zoology there. He was a strong supporter of Darwin's views on evolution. His own theories include the "biogenetic law" and the "gastraea" theory.</p>
+        </bioghist>
+        <controlaccess>
+            <persname rules="aacr" source="local">Schultze, Fritz, 1846-1908</persname>
+            <persname rules="aacr" source="naf">Semper, C.,  (Carl), 1832-1893 </persname>
+            <corpname source="ingest">Société d'anthropologie de Paris.</corpname>
+            <famname source="ingest">Struck, Hermann.</famname>
+            <persname rules="aacr" source="local">Wakeman, Thomas B.</persname>
+            <subject source="lcsh">Anatomy, Comparative.</subject>
+            <subject source="lcsh">Evolution.</subject>
+            <subject source="lcsh">Monism.</subject>
+            <subject source="lcsh">Morphology.</subject>
+            <subject source="lcsh">Phylogeny.</subject>
+            <subject source="lcsh">Radiolaria.</subject>
+            <subject source="lcsh">Zoologists -- Germany.</subject>
+            <subject source="lcsh">Zoology.</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

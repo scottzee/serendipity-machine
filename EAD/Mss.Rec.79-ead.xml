@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Rec.79</num>
+                </titleproper>
+                <author>Finding aid prepared by Brian Carpenter</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+                <date>June 2012</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T21:18-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Navajo Texts</unittitle>
+            <unitid>Mss.Rec.79</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="nav"/>
+            </langmaterial>
+            <physdesc>
+                <extent>7.0 Reel(s)</extent>
+            </physdesc>
+            <unitdate>1970</unitdate>
+            <physdesc id="ref1" label="General Physical Description">7 sound tape reels (13 hr.) : analog, 3 3/4 ips, half track, mono ; 5 in.</physdesc>
+            <abstract id="ref3" label="Abstract">Field recordings made on the Navajo Indian Reservation during July-September of 1969. Interviews with multiple Navajo speakers, consisting of elicitation of Navajo words and phrases, with commentary and questions.</abstract>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Garrison, Edward R.</persname>
+            </origination>
+        </did>
+        <odd id="ref2">
+            <head>Sound quality note</head>
+            <p>At the time the audio was migrated to DAT around 1991, the following was noted by the audio archivist: "Overall an extremely problem-plagued collection.... The overiding problem is frequent speed variation of the tapes, due to a fluctuation in voltage supplied to the collector's tape recorder from an electric generator. An attempt has been made during re-recording to RDAT to correct speed variation on the original tapes by use of the pitch control on the playback machine (OTARI MX-5050B11), which has a plus-minue factor of 7% in variable speed control." More specific sound quality issues are noted in the item record for each program.</p>
+        </odd>
+        <relatedmaterial id="ref4">
+            <head>Related Archival Materials</head>
+            <p>Related manuscript material by the collector can be found in the 
+                <extref ns2:actuate="onLoad" ns2:show="new" ns2:href="http://www.amphilsoc.org/mole/view?docId=ead/Mss.497.3.Am4-ead.xml">Phillips Fund Collection</extref> (Mss.497.3.Am4).</p>
+        </relatedmaterial>
+        <acqinfo id="ref5">
+            <head>Immediate Source of Acquisition</head>
+            <p>Donated by Edward R. Garrision in 1970. This material was recorded with the assistance of a Phillips Fund grant.</p>
+        </acqinfo>
+        <controlaccess>
+            <subject source="ingest">Navajo Indians</subject>
+            <subject source="lcsh">Navajo language</subject>
+            <genreform source="ingest">Sound recordings</genreform>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

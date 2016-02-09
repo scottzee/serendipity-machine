@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.371.974.As7-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.371.974.As7</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:09-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="item">
+        <did>
+            <unittitle>Address on the impolicy of slavery, 1824</unittitle>
+            <unitid>Mss.371.974.As7</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid744" type="Volume" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>1.0 Item(s)</extent>
+                <extent>1 item, 37 p.</extent>
+            </physdesc>
+            <unitdate normal="1824/1824">1824</unitdate>
+            <abstract id="ref6" label="Abstract">This address was delivered in Philadelphia before an "association formed for the education of men of colour." Vaux shows how slavery adversely affects the interest, happiness, and safety of the owner, slave, society, and government.</abstract>
+            <physdesc id="ref11" label="General Physical Description note">1 volume, 37 p.</physdesc>
+            <physloc id="ref14" label="Paging">LH-MV-E-7</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Vaux, Roberts,1786-1836.</persname>
+            </origination>
+        </did>
+        <bioghist id="ref8">
+            <head>Biographical/Historical note</head>
+            <p>Quaker Roberts Vaux was an American juror, philanthropist and abolitionist; he became a member of the American Philosophical Society in 1819.</p>
+        </bioghist>
+        <acqinfo id="ref5">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Purchased from Amran ($40.00) and accessioned, 1960 (156ms).</p>
+            <p></p>
+        </acqinfo>
+        <odd id="ref12">
+            <head>African American History Note</head>
+            <p>An example of an address given during the antebellum abolition movement.</p>
+        </odd>
+        <odd id="ref13">
+            <head>Early American History Note</head>
+            <p>This collection contains the text of a speech Robert Vaux, a Philadelphia-area philanthropist, delivered to the Association for the Education of Men of Colour. The speech’s content is aimed at criticizing the institution of slavery and its effects on society. Vaux's speech sometimes applies a comparative historical account of slavery, discussing its practice in Europe, such as in Sicily and during Roman times. More often, he describes the ill-effects of slavery on the economy and general development of slave societies, often drawing comparisons to what life is like in the free states.</p>
+        </odd>
+        <controlaccess>
+            <corpname rules="aacr" source="local">Association for the Education of Men of Colour..</corpname>
+            <subject source="local">Abolition, emancipation, freedom</subject>
+            <subject source="leah">African American</subject>
+            <subject source="leah">Antebellum Politics</subject>
+            <genreform source="leah">Manuscript Essays</genreform>
+            <subject source="lcsh">Slavery -- United States.</subject>
+            <subject source="local">Slaves, slavery, slave trade</subject>
+            <subject source="local">Social conditions, social advocacy, social reform</subject>
+            <genreform source="lcsh">Speeches.</genreform>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

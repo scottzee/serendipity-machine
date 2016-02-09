@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.614.0975.B14-ead.xml">bagley.xml</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Mariana Bagley Thesis
+                    <date type="span">1939</date>
+                    <num>Mss.614.0975.B14</num>
+                </titleproper>
+                <subtitle>"The history of the public health of Norfolk, Va., up to 1860"</subtitle>
+                <author>Finding aid prepared by rsc</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+                <date>2001</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:22-0400</date>
+            </creation>
+            <langusage>ENG</langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>The history of the public health of Norfolk, Virginia, up to 1860</unittitle>
+            <unitid>Mss.614.0975.B14</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>1.0 Volume(s)</extent>
+                <extent>139p.</extent>
+            </physdesc>
+            <unitdate normal="1939/1939">1939</unitdate>
+            <abstract id="ref1" label="Abstract">Mariana Bagley's MA Thesis for Duke University, 1939.</abstract>
+            <physloc id="ref12" label="Paging">LH-MV-E-11</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="local" role="Author (aut)">Bagley, Mariana</persname>
+            </origination>
+        </did>
+        <processinfo id="ref11">
+            <head>Processing Information note</head>
+            <p>Catalogued by rsc, 2001.</p>
+        </processinfo>
+        <acqinfo id="ref9">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Gift of Richard Shryock, 1963.</p>
+        </acqinfo>
+        <prefercite id="ref7">
+            <head>Preferred Citation note</head>
+            <p>Cite as: Mariana Bagley, The history of the public health of Norfolk, Va., up to 1860, American Philosophical Society.</p>
+        </prefercite>
+        <scopecontent id="ref3">
+            <head>Scope and Contents note</head>
+            <p>"The history of the public health of Norfolk, Va., up to 1860." Bagley's study of public health, disease, and mortality in Norfolk, Va., from settlement to the outbreak of the Civil War was accepted in partial fulfillment for a master's degree in history at Duke University, 1939.</p>
+        </scopecontent>
+        <controlaccess>
+            <geogname source="lcsh">Norfolk (Va.)--History</geogname>
+            <subject source="lcsh">Public Health--Virginia--Norfolk</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

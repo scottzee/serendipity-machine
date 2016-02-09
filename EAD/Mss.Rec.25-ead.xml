@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Rec.25</num>
+                    <num>Mss.Rec.25</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Brian Carpenter</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+                <date>01-2011</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T21:15-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Tewa Recordings</unittitle>
+            <unitid>Mss.Rec.25</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="nai"/>
+            </langmaterial>
+            <physdesc>
+                <extent>3.0 Reel(s)</extent>
+            </physdesc>
+            <unitdate>1957</unitdate>
+            <abstract id="ref3" label="Abstract">Music and interviews recorded by the anthropologist Gertrude Kurath in 1957 at Santa Fe and San Juan Pueblo, New Mexico, now known by its earlier name, Ohkay Owingeh. The recordings contain group singing performances of Deer Dance Songs, Yellow Corn Dance Songs, Butterfly Dance Songs, and interviews on these songs and general Tewa music and dance terminology with primary consultant, Antonio Garcia. Additional Deer Dance Songs given by David Garcia.</abstract>
+            <physdesc id="ref2" label="General Physical Description note">3 sound tape reels (2 hr., 15 min.) : analog, 7 1/2 ips, full track, mono ; 7 in.</physdesc>
+            <physloc id="ref57" label="Paging">LH-B-32-2</physloc>
+            <origination label="creator">
+                <persname source="ingest">Garcia, Antonio</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest">Garcia, David</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Kurath, Gertrude Prokosch</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref4">
+            <head>Immediate Source of Acquisition</head>
+            <p>Presented by Gertrude Kurath in 1957. This material was recorded with the assistance of a Phillips Fund grant.</p>
+        </acqinfo>
+        <relatedmaterial id="ref5">
+            <head>Related Archival Materials</head>
+            <p>Related Tewa manuscript material by Kurath can be found in the 
+                <extref ns2:actuate="onLoad" ns2:show="new" ns2:href="http://www.amphilsoc.org/mole/view?docId=ead/Mss.497.3.B63c-ead.xml">Franz Boas Collection of Materials for American Linguistics</extref> (Mss.497.3.B63c.)</p>
+        </relatedmaterial>
+        <processinfo id="ref6">
+            <head>Processing Information</head>
+            <p>Due to the breakage of old splices on the original tapes during transfer to RDAT, four splices were replaced on Tape 1, three on Tape 2, and three on Tape 3.</p>
+        </processinfo>
+        <controlaccess>
+            <subject source="lcsh">San Juan Pueblo (N.M.)--Songs and music</subject>
+            <genreform source="ingest">Sound recordings</genreform>
+            <subject source="lcsh">Tewa dance</subject>
+            <subject source="lcsh">Tewa Indians--Music</subject>
+            <subject source="lcsh">Tewa language</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref7" level="series">
+                <did>
+                    <unittitle>Audio recordings</unittitle>
+                </did>
+                <c02 id="ref8" level="file">
+                    <did>
+                        <unittitle>Deer Dance Dawn Song Set 1, by group</unittitle>
+                        <unitid>01-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1957-02-27</unitdate>
+                        <physdesc id="ref9" label="General Physical Description note">
+                            <extent>00:09:44</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Garcia, Antonio, Jr.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Garcia, Antonio</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Kurath, Gertrude Prokosch</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref11">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0887" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:4126">
+                        <daodesc>
+                            <p>APSdigrec_0887</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">San Juan Pueblo (N.M.)</geogname>
+                        <subject source="ingest">San Juan Pueblo (N.M.)--Songs and music</subject>
+                        <subject source="lcsh">Tewa Indians--Music</subject>
+                        <subject source="lcsh">Tewa language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref12" level="file">
+                    <did>
+                        <unittitle>Deer Dance Dawn Song Set 2</unittitle>
+                        <unitid>01-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1957-02-27</unitdate>
+                        <physdesc id="ref13" label="General Physical Description note">
+                            <extent>00:07:36</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Garcia, Antonio, Jr.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Garcia, Antonio</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Kurath, Gertrude Prokosch</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref15">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0888" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:4123">
+                        <daodesc>
+                            <p>APSdigrec_0888</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">San Juan Pueblo (N.M.)</geogname>
+                        <subject source="ingest">San Juan Pueblo (N.M.)--Songs and music</subject>
+                        <subject source="lcsh">Tewa Indians--Music</subject>
+                        <subject source="lcsh">Tewa language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref16" level="file">
+                    <did>
+                        <unittitle>Deer Dance Dawn Song Set 3</unittitle>
+                        <unitid>01-03</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1957-02-27</unitdate>
+                        <physdesc id="ref17" label="General Physical Description note">
+                            <extent>00:08:38</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Garcia, Antonio, Jr.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Garcia, Antonio</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Kurath, Gertrude Prokosch</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref19">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0889" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:4124">
+                        <daodesc>
+                            <p>APSdigrec_0889</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">San Juan Pueblo (N.M.)</geogname>
+                        <subject source="ingest">San Juan Pueblo (N.M.)--Songs and music</subject>
+                        <subject source="lcsh">Tewa Indians--Music</subject>
+                        <subject source="lcsh">Tewa language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref20" level="file">
+                    <did>
+                        <unittitle>Daytime Deer Dance Songs in Plaza</unittitle>
+                        <unitid>01-04</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1957-02-24; 1957-03-24</unitdate>
+                        <physdesc id="ref21" label="General Physical Description note">
+                            <extent>00:17:30</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Garcia, Antonio, Jr.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Garcia, Antonio</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Kurath, Gertrude Prokosch</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref22">
+                        <head>Scope and Contents note</head>
+                        <p>Songs recorded at earlier date at San Juan Pueblo interspersed with interview recorded at Santa Fe at later date on translation of the songs.</p>
+                    </scopecontent>
+                    <originalsloc id="ref24">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0890" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:4121">
+                        <daodesc>
+                            <p>APSdigrec_0890</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">San Juan Pueblo (N.M.)</geogname>
+                        <subject source="ingest">San Juan Pueblo (N.M.)--Songs and music</subject>
+                        <geogname source="ingest">Santa Fe (N.M.)</geogname>
+                        <subject source="lcsh">Tewa Indians--Music</subject>
+                        <subject source="lcsh">Tewa language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref25" level="file">
+                    <did>
+                        <unittitle>Postlude</unittitle>
+                        <unitid>01-05</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1957-02-24</unitdate>
+                        <physdesc id="ref26" label="General Physical Description note">
+                            <extent>00:02:41</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Garcia, Antonio, Jr.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Kurath, Gertrude Prokosch</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref27">
+                        <head>Scope and Contents note</head>
+                        <p>Comments on translation of San Juan Pueblo and importance of maintaining them. Tape cuts off before completion of comments.</p>
+                    </scopecontent>
+                    <originalsloc id="ref29">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0891" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:4127">
+                        <daodesc>
+                            <p>APSdigrec_0891</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">San Juan Pueblo (N.M.)--Songs and music</subject>
+                        <geogname source="ingest">Santa Fe (N.M.)</geogname>
+                        <subject source="lcsh">Tewa Indians--Music</subject>
+                        <subject source="lcsh">Tewa language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref30" level="file">
+                    <did>
+                        <unittitle>Interview on Deer Dance texts</unittitle>
+                        <unitid>02-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1957-02-24; 1957-03-24</unitdate>
+                        <physdesc id="ref31" label="General Physical Description note">
+                            <extent>00:21:57</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Garcia, Antonio, Jr.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Garcia, Antonio</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Kurath, Gertrude Prokosch</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref32">
+                        <head>Scope and Contents note</head>
+                        <p>Interview conducted at Santa Fe at later date includes songs played back on tape that were recorded at earlier date at San Juan Pueblo.</p>
+                    </scopecontent>
+                    <originalsloc id="ref34">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0892" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:4125">
+                        <daodesc>
+                            <p>APSdigrec_0892</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">San Juan Pueblo (N.M.)</geogname>
+                        <subject source="ingest">San Juan Pueblo (N.M.)--Songs and music</subject>
+                        <geogname source="ingest">Santa Fe (N.M.)</geogname>
+                        <subject source="lcsh">Tewa Indians--Music</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref35" level="file">
+                    <did>
+                        <unittitle>Yellow Corn Dance Songs and text interview</unittitle>
+                        <unitid>02-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1957-02-24; 1957-03-24</unitdate>
+                        <physdesc id="ref36" label="General Physical Description note">
+                            <extent>00:16:19</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Garcia, Antonio, Jr.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Garcia, Antonio</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Kurath, Gertrude Prokosch</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref37">
+                        <head>Scope and Contents note</head>
+                        <p>Interview conducted at Santa Fe at later date includes songs played back on tape that were recorded at earlier date at San Juan Pueblo.</p>
+                    </scopecontent>
+                    <originalsloc id="ref39">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0893" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:4120">
+                        <daodesc>
+                            <p>APSdigrec_0893</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">San Juan Pueblo (N.M.)</geogname>
+                        <subject source="ingest">San Juan Pueblo (N.M.)--Songs and music</subject>
+                        <geogname source="ingest">Santa Fe (N.M.)</geogname>
+                        <subject source="lcsh">Tewa Indians--Music</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref40" level="file">
+                    <did>
+                        <unittitle>Yellow Corn Dance Songs straight - group</unittitle>
+                        <unitid>02-03</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1957-02-24</unitdate>
+                        <physdesc id="ref41" label="General Physical Description note">
+                            <extent>00:06:32</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Garcia, Antonio, Jr.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Garcia, Antonio</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Kurath, Gertrude Prokosch</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref43">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0894" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:4117">
+                        <daodesc>
+                            <p>APSdigrec_0894</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">San Juan Pueblo (N.M.)</geogname>
+                        <subject source="ingest">San Juan Pueblo (N.M.)--Songs and music</subject>
+                        <subject source="lcsh">Tewa Indians--Music</subject>
+                        <subject source="lcsh">Tewa language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref44" level="file">
+                    <did>
+                        <unittitle>Butterfly Dance Songs and interview</unittitle>
+                        <unitid>03-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1957-02-24; 1957-03-24</unitdate>
+                        <physdesc id="ref45" label="General Physical Description note">
+                            <extent>00:05:52</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Garcia, Antonio, Jr.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Garcia, Antonio</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Kurath, Gertrude Prokosch</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref46">
+                        <head>Scope and Contents note</head>
+                        <p>Interview conducted at Santa Fe at later date includes songs played back on tape that were recorded at earlier date at San Juan Pueblo.</p>
+                    </scopecontent>
+                    <originalsloc id="ref48">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0895" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:4119">
+                        <daodesc>
+                            <p>APSdigrec_0895</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">San Juan Pueblo (N.M.)</geogname>
+                        <subject source="ingest">San Juan Pueblo (N.M.)--Songs and music</subject>
+                        <geogname source="ingest">Santa Fe (N.M.)</geogname>
+                        <subject source="lcsh">Tewa Indians--Music</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref49" level="file">
+                    <did>
+                        <unittitle>Deer Dance Songs</unittitle>
+                        <unitid>03-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1957-02-24</unitdate>
+                        <physdesc id="ref50" label="General Physical Description note">
+                            <extent>00:09:40</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Garcia, David</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Kurath, Gertrude Prokosch</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref52">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0896" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:4122">
+                        <daodesc>
+                            <p>APSdigrec_0896</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">San Juan Pueblo (N.M.)</geogname>
+                        <subject source="ingest">San Juan Pueblo (N.M.)--Songs and music</subject>
+                        <subject source="lcsh">Tewa Indians--Music</subject>
+                        <subject source="lcsh">Tewa language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref53" level="file">
+                    <did>
+                        <unittitle>Interview on general music and dance terminology</unittitle>
+                        <unitid>03-03</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1957-02-24</unitdate>
+                        <physdesc id="ref54" label="General Physical Description note">
+                            <extent>00:28:26</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Garcia, Antonio, Jr.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Kurath, Gertrude Prokosch</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Kurath, Hans, 1891-1992</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref56">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0897" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:4118">
+                        <daodesc>
+                            <p>APSdigrec_0897</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">San Juan Pueblo (N.M.)--Songs and music</subject>
+                        <geogname source="ingest">Santa Fe (N.M.)</geogname>
+                        <subject source="lcsh">Tewa Indians--Music</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

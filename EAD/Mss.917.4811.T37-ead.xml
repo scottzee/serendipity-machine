@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.917.4811.T37-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.917.4811.T37</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:25-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="item">
+        <did>
+            <unittitle>Evolution of a country property: "Laurel Hill," 1982</unittitle>
+            <unitid>Mss.917.4811.T37</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1045" type="Volume" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>1.0 Volume(s)</extent>
+                <extent>1 volume, 84 p., typescript</extent>
+            </physdesc>
+            <unitdate normal="1982/1982">1982</unitdate>
+            <abstract id="ref1" label="Abstract">This is an account of the estate of Francis Rawle of Philadelphia, with illustrations.</abstract>
+            <physdesc id="ref11" label="General Physical Description note">1 volume, 84 p., typescript.</physdesc>
+            <physloc id="ref12" label="Paging">LH-MV-E-12</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Thompson, Marie McGuire.</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref10">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by Marie M. Thompson and accessioned, 7/27/1983 (1983 968ms).</p>
+        </acqinfo>
+        <controlaccess>
+            <persname rules="aacr" source="naf">Rawle, Francis, 1846-1930</persname>
+            <geogname source="lcsh">Fairmount Park (Philadelphia, Pa.)</geogname>
+            <genreform source="lcsh">Illustrations.</genreform>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

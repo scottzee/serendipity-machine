@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Rec.112</num>
+                    <num>Mss.Rec.112</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Brian Carpenter</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+                <date>January 2011</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T21:10-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Hualapai texts and sentence structure</unittitle>
+            <unitid>Mss.Rec.112</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="nai"/>
+            </langmaterial>
+            <physdesc>
+                <extent>4.0 Tape(s)</extent>
+            </physdesc>
+            <unitdate>1979</unitdate>
+            <abstract id="ref2" label="Abstract">Linguistic recordings and instructional texts made by Akira Yamamoto in 1974 in Peach Springs, Arizona. Tapes 1-3 of this collection contain sample sentences spoken separately by Jane Honga and Maude Synilla. Tape 4 contains a reading of three texts, "Hualapai Sounds," "Let's Learn How to Write and Read in Hualapai," and "Nach Posvchyu (I am a cat)," written and read by Akira Yamamoto and Jane Honga.</abstract>
+            <physdesc id="ref3" label="General Physical Description note">4 sound cassettes (2 hr., 26 min.) : analog, 1 7/8 ips, stereo.</physdesc>
+            <physloc id="ref47" label="Paging">LH-B-32-3</physloc>
+            <origination label="creator">
+                <persname source="ingest">Honga, Jane C.</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest">Synilla, Maude</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Yamamoto, Akira Y.</persname>
+            </origination>
+        </did>
+        <relatedmaterial id="ref4">
+            <head>Related Archival Materials</head>
+            <p>A project report, articles, and the text for "Let's Learn How to Write and Read in Hualapai" and "Nach Posvchyu (I am a cat)" are available in the 
+                <extref ns2:actuate="onLoad" ns2:show="new" ns2:href="http://www.amphilsoc.org/mole/view?docId=ead/Mss.497.3.Am4-ead.xml">Phillips Fund Collection (Mss.497.3.Am4)</extref>.</p>
+        </relatedmaterial>
+        <acqinfo id="ref5">
+            <head>Immediate Source of Acquisition</head>
+            <p>Donated by Akira Yamamoto in 1979 (Acc. 1979 75rec). This material was recorded with the assistance of a Phillips Fund grant.</p>
+        </acqinfo>
+        <controlaccess>
+            <subject source="lcsh">Hualapai language</subject>
+            <subject source="lcsh">Hualapai language--Study and teaching</subject>
+            <genreform source="ingest">Sound recordings</genreform>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref6" level="series">
+                <did>
+                    <unittitle>Audio recordings</unittitle>
+                </did>
+                <c02 id="ref7" level="file">
+                    <did>
+                        <unittitle>Hualapai: Sample Sentences [1 of 2]</unittitle>
+                        <unitid>01-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1974</unitdate>
+                        <physdesc id="ref8" label="General Physical Description note">
+                            <extent>00:30:35</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Synilla, Maude</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Yamamoto, Akira Y.</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref10">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1728" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5114">
+                        <daodesc>
+                            <p>APSdigrec_1728</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Hualapai language</subject>
+                        <geogname source="ingest">Peach Springs (Ariz.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref11" level="file">
+                    <did>
+                        <unittitle>Hualapai: Sample Sentences [2 of 2]</unittitle>
+                        <unitid>01-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1974</unitdate>
+                        <physdesc id="ref12" label="General Physical Description note">
+                            <extent>00:27:48</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Synilla, Maude</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Yamamoto, Akira Y.</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref14">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1729" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5111">
+                        <daodesc>
+                            <p>APSdigrec_1729</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Hualapai language</subject>
+                        <geogname source="ingest">Peach Springs (Ariz.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref15" level="file">
+                    <did>
+                        <unittitle>Hualapai: Sample Sentences [1 of 3]</unittitle>
+                        <unitid>02-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1974</unitdate>
+                        <physdesc id="ref16" label="General Physical Description note">
+                            <extent>00:30:42</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Honga, Jane C.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Yamamoto, Akira Y.</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref18">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1730" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5112">
+                        <daodesc>
+                            <p>APSdigrec_1730</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Hualapai language</subject>
+                        <geogname source="ingest">Peach Springs (Ariz.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref19" level="file">
+                    <did>
+                        <unittitle>Hualapai: Sample Sentences [2 of 3]</unittitle>
+                        <unitid>02-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1974</unitdate>
+                        <physdesc id="ref20" label="General Physical Description note">
+                            <extent>00:09:15</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Honga, Jane C.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Yamamoto, Akira Y.</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref22">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1731" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5113">
+                        <daodesc>
+                            <p>APSdigrec_1731</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Hualapai language</subject>
+                        <geogname source="ingest">Peach Springs (Ariz.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref23" level="file">
+                    <did>
+                        <unittitle>Hualapai: Sample Sentences [3 of 3]</unittitle>
+                        <unitid>03-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1974</unitdate>
+                        <physdesc id="ref24" label="General Physical Description note">
+                            <extent>00:24:31</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Honga, Jane C.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Yamamoto, Akira Y.</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref26">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1732" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5118">
+                        <daodesc>
+                            <p>APSdigrec_1732</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Hualapai language</subject>
+                        <geogname source="ingest">Peach Springs (Ariz.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref27" level="file">
+                    <did>
+                        <unittitle>Let's Learn How to Write and Read in Hualapai</unittitle>
+                        <unitid>04-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1974</unitdate>
+                        <physdesc id="ref28" label="General Physical Description note">
+                            <extent>00:06:49</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Yamamoto, Akira Y.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref29">
+                        <head>Scope and Contents note</head>
+                        <p>A reading of a Hualapai language instructional text by Jane C. Honga and Akira Y. Yamamoto.</p>
+                    </scopecontent>
+                    <originalsloc id="ref31">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1733" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5116">
+                        <daodesc>
+                            <p>APSdigrec_1733</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Hualapai language--Glossaries, vocabularies, etc.</subject>
+                        <subject source="lcsh">Hualapai language--Study and teaching</subject>
+                        <geogname source="ingest">Peach Springs (Ariz.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref32" level="file">
+                    <did>
+                        <unittitle>Hualapai Sounds</unittitle>
+                        <unitid>04-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1974</unitdate>
+                        <physdesc id="ref33" label="General Physical Description note">
+                            <extent>00:02:15</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Yamamoto, Akira Y.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref34">
+                        <head>Scope and Contents note</head>
+                        <p>A reading of a Hualapai language instructional text by Jane C. Honga and Akira Y. Yamamoto.</p>
+                    </scopecontent>
+                    <originalsloc id="ref36">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1734" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5120">
+                        <daodesc>
+                            <p>APSdigrec_1734</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Hualapai language</subject>
+                        <subject source="ingest">Hualapai language--Pronunciation</subject>
+                        <subject source="lcsh">Hualapai language--Study and teaching</subject>
+                        <geogname source="ingest">Peach Springs (Ariz.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref37" level="file">
+                    <did>
+                        <unittitle>Nach Posvchyu: Book I</unittitle>
+                        <unitid>04-03</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1974</unitdate>
+                        <physdesc id="ref38" label="General Physical Description note">
+                            <extent>00:04:39</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Honga, Jane C.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Yamamoto, Akira Y.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref39">
+                        <head>Scope and Contents note</head>
+                        <p>A reading of a Hualapai language instructional text by Jane C. Honga and Akira Y. Yamamoto.</p>
+                    </scopecontent>
+                    <originalsloc id="ref41">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1735" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5119">
+                        <daodesc>
+                            <p>APSdigrec_1735</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Hualapai language--Glossaries, vocabularies, etc.</subject>
+                        <subject source="lcsh">Hualapai language--Study and teaching</subject>
+                        <geogname source="ingest">Peach Springs (Ariz.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref42" level="file">
+                    <did>
+                        <unittitle>Nach Posvchyu: Book II</unittitle>
+                        <unitid>04-04</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1974</unitdate>
+                        <physdesc id="ref43" label="General Physical Description note">
+                            <extent>00:08:54</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Honga, Jane C.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Yamamoto, Akira Y.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref44">
+                        <head>Scope and Contents note</head>
+                        <p>A reading of a Hualapai language instructional text by Jane C. Honga and Akira Y. Yamamoto.</p>
+                    </scopecontent>
+                    <originalsloc id="ref46">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1736" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5117">
+                        <daodesc>
+                            <p>APSdigrec_1736</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Hualapai language--Glossaries, vocabularies, etc.</subject>
+                        <subject source="lcsh">Hualapai language--Study and teaching</subject>
+                        <geogname source="ingest">Peach Springs (Ariz.)</geogname>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

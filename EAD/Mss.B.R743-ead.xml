@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.R743-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.R743</num>
+                    <num>Mss.B.R743</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T21:25-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Joseph T. Rothrock letters, 1878-1884, to Eli K. Price</unittitle>
+            <unitid>Mss.B.R743</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid13284002" type="Box" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>9.0 items.</extent>
+            </physdesc>
+            <unitdate normal="1878/1884" type="inclusive">1878-1884</unitdate>
+            <abstract id="ref2" label="Abstract">This correspondence relates to botanizing expeditions in the Chesapeake Bay and Virginia, and the University of Pennsylvania and the American Philosophical Society.</abstract>
+            <physdesc id="ref3" label="General Physical Description note">9 items.</physdesc>
+            <physloc id="ref36" label="Paging">LH-MV-C-15</physloc>
+            <origination label="creator">
+                <persname source="ingest">Rothrock, Joseph T., 1839-1922</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref4">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Purchased from Hamilton and accessioned, 1957 (1957 689ms).</p>
+        </acqinfo>
+        <bioghist id="ref5">
+            <head>Biographical/Historical note</head>
+            <p>Joseph T. Rothrock was a physician, botanist, and forester; he was elected to the American Philosophical Society in 1877.</p>
+        </bioghist>
+        <controlaccess>
+            <corpname source="ingest">American Philosophical Society.</corpname>
+            <persname source="ingest">Price, Eli K., (Eli Kirk), 1797-1884</persname>
+            <corpname source="ingest">University of Pennsylvania.</corpname>
+            <subject source="lcsh">Botany -- Chesapeake Bay (Md. and Va.)</subject>
+            <subject source="lcsh">Botany -- Virginia.</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref6" level="series">
+                <did>
+                    <unittitle>Papers</unittitle>
+                </did>
+                <c02 id="ref10" level="file">
+                    <did>
+                        <unittitle>Letters to Mr. [Eli kirk ?] Price;</unittitle>
+                        <unitdate>1878-1884</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Rothrock, Joseph T., 1839-1922</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref11">
+                        <head>Scope and Contents note</head>
+                        <p>A.L.S'S 9 pieces Contents: 1878. Sept. 3 1844. Jan. 4 1881. June 8 April 11 1882. Jan. 17 April 20 1883. March 13 July 13 June 24 To be anal.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref7" level="file">
+                    <did>
+                        <unittitle>Letter to [Eli Kirk?] Price;</unittitle>
+                        <unitdate>Sept. 3, 1878</unitdate>
+                        <physdesc id="ref8" label="General Physical Description note">10x7-3/4</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Rothrock, Joseph T., 1839-1922</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref9">
+                        <head>Scope and Contents note</head>
+                        <p>West Chester, A.L.S. 1p.and end. (see Rothrock papers.) Cites Gray and Shaler on conversion of oak areas into praries. Refers to Michaux</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref12" level="file">
+                    <did>
+                        <unittitle>Letter to [Eli Kirk?] Price;</unittitle>
+                        <unitdate>June 8, 1881</unitdate>
+                        <physdesc id="ref13" label="General Physical Description note">6-3/4x8</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Rothrock, Joseph T., 1839-1922</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref14">
+                        <head>Scope and Contents note</head>
+                        <p>West Chester, A.L.S. 1p.and end. (see Rothrock papers.) Thanks for notification of his election "to fill the new chair."</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref15" level="file">
+                    <did>
+                        <unittitle>Letter to [Eli Kirk?] Price;</unittitle>
+                        <unitdate>Jan. 17, 1882</unitdate>
+                        <physdesc id="ref16" label="General Physical Description note">10x7-3/4</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Rothrock, Joseph T., 1839-1922</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref17">
+                        <head>Scope and Contents note</head>
+                        <p>A.L.S. 1p.and end. (see Rothrock papers.) Authorized Redfield to receive asters and lolidagoes. Refers to Asa Gray.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref18" level="file">
+                    <did>
+                        <unittitle>Letter to [Eli Kirk?] Price;</unittitle>
+                        <unitdate>March 13, 1883</unitdate>
+                        <physdesc id="ref19" label="General Physical Description note">9-3/4x8</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Rothrock, Joseph T., 1839-1922</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref20">
+                        <head>Scope and Contents note</head>
+                        <p>West Chester, A.L.S. 1p.and end. (see Rothrock papers.) Thanks for catalpa seeds and lists his distribution of them.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref21" level="file">
+                    <did>
+                        <unittitle>Letter to [Eli Kirk?] Price;</unittitle>
+                        <unitdate>June 24, 1883</unitdate>
+                        <physdesc id="ref22" label="General Physical Description note">10x7-3/4</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Rothrock, Joseph T., 1839-1922</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref23">
+                        <head>Scope and Contents note</head>
+                        <p>James River, Va., A.L.S. 4p.,end. (see Rothrock papers.) His trip to Virginia. Collecting fossil shells and photographs of geological formations.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref24" level="file">
+                    <did>
+                        <unittitle>Letter to [Eli Kirk?] Price;</unittitle>
+                        <unitdate>Jan. 4, 1884</unitdate>
+                        <physdesc id="ref25" label="General Physical Description note">9-3/4x7-3/4</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Rothrock, Joseph T., 1839-1922</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref26">
+                        <head>Scope and Contents note</head>
+                        <p>West Chester, A.L.S. 1p.and end. (see Rothrock papers.) Thanks for the money. Refers to a paper which he read before the APS.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref27" level="file">
+                    <did>
+                        <unittitle>Letter to [Eli kirk?] Price;</unittitle>
+                        <unitdate>April 11, 1884</unitdate>
+                        <physdesc id="ref28" label="General Physical Description note">9-3/4x7-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Rothrock, Joseph T., 1839-1922</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref29">
+                        <head>Scope and Contents note</head>
+                        <p>West Chester, A.L.S. 2p.,end. (see Rothrock papers.) His health. Will meet at Dr. Jayne's to discuss biological projects. University of Pennsylvania affairs.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref30" level="file">
+                    <did>
+                        <unittitle>Letter to [Eli Kirk?] Price;</unittitle>
+                        <unitdate>April 20, 1884</unitdate>
+                        <physdesc id="ref31" label="General Physical Description note">6-1/4x7-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Rothrock, Joseph T., 1839-1922</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref32">
+                        <head>Scope and Contents note</head>
+                        <p>West Chester, A.L.S. 1p.,end. (see Rothrock papers.) Forwards article.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref33" level="file">
+                    <did>
+                        <unittitle>Letter to [Eli kirk?] Price;</unittitle>
+                        <unitdate>July 13, 1884</unitdate>
+                        <physdesc id="ref34" label="General Physical Description note">8x5</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Rothrock, Joseph T., 1839-1922</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref35">
+                        <head>Scope and Contents note</head>
+                        <p>A.L.S. 4p.,end. (see Rothrock papers.) Is photographing Virginia along the James River. His itenerary.</p>
+                    </scopecontent>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Film.1155-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Film.1155</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T20:12-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Documents on Central America, 1568-1806.</unittitle>
+            <unitid>Mss.Film.1155</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1710" type="Reel" label="Microform">1-2</container>
+            <physdesc>
+                <extent>2.0 Microfilm reel(s)</extent>
+            </physdesc>
+            <unitdate normal="1568/1806" type="inclusive">1568-1806</unitdate>
+            <physdesc id="ref8" label="General Physical Description note">2 microfilm reels.</physdesc>
+            <abstract id="ref1" label="Abstract">These reels contain selections from collections pertaining to the history of Guatemala.</abstract>
+            <physloc id="ref9" label="Paging">LH-RR-Media Rm-3</physloc>
+            <origination label="creator">
+                <corpname rules="aacr" source="naf" role="Author (aut)">Archivo General de la Nación (Guatemala).</corpname>
+            </origination>
+        </did>
+        <acqinfo id="ref7">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by Troy S. Floyd and accessioned, 1963 (1963 2074mf).</p>
+            <p></p>
+        </acqinfo>
+        <originalsloc id="ref3">
+            <head>Existence and Location of Originals note</head>
+            <p>Originals in Archivo Nacional, Guatemala City, Guatemala.</p>
+        </originalsloc>
+        <odd id="ref10">
+            <head>Early American History Note</head>
+            <p>This microfilm collection may be of interest to early American scholars.</p>
+        </odd>
+        <controlaccess>
+            <geogname source="lcsh">Guatemala -- History -- To 1821.</geogname>
+            <genreform source="leah">Microfilm Collection</genreform>
+            <geogname source="lcsh">Spain -- Colonies -- Central America.</geogname>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

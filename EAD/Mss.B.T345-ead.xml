@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.T345-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.T345</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T20:05-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>William T. (William Turner) Thiselton-Dyer correspondence, 1899-1928</unittitle>
+            <unitid>Mss.B.T345</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1627" type="Box" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>0.25 Linear feet</extent>
+                <extent>15 items</extent>
+            </physdesc>
+            <unitdate normal="1899/1928" type="inclusive">1899-1928</unitdate>
+            <abstract id="ref6" label="Abstract">These letters are primarily to Sir Charles James Lyall, concerning botanical terminology as it relates to specimens from India. There are also a few letters on miscellaneous subjects from Thiselton-Dyer.</abstract>
+            <physdesc id="ref11" label="General Physical Description note">15 items.</physdesc>
+            <physloc id="ref12" label="Paging">LH-MV-B-2</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="local" role="Author (aut)">Thiselton-Dyer, William T.(Wiliam Turner), 1843-1938</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref10">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Purchased and accessioned, 1972 (1972 795ms). See in-house shelf list for additional accession numbers.</p>
+            <p></p>
+        </acqinfo>
+        <bioghist id="ref8">
+            <head>Biographical/Historical note</head>
+            <p>William T. Thiselton-Dyer was a botanist, and was elected to the American Philosophical Society in 1905.</p>
+        </bioghist>
+        <controlaccess>
+            <persname rules="aacr" source="naf">Lyall, Charles James, Sir, 1845-1920</persname>
+            <subject source="lcsh">Botany -- India -- Terminology.</subject>
+            <subject source="lcsh">Natural history.</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

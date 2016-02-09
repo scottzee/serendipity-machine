@@ -1,0 +1,1212 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Rec.75</num>
+                    <num>Mss.Rec.75</num>
+                </titleproper>
+                <author>Finding aid prepared by Brian Carpenter</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+                <date>10-2010</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T21:18-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Songs from Lac du Flambeau Reservation, Wisconsin</unittitle>
+            <unitid>Mss.Rec.75</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="mul"/>
+            </langmaterial>
+            <physdesc>
+                <extent>2.0 Reel(s)</extent>
+            </physdesc>
+            <unitdate>1952, 1956</unitdate>
+            <physdesc id="ref119" label="General Physical Description">2 sound tape reels (1 hr., 13 min.) : analog, 3 3/4 ips, 2 track, mono ; 5 in. and 7 in.</physdesc>
+            <physloc id="ref120" label="Paging">LH-B-32-3</physloc>
+            <origination label="creator">
+                <persname source="ingest">Catfish, Willie</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Kurath, Gertrude Prokosch</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest">Lacasse, Fred</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest">Link, Sam</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest">Martin, John</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest">Smart, Frank</persname>
+            </origination>
+        </did>
+        <controlaccess>
+            <subject source="lcsh">Indians of North America--Wisconsin--Music</subject>
+            <subject source="lcsh">Love songs</subject>
+            <subject source="ingest">Ojibwa dance</subject>
+            <subject source="lcsh">Ojibwa Indians--Music</subject>
+            <subject source="lcsh">Peyote songs</subject>
+            <subject source="lcsh">Ponca Indians--Music</subject>
+            <subject source="lcsh">Ponca Indians--Rites and ceremonies</subject>
+            <subject source="lcsh">Powwows</subject>
+            <genreform source="ingest">Sound recordings</genreform>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref2" level="series">
+                <did>
+                    <unittitle>Audio recordings</unittitle>
+                </did>
+                <c02 id="ref3" level="file">
+                    <did>
+                        <unittitle>Travelling Song</unittitle>
+                        <unitid>01-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1956-08-18</unitdate>
+                        <physdesc id="ref4" label="General Physical Description note">
+                            <extent>00:02:52</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Catfish, Mrs.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Catfish, Willie</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Kurath, Gertrude Prokosch</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Smart, Frank</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref6">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3132" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5973">
+                        <daodesc>
+                            <p>APSdigrec_3132</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Lac du Flambeau Reservation (Wis.)</geogname>
+                        <subject source="ingest">Ojibwa dance</subject>
+                        <subject source="lcsh">Ojibwa Indians--Music</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref7" level="file">
+                    <did>
+                        <unittitle>Brave Dance, ogicidawigawin</unittitle>
+                        <unitid>01-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1956-08-18</unitdate>
+                        <physdesc id="ref8" label="General Physical Description note">
+                            <extent>00:02:50</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Catfish, Mrs.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Catfish, Willie</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Kurath, Gertrude Prokosch</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Smart, Frank</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref10">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3133" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5993">
+                        <daodesc>
+                            <p>APSdigrec_3133</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Lac du Flambeau Reservation (Wis.)</geogname>
+                        <subject source="ingest">Ojibwa dance</subject>
+                        <subject source="lcsh">Ojibwa Indians--Music</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref11" level="file">
+                    <did>
+                        <unittitle>Wooing Song</unittitle>
+                        <unitid>01-03</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1956-08-18</unitdate>
+                        <physdesc id="ref12" label="General Physical Description note">
+                            <extent>00:03:10</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Catfish, Mrs.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Catfish, Willie</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Kurath, Gertrude Prokosch</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Smart, Frank</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref14">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3134" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5987">
+                        <daodesc>
+                            <p>APSdigrec_3134</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Lac du Flambeau Reservation (Wis.)</geogname>
+                        <subject source="ingest">Ojibwa dance</subject>
+                        <subject source="lcsh">Ojibwa Indians--Music</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref15" level="file">
+                    <did>
+                        <unittitle>Chicken Dance</unittitle>
+                        <unitid>01-04</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1956-08-18</unitdate>
+                        <physdesc id="ref16" label="General Physical Description note">
+                            <extent>00:02:08</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Catfish, Mrs.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Catfish, Willie</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Kurath, Gertrude Prokosch</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Smart, Frank</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref18">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3135" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5997">
+                        <daodesc>
+                            <p>APSdigrec_3135</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Lac du Flambeau Reservation (Wis.)</geogname>
+                        <subject source="ingest">Ojibwa dance</subject>
+                        <subject source="lcsh">Ojibwa Indians--Music</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref19" level="file">
+                    <did>
+                        <unittitle>Women's War Song, kwenagamon</unittitle>
+                        <unitid>01-05</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1956-08-18</unitdate>
+                        <physdesc id="ref20" label="General Physical Description note">
+                            <extent>00:01:15</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Catfish, Mrs.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Catfish, Willie</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Kurath, Gertrude Prokosch</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Smart, Frank</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref22">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3136" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5999">
+                        <daodesc>
+                            <p>APSdigrec_3136</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Lac du Flambeau Reservation (Wis.)</geogname>
+                        <subject source="ingest">Ojibwa dance</subject>
+                        <subject source="lcsh">Ojibwa Indians--Music</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref23" level="file">
+                    <did>
+                        <unittitle>War Song, Brave Dance</unittitle>
+                        <unitid>01-06</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1956-08-18</unitdate>
+                        <physdesc id="ref24" label="General Physical Description note">
+                            <extent>00:05:50</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Catfish, Mrs.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Catfish, Willie</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Kurath, Gertrude Prokosch</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Smart, Frank</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref26">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3137" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5978">
+                        <daodesc>
+                            <p>APSdigrec_3137</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Lac du Flambeau Reservation (Wis.)</geogname>
+                        <subject source="ingest">Ojibwa dance</subject>
+                        <subject source="lcsh">Ojibwa Indians--Music</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref27" level="file">
+                    <did>
+                        <unittitle>Snake Dance</unittitle>
+                        <unitid>01-07</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1956-08-18</unitdate>
+                        <physdesc id="ref28" label="General Physical Description note">
+                            <extent>00:01:59</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Catfish, Mrs.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Catfish, Willie</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Kurath, Gertrude Prokosch</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Smart, Frank</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref30">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3138" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5991">
+                        <daodesc>
+                            <p>APSdigrec_3138</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Lac du Flambeau Reservation (Wis.)</geogname>
+                        <subject source="ingest">Ojibwa dance</subject>
+                        <subject source="lcsh">Ojibwa Indians--Music</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref31" level="file">
+                    <did>
+                        <unittitle>Love Song</unittitle>
+                        <unitid>01-08</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1956-08-18</unitdate>
+                        <physdesc id="ref32" label="General Physical Description note">
+                            <extent>00:01:46</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Catfish, Mrs.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Catfish, Willie</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Kurath, Gertrude Prokosch</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Smart, Frank</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref34">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3139" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5979">
+                        <daodesc>
+                            <p>APSdigrec_3139</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Lac du Flambeau Reservation (Wis.)</geogname>
+                        <subject source="ingest">Love songs</subject>
+                        <subject source="ingest">Ojibwa dance</subject>
+                        <subject source="lcsh">Ojibwa Indians--Music</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref35" level="file">
+                    <did>
+                        <unittitle>Ojibwe song</unittitle>
+                        <unitid>01-09</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1956-08-18</unitdate>
+                        <physdesc id="ref36" label="General Physical Description note">
+                            <extent>00:01:27</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Catfish, Mrs.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Catfish, Willie</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Kurath, Gertrude Prokosch</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Smart, Frank</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref38">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3140" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6000">
+                        <daodesc>
+                            <p>APSdigrec_3140</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Lac du Flambeau Reservation (Wis.)</geogname>
+                        <subject source="ingest">Ojibwa dance</subject>
+                        <subject source="lcsh">Ojibwa Indians--Music</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref39" level="file">
+                    <did>
+                        <unittitle>Love Song</unittitle>
+                        <unitid>01-10</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1956-08-18</unitdate>
+                        <physdesc id="ref40" label="General Physical Description note">
+                            <extent>00:03:55</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Catfish, Mrs.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Catfish, Willie</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Kurath, Gertrude Prokosch</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Smart, Frank</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref42">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3141" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5996">
+                        <daodesc>
+                            <p>APSdigrec_3141</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Lac du Flambeau Reservation (Wis.)</geogname>
+                        <subject source="ingest">Love songs</subject>
+                        <subject source="ingest">Ojibwa dance</subject>
+                        <subject source="lcsh">Ojibwa Indians--Music</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref43" level="file">
+                    <did>
+                        <unittitle>Drum Heating Song from nimetwin (Drum Ceremony)</unittitle>
+                        <unitid>01-11</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1956-08-18</unitdate>
+                        <physdesc id="ref44" label="General Physical Description note">
+                            <extent>00:01:13</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Catfish, Mrs.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Catfish, Willie</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Kurath, Gertrude Prokosch</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Smart, Frank</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref46">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3142" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5986">
+                        <daodesc>
+                            <p>APSdigrec_3142</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Lac du Flambeau Reservation (Wis.)</geogname>
+                        <subject source="ingest">Ojibwa dance</subject>
+                        <subject source="lcsh">Ojibwa Indians--Music</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref47" level="file">
+                    <did>
+                        <unittitle>Horse Presentation Song from nimetwin</unittitle>
+                        <unitid>01-12</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1956-08-18</unitdate>
+                        <physdesc id="ref48" label="General Physical Description note">
+                            <extent>00:04:27</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Catfish, Mrs.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Catfish, Willie</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Kurath, Gertrude Prokosch</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Smart, Frank</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref50">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3143" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5975">
+                        <daodesc>
+                            <p>APSdigrec_3143</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Lac du Flambeau Reservation (Wis.)</geogname>
+                        <subject source="ingest">Ojibwa dance</subject>
+                        <subject source="lcsh">Ojibwa Indians--Music</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref51" level="file">
+                    <did>
+                        <unittitle>Four Rain-dispelling Songs</unittitle>
+                        <unitid>01-13</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1956-08-18</unitdate>
+                        <physdesc id="ref52" label="General Physical Description note">
+                            <extent>00:04:50</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Catfish, Mrs.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Catfish, Willie</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Kurath, Gertrude Prokosch</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Smart, Frank</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref54">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3144" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5988">
+                        <daodesc>
+                            <p>APSdigrec_3144</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Lac du Flambeau Reservation (Wis.)</geogname>
+                        <subject source="ingest">Ojibwa dance</subject>
+                        <subject source="lcsh">Ojibwa Indians--Music</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref55" level="file">
+                    <did>
+                        <unittitle>Love Song</unittitle>
+                        <unitid>01-14</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1956-08-18</unitdate>
+                        <physdesc id="ref56" label="General Physical Description note">
+                            <extent>00:02:53</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Catfish, Mrs.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Catfish, Willie</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Kurath, Gertrude Prokosch</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Smart, Frank</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref58">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3145" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5980">
+                        <daodesc>
+                            <p>APSdigrec_3145</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Lac du Flambeau Reservation (Wis.)</geogname>
+                        <subject source="ingest">Ojibwa dance</subject>
+                        <subject source="lcsh">Ojibwa Indians--Music</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref59" level="file">
+                    <did>
+                        <unittitle>Ojibwe dance</unittitle>
+                        <unitid>01-15</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1956-08-18</unitdate>
+                        <physdesc id="ref60" label="General Physical Description note">
+                            <extent>00:01:11</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Catfish, Mrs.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Catfish, Willie</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Kurath, Gertrude Prokosch</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Smart, Frank</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref62">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3146" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5983">
+                        <daodesc>
+                            <p>APSdigrec_3146</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Indians of North America--Michigan--Music</subject>
+                        <geogname source="ingest">Lac du Flambeau Reservation (Wis.)</geogname>
+                        <subject source="ingest">Ojibwa dance</subject>
+                        <subject source="lcsh">Ojibwa Indians--Music</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref63" level="file">
+                    <did>
+                        <unittitle>Powwow dance</unittitle>
+                        <unitid>01-16</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1956-08-18</unitdate>
+                        <physdesc id="ref64" label="General Physical Description note">
+                            <extent>00:01:03</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Catfish, Willie</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Kurath, Gertrude Prokosch</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref66">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3147" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5998">
+                        <daodesc>
+                            <p>APSdigrec_3147</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Lac du Flambeau Reservation (Wis.)</geogname>
+                        <subject source="ingest">Ojibwa dance</subject>
+                        <subject source="lcsh">Ojibwa Indians--Music</subject>
+                        <subject source="ingest">Powwows</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref67" level="file">
+                    <did>
+                        <unittitle>Spirit Song</unittitle>
+                        <unitid>01-17</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1956-08-18</unitdate>
+                        <physdesc id="ref68" label="General Physical Description note">
+                            <extent>00:04:26</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Catfish, Mrs.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Catfish, Willie</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Kurath, Gertrude Prokosch</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Smart, Frank</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref70">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3148" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5976">
+                        <daodesc>
+                            <p>APSdigrec_3148</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Lac du Flambeau Reservation (Wis.)</geogname>
+                        <subject source="ingest">Ojibwa dance</subject>
+                        <subject source="lcsh">Ojibwa Indians--Music</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref71" level="file">
+                    <did>
+                        <unittitle>Ojibwe Song</unittitle>
+                        <unitid>01-18</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1956-08-18</unitdate>
+                        <physdesc id="ref72" label="General Physical Description note">
+                            <extent>00:00:51</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Catfish, Willie</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Kurath, Gertrude Prokosch</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref74">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3149" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5970">
+                        <daodesc>
+                            <p>APSdigrec_3149</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Lac du Flambeau Reservation (Wis.)</geogname>
+                        <subject source="ingest">Ojibwa dance</subject>
+                        <subject source="lcsh">Ojibwa Indians--Music</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref75" level="file">
+                    <did>
+                        <unittitle>49 Dance</unittitle>
+                        <unitid>02-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1952-08-22</unitdate>
+                        <physdesc id="ref76" label="General Physical Description note">
+                            <extent>00:01:17</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Brown, George</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Kurath, Gertrude Prokosch</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Lacasse, Fred</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Link, Sam</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Martin, John</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref78">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3150" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5971">
+                        <daodesc>
+                            <p>APSdigrec_3150</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Lac du Flambeau Reservation (Wis.)</geogname>
+                        <subject source="ingest">Ojibwa dance</subject>
+                        <subject source="lcsh">Ojibwa Indians--Music</subject>
+                        <subject source="ingest">Powwows</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref79" level="file">
+                    <did>
+                        <unittitle>Swan Dance</unittitle>
+                        <unitid>02-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1952-08-22</unitdate>
+                        <physdesc id="ref80" label="General Physical Description note">
+                            <extent>00:00:41</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Brown, George</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Kurath, Gertrude Prokosch</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Lacasse, Fred</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Link, Sam</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Martin, John</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref82">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3151" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5981">
+                        <daodesc>
+                            <p>APSdigrec_3151</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Lac du Flambeau Reservation (Wis.)</geogname>
+                        <subject source="ingest">Ojibwa dance</subject>
+                        <subject source="lcsh">Ojibwa Indians--Music</subject>
+                        <subject source="ingest">Powwows</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref83" level="file">
+                    <did>
+                        <unittitle>Pipe Dance</unittitle>
+                        <unitid>02-03</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1952-08-22</unitdate>
+                        <physdesc id="ref84" label="General Physical Description note">
+                            <extent>00:00:56</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Brown, George</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Kurath, Gertrude Prokosch</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Lacasse, Fred</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Link, Sam</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Martin, John</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref86">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3152" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5972">
+                        <daodesc>
+                            <p>APSdigrec_3152</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Lac du Flambeau Reservation (Wis.)</geogname>
+                        <subject source="ingest">Ojibwa dance</subject>
+                        <subject source="lcsh">Ojibwa Indians--Music</subject>
+                        <subject source="ingest">Powwows</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref87" level="file">
+                    <did>
+                        <unittitle>Pipe Dance</unittitle>
+                        <unitid>02-04</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1952-08-22</unitdate>
+                        <physdesc id="ref88" label="General Physical Description note">
+                            <extent>00:00:46</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Brown, George</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Kurath, Gertrude Prokosch</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Lacasse, Fred</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Link, Sam</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Martin, John</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref90">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3153" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5992">
+                        <daodesc>
+                            <p>APSdigrec_3153</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Lac du Flambeau Reservation (Wis.)</geogname>
+                        <subject source="ingest">Ojibwa dance</subject>
+                        <subject source="lcsh">Ojibwa Indians--Music</subject>
+                        <subject source="ingest">Powwows</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref91" level="file">
+                    <did>
+                        <unittitle>Deer Dance</unittitle>
+                        <unitid>02-05</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1952-08-22</unitdate>
+                        <physdesc id="ref92" label="General Physical Description note">
+                            <extent>00:01:13</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Brown, George</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Kurath, Gertrude Prokosch</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Lacasse, Fred</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Link, Sam</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Martin, John</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref94">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3154" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5989">
+                        <daodesc>
+                            <p>APSdigrec_3154</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Lac du Flambeau Reservation (Wis.)</geogname>
+                        <subject source="ingest">Ojibwa dance</subject>
+                        <subject source="lcsh">Ojibwa Indians--Music</subject>
+                        <subject source="ingest">Powwows</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref95" level="file">
+                    <did>
+                        <unittitle>Southwind Dance</unittitle>
+                        <unitid>02-06</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1952-08-22</unitdate>
+                        <physdesc id="ref96" label="General Physical Description note">
+                            <extent>00:00:44</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Brown, George</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Kurath, Gertrude Prokosch</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Lacasse, Fred</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Link, Sam</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Martin, John</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref98">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3155" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5995">
+                        <daodesc>
+                            <p>APSdigrec_3155</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Lac du Flambeau Reservation (Wis.)</geogname>
+                        <subject source="ingest">Ojibwa dance</subject>
+                        <subject source="lcsh">Ojibwa Indians--Music</subject>
+                        <subject source="ingest">Powwows</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref99" level="file">
+                    <did>
+                        <unittitle>War Dance</unittitle>
+                        <unitid>02-07</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1952-08-22</unitdate>
+                        <physdesc id="ref100" label="General Physical Description note">
+                            <extent>00:02:36</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Brown, George</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Kurath, Gertrude Prokosch</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Lacasse, Fred</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Link, Sam</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Martin, John</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref102">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3156" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5990">
+                        <daodesc>
+                            <p>APSdigrec_3156</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Lac du Flambeau Reservation (Wis.)</geogname>
+                        <subject source="ingest">Ojibwa dance</subject>
+                        <subject source="lcsh">Ojibwa Indians--Music</subject>
+                        <subject source="ingest">Powwows</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref103" level="file">
+                    <did>
+                        <unittitle>Fish Dance</unittitle>
+                        <unitid>02-08</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1952-08-22</unitdate>
+                        <physdesc id="ref104" label="General Physical Description note">
+                            <extent>00:01:04</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Brown, George</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Kurath, Gertrude Prokosch</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Lacasse, Fred</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Link, Sam</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Martin, John</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref106">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3157" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5982">
+                        <daodesc>
+                            <p>APSdigrec_3157</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Lac du Flambeau Reservation (Wis.)</geogname>
+                        <subject source="ingest">Ojibwa dance</subject>
+                        <subject source="lcsh">Ojibwa Indians--Music</subject>
+                        <subject source="ingest">Powwows</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref107" level="file">
+                    <did>
+                        <unittitle>War Dance</unittitle>
+                        <unitid>02-09</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1952-08-22</unitdate>
+                        <physdesc id="ref108" label="General Physical Description note">
+                            <extent>00:01:29</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Brown, George</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Kurath, Gertrude Prokosch</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Lacasse, Fred</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Link, Sam</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Martin, John</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref110">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3158" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5974">
+                        <daodesc>
+                            <p>APSdigrec_3158</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Lac du Flambeau Reservation (Wis.)</geogname>
+                        <subject source="ingest">Ojibwa dance</subject>
+                        <subject source="lcsh">Ojibwa Indians--Music</subject>
+                        <subject source="ingest">Powwows</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref111" level="file">
+                    <did>
+                        <unittitle>Two Love Songs</unittitle>
+                        <unitid>02-10</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1952-08-22</unitdate>
+                        <physdesc id="ref112" label="General Physical Description note">
+                            <extent>00:06:59</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Brown, George</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Kurath, Gertrude Prokosch</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Lacasse, Fred</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Link, Sam</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Martin, John</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref114">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3159" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5969">
+                        <daodesc>
+                            <p>APSdigrec_3159</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Lac du Flambeau Reservation (Wis.)</geogname>
+                        <subject source="ingest">Love songs</subject>
+                        <subject source="ingest">Ojibwa dance</subject>
+                        <subject source="lcsh">Ojibwa Indians--Music</subject>
+                        <subject source="ingest">Powwows</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref115" level="file">
+                    <did>
+                        <unittitle>Four Ponca Peyote Songs</unittitle>
+                        <unitid>02-11</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <physdesc id="ref116" label="General Physical Description note">
+                            <extent>00:06:53</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Howard, James Henri</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Kurath, Gertrude Prokosch</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref118">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_4018" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5984">
+                        <daodesc>
+                            <p>APSdigrec_4018</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Peyote songs</subject>
+                        <subject source="lcsh">Ponca Indians--Music</subject>
+                        <subject source="lcsh">Ponca Indians--Rites and ceremonies</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

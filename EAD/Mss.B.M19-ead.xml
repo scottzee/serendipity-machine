@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.M19-ead.xml">PUBLIC "-//American Philosophical Society//TEXT (US::PPAmP::B M19::Mack, Pamela, The Early Years of the Cold Spring Harbor Station)//EN" "mack.xml"</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Mack, Pamela E.
+                    <lb/>The Early Years of the Cold Spring Harbor Station for Experimental Evolution
+                    <date type="span">1979</date>
+                    <num>Mss.B.M19</num>
+                </titleproper>
+                <author>Finding aid prepared by rsc</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+                <date>2003</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T19:42-0400</date>
+            </creation>
+            <langusage>ENG</langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>The Early Years of the Cold Spring Harbor Station for Experimental Evolution</unittitle>
+            <unitid>Mss.B.M19</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>0.1 Linear feet</extent>
+                <extent>44 p.</extent>
+            </physdesc>
+            <unitdate normal="1979/1979">1979</unitdate>
+            <abstract id="ref2" label="Abstract">Pamela Mack received her doctorate in the History and Sociology of Science at the University of Pennsylvania in 1983. She is currently a member of the Department of History at Clemson University. 
+                <lb/>Mack's essay, "The Early Years of the Cold Spring Harbor Station for Experimental Evolution," was written for a class taught by Daniel Kevles in 1979. In it, she charts the origins and first decade of the Station for Experimental Evolution (1904 to 1914) and its transformation under the leadership of Charles B. Davenport into an institution devoted to the study of eugenics.</abstract>
+            <physdesc id="ref1" label="General Physical Description note">44p., 0.1 linear feet</physdesc>
+            <physloc id="ref10" label="Paging">LH-MV-E-3</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Mack, Pamela E.</persname>
+            </origination>
+        </did>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>Pamela Mack received her doctorate in the History and Sociology of Science at the University of Pennsylvania in 1983. She is currently a member of the Department of History at Clemson University.</p>
+        </bioghist>
+        <scopecontent id="ref4">
+            <head>Scope and Contents note</head>
+            <p>Pamela Mack's essay, "The Early Years of the Cold Spring Harbor Station for Experimental Evolution," was written for a class taught by Daniel Kevles in 1979. In it, she charts the origins and first decade of the Station for Experimental Evolution (1904 to 1914) and its transformation under the leadership of Charles B. Davenport into an institution devoted to the study of eugenics.</p>
+        </scopecontent>
+        <prefercite id="ref6">
+            <head>Preferred Citation note</head>
+            <p>Cite as: Pamela E. Mack, "The Early Years of the Cold Spring Harbor Station for Experimental Evolution," American Philosophical Society.</p>
+        </prefercite>
+        <acqinfo id="ref7">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Gift of the author, 1979.</p>
+        </acqinfo>
+        <processinfo id="ref8">
+            <head>Processing Information note</head>
+            <p>Recatalogued by rsc, 2003.</p>
+        </processinfo>
+        <relatedmaterial id="ref9">
+            <head>Related Archival Materials note</head>
+            <p>The essay is based in large part on the 
+                <extref ns2:href="http://www.amphilsoc.org/library/mole/d/davenport.htm">Charles B. Davenport Papers</extref>.</p>
+        </relatedmaterial>
+        <controlaccess>
+            <corpname source="ingest">Cold Spring Harbor Station for Experimental Evolution</corpname>
+            <persname rules="aacr" source="naf">Davenport, Charles Benedict, 1866-1944</persname>
+            <subject source="lcsh">Eugenics</subject>
+            <subject source="lcsh">Evolution (Biology)</subject>
+            <subject source="lcsh">Genetics</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

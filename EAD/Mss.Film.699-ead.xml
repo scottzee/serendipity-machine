@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Film.699-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Film.699</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T20:16-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Biographical and bibliographical dictionary of the Italian humanists and of the world of classical scholarship in Italy, 1300-1800, [n.d.]</unittitle>
+            <unitid>Mss.Film.699</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid13332001" type="Reel" label="Microform">1-29</container>
+            <physdesc>
+                <extent>29.0 Microfilm reel(s)</extent>
+            </physdesc>
+            <unitdate>n.d.</unitdate>
+            <abstract id="ref10" label="Abstract">These handwritten and typewritten cards were prepared by Cosenza and are arranged alphabetically.</abstract>
+            <physdesc id="ref19" label="General Physical Description note">29 microfilm reels.</physdesc>
+            <physloc id="ref20" label="Paging">LH-RR-Media Rm-9</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Cosenza, Mario Emilio,1880-1966,comp.</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref9">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by Mario Emilio Cosenza and accessioned, 1954 (1954 642mf).</p>
+            <p></p>
+        </acqinfo>
+        <userestrict id="ref7">
+            <head>Conditions Governing Use note</head>
+            <p>The copyright is held by the Renaissance Society of America.</p>
+        </userestrict>
+        <bioghist id="ref5">
+            <head>Biographical/Historical note</head>
+            <p>Mario Emilio Cosenza was Dean Emeritus at Brooklyn College.</p>
+        </bioghist>
+        <originalsloc id="ref3">
+            <head>Existence and Location of Originals note</head>
+            <p>Originals in possession of Mario Emilio Cosenza.</p>
+        </originalsloc>
+        <controlaccess>
+            <genreform source="lcsh">Biographical dictionaries.</genreform>
+            <subject source="lcsh">Humanists -- Italy.</subject>
+            <geogname source="lcsh">Italy -- Intellectual life.</geogname>
+            <subject source="lcsh">Learning and scholarship -- Italy.</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

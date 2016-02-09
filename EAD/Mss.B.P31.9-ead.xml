@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.P31.9-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.P31.9</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T19:52-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc audience="internal" level="item">
+        <did>
+            <unittitle>Charles Peale letterbook, 1745-1747</unittitle>
+            <unitid>Mss.B.P31.9</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1511" type="Volume" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>1.0 Volume(s)</extent>
+                <extent>1 volume, 40 p.</extent>
+            </physdesc>
+            <unitdate normal="1745/1747" type="inclusive">1745-1747</unitdate>
+            <abstract id="ref1" label="Abstract">These are copies of out-going letters written from Maryland and principally concern family affairs, financial conditions, health, and life in Maryland. There are some references to Maryland politics.</abstract>
+            <physdesc id="ref6" label="General Physical Description note">1 volume, 40 p</physdesc>
+            <physloc id="ref9" label="Paging">LH-MV-E-4</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Peale, Charles,1709-1750.</persname>
+            </origination>
+        </did>
+        <odd id="ref7">
+            <head>Early American History Not</head>
+            <p>This Charles Willson Peale letterbook for 1745-1747 is the earliest of Peale's letterbooks. It is separate from his other letterbooks because this one is a facsimile of an original, whereas the others held at the APS are all originals. This earlier volume reflects Peale's early life in Maryland and touches on various aspects of his life there, including discussions of his social life and of local politics.</p>
+        </odd>
+        <odd id="ref8">
+            <head>Administrative Note</head>
+            <p>This record is superseded by, and included in, B P31. It was marked “internal only” in Dec., 2010 and is being kept in the case that it is needed for future administrative needs.</p>
+        </odd>
+        <acqinfo id="ref5">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Received and accessioned, 1945.</p>
+        </acqinfo>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>Charles Peale, father of Charles Willson Peale, was a schoolmaster and painter.</p>
+        </bioghist>
+        <controlaccess>
+            <subject source="leah">Colonial Politics</subject>
+            <subject source="leah">Colony and State Specific History</subject>
+            <genreform source="leah">Family Correspondence</genreform>
+            <genreform source="leah">General Correspondence</genreform>
+            <subject source="leah">Marriage and Family Life</subject>
+            <geogname source="lcsh">Maryland -- Politics and government -- To 1775.</geogname>
+            <geogname source="lcsh">Maryland -- Social life and customs -- To 1775.</geogname>
+            <subject source="leah">Social Life and Custom</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

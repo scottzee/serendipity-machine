@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.P31.31-35</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T19:53-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc audience="internal" level="collection">
+        <did>
+            <unittitle>John Sellers records, 1783-1852</unittitle>
+            <unitid>Mss.B.P31.31-35</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1519" type="Volume" label="Manuscripts">1-13</container>
+            <physdesc>
+                <extent>13.0 Volume(s)</extent>
+            </physdesc>
+            <unitdate normal="1783/1852" type="inclusive">1783-1852</unitdate>
+            <abstract id="ref1" label="Abstract">This collection contains records of John Sellers and his father.</abstract>
+            <physdesc id="ref8" label="General Physical Description note">13 volumes.</physdesc>
+            <physloc id="ref23" label="Paging">LH-MV-E-4</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Sellers, John,1762-1847.</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref7">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by Charles Coleman Sellers, 1945.</p>
+        </acqinfo>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>John Sellers was a surveyor, farmer, and miller in Upper Darby, Pennsylvania.</p>
+        </bioghist>
+        <odd id="ref21">
+            <head>Administrative Note</head>
+            <p>This record is superseded by, and included in, B P31. It was marked “internal only” in Dec., 2010 and is being kept in the case that it is needed for future administrative needs.</p>
+        </odd>
+        <odd id="ref22">
+            <head>Early American History Not</head>
+            <p>John Sellers was a prominent farmer in Upper Darby, Pennsylvania. This collection of his papers consists of a variety of documents most of which have to do with his financial and business dealings. Of particular note is a diary he kept from 1808 to 1846, which records a wide range of events. The multi-volume diary trace Sellers transition from a Philadelphian to a full-time farmer. The entries are short and detail oriented – recording visits and activities but providing little color or description beyond the basics.</p>
+        </odd>
+        <controlaccess>
+            <persname rules="aacr" source="naf">Sellers, John, 1728-1804</persname>
+            <subject source="leah">Business and Skilled Trades</subject>
+            <genreform source="leah">Business Records and Accounts</genreform>
+            <genreform source="lcsh">Daybooks.</genreform>
+            <genreform source="leah">Diaries</genreform>
+            <genreform source="lcsh">Diaries.</genreform>
+            <subject source="lcsh">Farms -- Pennsylvania.</subject>
+            <subject source="lcsh">Land speculation</subject>
+            <genreform source="lcsh">Ledgers.</genreform>
+            <subject source="leah">Marriage and Family Life</subject>
+            <geogname source="lcsh">Philadelphia (Pa.) -- Commerce.</geogname>
+            <geogname source="lcsh">Philadelphia (Pa.) -- Social life and customs.</geogname>
+            <genreform source="lcsh">Receipt books.</genreform>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

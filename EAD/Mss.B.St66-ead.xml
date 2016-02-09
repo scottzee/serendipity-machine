@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.St66-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.St66</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T20:03-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="item">
+        <did>
+            <unittitle>William T. Stockton notebook, 1813-1817</unittitle>
+            <unitid>Mss.B.St66</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1623" type="Volume" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>1.0 Volume(s)</extent>
+                <extent>1 volume, 94 p.</extent>
+            </physdesc>
+            <unitdate normal="1813/1817" type="inclusive">1813-1817</unitdate>
+            <abstract id="ref1" label="Abstract">This notebook contains accounts with Farmers and Mechanics Bank, names of debtors and creditors, and "Feed Book," naming owners of animals and the amount of oats consumed by their beasts. Contains reference to R. Bache.</abstract>
+            <physdesc id="ref6" label="General Physical Description note">1 volume, 94 p.</physdesc>
+            <physloc id="ref8" label="Paging">LH-MV-E-15</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Stockton, William T.</persname>
+            </origination>
+        </did>
+        <odd id="ref7">
+            <head>Early American History Note</head>
+            <p>Williams Stockton was involved in the Farmer and Mechanics Bank in Philadelphia during the early nineteenth century. This volume contains some records of this financial institution.</p>
+        </odd>
+        <acqinfo id="ref5">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Received and accessioned, 1961 (1961 618ms); provenance unknown</p>
+        </acqinfo>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>William T. Stockton was proprietor of the New York and Baltimore stages.</p>
+        </bioghist>
+        <controlaccess>
+            <corpname source="naf">Farmers' and Mechanics' Bank in the City of Philadelphia .</corpname>
+            <genreform source="lcsh">Accounts.</genreform>
+            <subject source="leah">Business and Skilled Trades</subject>
+            <genreform source="leah">Business Records and Accounts</genreform>
+            <genreform source="lcsh">Notebooks.</genreform>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.M451-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.M451</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T19:43-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Ernst Mayr papers, 1946, 1974-1979</unittitle>
+            <unitid>Mss.B.M451</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1421" type="Box" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>0.5 Linear feet</extent>
+                <extent>Ca. 700 items</extent>
+            </physdesc>
+            <unitdate normal="1974/1979" type="bulk">Bulk, 1974-1979</unitdate>
+            <unitdate normal="1946/1979" type="inclusive">1946-1979</unitdate>
+            <physdesc id="ref8" label="General Physical Description note">Ca. 700 items.</physdesc>
+            <abstract id="ref1" label="Abstract">This collection includes documents (correspondence, drafts of talks, personal data sheets) relating to the Conference on Evolutionary Synthesis, which met in Boston in May and October 1974, and was sponsored by the American Academy of Arts and Sciences. There is background material on the organization of the conference, as well as correspondence, especially with William B. Provine, on the editing and publication of the proceedings (Mayr and Provine, eds., "The Evolutionary Synthesis..." 1980).</abstract>
+            <physloc id="ref26" label="Paging">LH-B-20-2</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Mayr, Ernst, 1904-2005 </persname>
+            </origination>
+        </did>
+        <acqinfo id="ref7">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by Ernst Mayr, 1979, 1982; accessioned, 11/26/1979 (1979 2110ms). See in-house shelf list for additional accession numbers and dates.</p>
+        </acqinfo>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>Ernst Mayr is a zoologist.</p>
+        </bioghist>
+        <odd id="ref25">
+            <head>Genetics Note</head>
+            <p>This collection contains materials which relate to the history of genetics.</p>
+            <p>
+                <table>
+                    <tgroup cols="3">
+                        <colspec colwidth="30%" colname="1"/>
+                        <colspec colname="2"/>
+                        <colspec colname="3"/>
+                        <thead>
+                            <row>
+                                <entry colname="1">Author</entry>
+                                <entry colname="2">Format</entry>
+                                <entry colname="3">Date</entry>
+                            </row>
+                        </thead>
+                        <tbody>
+                            <row>
+                                <entry valign="top" align="left">
+                                    <ref target="ref13">Darlington, Cyril Dean</ref></entry>
+                                <entry valign="top" align="left">Correspondence (2 folders)</entry>
+                                <entry valign="top" align="left">1965-1975</entry>
+                            </row>
+                            <row>
+                                <entry valign="top" align="left">
+                                    <ref target="ref11">Dobzhansky, Theodosius</ref></entry>
+                                <entry valign="top" align="left">Correspondence (2 folders)</entry>
+                                <entry valign="top" align="left">1970-1975</entry>
+                            </row>
+                            <row>
+                                <entry valign="top" align="left">
+                                    <ref target="ref15">Huxley, Julian</ref></entry>
+                                <entry valign="top" align="left">Correspondence (1 folder)</entry>
+                                <entry valign="top" align="left">1974-1975</entry>
+                            </row>
+                            <row>
+                                <entry valign="top" align="left">
+                                    <ref target="ref17">Lerner, Isadore Michael</ref></entry>
+                                <entry valign="top" align="left">Correspondence (1 folder)</entry>
+                                <entry valign="top" align="left">1973-1976</entry>
+                            </row>
+                            <row>
+                                <entry valign="top" align="left">
+                                    <ref target="ref19">Princeton Conference on Genetics, 1947</ref></entry>
+                                <entry valign="top" align="left">Records (1 folder)</entry>
+                                <entry valign="top" align="left">1976</entry>
+                            </row>
+                            <row>
+                                <entry valign="top" align="left">
+                                    <ref target="ref21">Simpson, George Gaylord</ref></entry>
+                                <entry valign="top" align="left">Correspondence (3 folders)</entry>
+                                <entry valign="top" align="left">1973-1977</entry>
+                            </row>
+                            <row>
+                                <entry valign="top" align="left">
+                                    <ref target="ref23">Stern, Curt</ref></entry>
+                                <entry valign="top" align="left">Correspondence (1 folder)</entry>
+                                <entry valign="top" align="left">1974-1975</entry>
+                            </row>
+                        </tbody>
+                    </tgroup>
+                </table></p>
+        </odd>
+        <controlaccess>
+            <corpname rules="aacr" source="naf">American Academy of Arts and Sciences.</corpname>
+            <persname rules="aacr" source="naf">Boesiger, Ernest</persname>
+            <persname rules="aacr" source="naf">Cleland, Ralph E.,  (Ralph Erskine), 1892-1971</persname>
+            <persname rules="aacr" source="naf">Darlington, C. D.,  (Cyril Dean), 1903-1981</persname>
+            <persname rules="aacr" source="naf">Dobzhansky, Theodosius Grigorievich, 1900-1975</persname>
+            <persname source="ingest">Ford, E. B. (Edmund Briscoe), 1901-</persname>
+            <persname rules="aacr" source="naf">Huxley, Julian, 1887-1975</persname>
+            <persname source="ingest">Lerner, I. Michael(Isadore Michael),1910-</persname>
+            <persname source="ingest">Lewontin, Richard Charles, 1929-</persname>
+            <persname rules="aacr" source="naf">Metz, Charles William, 1889-1975</persname>
+            <persname rules="aacr" source="naf">Muller, H. J.,  (Hermann Joseph), 1890-1967</persname>
+            <persname source="ingest">Provine, William B.</persname>
+            <persname rules="aacr" source="naf">Rensch, Bernhard, 1900-</persname>
+            <persname rules="aacr" source="naf">Sinnott, Edmund W. (Edmund Ware), 1888-1958</persname>
+            <corpname source="ingest">Society for the Study of Evolution.</corpname>
+            <persname source="ingest">Stebbins, G. Ledyard,  (George Ledyard), 1906-2000</persname>
+            <persname rules="aacr" source="naf">Timofeev-Resovskiĭ, N. V.,  (Nikolaĭ Vladimirovich), 1900-1981</persname>
+            <persname rules="aacr" source="local">Weinstien, Alexander, 1891-1947</persname>
+            <genreform source="lcsh">Drafts (preliminary versions).</genreform>
+            <subject source="lcsh">Evolution -- History -- 20th century.</subject>
+            <subject source="lcsh">Evolution.</subject>
+            <subject source="lcsh">Genetics.</subject>
+            <subject source="lcsh">Paleontology.</subject>
+            <subject source="lcsh">Science -- Societies, etc.</subject>
+            <subject source="lcsh">Science publishing.</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref10" level="series">
+                <did>
+                    <unittitle>Selected Inventory from Genetics Subject Guide</unittitle>
+                </did>
+                <c02 id="ref13" level="file">
+                    <did>
+                        <unittitle>Darlington, Cyril Dean</unittitle>
+                        <unitdate>1965-1975</unitdate>
+                        <physdesc id="ref14" label="General Physical Description note">Correspondence ( 2 folders )</physdesc>
+                    </did>
+                    <controlaccess>
+                        <subject source="local">American Association for the Advancement of Science</subject>
+                        <subject source="local">Bateson, William N.</subject>
+                        <subject source="local">Biographical and personal data</subject>
+                        <subject source="local">Conferences and symposia -- History of Evolutionary Synthesis</subject>
+                        <subject source="local">Cytogenetics</subject>
+                        <subject source="local">Drosophila genetics</subject>
+                        <subject source="local">Evolution</subject>
+                        <subject source="local">Genetics of plants</subject>
+                        <subject source="local">History of biology, especially genetics</subject>
+                        <subject source="local">Provine, William B.</subject>
+                        <subject source="local">Unpublished manuscripts, notes, etc.</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref11" level="file">
+                    <did>
+                        <unittitle>Dobzhansky, Theodosius</unittitle>
+                        <unitdate>1970-1975</unitdate>
+                        <physdesc id="ref12" label="General Physical Description note">Correspondence ( 2 folders )</physdesc>
+                    </did>
+                    <controlaccess>
+                        <subject source="local">American Association for the Advancement of Science</subject>
+                        <subject source="local">Biographical and personal data</subject>
+                        <subject source="local">Columbia University -- Oral History Project</subject>
+                        <subject source="local">Conferences and symposia -- History of Evolutionary Synthesis</subject>
+                        <subject source="local">Drosophila genetics</subject>
+                        <subject source="local">Dubinin, Nikolai Petrovich</subject>
+                        <subject source="local">Dunn, Leslie Clarence</subject>
+                        <subject source="local">Evolution</subject>
+                        <subject source="local">History of biology, especially genetics</subject>
+                        <subject source="local">Lerner, Isadore Michael</subject>
+                        <subject source="local">Morgan, Thomas Hunt</subject>
+                        <subject source="local">Population genetics</subject>
+                        <subject source="local">Provine, William B.</subject>
+                        <subject source="local">Russian politics and science</subject>
+                        <subject source="local">Statistics, biostatistics, biometrics</subject>
+                        <subject source="local">Sturtevant, Alfred Henry</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref15" level="file">
+                    <did>
+                        <unittitle>Huxley, Julian</unittitle>
+                        <unitdate>1974-1975</unitdate>
+                        <physdesc id="ref16" label="General Physical Description note">Correspondence ( 1 folder )</physdesc>
+                    </did>
+                    <controlaccess>
+                        <subject source="local">American Association for the Advancement of Science</subject>
+                        <subject source="local">Biographical and personal data</subject>
+                        <subject source="local">Conferences and symposia -- History of Evolutionary Synthesis</subject>
+                        <subject source="local">Darwin, Charles</subject>
+                        <subject source="local">Evolution</subject>
+                        <subject source="local">History of biology, especially genetics</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref17" level="file">
+                    <did>
+                        <unittitle>Lerner, Isadore Michael</unittitle>
+                        <unitdate>1973-1976</unitdate>
+                        <physdesc id="ref18" label="General Physical Description note">Correspondence ( 1 folder )</physdesc>
+                    </did>
+                    <controlaccess>
+                        <subject source="local">American Association for the Advancement of Science</subject>
+                        <subject source="local">Biographical and personal data</subject>
+                        <subject source="local">Conferences and symposia -- History of Evolutionary Synthesis</subject>
+                        <subject source="local">Dobzhansky, Theodosius</subject>
+                        <subject source="local">Dubinin, Nikolai Petrovich</subject>
+                        <subject source="local">Evolution</subject>
+                        <subject source="local">History of biology, especially genetics</subject>
+                        <subject source="local">Provine, William B.</subject>
+                        <subject source="local">Russian politics and science</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref19" level="file">
+                    <did>
+                        <unittitle>Princeton Conference on Genetics, 1947</unittitle>
+                        <unitdate>1976</unitdate>
+                        <physdesc id="ref20" label="General Physical Description note">Records ( 1 folder )</physdesc>
+                    </did>
+                    <controlaccess>
+                        <subject source="local">Colbert, Edwin A.</subject>
+                        <subject source="local">Conferences and symposia</subject>
+                        <subject source="local">Darwin, Charles</subject>
+                        <subject source="local">Evolution</subject>
+                        <subject source="local">Genetics</subject>
+                        <subject source="local">History of biology, especially genetics</subject>
+                        <subject source="local">Patterson, Bryan</subject>
+                        <subject source="local">Simpson, George Gaylord</subject>
+                        <subject source="local">Stebbins, G. Ledyard</subject>
+                        <subject source="local">Stern, Curt</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref21" level="file">
+                    <did>
+                        <unittitle>Simpson, George Gaylord</unittitle>
+                        <unitdate>1973-1977</unitdate>
+                        <physdesc id="ref22" label="General Physical Description note">Correspondence ( 3 folders )</physdesc>
+                    </did>
+                    <controlaccess>
+                        <subject source="local">American Association for the Advancement of Science</subject>
+                        <subject source="local">Biographical and personal data</subject>
+                        <subject source="local">Conferences and symposia -- History of Evolutionary Synthesis</subject>
+                        <subject source="local">Darwin, Charles</subject>
+                        <subject source="local">Evolution</subject>
+                        <subject source="local">History of biology, especially genetics</subject>
+                        <subject source="local">Huxley, Julian</subject>
+                        <subject source="local">Publication</subject>
+                        <subject source="local">Travel -- Arctic Ocean</subject>
+                        <subject source="local">Unpublished manuscripts, notes, etc.</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref23" level="file">
+                    <did>
+                        <unittitle>Stern, Curt</unittitle>
+                        <unitdate>1974-1975</unitdate>
+                        <physdesc id="ref24" label="General Physical Description note">Correspondence ( 1 folder )</physdesc>
+                    </did>
+                    <controlaccess>
+                        <subject source="local">American Association for the Advancement of Science</subject>
+                        <subject source="local">Biographical and personal data</subject>
+                        <subject source="local">Conferences and symposia -- History of Evolutionary Synthesis</subject>
+                        <subject source="local">Drosophila genetics</subject>
+                        <subject source="local">Evolution</subject>
+                        <subject source="local">Evolution -- Germany</subject>
+                        <subject source="local">Goldschmidt, Richard Benedict</subject>
+                        <subject source="local">History of biology, especially genetics</subject>
+                        <subject source="local">Kaiser-Wilhelm Institutes</subject>
+                        <subject source="local">Morgan, Thomas Hunt</subject>
+                        <subject source="local">Muller, Hermann Joseph</subject>
+                        <subject source="local">Population genetics</subject>
+                        <subject source="local">Sturtevant, Alfred Henry</subject>
+                        <subject source="local">Unpublished manuscripts, notes, etc.</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+            <c01 id="ref9" level="series">
+                <did>
+                    <unittitle>Conference on the Evolutionary Sythesis Collection</unittitle>
+                    <unitid>M 451e</unitid>
+                    <langmaterial>
+                        <language langcode="eng"/>
+                    </langmaterial>
+                    <container id="cid119133" type="Box" label="Mixed materials">4</container>
+                    <container parent="cid119133" type="Volume">1</container>
+                    <physdesc>
+                        <extent>4.0 Linear feet</extent>
+                    </physdesc>
+                    <unitdate normal="1947/1948" type="inclusive">1947-1948</unitdate>
+                    <origination label="creator">
+                        <persname rules="aacr" source="naf" role="Author (aut)">Mayr, Ernst, 1904-2005 </persname>
+                    </origination>
+                </did>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

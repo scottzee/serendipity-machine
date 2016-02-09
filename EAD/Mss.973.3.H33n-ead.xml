@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.973.3.H33n-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.973.3.H33n</num>
+                    <num>Mss.973.3.H33n</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T21:22-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="item">
+        <did>
+            <unittitle>A note on the history of the Jefferson manuscript draught of the Declaration of Independence in the Library of the American Philosophical Society, 1898</unittitle>
+            <unitid>Mss.973.3.H33n</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid13320001" type="Volume" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>1.0 Volume(s)</extent>
+            </physdesc>
+            <unitdate normal="1898/1898">1898</unitdate>
+            <abstract id="ref3" label="Abstract">Accompanying this reprint from A.P.S. "Proceedings" 37(1898):88-107, are facsimilies of the Jefferson draft of the Declaration of Independence; 3 original letters from Richard Henry Lee, Jr., to John Vaughan, 1836 and 1840; an original letter from Isaac Lea to Vaughan, 1840; a note on the manuscript by Vaughan; and two original letters between Vaughan and George Combe, 1841.</abstract>
+            <physloc id="ref4" label="Paging">LH-MV-E-13</physloc>
+            <physdesc id="ref2" label="General Physical Description note">1 volume.</physdesc>
+            <origination label="creator">
+                <persname source="ingest">Hays , I. Minis, (Isaac Minis), 1847-1925</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref5">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Received and accessioned, 12/--/1900 (1900 2644).</p>
+        </acqinfo>
+        <bioghist id="ref6">
+            <head>Biographical/Historical note</head>
+            <p>I. Minis Hays was a Philadelphia physician and author and editor of books on medicine and Benjamin Franklin. He was Librarian of the American Philosophical Society from 1897 to 1922.</p>
+        </bioghist>
+        <controlaccess>
+            <corpname source="ingest">American Philosophical Society. Library.</corpname>
+            <persname source="ingest">Combe, George, 1788-1858</persname>
+            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+            <persname source="ingest">Lea, Isaac, 1792-1886</persname>
+            <persname source="ingest">Lee, Richard Henry, 1794-1865</persname>
+            <persname source="ingest">Vaughan, John, 1756-1841</persname>
+            <geogname source="lcsh">United States -- History -- Revolution, 1775-1783 -- Personal histories.</geogname>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref7" level="series">
+                <did>
+                    <unittitle>A note on the history of the Jefferson manuscript draught of the Declaration of independence in the library of the American philosophical society.</unittitle>
+                    <unitdate>1898</unitdate>
+                    <origination label="creator">
+                        <persname source="ingest">Hays, I. Minis (Isaac Minis), 1847-1925</persname>
+                    </origination>
+                </did>
+                <scopecontent id="ref39">
+                    <head>Scope and Contents note</head>
+                    <p>20p. facsim. F. Reprinted July 21, 1898 from the Proceedings - American philosophical society, v.37. f.p.</p>
+                </scopecontent>
+                <c02 id="ref8" level="file">
+                    <did>
+                        <unittitle>Letter to [J.W. ] Wallace;</unittitle>
+                        <unitdate>Oct. 26, 1825</unitdate>
+                        <physdesc id="ref9" label="General Physical Description note">8 1/2" x 12 1/4"</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref10">
+                        <head>Scope and Contents note</head>
+                        <p>Monticello, Typed c. of L. 2p. (Bound with Hays, Note on the history... of the Declaration) Received letter from John Vaughan of the A.P.S. informing that R.H. Lee had deposited his grandfather's correspondence and papers, including Jefferson's draught of the Declaration of independence with the Society. (from original in Library of Congress.)</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref11" level="file">
+                    <did>
+                        <unittitle>Letter to John Vaughan;</unittitle>
+                        <unitdate>Aug. 11, 1836</unitdate>
+                        <physdesc id="ref12" label="General Physical Description note">7 3/4" x 9 3/4"</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Lee, Richard Henry, 1794-1865</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref13">
+                        <head>Scope and Contents note</head>
+                        <p>Washington, A.L.S. 3p. and add., end. (Bound with Hays, Note on the history of...Declaration) Never had the original of the letter from Mr. Jefferson accompanying his draught of the Declaration. The copy sent the APS is an authentic one coming down from his grandfather. Proposal to reclaim Lee papers presented to the University of Virginia and give them to the APS. Proposed gift of Col. Morgan papers to the APS.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref14" level="file">
+                    <did>
+                        <unittitle>Letter to John Vaughan;</unittitle>
+                        <unitdate>Feb. 25, 1840</unitdate>
+                        <physdesc id="ref15" label="General Physical Description note">8" x 10"</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Lee, Richard Henry, 1794-1865</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref16">
+                        <head>Scope and Contents note</head>
+                        <p>Washington, A.L.S. 4p., add., end. (Bound with Hays, Note on the history... of Declaration) Relative to the draught of the Declaration and the copy of Mr. Jefferson's letter presented to the APS.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref17" level="file">
+                    <did>
+                        <unittitle>Letter to John Vaughan;</unittitle>
+                        <unitdate>April 24, 1840</unitdate>
+                        <physdesc id="ref18" label="General Physical Description note">7 1/2" x 10"</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Lee, Richard Henry, 1794-1865</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref19">
+                        <head>Scope and Contents note</head>
+                        <p>Washington, A.L.S. 2p. and add., end. (Bound with Hays, Note on the history... of Declaration) Transcribes a statement relative to the draught of the Declaration in the Athenaeum [i.e. A.P.S.] Statement printed: Hays, Note on... Declaration...p.7.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref20" level="file">
+                    <did>
+                        <unittitle>Letter to John Vaughan, Philadelphia;</unittitle>
+                        <unitdate>May 1, 1840</unitdate>
+                        <physdesc id="ref21" label="General Physical Description note">10x8</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Leet, Isaac</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref22">
+                        <head>Scope and Contents note</head>
+                        <p>Washington, A.L.S. 1P.and add.,end. (see Hays. Notes on the declaration... no.8.) Forwards statement concerning R.H. Lee's draft of the declaration in the hand of Jefferson.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref23" level="file">
+                    <did>
+                        <unittitle>Letter to Richard Henry Lee;</unittitle>
+                        <unitdate>Jan. 31, 1840</unitdate>
+                        <physdesc id="ref24" label="General Physical Description note">7 1/2" x 12 1/2"</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Vaughan, John, 1756-1841</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref25">
+                        <head>Scope and Contents note</head>
+                        <p>Phila., Copy of L. 3p. (Bound with Hays, Note on the history... of the Declaration) Relative to the draught of the Declaration of independence which Mr. Lee had presented to the Society,</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref26" level="file">
+                    <did>
+                        <unittitle>Letter to John Vaughan;</unittitle>
+                        <unitdate>May 23, 1841</unitdate>
+                        <physdesc id="ref27" label="General Physical Description note">7 1/2" x 9"</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Combe, George, 1788-1858</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref28">
+                        <head>Scope and Contents note</head>
+                        <p>Hull, A.L.S. 1p. and add. (Bound with Hays, Note on the history... of the Declaration) Acknowledges letter giving history of the American Declaration of Independence.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref29" level="file">
+                    <did>
+                        <unittitle>Letter to George Combe;</unittitle>
+                        <unitdate>March 27, 1841</unitdate>
+                        <physdesc id="ref30" label="General Physical Description note">8" x 10"</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Vaughan, John, 1756-1841</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref31">
+                        <head>Scope and Contents note</head>
+                        <p>Phila., A.Dr. of L. 2p. (Bound with Hays, Note on the history...of the Declaration) Relative to the draught of the Declaration of independence in Jefferson's hand in the possession of the APS.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref32" level="file">
+                    <did>
+                        <unittitle>Miscellaneous notes relative to the Declaration of independence and Jefferson's draughts;</unittitle>
+                        <unitdate>1841</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Vaughan, John, 1756-1841</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref33">
+                        <head>Scope and Contents note</head>
+                        <p>ca. A.D. 9p. var. sizes (Bound with Hays, Note on the history of the Declaration,no.10,11,12,15,16) Some of these notes may be by R.H. Lee.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref34" level="file">
+                    <did>
+                        <unittitle>Notes on the copy of the declaration in the hand of Jefferson;</unittitle>
+                        <unitdate>1841</unitdate>
+                        <physdesc id="ref35" label="General Physical Description note">13x8</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Vaughan, John, 1756-1841</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref36">
+                        <head>Scope and Contents note</head>
+                        <p>[ca.?] A.D.S. 4p. (see Hays. Notes on the declaration...no.9.)</p>
+                    </scopecontent>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

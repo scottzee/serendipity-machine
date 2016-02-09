@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.580.EL5-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.580.EL5</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:21-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="item">
+        <did>
+            <unittitle>John Ellis letters, 1753-1771</unittitle>
+            <unitid>Mss.580.EL5</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid951" type="Volume" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>1.0 Volume(s)</extent>
+                <extent>1 volume, 314 p.</extent>
+            </physdesc>
+            <unitdate normal="1753/1771" type="inclusive">1753-1771</unitdate>
+            <abstract id="ref1" label="Abstract">These are copies in an unknown hand [the name "Meriel Nevill Watt" appears in the front of the volume] of letters, primarily from Ellis, that were published in the "Philosophical Transactions" of the Royal Society in London. Most relate to botanical topics, and many are written to Peter Collinson. A few are written by Peter Woulfe. Included are contemporary engravings from the "Transactions," as well as original wash drawings copied from the engravings.</abstract>
+            <physdesc id="ref15" label="General Physical Description note">1 volume, 314 p.</physdesc>
+            <physloc id="ref17" label="Paging">LH-MV-E-10; LH-SB-Black Case-15 (OS)</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Ellis, John,1710?-1776.</persname>
+            </origination>
+        </did>
+        <bioghist id="ref12">
+            <head>Biographical/Historical note</head>
+            <p>John Ellis was a naturalist.</p>
+        </bioghist>
+        <originalsloc id="ref10">
+            <head>Existence and Location of Originals note</head>
+            <p>Location of originals unknown.</p>
+        </originalsloc>
+        <odd id="ref18">
+            <head>Early American History Note</head>
+            <p>This manuscript collection falls outside the geographic scope of the Early American guide (British North America and the United States before 1840). It may be of interest to scholars interested in global history, international relations, imperialism, or the U.S. in the world.</p>
+        </odd>
+        <controlaccess>
+            <persname rules="aacr" source="naf">Collinson, Peter, 1694-1768</persname>
+            <persname rules="aacr" source="local">Watt, Meriel Nevill</persname>
+            <famname source="ingest">Woulfe, Peter, -- ca. 1727-1803.</famname>
+            <subject source="leah">Beyond Early America</subject>
+            <subject source="lcsh">Botany.</subject>
+            <genreform source="lcsh">Drawings.</genreform>
+            <genreform source="lcsh">Engravings.</genreform>
+            <subject source="lcsh">Natural history.</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

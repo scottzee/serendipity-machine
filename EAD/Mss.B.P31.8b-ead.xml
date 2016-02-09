@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.P31.8b-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.P31.8b</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T19:52-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc audience="internal" level="item">
+        <did>
+            <unittitle>Notes on the paintings of Charles Willson Peale, [ca. 1875-1899]</unittitle>
+            <unitid>Mss.B.P31.8b</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1508" type="Volume" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>1.0 Volume(s)</extent>
+                <extent>1 volume, 196 p. </extent>
+            </physdesc>
+            <unitdate>Circa 1875-1899</unitdate>
+            <physdesc id="ref4" label="General Physical Description note">1 volume, 196 p.</physdesc>
+            <abstract id="ref1" label="Abstract">This volume was compiled in the latter part of the nineteenth century and contains extracts from Charles Willson Peale's writing about his paintings and the subjects. Part of the volume is a list, with descriptions, of Peale's portraits with the (then) location of each.</abstract>
+            <physloc id="ref6" label="Paging">LH-MV-E-4</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Peale, Burd,Mrs.</persname>
+            </origination>
+        </did>
+        <odd id="ref5">
+            <head>Administrative Note</head>
+            <p>This record is superseded by, and included in, B P31. It was marked “internal only” in Dec., 2010 and is being kept in the case that it is needed for future administrative needs.</p>
+        </odd>
+        <acqinfo id="ref3">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Purchased from Bury and accessioned, 1952 (90079).</p>
+        </acqinfo>
+        <controlaccess>
+            <persname rules="aacr" source="naf">Peale, Charles Willson, 1741-1827</persname>
+            <subject source="lcsh">Art -- United States.</subject>
+            <occupation source="lcsh">Painters -- United States.</occupation>
+            <subject source="lcsh">Portraits, American.</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

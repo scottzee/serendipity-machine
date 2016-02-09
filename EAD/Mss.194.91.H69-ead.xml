@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.194.91.H69-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.194.91.H69</num>
+                </titleproper>
+                <author>Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:07-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Lettre de Thrasibule a Leucipe and Lettre a E...</unittitle>
+            <unitid>Mss.194.91.H69</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="fre"/>
+            </langmaterial>
+            <container id="cid120123" type="Volume" label="Manuscripts">2</container>
+            <physdesc>
+                <extent>2.0 Volume(s)</extent>
+            </physdesc>
+            <unitdate normal="1768/1768">Circa 1768</unitdate>
+            <physloc id="ref8" label="Paging">LH-MV-E-7</physloc>
+            <abstract id="ref1" label="Abstract">Two bound manuscripts in French: "Lettre de Thrasibule a Leucipe" and "Lettre a E." The former is credited on the title page to Nicolas Freret (1688-1749), but has been attributed to d'Holbach.</abstract>
+            <physdesc id="ref2" label="General Physical Description note">2 volumes.</physdesc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Holbach, Paul Henri Thiry, baron d', 1723-1789</persname>
+            </origination>
+        </did>
+        <scopecontent id="ref3">
+            <head>Scope and Contents note</head>
+            <p>One volume (Manuscript, 410 pages) is titled "Lettre de Thrasibule a Laucipe. Ouvrage critique historique &amp; Metaphysique par Mr. Freret de L'academie des inscreptiona et belles lettres, mort en 1749, addressee a sa Soeur Religieuse. Dix-huitième siécle." This work, long attributed to Nicolas Frèret, has been proved by Walckenaër to be the joint production of d'Holbach, Naigeon and Lagrange. Cf. Hoefer, v.18, (1858) col. 818. For printed edition of this work see Holbach [Works] vol. 48.</p>
+            <p>The other volume (Manuscript, 390 pages) is titled "Lettres a E..... - Une bonne morale est l'antidote le plus sur contre la superstition et le fanatisme." A table of contents is in the back.</p>
+        </scopecontent>
+        <odd id="ref9">
+            <head>Early American History Note</head>
+            <p>This manuscript collection falls outside the geographic scope of the Early American guide (British North America and the United States before 1840). It may be of interest to scholars interested in global history, international relations, imperialism, or the U.S. in the world.</p>
+        </odd>
+        <controlaccess>
+            <subject source="leah">Beyond Early America</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref4" level="item">
+                <did>
+                    <unittitle>Lettre de Thrasibule a Laucipe. Ouvrage critique historique et Metaphysique par Mr. Freret de L'academie des inscreptiona et belles lettres, mort en 1749, addressee a sa Soeur Religieuse. Dix-huitieme siecle</unittitle>
+                    <physdesc>
+                        <extent>1.0 Volume(s)</extent>
+                        <extent>410 pages.</extent>
+                    </physdesc>
+                    <unitdate normal="1768/1768">Circa 1768</unitdate>
+                    <origination label="creator">
+                        <persname rules="aacr" source="naf" role="Author (aut)">Holbach, Paul Henri Thiry, baron d', 1723-1789</persname>
+                    </origination>
+                </did>
+                <scopecontent id="ref5">
+                    <head>Scope and Contents note</head>
+                    <p>This work, long attributed to Nicolas Freret, has been proved by Walckenaer to be the joint production of d'Holbach, Naigeon and Lagrange. Cf. Hoefer, v.18, (1858) col. 818. For printed edition of this work see Holbach [Works] vol. 48.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref6" level="item">
+                <did>
+                    <unittitle>Lettres a E..... - Une bonne morale est l'antidote le plus sur contre la superstition et le fanatisme</unittitle>
+                    <physdesc>
+                        <extent>1.0 Volume(s)</extent>
+                        <extent>390 pages.</extent>
+                    </physdesc>
+                    <unitdate normal="1768/1768">Circa 1768</unitdate>
+                </did>
+                <scopecontent id="ref7">
+                    <head>Scope and Contents note</head>
+                    <p>A table of contents is in the back.</p>
+                </scopecontent>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

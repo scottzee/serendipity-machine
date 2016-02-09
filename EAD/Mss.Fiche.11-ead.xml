@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Fiche.11-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Fiche.11</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T20:11-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>The collected papers of Charles Willson Peale and his family, 1735-1885 (inclusive), [microform].</unittitle>
+            <unitid>Mss.Fiche.11</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1668" type="Frame" label="Microform">449</container>
+            <physdesc>
+                <extent>449.0 Microfiche card(s)</extent>
+            </physdesc>
+            <unitdate normal="1735/1885" type="inclusive">1735-1885</unitdate>
+            <physdesc id="ref8" label="General Physical Description note">449 microfiche cards.</physdesc>
+            <abstract id="ref1" label="Abstract">The papers consist of correspondence, diaries, journals, financial records, writings, lectures, reproductions of sketches and documents which detail the lives of three generations of the Peale family. Material relating to the Peale Museum is also included.</abstract>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Peale, Charles Willson, 1741-1827</persname>
+            </origination>
+        </did>
+        <odd id="ref9">
+            <head>General note</head>
+            <p>Reproduced by Kraus Microform, Millwood, New York, 1980.</p>
+        </odd>
+        <acqinfo id="ref7">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by C. W. Peale editorial project and accessioned, 11/--/1980 (1980 2075micf).</p>
+        </acqinfo>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>Charles Willson Peale was an artist and naturalist.</p>
+        </bioghist>
+        <odd id="ref10">
+            <head>Early American History Note</head>
+            <p>This is a microfilm of an early American collection that may be of interest to researchers at the APS and may complement an original manuscript collection at the APS.</p>
+        </odd>
+        <controlaccess>
+            <famname source="ingest">Peale family.</famname>
+            <corpname rules="aacr" source="naf">Peale's Museum (Philadelphia, Pa.).</corpname>
+            <persname source="ingest">Peale, Franklin,1795-1870.</persname>
+            <subject source="local">Art</subject>
+            <occupation source="lcsh">Artists.</occupation>
+            <genreform source="leah">Microfilm Collection</genreform>
+            <subject source="lcsh">Natural history.</subject>
+            <subject source="lcsh">Painters -- United States.</subject>
+            <geogname source="lcsh">Philadelphia (Pa.) -- Social life and customs.</geogname>
+            <geogname source="lcsh">United States -- History -- 1783-1865.</geogname>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

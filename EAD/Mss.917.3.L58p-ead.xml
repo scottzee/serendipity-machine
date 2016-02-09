@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.917.3.L58p-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.917.3.L58p</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:24-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="item">
+        <did>
+            <unittitle>Meriwether Lewis journal, August 30, 1803 - December 12, 1803; 1810</unittitle>
+            <unitid>Mss.917.3.L58p</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1033" type="Volume" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>1.0 Volume(s)</extent>
+                <extent>1 volume, ca. 252 p.</extent>
+            </physdesc>
+            <unitdate normal="1803/1810" type="inclusive">August 30 - December 12, 1803; 1810</unitdate>
+            <abstract id="ref1" label="Abstract">This item is Lewis' narrative journal of the river trip from Pittsburgh to the winter camp of the Lewis and Clark Expedition, together with meteorological observations. There are also entries by William Clark. Of the 126 leaves in this journal, 31 contain questions by Nicholas Biddle, with William Clark's replies, dated 1810. Includes parts II and III of Nicholas Biddle, "Notes on Indians...", and list of measurements of bones and other natural history specimens, in Lewis' hand. Also contains some sketches and two small maps.</abstract>
+            <physdesc id="ref31" label="General Physical Description note">1 volume, ca. 252 p.</physdesc>
+            <physloc id="ref38" label="Paging">LH-MV-E-16</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Lewis, Meriwether, 1774-1809</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref30">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Deposited by Edward Biddle and Charles J. Biddle, 1915; presented by Charles J. Biddle and accessioned, 1949.</p>
+        </acqinfo>
+        <odd id="ref24">
+            <head>General note</head>
+            <p>This item is also catalogued under Nicholas Biddle, Journal; notes, 1803, 1810 (PAAV86-A91).</p>
+        </odd>
+        <odd id="ref22">
+            <head>General note</head>
+            <p>Biddle's notes are printed in Donald D. Jackson, ed., 
+                <emph render="italic">Letters of the Lewis and Clark Expedition</emph> (Urban, Illinois, 1962), 497-546.</p>
+        </odd>
+        <odd id="ref20">
+            <head>General note</head>
+            <p>Lewis' journal is printed in M. M. Quaife, ed., 
+                <emph render="italic">The Journals of Captain Meriwether Lewis and Sargeant John Ordway, Kept on the Expedition of Western Exploration, 1803-1806</emph>, State Historical Society of Wisconsin 
+                <emph render="italic">Collections</emph> 22 (1916).</p>
+        </odd>
+        <bioghist id="ref18">
+            <head>Biographical/Historical note</head>
+            <p>Meriwether Lewis and William Clark were explorers. Nicholas Biddle was requested by William Clark to write a narrative of the Lewis and Clark Expedition, which was published in 1814 as "History of the Expedition of Captains Lewis and Clark."</p>
+        </bioghist>
+        <processinfo id="ref32">
+            <head>Processing Information note</head>
+            <p>Only maps are noted.</p>
+        </processinfo>
+        <odd id="ref39">
+            <head>Early American History Note</head>
+            <p>This collection contains two volumes, both of which have been published elsewhere. The first consists of a travel journal, likely kept by Meriwether Lewis, on his trip from Pittsburgh west to Winter Camp in 1803. The second volume contains a list of questions Nicholas Biddle had for William Clark. These queries include Clark’s response.</p>
+        </odd>
+        <controlaccess>
+            <persname rules="aacr" source="naf">Biddle, Nicholas, 1786-1844</persname>
+            <persname rules="aacr" source="naf">Clark, William, 1770-1838</persname>
+            <subject source="leah">Exploration.</subject>
+            <subject source="lcsh">Indians of North America</subject>
+            <genreform source="lcsh">Journals (notebooks).</genreform>
+            <subject source="lcsh">Louisiana Purchase -- Discovery and exploration.</subject>
+            <subject source="leah">Native America</subject>
+            <genreform source="lcsh">Sketches.</genreform>
+            <subject source="leah">Travel</subject>
+            <genreform source="leah">Travel Narratives and Journals</genreform>
+            <geogname source="lcsh">United States -- Discovery and exploration.</geogname>
+            <geogname source="lcsh">West (U.S.) -- Description and travel.</geogname>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref33" level="otherlevel">
+                <did>
+                    <unittitle>Maps</unittitle>
+                </did>
+                <c02 id="ref34" level="item">
+                    <did>
+                        <unittitle>Form of an island</unittitle>
+                        <physdesc>
+                            <extent>1 map, 20.3 x 12 cm</extent>
+                        </physdesc>
+                        <unitdate>20 November 1803</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf" role="Cartographer (ctg)">Lewis, Meriwether, 1774-1809</persname>
+                        </origination>
+                    </did>
+                    <otherfindaid id="ref35">
+                        <head>Other Finding Aids note</head>
+                        <p>Realms of Gold, 27 (1).</p>
+                    </otherfindaid>
+                </c02>
+                <c02 id="ref36" level="item">
+                    <did>
+                        <unittitle>Form of river islands</unittitle>
+                        <physdesc>
+                            <extent>1 map, 20.3 x 12 cm</extent>
+                        </physdesc>
+                        <unitdate>21 November 1803</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf" role="Cartographer (ctg)">Lewis, Meriwether, 1774-1809</persname>
+                        </origination>
+                    </did>
+                    <otherfindaid id="ref37">
+                        <head>Other Finding Aids note</head>
+                        <p>Realms of Gold, 27 (2).</p>
+                    </otherfindaid>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

@@ -1,0 +1,1018 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Ms.Coll.53-ead.xml">PUBLIC "-//American Philosophical Society//TEXT (US::PPAmP::Ms Coll 53::Jackson Laboratory Oral History Collection)//EN" "jacksonlab.xml"</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Jackson Laboratory 
+                    <lb/>Oral History Collection
+                    <date type="span">1986</date>
+                    <num>Mss.Ms.Coll.53</num>
+                </titleproper>
+                <author>Finding aid prepared by rsc</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+                <date>2003</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T20:48-0400</date>
+            </creation>
+            <langusage>ENG</langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Jackson Laboratory Oral History Collection</unittitle>
+            <unitid>Mss.Ms.Coll.53</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>1.5 Linear feet</extent>
+            </physdesc>
+            <unitdate normal="1986/1986">1986</unitdate>
+            <abstract id="ref1" label="Abstract">In 1929, the geneticist C. C. Little founded the Roscoe B. Jackson Memorial Laboratory in Bar Harbor, Maine, a major center for the study of mammalian genetics, cancer, and related areas in basic biomedical research. An independent institution, the Lab has maintained a consistent scientific reputation both as a supplier of inbred strains of mice for genetic and biomedical research and for the scientific achievements of its researchers. 
+                <lb/>Conducted by Susan Mehrtens in 1986, the Oral History Collection includes transcripts of extensive interviews with fifty scientists, administrators, and staff members of the Jackson Laboratory. At greater or lesser length depending on the subject, the interviews provide a detailed picture of the operations and administration at the laboratory, the culture of research, the sometimes contentious staff relations, and the research itself.</abstract>
+            <physloc id="ref169" label="Paging">LH-B-45-4</physloc>
+            <origination label="creator">
+                <corpname source="ingest" role="Author (aut)">Jackson Laboratory (Bar Harbor, Me.)</corpname>
+            </origination>
+        </did>
+        <otherfindaid id="ref17">
+            <head>Other Finding Aids note</head>
+            <p>See Susan Mehrtens' "Finding aid to the Jackson Laboratory Oral History Collection," available in print form at the APS.</p>
+        </otherfindaid>
+        <relatedmaterial id="ref15">
+            <head>Related Archival Materials note</head>
+            <p>The history of mouse genetics in the papers of 
+                <extref ns2:href="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.D917-ead.xml">L. C. Dunn (B D917)</extref> and, to a degree, the 
+                <extref ns2:href="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Ms.Coll.92-ead.xml">J. A. Weir Papers (Ms. Coll. 92)</extref> on the history of the Bussey Institute.</p>
+            <p>The archives at the Jackson Laboratory contain the institution's complete administrative records from the time of its founding, along with the papers of many of its key scientists, including C. C. Little, George Snell, and Tibby Russell.</p>
+        </relatedmaterial>
+        <processinfo id="ref13">
+            <head>Processing Information note</head>
+            <p>Recatalogued by rsc, 2003.</p>
+        </processinfo>
+        <acqinfo id="ref11">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Gift of Susan Mehrtens, 1985.</p>
+        </acqinfo>
+        <prefercite id="ref9">
+            <head>Preferred Citation note</head>
+            <p>Cite as: Jackson Laboratory (Bar Harbor, Me.) Oral History Collection, American Philosophical Society.</p>
+        </prefercite>
+        <accessrestrict id="ref7">
+            <head>Conditions Governing Access note</head>
+            <p>The interviews with David Harrison and Robert Stanwood are closed until 2037.</p>
+        </accessrestrict>
+        <scopecontent id="ref5">
+            <head>Scope and Contents note</head>
+            <p>Conducted by Susan Mehrtens in 1986, the Jackson Laboratory Oral History Collection includes transcripts of extensive interviews with fifty scientists, administrators, and staff members of the Jackson Laboratory. Not affiliated directly with any academic institution, the government, or private industry, the Lab has maintained a consistent scientific reputation both as a supplier of inbred strains of mice for genetic and biomedical research and for the scientific achievements of its researchers. At greater or lesser length depending on the subject, the interviews provide a detailed picture of the operations and administration at the laboratory, the culture of research, the sometimes contentious staff relations, and the research itself.</p>
+            <p>Because several of the first generation of scientists to work at Jackson were still alive in 1986, Mehrtens' interviews address nearly the entire history of the institution up to that time, although the emphasis inevitably falls upon the period under the directorships of Earl Green and Richmond Prehn. One of the real virtues of the project lies in the decision to include a wide slice of the laboratory community, ranging from non-professional staff to scientists, administrators, board members, and affiliated scientists from outside the institution. The conflicting perspectives offered on the history of the institution, the intellectual and cultural life there, and the personalities and activities of the directors and scientists makes for a particularly rich resource for study of the dynamics of scientific and laboratory culture during the mid-20th century.</p>
+            <p>Mehrtens compiled an extensive finding aid that includes a highly detailed three volume index to the interviews. In notes accompanying the individual interviews as well as in her finding aid, Mehrtens comments freely upon her impressions of the interviews, and whether the subject were candid, reserved, anecdotal, or precise, and whether their observations meshed with those of others.</p>
+        </scopecontent>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>In 1929, the geneticist C. C. Little founded the Roscoe B. Jackson Memorial Laboratory in Bar Harbor, Maine (now the Jackson Laboratory), a major center for the study of mammalian genetics, cancer, and related areas in basic biomedical research.</p>
+            <p>As an undergraduate at Harvard, Little took an interest in studying the inheritance of coat coloration of mice, and in 1909 developed the first inbred strain of mice for use in genetic and biomedical experimentation. Continuing as a graduate student under William E. Castle, Little received his doctorate in 1914 for research on the inheritance of susceptibility and resistance to tumor transplants in mice, and began a distinguished career that led him to the presidencies of both the University of Maine and University of Michigan before his fortieth birthday. Despite his administrative duties, he remained active in research, and when he left Michigan in 1929 over political disputes with the Regents, he was soon able to secure funding to establish the Jackson Laboratories as an institution for "research in cancer and the effects of radiation."</p>
+            <p>The misfortune of opening a research center only months before the stock market crash of 1929 resulted in several years of financial hardship for the Laboratory. Yet ever charismatic and opportunistic, in 1933 Little lit upon the idea of generating income for the laboratory by selling excess stocks of inbred mice to other researchers, and two million mice and 2,500 varieties later, the Jackson remains a center for supplying genetically pure mice for research purposes.</p>
+            <p>Despite the hardships of the Depression, Little lured an impressive staff to the coast of Maine, including George D. Snell (who later won a Nobel prize for his discovery of the major histocompatibility complex), Elizabeth "Tibby" Russell, and George Woolley, and he enthusiastically encouraged a broad range of research on a number of mammalian taxa, including the introduction of behavior genetic research at Hamilton Station. During the Second World War, the Laboratory provided thousands of mice for use in investigating the effects of poison gases and for the production of encephalitis-B serum, but the relative prosperity it brought was curtailed when the laboratory and nearly all of the mouse stocks were destroyed by fire in 1947. Tibby Russell directed the efforts to rebuild the "inbred nucleus" of mouse stocks with the assistance of scientists who had purchased Jackson mice in the past, and the laboratory emerged from the episode as a stronger institution.</p>
+            <p>After 27 years as Director at the Laboratory, Little stepped aside in 1956 and was replaced by Earl Green. Very much a contrast to Little, Green brought a micro-managerial style to the position that chafed several of the scientists on staff, and he exerted his control in part by curtailing the breadth of research. Green showed little interest in exploiting new areas in genetic research, rejecting a move into biochemistry or immunology, and he attempted to shut down the successful program in behavior genetics at Hamilton Station. In short, Green's tenure brought an almost exclusive focus on mouse genetics combined with a steady deterioration of relations between the administration and the scientific and support staff.</p>
+            <p>Following Green's retirement in 1975, Richmond Prehn attempted to recraft the Laboratory into a broader center for research in the mold of Rockefeller University, downplaying mouse genetics and mouse production in favor of an emphasis on cancer research. However the alienation of the staff plagued Prehn's directorship as much as it had Green's. He added a now-major research program in molecular biology at great expense, and the financial strains placed on the laboratory combined with the tensions with the research staff led to his resignation in 1980. Subsequent directors have included Prehn's successor, Barbara H. Sanford, and Kenneth Paigen (1989-present). They currently (2003) conduct research in six major areas (bioinformatics, cancer, development and aging-related, immune system and blood disorders, metabolic diseases, and Neurological and Sensory Disorders), and are one of eight institutions designated by the National Cancer Institute as a cancer center.</p>
+        </bioghist>
+        <controlaccess>
+            <persname source="ingest">Abbott, Mary</persname>
+            <persname source="ingest">Abbott, William</persname>
+            <persname source="ingest">Bailey, Donald</persname>
+            <persname source="ingest">Baltimore, David</persname>
+            <persname source="ingest">Barker, Jane</persname>
+            <persname source="ingest">Beck, John</persname>
+            <persname source="ingest">Bennett, Dorothea</persname>
+            <persname source="ingest">Bernstein, Seldon</persname>
+            <persname source="ingest">Brilliant, Murray</persname>
+            <persname source="ingest">Bunker, Helen</persname>
+            <persname source="ingest">Bunker, Lester</persname>
+            <persname source="ingest">Champlin, Arthur Kingsley, 1938-</persname>
+            <persname source="ingest">Clark, Frank</persname>
+            <persname source="ingest">Coleman, Douglas</persname>
+            <persname source="ingest">Compton, John</persname>
+            <persname source="ingest">Crow, James F. (James Franklin), 1916-</persname>
+            <persname source="ingest">DeLaitre, William</persname>
+            <persname source="ingest">Dorey, John</persname>
+            <persname source="ingest">Duran-Reynals, Marie-Louise</persname>
+            <persname source="ingest">Ebert, James</persname>
+            <persname source="ingest">Fahey, Eunice</persname>
+            <persname source="ingest">Foley, Dale</persname>
+            <persname source="ingest">Fox, Richard</persname>
+            <persname source="ingest">Fuller, John</persname>
+            <persname source="ingest">Gilley, Reginald</persname>
+            <persname rules="aacr" source="naf">Glass, Bentley, 1906-2005 </persname>
+            <persname source="naf">Green, Earl Leroy</persname>
+            <persname source="ingest">Green, Margaret</persname>
+            <persname source="ingest">Harrison, David</persname>
+            <persname source="ingest">Hirschorn, Ann</persname>
+            <persname source="ingest">Kandutsch, Andrew</persname>
+            <persname source="ingest">Lane, Priscilla</persname>
+            <persname source="ingest">Law, Lloyd</persname>
+            <persname source="ingest">Lawson, Fay</persname>
+            <persname source="ingest">Little, Ann</persname>
+            <persname rules="aacr" source="local">Little, Clarence C.,  (Clarence Cook), b. 1888</persname>
+            <persname source="ingest">Little, Richard</persname>
+            <persname source="ingest">Little, Robert</persname>
+            <persname source="ingest">McFarland, Roy</persname>
+            <persname source="naf">McKusick, Victor A.,  (Victor Almon), 1921-2008</persname>
+            <persname source="ingest">Mehrtens, Susan</persname>
+            <persname source="ingest">Neilson, Harry, Jr.</persname>
+            <persname source="ingest">Petschek, Stephan</persname>
+            <persname source="ingest">Prehn, Richmond</persname>
+            <persname source="ingest">Robbins, Watson</persname>
+            <persname source="ingest">Roderick, Thomas</persname>
+            <persname source="ingest">Russell, Elizabeth Shull, 1913-</persname>
+            <persname source="ingest">Salisbury, Allen</persname>
+            <persname source="ingest">Sanford, Barbara H.</persname>
+            <persname source="ingest">Scott, John Paul</persname>
+            <persname source="ingest">Silver, Willys</persname>
+            <persname source="ingest">Snell, George D.,  (George Davis), 1903-1996</persname>
+            <persname source="ingest">Sprott, Richard</persname>
+            <persname source="ingest">Staats, Joan</persname>
+            <persname source="ingest">Stanwood, Robert</persname>
+            <persname source="ingest">Stevens, Leroy</persname>
+            <persname source="ingest">Waymouth, Charity</persname>
+            <persname source="ingest">Winn, Henry</persname>
+            <subject source="lcsh">Cancer--Research</subject>
+            <subject source="lcsh">Genetics</subject>
+            <subject source="lcsh">Laboratories</subject>
+            <subject source="lcsh">Mice--Genetics</subject>
+            <genreform source="lcsh">Oral histories</genreform>
+            <subject source="lcsh">Women geneticists</subject>
+            <subject source="lcsh">Women in science</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref18" level="series">
+                <did>
+                    <unittitle>Jackson Laboratory Oral History Collection</unittitle>
+                    <physdesc>
+                        <extent>1.5 lin. feet</extent>
+                    </physdesc>
+                    <unitdate>1986</unitdate>
+                </did>
+                <c02 id="ref19" level="file">
+                    <did>
+                        <unittitle>Interview by Susan Mehrtens</unittitle>
+                        <container id="cid12950" type="Box" label="Mixed materials">1</container>
+                        <physdesc>
+                            <extent>TMsS, 60p.</extent>
+                        </physdesc>
+                        <unitdate>1986 Aug. 7</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Abbott, William and Mary</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref21">
+                        <head>Scope and Contents note</head>
+                        <p>Long term cook and mate for summer program re: C. C. Little etc.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref22" level="file">
+                    <did>
+                        <unittitle>Interview by Susan Mehrtens</unittitle>
+                        <container id="cid12949" type="Box" label="Mixed materials">1</container>
+                        <physdesc>
+                            <extent>TMsS, 22p.</extent>
+                        </physdesc>
+                        <unitdate>1986 Nov. 16</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Baltimore, David</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref24">
+                        <head>Scope and Contents note</head>
+                        <p>"Outsider's view" of current status of Jax</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref25" level="file">
+                    <did>
+                        <unittitle>Interview by Susan Mehrtens</unittitle>
+                        <container id="cid12948" type="Box" label="Mixed materials">1</container>
+                        <physdesc>
+                            <extent>TMsS, 42p.</extent>
+                        </physdesc>
+                        <unitdate>1986 July 22</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Barker, Jane</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref27">
+                        <head>Scope and Contents note</head>
+                        <p>Russell's lab; Green and sexist hiring policies</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref28" level="file">
+                    <did>
+                        <unittitle>Interview by Susan Mehrtens</unittitle>
+                        <container id="cid12947" type="Box" label="Mixed materials">1</container>
+                        <physdesc>
+                            <extent>TMsS, 35p.</extent>
+                        </physdesc>
+                        <unitdate>1986 Nov. 7</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Bailey, Donald</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref30">
+                        <head>Scope and Contents note</head>
+                        <p>Jackson Laboratory in 1950s and 1960s</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref31" level="file">
+                    <did>
+                        <unittitle>Interview by Susan Mehrtens</unittitle>
+                        <container id="cid12946" type="Box" label="Mixed materials">1</container>
+                        <physdesc>
+                            <extent>TMsS, 30p.</extent>
+                        </physdesc>
+                        <unitdate>1986 Nov. 7</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Beck, John</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref33">
+                        <head>Scope and Contents note</head>
+                        <p>Trustee of lab under Green, Prehn, and Sanford</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref34" level="file">
+                    <did>
+                        <unittitle>Interview by Susan Mehrtens</unittitle>
+                        <container id="cid12945" type="Box" label="Mixed materials">1</container>
+                        <physdesc>
+                            <extent>TMsS, 34p.</extent>
+                        </physdesc>
+                        <unitdate>1986 Aug. 22</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Bennett, Dorothea</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref36">
+                        <head>Scope and Contents note</head>
+                        <p>Chair of Board of Scientific Overseers re: Green and Prehn years</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref37" level="file">
+                    <did>
+                        <unittitle>Interview by Susan Mehrtens</unittitle>
+                        <container id="cid12944" type="Box" label="Mixed materials">1</container>
+                        <physdesc>
+                            <extent>TMsS, 47p.</extent>
+                        </physdesc>
+                        <unitdate>1986 Sept. 13</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Bernstein, Seldon</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref39">
+                        <head>Scope and Contents note</head>
+                        <p>30 year research scientist at Jax; mouse genetics; ICG Montreal</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref40" level="file">
+                    <did>
+                        <unittitle>Interview by Susan Mehrtens</unittitle>
+                        <container id="cid12943" type="Box" label="Mixed materials">1</container>
+                        <physdesc>
+                            <extent>TMsS, 37p.</extent>
+                        </physdesc>
+                        <unitdate>1986 June 14</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Brilliant, Murray</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref42">
+                        <head>Scope and Contents note</head>
+                        <p>Recent hire at Jax</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref43" level="file">
+                    <did>
+                        <unittitle>Interview by Susan Mehrtens</unittitle>
+                        <container id="cid12942" type="Box" label="Mixed materials">1</container>
+                        <physdesc>
+                            <extent>TMsS, 50p.</extent>
+                        </physdesc>
+                        <unitdate>1986 Aug. 3</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Bunker, Helen and Lester</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref45">
+                        <head>Scope and Contents note</head>
+                        <p>Lab assistants on Jackson Laboratory in 1940s and 1950s</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref46" level="file">
+                    <did>
+                        <unittitle>Interview by Susan Mehrtens</unittitle>
+                        <container id="cid12941" type="Box" label="Mixed materials">1</container>
+                        <physdesc>
+                            <extent>TMsS, 51p.</extent>
+                        </physdesc>
+                        <unitdate>1986 May 16</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Clark, Frank</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref48">
+                        <head>Scope and Contents note</head>
+                        <p>Long term employees at Jax; Little's retirement</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref49" level="file">
+                    <did>
+                        <unittitle>Interview by Susan Mehrtens</unittitle>
+                        <container id="cid12940" type="Box" label="Mixed materials">1</container>
+                        <physdesc>
+                            <extent>TMsS, 38p.</extent>
+                        </physdesc>
+                        <unitdate>1986 Aug. 7</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Champlin, Arthur Kingsley, 1938-</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref51">
+                        <head>Scope and Contents note</head>
+                        <p>Students at Jax</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref52" level="file">
+                    <did>
+                        <unittitle>Interview by Susan Mehrtens</unittitle>
+                        <container id="cid12939" type="Box" label="Mixed materials">1</container>
+                        <physdesc>
+                            <extent>TMsS, 45p.</extent>
+                        </physdesc>
+                        <unitdate>1986 June 7</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Coleman, Douglas</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref54">
+                        <head>Scope and Contents note</head>
+                        <p>"Second generation" scientist re: Green and Prehn years</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref55" level="file">
+                    <did>
+                        <unittitle>Interview by Susan Mehrtens</unittitle>
+                        <container id="cid12938" type="Box" label="Mixed materials">1</container>
+                        <physdesc>
+                            <extent>TMsS, 29p.</extent>
+                        </physdesc>
+                        <unitdate>1986 June 21</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Compton, John</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref57">
+                        <head>Scope and Contents note</head>
+                        <p>Assessment of Jax's reputation; molecular</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref58" level="file">
+                    <did>
+                        <unittitle>Interview by Susan Mehrtens</unittitle>
+                        <container id="cid12937" type="Box" label="Mixed materials">1</container>
+                        <physdesc>
+                            <extent>TMsS, 39p.</extent>
+                        </physdesc>
+                        <unitdate>1986 Aug. 22</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Crow, James F. (James Franklin), 1916-</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref60">
+                        <head>Scope and Contents note</head>
+                        <p>Reflections on Green and Prehn years</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref61" level="file">
+                    <did>
+                        <unittitle>Interview by Susan Mehrtens</unittitle>
+                        <container id="cid12936" type="Box" label="Mixed materials">1</container>
+                        <physdesc>
+                            <extent>TMsS, 34p.</extent>
+                        </physdesc>
+                        <unitdate>1986 Aug. 3</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Dorey, John</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref63">
+                        <head>Scope and Contents note</head>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref64" level="file">
+                    <did>
+                        <unittitle>Interview by Susan Mehrtens</unittitle>
+                        <container id="cid12935" type="Box" label="Mixed materials">1</container>
+                        <physdesc>
+                            <extent>TMsS, 18p.</extent>
+                        </physdesc>
+                        <unitdate>1986 Aug. 30</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Duran-Reynals, Marie-Louise</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref66">
+                        <head>Scope and Contents note</head>
+                        <p>Re: Francisco Duran-Reynals' research on viral theory of cancer; Snell, Little</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref67" level="file">
+                    <did>
+                        <unittitle>Interview by Susan Mehrtens</unittitle>
+                        <container id="cid12934" type="Box" label="Mixed materials">1</container>
+                        <physdesc>
+                            <extent>TMsS, 47p.</extent>
+                        </physdesc>
+                        <unitdate>1986 July 22</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Ebert, James</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref69">
+                        <head>Scope and Contents note</head>
+                        <p>Re: Green, Prehn, and Sanford years; current situation at Jax</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref70" level="file">
+                    <did>
+                        <unittitle>Interview by Susan Mehrtens</unittitle>
+                        <container id="cid12933" type="Box" label="Mixed materials">1</container>
+                        <physdesc>
+                            <extent>TMsS, 36p.</extent>
+                        </physdesc>
+                        <unitdate>1986 Aug. 3</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Fahey, Eunice</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref72">
+                        <head>Scope and Contents note</head>
+                        <p>Green's secretary re: Green years</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref73" level="file">
+                    <did>
+                        <unittitle>Interview by Susan Mehrtens</unittitle>
+                        <container id="cid12932" type="Box" label="Mixed materials">2</container>
+                        <physdesc>
+                            <extent>TMsS, 38p.</extent>
+                        </physdesc>
+                        <unitdate>1986 Aug. 3</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Foley, Dale</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref75">
+                        <head>Scope and Contents note</head>
+                        <p>Administrative assistant of Little and Green re: financial and administrative activities</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref76" level="file">
+                    <did>
+                        <unittitle>Interview by Susan Mehrtens</unittitle>
+                        <container id="cid12931" type="Box" label="Mixed materials">2</container>
+                        <physdesc>
+                            <extent>TMsS, 37p.</extent>
+                        </physdesc>
+                        <unitdate>1986 May 31</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Fox, Richard</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref78">
+                        <head>Scope and Contents note</head>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref79" level="file">
+                    <did>
+                        <unittitle>Interview by Susan Mehrtens</unittitle>
+                        <container id="cid12930" type="Box" label="Mixed materials">2</container>
+                        <physdesc>
+                            <extent>TMsS, 22p.</extent>
+                        </physdesc>
+                        <unitdate>1986 Nov. 7</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Fuller, John</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref81">
+                        <head>Scope and Contents note</head>
+                        <p>Hamilton Station</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref82" level="file">
+                    <did>
+                        <unittitle>Interview by Susan Mehrtens</unittitle>
+                        <container id="cid12929" type="Box" label="Mixed materials">2</container>
+                        <physdesc>
+                            <extent>TMsS, 33p.</extent>
+                        </physdesc>
+                        <unitdate>1986 June 7</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Gilley, Reginald</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref84">
+                        <head>Scope and Contents note</head>
+                        <p>Re: Green, Prehn, and Sanford years, Robbins; support staff</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref85" level="file">
+                    <did>
+                        <unittitle>Interview by Susan Mehrtens</unittitle>
+                        <container id="cid12928" type="Box" label="Mixed materials">2</container>
+                        <physdesc>
+                            <extent>TMsS, 12p.</extent>
+                        </physdesc>
+                        <unitdate>1986 Oct. 10</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Glass, Bentley, 1906-2005 </persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref87">
+                        <head>Scope and Contents note</head>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref88" level="file">
+                    <did>
+                        <unittitle>Interview by Susan Mehrtens</unittitle>
+                        <container id="cid12927" type="Box" label="Mixed materials">2</container>
+                        <physdesc>
+                            <extent>TMsS, 116p.</extent>
+                        </physdesc>
+                        <unitdate>1986 June 14</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Green, Earl Leroy</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref90">
+                        <head>Scope and Contents note</head>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref91" level="file">
+                    <did>
+                        <unittitle>Interview by Susan Mehrtens</unittitle>
+                        <container id="cid12926" type="Box" label="Mixed materials">2</container>
+                        <physdesc>
+                            <extent>TMsS, 29p.</extent>
+                        </physdesc>
+                        <unitdate>1986 June 21</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Green, Margaret</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref93">
+                        <head>Scope and Contents note</head>
+                        <p>Wife of Earl Green</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref94" level="file">
+                    <did>
+                        <unittitle>Interview by Susan Mehrtens</unittitle>
+                        <container id="cid12925" type="Box" label="Mixed materials">2</container>
+                        <physdesc>
+                            <extent>TMsS,</extent>
+                        </physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Harrison, David</persname>
+                        </origination>
+                    </did>
+                    <accessrestrict id="ref96">
+                        <head>Conditions Governing Access note</head>
+                        <p>Closed to research until 2037</p>
+                    </accessrestrict>
+                </c02>
+                <c02 id="ref97" level="file">
+                    <did>
+                        <unittitle>Interview by Susan Mehrtens</unittitle>
+                        <container id="cid12924" type="Box" label="Mixed materials">2</container>
+                        <physdesc>
+                            <extent>TMsS, 34p.</extent>
+                        </physdesc>
+                        <unitdate>1986 Aug. 7</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Hirschorn, Ann</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref99">
+                        <head>Scope and Contents note</head>
+                        <p>Summer work experience at Jax, 1950s</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref100" level="file">
+                    <did>
+                        <unittitle>Interview by Susan Mehrtens</unittitle>
+                        <container id="cid12923" type="Box" label="Mixed materials">2</container>
+                        <physdesc>
+                            <extent>TMsS, 47p.</extent>
+                        </physdesc>
+                        <unitdate>1986 May 31</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Kandutsch, Andrew</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref102">
+                        <head>Scope and Contents note</head>
+                        <p>Little and Green years</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref103" level="file">
+                    <did>
+                        <unittitle>Interview by Susan Mehrtens</unittitle>
+                        <container id="cid12922" type="Box" label="Mixed materials">2</container>
+                        <physdesc>
+                            <extent>TMsS, 45p.</extent>
+                        </physdesc>
+                        <unitdate>1986 Nov. 7</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Lane, Priscilla</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref105">
+                        <head>Scope and Contents note</head>
+                        <p>Green and women at Jax; mouse genetics</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref106" level="file">
+                    <did>
+                        <unittitle>Interview by Susan Mehrtens</unittitle>
+                        <container id="cid12921" type="Box" label="Mixed materials">2</container>
+                        <physdesc>
+                            <extent>TMsS, 26p.</extent>
+                        </physdesc>
+                        <unitdate>1986 Nov. 7</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Law, Lloyd</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref108">
+                        <head>Scope and Contents note</head>
+                        <p>Jackson Laboratory in 1940s; fire of 1947; Little</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref109" level="file">
+                    <did>
+                        <unittitle>Interview by Susan Mehrtens</unittitle>
+                        <container id="cid12920" type="Box" label="Mixed materials">2</container>
+                        <physdesc>
+                            <extent>TMsS, 53p.</extent>
+                        </physdesc>
+                        <unitdate>1986 May 31</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Lawson, Fay</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref111">
+                        <head>Scope and Contents note</head>
+                        <p>Jackson Laboratory in 1950s; Russell</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref112" level="file">
+                    <did>
+                        <unittitle>Interview by Susan Mehrtens</unittitle>
+                        <container id="cid12919" type="Box" label="Mixed materials">2</container>
+                        <physdesc>
+                            <extent>TMsS, 77p.</extent>
+                        </physdesc>
+                        <unitdate>1986 Nov. 16</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Little, Richard</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref114">
+                        <head>Scope and Contents note</head>
+                        <p>Jackson Laboratory in 1930s and 1940s; C. C. Little</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref115" level="file">
+                    <did>
+                        <unittitle>Interview by Susan Mehrtens</unittitle>
+                        <container id="cid12918" type="Box" label="Mixed materials">2</container>
+                        <physdesc>
+                            <extent>TMsS, 51p.</extent>
+                        </physdesc>
+                        <unitdate>1986 Aug. 22</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Little, Robert and Ann</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref117">
+                        <head>Scope and Contents note</head>
+                        <p>Re; father, C. C. Little</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref118" level="file">
+                    <did>
+                        <unittitle>Interview by Susan Mehrtens</unittitle>
+                        <container id="cid12917" type="Box" label="Mixed materials">2</container>
+                        <physdesc>
+                            <extent>TMsS, 37p.</extent>
+                        </physdesc>
+                        <unitdate>1986 July 22</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">McFarland, Roy</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref120">
+                        <head>Scope and Contents note</head>
+                        <p>Support staff at Jax</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref121" level="file">
+                    <did>
+                        <unittitle>Interview by Susan Mehrtens</unittitle>
+                        <container id="cid12916" type="Box" label="Mixed materials">2</container>
+                        <physdesc>
+                            <extent>TMsS, 21p.</extent>
+                        </physdesc>
+                        <unitdate>1986 July 14</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">McKusick, Victor A.,  (Victor Almon), 1921-2008</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref123">
+                        <head>Scope and Contents note</head>
+                        <p>Short courses at Jax</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref124" level="file">
+                    <did>
+                        <unittitle>Interview by Susan Mehrtens</unittitle>
+                        <container id="cid12915" type="Box" label="Mixed materials">2</container>
+                        <physdesc>
+                            <extent>TMsS, 23p.</extent>
+                        </physdesc>
+                        <unitdate>1986 Sept. 13</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Neilson, Harry, Jr.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref126">
+                        <head>Scope and Contents note</head>
+                        <p>Trustee re: all four Jackson Laboratory directors</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref127" level="file">
+                    <did>
+                        <unittitle>Interview by Susan Mehrtens</unittitle>
+                        <container id="cid12914" type="Box" label="Mixed materials">2</container>
+                        <physdesc>
+                            <extent>TMsS, 26p.</extent>
+                        </physdesc>
+                        <unitdate>1986 July 22</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Petschek, Stephan</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref129">
+                        <head>Scope and Contents note</head>
+                        <p>Former Chair of Board of Trustees re: adminstration</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref130" level="file">
+                    <did>
+                        <unittitle>Interview by Susan Mehrtens</unittitle>
+                        <container id="cid12913" type="Box" label="Mixed materials">3</container>
+                        <physdesc>
+                            <extent>TMsS, 31p.</extent>
+                        </physdesc>
+                        <unitdate>1986 May 16</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Prehn, Richmond</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref132">
+                        <head>Scope and Contents note</head>
+                        <p>Transitions and changes in Jax</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref133" level="file">
+                    <did>
+                        <unittitle>Interview by Susan Mehrtens</unittitle>
+                        <container id="cid12912" type="Box" label="Mixed materials">3</container>
+                        <physdesc>
+                            <extent>TMsS, 21p.</extent>
+                        </physdesc>
+                        <unitdate>1986 Nov. 7</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Sanford, Barbara H.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref135">
+                        <head>Scope and Contents note</head>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref136" level="file">
+                    <did>
+                        <unittitle>Interview by Susan Mehrtens</unittitle>
+                        <container id="cid12911" type="Box" label="Mixed materials">3</container>
+                        <physdesc>
+                            <extent>TMsS, 35p.</extent>
+                        </physdesc>
+                        <unitdate>1986 Sept. 13</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Roderick, Thomas</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref138">
+                        <head>Scope and Contents note</head>
+                        <p>Green, Prehn, and Sanford years</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref139" level="file">
+                    <did>
+                        <unittitle>Interview by Susan Mehrtens</unittitle>
+                        <container id="cid12910" type="Box" label="Mixed materials">3</container>
+                        <physdesc>
+                            <extent>TMsS, 37p.</extent>
+                        </physdesc>
+                        <unitdate>1986 June 7</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Russell, Elizabeth Shull, 1913-</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref141">
+                        <head>Scope and Contents note</head>
+                        <p>Jackson Laboratory over 50 year career</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref142" level="file">
+                    <did>
+                        <unittitle>Interview by Susan Mehrtens</unittitle>
+                        <container id="cid12909" type="Box" label="Mixed materials">3</container>
+                        <physdesc>
+                            <extent>TMsS, 40p.</extent>
+                        </physdesc>
+                        <unitdate>1986 Aug. 22</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Scott, John Paul</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref144">
+                        <head>Scope and Contents note</head>
+                        <p>Hamilton Station</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref145" level="file">
+                    <did>
+                        <unittitle>Interview by Susan Mehrtens</unittitle>
+                        <container id="cid12908" type="Box" label="Mixed materials">3</container>
+                        <physdesc>
+                            <extent>TMsS, 14p.</extent>
+                        </physdesc>
+                        <unitdate>1986 Aug. 3</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Silver, Willys</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref147">
+                        <head>Scope and Contents note</head>
+                        <p>Russell and other researchers</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref148" level="file">
+                    <did>
+                        <unittitle>Interview by Susan Mehrtens</unittitle>
+                        <container id="cid12907" type="Box" label="Mixed materials">3</container>
+                        <physdesc>
+                            <extent>TMsS, 39p.</extent>
+                        </physdesc>
+                        <unitdate>1986 May 31</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Snell, George D.,  (George Davis), 1903-1996</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref150">
+                        <head>Scope and Contents note</head>
+                        <p>Early years at Jax; Little</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref151" level="file">
+                    <did>
+                        <unittitle>Interview by Susan Mehrtens</unittitle>
+                        <container id="cid12906" type="Box" label="Mixed materials">3</container>
+                        <physdesc>
+                            <extent>TMsS, 49p.</extent>
+                        </physdesc>
+                        <unitdate>1986 Nov. 7</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Sprott, Richard</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref153">
+                        <head>Scope and Contents note</head>
+                        <p>Green and Prehn years</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref154" level="file">
+                    <did>
+                        <unittitle>Interview by Susan Mehrtens</unittitle>
+                        <container id="cid12905" type="Box" label="Mixed materials">3</container>
+                        <physdesc>
+                            <extent>TMsS, 34p.</extent>
+                        </physdesc>
+                        <unitdate>1986 June 7</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Stanwood, Robert</persname>
+                        </origination>
+                    </did>
+                    <accessrestrict id="ref156">
+                        <head>Conditions Governing Access note</head>
+                        <p>Closed to research until 2037</p>
+                    </accessrestrict>
+                </c02>
+                <c02 id="ref157" level="file">
+                    <did>
+                        <unittitle>Interview by Susan Mehrtens</unittitle>
+                        <container id="cid12904" type="Box" label="Mixed materials">3</container>
+                        <physdesc>
+                            <extent>TMsS, 39p.</extent>
+                        </physdesc>
+                        <unitdate>1986 June 14</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Staats, Joan</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref159">
+                        <head>Scope and Contents note</head>
+                        <p>Jackson Laboratory librarian re: Little, Snell, Jackson Laboratory in 1950s and since</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref160" level="file">
+                    <did>
+                        <unittitle>Interview by Susan Mehrtens</unittitle>
+                        <container id="cid12903" type="Box" label="Mixed materials">3</container>
+                        <physdesc>
+                            <extent>TMsS, 29p.</extent>
+                        </physdesc>
+                        <unitdate>1986 June 14</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Stevens, Leroy</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref162">
+                        <head>Scope and Contents note</head>
+                        <p>Jackson Laboratory post-World War II; Little and Green</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref163" level="file">
+                    <did>
+                        <unittitle>Interview by Susan Mehrtens</unittitle>
+                        <container id="cid12902" type="Box" label="Mixed materials">3</container>
+                        <physdesc>
+                            <extent>TMsS, 40p.</extent>
+                        </physdesc>
+                        <unitdate>1986 June 21</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Waymouth, Charity</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref165">
+                        <head>Scope and Contents note</head>
+                        <p>Scientist and interim director after Prehn</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref166" level="file">
+                    <did>
+                        <unittitle>Interview by Susan Mehrtens</unittitle>
+                        <container id="cid12901" type="Box" label="Mixed materials">3</container>
+                        <physdesc>
+                            <extent>TMsS, 55p.</extent>
+                        </physdesc>
+                        <unitdate>1986 Aug. 3</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Winn, Henry</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref168">
+                        <head>Scope and Contents note</head>
+                        <p>Green years</p>
+                    </scopecontent>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

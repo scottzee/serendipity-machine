@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.R93L-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.R93L</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T19:58-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Ernest Rutherford letters, 1904-1924, to Bertram Borden Boltwood</unittitle>
+            <unitid>Mss.B.R93L</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1573" type="Box" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>0.5 Linear feet</extent>
+                <extent>Ca. 300 items, photocopies</extent>
+            </physdesc>
+            <unitdate normal="1904/1924" type="inclusive">1904-1924</unitdate>
+            <abstract id="ref1" label="Abstract">These letters are from Rutherford to Bertram Borden Boltwood, the Yale University chemist who worked with Rutherford on his scientific study of radioactivity and the structure of the atom. There is much information concerning professional activities and colleagues.</abstract>
+            <physdesc id="ref10" label="General Physical Description note">Ca. 300 items, photocopies.</physdesc>
+            <physloc id="ref11" label="Paging">LH-MV-E-6</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Rutherford, Ernest, 1871-1937</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref9">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by Lawrence Badash and accessioned, 03/14/1967 (1967 455ph).</p>
+        </acqinfo>
+        <bioghist id="ref5">
+            <head>Biographical/Historical note</head>
+            <p>Ernest Rutherford was a physicist; he was elected to the American Philosophical Society in 1904.</p>
+        </bioghist>
+        <originalsloc id="ref3">
+            <head>Existence and Location of Originals note</head>
+            <p>Originals in Yale University Library.</p>
+        </originalsloc>
+        <controlaccess>
+            <persname rules="aacr" source="naf">Boltwood, Bertram Borden, 1870-1927</persname>
+            <corpname source="ingest">Yale University.</corpname>
+            <subject source="lcsh">Chemistry</subject>
+            <subject source="lcsh">Physics.</subject>
+            <subject source="lcsh">Radioactivity.</subject>
+            <subject source="lcsh">Science -- Study and teaching.</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

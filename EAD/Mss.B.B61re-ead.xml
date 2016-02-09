@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.B61re-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.B61re</num>
+                </titleproper>
+                <author>Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:54-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="item">
+        <did>
+            <unittitle>Reminiscences of Franziska Boas : oral history, 1972</unittitle>
+            <unitid>Mss.B.B61re</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid311" type="Volume" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>1.0 Volume(s)</extent>
+                <extent>1 volume, 76 p., typed</extent>
+            </physdesc>
+            <unitdate normal="1972/1972">1972</unitdate>
+            <physdesc id="ref3" label="General Physical Description note">1 volume, 76 p. typescript copy.</physdesc>
+            <abstract id="ref1" label="Abstract">Reminiscences of her father, Franz Boas (1858-1942). Portions of her life are highlighted but the primary focus is on her father, Franz Boas, with numerous comments on his students and colleagues.</abstract>
+            <physloc id="ref8" label="Paging">LH-MV-E-1</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Boas, Franziska, 1902-1988</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Interviewer (ivr)">Cole, John R.</persname>
+            </origination>
+            <origination label="creator">
+                <corpname rules="aacr" source="naf" role="Producer (pro)">Columbia University. Oral History Research Office .</corpname>
+            </origination>
+        </did>
+        <userestrict id="ref5">
+            <head>Conditions Governing Use note</head>
+            <p>Copyright by The Trustees of Columbia Univeristy in the City of New York, 1984. Permission required to cite, quote, and reproduce. Contact repository for information.</p>
+        </userestrict>
+        <odd id="ref7">
+            <head>General note</head>
+            <p>This was produced by the Oral History Research Office, Columbia University.</p>
+        </odd>
+        <bioghist id="ref6">
+            <head>Biographical/Historical note</head>
+            <p>Franziska Marie Boas, the youngest of six children of anthropologist Franz Boas and Marie Krackowizer, worked as an educator, percussionist and a founder of dance therapy who was born January 8, 1902 in New York City.</p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+        </bioghist>
+        <originalsloc id="ref2">
+            <head>Existence and Location of Originals note</head>
+            <p>Original in: Columbia University, Oral History Research Office.</p>
+        </originalsloc>
+        <controlaccess>
+            <persname rules="aacr" source="naf">Boas,  Franz, 1858-1942 </persname>
+            <occupation source="lcsh">Anthropologists.</occupation>
+            <subject source="lcsh">Anthropology--History</subject>
+            <genreform source="lcsh">Interviews.</genreform>
+            <genreform source="lcsh">Oral histories</genreform>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

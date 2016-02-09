@@ -1,0 +1,1631 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.M891-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.M891</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney. Revised by Friederike Baer (NEH 2010).</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+            <notestmt>
+                <note>
+                    <p>Roughly 80 items in the collection are not listed individually in the finding aid.</p>
+                </note>
+            </notestmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T19:46-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Muhlenberg family papers, 1769-1866</unittitle>
+            <unitid>Mss.B.M891</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1441" type="Box" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>4.25 Linear feet</extent>
+                <extent>2 boxes, 10 oversize items, 25 volumes</extent>
+            </physdesc>
+            <unitdate normal="1769/1866" type="inclusive">1769-1866</unitdate>
+            <physdesc id="ref16" label="General Physical Description note">Ca. 100 items.</physdesc>
+            <abstract id="ref1" label="Abstract">The papers include miscellaneous letters, letterbooks, books, certificates, and diplomas of various members of the Muhlenberg family. Among them are photostats of letters and papers of General John Peter Gabriel Muhlenberg and officers of the Continental Army on military affairs in the Southern Department during the American Revolution (1772-1804); photostats of letters to Albert Gallatin, Nathanael Greene, Edward Hand, Winthrop Sargent, Baron von Steuben, William Alexander, and George Washington; photostat of General Muhlenberg's journal of trips to the Ohio (1784, 1797); photostats of letters and notes of Gotthilf H. E. Muhlenberg, including a diary kept at Halle (1771) and extracts of thirty letters to Stephen Elliott of Beaufort and Charleston, South Carolina (1808-1815); photostats of letters of Henry A. Muhlenberg about his biography of General Muhlenberg (1848-1849); and photostats of letters of Henry Melchior Muhlenberg (1711-1787). Also included is an original letterbook of Peter Muhlenberg, paymaster of the United States Army, kept at Augusta and Savannah, Georgia (1836-1842). Henry Muhlenberg's notebooks (1784-1813), written in Latin or German script, in a small hand, includes a wealth of botanical observations, with a focus on Lancaster, Pennsylvania. The Henry Muhlenberg journals are a record of daily occurrences, with many features of a commonplace book, containing prescriptions, notes of questions asked candidates for the Lutheran ministry, and the plan of a barn. There is also a biographical account of Rev. Henry Melchior Muhlenberg (1711-1787).</abstract>
+            <physloc id="ref166" label="Paging">LH-MV-C-14; LH-MV-E-14 (Bound vols.); LH-SB-Black Case-28 (OS Diploma, Soc. Cincin.)</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Muhlenberg family.</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref15">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Series I: Presented by Rev. Frederick A. Muhlenberg, 1891, and Mrs. Jesse Wagner, 1952; accessioned, 1952 (1952 89901). See in-house shelf list for additional accession information. Series II: Calendarium florae (volume 8): Presented by Henry Muhlenberg, 1785. Henry Muhlenberg Journals (volumes 16 and 17): Presented by Hiester Muhlenberg, 1954; accessioned, 1956 (1956 1143ms, 1144ms). Other volumes presented by Rev. Frederick A. Muhlenberg, 1890.</p>
+        </acqinfo>
+        <altformavail id="ref11">
+            <head>Existence and Location of Copies note</head>
+            <p>The certificates and diplomas are also available on microfilm (
+                <extref ns2:actuate="onLoad" ns2:show="new" ns2:href="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Film.371-ead.xml">Film 371</extref>, Reel 11).</p>
+            <p>Peter Muhlenberg's letterbook is also available on microfilm (
+                <extref ns2:actuate="onLoad" ns2:show="new" ns2:href="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Film.371-ead.xml">Film 371</extref>, Reel 9).</p>
+        </altformavail>
+        <bioghist id="ref7">
+            <head>Biographical/Historical note</head>
+            <p>The Muhlenberg family was one of the most prominent German-American families in the eighteenth and nineteenth centuries. Its members included eminent clergymen, military leaders, political figures, and a botanist. The family patriarch was the Lutheran clergyman Heinrich Melchior Mühlenberg (1711-1787); his three oldest sons were John Peter Gabriel, known as Peter (1746-1807), Frederick Augustus Conrad (1750-1801), and Gotthilf Heinrich Ernst, known as Henry (1753-1815, APS 1785). Henry’s son was Henry Augustus (1782–1844).</p>
+            <p>Heinrich Melchior Mühlenberg was born in 1711 in the electorate of Hanover. He was educated at the local German and Latin school and then, after a brief hiatus due to lack of funding, enrolled at the Georg-August University of Göttingen to study theology. After graduating in 1737, Muhlenberg accepted a position as preceptor at the orphan school of Halle. The orphanage had been the first building of what was by then an extensive community with a school, residences, artisan shops, gardens, an apothecary, and a publishing house. It was known as the Franckesche Stiftungen (Francke Foundations), after its founder August Hermann Francke (1663-1727), a pastor who practiced a Lutheranism that was marked by biblical revivalism and social activism. When Muhlenberg arrived at Halle, the Stiftungen were under the leadership of August Hermann’s son Gotthilf August Francke (1696-1769). Muhlenberg was deeply influenced by the brand of Pietism for which Halle was known. He would remain under the direction and supervision of the authorities of Halle for the remainder of his life.</p>
+            <p>In 1739 Muhlenberg began his career as a Lutheran preacher. That year he was called to serve as pastor and teacher in Grosshennersdorf in Upper Lusatia in Germany. In 1741 Francke selected him to answer a call for a pastor by three Pennsylvania congregations: Philadelphia, New Hanover, and Providence (now Trappe). Muhlenberg accepted, and in 1742, he arrived in Pennsylvania. He lived in Trappe for roughly two decades, until he moved to Philadelphia.</p>
+            <p>In Pennsylvania, Muhlenberg found mostly poorly organized congregations in want of adequate spiritual care. He was also faced with critics and rivals, including self-ordained pastors, and the leader of Moravian Pietism Nikolaus Ludwig von Zinzendorf (1700-1760). In an effort to bring greater unity to the Lutheran churches, Muhlenberg organized the congregations into one church body, called the “Evangelical Lutheran Ministerium in North America." In addition to English he taught himself Dutch in order to minister to congregants who were unfamiliar with German. He also oversaw the calling, ordination and placing of pastors, helped erect church buildings, removed unqualified ministers, and published a common Lutheran hymnal. He traveled extensively through the North American colonies in his quest to mediate in congregational disputes and to serve congregations without a minister and German communities without Lutheran churches. And he recorded all of this in great detail in journals that ultimately covered more than four decades, from his arrival in North America in 1742 to his death.</p>
+            <p>Muhlenberg firmly believed that a pastor’s work should focus on the spiritual care of his charges. During the American Revolution, which he viewed with significant skepticism, he remained critical of the political activities of Lutheran ministers, including his two eldest sons. Both were Lutheran ministers who avidly supported the Patriot cause. The elder Muhlenberg, in contrast, tried to remain passive, and he believed his congregants would be best served if they followed his example. At one time, he refused an appeal by a member of the Continental Congress to prepare a statement for circulation among German colonists, exhorting them to support the Patriot cause, by arguing that “all intelligent members of our Lutheran congregations are faithful of His Royal Majesty, our sovereign. It is not proper for a clergyman to prepare such a statement as you demand.” By 1775 he knew that he could not continue to serve his congregation in Philadelphia, the capital of the colonies. Later that year he left Philadelphia to return to Trappe, a then heavily German settlement about twenty-five miles from the city. He continued to serve as pastor of Trappe’s Augustus Lutheran Church until his death in 1787. Because of his tireless work on behalf of the promotion and organization of Lutheranism in North America, Henry Melchior Muhlenberg is known as the “Patriarch of the Lutheran church in America.”</p>
+            <p>In 1745 Muhlenberg married Anna Maria Weiser, the daughter of Johann Conrad Weiser, Jr., the interpreter and diplomat between the colony of Pennsylvania and Native Americans. The Muhlenbergs had eleven children, seven of whom reached adulthood. All of them were born in Trappe, Pennsylvania.</p>
+            <p>In 1763 the elder Muhlenberg sent his three sons Peter, Frederick, and Henry for their education to Halle. Their father planned to enroll them first in the orphan school of the Franckesche Stiftungen and then at the university at Halle. He hoped that his sons would study theology and become ministers, like himself. However, it soon seemed evident that the eldest son Peter was poorly suited for the ministry. When Gotthilf August Francke recommended that Peter pursue a career in commerce instead, Peter apprenticed himself to a merchant in the city of Lübeck. Poor treatment by his master compelled him to run away after three years. To the chagrin of his father, he enlisted in the Royal American Regiment of Foot of the British army. He returned to Philadelphia in 1767, when he received an honorable discharge.</p>
+            <p>Upon his return Peter Muhlenberg attended first a private English school and then received theological training from Charles Magnus von Wrangel (1730-1786, APS 1768), provost of the Swedish Lutherans. It seemed as though Peter would follow in his father’s footsteps after all. In 1769 he was licensed as a Lutheran minister and subsequently served the congregations at Bedminster and New Germantown, New Jersey. In 1770 he married Anna Barbara (Hannah) Meyer, daughter of a successful potter. They had six children. In 1770 he answered the call for a pastor by a German Lutheran congregation at Woodstock, Virginia. Since the established church of Virginia was the Anglican church, Muhlenberg traveled to London to receive ordination as an Anglican priest.</p>
+            <p>Unlike his father, Peter Muhlenberg was an early supporter of the Revolutionary cause. He led the Committee of Safety and Correspondence for Dunmore County, Virginia, was elected to the House of Burgesses (1774), and served as a delegate to the First Virginia Convention. In 1776 Muhlenberg received a commission to raise and command a regiment of the Continental Army. In 1777 he was made Brigadier General. His brigade was placed under the command of General Nathanael Greene (1742-1786). He participated in many important battles, including Brandywine (September 1777), Germantown (October 1777), Charlestown (1780), and Yorktown (1781). Muhlenberg’s excellent abilities as a commander earned him the respect of fellow officers such as George Washington (1731-1799, APS 1780) and Baron von Steuben (1730-1794). He eventually became von Steuben’s second in command. In 1783 Muhlenberg retired with the rank of brevet major general. He was a founding member of the Society of the Cincinnati.</p>
+            <p>Muhlenberg did not return to the ministry after the war. Instead, he dedicated his subsequent life to a career in politics. After completing a survey of the bounty lands assigned to Virginia veterans, he moved to Pennsylvania. In 1784 he was elected as representative of Montgomery County to the state’s supreme executive council. He was vice-president of Pennsylvania from 1787 to 1788. The following year he was elected to Congress on the anti-Federalist ticket. Two years later he failed in his bid for reelection, but he was returned as representative in 1793 to 1795 and 1799 to 1801. In 1799 he managed the successful gubernatorial campaign of Thomas McKean, and he actively supported Thomas Jefferson in the race for the presidency. In 1801 he became a U. S. Senator; however, he resigned the position when President Jefferson chose him as supervisor of U.S. customs in the district of Pennsylvania. He occupied this lucrative position until 1803, when he became collector of customs for the port of Philadelphia. Muhlenberg also served as a trustee of Franklin College in Lancaster, and he was President of the German Society of Pennsylvania in 1788 and from 1802 until his death in 1807.</p>
+            <p>Peter’s younger brothers Frederick and Gotthilf Heinrich Ernst, known as Henry, met their father’s expectations in that they received a classical education at the Franckesche Stiftungen and then enrolled in the University at Halle. In 1770 they returned to Philadelphia, where they were ordained Lutheran ministers.</p>
+            <p>In late 1770 Frederick became an assistant to his brother-in-law, Reverend Christian Emanuel Schulze, in Tulpehocken, Berks County. In 1773 he answered a call from Christ, or Swamp, Church in New York City. However, the arrival of the British in 1776 compelled this outspoken supporter of the Revolution to leave the city. He initially settled in his family’s hometown of Trappe. This was not an easy time for the Muhlenberg family. The peaceful settlement of Trappe, including its church and schoolhouse, was occupied by American troops as well as by Philadelphians who sought to escape the British. Muhlenberg wrote to Pastor Schulze in 1777 that “During the year I had untold trouble because of the army being here, and my house being filled with Philadelphians. I am still overrun with strangers.” His father noted in his diary around the same time that Frederick was host to “eleven persons in one small house and with increasing scarcity of money and provisions.” In the meantime, his brother General Peter Muhlenberg was encamped not ten miles from his hometown.</p>
+            <p>Shortly after his removal to Trappe, Frederick Muhlenberg ministered to several congregations in the area. However, in early 1779, perhaps inspired by his older brother’s example, he decided to resign his ministerial office and to enter politics. His first bid for public office was successful; he was elected to the Continental Congress in 1779. Over the following years, he was elected to various public offices in Pennsylvania, including as delegate and president of the Pennsylvania convention to ratify the Constitutiona in 1787. He was elected to Congress as a pro-administration candidate; however, he was reelected three times as an anti-administration and finally as a Republican candidate, serving in all from 1789 to 1797. He is perhaps best known as the first Speaker of the House of Representatives, an office to which he was elected in 1789 and then again in 1793. After 1797 he continued to play an important role in Pennsylvania politics, first as the president of the Council of Censors, and then as the receiver general of the Pennsylvania Land Office, a position he held until his death in 1801 in Lancaster, Pennsylvania.</p>
+            <p>Like Peter and Frederick, Henry also became a minister; but unlike his older brothers, he remained faithful to his vocation. Having been ordained at the tender age of seventeen, Henry served as his father’s assistant in Philadelphia for about a decade. Like his brothers, he was an early supporter of the Revolution. In 1777, when the British army approached Philadelphia, he fled to his parents’ home in Trappe. It was then, during this period of involuntary leisure, that Henry commenced his serious study of botany.</p>
+            <p>Muhlenberg, who had no formal instruction in botany, set out on a regimen of self-study and to collect specimens for his herbarium. Much of his early work focuses on the fauna around Trappe and, after 1780, on the region around Lancaster, Pennsylvania, where he had accepted a call as pastor. He kept detailed journals of his journeys through the Pennsylvania countryside and he also gathered information about plants from other places. In 1791 he wrote that his collection exceeded 1,100 different North American plants. His herbarium was the earliest professional one collected by a native-born American. (The American Philosophical Society purchased the herbarium after Muhlenberg’s death in 1815; in 1898 it was deposited at the Academy of Natural Sciences.)</p>
+            <p>After the Revolution he corresponded with leading European naturalists about botanical topics, especially grasses and reeds. By 1811 Muhlenberg wrote that he had collected more than 320 species of grasses and reeds alone. He also actively promoted the study of botany in the United States by, for example, encouraging the collection of seeds and plants in the different states. He also eagerly exchanged ideas, seeds and plants with fellow botanists. In 1785 he was elected a member of the American Philosophical Society. Two years later he became founding president of Franklin College in his hometown of Lancaster.</p>
+            <p>In 1801 and again in 1803, some of Muhlenberg’s observations were published by 
+                <emph render="italic">Der Gesellschaft Naturforschender Freunde zu Berlin</emph>, a German journal dedicated to the natural sciences. In 1813 he published an extensive list of annotated plant names in his 
+                <emph render="italic">Catalogus Plantarum Americae Septentrionalis</emph>, a catalog of North American plant species. His catalog of American grasses and reeds, titled 
+                <emph render="italic">Descriptio uberior graminum et plantarum calamariarum Americae septentrionalis indignarum et circurum</emph>, was published posthumously, in 1817. Muhlenberg named more than 100 species of plants. In addition to his work on botany, he also published a two-volume German-English dictionary (1812).</p>
+            <p>Muhlenberg’s goal to publish a comprehensive catalog of North American plants never materialized. However, over the course of four decades, he collected a massive amount of detailed information on a great variety of plants. When he died in 1815 in Lancaster, Pennsylvania, he left thousands of manuscript pages of notes and journals that deal primarily with botany. “The pious, the learned Muhlenberg is no more!” wrote the Philadelphia botanist and physician Dr. William Barton (1786-1856, APS 1813). “With him has fallen one of the oldest, the strongest pillars of that extensive fabric his exertions contributed so largely to raise—the edifice of botanick science in America.”</p>
+            <p>Muhlenberg was married to Mary Catherine Hall. They had eight children. One of their sons was Henry Augustus. He was educated under the personal direction of his father as well as his uncle John Christopher Kunze (1744-1807, APS 1780), a Lutheran pastor and teacher in New York. From 1802 to 1828, Henry Augustus was a pastor at Trinity Church in Reading, Pennsylvania. During this time he served the Evangelical Lutheran Synod of Pennsylvania as secretary (1821 to 1824) and president (1825 to 1828). In addition, he served as a Jacksonian Democratic in Congress from 1829 to 1838, and he was United States Minister to Austria from 1838 to 1840. Three times he was the Democratic nominee for governor of Pennsylvania. He lost the bid twice, in 1835 and 1837; he died in his home in Reading from complications of a stroke two months before the election in 1844. Throughout his political career, Henry Augustus not only helped shape Pennsylvania’s Jacksonian party but he was also instrumental in building support for the Jacksonians among Pennsylvania Germans.</p>
+            <p>Henry Augustus’s first wife was Mary Elizabeth Hiester. She died during childbirth in 1806, only one year after their marriage (the child survived). In 1808 Henry Augustus married Rebecca Hiester, the sister of his first wife. They had six children. His biography of his uncle Peter, titled 
+                <emph render="italic">The Life of Major-General Peter Muhlenberg</emph> was published after his death, in 1849.</p>
+        </bioghist>
+        <originalsloc id="ref5">
+            <head>Existence and Location of Originals note</head>
+            <p>Originals in William L. Clements Library, Essex Institute, New-York Historical Society, Harvard University Library, Indiana Historical Society, New York Public Library, Henry E. Huntington Library, Yale University Library, and Wisconsin Historical Society.</p>
+        </originalsloc>
+        <scopecontent id="ref76">
+            <head>Scope and Contents note</head>
+            <p>This collection consists of c. 100 items pertaining to several members of the Muhlenberg family, including Peter and Gotthilf Henry Ernst (usually referred to as Henry) Muhlenberg, and several additional descendents of Henry Melchior. They include letters, certificates, and commissions dated between 1769 and 1866. The material is in English, German and Latin.</p>
+            <p>The bulk of the material consists of correspondence by or to Gotthilf Henry Ernst, Frederick, and Peter Muhlenberg. Several letters are from Frederick and Gotthilf Henry Ernst to their father, written in 1771 and 1772. There are also various notes and forms signed by Frederick Muhlenberg when he was Speaker of the Pennsylvania Assembly. Material related to Gotthilf Henry Ernst includes one letter with botanical information, including lists of plants (1804). There is also an undated excerpt from his notebooks, and there is a body of correspondence between Muhlenberg and Stephen Elliott, dated 1808 to 1815. Also included are nineteen letters written by the Moravian missionary Christian Frederick Denke to Gotthilf Heinrich Ernst Muhlenberg in 1798 and 1799, and in 1811. The letters are in German. Denke, who signed his name in the Anglicized Denkey, corresponded with Muhlenberg mostly about botany. All of the letters include lists of plants; they may have accompanied shipments of specimens. Some of the letters also mention Denke’s excursions, including the one dated July 1, 1799, in which he describes a journey to the Delaware.</p>
+            <p>Also included is correspondence between Peter Muhlenberg and Nathanael Greene, George Washington, Baron von Steuben, Thomas Jefferson, and other officers and public figures. A large body of material, including petitions and public notices as well as letters to Thomas Jefferson, Albert Gallatin, Benjamin Rush and other prominent Americans, relates to Peter Muhlenberg’s activities after 1784. A letter by Henry A. Muhlenberg refers to his biography of General Muhlenberg. There are also two letters by William Augustus relating to St. Paul’s College (1840s).</p>
+            <p>Also included in this collection are various certificates issued to Gotthilf Henry Ernst Muhlenberg. They include his degree certificate from Halle as well as membership certificates in various scientific organizations in Europe and the United States.</p>
+            <p>22 volumes of Henry Muhlenberg's botanical notebooks are included, written in Latin and German. 2 volumes of Henry Muhlenberg's journals are included, which have a record of daily occurrence and also feature prescriptions, notes of questions asked candidates for the Lutheran ministry, the plan of a barn, etc. There is also a biographical account of Rev. Henry Melchior Muhlenberg (1711-1787).</p>
+            <p>Several of the items are military commissions to Peter Muhlenberg (not General John Peter Muhlenberg) including documents signed by Thomas Jefferson and James Madison. Of particular interest is Muhlenberg’s commission as paymaster of the U.S. Army, signed by Andrew Jackson, and Muhlenberg’s letterbook that documents more than four years of his tenure as paymaster, from 23 May 1838 to 3 December 1842.</p>
+            <p>Finally, there are several items related to Frank P. Muhlenberg’s military career and involvement in Abraham Lincoln’s funeral. They include two commissions, signed by Abraham Lincoln and Andrew Johnson, as well as the Special Orders that named Muhlenberg to the “Guard of Honor to remain on duty near the body of the late President” (24 April 1865).</p>
+        </scopecontent>
+        <odd id="ref300">
+            <head>Early American History Note</head>
+            <p>The collection contains miscellaneous papers from this prominent Pennsylvania family. Some of the material is in German. Included in the collection are diplomas and various certificates of family members, including Peter Muhlenberg’s original certificate of membership in the Society of the Cincinnati. There is a significant amount of correspondence from Christian Dencke to the Muhlenbergs in 1798-1799, a period when he was setting up a mission to Indians in Ontario. The letters, in German and Latin, seem to discuss natural history.</p>
+            <p>Although some of the correspondence listed in MOLE is of photostats, the collection contains an original letterbook kept by Peter Muhlenberg from 1838-42 while stationed in Georgia with the army.</p>
+        </odd>
+        <controlaccess>
+            <persname rules="aacr" source="naf">Alexander, William, 1726-1783</persname>
+            <persname rules="aacr" source="naf">Elliott, Stephen, 1771-1830</persname>
+            <persname rules="aacr" source="naf">Gallatin, Albert, 1761-1849</persname>
+            <persname source="ingest">Greene, Nathanael, 1742-1786</persname>
+            <persname source="naf">Hand, Edward, 1744-1802</persname>
+            <persname rules="aacr" source="naf">Muhlenberg, Henry A.,  (Henry Augustus), 1823-1854 </persname>
+            <persname rules="aacr" source="naf">Muhlenberg, Henry Melchior, 1711-1787</persname>
+            <persname rules="aacr" source="naf">Muhlenberg, Henry, 1753-1815</persname>
+            <persname rules="aacr" source="naf">Muhlenberg, John Peter Gabriel, 1746-1807</persname>
+            <persname source="ingest">Sargent, Winthrop, 1753-1820</persname>
+            <corpname source="ingest">Society of the Cincinnati.</corpname>
+            <persname source="ingest">Steuben, Friedrich Wilhelm Ludolf Gerhard Augustin, Baron von, 1730-1794</persname>
+            <persname rules="aacr" source="naf">Washington, George, 1732-1799</persname>
+            <subject source="leah">American Revolution</subject>
+            <genreform source="lcsh">Certificates.</genreform>
+            <genreform source="lcsh">Diaries.</genreform>
+            <genreform source="lcsh">Diplomas.</genreform>
+            <genreform source="leah">Family Correspondence</genreform>
+            <genreform source="leah">General Correspondence</genreform>
+            <genreform source="lcsh">Journals (notebooks).</genreform>
+            <genreform source="lcsh">Letterbooks.</genreform>
+            <subject source="leah">Military History</subject>
+            <genreform source="leah">Military Records</genreform>
+            <subject source="leah">Native America</subject>
+            <geogname source="lcsh">Ohio River Valley -- Description and travel.</geogname>
+            <subject source="leah">Pennsylvania History</subject>
+            <subject source="leah">Religion</subject>
+            <genreform source="leah">Travel Narratives and Journals</genreform>
+            <geogname source="lcsh">United States -- History -- Revolution, 1775-1783 -- Personal histories.</geogname>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref77" level="series">
+                <did>
+                    <unittitle>Correspondence</unittitle>
+                    <physdesc>
+                        <extent>0.25 ln. ft.</extent>
+                        <extent>36 items; 1 upright box, 10 oversize items.</extent>
+                    </physdesc>
+                    <origination label="creator">
+                        <persname source="ingest">Denke, Christian Frederick, 1775-1838</persname>
+                    </origination>
+                    <origination label="creator">
+                        <persname rules="aacr" source="naf">Muhlenberg, Henry, 1753-1815</persname>
+                    </origination>
+                    <origination label="creator">
+                        <persname rules="aacr" source="naf">Muhlenberg, John Peter Gabriel, 1746-1807</persname>
+                    </origination>
+                    <origination label="creator">
+                        <persname source="ingest">Muhlenberg, Peter Gabriel</persname>
+                    </origination>
+                </did>
+                <acqinfo id="ref254">
+                    <head>Immediate Source of Acquisition note</head>
+                    <p>Presented by Rev. Frederick A. Muhlenberg, 1891, and Mrs. Jesse Wagner, 1952; accessioned, 1952 (1952 89901). See in-house shelf list for additional accession information.</p>
+                </acqinfo>
+                <controlaccess>
+                    <subject source="lcsh">Botany</subject>
+                    <genreform source="leah">Foreign Language</genreform>
+                    <subject source="lcsh">Herbaria.</subject>
+                    <subject source="leah">Natural History</subject>
+                    <subject source="leah">Religion</subject>
+                </controlaccess>
+                <c02 id="ref31" level="file">
+                    <did>
+                        <unittitle>Certificate of membership to Heinrich Mühlenberg</unittitle>
+                        <unitdate>Dec. 26, 1774</unitdate>
+                        <physdesc id="ref32" label="General Physical Description note">8-1/2x8-3/4</physdesc>
+                        <origination label="creator">
+                            <corpname source="ingest">German Society of Pennsylvania.</corpname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref33">
+                        <head>Scope and Contents note</head>
+                        <p>Philadelphia, Printed D.filled in in ms.S.: Michael Shubart, Sec. 1p. In German. Seal. parchment. (see Mühlenberg family papers.) Removed from frame February 1963.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref28" level="file">
+                    <did>
+                        <unittitle>Diploma to Gotthilf Heinrich Ernst Mühlenberg</unittitle>
+                        <physdesc>
+                            <extent>Oversize box</extent>
+                        </physdesc>
+                        <unitdate>Oct. 1, 1769</unitdate>
+                        <physdesc id="ref29" label="General Physical Description note">19x15</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Halle. Universität</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref30">
+                        <head>Scope and Contents note</head>
+                        <p>Halle, Printed D.filled in in ms.S.: Fred. Christ. Juncker. 1p. In Latin. Seal. Removed to resotre April 1972, W. Spawn.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref19" level="item">
+                    <did>
+                        <unittitle>Membership certificate in the Society of Cincinnati for Muhlenberg, October 31, 1785</unittitle>
+                        <physdesc>
+                            <extent>1.0 Item(s)</extent>
+                        </physdesc>
+                        <unitdate normal="1785/1785">1785 October 31</unitdate>
+                        <abstract id="ref20" label="Abstract">Vellum certificate of membership.</abstract>
+                        <physdesc id="ref25" label="General Physical Description note">D.S: 1p. Parchment (signature faded).</physdesc>
+                        <origination label="creator">
+                            <corpname source="ingest">Society of the Cincinnati.</corpname>
+                        </origination>
+                    </did>
+                    <odd id="ref26">
+                        <head>General note</head>
+                        <p>FILM 371 FRAME 11</p>
+                    </odd>
+                    <scopecontent id="ref24">
+                        <head>Scope and Contents note</head>
+                        <p>Signed by Geo. Washington, president. Removed for exhibit 18 July 1980 in Germany, returned 16 December 1981.</p>
+                    </scopecontent>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Membership certificate in the Society of Cincinnati for Muhlenberg, October 31, 1785 " ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:4769">
+                        <daodesc>
+                            <p>Membership certificate in the Society of Cincinnati for Muhlenberg, October 31, 1785 , 1735, October 31 </p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <persname rules="aacr" source="naf" role="Other (oth)">Muhlenberg, John Peter Gabriel, 1746-1807</persname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref78" level="file">
+                    <did>
+                        <unittitle>Letter to [Gotthilf Heinrich Ernst Mühlenberg]</unittitle>
+                        <unitdate>June 7, 1798</unitdate>
+                        <physdesc id="ref79" label="General Physical Description note">9-3/4x8</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Denke, Christian Frederick, 1775-1838</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref80">
+                        <head>Scope and Contents note</head>
+                        <p>Nazareth, A.L.S. 2p. In German with Latin scientific names. Botanical matters. Originally B.M89.d.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref81" level="file">
+                    <did>
+                        <unittitle>Letter to [Gotthilf Heinrich Ernst Mühlenberg]</unittitle>
+                        <unitdate>June 18, 1798</unitdate>
+                        <physdesc id="ref82" label="General Physical Description note">10x7-3/4</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Denke, Christian Frederick, 1775-1838</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref83">
+                        <head>Scope and Contents note</head>
+                        <p>Nazareth, A.L.S. 2p. In German with Latin scientific names. Includes list of botanical books. Originally B.M89.d.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref34" level="file">
+                    <did>
+                        <unittitle>Certificate of membership to Heinrich Mühlenberg</unittitle>
+                        <physdesc>
+                            <extent>Oversize box</extent>
+                        </physdesc>
+                        <unitdate>July 20, 1798</unitdate>
+                        <physdesc id="ref35" label="General Physical Description note">14x15-3/4</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Naturforschende Gesellschaft Westphalens</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref36">
+                        <head>Scope and Contents note</head>
+                        <p>D.on printed form. 1p. In German. Seal. Given to Muhlenberg when he was principal of Franklin College and minister of Trinity Church. (see Mühlenberg family papers.) Removed from frame February 1963. Removed to restore 1 May 1972 (W. Spawn), returned 21 May 1972.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref84" level="file">
+                    <did>
+                        <unittitle>Letter to [Gotthilf Heinrich Ernst Mühlenberg]</unittitle>
+                        <unitdate>July 23, 1798</unitdate>
+                        <physdesc id="ref85" label="General Physical Description note">10x8</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Denke, Christian Frederick, 1775-1838</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref86">
+                        <head>Scope and Contents note</head>
+                        <p>Nazareth, A.L.S. 3p.and end. In German with Latin scientific names. List of plants, nos. 1-43, inclusive. Originally B.M89.d.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref87" level="file">
+                    <did>
+                        <unittitle>Letter to [Gotthilf Heinrich Ernst Mühlenberg]</unittitle>
+                        <unitdate>October 19, 1798</unitdate>
+                        <physdesc id="ref88" label="General Physical Description note">10x8</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Denke, Christian Frederick, 1775-1838</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref89">
+                        <head>Scope and Contents note</head>
+                        <p>A.L.S. 2p.,end. In German with Latin names. List of plants, nos. 44-60, inclusive. Originally B.M89.d.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref90" level="file">
+                    <did>
+                        <unittitle>Letter to [Gotthilf Heinrich Ernst Mühlenberg]</unittitle>
+                        <unitdate>October 20, 1798</unitdate>
+                        <physdesc id="ref91" label="General Physical Description note">10x7-3/4</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Denke, Christian Frederick, 1775-1838</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref92">
+                        <head>Scope and Contents note</head>
+                        <p>Nazareth, A.L.S. 2p. German text with Latin scientific names. List of plants, nos. 80-117, inclusive. Originally B.M89.d.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref93" level="file">
+                    <did>
+                        <unittitle>Letter to [Gotthilf Heinrich Ernst Mühlenberg]</unittitle>
+                        <unitdate>November 1, 1798</unitdate>
+                        <physdesc id="ref94" label="General Physical Description note">9x7-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Denke, Christian Frederick, 1775-1838</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref95">
+                        <head>Scope and Contents note</head>
+                        <p>A.L.S. 4p. German text with Latin scientific names. List of plants, nos. 26-79; 118-141, inclusive. Originally B.M89.d.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref96" level="file">
+                    <did>
+                        <unittitle>Letter to [Gotthilf Heinrich Ernst Mühlenberg]</unittitle>
+                        <unitdate>December 10, 1798</unitdate>
+                        <physdesc id="ref97" label="General Physical Description note">10x7-3/4</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Denke, Christian Frederick, 1775-1838</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref98">
+                        <head>Scope and Contents note</head>
+                        <p>Nazareth Hall, A.L.S. 2p. and end. In German, with Latin scientific names. List of plants, nos. 142-163, inclusive. Originally B.M89.d.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref99" level="file">
+                    <did>
+                        <unittitle>Letter to [Gotthilf Heinrich Ernst Mühlenberg]</unittitle>
+                        <unitdate>December 23, 1798</unitdate>
+                        <physdesc id="ref100" label="General Physical Description note">9x7-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Denke, Christian Frederick, 1775-1838</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref101">
+                        <head>Scope and Contents note</head>
+                        <p>Nazareth Hall, A.L.S. 2p. German text and Latin scientific names. List of plants, nos. 164-187, inclusive. Originally B.M89.d.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref102" level="file">
+                    <did>
+                        <unittitle>Letter to [Gotthilf Heinrich Ernst Mühlenberg]</unittitle>
+                        <unitdate>December 30, 1798</unitdate>
+                        <physdesc id="ref103" label="General Physical Description note">9x7-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Denke, Christian Frederick, 1775-1838</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref104">
+                        <head>Scope and Contents note</head>
+                        <p>Nazareth Hall, A.L.S. 2p. German text and Latin scientific names. List of plants, nos. 188-206 inclusive. Originally B.M89.d.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref105" level="file">
+                    <did>
+                        <unittitle>Letter to H[einrich Ernst] Mühlenberg</unittitle>
+                        <unitdate>January 9, 1799</unitdate>
+                        <physdesc id="ref106" label="General Physical Description note">9x8</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Denke, Christian Frederick, 1775-1838</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref107">
+                        <head>Scope and Contents note</head>
+                        <p>A.L.S. 2p.and add. German text with Latin scientific names. List of plants, nos. 207-229 inclusive. Originally B.M89.d.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref108" level="file">
+                    <did>
+                        <unittitle>Letter to [Gotthilf Heinrich Ernst Mühlenberg]</unittitle>
+                        <unitdate>January 31, 1799</unitdate>
+                        <physdesc id="ref109" label="General Physical Description note">8x6-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Denke, Christian Frederick, 1775-1838</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref110">
+                        <head>Scope and Contents note</head>
+                        <p>A.L.S. 3p.and end. German text with Latin scientific names. List of plants. nos. 188-197; 230-250, inclusive. Originally B.M89.d.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref111" level="file">
+                    <did>
+                        <unittitle>Letter to [Gotthilf Heinrich Ernst Mühlenberg]</unittitle>
+                        <unitdate>February 4, 1799</unitdate>
+                        <physdesc id="ref112" label="General Physical Description note">8x6-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Denke, Christian Frederick, 1775-1838</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref113">
+                        <head>Scope and Contents note</head>
+                        <p>A.L.S. 3p.and end. German text with Latin names. List of plants, nos. 207-227; 251-271, inclusive. Originally B.M89.d.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref114" level="file">
+                    <did>
+                        <unittitle>Letter to [Gotthilf Heinrich Ernst Mühlenberg]</unittitle>
+                        <unitdate>February 20, 1799</unitdate>
+                        <physdesc id="ref115" label="General Physical Description note">8x6-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Denke, Christian Frederick, 1775-1838</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref116">
+                        <head>Scope and Contents note</head>
+                        <p>A.L.S. 3p.and end. German text, with Latin scientific names. Lists plants, nos. 272-313, inclusive. Originally B.M89.d.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref117" level="file">
+                    <did>
+                        <unittitle>Letter to [Gotthilf Heinrich Ernst Mühlenberg]</unittitle>
+                        <unitdate>May 24, 1799</unitdate>
+                        <physdesc id="ref118" label="General Physical Description note">8x7</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Denke, Christian Frederick, 1775-1838</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref119">
+                        <head>Scope and Contents note</head>
+                        <p>A.L.S. 2p. German text with Latin scientific names. List of plants, nos. 338-353. inclusive. Originally B.M89.d.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref120" level="file">
+                    <did>
+                        <unittitle>Letter to [Gotthilf Heinrich Ernst Mühlenberg]</unittitle>
+                        <unitdate>July 1, 1799</unitdate>
+                        <physdesc id="ref121" label="General Physical Description note">8x6-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Denke, Christian Frederick, 1775-1838</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref122">
+                        <head>Scope and Contents note</head>
+                        <p>Nazareth Hall, A.L.S. 2p. German text with Latin scientific names. List of plants, nos. 370-391 inclusive. Mentions Dr. Horsfield. Originally B.M89.d.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref123" level="file">
+                    <did>
+                        <unittitle>Letter to [Gotthilf Heinrich Ernst Mühlenberg]</unittitle>
+                        <unitdate>August 10, 1799</unitdate>
+                        <physdesc id="ref124" label="General Physical Description note">8x7</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Denke, Christian Frederick, 1775-1838</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref125">
+                        <head>Scope and Contents note</head>
+                        <p>Nazareth Hall, A.L.S. 2p.and end. German text with Latin scientific names. List of plants, nos. 392-406 inclusive. Originally B.M89.d.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref126" level="file">
+                    <did>
+                        <unittitle>Letter to [Gotthilf Heinrich Ernst Mühlenberg]</unittitle>
+                        <unitdate>September 17, 1799</unitdate>
+                        <physdesc id="ref127" label="General Physical Description note">10x8</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Denke, Christian Frederick, 1775-1838</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref128">
+                        <head>Scope and Contents note</head>
+                        <p>Bethlehem, A.L.S. 3p.and end. German text with Latin scientific names. List of plants, nos.407-422, inclusive. Originally B.M89.d.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref129" level="file">
+                    <did>
+                        <unittitle>Letter to [Gotthilf Heinrich Ernst Mühlenberg]</unittitle>
+                        <unitdate>September 28, 1799</unitdate>
+                        <physdesc id="ref130" label="General Physical Description note">8x6-3/4</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Denke, Christian Frederick, 1775-1838</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref131">
+                        <head>Scope and Contents note</head>
+                        <p>A.L.S. 2p.and end. German text and Latin scientific names. Mentions Gustav von Dalmann. List of plants, nos. 423-441, inclusive. Originally B.M89.d.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref37" level="file">
+                    <did>
+                        <unittitle>Certificate of membership to Henricum Mühlenberg.</unittitle>
+                        <physdesc>
+                            <extent>Oversize box</extent>
+                        </physdesc>
+                        <unitdate>March 10, 1802</unitdate>
+                        <physdesc id="ref38" label="General Physical Description note">11x13-3/4</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Societas Physica Gottingensis</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref39">
+                        <head>Scope and Contents note</head>
+                        <p>D. 1p. Seal. In Latin. Removed from frame February 1963.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref40" level="file">
+                    <did>
+                        <unittitle>Commission to Peter Muhlenberg as 1st Lieut.</unittitle>
+                        <physdesc>
+                            <extent>Oversize box</extent>
+                        </physdesc>
+                        <unitdate>February 23, 1809</unitdate>
+                        <physdesc id="ref41" label="General Physical Description note">18 1/4" x 15 1/4"</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">United States. President (1801-1809 : Jefferson)</persname>
+                        </origination>
+                    </did>
+                    <odd id="ref306">
+                        <head>General note</head>
+                        <p>FILM 371 FRAME 11</p>
+                    </odd>
+                    <scopecontent id="ref42">
+                        <head>Scope and Contents note</head>
+                        <p>In the 6th regiment of infantry Washington, D.S: Th. Jefferson 1p. Parchment Seal Removed to restore 5 March 1952 (W. Spawn), returned 13 March 1952.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref17" level="item">
+                    <did>
+                        <unittitle>Henry Muhlenberg, membership certificate in Linnean Society of Philadelphia, 1809.</unittitle>
+                        <physdesc>
+                            <extent>1.0 Item(s)</extent>
+                            <extent>Oversize box</extent>
+                        </physdesc>
+                        <unitdate normal="1809/1809">1809</unitdate>
+                        <abstract id="ref18" label="Abstract">Membership certificate.</abstract>
+                        <physdesc id="ref23" label="Dimensions note">
+                            <dimensions>13-1/2x16-3/4</dimensions>
+                        </physdesc>
+                        <physdesc id="ref21" label="General Physical Description note">Philadelphia, Printed D.filled in in ms.S.</physdesc>
+                        <origination label="creator">
+                            <corpname rules="local" source="ingest">Linnean Society of Philadelphia.</corpname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref22">
+                        <head>Scope and Contents note</head>
+                        <p>Signed by Benjamin Smith Barton, Pres.,et al. 1p. In Latin. (see Mühlenberg family papers.) Removed from frame February 1963.</p>
+                    </scopecontent>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Henry Muhlenberg, membership certificate in Linnean Society of Philadelphia, 1809. " ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:4768">
+                        <daodesc>
+                            <p>Henry Muhlenberg, membership certificate in Linnean Society of Philadelphia, 1809. , 1809 </p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <persname rules="aacr" source="naf" role="Other (oth)">Muhlenberg, Henry, 1753-1815</persname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref43" level="file">
+                    <did>
+                        <unittitle>Commission to Peter Muhlenberg as Captain in the 6th regiment of Infantry</unittitle>
+                        <physdesc>
+                            <extent>Oversize box</extent>
+                        </physdesc>
+                        <unitdate>May 1, 1811</unitdate>
+                        <physdesc id="ref44" label="General Physical Description note">17 1/2" x 14"</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">United States. President (1809-1817 : Madison)</persname>
+                        </origination>
+                    </did>
+                    <odd id="ref305">
+                        <head>General note</head>
+                        <p>FILM 321 FRAME 16</p>
+                    </odd>
+                    <scopecontent id="ref45">
+                        <head>Scope and Contents note</head>
+                        <p>Washington, D.S.: James Madison 1p. Parchment Seal. Removed to restore 5 March 1952 (W. Spawn), returned 13 March 1952.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref132" level="file">
+                    <did>
+                        <unittitle>Letter to Henry [Gotthilf Heinrich Ernst] Mülenberg, Fairfield, River Thames</unittitle>
+                        <unitdate>October 4, 1811</unitdate>
+                        <physdesc id="ref133" label="General Physical Description note">12x7-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Denke, Christian Frederick, 1775-1838</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref134">
+                        <head>Scope and Contents note</head>
+                        <p>Lancaster. A.L.S. 3p.and add.,end. In German. Botanical matters. Film 403 Frame 22. Originally B.M89.d.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref46" level="file">
+                    <did>
+                        <unittitle>Certificate of membership as corresponding member, to Henry Mühlenbergh [xic]</unittitle>
+                        <unitdate>Sept. 1, 1814</unitdate>
+                        <physdesc id="ref47" label="General Physical Description note">9-1/2x8</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Academy of Natural Sciences of Philadelphia</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref48">
+                        <head>Scope and Contents note</head>
+                        <p>Philadelphia, Sept. Printed D.filled in in ms.S.: Reuben Haines. 1p. (see Mühlenberg family papers.) Removed from frame February 1963.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref49" level="file">
+                    <did>
+                        <unittitle>Commission to Peter Muhlenberg as Major in the 31st regiment of infantry</unittitle>
+                        <physdesc>
+                            <extent>Oversize box</extent>
+                        </physdesc>
+                        <unitdate>Feb. 1, 1815</unitdate>
+                        <physdesc id="ref50" label="General Physical Description note">18 1/2" x 15"</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">United States. President (1809-1817 : Madison)</persname>
+                        </origination>
+                    </did>
+                    <odd id="ref304">
+                        <head>General note</head>
+                        <p>FILM 370 FRAME 11</p>
+                    </odd>
+                    <scopecontent id="ref51">
+                        <head>Scope and Contents note</head>
+                        <p>Washington, D.S: James Madison 1p. Parchment Seal. Removed to restore 5 March 1952 (W. Spawn), returned 13 March 1952.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref52" level="file">
+                    <did>
+                        <unittitle>Certificate of membership, to Henry Mühlenberg, Lancaster, Penna.</unittitle>
+                        <unitdate>March 8, 1815</unitdate>
+                        <physdesc id="ref53" label="General Physical Description note">8-1/4x6-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Societas Physiographica Lundensis</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref54">
+                        <head>Scope and Contents note</head>
+                        <p>Lund, Printed D.filled in in ms.S.: C. A. Agardh and one other. In Latin. 1p.and add.,end. (see Mühlenberg family papers.) Removed from frame February 1963.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref55" level="file">
+                    <did>
+                        <unittitle>Commission to Peter Muhlenberg as paymaster</unittitle>
+                        <physdesc>
+                            <extent>Oversize box</extent>
+                        </physdesc>
+                        <unitdate>March 5, 1835</unitdate>
+                        <physdesc id="ref56" label="General Physical Description note">18" x 13 3/4"</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">United States. President (1829-1837 : Jackson)</persname>
+                        </origination>
+                    </did>
+                    <odd id="ref303">
+                        <head>General note</head>
+                        <p>FILM 371 FRAME 11</p>
+                    </odd>
+                    <scopecontent id="ref57">
+                        <head>Scope and Contents note</head>
+                        <p>Washington, D.S: Andrew Jackson 1p. Parchment Seal (see Muhlenberg family papers). Removed to restore 5 March 1952 (W. Spawn), returned 13 March 1952.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref61" level="file">
+                    <did>
+                        <unittitle>Letter to Jno. Ritter</unittitle>
+                        <unitdate>Dec. 3, 1844</unitdate>
+                        <physdesc id="ref62" label="General Physical Description note">9 1/2" x 7 1/2"</physdesc>
+                        <origination label="creator">
+                            <persname source="naf">Muhlenberg, Henry Augustus Philip, 1782-1844</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref63">
+                        <head>Scope and Contents note</head>
+                        <p>Reading, A.L.S. 1p. and add., end. (see Muhlenberg family papers). FILM 371 FRAME 11</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref64" level="file">
+                    <did>
+                        <unittitle>Commission to Frank P. Muhlenberg as 1st Lieut. in the 13th regiment of infantry</unittitle>
+                        <physdesc>
+                            <extent>Oversize box</extent>
+                        </physdesc>
+                        <unitdate>Aug. 17, 1861</unitdate>
+                        <physdesc id="ref65" label="General Physical Description note">17 1/2" x 13 3/4"</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">United States. President (1861-1865 : Lincoln)</persname>
+                        </origination>
+                    </did>
+                    <odd id="ref302">
+                        <head>General note</head>
+                        <p>FILM 371 FRAME 11</p>
+                    </odd>
+                    <scopecontent id="ref66">
+                        <head>Scope and Contents note</head>
+                        <p>Washington, D.S.: Abraham Lincoln 1p. Parchment Seal ----Copy. Removed to restore 5 March 1952 (W. Spawn), returned 13 March 1952.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref67" level="file">
+                    <did>
+                        <unittitle>Letter to Capt. F.P. Muhlenberg</unittitle>
+                        <unitdate>April 24, 1865</unitdate>
+                        <physdesc id="ref68" label="General Physical Description note">9 3/4" x 7 3/4"</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">United States. Army</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref69">
+                        <head>Scope and Contents note</head>
+                        <p>Albany, L. 2p. (see Muhlenberg family papers) Special order No. 4 pertaining to the guard of honor near the body of Abraham Lincoln while it remained in Albany. FILM 371 FRAME 4</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref70" level="file">
+                    <did>
+                        <unittitle>Letter to Capt. F.P. Muhlenberg</unittitle>
+                        <unitdate>April 25, 1865</unitdate>
+                        <physdesc id="ref71" label="General Physical Description note">7 3/4" x 5"</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">U.S. Committee of Arrangement for Funeral of Abraham Lincoln.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref72">
+                        <head>Scope and Contents note</head>
+                        <p>Albany, L. 1p. (see Muhlenberg family papers). FILM 371 FRAME 11</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref73" level="file">
+                    <did>
+                        <unittitle>Commission to Frank P. Muhlenberg as Brevet Major in the U.S. Army</unittitle>
+                        <physdesc>
+                            <extent>Oversize box</extent>
+                        </physdesc>
+                        <unitdate>Aug. 10, 1866</unitdate>
+                        <physdesc id="ref74" label="General Physical Description note">18 3/4" x 15 1/2"</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">United States. President (1865-1869 : Johnson)</persname>
+                        </origination>
+                    </did>
+                    <odd id="ref301">
+                        <head>General note</head>
+                        <p>FILM 371 FRAME 11</p>
+                    </odd>
+                    <scopecontent id="ref75">
+                        <head>Scope and Contents note</head>
+                        <p>Washington, D.S: Andrew Johnson 1p. Parchment Seal. Removed to restore 5 March 1952 (W. Spawn), returned 13 March 1952.</p>
+                    </scopecontent>
+                </c02>
+            </c01>
+            <c01 id="ref167" level="series">
+                <did>
+                    <unittitle>Bound Volumes</unittitle>
+                    <physdesc>
+                        <extent>24.0 Volume(s)</extent>
+                    </physdesc>
+                    <abstract id="ref250" label="Abstract">Henry Muhlenberg Journals (volumes 16 and 17): A record of daily occurrence, with many features of a commonplace book, for this contains prescriptions, notes of questions asked candidates for the Lutheran ministry, the plan of a barn, etc. There is also a biographical account of Rev. Henry Melchior Muhlenberg (1711-1787). Botanical notebooks (all other volumes): Written in Latin or German script, and in a small hand, this great mass of materials, probably of considerable significance, has seldom been used and never entirely studied with care. Letterbook: Written in English by Peter Gabriel Muhlenberg, in his role as paymaster of the U.S. Army.</abstract>
+                    <origination label="creator">
+                        <persname rules="aacr" source="naf">Muhlenberg, Henry, 1753-1815</persname>
+                    </origination>
+                    <origination label="creator">
+                        <persname source="ingest" role="Author (aut)">Muhlenberg, Peter Gabriel</persname>
+                    </origination>
+                </did>
+                <bioghist id="ref251">
+                    <head>Biographical/Historical note</head>
+                    <p>Henry Muhlenberg (also known as Gotthilf Heinrich Ernst Muhlenberg) was a Lutheran clergyman whose avocation was botany. He was well known on both sides of the Atlantic Ocean for his botanical work. He lived in Lancaster, Pennsylvania, and studied the flora there, keeping several volumes of notes.</p>
+                </bioghist>
+                <acqinfo id="ref252">
+                    <head>Immediate Source of Acquisition note</head>
+                    <p>Calendarium florae (volume 8): Presented by Henry Muhlenberg, 1785. Henry Muhlenberg Journals (volumes 16 and 17): Presented by Hiester Muhlenberg, 1954; accessioned, 1956 (1956 1143ms, 1144ms). Other Henry Muhlenberg volumes presented by Rev. Frederick A. Muhlenberg, 1890. Peter Muhlenberg letterbook (volume 25) presented by Mrs. Jesse Wagner, 1952; accessioned, 1952 (1952 89901). See in-house shelf list for additional accession information.</p>
+                </acqinfo>
+                <odd id="ref253">
+                    <head>General note</head>
+                    <p>For some information on the botanical manuscripts and their author, see C. Earle Smith, Jr. "Henry Muhlenberg--Botanical Pioneer," American Philosophical Society Proceedings 106(1962):443-460.</p>
+                </odd>
+                <controlaccess>
+                    <persname rules="aacr" source="naf">Muhlenberg, Henry Melchior, 1711-1787</persname>
+                    <persname rules="aacr" source="naf">Rafinesque, C. S.,  (Constantine Samuel ), 1783-1840 </persname>
+                    <subject source="lcsh">Agriculture -- United States.</subject>
+                    <subject source="lcsh">Barns.</subject>
+                    <subject source="lcsh">Botany</subject>
+                    <subject source="lcsh">Fungi.</subject>
+                    <subject source="lcsh">Grasses.</subject>
+                    <genreform source="lcsh">Journals (notebooks).</genreform>
+                    <geogname source="lcsh">Lancaster (Pa.) -- Description and travel.</geogname>
+                    <subject source="lcsh">Lichens.</subject>
+                    <subject source="lcsh">Meteorology - Observations</subject>
+                    <genreform source="leah">Military Records</genreform>
+                    <subject source="lcsh">Natural history.</subject>
+                    <subject source="lcsh">Plants.</subject>
+                    <subject source="lcsh">Shrubs.</subject>
+                    <genreform source="lcsh">Sketches.</genreform>
+                    <subject source="lcsh">Trees.</subject>
+                    <subject source="lcsh">Zoology -- Vermont.</subject>
+                </controlaccess>
+                <c02 id="ref217" level="item">
+                    <did>
+                        <unittitle>1. Agrostographia Pensilvanica, 1792.</unittitle>
+                        <langmaterial>
+                            <language langcode="mul"/>
+                        </langmaterial>
+                        <container id="cid5930" type="Volume" label="Manuscripts">1</container>
+                        <physdesc>
+                            <extent>1.0 Volume(s)</extent>
+                        </physdesc>
+                        <unitdate normal="1792/1792">1792</unitdate>
+                        <abstract id="ref218" label="Abstract">Descriptions of the grasses of Pennsylvania.</abstract>
+                        <langmaterial id="ref219" label="Language of Materials note">In Latin and German.</langmaterial>
+                        <physdesc id="ref220" label="General Physical Description note">1 volume.</physdesc>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf" role="Author (aut)">Muhlenberg, Henry, 1753-1815</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref257">
+                        <head>Scope and Contents note</head>
+                        <p>Old call number 584.9 M89.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref244" level="item">
+                    <did>
+                        <unittitle>2. Botanical notebook.</unittitle>
+                        <langmaterial>
+                            <language langcode="lat"/>
+                        </langmaterial>
+                        <container id="cid5938" type="Volume" label="Manuscripts">1</container>
+                        <physdesc>
+                            <extent>1.0 Volume(s)</extent>
+                        </physdesc>
+                        <unitdate>undated</unitdate>
+                        <abstract id="ref245" label="Abstract">Descriptions of plants, with some sketches; extracts from published descriptions of oaks, pines, etc.</abstract>
+                        <physdesc id="ref246" label="General Physical Description note">1 volume. "Auf einer Reise nach Philadelphia" is bound in the back of the volume.</physdesc>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf" role="Author (aut)">Muhlenberg, Henry, 1753-1815</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref261">
+                        <head>Scope and Contents note</head>
+                        <p>Old call number 580 M89bot.</p>
+                    </scopecontent>
+                    <c03 id="ref255" level="item">
+                        <did>
+                            <unittitle>2a. Auf einer Reise nach Philadelphia.</unittitle>
+                            <langmaterial>
+                                <language langcode="ger"/>
+                            </langmaterial>
+                            <physdesc>
+                                <extent>Bound with volume 2, "Botanical notebook."</extent>
+                            </physdesc>
+                            <unitdate>1810</unitdate>
+                            <physdesc id="ref260" label="General Physical Description note">23 leaves (1 msg.), 4" x 6-3/4", with illustrations. Bound with volume 2, "Botanical notebook."</physdesc>
+                            <origination label="creator">
+                                <persname rules="aacr" source="naf" role="Author (aut)">Muhlenberg, Henry, 1753-1815</persname>
+                            </origination>
+                        </did>
+                        <scopecontent id="ref259">
+                            <head>Scope and Contents note</head>
+                            <p>Diary bound at back of botanical notebook.</p>
+                        </scopecontent>
+                        <c04 id="ref247" level="item">
+                            <did>
+                                <unittitle>2b. Plots for gardens (?)</unittitle>
+                                <physdesc>
+                                    <extent>4.0 Item(s)</extent>
+                                    <extent>4 maps, 17.8 x 10.8 cm</extent>
+                                </physdesc>
+                                <unitdate>undated</unitdate>
+                                <origination label="creator">
+                                    <persname rules="aacr" source="naf" role="Cartographer (ctg)">Muhlenberg, Henry, 1753-1815</persname>
+                                </origination>
+                            </did>
+                            <scopecontent id="ref248">
+                                <head>Scope and Contents note</head>
+                                <p>The maps in this notebook, part of a large collection of Muhlenberg's writings on botany and natural history, seem to be plots for gardens he maintained.</p>
+                            </scopecontent>
+                            <otherfindaid id="ref249">
+                                <head>Other Finding Aids note</head>
+                                <p>Realms of Gold, 34 (1).</p>
+                            </otherfindaid>
+                        </c04>
+                    </c03>
+                </c02>
+                <c02 id="ref168" level="item">
+                    <did>
+                        <unittitle>3. Botanice, 1781.</unittitle>
+                        <langmaterial>
+                            <language langcode="lat"/>
+                        </langmaterial>
+                        <physdesc>
+                            <extent>1.0 Volume(s)</extent>
+                        </physdesc>
+                        <unitdate normal="1781/1781">1781</unitdate>
+                        <abstract id="ref169" label="Abstract">Catalog of plants, with special reference to North American species, identified and described according to a disused system of Linnaeus.</abstract>
+                        <physdesc id="ref170" label="General Physical Description note">1 volume.</physdesc>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf" role="Author (aut)">Muhlenberg, Henry, 1753-1815</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref262">
+                        <head>Scope and Contents note</head>
+                        <p>Old call number 580 M89b.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref171" level="item">
+                    <did>
+                        <unittitle>4. Botanisches Tagebuch, 1784-1785.</unittitle>
+                        <langmaterial>
+                            <language langcode="ger"/>
+                        </langmaterial>
+                        <physdesc>
+                            <extent>1.0 Volume(s)</extent>
+                        </physdesc>
+                        <unitdate normal="1784/1785" type="inclusive">1784-1785</unitdate>
+                        <abstract id="ref172" label="Abstract">Journal and daybook, with lists of botanical specimens, meteorological observations, notes of travel, personal and church affairs, etc.</abstract>
+                        <physdesc id="ref173" label="General Physical Description note">1 volume.</physdesc>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf" role="Author (aut)">Muhlenberg, Henry, 1753-1815</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref263">
+                        <head>Scope and Contents note</head>
+                        <p>Old call number 580 M89bo.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref186" level="item">
+                    <did>
+                        <unittitle>5. Botanisches Tagebuch, 1786-1790.</unittitle>
+                        <langmaterial>
+                            <language langcode="lat"/>
+                        </langmaterial>
+                        <container id="cid5921" type="Volume" label="Manuscripts">1</container>
+                        <physdesc>
+                            <extent>1.0 Volume(s)</extent>
+                        </physdesc>
+                        <unitdate normal="1786/1790" type="inclusive">1786-1790</unitdate>
+                        <abstract id="ref187" label="Abstract">Contents similar to Botanisches Tagebuch, 1784-1785: journal and daybook, lists of botanical specimens, meteorological observations, notes of travel, personal and church affairs, etc.</abstract>
+                        <physdesc id="ref188" label="General Physical Description note">1 volume.</physdesc>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf" role="Author (aut)">Muhlenberg, Henry, 1753-1815</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref264">
+                        <head>Scope and Contents note</head>
+                        <p>Old call numbers 580 M89bo, 580 M89de</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref231" level="item">
+                    <did>
+                        <unittitle>6. Botanisches Tagebuch, 1807-1815.</unittitle>
+                        <langmaterial>
+                            <language langcode="ger"/>
+                        </langmaterial>
+                        <container id="cid5934" type="Volume" label="Manuscripts">1</container>
+                        <physdesc>
+                            <extent>1.0 Volume(s)</extent>
+                        </physdesc>
+                        <unitdate normal="1807/1815" type="inclusive">1807-1815</unitdate>
+                        <abstract id="ref232" label="Abstract">Contents similar to Botanisches Tagebuch, 1784-1785: journal and daybook, lists of botanical specimens, meteorological observations, notes of travel, personal and church affairs, etc.</abstract>
+                        <physdesc id="ref233" label="General Physical Description note">1 volume.</physdesc>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf" role="Author (aut)">Muhlenberg, Henry, 1753-1815</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref265">
+                        <head>Scope and Contents note</head>
+                        <p>Old call number 580 M89bo.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref237" level="item">
+                    <did>
+                        <unittitle>7. Botany, a notebook.</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid5936" type="Volume" label="Manuscripts">1</container>
+                        <physdesc>
+                            <extent>1.0 Volume(s)</extent>
+                        </physdesc>
+                        <unitdate>undated</unitdate>
+                        <abstract id="ref238" label="Abstract">An early version of the author's Catalog of the Hitherto Known . . . Plants of North America. In this volume is a catalog of plants found in Burlington and Gloucester Counties, N.J., by C.S. Rafinesque.</abstract>
+                        <physdesc id="ref239" label="General Physical Description note">1 volume.</physdesc>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf" role="Author (aut)">Muhlenberg, Henry, 1753-1815</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf" role="Author (aut)">Rafinesque, C. S.,  (Constantine Samuel ), 1783-1840 </persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref266">
+                        <head>Scope and Contents note</head>
+                        <p>Old call number 580 M89bota.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref174" level="item">
+                    <did>
+                        <unittitle>8. Calendarium florae, 1785.</unittitle>
+                        <langmaterial>
+                            <language langcode="lat"/>
+                        </langmaterial>
+                        <physdesc>
+                            <extent>1.0 Volume(s)</extent>
+                        </physdesc>
+                        <unitdate normal="1785/1785">1785</unitdate>
+                        <abstract id="ref175" label="Abstract">Much the same as the previous volume, Botanisches Tagebuch, 1784-1785: journal and daybook, lists of botanical specimens, meteorological observations, notes of travel, personal and church affairs, etc.</abstract>
+                        <physdesc id="ref176" label="General Physical Description note">1 volume.</physdesc>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf" role="Author (aut)">Muhlenberg, Henry, 1753-1815</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref267">
+                        <head>Scope and Contents note</head>
+                        <p>Old call number 580 M89c.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref283" level="item">
+                    <did>
+                        <unittitle>9. Catalog of the hitherto known plants in the United States, 1808.</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <physdesc>
+                            <extent>1.0 Volume(s)</extent>
+                        </physdesc>
+                        <unitdate normal="1808/1808">1808</unitdate>
+                        <physdesc id="ref285" label="General Physical Description note">1 volume. Bound with this is "Folio plantarum Lancastriensium," 1808. 1 vol., with 222 figures.</physdesc>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf" role="Author (aut)">Muhlenberg, Henry, 1753-1815</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref284">
+                        <head>Scope and Contents note</head>
+                        <p>Old call number 586 M89ca.</p>
+                    </scopecontent>
+                    <c03 id="ref286" level="item">
+                        <did>
+                            <unittitle>9a. Folio plantarum Lancastriensium, 1808.</unittitle>
+                            <physdesc>
+                                <extent>1.0 Volume(s)</extent>
+                                <extent>Bound with volume 9, "Catalog of the hitherto known plants in the United States."</extent>
+                            </physdesc>
+                            <unitdate normal="1808/1808">1808</unitdate>
+                            <physdesc id="ref287" label="General Physical Description note">Bound with volume 9, "Catalog of the hiterhto known plants in the United States."</physdesc>
+                            <origination label="creator">
+                                <persname rules="aacr" source="naf" role="Author (aut)">Muhlenberg, Henry, 1753-1815</persname>
+                            </origination>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref213" level="item">
+                    <did>
+                        <unittitle>10. Descriptio plantarum ex aliis partibus Americae septentrionalis, 1792.</unittitle>
+                        <langmaterial>
+                            <language langcode="lat"/>
+                        </langmaterial>
+                        <container id="cid5929" type="Volume" label="Manuscripts">1</container>
+                        <physdesc>
+                            <extent>1.0 Volume(s)</extent>
+                        </physdesc>
+                        <unitdate normal="1792/1792">1792</unitdate>
+                        <langmaterial id="ref214" label="Language of Materials note">In Latin.</langmaterial>
+                        <abstract id="ref215" label="Abstract">Notes on herbs, shrubs, and trees from North America.</abstract>
+                        <physdesc id="ref216" label="General Physical Description note">1 volume. "Botanische beiträge" is bound in the back of the volume.</physdesc>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf" role="Author (aut)">Muhlenberg, Henry, 1753-1815</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref269">
+                        <head>Scope and Contents note</head>
+                        <p>Old call numbers 580 M89c, 580 M89d.</p>
+                    </scopecontent>
+                    <c03 id="ref292" level="item">
+                        <did>
+                            <unittitle>10a. Botanische beiträge zur Landwirt</unittitle>
+                            <langmaterial>
+                                <language langcode="ger"/>
+                            </langmaterial>
+                            <physdesc>
+                                <extent>1.0 Volume(s)</extent>
+                                <extent>Bound in volume 10, "Descriptio plantarum."</extent>
+                            </physdesc>
+                            <unitdate>circa 1792</unitdate>
+                            <physdesc id="ref298" label="General Physical Description note">Bound in the back of volume 10, "Descriptio plantarum."</physdesc>
+                            <origination label="creator">
+                                <persname rules="aacr" source="naf" role="Author (aut)">Muhlenberg, Henry, 1753-1815</persname>
+                            </origination>
+                        </did>
+                        <scopecontent id="ref297">
+                            <head>Scope and Contents note</head>
+                            <p>Relating to North American plants.</p>
+                        </scopecontent>
+                    </c03>
+                </c02>
+                <c02 id="ref256" level="item">
+                    <did>
+                        <unittitle>11. Descriptio uberior graminum et plantarium calamariarum Americae septentionalis indigenarum et cicurum.</unittitle>
+                        <langmaterial>
+                            <language langcode="lat"/>
+                        </langmaterial>
+                        <physdesc>
+                            <extent>1.0 Volume(s)</extent>
+                        </physdesc>
+                        <unitdate>undated</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf" role="Author (aut)">Muhlenberg, Henry, 1753-1815</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref270">
+                        <head>Scope and Contents note</head>
+                        <p>Old call number 580 M89de.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref196" level="item">
+                    <did>
+                        <unittitle>12. Flora Lancastriensis: botanisches Tagebuch, 1790-1799.</unittitle>
+                        <langmaterial>
+                            <language langcode="ger"/>
+                        </langmaterial>
+                        <container id="cid5924" type="Volume" label="Manuscripts">1</container>
+                        <physdesc>
+                            <extent>1.0 Volume(s)</extent>
+                        </physdesc>
+                        <unitdate normal="1790/1799" type="inclusive">1790-1799</unitdate>
+                        <abstract id="ref197" label="Abstract">Contents similar to Botanisches Tagebuch, 1784-1785: journal and daybook, lists of botanical specimens, meteorological observations, notes of travel, personal and church affairs, etc.</abstract>
+                        <physdesc id="ref198" label="General Physical Description note">1 volume.</physdesc>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf" role="Author (aut)">Muhlenberg, Henry, 1753-1815</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref271">
+                        <head>Scope and Contents note</head>
+                        <p>Old call number 580 M89f.</p>
+                        <p>This manuscript is later than the published paper of 1785 and could not have been presented by G.H.E. Muhlenberg in 1785. The manuscript is indeed a 
+                            <emph render="italic">tagebuch</emph> for 1790 and thereafter. - M. Mears(?), 5 June 1981</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref228" level="item">
+                    <did>
+                        <unittitle>13. Fortsetzung meines Journals von Botanic und der Naturhistorie, 1799 - 1807.</unittitle>
+                        <langmaterial>
+                            <language langcode="ger"/>
+                        </langmaterial>
+                        <container id="cid5933" type="Volume" label="Manuscripts">1</container>
+                        <physdesc>
+                            <extent>1.0 Volume(s)</extent>
+                        </physdesc>
+                        <unitdate normal="1799/1807" type="inclusive">1799-1807</unitdate>
+                        <abstract id="ref229" label="Abstract">Contents similar to Botanisches Tagebuch, 1784-1785: journal and daybook, lists of botanical specimens, meteorological observations, notes of travel, personal and church affairs, etc.</abstract>
+                        <physdesc id="ref230" label="General Physical Description note">1 volume. List of species, dates appears in the back of the volume.</physdesc>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf" role="Author (aut)">Muhlenberg, Henry, 1753-1815</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref272">
+                        <head>Scope and Contents note</head>
+                        <p>Old call number 580 M89fo.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref221" level="item">
+                    <did>
+                        <unittitle>14. Fungi Pensylvaniae mediae.</unittitle>
+                        <langmaterial>
+                            <language langcode="mul"/>
+                        </langmaterial>
+                        <container id="cid5931" type="Volume" label="Manuscripts">1</container>
+                        <physdesc>
+                            <extent>1.0 Volume(s)</extent>
+                        </physdesc>
+                        <unitdate normal="1793/1793">1793</unitdate>
+                        <langmaterial id="ref222" label="Language of Materials note">In Latin and German.</langmaterial>
+                        <abstract id="ref223" label="Abstract">Fungi observed and described, 1793 and later.</abstract>
+                        <physdesc id="ref224" label="General Physical Description note">1 volume.</physdesc>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf" role="Author (aut)">Muhlenberg, Henry, 1753-1815</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref273">
+                        <head>Scope and Contents note</head>
+                        <p>Old call number 589.2 M89.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref240" level="item">
+                    <did>
+                        <unittitle>15. Gräser die bei Lancaster wild wachsen.</unittitle>
+                        <langmaterial>
+                            <language langcode="ger"/>
+                        </langmaterial>
+                        <container id="cid5937" type="Volume" label="Manuscripts">1</container>
+                        <physdesc>
+                            <extent>1.0 Volume(s)</extent>
+                        </physdesc>
+                        <unitdate>undated</unitdate>
+                        <langmaterial id="ref241" label="Language of Materials note">In German.</langmaterial>
+                        <abstract id="ref242" label="Abstract">Lists of grasses seen in the vicinity of Lancaster or on his travels, such as meadow grasses, white timothy, miller's grass, sedges, etc.</abstract>
+                        <physdesc id="ref243" label="General Physical Description note">1 volume.</physdesc>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf" role="Author (aut)">Muhlenberg, Henry, 1753-1815</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref274">
+                        <head>Scope and Contents note</head>
+                        <p>Old call number 584.9 M89g.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref161" level="item">
+                    <did>
+                        <unittitle>16-17. Journals of Henry Muhlenberg, 1777-1815.</unittitle>
+                        <langmaterial>
+                            <language langcode="ger"/>
+                        </langmaterial>
+                        <physdesc>
+                            <extent>2.0 Volume(s)</extent>
+                            <extent>2 volumes, 1100 p.</extent>
+                        </physdesc>
+                        <unitdate normal="1777/1815" type="inclusive">1777-1815</unitdate>
+                        <abstract id="ref162" label="Abstract">A record of daily occurrence, with many features of a commonplace book, for this contains prescriptions, notes of questions asked candidates for the Lutheran ministry, the plan of a barn, etc. There is also a biographical account of Rev. Henry Melchior Muhlenberg (1711-1787).</abstract>
+                        <physdesc id="ref165" label="General Physical Description note">2 volumes, 1100 p.</physdesc>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf" role="Author (aut)">Muhlenberg, Henry, 1753-1815</persname>
+                        </origination>
+                    </did>
+                    <bioghist id="ref163">
+                        <head>Biographical/Historical note</head>
+                        <p>Henry Muhlenberg (also known as Gotthilf Heinrich Muhlenberg) was a Lutheran clergyman and a botanist.</p>
+                    </bioghist>
+                    <acqinfo id="ref164">
+                        <head>Immediate Source of Acquisition note</head>
+                        <p>Presented by Hiester Muhlenberg, 1954; accessioned, 1956 (1956 1143ms, 1144ms).</p>
+                    </acqinfo>
+                    <scopecontent id="ref275">
+                        <head>Scope and Contents note</head>
+                        <p>Old call number BM892.</p>
+                    </scopecontent>
+                    <controlaccess>
+                        <persname rules="aacr" source="naf">Muhlenberg, Henry Melchior, 1711-1787</persname>
+                        <subject source="lcsh">Barns.</subject>
+                        <subject source="lcsh">Botany</subject>
+                        <genreform source="lcsh">Journals (notebooks).</genreform>
+                        <subject source="lcsh">Lutheran Church -- Clergy.</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref210" level="item">
+                    <did>
+                        <unittitle>18. Lichenes Lancastriensis, 1791.</unittitle>
+                        <langmaterial>
+                            <language langcode="mul"/>
+                        </langmaterial>
+                        <container id="cid5928" type="Volume" label="Manuscripts">1</container>
+                        <physdesc>
+                            <extent>1.0 Volume(s)</extent>
+                        </physdesc>
+                        <unitdate normal="1791/1791">1791</unitdate>
+                        <langmaterial id="ref211" label="Language of Materials note">In Latin and German.</langmaterial>
+                        <physdesc id="ref212" label="General Physical Description note">1 volume. "Cryptogama Lancastriensia," 1791, is bound in the same volume.</physdesc>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf" role="Author (aut)">Muhlenberg, Henry, 1753-1815</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref276">
+                        <head>Scope and Contents note</head>
+                        <p>Old call number 586 M89c.</p>
+                    </scopecontent>
+                    <c03 id="ref206" level="item">
+                        <did>
+                            <unittitle>18a. Cryptogama Lancastriensia, 1791.</unittitle>
+                            <unitid>586 M89c</unitid>
+                            <langmaterial>
+                                <language langcode="lat"/>
+                            </langmaterial>
+                            <container id="cid5927" type="Volume" label="Manuscripts">1</container>
+                            <physdesc>
+                                <extent>1.0 Volume(s)</extent>
+                                <extent>Bound with volume 18, "Lichenes Lancastriensis."</extent>
+                            </physdesc>
+                            <unitdate normal="1791/1791">1791</unitdate>
+                            <abstract id="ref207" label="Abstract">Botanical notes on ferns, mosses, fungi, lichens, etc., especially those found in the vicinity of Lancaster, Pa.</abstract>
+                            <langmaterial id="ref208" label="Language of Materials note">In Latin, German, and English.</langmaterial>
+                            <physdesc id="ref209" label="General Physical Description note">1 volume. Bound with volume 18, "Lichenes Lancastriensis," 1791.</physdesc>
+                            <origination label="creator">
+                                <persname rules="aacr" source="naf" role="Author (aut)">Muhlenberg, Henry, 1753-1815</persname>
+                            </origination>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref202" level="item">
+                    <did>
+                        <unittitle>19. Monographia plantarum Lancastriensis, 1792.</unittitle>
+                        <langmaterial>
+                            <language langcode="mul"/>
+                        </langmaterial>
+                        <container id="cid5926" type="Volume" label="Manuscripts">1</container>
+                        <physdesc>
+                            <extent>1.0 Volume(s)</extent>
+                        </physdesc>
+                        <unitdate normal="1792/1792">1792</unitdate>
+                        <abstract id="ref203" label="Abstract">Descriptions of trees, shrubs, and plants, including local names in German, English, and Indian languages.</abstract>
+                        <langmaterial id="ref204" label="Language of Materials note">In Latin, German, English, and Indian languages.</langmaterial>
+                        <physdesc id="ref205" label="General Physical Description note">1 volume. Bound with No. 19 is "Samlungen von dem was ich aus dem Thierreich habe bemerken können," 1 vol. This contains Muhlenberg's observations of animals, birds, and insects in and near Lancaster; and also a list of the native animals of Vermont.</physdesc>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf" role="Author (aut)">Muhlenberg, Henry, 1753-1815</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref277">
+                        <head>Scope and Contents note</head>
+                        <p>Volume 2; volume 1 (#20) in German. Old call number 580 M89m.</p>
+                    </scopecontent>
+                    <c03 id="ref290" level="item">
+                        <did>
+                            <unittitle>19a. Samlungen von dem was ich aus dem Thierreich habe bemerken können</unittitle>
+                            <physdesc>
+                                <extent>Bound with volume 19, Monographia plantarum Lancastriensis."</extent>
+                            </physdesc>
+                            <unitdate normal="1785/1799" type="inclusive">1785-1799</unitdate>
+                            <physdesc id="ref295" label="General Physical Description note">Bound in the back of volume 19, "Monographia plantarum Lancastriensis."</physdesc>
+                            <origination label="creator">
+                                <persname rules="aacr" source="naf" role="Author (aut)">Muhlenberg, Henry, 1753-1815</persname>
+                            </origination>
+                        </did>
+                        <scopecontent id="ref293">
+                            <head>Scope and Contents note</head>
+                            <p>Includes definitions for Delaware Indian words, said to be taken from the Essay of a Delaware Indian and English Spelling Book 1776.</p>
+                        </scopecontent>
+                        <controlaccess>
+                            <subject source="lcsh">Delaware Indians</subject>
+                        </controlaccess>
+                    </c03>
+                </c02>
+                <c02 id="ref199" level="item">
+                    <did>
+                        <unittitle>20. Monographien von Gewächsen aus Lancaster, 1790.</unittitle>
+                        <langmaterial>
+                            <language langcode="ger"/>
+                        </langmaterial>
+                        <container id="cid5925" type="Volume" label="Manuscripts">1</container>
+                        <physdesc>
+                            <extent>1.0 Volume(s)</extent>
+                        </physdesc>
+                        <unitdate normal="1790/1790">1790</unitdate>
+                        <physdesc id="ref200" label="General Physical Description note">1 volume.</physdesc>
+                        <langmaterial id="ref201" label="Language of Materials note">In German.</langmaterial>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf" role="Author (aut)">Muhlenberg, Henry, 1753-1815</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref278">
+                        <head>Scope and Contents note</head>
+                        <p>Old call number 580 M89mo. Volume 2 (#19) in Latin.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref180" level="item">
+                    <did>
+                        <unittitle>21. Natur-tagebuch, 1786.</unittitle>
+                        <langmaterial>
+                            <language langcode="ger"/>
+                        </langmaterial>
+                        <container id="cid5912" type="Volume" label="Manuscripts">1</container>
+                        <physdesc>
+                            <extent>1.0 Volume(s)</extent>
+                        </physdesc>
+                        <unitdate normal="1786/1786">1786</unitdate>
+                        <abstract id="ref181" label="Abstract">Diary for 11 January 20 June, kept irregularly, with descriptions of plants and grasses, record of purchases, medical recipes, comments on weather, etc.</abstract>
+                        <physdesc id="ref182" label="General Physical Description note">1 volume.</physdesc>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf" role="Author (aut)">Muhlenberg, Henry, 1753-1815</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref279">
+                        <head>Scope and Contents note</head>
+                        <p>Old call number 580 M89n.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref193" level="item">
+                    <did>
+                        <unittitle>22. Pflanzen die ich noch nicht nach dem Linn, bestimen kann, weitl, uftich zu meinem eignen Verbessern beschrieben im Jahr 1788.</unittitle>
+                        <langmaterial>
+                            <language langcode="ger"/>
+                        </langmaterial>
+                        <container id="cid5923" type="Volume" label="Manuscripts">1</container>
+                        <physdesc>
+                            <extent>1.0 Volume(s)</extent>
+                        </physdesc>
+                        <unitdate normal="1788/1788">1788</unitdate>
+                        <abstract id="ref194" label="Abstract">Descriptions of plants, from herbs and cassia to cryptogamis, which he has seen but plans at a later date to describe more fully.</abstract>
+                        <physdesc id="ref195" label="General Physical Description note">1 volume. "Nachschrift von Baümen und Stauden, 1787" is bound in the back of the volume.</physdesc>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf" role="Author (aut)">Muhlenberg, Henry, 1753-1815</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref280">
+                        <head>Scope and Contents note</head>
+                        <p>Old call number 580 M89p.</p>
+                    </scopecontent>
+                    <c03 id="ref189" level="item">
+                        <did>
+                            <unittitle>22a. Nachschrift von Baümen und Stauden, 1787.</unittitle>
+                            <langmaterial>
+                                <language langcode="mul"/>
+                            </langmaterial>
+                            <container id="cid5922" type="Volume" label="Manuscripts">1</container>
+                            <physdesc>
+                                <extent>1.0 Volume(s)</extent>
+                                <extent>Bound with volume 22, "Pflanzen die ich noch nicht nach dem Linn."</extent>
+                            </physdesc>
+                            <unitdate normal="1787/1787">1787</unitdate>
+                            <abstract id="ref190" label="Abstract">Description of trees and shrubs, including red cedar, dogwood, acacia, pine, which he had seen growing wild or cultivated in the vicinity of Lancaster, Pa.</abstract>
+                            <langmaterial id="ref191" label="Language of Materials note">Volume is written in German, English, and Latin.</langmaterial>
+                            <physdesc id="ref192" label="General Physical Description note">1 volume, bound in volume 22, "Pflanzen die ich noch nicht nach dem Linn, bestimen kann, weitl, uftich zu meinem eignen Verbessern beschrieben im Jahr 1788."</physdesc>
+                            <origination label="creator">
+                                <persname rules="aacr" source="naf" role="Author (aut)">Muhlenberg, Henry, 1753-1815</persname>
+                            </origination>
+                        </did>
+                        <scopecontent id="ref288">
+                            <head>Scope and Contents note</head>
+                            <p>Old call number 580 M89p.</p>
+                        </scopecontent>
+                    </c03>
+                </c02>
+                <c02 id="ref225" level="item">
+                    <did>
+                        <unittitle>23. Plantae crytogamicae Lancastriensis, 1795.</unittitle>
+                        <langmaterial>
+                            <language langcode="mul"/>
+                        </langmaterial>
+                        <container id="cid5932" type="Volume" label="Manuscripts">1</container>
+                        <physdesc>
+                            <extent>1.0 Volume(s)</extent>
+                        </physdesc>
+                        <unitdate normal="1795/1795">1795</unitdate>
+                        <langmaterial id="ref226" label="Language of Materials note">In Latin and German.</langmaterial>
+                        <physdesc id="ref227" label="General Physical Description note">1 volume.</physdesc>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf" role="Author (aut)">Muhlenberg, Henry, 1753-1815</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref281">
+                        <head>Scope and Contents note</head>
+                        <p>Old call number 586 M89p.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref177" level="item">
+                    <did>
+                        <unittitle>24. Sammlung von Beiträgen zur Kenntnis der Natur, 1785-1804.</unittitle>
+                        <langmaterial>
+                            <language langcode="ger"/>
+                        </langmaterial>
+                        <container id="cid5911" type="Volume" label="Manuscripts">1</container>
+                        <physdesc>
+                            <extent>1.0 Volume(s)</extent>
+                        </physdesc>
+                        <unitdate normal="1785/1804" type="inclusive">1785-1804</unitdate>
+                        <abstract id="ref178" label="Abstract">A collection of notes and articles on natural history, especially that of Pennsylvania; description of Lancaster, Pa.; observations on agriculture; lists of plants and herbs, etc.</abstract>
+                        <physdesc id="ref179" label="General Physical Description note">1 volume. "Agricultural journal, 1786" is bound in the same volume.</physdesc>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf" role="Author (aut)">Muhlenberg, Henry, 1753-1815</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref282">
+                        <head>Scope and Contents note</head>
+                        <p>Old call number 580 M89a.</p>
+                    </scopecontent>
+                    <c03 id="ref183" level="item">
+                        <did>
+                            <unittitle>24a. Agricultural journal, 1786.</unittitle>
+                            <langmaterial>
+                                <language langcode="lat"/>
+                            </langmaterial>
+                            <container id="cid5913" type="Volume" label="Manuscripts">1</container>
+                            <physdesc>
+                                <extent>1.0 Volume(s)</extent>
+                                <extent>Bound with volume 24, "Sammlung von Beitragen zur Kenntnis der Natur."</extent>
+                            </physdesc>
+                            <unitdate normal="1786/1786">1786</unitdate>
+                            <abstract id="ref184" label="Abstract">Contents similar to Botanisches Tagebuch, 1784-1785: journal and daybook, lists of botanical specimens, meteorological observations, notes of travel, personal and church affairs, etc.</abstract>
+                            <physdesc id="ref185" label="General Physical Description note">1 volume, bound in volume 24, "Sammlung von Beiträgen zur Kenntnis der Natur, 1785-1804."</physdesc>
+                            <origination label="creator">
+                                <persname rules="aacr" source="naf" role="Author (aut)">Muhlenberg, Henry, 1753-1815</persname>
+                            </origination>
+                        </did>
+                        <scopecontent id="ref289">
+                            <head>Scope and Contents note</head>
+                            <p>Old call number 580 M89a.</p>
+                        </scopecontent>
+                    </c03>
+                </c02>
+                <c02 id="ref58" level="file">
+                    <did>
+                        <unittitle>25. Letter book, as paymaster of the U.S. Army</unittitle>
+                        <physdesc>
+                            <extent>1.0 Volume(s)</extent>
+                        </physdesc>
+                        <unitdate normal="1836/1842" type="inclusive">May 23, Dec. 3, 1836, 1842</unitdate>
+                        <physdesc id="ref59" label="General Physical Description note">8" x 6 1/2"</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Muhlenberg, Peter Gabriel</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref60">
+                        <head>Scope and Contents note</head>
+                        <p>Ms. vol. 299p. (see Muhlenberg family papers). FILM 371 FRAME 9.</p>
+                    </scopecontent>
+                </c02>
+            </c01>
+            <c01 id="ref135" level="series">
+                <did>
+                    <unittitle>Reproductions</unittitle>
+                    <physdesc>
+                        <extent>0.25 ln. ft.</extent>
+                    </physdesc>
+                    <unitdate>18th and 19th century</unitdate>
+                </did>
+                <scopecontent id="ref159">
+                    <head>Scope and Contents note</head>
+                    <p>Photostats of letters from, to, and regarding various members of the Muhlenberg family (Frederick Augustus, Henry Augustus, Gotthilf Henry Ernest, Henry Melchior, Peter, and William Augustus). Correspondents include Stephen Elliott, Thomas Jefferson, and George Washington. Also included are reproductions of the diary and notebook of Gotthilf Henry Ernest Muhlenberg.</p>
+                </scopecontent>
+                <c02 id="ref136" level="file">
+                    <did>
+                        <unittitle>Letters, various correspondents</unittitle>
+                        <physdesc id="ref137" label="General Physical Description note">Photostats.</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Muhlenberg, F. A. (Frederick Augustus), 1818-1901</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref138" level="file">
+                    <did>
+                        <unittitle>Letters to Carey &amp; Hart</unittitle>
+                        <physdesc id="ref139" label="General Physical Description note">Photostats.</physdesc>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Muhlenberg, Henry A.,  (Henry Augustus), 1823-1854 </persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref140" level="file">
+                    <did>
+                        <unittitle>Letters, various correspondents</unittitle>
+                        <physdesc id="ref142" label="General Physical Description note">Photostats.</physdesc>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Muhlenberg, Henry A.,  (Henry Augustus), 1823-1854 </persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref143" level="file">
+                    <did>
+                        <unittitle>Diary</unittitle>
+                        <physdesc id="ref144" label="General Physical Description note">Photostats.</physdesc>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Muhlenberg, Gotthilf Henrich Ernst, 1753-1815</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref145" level="file">
+                    <did>
+                        <unittitle>Letters to Stephen Elliott</unittitle>
+                        <physdesc id="ref146" label="General Physical Description note">Photostats.</physdesc>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Muhlenberg, Gotthilf Henrich Ernst, 1753-1815</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref147" level="file">
+                    <did>
+                        <unittitle>Letters, various correspondents</unittitle>
+                        <physdesc id="ref148" label="General Physical Description note">Photostats.</physdesc>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Muhlenberg, Gotthilf Henrich Ernst, 1753-1815</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref149" level="file">
+                    <did>
+                        <unittitle>Notebook</unittitle>
+                        <physdesc id="ref150" label="General Physical Description note">Photostats.</physdesc>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Muhlenberg, Gotthilf Henrich Ernst, 1753-1815</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref151" level="file">
+                    <did>
+                        <unittitle>Letters, various correspondents</unittitle>
+                        <physdesc id="ref152" label="General Physical Description note">Photostats.</physdesc>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Muhlenberg, Henry Melchior, 1711-1787</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref153" level="file">
+                    <did>
+                        <unittitle>Letters, various correspondents</unittitle>
+                        <unitdate>18th century</unitdate>
+                        <physdesc id="ref154" label="General Physical Description note">Photostats.</physdesc>
+                        <origination label="creator">
+                            <persname rules="local" source="ingest">Muhlenberg, Peter, 1746-1807</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref155" level="file">
+                    <did>
+                        <unittitle>Letters, various correspondents</unittitle>
+                        <unitdate>19th century</unitdate>
+                        <physdesc id="ref156" label="General Physical Description note">Photostats.</physdesc>
+                        <origination label="creator">
+                            <persname rules="local" source="ingest">Muhlenberg, Peter, 1746-1807</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref157" level="file">
+                    <did>
+                        <unittitle>Letters, various correspondents</unittitle>
+                        <physdesc id="ref158" label="General Physical Description note">Photostats.</physdesc>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Muhlenberg, William Augustus, 1796-1877</persname>
+                        </origination>
+                    </did>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

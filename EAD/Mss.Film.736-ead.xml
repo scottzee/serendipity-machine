@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Film.736-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Film.736</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T20:16-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>John Wesley Powell correspondence, 1869-1879, of the Powell Survey</unittitle>
+            <unitid>Mss.Film.736</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1891" type="Reel" label="Microform">1-4</container>
+            <physdesc>
+                <extent>4.0 Microfilm reel(s)</extent>
+            </physdesc>
+            <unitdate normal="1869/1879" type="inclusive">1869-1879</unitdate>
+            <abstract id="ref1" label="Abstract">This correspondence concerning the survey of western lands was received by the United States Geographical and Geological Survey of the Rocky Mountain Region. Also includes a selection of letters sent by the Survey (1876-1878).</abstract>
+            <physdesc id="ref8" label="General Physical Description note">4 microfilm reels.</physdesc>
+            <physloc id="ref9" label="Paging">LH-RR-Media Rm-3</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Powell, John Wesley, 1834-1902</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref7">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by grantee Wallace Earle Stegner and accessioned, 1956 (1956 1051mf). See in-house shelf list for additional accession number.</p>
+        </acqinfo>
+        <bioghist id="ref5">
+            <head>Biographical/Historical note</head>
+            <p>John Wesley Powell was a geologist, ethnologist, and director of the United States Geological Survey; he was elected to the American Philosophical Society in 1889.</p>
+        </bioghist>
+        <originalsloc id="ref3">
+            <head>Existence and Location of Originals note</head>
+            <p>Originals in National Archives, Washington, D.C.</p>
+        </originalsloc>
+        <controlaccess>
+            <persname source="ingest">Agassiz, Alexander, 1835-1910</persname>
+            <persname rules="aacr" source="local">Ayres, E.W.</persname>
+            <persname rules="aacr" source="naf">Baird, Spencer Fullerton, 1823-1887</persname>
+            <persname rules="aacr" source="naf">Coues, Elliott, 1842-1899</persname>
+            <persname source="ingest">Dana, James D. (James Dwight), 1813-1895</persname>
+            <persname rules="aacr" source="naf">Dutton, Clarence E.,  (Clarence Edward), 1841-1912</persname>
+            <persname rules="aacr" source="naf">Gannett, Henry, 1846-1914</persname>
+            <persname rules="aacr" source="naf">Garfield, James A.,  (James Abram), 1831-1881 </persname>
+            <persname rules="aacr" source="naf">Gatschet, Albert S.,  (Albert Samuel), 1832-1907 </persname>
+            <corpname source="ingest">Geographical and Geological Survey of the Rocky Mountain Region (U.S.)</corpname>
+            <persname rules="aacr" source="naf">Gibbs, George C., 1812-1886</persname>
+            <persname source="naf">Guyot, A.,  (Arnold), 1807-1884</persname>
+            <persname rules="aacr" source="naf">Henry, Joseph, 1797-1878</persname>
+            <persname rules="aacr" source="naf">Hewitt, Abram S.,  (Abram Stevens), 1822-1903</persname>
+            <persname source="ingest">King, Clarence, 1842-1901</persname>
+            <persname source="ingest">Leidy, Joseph, 1823-1891</persname>
+            <persname source="naf">Lesley, J. P.,  (J. Peter), 1819-1903</persname>
+            <persname rules="aacr" source="naf">Longfellow, Henry Wadsworth, 1807-1882 </persname>
+            <persname source="naf">Marsh, Othniel Charles, 1831-1899</persname>
+            <persname rules="aacr" source="local">Meek, Fielding B.</persname>
+            <persname rules="aacr" source="naf">Moran, Thomas, 1837-1926</persname>
+            <persname rules="aacr" source="naf">Morgan, Thomas H. </persname>
+            <persname rules="aacr" source="naf">Newberry, J. S.,  (John Strong), 1822-1892</persname>
+            <persname rules="aacr" source="naf">Pilling, James Constantine, 1846-1895</persname>
+            <persname rules="aacr" source="naf">Stevenson, J. J.,  (John J.)</persname>
+            <persname rules="aacr" source="naf">Thompson, A. H.,  (Almon Harris), 1839-1906</persname>
+            <famname source="ingest">Vasey, G. W.</famname>
+            <persname rules="aacr" source="naf">Ward, Lester Frank, 1841-1913</persname>
+            <persname rules="aacr" source="local">Weatherby, A. G.</persname>
+            <persname source="local">Wheeler, George M. (George Mantague), 1842-1905</persname>
+            <persname source="local">Wheeler, Olin D.</persname>
+            <persname source="ingest">Whitney, J. D. (Josiah Dwight), 1819-1896</persname>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

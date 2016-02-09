@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.914.Sm6-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.914.Sm6</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:23-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="item">
+        <did>
+            <unittitle>Thomas P. Smith journal in Europe, 1800-1802</unittitle>
+            <unitid>Mss.914.Sm6</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1027" type="Volume" label="Manuscripts">1-5</container>
+            <physdesc>
+                <extent>5.0 Volume(s)</extent>
+                <extent>5 volumes, ca. 450 p., copy</extent>
+            </physdesc>
+            <unitdate normal="1800/1802" type="inclusive">1800-1802</unitdate>
+            <abstract id="ref1" label="Abstract">This set of journals, copied legibly but with many excisions into the last volume, 914 Sm61, is from a tour of Germany, Denmark, Sweden, France, and England, to inspect technological improvements in manufacturing and mining. There are accounts of visits with C.D. Ebeling, Friedrich Klopstock, J.A.J. Reimarus, Anders Sparmann, and Karl P. Thunberg. Smith bequeathed this journal to the American Philosophical Society with the request that it be published if found to contain information "useful to the manufactories of my country."</abstract>
+            <physdesc id="ref15" label="General Physical Description note">5 volumes, ca. 450 p., copy.</physdesc>
+            <physloc id="ref23" label="Paging">LH-MV-E-12; LH-MV-E-16 (vols. 1-4)</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Smith, Thomas P.,  (Thomas Peters), 1777 or 8-1802</persname>
+            </origination>
+        </did>
+        <bioghist id="ref10">
+            <head>Biographical/Historical note</head>
+            <p>Thomas P. Smith was a chemist and mineralogist, and was elected to the American Philosophical Society in 1799.</p>
+        </bioghist>
+        <custodhist id="ref5">
+            <head>Custodial History note</head>
+            <p>Presented by Thomas P. Smith, 1802; accessioned, 1900. See in-house shelf list for additional accession numbers.</p>
+        </custodhist>
+        <odd id="ref22">
+            <head>Early American History Note</head>
+            <p>These five volumes contain the travel journal of Thomas Peters Smith during his tour through Europe from 1800-1802. He was interested in learning about new technology in Europe. The journals record his observations. He often discusses the engineering developments he sees, sometimes drawing crude diagrams, as well as making observations on European society and culture. Countries visited include Germany, Sweden, Denmark, France, England.</p>
+        </odd>
+        <controlaccess>
+            <persname rules="aacr" source="naf">Ebeling, Christophe Daniel, 1741-1817</persname>
+            <persname rules="aacr" source="naf">Klopstock, Friedrich Gottlieb, 1724-1803</persname>
+            <persname rules="aacr" source="naf">Reimarus, Johann Albert Heinrich, 1729-1814</persname>
+            <persname rules="aacr" source="local">Sparmann, Anders</persname>
+            <persname rules="aacr" source="naf">Thunberg, Carl Peter, 1743-1828</persname>
+            <subject source="leah">Americans Abroad</subject>
+            <geogname source="lcsh">Denmark -- Description and travel.</geogname>
+            <geogname source="lcsh">England -- Description and travel.</geogname>
+            <geogname source="lcsh">France -- Description and travel.</geogname>
+            <geogname source="lcsh">Germany -- Description and travel.</geogname>
+            <subject source="leah">International Travel</subject>
+            <genreform source="lcsh">Journals (notebooks).</genreform>
+            <subject source="lcsh">Manufacturing processes -- Europe.</subject>
+            <subject source="lcsh">Mines and mineral resources -- Europe.</subject>
+            <subject source="leah">Science and Technology</subject>
+            <genreform source="leah">Scientific Data</genreform>
+            <geogname source="lcsh">Sweden -- Description and travel.</geogname>
+            <genreform source="leah">Travel Narratives and Journals</genreform>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref16" level="item">
+                <did>
+                    <unittitle>Thomas P. Smith journal, (May 27-September 11, 1800)</unittitle>
+                    <unitid>Vol. 1</unitid>
+                    <langmaterial>
+                        <language langcode="eng"/>
+                    </langmaterial>
+                    <container id="cid118382" type="Volume" label="Manuscripts">1</container>
+                    <physdesc>
+                        <extent>1.0 Volume(s)</extent>
+                    </physdesc>
+                    <unitdate normal="1800/1800">1800</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref18" level="item">
+                <did>
+                    <unittitle>Thomas P. Smith journal, (September 13, 1800-July 1, 1801)</unittitle>
+                    <unitid>Vol. 2</unitid>
+                    <langmaterial>
+                        <language langcode="eng"/>
+                    </langmaterial>
+                    <container id="cid118383" type="Volume" label="Manuscripts">2</container>
+                    <physdesc>
+                        <extent>1.0 Volume(s)</extent>
+                    </physdesc>
+                    <unitdate normal="1800/1801" type="inclusive">1800-1801</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref19" level="item">
+                <did>
+                    <unittitle>Thomas P. Smith journal, (July 2, 1800-[i.e. 1801]-September 25, 1801)</unittitle>
+                    <unitid>Volume 3</unitid>
+                    <langmaterial>
+                        <language langcode="eng"/>
+                    </langmaterial>
+                    <container id="cid118384" type="Volume" label="Manuscripts">3</container>
+                    <physdesc>
+                        <extent>1.0 Volume(s)</extent>
+                    </physdesc>
+                    <unitdate normal="1800/1801" type="inclusive">1800-1801</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref20" level="item">
+                <did>
+                    <unittitle>Thomas P. Smith journal, (October 10, [1801]-February 19, [1802])</unittitle>
+                    <unitid>Vol. 4</unitid>
+                    <langmaterial>
+                        <language langcode="eng"/>
+                    </langmaterial>
+                    <container id="cid118385" type="Volume" label="Manuscripts">4</container>
+                    <physdesc>
+                        <extent>1.0 Volume(s)</extent>
+                    </physdesc>
+                    <unitdate normal="1801/1802" type="inclusive">1801-1802</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref21" level="item">
+                <did>
+                    <unittitle>Thomas P. Smith journal, 1800-1802</unittitle>
+                    <unitid>914 Sm61</unitid>
+                    <langmaterial>
+                        <language langcode="eng"/>
+                    </langmaterial>
+                    <container id="cid118386" type="Volume" label="Manuscripts">1</container>
+                    <physdesc>
+                        <extent>1.0 Volume(s)</extent>
+                    </physdesc>
+                    <unitdate normal="1800/1802" type="inclusive">1800-1802</unitdate>
+                </did>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

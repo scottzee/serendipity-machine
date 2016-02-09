@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Rec.14-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Rec.14</num>
+                    <num>Mss.Rec.14</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T21:11-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="item">
+        <did>
+            <unittitle>Recordings for study of the Shawnee, Kickapoo, Ojibwa, and Sauk-and-Fox</unittitle>
+            <unitid>Mss.Rec.14</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="mul"/>
+            </langmaterial>
+            <container id="cid13011005" type="Reel" label="Audio">1</container>
+            <physdesc>
+                <extent>1.0 Tape(s)</extent>
+            </physdesc>
+            <unitdate normal="1951/1952" type="inclusive">1951-1952</unitdate>
+            <abstract id="ref2" label="Abstract">Administered tests; Ojibwa text and phrase-by-phrase translation; Shawnee tests, text, and phrase-by-phrase translation.</abstract>
+            <physdesc id="ref3" label="General Physical Description note">1 sound tape reel (45 min.) : analog, 3 3/4 ips, half track, mono ; 5 in.</physdesc>
+            <physloc id="ref25" label="Paging">LH-B-32-1</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="local">Jimerson, Avery</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Pierce, Joe E.</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest">Redeye, Clara</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref4">
+            <head>Immediate Source of Acquisition</head>
+            <p>Donor, Joe E. Pierce, grantee, 1952.</p>
+        </acqinfo>
+        <controlaccess>
+            <subject source="lcsh">Fox language</subject>
+            <subject source="lcsh">Indians of North America--Languages--Classification</subject>
+            <subject source="lcsh">Indians of North America--Languages--Mutual intelligibility</subject>
+            <subject source="lcsh">Kickapoo language</subject>
+            <subject source="lcsh">Ojibwa language</subject>
+            <subject source="lcsh">Shawnee language</subject>
+            <genreform source="ingest">Sound recordings</genreform>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref5" level="series">
+                <did>
+                    <unittitle>Audio recordings</unittitle>
+                </did>
+                <c02 id="ref6" level="file">
+                    <did>
+                        <unittitle>Administered tests 1, 2, 3, and 4</unittitle>
+                        <unitid>01-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1951</unitdate>
+                        <physdesc id="ref7" label="General Physical Description note">
+                            <extent>00:17:06</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Littlecreek, Mr.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Pierce, Joe E.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref8">
+                        <head>Scope and Contents note</head>
+                        <p>A mutual intelligibility study of four languages or dialects. The participant, Mr. Littlecreek--a Shawnee speaker--is asked to translate four short recordings as they are played back. The recordings are, respectively, narratives in 1) Shawnee; 2) Kickapoo; 3) Ojibwa (a.k.a. Chippewa); 4) Sauk-and-Fox (a.k.a. Mesquakie).</p>
+                    </scopecontent>
+                    <originalsloc id="ref10">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0194" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:4105">
+                        <daodesc>
+                            <p>APSdigrec_0194</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Fox language</subject>
+                        <subject source="lcsh">Indians of North America--Languages--Mutual intelligibility</subject>
+                        <subject source="lcsh">Kickapoo language</subject>
+                        <geogname source="ingest">Norman (Okla.)</geogname>
+                        <subject source="lcsh">Ojibwa language</subject>
+                        <subject source="lcsh">Shawnee language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref11" level="file">
+                    <did>
+                        <unittitle>A story about the old custom of fasting</unittitle>
+                        <unitid>01-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1951</unitdate>
+                        <physdesc id="ref12" label="General Physical Description note">
+                            <extent>00:07:55</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Elk, Mr.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Pierce, Joe E.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref13">
+                        <head>Scope and Contents note</head>
+                        <p>Phrase-by-phrase translation into English by Mr. Elk of a played-back recording made by him in Chippewa/Ojibwe.</p>
+                    </scopecontent>
+                    <originalsloc id="ref15">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0195" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:4108">
+                        <daodesc>
+                            <p>APSdigrec_0195</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Fasting</subject>
+                        <geogname source="ingest">Mount Pleasant (Mich.)</geogname>
+                        <subject source="lcsh">Ojibwa Indians--Social life and customs</subject>
+                        <subject source="ingest">Puberty rites</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref16" level="file">
+                    <did>
+                        <unittitle>Administered tests 1, 2, 3, and 4</unittitle>
+                        <unitid>01-03</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1951</unitdate>
+                        <physdesc id="ref17" label="General Physical Description note">
+                            <extent>00:14:33</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Littlecreek, Mrs.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Pierce, Joe E.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref18">
+                        <head>Scope and Contents note</head>
+                        <p>A mutual intelligibility study of four languages or dialects. The participant, Mrs. Littlecreek, a Shawnee speaker, is asked to translate four short recordings as they are played back. The recordings are, respectively, narratives in 1) Shawnee; 2) Kickapoo; 3) Ojibwe; 4) Sauk-and-Fox (a.k.a. Mesquakie).</p>
+                    </scopecontent>
+                    <originalsloc id="ref20">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0196" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:4107">
+                        <daodesc>
+                            <p>APSdigrec_0196</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Fox language</subject>
+                        <subject source="lcsh">Indians of North America--Languages--Mutual intelligibility</subject>
+                        <subject source="lcsh">Kickapoo language</subject>
+                        <geogname source="ingest">Norman (Okla.)</geogname>
+                        <subject source="lcsh">Ojibwa language</subject>
+                        <subject source="lcsh">Shawnee language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref21" level="file">
+                    <did>
+                        <unittitle>Phrase-by-phrase translation of a Shawnee text</unittitle>
+                        <unitid>01-04</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1951</unitdate>
+                        <physdesc id="ref22" label="General Physical Description note">
+                            <extent>00:05:11</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Littlecreek, Mrs.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Pierce, Joe E.</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref24">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0197" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:4109">
+                        <daodesc>
+                            <p>APSdigrec_0197</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Norman (Okla.)</geogname>
+                        <subject source="lcsh">Shawnee language</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

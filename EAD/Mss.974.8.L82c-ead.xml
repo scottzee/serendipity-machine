@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.974.8.L82c-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.974.8.L82c</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:27-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>The claims of the proprietors of Maryland and Pensilvania stated, [ca. 1714-1715]</unittitle>
+            <unitid>Mss.974.8.L82c</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1134" type="Volume" label="Manuscripts">1-2</container>
+            <physdesc>
+                <extent>2.0 Volume(s)</extent>
+                <extent>1 volume, 12 p.; second copy, 16 p.</extent>
+            </physdesc>
+            <unitdate normal="1714/1715" type="inclusive">Circa 1714-1715</unitdate>
+            <abstract id="ref1" label="Abstract">This volume describes the boundary dispute between William Penn and Baron Cecil Calvert Baltimore over land in Maryland, Pennsylvania, and the counties of Newcastle, Kent, and Sussex.</abstract>
+            <physdesc id="ref10" label="General Physical Description note">1 volume, 12 p.; second copy, 16 p.</physdesc>
+            <physloc id="ref12" label="Paging">LH-MV-E-13</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Logan, James, 1674-1751</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref9">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by Dr. and Mrs. George Logan, 1817; accessioned, 1900.</p>
+        </acqinfo>
+        <altformavail id="ref5">
+            <head>Existence and Location of Copies note</head>
+            <p>Printed in "The Register of Pennsylvania," Samuel Hazard, ed. (Philadelphia: William F. Geddes, 1830) vol. 5, p. 405.</p>
+        </altformavail>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>James Logan was a colonial statesman and scholar, and served as secretary of the Province of Pennsylvania and clerk of the Provincial Council from 1701 to 1717.</p>
+        </bioghist>
+        <odd id="ref11">
+            <head>Early American History Note</head>
+            <p>James Logan was a leading official in the proprietary interests, and this collection contains his letters that touch on all matter relating to the interests of the colony and especially the proprietor. This specific volume has letters and other documents detailing the legal case as it related to the Maryland-Pennsylvania boundary dispute. Although many of the volumes in the Logan collection are transcriptions, this document appears to be an original.</p>
+        </odd>
+        <controlaccess>
+            <persname rules="aacr" source="naf">Baltimore, Cecil Calvert, Baron, ca. 1605-1675</persname>
+            <persname source="ingest">Penn, William,1644-1718.</persname>
+            <subject source="lcsh">Boundary disputes.</subject>
+            <subject source="leah">Colonial Politics</subject>
+            <subject source="leah">Government Affairs</subject>
+            <geogname source="lcsh">Kent County (Del.).</geogname>
+            <geogname source="lcsh">Maryland -- Boundaries.</geogname>
+            <subject source="leah">Native America</subject>
+            <geogname source="lcsh">New-Castle County (Pa.).</geogname>
+            <genreform source="leah">Official Government Documents and Records</genreform>
+            <geogname source="lcsh">Pennsylvania -- Boundaries.</geogname>
+            <subject source="leah">Pennsylvania History</subject>
+            <genreform source="leah">Political Correspondence</genreform>
+            <geogname source="lcsh">Sussex County (N.J.).</geogname>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

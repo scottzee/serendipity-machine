@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.F832-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.F832</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T19:17-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>George Fox letterbook, 1786-1797</unittitle>
+            <unitid>Mss.B.F832</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1282" type="Volume" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>1.0 Volume(s)</extent>
+                <extent>1 volume, 176 p.</extent>
+            </physdesc>
+            <unitdate normal="1786/1797" type="inclusive">1786-1797</unitdate>
+            <physdesc id="ref7" label="General Physical Description note">1 volume, 176 p.</physdesc>
+            <abstract id="ref1" label="Abstract">These letters are mainly business correspondence with his friend William Temple Franklin or are about Franklin's lands and investments in the United States.</abstract>
+            <physloc id="ref9" label="Paging">LH-MV-E-1</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="local" role="Author (aut)">Fox, George, 1759-1828</persname>
+            </origination>
+        </did>
+        <odd id="ref8">
+            <head>Early American History Note</head>
+            <p>This letter book contains the correspondence of George Fox, a prominent Philadelphian and associate of William Temple Franklin, for the years 1786-1797. Fox corresponded with William Temple Franklin extensively and discussed financial and political matters. Lands owned by Franklin and Fox in western Pennsylvania were frequently discussed, as were other investments and speculations. For much of this period, Franklin was in Europe and Fox served as Franklin’s business representative in Pennsylvania.</p>
+        </odd>
+        <acqinfo id="ref5">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Transferred from the American Philosophical Society Archives and accessioned, 12/25/1948 (86715).</p>
+            <p></p>
+        </acqinfo>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>George Fox was a Philadelphia physician and man of affairs.</p>
+        </bioghist>
+        <controlaccess>
+            <persname rules="aacr" source="naf">Barclay, Robert</persname>
+            <persname rules="aacr" source="naf">Constable, William, 1721-1791</persname>
+            <persname source="ingest">Cooper, William, 1776-1848</persname>
+            <persname rules="aacr" source="naf">Franklin, William Temple, 1760-1823</persname>
+            <persname source="naf">Hand, Edward, 1744-1802</persname>
+            <persname rules="aacr" source="naf">Hartley, Thomas, 1708-1784</persname>
+            <famname source="ingest">Higgins, Jesse.</famname>
+            <persname source="ingest">Jones, N. Cantwell</persname>
+            <persname rules="aacr" source="naf">Kelly, John, 1763-1848</persname>
+            <persname rules="aacr" source="local">Millegan, Robert</persname>
+            <persname source="naf">Morris, Gouverneur, 1752-1816</persname>
+            <persname rules="aacr" source="naf">Pearce, Matthew</persname>
+            <persname rules="aacr" source="naf">Read, George, 1733-1798</persname>
+            <persname rules="aacr" source="local">Schenk, Cornelius</persname>
+            <persname rules="aacr" source="naf">Williamson, John, 1751?-1801</persname>
+            <genreform source="leah">Business Records and Accounts</genreform>
+            <subject source="leah">Land and Speculation</subject>
+            <genreform source="leah">Legal Records</genreform>
+            <genreform source="lcsh">Letterbooks.</genreform>
+            <geogname source="lcsh">Philadelphia (Pa.) -- Commerce.</geogname>
+            <subject source="lcsh">Real property -- Pennsylvania.</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

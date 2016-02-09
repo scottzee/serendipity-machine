@@ -1,0 +1,548 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Film.283-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Film.283</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney. Revised by Friederike Baer (NEH 2010).</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T20:14-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>William Maclure letters, 1817-1838, to Benjamin Silliman</unittitle>
+            <unitid>Mss.Film.283</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1824" type="Reel" label="Microform">1</container>
+            <physdesc>
+                <extent>1.0 Microfilm reel(s)</extent>
+            </physdesc>
+            <unitdate normal="1817/1838" type="inclusive">1817-1838</unitdate>
+            <physdesc id="ref7" label="General Physical Description note">1 microfilm reel.</physdesc>
+            <physloc id="ref79" label="Paging">LH-RR-Media Rm-1</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Maclure, William, 1763-1840</persname>
+            </origination>
+        </did>
+        <scopecontent id="ref71">
+            <head>Scope and Contents note</head>
+            <p>The collection consists of letters from William Maclure to Benjamin Silliman. They are dated between 1817 and 1838. While two letters were sent from the United States, most of them were dispatched from foreign locations, including France, Ireland, Mexico, Spain, and England. Maclure’s letters deal a wide range of topics, such as geology, education, politics, social issues, learned societies, and personal matters.</p>
+        </scopecontent>
+        <userestrict id="ref77">
+            <head>Conditions Governing Use note</head>
+            <p>Note on cards: Restricted.</p>
+        </userestrict>
+        <odd id="ref78">
+            <head>Early American History Note</head>
+            <p>This is a microfilm of an early American collection that may be of interest to researchers at the APS and may complement an original manuscript collection at the APS.</p>
+        </odd>
+        <acqinfo id="ref6">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Acquired from Yale University Library and accessioned, 1946.</p>
+        </acqinfo>
+        <bioghist id="ref4">
+            <head>Biographical/Historical note</head>
+            <p>William Maclure (1763-1840, APS 1799) was a merchant and geologist. In addition to serving as president of the Academy of Natural Sciences of Philadelphia (1817-1840), he introduced Pestalozzian methods of education in the United States, and also founded a school in Robert Owen's utopian community in New Harmony, Indiana.</p>
+            <p>Maclure was born in Ayr, Scotland on October 27, 1763 to David and Ann Maclure and educated by private tutors. He traveled to the United States in 1782 to establish “mercantile arrangements,” and returned to London as a partner in the commercial firm of Miller, Hart and Company, soon amassing a fortune. As a merchant, he traveled between Europe and America, but also spent several years traveling around the European continent, including Scandinavia and Russia. He observed geological features and studied with geologists in several countries. In Paris, for example, he met Count Volney, who discussed American geology with him. Maclure returned to the United States in 1796, and examined its geologic formations, as he crossed “the dividing lines of the principal formations in 15 or 20 different places.” In 1809 he published a report with a colored map, entitled “Observations on the Geology of the United States, Explanatory of a Geological Map” in the 
+                <emph render="italic">Transactions</emph> of the American Philosophical Society.</p>
+            <p>In 1815 Maclure traveled to France, where he met the artist-naturalist Charles Alexandre Lesueur. He persuaded Lesueur to return to America with him as his personal cartographer-naturalist. During the winter of 1815-1816, they investigated the geology and natural history of the West Indies, then moved the U.S. mainland, crossing the Allegheny Mountains in order to collect specimens and to revise Maclure’s geologic map. Late the following year, from December 1817 to April 1818, Maclure organized an expedition of Georgia and Spanish Florida, that included Lesueur and the Americans Thomas Say, Titian Peale and George Ord.</p>
+            <p>From 1820-1824 Maclure lived on and developed an estate he purchased in Spain. This property was confiscated in 1824, and Maclure returned to the United States to join the Scottish utopian socialist Robert Owen in the establishment of the New Harmony community in Indiana. Maclure invested $82,000 in the project. Several years later in 1827 he first visited Mexico, and later moved there to live out the remaining years of his life.</p>
+            <p>Maclure’s best known work is the 
+                <emph render="italic">Observations on the Geology of the United States</emph>, which was the “first connected account” (originally) written in English. He expanded and revised the original as a separate volume in 1817. In this work he divided the country into geologic areas of “primitive rocks,” “transition rocks,” “floetz and secondary rocks” and “alluvial rocks.” Maclure’s 1818 “Essay on the Formation of Rocks ...” is also important for its explanation of his terminology and his theory on the origin of rocks. Finally, his brief 1838 paper entitled “Genealogy of the Earth-Geological Observations” has been described as the most “philosophical” of his geological writings. In this work he adopted the theory of Lamarckian evolution, and explained his belief in organic and inorganic development through a gradual series of “minute changes,” rather than catastrophes or large jumps. He rejected the aqueous theory of the origin of primitive rocks, but was uncertain about their actual origin, thinking perhaps they might be diverse in origin.</p>
+            <p>Maclure was not only a great geological observer and maker of important maps, he provided significant support for scientists and scientific organizations. He was one of the founders of the Academy of Natural Sciences of Philadelphia, and its president from 1817 until his death in 1840.</p>
+        </bioghist>
+        <originalsloc id="ref2">
+            <head>Existence and Location of Originals note</head>
+            <p>Originals in Yale University Library.</p>
+        </originalsloc>
+        <controlaccess>
+            <persname rules="aacr" source="naf">Silliman, Benjamin, Sr., 1779-1864</persname>
+            <subject source="lcsh">Geology.</subject>
+            <genreform source="leah">Microfilm Collection</genreform>
+            <subject source="lcsh">Natural history.</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref8" level="series">
+                <did>
+                    <unittitle>Correspondence</unittitle>
+                </did>
+                <c02 id="ref13" level="file">
+                    <did>
+                        <unittitle>Letter to [Benjamin] Silliman, New Haven</unittitle>
+                        <unitid>28</unitid>
+                        <unitdate>July 15, 1817</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Maclure, William, 1763-1840</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref14">
+                        <head>Scope and Contents note</head>
+                        <p>Philadelphia, Micr. of A.L.S. 1p. and add., end. Forwards minerals. On same sheet is receipt by H. G. Street to David Peters [July 1817]. Restricted. Table of contents available.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref11" level="file">
+                    <did>
+                        <unittitle>Receipt to David Peters</unittitle>
+                        <unitid>28</unitid>
+                        <unitdate>July, 1817</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Street, H. G.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref12">
+                        <head>Scope and Contents note</head>
+                        <p>Micr. of A.D.S. 1p. Receipt for packages. On same sheet as letter from Wm. Maclure to B. Silliman; July 15, 1817. Restricted.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref15" level="file">
+                    <did>
+                        <unittitle>Letter to [Benjamin] Silliman, New Haven</unittitle>
+                        <unitid>26</unitid>
+                        <unitdate>Aug. 19, 1820</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Maclure, William, 1763-1840</persname>
+                        </origination>
+                    </did>
+                    <odd id="ref72">
+                        <head>General note</head>
+                        <p>Printed in part: Am. Jour.of Sci.,III, 363.</p>
+                    </odd>
+                    <scopecontent id="ref16">
+                        <head>Scope and Contents note</head>
+                        <p>Paris, Micr. of A.L.S. 3p. and add., end. Restricted.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref17" level="file">
+                    <did>
+                        <unittitle>Letter to [Benjamin] Silliman, New Haven</unittitle>
+                        <unitid>29</unitid>
+                        <unitdate>Dec. 4, 1821</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Maclure, William, 1763-1840</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref18">
+                        <head>Scope and Contents note</head>
+                        <p>Madrid, Micr. of A.L.S. 4p., add., end. List of books sent and to be sent. Education and geology in the U.S. Mentions Lesueur and Duane. Restricted.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref19" level="file">
+                    <did>
+                        <unittitle>Letter to [Benjamin] Silliman, New Haven</unittitle>
+                        <unitid>30</unitid>
+                        <unitdate>July 9, 1822</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Maclure, William, 1763-1840</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref20">
+                        <head>Scope and Contents note</head>
+                        <p>Madrid, Micr. of A.L.S. 3p. and add., end. Mutilated. Revolution in Spain. Lists works forwarded to Webster and Lesueur. Restricted.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref9" level="file">
+                    <did>
+                        <unittitle>Letter to [Benjamin] Silliman, New Haven</unittitle>
+                        <unitid>27</unitid>
+                        <unitdate>Aug. 20, [1822]</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Maclure, William, 1763-1840</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref10">
+                        <head>Scope and Contents note</head>
+                        <p>Madrid, Micr. of A.L.S. 1p. and add., end. Geology. Restricted.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref21" level="file">
+                    <did>
+                        <unittitle>Letter to [Benjamin] Silliman, New Haven</unittitle>
+                        <unitid>25</unitid>
+                        <unitdate>Feb. 8, 1823</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Maclure, William, 1763-1840</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref22">
+                        <head>Scope and Contents note</head>
+                        <p>Alicant, Micr. of A.L.S. 1p. and add., end. Lists books sent. English geology. Mentions Webster. Restricted.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref23" level="file">
+                    <did>
+                        <unittitle>Letter to [Benjamin] Silliamn, New Haven</unittitle>
+                        <unitid>24</unitid>
+                        <unitdate>March 24, 1823</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Maclure, William, 1763-1840</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref24">
+                        <head>Scope and Contents note</head>
+                        <p>Alicant, Micr. of A.L.S. 3p. and add., end. Lists what has been shipped from Europe. Geology. Hope of America. Mentions Webster. Restricted.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref25" level="file">
+                    <did>
+                        <unittitle>Letter to [Benjamin] Silliman, New Haven</unittitle>
+                        <unitid>22</unitid>
+                        <unitdate>Sept. 16, 1823</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Maclure, William, 1763-1840</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref26">
+                        <head>Scope and Contents note</head>
+                        <p>Alicant, Micr. of A.L.S. 3p. and add., end. Geology. Social conditions in Europe. Education. Restricted.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref27" level="file">
+                    <did>
+                        <unittitle>Letter to [Benjamin] Silliman, New Haven</unittitle>
+                        <unitid>23</unitid>
+                        <unitdate>Nov. 30, 1823</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Maclure, William, 1763-1840</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref28">
+                        <head>Scope and Contents note</head>
+                        <p>Alicant, Micr. of A.L.S. 3p. and add., end. Geology. Need for education. Mentions Webster and Duane. Restricted.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref29" level="file">
+                    <did>
+                        <unittitle>Letter to [Benjamin] Silliman, New Haven</unittitle>
+                        <unitid>16</unitid>
+                        <unitdate>June 16, 1824</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Maclure, William, 1763-1840</persname>
+                        </origination>
+                    </did>
+                    <odd id="ref73">
+                        <head>General note</head>
+                        <p>Printed in part under date of June 30, 1824: Am. Jour. of Science, IX, 157-160.</p>
+                    </odd>
+                    <scopecontent id="ref30">
+                        <head>Scope and Contents note</head>
+                        <p>Dublin, Micr. of A.L.S. 4p., add. Restricted.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref31" level="file">
+                    <did>
+                        <unittitle>Letter to [Benjamin] Silliman, New Haven</unittitle>
+                        <unitid>13</unitid>
+                        <unitdate>June 30, 1824</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Maclure, William, 1763-1840</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref32">
+                        <head>Scope and Contents note</head>
+                        <p>Dublin, Micr. of A.L.S. 1p. and add., end. Geology in Ireland. Restricted.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref33" level="file">
+                    <did>
+                        <unittitle>Letter to [Benjamin] Silliman, New Haven</unittitle>
+                        <unitid>21</unitid>
+                        <unitdate>Sept. 10, 1824</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Maclure, William, 1763-1840</persname>
+                        </origination>
+                    </did>
+                    <odd id="ref74">
+                        <head>General note</head>
+                        <p>Printed in part: Am. Journal of Science, IX, 160-161.</p>
+                    </odd>
+                    <scopecontent id="ref34">
+                        <head>Scope and Contents note</head>
+                        <p>London, Micr. of A.L.S. 3p. and add., end. Restricted.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref35" level="file">
+                    <did>
+                        <unittitle>Letter to [Benjamin] Silliman, New Haven</unittitle>
+                        <unitid>20</unitid>
+                        <unitdate>Nov. 9, 1824</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Maclure, William, 1763-1840</persname>
+                        </origination>
+                    </did>
+                    <odd id="ref75">
+                        <head>General note</head>
+                        <p>Printed in part: Am. Jour.of Science, IX, 163-164.</p>
+                    </odd>
+                    <scopecontent id="ref36">
+                        <head>Scope and Contents note</head>
+                        <p>Paris, Micr. of A.L.S. 4p., add., end. Restricted.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref37" level="file">
+                    <did>
+                        <unittitle>Letter to [Benjamin] Silliman, New Haven</unittitle>
+                        <unitid>18</unitid>
+                        <unitdate>Jan. 10, 1825</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Maclure, William, 1763-1840</persname>
+                        </origination>
+                    </did>
+                    <odd id="ref76">
+                        <head>General note</head>
+                        <p>Printed in part: Am. Jour.of Science, IX, 255-256.</p>
+                    </odd>
+                    <scopecontent id="ref38">
+                        <head>Scope and Contents note</head>
+                        <p>Paris, Micr. of A.L.S. 4p., add., end. Mutilated and badly blurred. Restricted.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref39" level="file">
+                    <did>
+                        <unittitle>Letter to [Benjamin] Silliman, New Haven</unittitle>
+                        <unitid>11</unitid>
+                        <unitdate>March 12, 1825</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Maclure, William, 1763-1840</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref40">
+                        <head>Scope and Contents note</head>
+                        <p>Paris, Micr. of A.L.S. 2p., add., end. Education. Restricted.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref41" level="file">
+                    <did>
+                        <unittitle>Letter to [Benjamin] Silliman, New Haven</unittitle>
+                        <unitid>19</unitid>
+                        <unitdate>March 16, 1826</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Maclure, William, 1763-1840</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref42">
+                        <head>Scope and Contents note</head>
+                        <p>New Harmony, Indiana, Micr. of A.L.S. 1p. and add. Mutilated. Compares west to east in use of common sense. Restricted.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref43" level="file">
+                    <did>
+                        <unittitle>Letter to [Benjamin] Silliman, New Haven</unittitle>
+                        <unitid>17</unitid>
+                        <unitdate>March 5, 1829</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Maclure, William, 1763-1840</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref44">
+                        <head>Scope and Contents note</head>
+                        <p>Mexico, Micr. of A.L.S. 2p., add., end. Geology and current day Mexico. Mentions Joel R. Poinsett. Restricted.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref45" level="file">
+                    <did>
+                        <unittitle>Letter to [Benjamin] Silliman, New Haven</unittitle>
+                        <unitid>12</unitid>
+                        <unitdate>May 30, 1830</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Maclure, William, 1763-1840</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref46">
+                        <head>Scope and Contents note</head>
+                        <p>Mexico, Micr. of A.L.S. 2p., add., end. Mexico. Friendly letter. Restricted.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref47" level="file">
+                    <did>
+                        <unittitle>Letter to [Benjamin] Silliman, New Haven</unittitle>
+                        <unitid>14</unitid>
+                        <unitdate>July 26, 1834</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Maclure, William, 1763-1840</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref48">
+                        <head>Scope and Contents note</head>
+                        <p>Mexico, Micr. of A.L.S. 4p., add., end. Geology of Mexico. Restricted.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref49" level="file">
+                    <did>
+                        <unittitle>Letter to [Benjamin] Silliman, New Haven</unittitle>
+                        <unitid>10</unitid>
+                        <unitdate>Aug. 10, 1835</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Maclure, William, 1763-1840</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref50">
+                        <head>Scope and Contents note</head>
+                        <p>Mexico, Micr. of A.L.S. 2p., add., end. Scientific news. Mentions Mr. Say and Lesueur. Restricted.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref51" level="file">
+                    <did>
+                        <unittitle>Letter to [Benjamin] Silliman, New Haven</unittitle>
+                        <unitid>9</unitid>
+                        <unitdate>Sept. 5, 1835</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Maclure, William, 1763-1840</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref52">
+                        <head>Scope and Contents note</head>
+                        <p>Mexico, Micr. of A.L.S. 4p., add., end. Mexico. Minerals. Slavery. Restricted.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref53" level="file">
+                    <did>
+                        <unittitle>Letter to [Benjamin] Silliman, New Haven</unittitle>
+                        <unitid>9</unitid>
+                        <unitdate>Oct. 30, 1835</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Maclure, William, 1763-1840</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref54">
+                        <head>Scope and Contents note</head>
+                        <p>Mexico, Micr. of A.L.S. 2p., add., end. Learned societies. Friendly letter. Restricted.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref55" level="file">
+                    <did>
+                        <unittitle>Letter to [Benjamin] Silliman, New Haven</unittitle>
+                        <unitid>15</unitid>
+                        <unitdate>Jan. 24, 1836</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Maclure, William, 1763-1840</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref56">
+                        <head>Scope and Contents note</head>
+                        <p>Micr. of A.L.S. 2p., add., end. Disposition of his library. Geology. Education. Mentions New Harmony, Mr.Say. Restricted.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref57" level="file">
+                    <did>
+                        <unittitle>Letter to [Benjamin] Silliman, New Haven</unittitle>
+                        <unitid>6</unitid>
+                        <unitdate>July 25, 1836</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Maclure, William, 1763-1840</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref58">
+                        <head>Scope and Contents note</head>
+                        <p>Mexico, Micr. of A.L.S. 2p., add., end. Shipment of books and material. Education and Academy of Nat. Sci. of Phila. Restricted.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref59" level="file">
+                    <did>
+                        <unittitle>Letter to [Benjamin] Silliman, New Haven</unittitle>
+                        <unitid>7</unitid>
+                        <unitdate>Aug. 23, 1836</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Maclure, William, 1763-1840</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref60">
+                        <head>Scope and Contents note</head>
+                        <p>Mexico, Micr. of A.L.S. 2p., add., end. Education. Donation to Academy of Natural Sciences of Philadelphia. Restricted.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref61" level="file">
+                    <did>
+                        <unittitle>Letter to [Benjamin] Silliman, New Haven</unittitle>
+                        <unitid>5</unitid>
+                        <unitdate>Nov. 4, 1836</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Maclure, William, 1763-1840</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref62">
+                        <head>Scope and Contents note</head>
+                        <p>Mexico, Micr. of A.L.S. 2p., add., end. Geology. Education. Restricted.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref63" level="file">
+                    <did>
+                        <unittitle>Letter to [Benjamin] Silliman, New Haven</unittitle>
+                        <unitid>4</unitid>
+                        <unitdate>Jan. [June?] 3, 1837</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Maclure, William, 1763-1840</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref64">
+                        <head>Scope and Contents note</head>
+                        <p>Mexico, Micr. of A.L.S. 2p., add., end. Education. Acad. of Nat. Sciences of Phila. Restricted.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref65" level="file">
+                    <did>
+                        <unittitle>Letter to [Benjamin] Silliman, New Haven</unittitle>
+                        <unitid>3</unitid>
+                        <unitdate>Sept., 1837</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Maclure, William, 1763-1840</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref66">
+                        <head>Scope and Contents note</head>
+                        <p>Mexico, Micr. of A.L.S. 2p., add., end. Education. Concerning New Harmony, Ind. Restricted.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref67" level="file">
+                    <did>
+                        <unittitle>Letter to [Benjamin] Silliman, New Haven</unittitle>
+                        <unitid>2</unitid>
+                        <unitdate>Nov. 4, 1837</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Maclure, William, 1763-1840</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref68">
+                        <head>Scope and Contents note</head>
+                        <p>Mexico, Micr. of A.L.S. 2p., add., end. Magnetism. Concerning South and Central America. Restricted.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref69" level="file">
+                    <did>
+                        <unittitle>Letter to [Benjamin] Silliman, New Haven</unittitle>
+                        <unitid>1</unitid>
+                        <unitdate>Jan. 20, 1838</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Maclure, William, 1763-1840</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref70">
+                        <head>Scope and Contents note</head>
+                        <p>Mexico, Micr. of A.L.S. 1p. and add., end. Economics. Pursuit of knowledge. Restricted.</p>
+                    </scopecontent>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

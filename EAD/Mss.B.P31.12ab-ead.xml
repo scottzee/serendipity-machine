@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.P31.12ab</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T19:52-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc audience="internal" level="collection">
+        <did>
+            <unittitle>Rubens Peale letterbooks, 1802-1814, 1824</unittitle>
+            <unitid>Mss.B.P31.12ab</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1466" type="Volume" label="Manuscripts">1-2</container>
+            <physdesc>
+                <extent>2.0 Volume(s)</extent>
+                <extent>2 volumes, 77 p.</extent>
+            </physdesc>
+            <unitdate normal="1802/1814" type="bulk">Bulk, 1802-1814</unitdate>
+            <unitdate normal="1802/1824" type="inclusive">1802-1824</unitdate>
+            <physdesc id="ref8" label="General Physical Description note">2 volumes, 77 p.</physdesc>
+            <abstract id="ref1" label="Abstract">These are chiefly letters to members of his family on the business of the museums in Philadelphia, New York, and London. The letters of 1824 are press copies, chiefly to Charles Willson Peale and Benjamin Franklin Peale about the Baltimore museum.</abstract>
+            <physloc id="ref11" label="Paging">LH-MV-E-4</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Peale, Rubens, 1784-1865</persname>
+            </origination>
+        </did>
+        <odd id="ref9">
+            <head>Early American History Note</head>
+            <p>These two letterbooks contain the correspondence of Reubens Peale primarily to his family. One dates from 1802-1814. In it, Reubens discusses a variety of topics. Some letters describe his social life and current events, while many others deal with museum issues. One letter, written from England, details a magic trick he witnessed that he thought would be popular in the museum.</p>
+            <p>The second volume (b) is much smaller and contains carbon copies of letters dated from Baltimore in 1824. These letters are primarily to family members and sometimes business associates. They chronicle Reubens’ life as the head of the Baltimore Museum.</p>
+        </odd>
+        <odd id="ref10">
+            <head>Administrative Note</head>
+            <p>This record is superseded by, and included in, B P31. It was marked “internal only” in Dec., 2010 and is being kept in the case that it is needed for future administrative needs.</p>
+        </odd>
+        <acqinfo id="ref7">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Purchased from Charles Coleman Sellers and accessioned, 1945 (1945 85112).</p>
+            <p></p>
+        </acqinfo>
+        <altformavail id="ref5">
+            <head>Existence and Location of Copies note</head>
+            <p>The papers of C. W. Peale and his family have been reproduced almost in their entirety in microfiche form (Lillian B. Miller, ed. "Collected papers of Charles Willson Peale and his family." Kraus Microfilm, 1980).</p>
+        </altformavail>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>Rubens Peale managed his father's museum in Philadelphia from 1810 to 1822. At that time, he bought his brother Rembrandt's controlling interest in the Peale Museum in Baltimore. He also opened branches in New York City and in Utica, New York. He eventually sold his collection to P. T. Barnum.</p>
+        </bioghist>
+        <controlaccess>
+            <corpname rules="aacr" source="naf">Peale's Museum (Philadelphia, Pa.).</corpname>
+            <persname rules="aacr" source="naf">Peale, Charles Willson, 1741-1827</persname>
+            <persname source="ingest">Peale, Franklin,1795-1870.</persname>
+            <subject source="leah">Americans Abroad</subject>
+            <subject source="leah">Business and Skilled Trades</subject>
+            <genreform source="leah">Business Records and Accounts</genreform>
+            <genreform source="leah">Family Correspondence</genreform>
+            <subject source="leah">International Travel</subject>
+            <subject source="leah">Literature, Arts, and Culture</subject>
+            <subject source="leah">Marriage and Family Life</subject>
+            <subject source="lcsh">Museums -- England -- London -- History -- 19th century.</subject>
+            <subject source="lcsh">Museums -- Maryland -- Baltimore.</subject>
+            <subject source="lcsh">Museums -- New York (State) -- New York.</subject>
+            <subject source="lcsh">Museums -- Pennsylvania -- Philadelphia.</subject>
+            <subject source="lcsh">Natural history.</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.572.2.T2li.b</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:19-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>An inaugural disputation, concerning the varieties of the human race, July 1800, 1830</unittitle>
+            <unitid>Mss.572.2.T2li.b</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid941" type="Volume" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>1.0 Volume(s)</extent>
+                <extent>1 translation, 34 p. </extent>
+            </physdesc>
+            <unitdate normal="1830/1830">1830</unitdate>
+            <abstract id="ref1" label="Abstract">This is Taylor's dissertation for the degree of Doctor of Medicine from the University of Edinburgh. It was originally published in Latin (Edinburgh, 1800), and John Brandreth made this English translation for a friend in 1830.</abstract>
+            <physdesc id="ref6" label="General Physical Description note">1 translation, 34 p.</physdesc>
+            <physloc id="ref8" label="Paging">LH-MV-E-16</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Taylor, Robert Eveleigh.</persname>
+            </origination>
+        </did>
+        <odd id="ref7">
+            <head>Early American History Note</head>
+            <p>This volume contains a manuscript copy of John Taylor’s dissertation titled “An inaugural disputation, concerning the varieties of the human race.” Taylor delivered this lecture at the University of Edinburgh in July 1800 to fulfill one of the requirements for a medical degree. The essay touches on many of the prominent theories about racial differences then circulating in the Atlantic World. Taylor, for instance, discusses the influence of climate on the different races and how geography affects the health.</p>
+        </odd>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>Robert Eveleigh Taylor was a British physician.</p>
+        </bioghist>
+        <controlaccess>
+            <persname rules="aacr" source="local">Brandreth, John</persname>
+            <corpname source="ingest">University of Edinburgh.</corpname>
+            <subject source="leah">African American</subject>
+            <subject source="leah">Beyond Early America</subject>
+            <subject source="lcsh">Blacks.</subject>
+            <genreform source="leah">Dissertations</genreform>
+            <genreform source="lcsh">Dissertations.</genreform>
+            <genreform source="leah">Educational Material</genreform>
+            <genreform source="leah">Manuscript Essays</genreform>
+            <subject source="leah">Medicine</subject>
+            <subject source="lcsh">Race.</subject>
+            <genreform source="leah">Scientific Data</genreform>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

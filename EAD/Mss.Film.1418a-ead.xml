@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Film.1418a-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Film.1418a</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T20:13-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="item">
+        <did>
+            <unittitle>Horace Howard Furness scrapbook, 1869-1911</unittitle>
+            <unitid>Mss.Film.1418a</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1805" type="Reel" label="Microform">1</container>
+            <physdesc>
+                <extent>1.0 Microfilm reel(s)</extent>
+            </physdesc>
+            <unitdate normal="1869/1911" type="inclusive">1869-1911</unitdate>
+            <physdesc id="ref8" label="General Physical Description note">1 microfilm reel.</physdesc>
+            <abstract id="ref1" label="Abstract">This volume contains newspaper clippings and other memorabilia, primarily of H. H. Furness, but also of William Henry Furness. There are letters from C. H. Hail, Bernard Quaritch, Adolph George Rosengarten, and M. Carey Thomas.</abstract>
+            <physloc id="ref9" label="Paging">LH-RR-Media Rm-6</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Furness, Horace Howard, 1833-1912</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref7">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by Marcia and Radclyffe Furness Thompson and accessioned, 08/--/1980 (1980 1651mf).</p>
+        </acqinfo>
+        <bioghist id="ref5">
+            <head>Biographical/Historical note</head>
+            <p>Horace Howard Furness was a lawyer and Shakespeare scholar.</p>
+        </bioghist>
+        <originalsloc id="ref3">
+            <head>Existence and Location of Originals note</head>
+            <p>Original in possession of Marcia and Radclyffe Furness Thompson.</p>
+        </originalsloc>
+        <controlaccess>
+            <persname rules="aacr" source="naf">Furness, William Henry, 1802-1896</persname>
+            <persname rules="aacr" source="local">Hail, C. H.</persname>
+            <persname rules="aacr" source="naf">Quaritch, Bernard, 1819-1899</persname>
+            <persname rules="aacr" source="local">Rosengarten, Adolph George, 1870-1946</persname>
+            <corpname source="ingest">Shakspere Society of Philadelphia.</corpname>
+            <persname source="ingest">Thomas, M. Carey (Martha Carey), 1857-1935</persname>
+            <geogname source="lcsh">Philadelphia (Pa.) -- History -- Revolution, 1775-1783.</geogname>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

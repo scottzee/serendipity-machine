@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Ms.Coll.28-ead.xml">PUBLIC "-//American Philosophical Society//TEXT (US::PPAmP::Ms Coll 28::Charles Darwin Papers Editorial Collection)//EN" "darwinedit.xml"</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Charles Darwin Papers Editorial Project Collection
+                    <date type="span">1821-1882</date>
+                    <num>Mss.Ms.Coll.28</num>
+                </titleproper>
+                <author>Finding aid prepared by rsc</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+                <date>2003</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T20:37-0400</date>
+            </creation>
+            <langusage>ENG</langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Charles Darwin Papers Editorial Project Collection</unittitle>
+            <unitid>Mss.Ms.Coll.28</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid12514001" type="Box" label="Mixed materials">1-107</container>
+            <physdesc>
+                <extent>48.0 Linear feet</extent>
+            </physdesc>
+            <unitdate normal="1821/1882" type="inclusive">1821-1882</unitdate>
+            <abstract id="ref2" label="Abstract">The project to publish the complete correspondence of the British naturalist Charles Darwin began in 1974 under the editorial guidance of Frederick Burkhardt with the assistance of Sydney Smith. Drawing heavily on the 9,000 letters located at Cambridge University and 950 at the American Philosophical Society, the project has made efforts to locate, transcribe, and publish every known letter written by Darwin. Over 200 institutions in 20 countries have contributed to the project, yielding a total of 15,000 letters. 
+                <lb/>The Darwin material was assembled in photocopy by the Darwin Papers Editorial Project, and includes a copy of nearly every letter known to have been written by Darwin and many written to him. These are arranged alphabetically by correspondent, and are inventoried thoroughly in Burkhardt, 
+                <title render="italic">A Calendar of the Correspondence of Charles Darwin, 1821-1882</title>.</abstract>
+            <physdesc id="ref1" label="General Physical Description note">48 linear feet</physdesc>
+            <physloc id="ref12" label="Paging">LH-B-39-3</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Darwin, Charles, 1809-1882</persname>
+            </origination>
+        </did>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>The project to publish the complete correspondence of the British naturalist Charles Darwin began in 1974 under the editorial guidance of Frederick Burkhardt with the assistance of Sydney Smith. Drawing heavily on the 9,000 letters located at Cambridge University and 950 at the American Philosophical Society, the project has made efforts to locate, transcribe, and publish every known letter written by Darwin. Over 200 institutions in 20 countries have contributed to the project, yielding a total of 15,000 letters. When the project is complete, the editors estimate that the 
+                <title render="italic">Correspondence of Charles Darwin</title> will fill approximately 30 volumes.</p>
+        </bioghist>
+        <scopecontent id="ref4">
+            <head>Scope and Contents note</head>
+            <p>The Darwin material was assembled in photocopy by the Darwin Papers Editorial Project, and includes a copy of nearly every letter known to have been written by Darwin and many written to him. These are arranged alphabetically by correspondent, and are inventoried thoroughly in Burkhardt, 
+                <title render="italic">A Calendar of the Correspondence of Charles Darwin, 1821-1882</title>.</p>
+            <p>In addition to correspondence, the collection includes over 3 linear feet of manuscripts written by Darwin held at Cambridge University and described in the 
+                <title render="italic">Handlist of Darwin Papers at the University Library Cambridge</title> (Cambridge, 1960). Some of the manuscripts listed in this handlist are not present at the APS.</p>
+        </scopecontent>
+        <userestrict id="ref5">
+            <head>Conditions Governing Use note</head>
+            <p>Materials may be consulted at the APS, but photocopies must be obtained through the institution holding the original. Permission to publish must be obtained from the institution holding the original.</p>
+        </userestrict>
+        <prefercite id="ref6">
+            <head>Preferred Citation note</head>
+            <p>Materials should be cited as requested by the institution holding the original.</p>
+        </prefercite>
+        <acqinfo id="ref7">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Gift of the Darwin Papers Project, 1984.</p>
+        </acqinfo>
+        <processinfo id="ref8">
+            <head>Processing Information note</head>
+            <p>Recatalogued by rsc, 2003.</p>
+        </processinfo>
+        <otherfindaid id="ref9">
+            <head>Other Finding Aids note</head>
+            <p>
+                <bibref>Burkhardt, Frederick, 
+                    <title render="italic">A Calendar of the Correspondence of Charles Darwin, 1821-1882</title> (New York, 1985).</bibref></p>
+        </otherfindaid>
+        <relatedmaterial id="ref10">
+            <head>Related Archival Materials note</head>
+            <p>The APS 
+                <extref ns2:href="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.D25-ead.xml">Charles Darwin Papers</extref> contain approximately 950 letters written by and to Darwin.</p>
+            <p>All of the letters written by Darwin have been or will be published in Burkhardt, Frederick, ed., 
+                <title render="italic">Correspondence of Charles Darwin</title>.</p>
+            <p>See also the website for the Darwin Papers project at Cambridge University (
+                <extref ns2:href="http://www.lib.cam.ac.uk/Departments/Darwin/">http://www.lib.cam.ac.uk/Departments/Darwin/</extref>), which includes a searchable online database (
+                <extref ns2:href="http://darwin.lib.cam.ac.uk/">http://darwin.lib.cam.ac.uk/</extref>).</p>
+        </relatedmaterial>
+        <originalsloc id="ref11">
+            <head>Existence and Location of Originals note</head>
+            <p>The location of the originals from which these photocopies were made is listed on the item itself or can be ascertained by reference to Burkhardt, 
+                <title render="italic">A Calendar of the Correspondence of Charles Darwin, 1821-1882</title>.</p>
+        </originalsloc>
+        <odd id="ref13">
+            <head>Early American History Note</head>
+            <p>This manuscript collection falls outside the geographic scope of the Early American guide (British North America and the United States before 1840). It may be of interest to scholars interested in global history, international relations, imperialism, or the U.S. in the world.</p>
+        </odd>
+        <controlaccess>
+            <subject source="leah">Beyond Early America</subject>
+            <subject source="lcsh">Evolution (Biology)</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

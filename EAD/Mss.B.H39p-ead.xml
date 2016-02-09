@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.H39p-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.H39p</num>
+                    <num>Mss.B.H39p</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T21:23-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Joseph Henry letters, 1836-1878</unittitle>
+            <unitid>Mss.B.H39p</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid12988001" type="Box" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>48.0 Item(s)</extent>
+            </physdesc>
+            <unitdate normal="1836/1878" type="inclusive">1836-1878</unitdate>
+            <abstract id="ref2" label="Abstract">The letters in this small collection concern the Smithsonian Institution, the Colorado Territory, and Humboldt's observations, among many other topics.</abstract>
+            <physdesc id="ref3" label="General Physical Description note">48 items.</physdesc>
+            <physloc id="ref80" label="Paging">LH-MV-C-10</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Henry, Joseph, 1797-1878</persname>
+            </origination>
+        </did>
+        <relatedmaterial id="ref4">
+            <head>Related Archival Materials note</head>
+            <p>This collection forms only part of the holdings of Henry papers at the American Philosophical Society Library. There are over 275 additional items in other collections, including letters to, from, and about Henry.</p>
+        </relatedmaterial>
+        <acqinfo id="ref5">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Purchased from Elliot ($281.50) and accessioned, 09/18/1967 (1967 1874ms). See in-house shelf list for additional accession numbers and dates.</p>
+        </acqinfo>
+        <bioghist id="ref6">
+            <head>Biographical/Historical note</head>
+            <p>Joseph Henry (1797-1878, APS 1835), a physicist, was the first secretary and director of the Smithsonian Institution, a post he retained for over three decades. Henry was a leading experimental scientist whose contributions include several discoveries in the field of electromagnetics. He has been credited with the invention of the electromagnet and the telegraph, among other things.</p>
+            <p>Henry was born in 1797 in Albany, New York, the son of William Henry, a teamster, and his wife Ann Alexander. Around 1804 he was sent to live with his maternal grandmother and his uncle in the nearby village of Galway, where he attended a country school. Henry’s father died when he was thirteen. He subsequently returned to Albany, where he was apprenticed to John F. Doty, a watchmaker and silversmith. However, when his master’s business failed he did not complete the apprenticeship and instead contemplated a career in theater, his true passion at the time. From around 1813 to 1816 he was involved with the Green Street Theater in Albany.</p>
+            <p>When Henry was sixteen years old he stumbled across a book that would have a profound influence on his subsequent life. The book was George Gregory’s 
+                <emph render="italic">Lectures on Experimental Philosophy, Astronomy, and Chemistry</emph> (1808), an exposition of science designed for a wide audience. Henry later wrote that this book "opened to me a new world of thought and enjoyment, invested things before almost unnoticed with the highest interest, fixed my mind on the study of nature and caused me to resolve at the time of reading it that I would immediately commence to devote my life to the acquisition of knowledge." He enrolled in night classes and attended Albany Academy from 1819 to 1822. He also worked as a tutor, and he headed a surveying party in New York State from the Hudson River to Lake Erie. In 1826 he accepted the appointment of professor of mathematics and natural philosophy at Albany Academy. Four years later he married his cousin, Harriet Alexander. The couple had six children, four of whom lived to adulthood.</p>
+            <p>Henry’s research at Albany Academy focused on electromagnetic phenomena. In 1831 he announced that he had produced an electromagnet of previously unmatched power. This accomplishment demonstrated how such magnets could be electrically activated over long distances. Henry also invented the first electric motor, and he discovered mutual electromagnetic induction and electromagnetic self-induction. Henry subsequently provided advice, support, and encouragement to Samuel F. B. Morse’s (1791-1872, APS 1848) efforts to develop a telegraph. Henry eventually changed from admirer to enemy due to bitter disputes over Morse's patents. Contrary to Morse’s claims, Henry always maintained that Morse deserved credit not for priority of conception, but rather for the ability to realize an efficient system of telegraphy. William Tecumseh Sherman, for one, agreed that Henry deserved credit for the invention. He noted in his address at Henry’s memorial service in 1878 that “wherever man goes, or human thought travels, the poles and continuous wires will remind him that to Professor HENRY of all men we are most indebted for the inestimable blessings of the telegraph.” In any case, these accomplishments brought him to the attention of other scientists in the United States and Europe.</p>
+            <p>In 1832 Henry accepted the appointment of professor of natural philosophy at the College of New Jersey (now Princeton University). In addition to natural philosophy, he lectured on geology and architecture. He also continued his research on electromagnetism. More specifically, he studied the phenomenon of lateral discharge, the tendency of electricity to diverge from its most direct course. This topic was of both theoretical and practical interest since lightning paths were generally viewed as instances of lateral discharge. As a result, Henry was frequently consulted about more effective ways of protecting buildings from the effects of lightning strikes. He also investigated the theory of induction, especially the screening of induction by conductors, the creation of higher order induced currents, and induction over long distances. By using lightning storms as his source of electricity, he was able to demonstrate induction over distances of an estimated twenty miles. Among his other discoveries were the concept of the transformer and the oscillatory nature of the discharge of a capacitor. In 1835 Henry was elected to the American Philosophical Society. In the 1830s and 1840s he published several essays on electricity and magnetism in the Society’s 
+                <emph render="italic">Transactions</emph>. Henry evidently used instruments from the cabinet of optical and philosophical apparatus owned by the Philadelphia merchant and financier and fellow APS member Charles Nicoll Bancker (1778?–1869, APS 1825) for some of his experiments.</p>
+            <p>In addition to research in the field of electromagnetism, Henry conducted experiments on ultraviolet light, the use of soap bubbles to explore molecular cohesion, work on the capillarity through solids, and the demonstration of the interference of heat. He also took the first empirical measurements of the temperature differences between the solar surface and sunspots by utilizing thermoelectric apparatus. He was able to demonstrate that sunspots were cooler than the surrounding surface; in addition, he found evidence of the phenomena of limb darkening, the apparent coolness of the sun at its limb. Henry spent most of 1837 on a trip to Britain, France, and Belgium, where he met many leading scientists of the day, including Michael Faraday (1761-1867, APS 1840). Henry was a member of the Scientific Lazzaroni, an informal group of scientists and science administrators who attempted to establish standards for the American scientific community and increase the level of public support for research. Other members of the group included his close friend Alexander Dallas Bache (1806-1867, APS 1829), Louis Agassiz (1807-1873, APS 1843), and John Fries Frazer (1812–1872, APS 1842). Henry chose Bache as head of the U.S. Coast Survey in 1843; Bache, in turn, actively promoted the election of Henry as first secretary of the newly created Smithsonian Institution in Washington, D.C., a post he assumed in 1846. Henry served as the Institution’s first secretary for over thirty years, until his death in Washington, D.C. in 1878. The Institution was funded by the bequest of James Smithson for "the increase and diffusion of knowledge." The legislation that established it in August 1846 provided for a building to house a museum, a library, an art gallery, a chemical laboratory, and lecture rooms. It laid out a system of governance but it was left to Henry to describe a definitive program. Henry hoped to make the Institution a center of American science. To this end he strove to ensure that James Smithson's bequest was used to support original scientific research and publication, rather than to create a national museum or library. By the late 1850s most of the Institution's library was transferred to the Library of Congress, and the Smithsonian retained only a working collection. Similarly, over subsequent years the herbarium was transferred to the Department of Agriculture, and the art collection moved to the Corcoran Gallery of Art. At the same time, Henry offered the Smithsonian as curator of the national collections on the condition that the federal government paid the direct costs. The initial appropriation was passed in 1857, and in 1859 the Great Hall of the Smithsonian building was designated the "National Museum of the United States." Subsequently, the federal appropriation increased to meet the rising costs of exhibition and conservation.</p>
+            <p>As the Institution’s secretary, Henry was committed to support research in different fields, including anthropology, archaeology, botany, zoology, meteorology, geophysics, and astronomy. As he wrote in the 
+                <emph render="italic">Smithsonian Annual Report for 1855</emph>, “Indeed, it is an important part of the duty of this Institution to encourage special lines of research into every department of the varied domain of nature.” He was especially interested in publishing material that commercial publishers rejected and learned societies could not afford to publish. He chose as the first volume in the series 
+                <emph render="italic">Smithsonian Contributions to Knowledge</emph>, Ephraim George Squier and Edwin Hamilton Davis’s 
+                <emph render="italic">Ancient Monuments of the Mississippi Valley: Comprising the Results of Extensive Original Surveys and Explorations</emph> (1848). The book, which Henry himself edited, constitutes a landmark in the study of mound builders specifically and American scientific research generally.</p>
+            <p>Under Henry’s leadership the Institution took on the role of patron for fields that lacked other sources of support. For example, in cooperation with the federal government, Henry established a national network of meteorological observers in 1849. At its peak in 1870, there were over 500 participants; that same year, Congress established a national weather service in the War Department. In 1873 the Smithsonian turned its activities over to the federal government. In addition, Henry’s support for early surveys of the western states eventually resulted in the establishment of the United States Geological Survey and the Bureau of American Ethnology.</p>
+            <p>Henry’s work at the Smithsonian was not always easy; in addition to limited resources and a lack of experienced staff, he suffered personal and financial woes, clashed with subordinates, and faced significant public criticism of his leadership, including his emphasis on basic research. Despite these challenges, Henry declined offers of prestigious positions at the University of Pennsylvania, the University of Virginia, and the College of New Jersey at Princeton. More significantly, Henry was able to keep intact his vision of an institution dedicated to basic research.</p>
+            <p>During his thirty-two year tenure as secretary of the Smithsonian, Henry’s occasionally served as a consultant for the government, including for issues related to the Capitol such as protection from lightning, building materials for an extension, and its interior acoustics. During the Civil War he was a member of the Permanent Commission of the Navy Department, which advised the department on innovations in military technology. While with the Light-House Board he conducted investigations of fog-signals and illuminants in an attempt to find an inexpensive substitute for the sperm oil burned in the lighthouse lamps. Henry was a founding member of the National Academy of Sciences (1863), a society that grew out of the efforts of the Lazzaroni. He served as the Academy’s vice president from 1866 to 1868 and president from 1868 until his death. He also served as president of the American Association for the Advancement of Science (1849-1850), and president of the American Association for the Advancement of Education (1854). In 1871 he was elected the first president of the Philosophical Society of Washington. He was an original member of the Light-House Board, serving as its chair from 1871 to 1878. He received honorary degrees from Union College in 1829 and Harvard University in 1851.</p>
+            <p>In December 1877 Henry became ill with Nephritis; he died in 1878 in Washington, D.C. His funeral on May 16, 1878, was attended by the President, Vice-President, the Cabinet, the members of the Supreme Court, Congress, and the senior officers of the Army and the Navy. Congress honored Henry again in the 1880s, when it commissioned the completion of a statue of Henry, and in the 1890s, when he was chosen as one of sixteen figures "representative of human development and civilization," to be memorialized in the Main Reading Room of the Library of Congress, along with such notables as Columbus, Isaac Newton, Herodotus, Michelangelo, Plato, and William Shakespeare.</p>
+        </bioghist>
+        <odd id="ref7">
+            <head>Early American History Note</head>
+            <p>This small collection contains an assortment of Joseph Henry correspondence, mostly from prominent Americans writing to Henry. Most of the early letters are relatively short notes, with longer, more detailed letters beginning in the correspondence from the 1850s. The most prominent topics of discussion are the Smithsonian Institution, the establishment of Colorado as a territory, and Humboldt’s work. Among the prominent correspondents are Robert Hare, Louis Aggasiz, and Alexander Dallas Bache. Two letters are addressed to Mrs. Henry.</p>
+        </odd>
+        <controlaccess>
+            <persname source="ingest">Agassiz, Alexander, 1835-1910</persname>
+            <persname source="ingest">Alexander, J. H. (John Henry), 1812-1867.</persname>
+            <persname source="ingest">Bache, A.D., (Alexander Dallas), 1806-1867</persname>
+            <persname source="ingest">Brewer, T. M., (Thomas Mayo), 1814-1880</persname>
+            <persname source="ingest">Buren, John van</persname>
+            <persname source="ingest">Hare, Robert, 1781-1858</persname>
+            <persname source="ingest">Horsford, Eben Norton, 1818-1893</persname>
+            <persname source="ingest">Humboldt, Alexander von, 1769-1859</persname>
+            <persname source="ingest">Humphreys, A. A., (Andrew Atkinson), 1810-1883</persname>
+            <persname source="ingest">King, Charles, 1789-1867</persname>
+            <persname source="ingest">Leidy, Joseph, 1823-1891</persname>
+            <persname source="ingest">Maclean, John, 1800-1886</persname>
+            <persname source="ingest">Mayer, Brantz, 1809-1879</persname>
+            <persname source="ingest">Ranlett, Charles E</persname>
+            <persname source="ingest">Seaton, William Winston, 1785-1866.</persname>
+            <corpname source="ingest">Smithsonian Institution.</corpname>
+            <subject source="leah">Colony and State Specific History</subject>
+            <geogname source="lcsh">Colorado -- History -- To 1876.</geogname>
+            <genreform source="leah">General Correspondence</genreform>
+            <subject source="lcsh">Natural history.</subject>
+            <subject source="lcsh">Physics.</subject>
+            <subject source="leah">Science and Technology</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref8" level="series">
+                <did>
+                    <unittitle>Papers</unittitle>
+                </did>
+                <c02 id="ref81" level="item">
+                    <did>
+                        <unittitle>Letter to Prof. Joseph Henry</unittitle>
+                        <unitdate normal="1836/1836">December 20, 1836</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf" role="Author (aut)">Buren, John Van, 1810-1866</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref82" level="item">
+                    <did>
+                        <unittitle>Letter to [Joseph Henry]</unittitle>
+                        <unitdate normal="1837/1837">August 8, 1837</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest" role="Author (aut)">Buchanan, George</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref13" level="file">
+                    <did>
+                        <unittitle>Letter to William Mitchell, Nantucket, Massachusetts</unittitle>
+                        <unitdate normal="1841/1841">July 18, 1841</unitdate>
+                        <physdesc id="ref14" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Henry, Joseph, 1797-1878.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref15">
+                        <head>Scope and Contents note</head>
+                        <p>A.L.S. 2p.and end. Thanks for his meteorological observations. Friendly letter.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref83" level="item">
+                    <did>
+                        <unittitle>Letter to Prof. Henry</unittitle>
+                        <unitdate normal="1847/1847">August 1, 1847</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf" role="Author (aut)">Kelland, Philip, 1808-1879</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref84" level="item">
+                    <did>
+                        <unittitle>Letter to Prof. Henry</unittitle>
+                        <unitdate normal="1848/1848">November 8, 1848</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf" role="Author (aut)">Humphreys, A. A.,  (Andrew Atkinson), 1810-1883 </persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref85" level="item">
+                    <did>
+                        <unittitle>Letter to Prof. Henry</unittitle>
+                        <unitdate normal="1848/1848">November 13, 1848</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="local" role="Author (aut)">Marsh, J. Y.</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref86" level="item">
+                    <did>
+                        <unittitle>Letter to Prof. Henry</unittitle>
+                        <unitdate normal="1849/1849">Thursday, [February 1849]</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf" role="Author (aut)">Seaton, William Winston, 1785-1866.</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref87" level="item">
+                    <did>
+                        <unittitle>Letter to Brants Mayer</unittitle>
+                        <unitdate normal="1851/1851">October 11, 1851</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf" role="Author (aut)">Henry, Joseph, 1797-1878</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref88" level="item">
+                    <did>
+                        <unittitle>Letter to Mrs. Joseph Henry</unittitle>
+                        <unitdate normal="1853/1853">January 9, 1853</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf" role="Author (aut)">Hare, Robert, 1781-1858</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref89" level="item">
+                    <did>
+                        <unittitle>Letter to [Joseph Henry]</unittitle>
+                        <unitdate normal="1853/1853">February 3, 1853</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf" role="Author (aut)">Agassiz, Louis, 1807-1873</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref90" level="item">
+                    <did>
+                        <unittitle>Letter to Joseph Henry</unittitle>
+                        <unitdate normal="1853/1853">April 22, 1853</unitdate>
+                        <origination label="creator">
+                            <persname rules="local" source="local" role="Author (aut)">Unidentified</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref91" level="item">
+                    <did>
+                        <unittitle>Letter to Prof. Henry</unittitle>
+                        <unitdate normal="1853/1853">October 10, [1853]</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf" role="Author (aut)">Schoolcraft, Henry Rowe, Mrs.</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref17" level="file">
+                    <did>
+                        <unittitle>Letter to T[homas] M[ayo] Brewer</unittitle>
+                        <unitdate normal="1855/1855">January 26, 1855</unitdate>
+                        <physdesc id="ref18" label="General Physical Description note">10-1/4x7-3/4</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Henry, Joseph, 1797-1878.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref19">
+                        <head>Scope and Contents note</head>
+                        <p>Smithsonian Institution, A.L.S. 3p. Reference to abusive article in Putnam's. Concerns Smith. Inst. and a congressional committee. Refers to Gray, Jewett, Rhees, Upham.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref92" level="item">
+                    <did>
+                        <unittitle>Letter to Prof. Henry</unittitle>
+                        <unitdate normal="1855/1855">October 21, 1855</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest" role="Author (aut)">De Bow, J. D. B. (James Dunwoody Brownson), 1820-1867</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref61" level="file">
+                    <did>
+                        <unittitle>Letter to Brantz Mayer, Baltimore</unittitle>
+                        <unitdate normal="1856/1856">November 25, 1856</unitdate>
+                        <physdesc id="ref62" label="General Physical Description note">8-1/4x5-1/4</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Henry, Joseph, 1797-1878</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref63">
+                        <head>Scope and Contents note</head>
+                        <p>A.L.S. 1p. Asks for manuscript of Humboldt.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref93" level="item">
+                    <did>
+                        <unittitle>Letter to [Joseph] Henry</unittitle>
+                        <unitdate normal="1858/1858">May 20, 1858</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="local" role="Author (aut)">Boffin, M. F.</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref64" level="file">
+                    <did>
+                        <unittitle>Letter to B[enjamin] F. Wade</unittitle>
+                        <unitdate normal="1859/1859">February 8, 1859</unitdate>
+                        <physdesc id="ref65" label="General Physical Description note">10-1/4x8</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Henry, Joseph, 1797-1878</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref66">
+                        <head>Scope and Contents note</head>
+                        <p>A.L.S. 1p. and end. Would like to meet Lane before he leaves the county. Does not know two other men.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref20" level="file">
+                    <did>
+                        <unittitle>Letter to Al[exander] C[atlin] Twining, New Haven</unittitle>
+                        <unitdate normal="1859/1859">October 11, 1859</unitdate>
+                        <physdesc id="ref21" label="General Physical Description note">9 3/4 x 7 3/4</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Henry, Joseph, 1797-1878</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref22">
+                        <head>Scope and Contents note</head>
+                        <p>Smithsonian Institution, L.S. 1p. end. Will be pleased to receive Twining's materials on the aurora.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref23" level="file">
+                    <did>
+                        <unittitle>Letter to A. I. Crossman</unittitle>
+                        <unitdate normal="1860/1860">October 20, 1860</unitdate>
+                        <physdesc id="ref24" label="General Physical Description note">9-3/4x7-1/4</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Henry, Joseph, 1797-1878.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref25">
+                        <head>Scope and Contents note</head>
+                        <p>Wash., D.C.; A.L.S. 1p. Thanks Crossman for Z[achariah] Allen's Memorial of Roger Williams and a speciman of root from William's grave.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref94" level="item">
+                    <did>
+                        <unittitle>Letter to Robert Hare</unittitle>
+                        <unitdate normal="1861/1861">January 5, 1861</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf" role="Author (aut)">Henry, Joseph, 1797-1878</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref67" level="file">
+                    <did>
+                        <unittitle>Letter to H. B. Anthony</unittitle>
+                        <unitdate normal="1861/1861">March 21, 1861</unitdate>
+                        <physdesc id="ref68" label="General Physical Description note">10x7-3/4</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Henry, Joseph, 1797-1878</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref69">
+                        <head>Scope and Contents note</head>
+                        <p>L.S. 2p.and end. Wishes maps printed with Newberry's report on the Colorado country.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref26" level="file">
+                    <did>
+                        <unittitle>Letter to Cha[rle]s E. Ranlett, Thomaston, Maine</unittitle>
+                        <unitdate normal="1861/1861">March 22, 1861</unitdate>
+                        <physdesc id="ref27" label="General Physical Description note">9-3/4x8</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Henry, Joseph, 1797-1878.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref28">
+                        <head>Scope and Contents note</head>
+                        <p>Wash., A.L.S. 1p. Thanks for information on storms in Labrador and Greenland.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref95" level="item">
+                    <did>
+                        <unittitle>Letter to William Mitchell</unittitle>
+                        <unitdate normal="1861/1861">July 18, 1861</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf" role="Author (aut)">Henry, Joseph, 1797-1878</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref96" level="item">
+                    <did>
+                        <unittitle>Letter to Prof. Henry</unittitle>
+                        <unitdate>October 10, 1861</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf" role="Author (aut)">King, Charles, 1789-1867 </persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref29" level="file">
+                    <did>
+                        <unittitle>Letter to A. L. Holley</unittitle>
+                        <unitdate normal="1862/1862">August 8, 1862</unitdate>
+                        <physdesc id="ref30" label="General Physical Description note">9-1/2x5-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Henry, Joseph, 1797-1878.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref31">
+                        <head>Scope and Contents note</head>
+                        <p>Washington, D.C. A.L.S. 1p. Will write Gen. Sabine. "Best wishes for the success of your mission."</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref33" level="file">
+                    <did>
+                        <unittitle>Letter to Maj. General [Sir Edward] Sabin[e], London</unittitle>
+                        <unitdate normal="1862/1862">August 8, 1862</unitdate>
+                        <physdesc id="ref34" label="General Physical Description note">11x9-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Henry, Joseph, 1797-1878.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref35">
+                        <head>Scope and Contents note</head>
+                        <p>A.L.S. 3p. Concerning E. A. Stevens and his steam boat. Introduces A. L. Holley. Iron clad steam battery of Stevens'.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref36" level="file">
+                    <did>
+                        <unittitle>Letter to [Alexander Catlin] Twining, New Haven</unittitle>
+                        <unitdate normal="1862/1862">December 15, 1862</unitdate>
+                        <physdesc id="ref37" label="General Physical Description note">10 1/2 x 8 1/4</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Henry, Joseph, 1797-1878</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref38">
+                        <head>Scope and Contents note</head>
+                        <p>Smithsonian Institution, A.L.S. 1p.end. Encloses letter from J.P. Lesley of A.P.S. in reply to inquiries about Girard College (wanting). Politics involved in running institutions.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref97" level="item">
+                    <did>
+                        <unittitle>Letter to Prof. Henry</unittitle>
+                        <unitdate normal="1864/1864">January 25, 1864</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf" role="Author (aut)">Alexander, J. H. (John Henry), 1812-1867.</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref98" level="item">
+                    <did>
+                        <unittitle>Letter to Prof. Henry</unittitle>
+                        <unitdate normal="1864/1864">March 8, 1864</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest" role="Author (aut)">Leidy, Joseph, 1823-1891</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref99" level="item">
+                    <did>
+                        <unittitle>Letter to Prof. Henry</unittitle>
+                        <unitdate normal="1864/1864">October 28, 1864</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf" role="Author (aut)">Dawson, J. M.</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref100" level="item">
+                    <did>
+                        <unittitle>Letter to Joseph Henry</unittitle>
+                        <unitdate normal="1865/1865">January 21, 1865</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf" role="Author (aut)">Newmarch, William, 1820-1882</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref70" level="file">
+                    <did>
+                        <unittitle>Letter to Pliny Earle, Northampton, Massachusetts</unittitle>
+                        <unitdate normal="1866/1866">December 22, 1866</unitdate>
+                        <physdesc id="ref71" label="General Physical Description note">8x5</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Henry, Joseph, 1797-1878</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref72">
+                        <head>Scope and Contents note</head>
+                        <p>A.L.S. 2p.and end. Suggests the report on the Northampton Hospital for the Insane be presented to European institutions.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref73" level="file">
+                    <did>
+                        <unittitle>Letter to Ja[me]s Orton, Rochester, New York</unittitle>
+                        <unitdate normal="1867/1867">March 26, 1867</unitdate>
+                        <physdesc id="ref74" label="General Physical Description note">10x7-3/4</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Henry, Joseph, 1797-1878</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref75">
+                        <head>Scope and Contents note</head>
+                        <p>Washington, L.S. 2p. Cannot help him in his proposed expedition to Ecuador and Peru, due to losses by fire suffered by the Smithsonian.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref49" level="file">
+                    <did>
+                        <unittitle>Letter to A. L. Child, Glendale, Nebraska</unittitle>
+                        <unitdate normal="1868/1868">December 5, 1868</unitdate>
+                        <physdesc id="ref50" label="General Physical Description note">8-7/8x5</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Henry, Joseph, 1797-1878.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref51">
+                        <head>Scope and Contents note</head>
+                        <p>Smithsonian Institution, L.S. 1p. Regrets omitting Child's use of rain guage in 1867.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref101" level="item">
+                    <did>
+                        <unittitle>Letter to Prof. Henry</unittitle>
+                        <unitdate normal="1871/1871">May 15, 1871</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest" role="Author (aut)">Saussure, Henri de, 1829-1905</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref52" level="file">
+                    <did>
+                        <unittitle>Letter to Mrs. C. W. Pennock, Howellville, Pennsylvania</unittitle>
+                        <unitdate normal="1872/1872">February 24, 1872</unitdate>
+                        <physdesc id="ref53" label="General Physical Description note">10-3/4x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Henry, Joseph, 1797-1878.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref54">
+                        <head>Scope and Contents note</head>
+                        <p>Washington, L.S. 2p. Wishes to have the collection of her husband for the Smithsonian.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref102" level="item">
+                    <did>
+                        <unittitle>Letter to Prof. Henry</unittitle>
+                        <unitdate normal="1872/1872">August 27, 1872</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="local" role="Author (aut)">Arrow, Fred,  (Frederick)</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref76" level="file">
+                    <did>
+                        <unittitle>Letter to James Orton, Poughkeepsie, New York</unittitle>
+                        <unitdate normal="1872/1872">December 19, 1872</unitdate>
+                        <physdesc id="ref77" label="General Physical Description note">9-3/4x7-3/4</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Henry, Joseph, 1797-1878</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref78">
+                        <head>Scope and Contents note</head>
+                        <p>Washington, L.S. 2p. Best wishes for the success of his expedition and attempt to help him.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref103" level="item">
+                    <did>
+                        <unittitle>Letter to [Joseph] Henry</unittitle>
+                        <unitdate normal="1874/1874">October 5, 1874</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest" role="Author (aut)">Agassiz, Alexander, 1835-1910</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref56" level="file">
+                    <did>
+                        <unittitle>Letter to Jno. A. Lynch, Washington, D.C.</unittitle>
+                        <unitdate normal="1876/1876">October 10, 1876</unitdate>
+                        <physdesc id="ref57" label="General Physical Description note">10x8</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Henry, Joseph, 1797-1878.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref58">
+                        <head>Scope and Contents note</head>
+                        <p>Washington, D.C., L.S. 1p. Concerning proposed changes to the Capitol.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref104" level="item">
+                    <did>
+                        <unittitle>Letter to W. J. Rhees</unittitle>
+                        <unitdate normal="1878/1878">May 13, 1878</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="local" role="Author (aut)">Maclean, John, 1800-1886 </persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref105" level="item">
+                    <did>
+                        <unittitle>Letter to Prof. Henry</unittitle>
+                        <unitdate>January 5</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf" role="Author (aut)">Bache, A.D.,  (Alexander Dallas), 1806-1867</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref106" level="item">
+                    <did>
+                        <unittitle>Letter to Joseph Henry</unittitle>
+                        <unitdate>February 2</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf" role="Author (aut)">Humphreys, A. A.,  (Andrew Atkinson), 1810-1883 </persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref107" level="item">
+                    <did>
+                        <unittitle>Letter to Carrie [Henry]</unittitle>
+                        <unitdate>Wednesday</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf" role="Author (aut)">Horsford, Eben Norton, 1818-1893</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref108" level="item">
+                    <did>
+                        <unittitle>Letter to Prof. Henry</unittitle>
+                        <unitdate>Saturday</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest" role="Author (aut)">Wilson, Daniel, Sir, 1816-1892</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref109" level="item">
+                    <did>
+                        <unittitle>Note to Mrs. Henry</unittitle>
+                        <unitdate>n.d.</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest" role="Author (aut)">Harvey, William H.(William Henry),1811-1866.</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref9" level="file">
+                    <did>
+                        <unittitle>Affidavit that Dr. Robert Hare "is one of the most distinguished chemists of our country"</unittitle>
+                        <unitdate>n.d.</unitdate>
+                        <physdesc id="ref10" label="General Physical Description note">3-3/4x8</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">H[enry], J[oseph],</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf" role="Author (aut)">Henry, Joseph, 1797-1878</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref11">
+                        <head>Scope and Contents note</head>
+                        <p>A.D.with initials. 1p.and end.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref110" level="item">
+                    <did>
+                        <unittitle>Letter to ?</unittitle>
+                        <unitdate>n.d.</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf" role="Author (aut)">Henry, Joseph, 1797-1878</persname>
+                        </origination>
+                    </did>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

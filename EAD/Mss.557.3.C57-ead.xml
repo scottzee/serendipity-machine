@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.557.3.C57-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.557.3.C57</num>
+                </titleproper>
+                <author>Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:19-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Edward Waller Claypole papers, 1884-1885</unittitle>
+            <unitid>Mss.557.3.C57</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid940" type="Box-folder" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>0.1 Linear feet</extent>
+                <extent>9 items</extent>
+            </physdesc>
+            <unitdate normal="1884/1885" type="inclusive">1884-1885</unitdate>
+            <physdesc id="ref4" label="General Physical Description note">9 items.</physdesc>
+            <abstract id="ref1" label="Abstract">This small collection of lectures and papers, mostly undated, concerns Ohio geology, cyclones, and theology and geology.</abstract>
+            <physloc id="ref6" label="Paging">LH-MV-B-11</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Claypole, Edward Waller, 1835-1901</persname>
+            </origination>
+        </did>
+        <otherfindaid id="ref5">
+            <head>Other Finding Aids note</head>
+            <p>Table of contents available.</p>
+        </otherfindaid>
+        <bioghist id="ref2">
+            <head>Biographical/Historical note</head>
+            <p>Geologist Edward Waller Claypole taught at the Polytechnic Institute in Pasadena, California.</p>
+        </bioghist>
+        <controlaccess>
+            <subject source="lcsh">Bible and geology.</subject>
+            <subject source="lcsh">Cyclones.</subject>
+            <subject source="lcsh">Geology -- Ohio.</subject>
+            <genreform source="lcsh">Lectures.</genreform>
+            <subject source="lcsh">Religion and science.</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

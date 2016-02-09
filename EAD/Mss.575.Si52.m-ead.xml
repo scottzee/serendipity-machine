@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.575.Si52.m-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.575.Si52.m</num>
+                </titleproper>
+                <author>Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:19-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="item">
+        <did>
+            <unittitle>The Meaning of Evolution: A Study of the History of Life and of Its Significance for Man</unittitle>
+            <unitid>Mss.575.Si52.m</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid97841" type="Volume" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>1.0 Volume(s)</extent>
+                <extent>1 volume, 298 p.</extent>
+            </physdesc>
+            <unitdate normal="1949/1949">1949</unitdate>
+            <physdesc id="ref1" label="General Physical Description note">1 volume, 298 p.</physdesc>
+            <abstract id="ref2" label="Abstract">The manuscript of a book published by Yale University Press, 1949.</abstract>
+            <physloc id="ref5" label="Paging">LH-MV-E-10</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Simpson, George Gaylord, 1902-1984</persname>
+            </origination>
+        </did>
+        <bioghist id="ref4">
+            <head>Biographical/Historical note</head>
+            <p>One of the seminal figures in the emergence of the Modern or Neo-Darwinian Synthesis during the mid-twentieth century, George Gaylord Simpson (1902-1984) helped define the unique contribution made by vertebrate paleontology to the life sciences. A specialist in Mesozoic and early Cenozoic mammals, Simpson's contributions to the fusion of Darwinian natural selection and Mendelian genetics were both empirical and theoretical, culminating in his major works Tempo and Mode in Evolution and The Meaning of Evolution. From his posts at the American Museum of Natural History (1927-1959), Columbia University (1945-1959), Harvard (1959-1967), and the University of Arizona (1967-1984), Simpson became one of the most influential paleontologists of the century, helped in part by his ability to write successfully for both a technical, professional audience and a popular audience.</p>
+        </bioghist>
+        <acqinfo id="ref3">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by the author, 1949.</p>
+        </acqinfo>
+        <controlaccess>
+            <subject source="lcsh">Darwinism. </subject>
+            <subject source="lcsh">Evolution.</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

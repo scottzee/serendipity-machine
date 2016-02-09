@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.540.H27-ead.xml">hasbrouck.xml"</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Louis Hasbrouck
+                    <lb/>Notes from Lectures on Chemistry delivered by Doctor John McClean, Princeton College
+                    <date type="span">1797</date>
+                    <num>Mss.540.H27</num>
+                </titleproper>
+                <author>Finding aid prepared by rsc</author>
+                <sponsor>Hasbrouck's notes were acquired with funds provided by the Friends of the American Philosophical Society Library.</sponsor>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+                <date>2003</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:18-0400</date>
+            </creation>
+            <langusage>ENG</langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Notes from Lectures on Chemistry delivered by Doctor John McClean, Princeton College</unittitle>
+            <unitid>Mss.540.H27</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>1.0 Volume(s)</extent>
+            </physdesc>
+            <unitdate normal="1797/1797">January 1797 - June 1797</unitdate>
+            <abstract id="ref2" label="Abstract">Louis Hasbrouck was in his last year at Princeton in 1796-1797 when he attended the course of chemistry lectures given by John Maclean. In only his second year at Princeton, Maclean was rapidly becoming known for introducing the latest currents in chemical theory, including the system of Antoine Laurent Lavoisier, and he was one of the first Americans to insist that students take part in active experimentation. 
+                <lb/>Louis Hasbrouck was in his final year at Princeton in 1796-1797 when he attended John Maclean's lectures on chemistry. His notebook from the second half of that course includes a detailed record of the lectures from January 24-March 14 and June 22-24, 1797, covering Maclean's discussion of the chemistry of metals, "chemical combination," combustion, and botanical chemistry. Although his notes are not complete, Hasbrouck was enrolled at a singularly interesting period in the history of American chemistry. This was only the second time that Maclean had offered his course, in which he introduced the new chemical system of Lavoisier, and it includes a relatively complete version of Maclean's most important lecture, "Of combustion." This devastating attack on Joseph Priestley and phlogistic theory appeared in print in 1797 as 
+                <title render="italic">Two Lectures on Combustion: Supplementary to a Course of Lectures on Chemistry</title>.</abstract>
+            <physdesc id="ref1" label="General Physical Description note">1 vol., 133p.</physdesc>
+            <physloc id="ref11" label="Paging">LH-MV-E-16</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Hasbrouck, Louis, 1777-1834</persname>
+            </origination>
+        </did>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>An intellectual prodigy in his native Glasgow, the chemist John Maclean (1771-1814) was only 13 when he entered the University of Glasgow and by the time he was 20, he had studied at Edinburgh, London, and Paris, and, for the sake of employment, had received a medical degree from Glasgow. He was appointed to the faculty of Physicians and Surgeons at Glasgow in the following year, but while practicing medicine, he continued to read in chemistry and to conduct experiments whenever possible.</p>
+            <p>Maclean's burgeoning interest in chemistry was kindled during one of the most vibrant periods in the history of the discipline, the peak of the chemical revolution. At Edinburgh, he had studied with the meticulous empirical chemist Joseph Black, and while in Paris, he was exposed to the groundbreaking theories of Antoine Laurent Lavoisier, quickly adopting that system and nomenclature, as well as Lavoisier's characteristic quantitative bent and disdain for phlogistic theory. At about the same time, Maclean is also said to have become a wholehearted republican, and whether from political or professional motives -- or both -- he left Scotland for the United States in April 1795.</p>
+            <p>On the advice of Benjamin Rush, Maclean established a medical practice in Princeton and during the summer 1795, delivered a course of lectures on chemistry to stake his mark. His strategy worked. In October, Maclean earned an appointment as Professor of Chemistry and Natural History, the first person in the United States to hold that title who was not associated with a medical school. Shortly thereafter, he abandoned medicine to devote himself full time to chemistry, later adding Professor of Mathematics and Natural Philosophy to his title.</p>
+            <p>A warm partisan on behalf of the new chemistry, Maclean demonstrated a commitment to an empirical approach in his lectures and a strong interest in the applied aspects of the science. To his students, he emphasized the need to participate in actual experiments, rather than becoming merely observers of demonstrations, and as a result, his course is sometimes credited with being the first laboratory course in chemistry in America. His lectures included a robust introduction to the current theoretical issues in the field and to the work of Black and Lavoisier, but he also included an extensive section on botanical chemistry and on the application of chemical principles to agriculture and manufactures.</p>
+            <p>Maclean's greatest impact, however, may have been in helping to reorient the direction of chemical study in the United States. In addition to being one of the first to import Lavoisier, Maclean issued a widely read pamphlet in 1797, 
+                <title render="italic">Two Lectures on Combustion: Supplementary to a Course of Lectures on Chemistry...</title>, in which he directly assailed the most influential American chemist of the period, Joseph Priestley, a refractory supporter of phlogistic theory. Based on his Princeton lectures, Maclean cautioned his readers to be "on your guard against falling into even that temporary delusion, which an erroneous opinion is so apt to produce, when supported by a celebrated name," and systematically tore apart Priestley's empirical demonstration of the existence of phlogiston. The two carried on a running debate in the pages of the Samuel Latham Mitchill's 
+                <title render="italic">Medical Repository</title>, but by the first decade of the nineteenth century, Priestley was virtually the only prominent supporter of phlogistic theory remaining.</p>
+            <p>In 1812 Maclean resigned his position at Princeton and took up a new a one at William and Mary College. After only a year, however, ill health cut short his stay in Virginia. He returned to Princeton, where he died on February 17, 1814. Maclean was widely acclaimed during his life, receiving an honorary degree from the University of Aberdeen in 1797 and earning election to the American Philosophical Society in January 1805. He was married to Phebe Bainbridge, sister of Commodore William Bainbridge, on November 7, 1798, with whom he had two sons. John Maclean, Jr., became the 10th President of Princeton.</p>
+        </bioghist>
+        <scopecontent id="ref4">
+            <head>Scope and Contents note</head>
+            <p>Louis Hasbrouck was in his final year at Princeton in 1796-1797 when he attended John Maclean's lectures on chemistry. His notebook from the second half of that course includes a detailed record of the lectures from January 24-March 14 and June 22-24, 1797, covering Maclean's discussion of the chemistry of metals, "chemical combination," combustion, and botanical chemistry. Although his notes are not complete, Hasbrouck was enrolled at a singularly interesting period in the history of American chemistry. This was only the second time that Maclean had offered his course, in which he introduced the new chemical system of Lavoisier, and it includes a relatively complete version of Maclean's most important lecture, "Of combustion." This devastating attack on Joseph Priestley and phlogistic theory appeared in print in 1797 as 
+                <title render="italic">Two Lectures on Combustion: Supplementary to a Course of Lectures on Chemistry</title>.</p>
+            <p>Maclean's emphasis on applied chemistry emerges clearly through Hasbrouck's notes. At the beginning of his lecture entitled "On Vegetable productions," Maclean proclaimed that "Vegetables furnish many substances which are applied to various uses, but which require the art of the Chemist to fit them for these purposes" (p.67). Almost two thirds of the volume is devoted to botanical chemistry, beginning with plant physiology and the chemical composition of plant structures and progressing to the various products that can be extracted from plant by chemical means. Maclean devoted time to discussing the method of producing and refining sugar and assessing its nutritive value (including for slaves), the production of mucilage, manna, starch, flour, and fats, oils, and resins.</p>
+            <p>
+                <table>
+                    <tgroup cols="2">
+                        <colspec colname="col-0"/>
+                        <colspec colname="col-1"/>
+                        <tbody>
+                            <row>
+                                <entry valign="top" align="left"> Chapter XXXIV. Of Copper</entry>
+                                <entry valign="top" align="left"> p.1</entry>
+                            </row>
+                            <row>
+                                <entry valign="top" align="left"> Chapter XXXV. Of Silver</entry>
+                                <entry valign="top" align="left"> p.4</entry>
+                            </row>
+                            <row>
+                                <entry valign="top" align="left"> Chapter XXXVI. Of Gold</entry>
+                                <entry valign="top" align="left"> p.7</entry>
+                            </row>
+                            <row>
+                                <entry valign="top" align="left"> Chapter XXXVII. Of Platina</entry>
+                                <entry valign="top" align="left"> p.11</entry>
+                            </row>
+                            <row>
+                                <entry valign="top" align="left"> Of Chemical Combination</entry>
+                                <entry valign="top" align="left"> p.16</entry>
+                            </row>
+                            <row>
+                                <entry valign="top" align="left"> Of Combustion</entry>
+                                <entry valign="top" align="left"> p.30</entry>
+                            </row>
+                            <row>
+                                <entry valign="top" align="left"> Of Living or Animated Bodies</entry>
+                                <entry valign="top" align="left"> p.47</entry>
+                            </row>
+                            <row>
+                                <entry valign="top" align="left"> Of Vegetables</entry>
+                                <entry valign="top" align="left"> p.47</entry>
+                            </row>
+                            <row>
+                                <entry valign="top" align="left"> Of Vegetable Productions</entry>
+                                <entry valign="top" align="left"> p.67</entry>
+                            </row>
+                            <row>
+                                <entry valign="top" align="left"> Of the Composition of Vegetables</entry>
+                                <entry valign="top" align="left"> p.111</entry>
+                            </row>
+                        </tbody>
+                    </tgroup>
+                </table></p>
+        </scopecontent>
+        <prefercite id="ref6">
+            <head>Preferred Citation note</head>
+            <p>Cite as: Louis Hasbrouck, Notes from Lectures on Chemistry delivered by Doctor John McClean Princeton College, American Philosophical Society.</p>
+        </prefercite>
+        <acqinfo id="ref7">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Acquired from Carmen Valentino, June 2004 (accn. no. M2004-22).</p>
+        </acqinfo>
+        <processinfo id="ref8">
+            <head>Processing Information note</head>
+            <p>Catalogued by rsc, 2002.</p>
+        </processinfo>
+        <relatedmaterial id="ref9">
+            <head>Related Archival Materials note</head>
+            <p>
+                <bibref>Maclean, John, 
+                    <title render="italic">Two Lectures on Combustion: Supplementary to a Course of Lectures on Chemistry...</title> (Philadelphia: T. Dobson, 1797). 
+                    <emph render="bold">Call no.</emph>: 208 P93.</bibref></p>
+        </relatedmaterial>
+        <odd id="ref10">
+            <head>Early American History Note</head>
+            <p>This notebook contains Louis Hasbrouck's notes from a chemistry class at Princeton in 1797-1798.</p>
+        </odd>
+        <controlaccess>
+            <persname source="naf">Lavoisier , Antoine Laurent, 1743-1794</persname>
+            <persname source="ingest">Maclean, John, 1771-1814</persname>
+            <persname rules="aacr" source="naf">Priestley, Joseph, 1733-1804</persname>
+            <corpname source="naf">Princeton University.</corpname>
+            <subject source="lcsh">Agriculture--Study and teaching--18th century</subject>
+            <subject source="lcsh">Botanical chemistry</subject>
+            <subject source="lcsh">Chemistry--Study and teaching--18th century</subject>
+            <subject source="leah">Education</subject>
+            <genreform source="leah">Educational Material</genreform>
+            <genreform source="ingest">Lecture notes</genreform>
+            <subject source="lcsh">Metallurgy</subject>
+            <genreform source="leah">Notebooks</genreform>
+            <subject source="lcsh">Phlogiston</subject>
+            <subject source="leah">Science and Technology</subject>
+            <subject source="lcsh">Sugar</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

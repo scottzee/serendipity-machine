@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.B61.f-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.B61.f</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:53-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>United States Federal Bureau of Investigation files, 1939-1950</unittitle>
+            <unitid>Mss.B.B61.f</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1211" type="Box" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>0.25 Linear feet</extent>
+                <extent>49 items</extent>
+            </physdesc>
+            <unitdate normal="1939/1950" type="inclusive">1939-1950</unitdate>
+            <abstract id="ref1" label="Abstract">These papers concern the investigation into Boas' alleged connections with the Communist party. The continuation of the files beyond the date of Boas' death most likely resulted from similar investigations into the activity of Boas' outspoken son, Ernst Boas.</abstract>
+            <physloc id="ref15" label="Paging">LH-MV-E-1</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Boas,  Franz, 1858-1942 </persname>
+            </origination>
+        </did>
+        <acqinfo id="ref14">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Requested by Stephen Catlett through Freedom of Information Act, 1983. Received and accessioned, (1985 225ms). See APS Legal File requesting information from FBI.</p>
+        </acqinfo>
+        <originalsloc id="ref10">
+            <head>Existence and Location of Originals note</head>
+            <p>Originals in: United States Federal Bureau of Investigation.</p>
+        </originalsloc>
+        <bioghist id="ref5">
+            <head>Biographical/Historical note</head>
+            <p>Franz Boas was an American anthropologist, studied the Eskimos and Northwest Coast Indians, and held positions at Columbia University and the American Museum of Natural History.</p>
+        </bioghist>
+        <controlaccess>
+            <persname rules="aacr" source="naf">Boas, Ernst P.,  (Ernst Philip), 1891-1955</persname>
+            <corpname source="ingest">United States. -- Federal Bureau of Investigation.</corpname>
+            <occupation source="lcsh">Anthropologists -- United States.</occupation>
+            <subject source="lcsh">Communism and social sciences -- United States.</subject>
+            <subject source="lcsh">Communist parties -- United States.</subject>
+            <subject source="lcsh">Socialists -- United States.</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

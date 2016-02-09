@@ -1,0 +1,730 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.917.3.R76-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.917.3.R76</num>
+                </titleproper>
+                <author>Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:24-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Etats-Unis d'amerique</unittitle>
+            <unitid>Mss.917.3.R76</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="fre"/>
+            </langmaterial>
+            <container id="cid120432" type="Volume" label="Manuscripts">1-2</container>
+            <physdesc>
+                <extent>2.0 Volume(s)</extent>
+            </physdesc>
+            <unitdate normal="1837/1837">Circa 1837</unitdate>
+            <abstract id="ref1" label="Abstract">A published first edition, 1837, of Jean Baptiste Gaspard Roux de Rochelle’s History of the United States of America, in French, with a companion volume of original sketches used for the 96 engraved plates. Sketches are of American scenes and history, some apparently original, others after de Bry and other artists, all used in Roux de rochelle's book.</abstract>
+            <physdesc id="ref2" label="General Physical Description note">2 volumes.</physdesc>
+            <physloc id="ref131" label="Paging">LH-MV-E-16</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Roux de Rochelle, 1762-1849</persname>
+            </origination>
+        </did>
+        <bioghist id="ref4">
+            <head>Biographical/Historical note</head>
+            <p>Elected to the APS in 1836, Roux de Rochelle served as French minister to the United States from 1829-1831.</p>
+        </bioghist>
+        <scopecontent id="ref12">
+            <head>Scope and Contents note</head>
+            <p>Native American Images note: 27 original drawings of Native Americans and 27 steel engravings of the same for Roux de Rochelle’s Etats-Unis d’Amerique. Indigenous people, primarily from the southern states, in native attire depicted as hunting, fishing, playing, mourning, warring, eating, cooking, and celebrating. Some illustrations accompanying the early text are based on Theodore DeBry’s engravings of John White’s watercolor drawings of Roanoke Island in 1585. With the later historical text are illustrations of Oneidas, Mohawks, and Delawares conferring or warring with Europeans. Also, sketches of petroglyphs, pottery, wampum, and headgear. Illustrators and engravers include Vernier, Branche, and Milbert.</p>
+        </scopecontent>
+        <processinfo id="ref11">
+            <head>Processing Information note</head>
+            <p>Inventory is not complete, only scanned images are noted.</p>
+        </processinfo>
+        <acqinfo id="ref13">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Both volumes presented by the author.</p>
+        </acqinfo>
+        <odd id="ref130">
+            <head>Early American History Note</head>
+            <p>These two bound volumes contain a printed copy of Jean Baptiste Gaspard Roux de Rochelle Etats-Unis D'Amerique, a Frenchman’s take on American history and culture, and a volume that contains what appears to be drafts of the images that were printed in the book. Many of the images in the second volume appear to be based upon more well-known works of art. Some are in color.</p>
+        </odd>
+        <controlaccess>
+            <genreform source="leah">Art</genreform>
+            <subject source="lcsh">Delaware Indians</subject>
+            <genreform source="lcsh">Engravings.</genreform>
+            <genreform source="leah">Foreign Language</genreform>
+            <genreform source="lcsh">Illustrations.</genreform>
+            <subject source="lcsh">Indians of North America--Florida</subject>
+            <subject source="lcsh">Indians of North America--North Carolina</subject>
+            <subject source="leah">Literature, Arts, and Culture</subject>
+            <subject source="lcsh">Lumbee Indians</subject>
+            <subject source="lcsh">Mohawk Indians</subject>
+            <subject source="ingest">Oneida Indians</subject>
+            <genreform source="leah">Printed Material</genreform>
+            <subject source="lcsh">Seminole Indians</subject>
+            <genreform source="leah">Sketchbooks</genreform>
+            <genreform source="lcsh">Sketches.</genreform>
+            <subject source="local">Southeast Indians</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref14" level="item">
+                <did>
+                    <unittitle>No.1 Guerriers Indiens</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref15" level="item">
+                <did>
+                    <unittitle>No.2 Declaration de guerre</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref16" level="item">
+                <did>
+                    <unittitle>No.3 Ceremonies avant le depart pour la guerre</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+                <c02 id="ref124" level="item">
+                    <did>
+                        <unittitle>Ceremony for a departed Seminole</unittitle>
+                        <unitdate>1837</unitdate>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Ceremony for a departed Seminole" ns2:role="Image-Master" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:4153">
+                        <daodesc>
+                            <p>Ceremony for a departed Seminole, 1837 </p>
+                        </daodesc>
+                    </dao>
+                </c02>
+            </c01>
+            <c01 id="ref17" level="item">
+                <did>
+                    <unittitle>No.4 Trophies apres la victoire</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref18" level="item">
+                <did>
+                    <unittitle>No.5 Colonne erigee par Ribaut en 1562</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref19" level="item">
+                <did>
+                    <unittitle>No.6 Deuil et supplication des Veuves</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+                <c02 id="ref125" level="item">
+                    <did>
+                        <unittitle>Seminole widows</unittitle>
+                        <unitdate>1837</unitdate>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Seminole widows" ns2:role="Image-Master" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:4156">
+                        <daodesc>
+                            <p>Seminole widows, 1837 </p>
+                        </daodesc>
+                    </dao>
+                </c02>
+            </c01>
+            <c01 id="ref20" level="item">
+                <did>
+                    <unittitle>No.7 Pont naturel de Virginie</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref21" level="item">
+                <did>
+                    <unittitle>No.8 Jeune fille, mere de famille, Vieillard (Femmes indiennes et Vieillard)</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref22" level="item">
+                <did>
+                    <unittitle>No.9 Foret (Chute d'eau pres les bains de Schooley)</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref23" level="item">
+                <did>
+                    <unittitle>No.10 Danse</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref24" level="item">
+                <did>
+                    <unittitle>No.11 Exercices de la jeunesse</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref25" level="item">
+                <did>
+                    <unittitle>No.12 Bapteme des anabaptiste</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref26" level="item">
+                <did>
+                    <unittitle>No.13 Chasse aux alligators</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref27" level="item">
+                <did>
+                    <unittitle>No.14 Chasse aux cerfs</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref28" level="item">
+                <did>
+                    <unittitle>No.15 Maniere de fumer les chairs des animaux (Maniere de fumer le gibier)</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref29" level="item">
+                <did>
+                    <unittitle>No.16 Preparation des mets et repas Indiens (Repas et preparation des mets)</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref30" level="item">
+                <did>
+                    <unittitle>No.17 Traitement des malades (Maniere de traiter les malades)</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref31" level="item">
+                <did>
+                    <unittitle>No.18 Passage des rivieres (Passage des rivieres a Gue)</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref32" level="item">
+                <did>
+                    <unittitle>No.19 Pirogues creusees par l'action du feu (Maniere de creuser les barques)</unittitle>
+                </did>
+            </c01>
+            <c01 id="ref33" level="item">
+                <did>
+                    <unittitle>No.20 Exercice de la peche</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+                <c02 id="ref126" level="item">
+                    <did>
+                        <unittitle>Seminoles fishing</unittitle>
+                        <unitdate>1837</unitdate>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Seminoles fishing" ns2:role="Image-Master" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:4154">
+                        <daodesc>
+                            <p>Seminoles fishing, 1837 </p>
+                        </daodesc>
+                    </dao>
+                </c02>
+            </c01>
+            <c01 id="ref34" level="item">
+                <did>
+                    <unittitle>No.21 Village Indien entoure de palissades</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref35" level="item">
+                <did>
+                    <unittitle>No.22 Guillaume Penn achetant la terre des sauvages</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref48" level="item">
+                <did>
+                    <unittitle>No.23 Fleches incendiaires</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref49" level="item">
+                <did>
+                    <unittitle>No.24 Le union d'une famille Indienne (Fete autour d'un feu)</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+                <c02 id="ref127" level="item">
+                    <did>
+                        <unittitle>Delaware celebration</unittitle>
+                        <unitdate>1837</unitdate>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Delaware celebration" ns2:role="Image-Master" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:4157">
+                        <daodesc>
+                            <p>Delaware celebration, 1837 </p>
+                        </daodesc>
+                    </dao>
+                </c02>
+            </c01>
+            <c01 id="ref50" level="item">
+                <did>
+                    <unittitle>No.25 Mais; Tabac</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref51" level="item">
+                <did>
+                    <unittitle>No.26 Palissades naturelles de l'Hudson</unittitle>
+                </did>
+            </c01>
+            <c01 id="ref52" level="item">
+                <did>
+                    <unittitle>No.27 Ocelot; Castor</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref53" level="item">
+                <did>
+                    <unittitle>No.28 Wapiti; Buffalo</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref54" level="item">
+                <did>
+                    <unittitle>No.29 Premier temple des Quakers a Philadelphie</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref55" level="item">
+                <did>
+                    <unittitle>No.30 Premiere Eglise Anabaptiste a Providence</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref57" level="item">
+                <did>
+                    <unittitle>No.31 Predication des Anabaptistes</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref58" level="item">
+                <did>
+                    <unittitle>No.32 Eglise Episcopale de Richmont</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref59" level="item">
+                <did>
+                    <unittitle>No.33 Cathedrale Catholique a Baltimore</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref60" level="item">
+                <did>
+                    <unittitle>No.34 Ruines du Fort Ticonderoga</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref61" level="item">
+                <did>
+                    <unittitle>No.35 Maison du gouverneur Hollandais a Albani</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref62" level="item">
+                <did>
+                    <unittitle>No.36 Conference avec les Indiens autour du feu du conseil (Conference autour du feu du conseil)</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+                <c02 id="ref128" level="item">
+                    <did>
+                        <unittitle>Debate around council fire</unittitle>
+                        <unitdate>1837</unitdate>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Debate around council fire" ns2:role="Image-Master" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:4152">
+                        <daodesc>
+                            <p>Debate around council fire, 1837 </p>
+                        </daodesc>
+                    </dao>
+                </c02>
+            </c01>
+            <c01 id="ref63" level="item">
+                <did>
+                    <unittitle>No.37 Anciennes fortifications de l'Ohio</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref64" level="item">
+                <did>
+                    <unittitle>No.38 Anciennes fortifications</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref65" level="item">
+                <did>
+                    <unittitle>No.39 Anciennes fortifications</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref66" level="item">
+                <did>
+                    <unittitle>No.40 Inscription et autres antiquites Americaines</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref67" level="item">
+                <did>
+                    <unittitle>No.41 Hopital de Pensylvanie</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref68" level="item">
+                <did>
+                    <unittitle>No.42 Wampums et coiffure</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+                <c02 id="ref129" level="item">
+                    <did>
+                        <unittitle>Wampum and head-dress</unittitle>
+                        <unitdate>1837</unitdate>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Wampum and head-dress" ns2:role="Image-Master" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:4155">
+                        <daodesc>
+                            <p>Wampum and head-dress, 1837 </p>
+                        </daodesc>
+                    </dao>
+                </c02>
+            </c01>
+            <c01 id="ref69" level="item">
+                <did>
+                    <unittitle>No.43 Homme emplume</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref70" level="item">
+                <did>
+                    <unittitle>No.44 Hotel de ville de Philadelphie</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref71" level="item">
+                <did>
+                    <unittitle>No.45 Boston et ses environs</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref72" level="item">
+                <did>
+                    <unittitle>No.46 Maison de Johson dans le pays des Mohawks</unittitle>
+                </did>
+            </c01>
+            <c01 id="ref73" level="item">
+                <did>
+                    <unittitle>No.47 Bocage du conseil - les Indiens Oneidas</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref74" level="item">
+                <did>
+                    <unittitle>No.48 Entree de la riviere d'Hudson</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref75" level="item">
+                <did>
+                    <unittitle>No.49 Mort de Montgomery devant Quebec</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref76" level="item">
+                <did>
+                    <unittitle>No.50 Vue de Boston depart de la flotte Anglaise</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref77" level="item">
+                <did>
+                    <unittitle>No.51 Facsimile de quelques signatures de l'acte d'Independance</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref78" level="item">
+                <did>
+                    <unittitle>No.52 Plan de la Baie de New York</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref79" level="item">
+                <did>
+                    <unittitle>No.53 Washington</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref80" level="item">
+                <did>
+                    <unittitle>No.54 Franklin</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref81" level="item">
+                <did>
+                    <unittitle>No.55 John Adams</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref82" level="item">
+                <did>
+                    <unittitle>No.56 Jefferson</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref83" level="item">
+                <did>
+                    <unittitle>No.57 Lac George</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref84" level="item">
+                <did>
+                    <unittitle>No.58 Usine de Gleens</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref85" level="item">
+                <did>
+                    <unittitle>No.59 Pont sur l'Hudson pres Luzerne</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref86" level="item">
+                <did>
+                    <unittitle>No.60 Chute et rapides d'Adleys</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref87" level="item">
+                <did>
+                    <unittitle>No.61 Capitulation de Burgoyne a Saratoga</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref88" level="item">
+                <did>
+                    <unittitle>No.62 Vue actuelle de Saratoga</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref89" level="item">
+                <did>
+                    <unittitle>No.63 Chute d'eau pres le Mont. Ida</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref90" level="item">
+                <did>
+                    <unittitle>No.64 Vue de la Ville d'Hudson</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref91" level="item">
+                <did>
+                    <unittitle>No.65 Vue de West Point</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref92" level="item">
+                <did>
+                    <unittitle>No.66 Jardin de Koscinsco a West Point</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref93" level="item">
+                <did>
+                    <unittitle>No.67 Arrestation du Major Andre au Bourg Tarry Town</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref94" level="item">
+                <did>
+                    <unittitle>No.68 Desastre de Wyoming</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref95" level="item">
+                <did>
+                    <unittitle>No.69 Prise de Pensacola</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref96" level="item">
+                <did>
+                    <unittitle>No.70 Capitulation de Cornwallis a York-town</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref97" level="item">
+                <did>
+                    <unittitle>No.71 Emigrations vers l'Quest</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref98" level="item">
+                <did>
+                    <unittitle>No.72 Defrichemens</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref99" level="item">
+                <did>
+                    <unittitle>No.73 Monument de Bunker's-hill, pres de Boston</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref100" level="item">
+                <did>
+                    <unittitle>No.74 Museum de Philadelphie</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref101" level="item">
+                <did>
+                    <unittitle>No.75 Hotel de Ville de New York</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref102" level="item">
+                <did>
+                    <unittitle>No.76 Eglise St. Paul a New York</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref103" level="item">
+                <did>
+                    <unittitle>No.77 Cavernes</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref104" level="item">
+                <did>
+                    <unittitle>No.78 Sarigue; Serpent a Sonnettes</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref105" level="item">
+                <did>
+                    <unittitle>No.79 Inondation du Mississippi</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref106" level="item">
+                <did>
+                    <unittitle>No.80 Aigle Pecheur</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref107" level="item">
+                <did>
+                    <unittitle>No.81 Universite de Cambridge pres Boston</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref108" level="item">
+                <did>
+                    <unittitle>No.82 Universite de Philadelphie</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref109" level="item">
+                <did>
+                    <unittitle>No.83 Institut de Franklin</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref110" level="item">
+                <did>
+                    <unittitle>No.84 Banque de Stephen Gerard</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref111" level="item">
+                <did>
+                    <unittitle>No.85 Penitentiare de Philadelphie</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref112" level="item">
+                <did>
+                    <unittitle>No.86 Plan de Penitentiare</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref113" level="item">
+                <did>
+                    <unittitle>No.87 Universite de Virginie</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref114" level="item">
+                <did>
+                    <unittitle>No.88 College de Kenion (Etats de l'Ohio)</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref115" level="item">
+                <did>
+                    <unittitle>No.89 Capitole de Washington</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref116" level="item">
+                <did>
+                    <unittitle>No.90 Presidence</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref117" level="item">
+                <did>
+                    <unittitle>No.91 Departemens d'Etats</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref118" level="item">
+                <did>
+                    <unittitle>No.92 Tombeau du Washington a Mont. Vernon</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref119" level="item">
+                <did>
+                    <unittitle>No.93 Rapides et rochers du Mohawk</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref120" level="item">
+                <did>
+                    <unittitle>No.94 Vue du Lac Erie</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref121" level="item">
+                <did>
+                    <unittitle>No.95 Saut du Niagara</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref122" level="item">
+                <did>
+                    <unittitle>No.96 Voute sous la Chute du Niagara</unittitle>
+                    <unitdate>1837</unitdate>
+                </did>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

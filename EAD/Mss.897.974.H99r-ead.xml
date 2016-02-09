@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.897.974.H99r</num>
+                </titleproper>
+                <author>Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:23-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="item">
+        <did>
+            <unittitle>Reading Takelma texts: Frances Johnson's "coyote and frog"</unittitle>
+            <unitid>Mss.897.974.H99r</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid120134" type="Volume" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>1.0 Volume(s)</extent>
+            </physdesc>
+            <unitdate normal="1992/1992">1992</unitdate>
+            <abstract id="ref2" label="Abstract">Part of a festschrift for Kenneth Goldstein.</abstract>
+            <physloc id="ref5" label="Paging">LH-MV-E-11</physloc>
+            <origination label="creator">
+                <persname source="naf" role="Author (aut)">Hymes, Dell H.</persname>
+            </origination>
+        </did>
+        <phystech id="ref3">
+            <head>Physical Characteristics and Technical Requirements note</head>
+            <p>1 volume, 116p.</p>
+        </phystech>
+        <acqinfo id="ref1">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Dell Hymes, gift.</p>
+        </acqinfo>
+        <relatedmaterial id="ref4">
+            <head>Related Archival Materials note</head>
+            <p>See also the 
+                <extref ns2:actuate="onLoad" ns2:show="new" ns2:href="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Ms.Coll.55-ead.xml">Dell H. Hymes Papers (Ms. Coll. 55)</extref>.</p>
+        </relatedmaterial>
+        <controlaccess>
+            <subject source="lcsh">Takelma language--Texts</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

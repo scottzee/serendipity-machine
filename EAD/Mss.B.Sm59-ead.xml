@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.Sm59-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.Sm59</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T20:01-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>J. Russell (Joseph Russell) Smith papers, [ca. 1888]-1966</unittitle>
+            <unitid>Mss.B.Sm59</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1611" type="Box" label="Manuscripts">1-22</container>
+            <physdesc>
+                <extent>11.0 Linear feet</extent>
+            </physdesc>
+            <unitdate normal="1888/1966" type="inclusive">Circa 1888-1966</unitdate>
+            <physdesc id="ref8" label="General Physical Description note">Ca. 11,000 items.</physdesc>
+            <abstract id="ref1" label="Abstract">A collection of letters (family and professional), notebooks, diaries, lectures, articles, and photographs, of Smith, a noted American geographer who influenced the teaching of geography after 1920 through his many elementary texts. There is much material relating to these writings. His contributions to the rise of human geography and the related areas of conservation and ecology, are documented. His study in Europe under Friedrich Ratzel, at Leipzig in 1901-1912, is touched on in his journal for those years; included are many interesting observations on German university life. There is also much material on his nursery business in Virginia. Organizational files are numerous, e.g. Association of American Geographers, Columbia University, U. S. Department of Agriculture. Much of the correspondence is limited to only a few letters from each correspondent. Among the names included are: Willard G. Bixby, Isaiah Bowman, John W. Hershey, Emory R. Johnson, Walter C. Lowdermilk (of particular note is his 1926 paper, written while at the University of Nanking, "Forest Conservation in Shansi, China"), and Lewis Mumford.</abstract>
+            <physloc id="ref44" label="Paging">LH-B-27-6</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Smith,  J. Russell,  (Joseph Russell), 1874-1966</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref7">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by the Smith family and accessioned, 10/--/1966 (1966 2120ms).</p>
+        </acqinfo>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>J. Russell Smith was a geographer who influenced the teaching of geography after 1920 through his many elementary texts.</p>
+        </bioghist>
+        <controlaccess>
+            <corpname rules="aacr" source="naf">Association of American Geographers.</corpname>
+            <persname rules="aacr" source="local">Bixby, Willard G.</persname>
+            <persname rules="aacr" source="naf">Bowman, Isaiah, 1878-1950</persname>
+            <corpname source="ingest">Columbia University -- Faculty.</corpname>
+            <famname source="ingest">Hershey, John W.</famname>
+            <persname rules="aacr" source="naf">Johnson, Emory Richard, 1864-1950</persname>
+            <persname rules="aacr" source="naf">Lowdermilk, W. C. ,  (Walter Clay), 1888-1974 </persname>
+            <persname rules="aacr" source="naf">Mumford, Lewis, 1895-1990 </persname>
+            <persname rules="aacr" source="naf">Ratzel, Friedrich, 1844-1904</persname>
+            <corpname source="ingest">United States. -- Dept. of Agriculture.</corpname>
+            <genreform source="lcsh">Articles.</genreform>
+            <subject source="lcsh">Conservation of natural resources.</subject>
+            <genreform source="lcsh">Diaries.</genreform>
+            <subject source="lcsh">Ecology.</subject>
+            <subject source="lcsh">Forest conservation -- China -- Shanxi Sheng.</subject>
+            <subject source="lcsh">Geography -- Societies, etc.</subject>
+            <subject source="lcsh">Geography.</subject>
+            <geogname source="lcsh">Germany -- Universities and colleges.</geogname>
+            <subject source="lcsh">Human geography.</subject>
+            <genreform source="lcsh">Lectures.</genreform>
+            <genreform source="lcsh">Notebooks.</genreform>
+            <subject source="lcsh">Nurseries (Horticulture) -- Virginia.</subject>
+            <genreform source="lcsh">Photoprints.</genreform>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref9" level="series">
+                <did>
+                    <unittitle>Photographs</unittitle>
+                    <physdesc>
+                        <extent>16.0 Photograph(s)</extent>
+                    </physdesc>
+                    <abstract id="ref10" label="Abstract">This collection represents a sample of the photographs available in the J. Russel Smith papers.</abstract>
+                </did>
+                <c02 id="ref23" level="item">
+                    <did>
+                        <unittitle>Joseph Russell Smith at a young age</unittitle>
+                        <physdesc>
+                            <extent>1.0 Item(s)</extent>
+                        </physdesc>
+                        <unitdate>n. d. </unitdate>
+                        <abstract id="ref24" label="Abstract">Carte de visite of Smith at a young age.</abstract>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Joseph Russell Smith at a young age. " ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:3794">
+                        <daodesc>
+                            <p>Joseph Russell Smith at a young age. , n. d.  </p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref30" level="item">
+                    <did>
+                        <unittitle>Joseph Russell Smith, formal portrait</unittitle>
+                        <physdesc>
+                            <extent>1.0 Photograph(s)</extent>
+                        </physdesc>
+                        <unitdate normal="1890/1890">ca. 1890</unitdate>
+                        <abstract id="ref31" label="Abstract">Formal portrait of Smith.</abstract>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Joseph Russell Smith, formal portrait. " ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:3796">
+                        <daodesc>
+                            <p>Joseph Russell Smith, formal portrait. , ca. 1890 </p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref11" level="item">
+                    <did>
+                        <unittitle>Abington Friends School, group portrait, 1892.</unittitle>
+                        <physdesc>
+                            <extent>1.0 Photograph(s)</extent>
+                        </physdesc>
+                        <unitdate normal="1892/1892">1892</unitdate>
+                        <abstract id="ref12" label="Abstract">Eleven school-age boys sitting outside on ground, wood pile in background. Smith is second to right, back row.</abstract>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Abington Friends School, group portrait, 1892. " ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:3790">
+                        <daodesc>
+                            <p>Abington Friends School, group portrait, 1892. , 1892 </p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref27" level="item">
+                    <did>
+                        <unittitle>Joseph Russell Smith, formal portrait with beard</unittitle>
+                        <unitdate normal="1898/1898">ca. 1898</unitdate>
+                        <abstract id="ref28" label="Abstract">Formal portrait of Smith with beard.</abstract>
+                    </did>
+                    <odd id="ref29">
+                        <head>General note</head>
+                        <p>Handwritten note on back of photograph: "Taken before Jan. 1899."</p>
+                    </odd>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Joseph Russell Smith, formal portrait with beard. " ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:3795">
+                        <daodesc>
+                            <p>Joseph Russell Smith, formal portrait with beard. , ca. 1989 </p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref19" level="item">
+                    <did>
+                        <unittitle>Joseph Russell Smith and Henrietta S. Smith in their room at George School, 1898</unittitle>
+                        <physdesc>
+                            <extent>1.0 Photograph(s)</extent>
+                        </physdesc>
+                        <unitdate normal="1898/1898">1898</unitdate>
+                        <abstract id="ref20" label="Abstract">Full length view of the Smiths, seated in room.</abstract>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Joseph Russell Smith and Henrietta S. Smith in their room at George School, 1898. " ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:3798">
+                        <daodesc>
+                            <p>Joseph Russell Smith and Henrietta S. Smith in their room at George School, 1898. , 1898 </p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref21" level="item">
+                    <did>
+                        <unittitle>Joseph Russell Smith and Henrietta Stewart Smith, 1902</unittitle>
+                        <physdesc>
+                            <extent>1.0 Photograph(s)</extent>
+                        </physdesc>
+                        <unitdate normal="1902/1902">1902</unitdate>
+                        <abstract id="ref22" label="Abstract">Formal group photo of Joseph and Henrietta Smith.</abstract>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Joseph Russell Smith and Henrietta Stewart Smith, 1902. " ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:3801">
+                        <daodesc>
+                            <p>Joseph Russell Smith and Henrietta Stewart Smith, 1902. , 1902 </p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref32" level="item">
+                    <did>
+                        <unittitle>Joseph Russell Smith, mounted photograph, 1908</unittitle>
+                        <physdesc>
+                            <extent>1.0 Photograph(s)</extent>
+                        </physdesc>
+                        <unitdate normal="1908/1908">1908</unitdate>
+                        <abstract id="ref33" label="Abstract">Formal 3/4 view portrait of Smith.</abstract>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Joseph Russell Smith, mounted photograph, 1908. " ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:3802">
+                        <daodesc>
+                            <p>Joseph Russell Smith, mounted photograph, 1908. , 1908 </p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref42" level="item">
+                    <did>
+                        <unittitle>Northern Nut Growers' Association group portait, 1916</unittitle>
+                        <physdesc>
+                            <extent>1.0 Photograph(s)</extent>
+                        </physdesc>
+                        <unitdate normal="1916/1916">1916 September</unitdate>
+                        <abstract id="ref43" label="Abstract">Group portrait of officers of the Northern Nut Grower's Association, Washington, D. C.</abstract>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Northern Nut Growers' Association group portait, 1916. " ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:3792">
+                        <daodesc>
+                            <p>Northern Nut Growers' Association group portait, 1916. , 1916, September </p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref17" level="item">
+                    <did>
+                        <unittitle>Joseph Russell Smith, seated at table in Okaya, Japan, 1925</unittitle>
+                        <physdesc>
+                            <extent>1.0 Photograph(s)</extent>
+                        </physdesc>
+                        <unitdate normal="1925/1925">1925 August 30</unitdate>
+                        <abstract id="ref18" label="Abstract">Group portrait of Smith and eight people, sitting and standing, at table.</abstract>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Joseph Russell Smith, seated at table in Okaya, Japan, 1925. " ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:3797">
+                        <daodesc>
+                            <p>Joseph Russell Smith, seated at table in Okaya, Japan, 1925. , 1925, August 30 </p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref40" level="item">
+                    <did>
+                        <unittitle>Joseph Russell Smith, with unidentified men, Japan, 1925</unittitle>
+                        <physdesc>
+                            <extent>1.0 Photograph(s)</extent>
+                        </physdesc>
+                        <unitdate normal="1925/1925">1925</unitdate>
+                        <abstract id="ref41" label="Abstract">Group portrait with Smith, seated in center, and seven unidentified men.</abstract>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Joseph Russell Smith, with unidentified men, Japan, 1925. " ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:3789">
+                        <daodesc>
+                            <p>Joseph Russell Smith, with unidentified men, Japan, 1925. , 1925 </p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref36" level="item">
+                    <did>
+                        <unittitle>Joseph Russell Smith, seated outside on bench</unittitle>
+                        <physdesc>
+                            <extent>1.0 Photograph(s)</extent>
+                        </physdesc>
+                        <unitdate>n. d. </unitdate>
+                        <abstract id="ref37" label="Abstract">Full length view of Smith, seated on bench, columns of building in background.</abstract>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Joseph Russell Smith, seated outside on bench. " ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:3791">
+                        <daodesc>
+                            <p>Joseph Russell Smith, seated outside on bench. , n. d.  </p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref38" level="item">
+                    <did>
+                        <unittitle>Joseph Russell Smith, standing outside examing plant</unittitle>
+                        <physdesc>
+                            <extent>1.0 Photograph(s)</extent>
+                        </physdesc>
+                        <unitdate>n. d. </unitdate>
+                        <abstract id="ref39" label="Abstract">Full length view of Smith examining plant.</abstract>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Joseph Russell Smith, standing outside examing plant. " ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:3799">
+                        <daodesc>
+                            <p>Joseph Russell Smith, standing outside examing plant. , n. d.  </p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref13" level="item">
+                    <did>
+                        <unittitle>Joselph Russell Smith and family</unittitle>
+                        <physdesc>
+                            <extent>1.0 Photograph(s)</extent>
+                        </physdesc>
+                        <unitdate>n. d. </unitdate>
+                        <abstract id="ref14" label="Abstract">Group portrait of three generations of the Smith family.</abstract>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Joselph Russell Smith and family. " ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:3793">
+                        <daodesc>
+                            <p>Joselph Russell Smith and family. , n. d.  </p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref15" level="item">
+                    <did>
+                        <unittitle>Joselph Russell Smith, August 1942</unittitle>
+                        <physdesc>
+                            <extent>1.0 Photograph(s)</extent>
+                        </physdesc>
+                        <unitdate normal="1942/1942">1942 August</unitdate>
+                        <abstract id="ref16" label="Abstract">Full length portrait of Smith, standing outside on steps.</abstract>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Joselph Russell Smith, August, 1942. " ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:3788">
+                        <daodesc>
+                            <p>Joselph Russell Smith, August, 1942. , 1942, August </p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref25" level="item">
+                    <did>
+                        <unittitle>Joseph Russell Smith lecturing at Columbia University</unittitle>
+                        <physdesc>
+                            <extent>1.0 Photograph(s)</extent>
+                        </physdesc>
+                        <unitdate>n. d. </unitdate>
+                        <abstract id="ref26" label="Abstract">Smith standing at desk in front of seated students, maps hanging in background.</abstract>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Joseph Russell Smith lecturing at Columbia University. " ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:3800">
+                        <daodesc>
+                            <p>Joseph Russell Smith lecturing at Columbia University. , n. d.  </p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref34" level="item">
+                    <did>
+                        <unittitle>Joseph Russell Smith, seated in boat</unittitle>
+                        <physdesc>
+                            <extent>1.0 Photograph(s)</extent>
+                        </physdesc>
+                        <unitdate>n. d. </unitdate>
+                        <abstract id="ref35" label="Abstract">View of Smith seated in foreground, two men, seated in back, without shirts rowing.</abstract>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Joseph Russell Smith, seated in boat. " ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:3803">
+                        <daodesc>
+                            <p>Joseph Russell Smith, seated in boat. , n. d.  </p>
+                        </daodesc>
+                    </dao>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

@@ -1,0 +1,1790 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.Ai9-ead.xml">aitken.xml</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Jane Aitken Papers
+                    <date type="span">1784-1814</date>
+                    <num>Mss.B.Ai9</num>
+                </titleproper>
+                <author>Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+                <date>August 2001</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:28-0400</date>
+            </creation>
+            <langusage>ENG</langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Jane Aitken Papers</unittitle>
+            <unitid>Mss.B.Ai9</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>0.25 Linear feet</extent>
+                <extent>145 items</extent>
+            </physdesc>
+            <unitdate normal="1784/1814" type="inclusive">1784-1814</unitdate>
+            <abstract id="ref1" label="Abstract">Jane Aitken (1764-1832) is a significant historical figure for several reasons. One of the first American female printers, Jane Aitken was also a bookseller, bookbinder, businesswoman, and employer during the early nineteenth century, a time when the independence of women was actively discouraged. There is a dearth of personal information about Jane Aitken, an unfortunate fact that is reflected in her surviving papers. 
+                <lb/>This small collection, 145 items, is representative of her severely compromised financial situation and her constant failed efforts to rectify the situation. Her correspondence consists primarily of appeals to John Vaughan, a member and librarian of the American Philosophical Society, for loans. Vaughan was evidently a reliable and sympathetic supporter.</abstract>
+            <physloc id="ref163" label="Paging">LH-MV-C-1</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Aitken, Jane, 1764-1832</persname>
+            </origination>
+        </did>
+        <odd id="ref162">
+            <head>Early American History Note</head>
+            <p>This collection consists of Aitken family papers and correspondence. The bulk of the collection relates to Jane Aitken's life and dates from 1800 to 1814, the height of Jane Aitken’s business career. Much of the correspondence is between Aitken and John Vaughan, a wealthy Philadelphia merchant who served as Jane’s investor and benefactor when she fell on hard times.</p>
+            <p>The early portion of the collection deals primarily with Jane’s attempt to settle her father’s estate and her attempts to finance her own business endeavor. The subsequent letters are often about agreements between Aitken and Vaughan over credit and debts. Very few letters contain personal content. The later portion of the collection includes a detailed accounting of Aitken’s business estate and its liquidation.</p>
+            <p>Jane Aitken was likely Philadelphia’s first female printer. Born the eldest of three children of Robert and Janet Aitken in Scotland, she emigrated with the rest of her family when her father set off to establish a press in Philadelphia. Robert Aitken opened a shop in Philadelphia in 1771 and immediately began producing the staples of American printers: almanacs and other short utilitarian works. In 1782, he branched out and printed, with the approval of the Continental Congress, the first English language version of King James’ Bible ever printed in North America. “Aitken’s Bible” was considered an exemplary piece of printing but proved to be a financially fraught undertaking that left Aitken in arrears.</p>
+            <p>Jane took over her father’s business sometime around her father’s death in 1802, although she likely played a prominent role in the business prior to his death. She printed a variety of works, including the Transactions for the American Philosophical Society. Like her father, she undertook an ambitious Bible project called the “Thomson Bible.” The four-volume Bible printed in 1808 was, like her father’s before her, well-received for its craftsmanship but a commercial failure. Like her father, Jane fell into debt and eventually spent time in debtor’s prison in 1813. After her release, she did some binding work before her death in 1832.</p>
+        </odd>
+        <relatedmaterial id="ref17">
+            <head>Related Archival Materials note</head>
+            <p>The Historical Society of Pennsylvania and The Rosenbach Museum and Library both have a small number of Aitken materials.</p>
+        </relatedmaterial>
+        <processinfo id="ref15">
+            <head>Processing Information note</head>
+            <p>Recatalogued by Anne Harney, 2001.</p>
+        </processinfo>
+        <acqinfo id="ref13">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Unknown.</p>
+        </acqinfo>
+        <prefercite id="ref11">
+            <head>Preferred Citation note</head>
+            <p>Cite as: Jane Aitken Papers, American Philosophical Society.</p>
+        </prefercite>
+        <arrangement id="ref7">
+            <head>Arrangement note</head>
+            <p>The correspondence is arranged chronologically</p>
+        </arrangement>
+        <scopecontent id="ref5">
+            <head>Scope and Contents note</head>
+            <p>This collection contains approximately 145 items, primarily correspondence between Jane Aitken and John Vaughan regarding financial matters. Most often these exchanges consisted of a brief note from Aitken to Vaughan explaining her financial needs and requesting a loan or an advance. Unsurprisingly, many of the items relate to the estate of her father Robert Aitken, including several inventories outlining the extent of his debt.</p>
+            <p>A couple of exceptions to the rather dry nature of this collection: a scathing "anonymous" letter written to John Vaughan and possibly a letter written in response. The dramatic "anonymous" letter accused Vaughan of "cruelty and hypocrisy;" the "response" letter written to a Mr. Fry, possibly Vaughan's attorney, informed him of the last leasing terms to be offered to Jane Aitken. These two letters, written just a few weeks apart, invite speculation into the complicated and inter-reliant relationship between Aitken and Vaughan.</p>
+            <p>Overall, however, this collection documents the business relationship between Jane Aitken and John Vaughan.</p>
+        </scopecontent>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>Jane Aitken (1764-1732) was a longtime citizen, bookbinder, and printer of Philadelphia, the eldest daughter of Robert and Janet (Skeoch). She was born on July 11, 1764, in Paisley, Scotland, where her father ran a stationer's store and circulating library until 1771 when he moved his wife Janet, Jane, and second daughter Margaret, to Philadelphia. She is known for her extraordinary skill as a printer and a bookbinder, the only great woman bookbinder of the early American republic. Her greatest printing achievement was the Thomson Bible of 1808.</p>
+            <p>Her father Robert Aitken was a talented printer and bookbinder. Within one month of his arrival in Philadelphia, he had established a large and successful bookstore. In 1773, he published Aitken's 
+                <title render="italic">General American Register, and the Gentleman's and Tradesman's Complete Annual Account Book, and Calendar...for the Year of Our Lord, 1773</title> which proved his proficiency in the book arts. Based on her own proficiency and the similarity and continuity of bookbinding and printing styles sustained long after her father's death, Aitken must have learned the bookbinding and printing trades at an early age.</p>
+            <p>Despite Robert Aitken's hard work and established reputation he died leaving to his daughter Jane an enormous amount of debt of $3,000. Aitken's debts, as revealed in the Aitken-Vaughan papers, were largely those incurred by Jane's late brother-in-law Charles Campbell, a clock and watchmaker, for whom Robert Aitken had signed a number of notes. The debts did not, as was long believed, result from the printing of the Aitken Bible of 1782—the first English language Bible printed in America.</p>
+            <p>Aitken was thirty-eight years old, when she inherited the family printing and bookbinding business. Like her father, Jane Aitken was an extremely talented and prolific printer and bookbinder. She was responsible for printing a number of publications after she took over her father's business, including contracts from the American Philosophical Society, the Philadelphia Female Association, and the Philadelphia Society for Promoting Agriculture, to name just a few. At least sixty of her published works are known from the period 1802 to 1812. Her most important work, according to the contemporary historian of printing Isaiah Thomas, was the four-volume Thomson Bible of 1808, which firmly established Jane's Aitken's reputation. This Bible was a new translation prepared by Charles Thomson, former secretary of the Continental Congress, the first English translation from the Septuagint (the Greek version of the Hebrew Scriptures or Old Testament). It is also likely that it was the only Bible ever printed by a woman in America. The typeface Aitkens used for the Thomson Bible was an attractive and utilitarian type developed in 1796 by two Scotsmen named Binney and Ronaldson at their Philadelphia type foundry. It is a Transitional typeface, between Old Style and Modern.</p>
+            <p>Jane Aitken never married. Although her youngest sister Mary Ann managed to get married and have children, Jane's single status might have had more to do with her independent and ambitious nature than a lack of opportunity. A lack of marriage prospects also might have resulted from the family’s financial instability. Also, as the oldest and the second most experienced printer in the Aitken family Jane might have decided to remain unmarried in order to better assist her father with the printing business. At any rate, Jane spent the entirety of her adult life struggling to contend with her father's legacy: a solid reputation for printing, enormous debt, and the responsibility of two younger sisters, one recently widowed with three children. It is unknown whether Jane's mother, Janet, was still alive at her father's death in 1802. Jane also had an older brother Robert Aitken Jr., a printer, whom her father had disinherited some time before his death in 1802. Considered only a minor talent, Robert Aitken Jr. was apparently incapable of providing assistance to his overburdened sister.</p>
+            <p>One person who did provide assistance for many years after her father's death was her friend the American Philosophical Society’s Librarian John Vaughan (1756-1841, APS 1784). Nevertheless, the relationship between him and Aitken is ambiguous. Although he is described as a tireless supporter of Aitken, Vaughan couldn't - or wouldn't -- prevent her printing equipment from being seized and sold at a Sheriff's sale in 1813. Afterward, he bought most of her equipment and leased it back to her, albeit on advantageous terms. In spite of continuous printing work, Jane was sometimes forced to rely on bookbinding for her livelihood. The extant bound editions of her work include some four hundred volumes for the American Philosophical Society, a number of author’s presentation copies of her imprints and the first receipt ledger for the Athenaeum of Philadelphia. The bindings of these volumes reveal extraordinary skill and taste. Also, the similarity of these bindings to those issued from her father’s shop from the 1780’s to 1802 raises the possibility that she was responsible for much of the bindery output, in design, if not production. The quality of the examples of her bindings qualifies Aitken as a distinguished practitioner in the history of American bookbinding; in fact, the only woman bookbinder with such skill known from this period.</p>
+            <p>Aitken’s great skill, hard work, and even Vaughan's generosity as a benefactor were not enough to overcome the burden of her inherited debts, because in 1814 Jane served time for her debts in a Norristown, Pennsylvania, prison. While it is uncertain exactly how long the prison term lasted, Aitken is recorded as doing binding work in 1815. After 1815 the record of her activities becomes very sparse. The 1819 city directory lists her as "late printer," and she died on September 5, 1832 at the age of sixty-nine. It is difficult to determine exactly when and why Aitken finally retired from printing and bookbinding; but this appears to have been shortly after 1815 for the health-related reasons given in her obituary. It reported that she died after a "long and painful illness."</p>
+            <p></p>
+        </bioghist>
+        <controlaccess>
+            <persname rules="aacr" source="naf">Aitken, Robert, 1735-1802. </persname>
+            <persname rules="aacr" source="naf">Vaughan, John, 1756-1841</persname>
+            <subject source="local">American Philosophical Society</subject>
+            <subject source="ingest">Bookbinding</subject>
+            <subject source="leah">Business and Skilled Trades</subject>
+            <genreform source="leah">Business Records and Accounts</genreform>
+            <subject source="ingest">Finance, Personal</subject>
+            <subject source="leah">Philadelphia History</subject>
+            <subject source="ingest">Printers--Pennsylvania--History</subject>
+            <subject source="leah">Printing and Publishing</subject>
+            <subject source="ingest">Printing--Pennsylvania--History</subject>
+            <subject source="ingest">Women Printers</subject>
+            <subject source="leah">Women's History</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref18" level="series">
+                <did>
+                    <unittitle>Jane Aitken Papers</unittitle>
+                    <container id="cid36871" type="Box" label="Mixed materials">1</container>
+                </did>
+                <c02 id="ref19" level="item">
+                    <did>
+                        <unittitle>Various accounts, dates, sums</unittitle>
+                        <physdesc>
+                            <extent>9 items</extent>
+                        </physdesc>
+                        <unitdate>1784</unitdate>
+                        <origination label="creator">
+                            <persname source="local">Vaughan, John</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref24" level="item">
+                    <did>
+                        <unittitle>Account with estate of Robert Aitken</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1801 Oct.5-1802 July 15</unitdate>
+                        <origination label="creator">
+                            <corpname source="ingest">McAlpin and Napier.</corpname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref20" level="item">
+                    <did>
+                        <unittitle>Closure of account with Jane Aitken, first dated Nov. 19, 1800</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1801 Dec. 3</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Sparhawk, John S.</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref21" level="item">
+                    <did>
+                        <unittitle>Receipt to Robert Aitken</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1802 May 25</unitdate>
+                        <origination label="creator">
+                            <corpname source="ingest">Estate of John Stillé</corpname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref23" level="item">
+                    <did>
+                        <unittitle>Statement of the estate of John Stillé</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>May 25, 1802</unitdate>
+                        <origination label="creator">
+                            <corpname source="ingest">Estate of Robert Aitken.</corpname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref26" level="item">
+                    <did>
+                        <unittitle>Statement to Robert Aitken</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1802 July 1</unitdate>
+                        <origination label="creator">
+                            <corpname source="ingest">Sparhawk, John, estate.</corpname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref25" level="item">
+                    <did>
+                        <unittitle>Statement of the estate of Robert Aitken</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1802 June 9-July 19</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">William Richards.</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref33" level="item">
+                    <did>
+                        <unittitle>Account of the estate of Charles Campbell to Onslow Wakeford</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1802, Sept. 2-1804, Aug. 12</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Moylan, Jaspar</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref34" level="item">
+                    <did>
+                        <unittitle>Statement of account with the estate of Charles Campbell</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1802-1804</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Moylan, Jaspar</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref22" level="item">
+                    <did>
+                        <unittitle>Statement of accounts to Jane Aitken, first dated Dec. 7, 1802</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1802 Dec. 7-1803 Sept. 26</unitdate>
+                        <origination label="creator">
+                            <corpname source="ingest">McAlpin and Napier.</corpname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref30" level="item">
+                    <did>
+                        <unittitle>List of accounts rendered against the estate of Robert Aitken.</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1803</unitdate>
+                    </did>
+                    <scopecontent id="ref32">
+                        <head>Scope and Contents note</head>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref35" level="item">
+                    <did>
+                        <unittitle>Memorandum of payments of the estates of Robert Aitken and Charles Campbell by Jane Aitken</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1803</unitdate>
+                        <origination label="creator">
+                            <persname source="local">Vaughan, John</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref36" level="item">
+                    <did>
+                        <unittitle>List of weights of types and printing purchases</unittitle>
+                        <physdesc>
+                            <extent>3p.</extent>
+                        </physdesc>
+                        <unitdate>1803-1812</unitdate>
+                        <origination label="creator">
+                            <persname source="local">Vaughan, John</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref27" level="item">
+                    <did>
+                        <unittitle>List of books and binding materials</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1803 Feb.</unitdate>
+                        <origination label="creator">
+                            <persname source="local">Vaughan, John</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref28" level="item">
+                    <did>
+                        <unittitle>Notices of unpaid notes signed by Jane and Margaret Aitken</unittitle>
+                        <physdesc>
+                            <extent>3 items</extent>
+                        </physdesc>
+                        <unitdate>1803 Feb. 24- April 14</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Lohra, Peter</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref29" level="item">
+                    <did>
+                        <unittitle>Printed letter to Robert Aitken's creditors</unittitle>
+                        <physdesc>
+                            <extent>2p.</extent>
+                        </physdesc>
+                        <unitdate>1803</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Aitken, Jane, 1764-1832</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref39" level="item">
+                    <did>
+                        <unittitle>Memorandum of accounts for Robert Aitken's estate</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1804</unitdate>
+                        <origination label="creator">
+                            <persname source="local">Vaughan, John</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref37" level="item">
+                    <did>
+                        <unittitle>Statement of accounts due Robert Aitken's estate</unittitle>
+                        <physdesc>
+                            <extent>2p.</extent>
+                        </physdesc>
+                        <unitdate>1804 Aug. 14</unitdate>
+                        <origination label="creator">
+                            <persname source="local">Vaughan, John</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref38" level="item">
+                    <did>
+                        <unittitle>Statement of accounts with Jane Aitken and the A.P.S.</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1804 Aug 8-16</unitdate>
+                        <origination label="creator">
+                            <persname source="local">Vaughan, John</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref40" level="item">
+                    <did>
+                        <unittitle>Promissory note to John Vaughan</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1805 Jan. 7</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Aitken, Jane, 1764-1832</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref41" level="item">
+                    <did>
+                        <unittitle>Statement of accounts to John Vaughan in the form of a list of supplies and prices</unittitle>
+                        <physdesc>
+                            <extent>2p.</extent>
+                        </physdesc>
+                        <unitdate>1805 Jan. 15-Dec. 30</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Aitken, Jane, 1764-1832</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref42" level="item">
+                    <did>
+                        <unittitle>Notice of legal action vs. executors of Robert Aitken</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1805 Jan. 19</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Gibson, James, et. al.</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref44" level="item">
+                    <did>
+                        <unittitle>Regarding "lein" on Robert Aitken account</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1805 July 6</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Reed, Joseph, 1741-1785</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref45" level="item">
+                    <did>
+                        <unittitle>Memorandum concerning Aitken estate</unittitle>
+                        <physdesc>
+                            <extent>2p.</extent>
+                        </physdesc>
+                        <unitdate>1805 July 6</unitdate>
+                        <origination label="creator">
+                            <persname source="local">Vaughan, John</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref43" level="item">
+                    <did>
+                        <unittitle>To John Vaughan regarding binding work</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1805 July 19</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Aitken, Jane, 1764-1832</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref46" level="item">
+                    <did>
+                        <unittitle>"Adjustment of debts due by Robert Aitken's estate."</unittitle>
+                        <physdesc>
+                            <extent>2p.</extent>
+                        </physdesc>
+                        <unitdate>1805 July 9</unitdate>
+                        <origination label="creator">
+                            <persname source="local">Vaughan, John</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref47" level="item">
+                    <did>
+                        <unittitle>Memorandum of accounts</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1805 July 17-Aug. 12</unitdate>
+                        <origination label="creator">
+                            <persname source="local">Vaughan, John</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref48" level="item">
+                    <did>
+                        <unittitle>To Jane Aitken regarding binding work</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1805 July 19</unitdate>
+                        <origination label="creator">
+                            <persname source="local">Vaughan, John</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref49" level="item">
+                    <did>
+                        <unittitle>Statement of the accounts of Robert Aitken's estate</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1805 July 27</unitdate>
+                        <origination label="creator">
+                            <corpname source="ingest">Bank of the U.S.</corpname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref50" level="item">
+                    <did>
+                        <unittitle>Notice of sums owed to McAlpin and Napier by the estate of Robert Aitken</unittitle>
+                        <physdesc>
+                            <extent>2p.</extent>
+                        </physdesc>
+                        <unitdate>1805 July 27</unitdate>
+                        <origination label="creator">
+                            <persname source="local">Vaughan, John</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref51" level="item">
+                    <did>
+                        <unittitle>Receipt to John Vaughan for printing advertisement for the lands of Joseph Priestly</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1805 Aug. 16</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Aitken, Jane, 1764-1832</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref52" level="item">
+                    <did>
+                        <unittitle>Receipt to John Vaughan for the Asylum Company</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1805 Sept. 2</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Aitken, Jane, 1764-1832</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref53" level="item">
+                    <did>
+                        <unittitle>Statement of accounts with John Vaughan</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1805 Sept. 7- Dec. 6</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Aitken, Jane, 1764-1832</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref54" level="item">
+                    <did>
+                        <unittitle>Request for a loan to John Vaughan</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1805 Sept. 17</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Aitken, Jane, 1764-1832</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref55" level="item">
+                    <did>
+                        <unittitle>Statement of account with John Vaughan</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1806 March 18- Aug. 25</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Aitken, Jane, 1764-1832</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref56" level="item">
+                    <did>
+                        <unittitle>ALS to James Gibson regarding financial legalities, with Gibson's reply on verso</unittitle>
+                        <physdesc>
+                            <extent>2p.</extent>
+                        </physdesc>
+                        <unitdate>1806 March 23</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Gordon, Adam</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref57" level="item">
+                    <did>
+                        <unittitle>Statement of account with John Vaughan</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1806 Aug. 26- Dec. 25</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Aitken, Jane, 1764-1832</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref58" level="item">
+                    <did>
+                        <unittitle>To John Vaughan requesting a loan</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1806 Sept. 24</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Aitken, Jane, 1764-1832</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref59" level="item">
+                    <did>
+                        <unittitle>Account of sales of paper</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1806 Oct.</unitdate>
+                        <origination label="creator">
+                            <persname source="local">Vaughan, John</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref60" level="item">
+                    <did>
+                        <unittitle>To John Vaughan requesting money for Thomas Cooper</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1806 Dec. 16</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Aitken, Jane, 1764-1832</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref61" level="item">
+                    <did>
+                        <unittitle>To John Vaughan requesting a loan for "boards."</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1806 Dec. 17</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Aitken, Jane, 1764-1832</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref62" level="item">
+                    <did>
+                        <unittitle>To John Vaughan requesting a loan until she gets paid by Mr. Bache</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1808 Sept. 10</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Aitken, Jane, 1764-1832</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref63" level="item">
+                    <did>
+                        <unittitle>List of accounts with William Dunbar</unittitle>
+                        <physdesc>
+                            <extent>3p.</extent>
+                        </physdesc>
+                        <unitdate>1809 Jan. 2-1810 Dec. 31</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Aitken, Jane, 1764-1832</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref64" level="item">
+                    <did>
+                        <unittitle>Statement of accounts with William Dunbar</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1809 Feb. 1- Nov. 15</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Aitken, Jane, 1764-1832</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref65" level="item">
+                    <did>
+                        <unittitle>Account with John Vaughan</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1809 Feb. 7- Dec. 5</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Aitken, Jane, 1764-1832</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref66" level="item">
+                    <did>
+                        <unittitle>To John Vaughan requesting $30 for "Charles Cooper."</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1809 June 2</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Aitken, Jane, 1764-1832</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref67" level="item">
+                    <did>
+                        <unittitle>To John Vaughan asking for twelve dollars for printing Transactions</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1809 June 3</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Aitken, Jane, 1764-1832</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref68" level="item">
+                    <did>
+                        <unittitle>To John Vaughan requesting twenty dollars for printing materials</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1809 Sept. 16</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Aitken, Jane, 1764-1832</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref69" level="item">
+                    <did>
+                        <unittitle>List of accounts with John Vaughan</unittitle>
+                        <physdesc>
+                            <extent>3p.</extent>
+                        </physdesc>
+                        <unitdate>1809 Dec. 7-1811 Jan. 3</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Aitken, Jane, 1764-1832</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref80" level="item">
+                    <did>
+                        <unittitle>Account with John Vaughan and A.P.S.</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1810</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Aitken, Jane, 1764-1832</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref79" level="item">
+                    <did>
+                        <unittitle>"Mr. John Vaughan for Mr. Pennington" regarding an account with the A.P.S.</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1810</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Aitken, Jane, 1764-1832</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref70" level="item">
+                    <did>
+                        <unittitle>To John Vaughan requesting money for clothing for "Charles Cooper."</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1810 Jan. 11</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Aitken, Jane, 1764-1832</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref71" level="item">
+                    <did>
+                        <unittitle>To John Vaughan requesting money for the "sherriffs office."</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1810 Feb. 1</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Aitken, Jane, 1764-1832</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref72" level="item">
+                    <did>
+                        <unittitle>To John Vaughan requesting money "for the purpose of paying my men's wages."</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1810 Feb. 10</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Aitken, Jane, 1764-1832</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref73" level="item">
+                    <did>
+                        <unittitle>To John Vaughan requesting a $35 advance</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1810 Feb. 27</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Aitken, Jane, 1764-1832</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref74" level="item">
+                    <did>
+                        <unittitle>To John Vaughan requesting $40 for clothing for "Charles."</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1810 April 2</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Aitken, Jane, 1764-1832</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref75" level="item">
+                    <did>
+                        <unittitle>To John Vaughan asking for $23</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1810 April 21</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Aitken, Jane, 1764-1832</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref76" level="item">
+                    <did>
+                        <unittitle>To John Vaughan asking for $50 for clothing for Charles Cooper</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1810 Aug. 7</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Aitken, Jane, 1764-1832</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref77" level="item">
+                    <did>
+                        <unittitle>To John Vaughan asking for a fifty dollar loan</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1810 Nov. 8</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Aitken, Jane, 1764-1832</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref78" level="item">
+                    <did>
+                        <unittitle>To John Vaughan asking for a one hundred fifty dollar loan because she has "plenty of work but no money," and "not one stick of wood."</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1810 Dec. 19</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Aitken, Jane, 1764-1832</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref81" level="item">
+                    <did>
+                        <unittitle>Accounts with John Vaughan</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1811 Jan. 11-1812 Aug. 22</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Aitken, Jane, 1764-1832</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref82" level="item">
+                    <did>
+                        <unittitle>Note to Vaughan asking for a loan while she works on a "directory."</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1811 Jan. 19</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Aitken, Jane, 1764-1832</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref83" level="item">
+                    <did>
+                        <unittitle>Account with William Dunbar</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1811 Jan. 28-1812 Sept. 11</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Aitken, Jane, 1764-1832</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref84" level="item">
+                    <did>
+                        <unittitle>To John Vaughan asking for a loan of $130</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1811 Feb. 9</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Aitken, Jane, 1764-1832</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref85" level="item">
+                    <did>
+                        <unittitle>To John Vaughan requesting an advance for an orde</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1811 April 18</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Aitken, Jane, 1764-1832</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref87" level="item">
+                    <did>
+                        <unittitle>To John Vaughan mentioning a financial agreement with a Mr. Sullivan</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1811 May 8</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Aitken, Jane, 1764-1832</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref86" level="item">
+                    <did>
+                        <unittitle>Promissory note to William Turnbull</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1811 May 9</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Aitken, Jane, 1764-1832</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref89" level="item">
+                    <did>
+                        <unittitle>Promissory note to Jane Aitken</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1811 May 9</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Turnbull, William</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref90" level="item">
+                    <did>
+                        <unittitle>Promissory note to Jane Aitken</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1811 May 9</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Turnbull, William</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref88" level="item">
+                    <did>
+                        <unittitle>To John Vaughan asking for "6 or 700 dollars."</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1811 May 9</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Aitken, Jane, 1764-1832</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref91" level="item">
+                    <did>
+                        <unittitle>Bill of sale to John Vaughan for slates and pencils</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1811 May 21</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Aitken, Jane, 1764-1832</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref92" level="item">
+                    <did>
+                        <unittitle>A very distressed letter to John Vaughan requesting a loan</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1811 May 27</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Aitken, Jane, 1764-1832</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref93" level="item">
+                    <did>
+                        <unittitle>To John Smith about paying William Shannon</unittitle>
+                        <physdesc>
+                            <extent>2p.</extent>
+                        </physdesc>
+                        <unitdate>1811 June 14</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Chapman, William</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref94" level="item">
+                    <did>
+                        <unittitle>To John Vaughan requesting a loan</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1811 June 21</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Aitken, Jane, 1764-1832</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref95" level="item">
+                    <did>
+                        <unittitle>To John Vaughan requesting a loan</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1811 July 6</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Aitken, Jane, 1764-1832</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref96" level="item">
+                    <did>
+                        <unittitle>Order to John Vaughan to pay Mr. James McAlpin</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1811 July 8</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Aitken, Jane, 1764-1832</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref97" level="item">
+                    <did>
+                        <unittitle>Promissory note to Jane Aitken</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1811 July 8</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Turnbull, William</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref98" level="item">
+                    <did>
+                        <unittitle>Order to John Vaughan to pay J. and A.Y. Humphreys</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1811 July 11</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Aitken, Jane, 1764-1832</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref99" level="item">
+                    <did>
+                        <unittitle>To John Vaughan requesting a loan of twenty dollars in order to finish "some books for the Bank."</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1811 July 25</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Aitken, Jane, 1764-1832</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref100" level="item">
+                    <did>
+                        <unittitle>Order to John Vaughan to pay William Y. Birch "or Order" $112.50</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1811 July 27</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Aitken, Jane, 1764-1832</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref101" level="item">
+                    <did>
+                        <unittitle>To John Vaughan asking for $50</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1811 Aug. 17</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Aitken, Jane, 1764-1832</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref102" level="item">
+                    <did>
+                        <unittitle>Order to John Vaughan to Pay George Knorr $180.50 "for Value received."</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1811 Aug. 19</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Aitken, Jane, 1764-1832</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref103" level="item">
+                    <did>
+                        <unittitle>William Shannon ordering John Smith to pay Jane Aitken "all the monies that now is, or hereafter may be due to me..."</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1811 Aug. 20</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Aitken, Jane, 1764-1832</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref104" level="item">
+                    <did>
+                        <unittitle>To John Vaughan asking him to give Charles "what you can spare."</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1811 Aug. 31</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Aitken, Jane, 1764-1832</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref105" level="item">
+                    <did>
+                        <unittitle>To John Vaughan asking him to give Charles $60</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1811 Sept. 7</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Aitken, Jane, 1764-1832</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref106" level="item">
+                    <did>
+                        <unittitle>Order to John Vaughan to pay "Lohra and Carlile."</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1811 Sept. 12</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Aitken, Jane, 1764-1832</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref107" level="item">
+                    <did>
+                        <unittitle>To John Vaughan asking for $10</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1811 Sept. 17</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Aitken, Jane, 1764-1832</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref108" level="item">
+                    <did>
+                        <unittitle>To John Vaughan asking for $89.31</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1811 Sept. 19</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Aitken, Jane, 1764-1832</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref109" level="item">
+                    <did>
+                        <unittitle>Order to John Vaughan to pay "Kimber and Conrad."</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1811 Sept. 23</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Aitken, Jane, 1764-1832</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref110" level="item">
+                    <did>
+                        <unittitle>To John Vaughan asking for $50</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1811 Sept. 26</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Aitken, Jane, 1764-1832</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref111" level="item">
+                    <did>
+                        <unittitle>To John Vaughan asking for $20.</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1811 Oct. 17</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Aitken, Jane, 1764-1832</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref112" level="item">
+                    <did>
+                        <unittitle>To John Vaughan asking for "note" that he'd "promised."</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1811 Oct. 28</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Aitken, Jane, 1764-1832</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref113" level="item">
+                    <did>
+                        <unittitle>To John Vaughan asking for $130.</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1811 Nov. 2</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Aitken, Jane, 1764-1832</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref114" level="item">
+                    <did>
+                        <unittitle>To John Vaughan, a desperate request for $250</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1811 Nov. 2</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Aitken, Jane, 1764-1832</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref115" level="item">
+                    <did>
+                        <unittitle>Request to John Vaughan for an advance of thirty dollars for clothing for "Charles."</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1811 Dec. 3</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Aitken, Jane, 1764-1832</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref116" level="item">
+                    <did>
+                        <unittitle>To John Vaughan regarding a note of $120</unittitle>
+                        <physdesc>
+                            <extent>2p.</extent>
+                        </physdesc>
+                        <unitdate>1812 Jan. 29</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Aitken, Jane, 1764-1832</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref117" level="item">
+                    <did>
+                        <unittitle>Promissory note to John Vaughan</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1812 June 9</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Aitken, Jane, 1764-1832</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref118" level="item">
+                    <did>
+                        <unittitle>To John Vaughan regarding an advance of seventy dollars and Mr. Fletcher's desire to "seize."</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1812 July 10</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Aitken, Jane, 1764-1832</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref119" level="item">
+                    <did>
+                        <unittitle>Draft on James Gray to pay John Vaughan</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1812 Aug. 12</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Aitken, Jane, 1764-1832</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref120" level="item">
+                    <did>
+                        <unittitle>To John Vaughan about potential work for Mr. Bradford</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1812 Oct. 31</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Aitken, Jane, 1764-1832</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref121" level="item">
+                    <did>
+                        <unittitle>To John Vaughan requesting a "draught" on the money that Mr. Bradford owes her</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1812 Nov. 9</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Aitken, Jane, 1764-1832</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref122" level="item">
+                    <did>
+                        <unittitle>Order to Bradford and Insheck to pay John Vaughan</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1812 Nov. 26</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Aitken, Jane, 1764-1832</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref123" level="item">
+                    <did>
+                        <unittitle>Requesting a meeting with John Vaughan</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1812 Dec. 1</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Aitken, Jane, 1764-1832</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref124" level="item">
+                    <did>
+                        <unittitle>To John Vaughan asking for money for men's wages</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1812 Dec. 5</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Aitken, Jane, 1764-1832</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref125" level="item">
+                    <did>
+                        <unittitle>Account with Jane Aitken</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1812 Dec. 26-1813 Aug. 28</unitdate>
+                        <origination label="creator">
+                            <persname source="local">Vaughan, John</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref126" level="item">
+                    <did>
+                        <unittitle>Account with Jane Aitken</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1812 Dec. 26-1813 Aug. 28</unitdate>
+                        <origination label="creator">
+                            <persname source="local">Vaughan, John</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref144" level="item">
+                    <did>
+                        <unittitle>List of type purchased</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1813 ca.</unitdate>
+                        <origination label="creator">
+                            <persname source="local">Vaughan, John</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref145" level="item">
+                    <did>
+                        <unittitle>Memorandum concerning accounts</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1813</unitdate>
+                        <origination label="creator">
+                            <persname source="local">Vaughan, John</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref143" level="item">
+                    <did>
+                        <unittitle>Notice of account with Jane Aitken</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1813</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Binney and Co.</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref146" level="item">
+                    <did>
+                        <unittitle>Memorandum of assets of Jane Aitken</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1813</unitdate>
+                        <origination label="creator">
+                            <persname source="local">Vaughan, John</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref147" level="item">
+                    <did>
+                        <unittitle>Memorandum of creditors against Jane Aitken</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1813</unitdate>
+                        <origination label="creator">
+                            <persname source="local">Vaughan, John</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref127" level="item">
+                    <did>
+                        <unittitle>To John Vaughan requesting a meeting</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1813 Jan. 11</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Aitken, Jane, 1764-1832</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref128" level="item">
+                    <did>
+                        <unittitle>To Jane Aitken regarding her debt</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1813 Jan. 11</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Shoemaker, J.</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref129" level="item">
+                    <did>
+                        <unittitle>Account with John Vaughan</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1813 Jan. 29</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Aitken, Jane, 1764-1832</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref130" level="item">
+                    <did>
+                        <unittitle>To John Vaughan regarding Jane Aitken's debt</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1813 Feb. 17</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Bradford, Jr. Thomas</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref131" level="item">
+                    <did>
+                        <unittitle>To John Vaughan regarding Jane Aitken's debt</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1813 March 10</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Shoemaker, J.</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref132" level="item">
+                    <did>
+                        <unittitle>To John Porter, Esq. Re: "Thomas Morton v Jane Aitken."</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1813 March 10</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Shoemaker, J.</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref133" level="item">
+                    <did>
+                        <unittitle>To John Vaughan regarding sheriff's sale</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1813 April 7</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Sergeant, E.S.</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref134" level="item">
+                    <did>
+                        <unittitle>To Jane Aitken regarding her business and bond</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1813 April 10</unitdate>
+                        <origination label="creator">
+                            <persname source="local">Vaughan, John</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref135" level="item">
+                    <did>
+                        <unittitle>To John Vaughan accusing him of "cruelty, deceitfulness, and hypocrisy."</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1813 April 18</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Anonymous</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref136" level="item">
+                    <did>
+                        <unittitle>Memorandum of value of printing shop of Jane Aitken</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1813 May 7</unitdate>
+                        <origination label="creator">
+                            <persname source="local">Vaughan, John</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref137" level="item">
+                    <did>
+                        <unittitle>To Mr. Fry regarding the leasing terms to be offered to Jane Aitken</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1813 May 8</unitdate>
+                        <origination label="creator">
+                            <persname source="local">Vaughan, John</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref138" level="item">
+                    <did>
+                        <unittitle>To John Vaughan offering A.P.S. Transactions</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1813 June 10</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Campbell, Mary Ann Aitken</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref139" level="item">
+                    <did>
+                        <unittitle>Order to Robert Harris, Jr. to pay John Vaughan</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1813 June 16</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Aitken, Jane, 1764-1832</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref140" level="item">
+                    <did>
+                        <unittitle>To Mr. Elliot regarding payment received from Jane Aitken</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1813 June 18</unitdate>
+                        <origination label="creator">
+                            <persname source="local">Vaughan, John</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref141" level="item">
+                    <did>
+                        <unittitle>To Mr. Elliot notifying him of "further justification."</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1813 June 18</unitdate>
+                        <origination label="creator">
+                            <persname source="local">Vaughan, John</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref142" level="item">
+                    <did>
+                        <unittitle>Copy of an agreement for arbitration between George Morris, Joseph Cooper, and George A. Snyder</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1813 June 25</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Porter, John</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref148" level="item">
+                    <did>
+                        <unittitle>Memorandum of accounts most likely involving Jane Aitken with Mr. Sergant.</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1814</unitdate>
+                        <origination label="creator">
+                            <persname source="local">Vaughan, John</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref149" level="item">
+                    <did>
+                        <unittitle>To John Vaughan about binding materials.</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>n.d.</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Aitken, Jane, 1764-1832</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref150" level="item">
+                    <did>
+                        <unittitle>To John Vaughan about the money "for discount."</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>n.d.</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Aitken, Jane, 1764-1832</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref151" level="item">
+                    <did>
+                        <unittitle>To John Vaughan regarding her "answer."</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>n.d</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Aitken, Jane, 1764-1832</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref152" level="item">
+                    <did>
+                        <unittitle>To John Vaughan requesting $200</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>n.d.</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Aitken, Jane, 1764-1832</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref153" level="item">
+                    <did>
+                        <unittitle>To John Vaughan regarding Mr. Sergeant and "house security."</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>n.d.</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Aitken, Jane, 1764-1832</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref154" level="item">
+                    <did>
+                        <unittitle>To John Vaughan requesting $50</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>n.d.</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Aitken, Jane, 1764-1832</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref155" level="item">
+                    <did>
+                        <unittitle>Memorandum concerning binding prices</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>n.d.</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Aitken, Jane, 1764-1832</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref157" level="item">
+                    <did>
+                        <unittitle>List of assets of Robert Aiken's estat</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>n.d.</unitdate>
+                        <origination label="creator">
+                            <persname source="local">Vaughan, John</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref158" level="item">
+                    <did>
+                        <unittitle>List of bindery tools</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>n.d.</unitdate>
+                        <origination label="creator">
+                            <persname source="local">Vaughan, John</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref159" level="item">
+                    <did>
+                        <unittitle>List of Robert Aitken's items purchased by Vaughan</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>n.d.</unitdate>
+                        <origination label="creator">
+                            <persname source="local">Vaughan, John</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref156" level="item">
+                    <did>
+                        <unittitle>Accounts</unittitle>
+                        <physdesc>
+                            <extent>3 items</extent>
+                        </physdesc>
+                        <unitdate>n.d.</unitdate>
+                        <origination label="creator">
+                            <persname source="local">Vaughan, John</persname>
+                        </origination>
+                    </did>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

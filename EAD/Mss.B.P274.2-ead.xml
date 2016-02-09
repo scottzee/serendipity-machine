@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.P274.2-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.P274.2</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T19:50-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Patterson-Lord papers, [ca. 1809]-1876</unittitle>
+            <unitid>Mss.B.P274.2</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1461" type="Box" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>0.5 Linear feet</extent>
+                <extent>Ca. 600 items</extent>
+            </physdesc>
+            <unitdate normal="1809/1876" type="inclusive">Circa 1809-1876</unitdate>
+            <physdesc id="ref8" label="General Physical Description note">Ca. 600 items.</physdesc>
+            <abstract id="ref1" label="Abstract">This collection of Robert Patterson family papers is composed primarily of the letters of Robert Maskell Patterson, but includes some of the business and personal papers of his father, Robert, and a series of letters written from Europe in 1855 by Helen Patterson.</abstract>
+            <physloc id="ref11" label="Paging">LH-B-21-11</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Patterson family.</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref7">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Deposited by Louis R. [Louise Lord], 08/19/1978; accessioned, 1981 (1981 1201ms).</p>
+        </acqinfo>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>Robert Maskell Patterson was a professor of natural philosophy at the University of Pennsylvania and director of the U.S. Mint. His father, Robert Patterson, was a revolutionary soldier and mathematician. He taught mathematics at the University of Pennsylvania, 1779-1814, and was the director of the U.S. Mint, 1805-1824.</p>
+        </bioghist>
+        <odd id="ref9">
+            <head>Early American History Note</head>
+            <p>Previously catalogued with the Robert Patterson Collection, The Patterson-Lord Collection contains contains a range of documents that touch on many different topics, although most have to do with science and engineering. The largest portion of the documents relate to scientific correspondence to Robert Patterson, a member of the APS. Much of this correspondence is done under the cover of official APS business. Of particular note are a series of letters relating to nautical calculations that include complex equations used to determine longitude and latitude for nautical almanacs.</p>
+            <p></p>
+        </odd>
+        <controlaccess>
+            <persname rules="aacr" source="naf">Barton, Benjamin Smith, 1766-1815</persname>
+            <persname rules="aacr" source="local">Berger, Francis E.</persname>
+            <persname rules="aacr" source="naf">Buchanan, James, 1791-1868</persname>
+            <persname source="ingest">Chapman, Nathaniel, 1780-1853</persname>
+            <persname rules="aacr" source="local">Ewing, Thomas</persname>
+            <persname rules="aacr" source="naf">Fillmore, Millard, 1800-1874</persname>
+            <persname source="naf">Hassler, F. R,  (Ferdinand Rudolph), 1770-1843</persname>
+            <persname rules="aacr" source="naf">Hazard, Samuel, 1714-1758</persname>
+            <persname source="ingest">Jackson, Andrew, 1767-1845</persname>
+            <persname rules="aacr" source="naf">Moore, Samuel, 1737?-1810</persname>
+            <persname source="ingest">Palisot de Beauvois, Ambrose-Marie-François-Joseph, 1752-1820</persname>
+            <persname source="ingest">Patterson, , Robert M.,  (Robert Maskell), 1787-1854</persname>
+            <persname source="ingest">Patterson, Helen</persname>
+            <persname source="ingest">Patterson, Robert, 1743-1824</persname>
+            <persname source="ingest">Peale, Franklin,1795-1870.</persname>
+            <persname source="ingest">Peale, Rembrandt, 1778-1860</persname>
+            <persname source="ingest">Peale, Rubens, 1784-1865</persname>
+            <persname source="ingest">Russell, Jonathan, 1771-1832</persname>
+            <persname rules="aacr" source="naf">Strickland, William, 1787-1854</persname>
+            <persname rules="aacr" source="naf">Tilghman, Richard Albert, 1824-1899 </persname>
+            <corpname source="ingest">United States Mint.</corpname>
+            <persname rules="aacr" source="naf">Vaughan, John, 1756-1841</persname>
+            <persname rules="aacr" source="naf">Walsh, Robert, 1784-1859</persname>
+            <persname rules="aacr" source="local">Wistar, Caspar, 1761-1818</persname>
+            <persname source="ingest">Woodbury, Levi, 1789-1851</persname>
+            <subject source="leah">Americans Abroad</subject>
+            <subject source="leah">Education</subject>
+            <subject source="lcsh">Education -- Europe -- 19th century.</subject>
+            <genreform source="leah">General Correspondence</genreform>
+            <genreform source="leah">Institutional Records</genreform>
+            <geogname source="lcsh">Jardin des plantes (Montpellier, France)</geogname>
+            <subject source="leah">Science and Technology</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.974.8.P38p-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.974.8.P38p</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:27-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Quit rent rolls,1688/9, 1788-1793</unittitle>
+            <unitid>Mss.974.8.P38p</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1140" type="Volume" label="Manuscripts">1-2</container>
+            <physdesc>
+                <extent>2.0 Volume(s)</extent>
+                <extent>2 volumes, 60 p. </extent>
+            </physdesc>
+            <unitdate normal="1788/1793" type="bulk">Bulk, 1788-1793</unitdate>
+            <unitdate normal="1688/1798" type="inclusive">1688-1798</unitdate>
+            <abstract id="ref1" label="Abstract">These volumes are lists of quit rents due in Philadelphia County, 1 March 1688/9, and in Philadelphia and Lancaster Counties, 1788-1793.</abstract>
+            <physdesc id="ref6" label="General Physical Description note">2 volumes, 60 p.</physdesc>
+            <physloc id="ref8" label="Paging">LH-MV-E-13</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Penn family.</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref5">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented in part by Arthur Bloch, 1952. Philadelphia and Lancaster list accessioned 1959. See in-house shelf list for additional accession information.</p>
+        </acqinfo>
+        <odd id="ref7">
+            <head>Early American History Note</head>
+            <p>The Penn Family Estates Collection consists of two volumes that contain quitrent data for land the Penns owned. The first is what appears to be a copy of a rent roll from 1688/1689. It lists names of individuals and their status (first purchaser, renter, etc.) and their tax information. The second is a large ledger book from 1788 that contains the names of individuals in Lancaster County who apparently leased land still owned by the Penn family.</p>
+        </odd>
+        <controlaccess>
+            <genreform source="leah">Business Records and Accounts</genreform>
+            <geogname source="lcsh">Lancaster County (Pa.)</geogname>
+            <subject source="leah">Land and Speculation</subject>
+            <genreform source="leah">Official Government Documents and Records</genreform>
+            <subject source="leah">Pennsylvania History</subject>
+            <geogname source="lcsh">Philadelphia County (Pa.)</geogname>
+            <subject source="leah">Philadelphia History</subject>
+            <subject source="lcsh">Rent -- Pennsylvania.</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

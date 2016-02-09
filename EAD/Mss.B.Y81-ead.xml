@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.Y81-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.Y81</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T20:11-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Aaron Young papers, [ca. 1839-1894]</unittitle>
+            <unitid>Mss.B.Y81</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1666" type="Box" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>0.25 Linear feet</extent>
+                <extent>Ca. 350 items</extent>
+            </physdesc>
+            <unitdate normal="1839/1894" type="inclusive">Circa 1839-1894</unitdate>
+            <abstract id="ref1" label="Abstract">This is primarily a collection of letters, with some additional documents, concerning Young's interest in botany, geology, mineralogy, and natural history. There is information about Bowdoin College, where he studied under Parker Cleaveland. There is also much on the natural history of Maine, where he was the State Botanist in 1847-1849, and also on the Bangor Natural History Society. There are materials on Brazil in relation to Young's service there as the U.S. consul to Rio Grande do Sul from 1863 to 1873. There are also letters from his brother, John C. Young, and his sister, Sarah Augusta Young.</abstract>
+            <physdesc id="ref6" label="General Physical Description note">Ca. 350 items.</physdesc>
+            <physloc id="ref7" label="Paging">LH-B-30-7</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Young, Aaron,b. 1819.</persname>
+            </origination>
+        </did>
+        <odd id="ref8">
+            <head>Early American History Note</head>
+            <p>The Andrew Young Collection contains a series of letters that reflect Young's interest in the sciences and natural history. Most date to the mid- to late-century. Some of the later documents contain correspondence from Young relating to his time in Brazil as an American consul.</p>
+        </odd>
+        <acqinfo id="ref5">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Purchased from Sessler (Swan, no. 868, item 152; $700.00) and accessioned, 01/21/1972 (1972 507ms).</p>
+        </acqinfo>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>Aaron Young was a botanist, physician, and diplomat.</p>
+        </bioghist>
+        <controlaccess>
+            <famname source="ingest">Adams, George N.</famname>
+            <persname rules="aacr" source="naf">Agassiz, Louis, 1807-1873</persname>
+            <persname rules="aacr" source="naf">Baird, Spencer Fullerton, 1823-1887</persname>
+            <corpname source="ingest">Bangor Natural History Society.</corpname>
+            <persname rules="aacr" source="naf">Bartlett, John</persname>
+            <persname rules="aacr" source="local">Blake, Charles M.</persname>
+            <persname rules="aacr" source="naf">Bowditch, Henry I.,  (Henry Ingersoll), 1808-1892</persname>
+            <corpname source="ingest">Bowdoin College -- Students.</corpname>
+            <persname rules="aacr" source="local">Chute, Ariel P.</persname>
+            <persname rules="aacr" source="naf">Cleaveland, Parker, 1780-1858</persname>
+            <persname rules="aacr" source="naf">Emerson, John </persname>
+            <persname rules="aacr" source="naf">Gray, Asa, 1810-1888 </persname>
+            <persname rules="aacr" source="naf">Henry, Joseph, 1797-1878</persname>
+            <persname rules="aacr" source="naf">Holmes, Ezekiel, 1801-1865</persname>
+            <persname rules="aacr" source="local">Mead, S. B.</persname>
+            <persname rules="aacr" source="naf">Thurber, George, 1821-1890</persname>
+            <persname rules="aacr" source="naf">Torrey, John, 1796-1873</persname>
+            <persname rules="aacr" source="naf">Warren, John </persname>
+            <persname rules="aacr" source="local">Young, John C.</persname>
+            <persname rules="aacr" source="local">Young, Sarah Augusta</persname>
+            <genreform source="gmgpc">Albumen prints</genreform>
+            <subject source="leah">Americans Abroad</subject>
+            <subject source="lcsh">Botany.</subject>
+            <geogname source="lcsh">Brazil -- Politics and government -- 19th century.</geogname>
+            <subject source="leah">Diplomatic History</subject>
+            <genreform source="leah">Diplomatic Material</genreform>
+            <subject source="leah">Education</subject>
+            <genreform source="leah">Educational Material</genreform>
+            <subject source="lcsh">Geology.</subject>
+            <subject source="leah">International Travel</subject>
+            <subject source="lcsh">Mineralogy.</subject>
+            <subject source="lcsh">Natural history -- Maine.</subject>
+            <geogname source="lcsh">Rio Grande do Sul (Brazil) -- Politics and government -- 19th century.</geogname>
+            <subject source="leah">Science and Technology</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

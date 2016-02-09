@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.530.1.Ar2.3-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.530.1.Ar2.3</num>
+                </titleproper>
+                <author>Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:16-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>American Physical Society and APS. Joint Committee on the History of Theoretical Physics in the Twentieth Century. Bibliography</unittitle>
+            <unitid>Mss.530.1.Ar2.3</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid119851" type="Box" label="Microform">1</container>
+            <physdesc>
+                <extent>0.25 Linear feet</extent>
+            </physdesc>
+            <unitdate normal="1964/1964">Circa 1964</unitdate>
+            <abstract id="ref1" label="Abstract">Incomplete bibliography of secondary material on quantum theory, on IBM punch cards.</abstract>
+            <physdesc id="ref2" label="General Physical Description note">Ca. 850 IBM punch cards.</physdesc>
+            <physloc id="ref3" label="Paging">LH-B-31-3</physloc>
+            <origination label="creator">
+                <corpname source="ingest" role="Author (aut)">American Physical Society and American Philosophical Society. -- Joint Committee on the History of Theoretical Physics in the Twentieth Century.</corpname>
+            </origination>
+        </did>
+        <dsc/>
+    </archdesc>
+</ead>

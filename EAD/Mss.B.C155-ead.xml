@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.C155-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.C155</num>
+                </titleproper>
+                <author>Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:55-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>William James Campbell papers, 1885-1897</unittitle>
+            <unitid>Mss.B.C155</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid395" type="Box" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>0.5 Linear feet</extent>
+                <extent>300 items</extent>
+            </physdesc>
+            <unitdate normal="1885/1897" type="inclusive">1885-1897</unitdate>
+            <physdesc id="ref1" label="General Physical Description note">300 items.</physdesc>
+            <abstract id="ref2" label="Abstract">This collection of correspondence and illustrations concerns Campbell's researches into the various portraits and likenesses of Thomas Jefferson, and the drawings of Charles Balthazar Julien Fevret de Saint-Mémin. The letters are to the curators and custodians of this material.</abstract>
+            <physloc id="ref7" label="Paging">LH-MV-C-3</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Campbell, William James, 1850-1931</persname>
+            </origination>
+        </did>
+        <bioghist id="ref4">
+            <head>Biographical/Historical note</head>
+            <p>William Jenkins Campbell worked as a physician and antiquarian bookseller.</p>
+        </bioghist>
+        <acqinfo id="ref3">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Gift from William Martin Campbell and accessioned, 1975 (1975 299ms).</p>
+        </acqinfo>
+        <relatedmaterial id="ref6">
+            <head>Related Archival Materials note</head>
+            <p>For more Saint-Memin materials compiled by Campbell, see also 
+                <extref ns2:actuate="onLoad" ns2:show="new" ns2:href="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.Sa2m-ead.xml">Papers Pertaining to Engravings by Saint-Memin (Mss.B.Sa2m)</extref>.</p>
+        </relatedmaterial>
+        <controlaccess>
+            <persname rules="aacr" source="naf" role="Donor (dnr)">Campbell, William Martin</persname>
+            <persname rules="aacr" source="naf">Jefferson, Thomas, 1743-1826</persname>
+            <persname rules="aacr" source="naf">Saint-Mémin, Charles Balthazar Julien, 1770-1852</persname>
+            <subject source="lcsh">Portrait painting, French -- United States.</subject>
+            <geogname source="lcsh">United States - Biography - Portraits</geogname>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

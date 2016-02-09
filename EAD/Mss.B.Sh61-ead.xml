@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.Sh61-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.Sh61</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T20:00-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="item">
+        <did>
+            <unittitle>William Shippen journal, July 19, 1759 - January 22, 1760</unittitle>
+            <unitid>Mss.B.Sh61</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1589" type="Volume" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>1.0 Volume(s)</extent>
+            </physdesc>
+            <unitdate normal="1759/1760" type="inclusive">1759-1760</unitdate>
+            <abstract id="ref1" label="Abstract">This journal was kept while Shippen was a student of medicine in London under Dr. Colin McKenzie and Dr. William Hunter. Notable people mentioned are Dennys De Berdt, Mark Akenside, George Whitefield, John Fothergill, David Garrick, and Thomas Penn.</abstract>
+            <physdesc id="ref10" label="General Physical Description note">1 volume, 34 p.</physdesc>
+            <physloc id="ref12" label="Paging">LH-MV-E-15</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Shippen, William, 1736?-1808</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref9">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by J. Hall Pleasants and accessioned, 04/--/1951.</p>
+        </acqinfo>
+        <odd id="ref5">
+            <head>General note</head>
+            <p>This item was printed, with notes, in Betsy C. Corner, "William Shippen, Jr., Pioneer in American Medical Education," American Philosophical Society Library Memoirs 28 (Philadelphia, 1951).</p>
+        </odd>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>William Shippen was a Philadelphia physician and anatomist and taught anatomy and midwifery.</p>
+        </bioghist>
+        <odd id="ref11">
+            <head>Early American History Note</head>
+            <p>This bound volume contains the journal William Shippen kept while receiving medical training in London. Shippen would go on to become a leading doctor, specializing in obstetrics, in the early republic. This journal keeps track of his daily activities and includes personal anecdotes as well as notes on his education. Many entries note when he awoke and when he began his rotation. He sometimes describes things he witnessed in the hospital.</p>
+        </odd>
+        <controlaccess>
+            <persname rules="aacr" source="naf">Akenside, Mark, 1721-1770</persname>
+            <persname rules="aacr" source="naf">De Berdt, Dennys, 1694-1770</persname>
+            <persname rules="aacr" source="naf">Fothergill, John, 1712-1780</persname>
+            <persname rules="aacr" source="naf">Garrick, David, 1717-1779</persname>
+            <persname rules="aacr" source="naf">Hunter, William, 1718-1783</persname>
+            <persname rules="aacr" source="naf">McKenzie, Colin</persname>
+            <persname source="ingest">Penn, Thomas,1702-1775.</persname>
+            <persname rules="aacr" source="naf">Whitefield, George, 1714-1770</persname>
+            <subject source="leah">Americans Abroad</subject>
+            <genreform source="leah">Diaries</genreform>
+            <subject source="leah">Education</subject>
+            <subject source="leah">International Travel</subject>
+            <subject source="lcsh">Medical education -- England.</subject>
+            <subject source="leah">Medicine</subject>
+            <subject source="lcsh">Medicine -- England.</subject>
+            <subject source="leah">Science and Technology</subject>
+            <genreform source="leah">Travel Narratives and Journals</genreform>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

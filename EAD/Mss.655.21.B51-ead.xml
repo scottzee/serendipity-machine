@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.655.21.B51-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.655.21.B51</num>
+                </titleproper>
+                <author>Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:22-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Binny &amp; Ronaldson ledgers, 1796-1798, 1798-1800, 1800-1801</unittitle>
+            <unitid>Mss.655.21.B51</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid293" type="Volume" label="Manuscripts">1-3</container>
+            <physdesc>
+                <extent>3.0 Volume(s)</extent>
+                <extent>1 volume, photocopies</extent>
+            </physdesc>
+            <unitdate normal="1796/1801" type="inclusive">1796-1801</unitdate>
+            <abstract id="ref6" label="Abstract">The transactions of Binny and Ronaldson's Philadelphia type foundry are recorded in the volumes.</abstract>
+            <physdesc id="ref4" label="General Physical Description note">3 volumes, photocopied. Circa 376 p.</physdesc>
+            <physloc id="ref8" label="Paging">LH-MV-E-11</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Binny, Archibald, 1762-1838</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Ronaldson, James, 1768-1842</persname>
+            </origination>
+        </did>
+        <originalsloc id="ref5">
+            <head>Existence and Location of Originals note</head>
+            <p>Originals in: American Type Founders Company Library, Columbia University.</p>
+        </originalsloc>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>Binny &amp; Ronaldson was a type foundary in Philadelphia. The partnership was formed in November 1796. Archibald Binny retired in 1815, after selling his share of the business to James Ronaldson. Ronaldson retired in 1823.</p>
+        </bioghist>
+        <acqinfo id="ref1">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by Willman Spawn and accessioned 05/10/1973.</p>
+        </acqinfo>
+        <odd id="ref7">
+            <head>Early American History Note</head>
+            <p>These three volumes contain the business records of the Binny and Ronaldson type foundry that operated in Philadelphia for the years 1796-1801. Archibald Binny and James Ronaldson established the first type foundry in America in 1796. Binny was trained and worked in Scotland as a punchcutter before setting off for Philadelphia in 1796. There he met a fellow Scot, James Ronaldson, who provided the business background to launch the firm. Binny and Ronaldson printed the first dollar marks in 1797 and in 1806 purchased the remnants of Benjamin Franklin’s press operations.</p>
+            <p>This firm is often considered the first successful type foundry in America. The ledgers provide a clear accounting of the firm’s operation and clients for these five years, including its first year of operation. The ledgers detail the inventory, bills receivable, expenses, and clients of this prominent Philadelphia firm. This collection helps compose part of the American Philosophical Societies strong collection in the early American printing industry (See Benjamin Franklin, Benjamin Franklin Bache, Jane Aitken, and Matthew Carey). Binny and Ronaldson provided the means for printers, such as Benjamin Franklin Bache and Matthew Carey, both of whom are listed as clients, to produce their newspapers, pamphlets, and Bibles.</p>
+        </odd>
+        <controlaccess>
+            <corpname rules="aacr" source="naf">Binny &amp; Ronaldson .</corpname>
+            <subject source="leah">Business and Skilled Trades</subject>
+            <genreform source="leah">Business Records and Accounts</genreform>
+            <subject source="leah">Philadelphia History</subject>
+            <subject source="lcsh">Printing -- Pennsylvania -- Philadelphia.</subject>
+            <subject source="leah">Printing and Publishing</subject>
+            <subject source="lcsh">Type and type-founding -- Pennsylvania -- Philadelphia.</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

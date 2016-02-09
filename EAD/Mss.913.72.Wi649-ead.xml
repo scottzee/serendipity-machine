@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.913.72.Wi649</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:23-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Ancient Mexican material culture as revealed in Codex Vindobonensis Mexicanus, 1940</unittitle>
+            <unitid>Mss.913.72.Wi649</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1023" type="Volume" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>1.0 Volume(s)</extent>
+                <extent>1 volume, 220 p., typescript with handcolored plates</extent>
+            </physdesc>
+            <unitdate normal="1940/1940">1940</unitdate>
+            <abstract id="ref1" label="Abstract">An analysis of the material culture of one of the eight extant Mexteca codices, Codex Vindobonensis: an encoded statement of Aztec myth and ritual. Some knowledge of the Nahuatl language will help with interpretation.</abstract>
+            <physdesc id="ref11" label="General Physical Description note">1 volume, 220 p., typescript with handcolored plates.</physdesc>
+            <physloc id="ref20" label="Paging">LH-MV-E-11</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Wilbur, Walter K.</persname>
+            </origination>
+        </did>
+        <scopecontent id="ref12">
+            <head>Scope and Contents note</head>
+            <p>Native American Images note : Over three hundred vividly colored pictographs and phonetic signs of the Mextecan language. Repainted by the author, the watercolors exhibit pottery, ornaments, weapons, and ceremonial paraphernalia.</p>
+        </scopecontent>
+        <processinfo id="ref19">
+            <head>Processing Information note</head>
+            <p>Inventory not complete, only scanned images noted.</p>
+        </processinfo>
+        <acqinfo id="ref5">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by Susan Nagler Perloff and Jane Nagler Rich in memory of J. Herbert Nagler and Walter K. Wilbur and accessioned, 1982.</p>
+        </acqinfo>
+        <controlaccess>
+            <subject source="lcsh">Aztecs.</subject>
+            <genreform source="lcsh">Drawings.</genreform>
+            <subject source="lcsh">Indians of Mexico--Oaxaca</subject>
+            <geogname source="lcsh">Mexico -- Antiquities.</geogname>
+            <geogname source="lcsh">Mexico -- History -- To 1519.</geogname>
+            <subject source="lcsh">Mixtec Indians</subject>
+            <subject source="lcsh">Mixteca languages</subject>
+            <subject source="lcsh">Nahuatl language--Writing</subject>
+            <genreform source="gmgpc">Picture-writing</genreform>
+            <subject source="local">Southwest Indians</subject>
+            <subject source="lcsh">Totonac Indians</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref14" level="item">
+                <did>
+                    <unittitle>Disguises, masks, and ceremonial quivers</unittitle>
+                    <unitdate>1940</unitdate>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Disguises, masks, and ceremonial quivers " ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:3373">
+                    <daodesc>
+                        <p>Disguises, masks, and ceremonial quivers , 1940 </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref15" level="item">
+                <did>
+                    <unittitle>Five regions</unittitle>
+                    <unitdate>1943</unitdate>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Five regions " ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:3610">
+                    <daodesc>
+                        <p>Five regions , 1943 </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref16" level="item">
+                <did>
+                    <unittitle>Implements of war</unittitle>
+                    <unitdate>1943</unitdate>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Implements of war" ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:3611">
+                    <daodesc>
+                        <p>Implements of war, 1943 </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref17" level="item">
+                <did>
+                    <unittitle>Masks, devices, insignia, disguises</unittitle>
+                    <unitdate>1943</unitdate>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Masks, devices, insignia, disguises " ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:3612">
+                    <daodesc>
+                        <p>Masks, devices, insignia, disguises , 1943 </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref18" level="item">
+                <did>
+                    <unittitle>Masks, disguises, nose and breast ornaments</unittitle>
+                    <unitdate>1940</unitdate>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Masks, disguises, nose and breast ornaments " ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:3372">
+                    <daodesc>
+                        <p>Masks, disguises, nose and breast ornaments , 1940 </p>
+                    </daodesc>
+                </dao>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

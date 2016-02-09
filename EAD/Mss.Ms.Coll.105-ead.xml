@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Ms.Coll.105-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Ms.Coll.105</num>
+                </titleproper>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T20:20-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Bentley Glass Papers</unittitle>
+            <unitid>Mss.Ms.Coll.105</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid12635003" type="Box" label="Mixed materials">1-124</container>
+            <physdesc>
+                <extent>121.0 Linear feet</extent>
+            </physdesc>
+            <unitdate normal="1930/1990" type="inclusive">Circa 1930-1990</unitdate>
+            <physloc id="ref4" label="Paging">LH-SB-17-3</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Glass, Bentley, 1906-2005 </persname>
+            </origination>
+        </did>
+        <bioghist id="ref1">
+            <head>Biographical/Historical note</head>
+            <p>Born in Laichowfu, Shantung, China, January 17, 1906, and educated at Baylor (AB, 1926; MA, 1929; LLD, 1958) and the University of Texas (PhD, 1932). Full name: Hiram Bentley Glass.</p>
+            <p>Fellow in genetics at the National Research Council, the University of Oslo, the Kaiser Wilhelm Institut, and the University of Missouri, 1932-1934; before landing as an instructor at Stephens College (1934-1938); Goucher College (1938-1948), and Johns Hopkins University (1948-1965).</p>
+            <p>Research in the genetics of Drosophila, human genetics, suppressor genes, Rh blood types, and the history of genetics. Historian of genetics as well as geneticist, principal figure in the History and Genetics Project at the APS (1978-1986) and editor of Forerunners of Darwin: 1745-1859 (Baltimore: JHU, 1959)</p>
+            <p>As significant as Glass’s scientific work was, his major importance to the field may have been as an organizer and facilitator, a hub of a number of scientific networks.</p>
+            <p>Assistant editor at the Quarterly Review of Biology (1944-1948), board of trustees of Biological Abstracts (1954-1960); advisor to Committee on Biology and Medicine, AEC (1955-1963, chair, 1962-1963); member of Committee on the Genetic Effects of Atomic Radiation, Genetics Panel, National Academy of Science (1955-1964); board of trustees of Cold Spring Harbor Laboratory (1967-1973).</p>
+            <p>Member of numerous organizations: National Academy of Science, American Association for the Advancement of Science (president, 1969), Genetics Society of America (vice-president, 1970), American Society of Naturalists (secretary, 1950-1953, president, 1965), the National Association of Biology Teachers (president, 971), and the American Society of Human Genetics (president, 1967).</p>
+        </bioghist>
+        <acqinfo id="ref3">
+            <head>Immediate Source of Acquisition note</head>
+            <p>The Glass Papers were donated to the APS Library in 2000 through his daughter, Dr. Lois Edgar.</p>
+        </acqinfo>
+        <scopecontent id="ref2">
+            <head>Scope and Contents note</head>
+            <p>The papers (124 boxes; 70.5 linear feet) are divided into twelve series: Correspondence; Professional Organizations; Editorial Activities; Educational and Administrative Activities; Other Organizations; Conferences; Research Notes; Grants; Teaching, 1929-1962; Manuscripts; Reprints; Miscellaneous Materials.</p>
+        </scopecontent>
+        <controlaccess>
+            <subject source="lcsh">Drosophila--Genetics</subject>
+            <subject source="lcsh">Genetics -- History.</subject>
+            <subject source="lcsh">Human genetics</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

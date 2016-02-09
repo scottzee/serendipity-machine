@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.L534-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.L534</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T19:38-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Index to letters of Joseph Leidy, [ca. 1978]</unittitle>
+            <unitid>Mss.B.L534</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1388" type="Volume" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>1.0 Volume(s)</extent>
+                <extent>500 p., photocopy</extent>
+            </physdesc>
+            <unitdate>Circa  1978</unitdate>
+            <abstract id="ref10" label="Abstract">This comprehensive index and summary was compiled by James A. Poupard and Richard B. Thompson. It is an author, subject, location, guide, and calendar to Leidy correspondence at the Academy of Natural Sciences of Philadelphia and the College of Physicians of Philadelphia.</abstract>
+            <physdesc id="ref19" label="General Physical Description note">500 p., photocopy.</physdesc>
+            <physloc id="ref20" label="Paging">LH-MV-C-12</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Poupard, James A.,comp.</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref18">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by James A. Poupard and Richard B. Thompson and accessioned, 1978 (1978 1250ms).</p>
+            <p></p>
+        </acqinfo>
+        <bioghist id="ref14">
+            <head>Biographical/Historical note</head>
+            <p>Joseph Leidy was an anatomist and naturalist, and was elected to the American Philosophical Society in 1849.</p>
+        </bioghist>
+        <originalsloc id="ref12">
+            <head>Existence and Location of Originals note</head>
+            <p>Originals in possession of James A. Poupard and Richard B. Thompson.</p>
+        </originalsloc>
+        <controlaccess>
+            <corpname rules="aacr" source="local">Academy of Natural Sciences of Philadelphia.</corpname>
+            <corpname source="ingest">College of Physicians of Philadelphia.</corpname>
+            <persname source="ingest">Leidy, Joseph, 1823-1891</persname>
+            <persname rules="aacr" source="naf">Thompson, Richard B.</persname>
+            <genreform source="lcsh">Indexes.</genreform>
+            <subject source="lcsh">Natural history.</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

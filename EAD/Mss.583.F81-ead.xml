@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.583.F81</num>
+                </titleproper>
+                <author>Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:21-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="item">
+        <did>
+            <unittitle>[F. G.] Fostick botanical sketch book, ca.1882</unittitle>
+            <unitid>Mss.583.F81</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid56643" type="Volume" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>1.0 Volume(s)</extent>
+                <extent>1 vol., 79 p., 98 watercolors.</extent>
+            </physdesc>
+            <unitdate normal="1882/1882">Circa 1882</unitdate>
+            <physdesc id="ref1" label="General Physical Description note">1 vol., 79 p., 98 watercolors.</physdesc>
+            <abstract id="ref2" label="Abstract">Watercolor sketches of English flowers and cryptogams, arranged systematically and identified by scientific and common names.</abstract>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Fostick, [F. G.] </persname>
+            </origination>
+        </did>
+        <acqinfo id="ref3">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Acquired, 1998</p>
+        </acqinfo>
+        <controlaccess>
+            <subject source="lcsh">Cryptograms</subject>
+            <subject source="lcsh">Flowers -- England.</subject>
+            <genreform source="lcsh">Sketches.</genreform>
+            <genreform source="ingest">Watercolors</genreform>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

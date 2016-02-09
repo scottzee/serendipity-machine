@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.F530-F532</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T19:17-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Fisher family papers, 1797-1825</unittitle>
+            <unitid>Mss.B.F530-F532</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1276" type="Box" label="Manuscripts">1-2</container>
+            <physdesc>
+                <extent>1.0 Linear feet</extent>
+                <extent>Ca. 200 items</extent>
+            </physdesc>
+            <unitdate normal="1797/1825" type="inclusive">1797-1825</unitdate>
+            <physdesc id="ref9" label="General Physical Description note">Ca. 200 items.</physdesc>
+            <physloc id="ref11" label="Paging">LH-MV-E-1; LH-MV-C-7 (B F531v2)</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Fisher family.</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref8">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by Elizabeth Cadwallader Wood and accessioned, 12/03/1975.</p>
+        </acqinfo>
+        <odd id="ref4">
+            <head>General note</head>
+            <p>A few of the letters were published in Nina Bashkins, David F. Trask, et al., eds., "The United States and Russia: the beginning of relations 1765-1815" (1980). A portrait of Miers Fisher, Jr. appears on p. 626.</p>
+        </odd>
+        <bioghist id="ref2">
+            <head>Biographical/Historical note</head>
+            <p>The Fishers were a Philadelphia family of lawyers and merchants.</p>
+        </bioghist>
+        <odd id="ref10">
+            <head>Early American History Note</head>
+            <p>This collection houses an assortment of papers relating to the Fisher family of Philadelphia. Miers Fisher was a prominent Philadelphia lawyer. Assorted papers of his two sons are also included. Samuel Fisher was a merchant in Philadelphia and his brother, Miers Jr., was a merchant in Russia. This collection captures the breadth of this prominent family’s social and economic connections.</p>
+            <p>The collection has a letter book from Miers Fisher Sr. from 1797-1806 that contains letters touching on his legal and personal affairs. The letter book of his son, Samuel, chronicles his business affairs from 1819-1825.</p>
+            <p>The extensive and rich papers of Miers Jr. capture the experience of a Philadelphian living abroad in Spain and Russia in the early nineteenth century. This portion of the collection includes extensive letters, merchant accounts, meteorological observations, and a detailed diary of his travels. Miers Jr. witnessed the beginning of the Spanish War for Independence against Napoleonic rule in 1808 and wrote about it at length. In 1809, he traveled to Russia and wrote home about his experience and kept a diary. The letters of Miers Jr. describe the economy and culture of Russia, as well as provide Miers’ view on America’s foreign affairs as viewed by an American living in a foreign port. He notes especially the growing rivalry between Great Britain and the United States and the maneuvers of Napoleon.</p>
+        </odd>
+        <controlaccess>
+            <persname rules="aacr" source="naf">Fisher, Miers, 1748-1819</persname>
+            <persname rules="aacr" source="naf">Fisher, Miers, 1786-1813</persname>
+            <persname rules="aacr" source="naf">Fisher, Samuel Rowland, 1745-1834</persname>
+            <subject source="leah">Americans Abroad</subject>
+            <subject source="leah">Business and Skilled Trades</subject>
+            <genreform source="leah">Business Records and Accounts</genreform>
+            <genreform source="lcsh">Daybooks.</genreform>
+            <genreform source="lcsh">Diaries.</genreform>
+            <subject source="leah">Diplomatic History</subject>
+            <genreform source="leah">Diplomatic Material</genreform>
+            <genreform source="leah">Family Correspondence</genreform>
+            <genreform source="leah">General Correspondence</genreform>
+            <subject source="leah">International Affairs</subject>
+            <subject source="leah">International Trade.</subject>
+            <occupation source="lcsh">Lawyers.</occupation>
+            <genreform source="lcsh">Letterbooks.</genreform>
+            <subject source="leah">Marriage and Family Life</subject>
+            <occupation source="lcsh">Merchants.</occupation>
+            <genreform source="leah">Meteorological Data</genreform>
+            <subject source="lcsh">Meteorology -- Observations -- Europe.</subject>
+            <subject source="leah">Pennsylvania History</subject>
+            <geogname source="lcsh">Philadelphia (Pa.) -- Commerce -- 1815-1861.</geogname>
+            <subject source="leah">Social Life and Custom</subject>
+            <geogname source="lcsh">Soviet Union -- Description and travel.</geogname>
+            <geogname source="lcsh">Spain -- Description and travel.</geogname>
+            <subject source="leah">Travel</subject>
+            <genreform source="leah">Travel Narratives and Journals</genreform>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Film.1568-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Film.1568</num>
+                </titleproper>
+                <author>Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T20:14-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="item">
+        <did>
+            <unittitle>John Wakefield Francis papers, 1808-1861</unittitle>
+            <unitid>Mss.Film.1568</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid113862" type="Reel" label="Microform">1-3</container>
+            <physdesc>
+                <extent>3.0 Microfilm reel(s)</extent>
+            </physdesc>
+            <unitdate normal="1808/1861" type="inclusive">1808-1861</unitdate>
+            <langmaterial id="ref4" label="Language of Materials note">Note: some letters to Francis are in French.</langmaterial>
+            <abstract id="ref3" label="Abstract">Physician John Wakefield Francis (1789-1861) cofounded the New York Academy of Medicine. He served as the second president of the Academy, taught at Bellevue Hospital, wrote medical texts, and edited professional journals. Collection consists of correspondence, financial papers, writings, by-laws and minutes, and related papers of Francis and others. Correspondence of others include letters to Francis's associates and family members. Financial documents, 1798-1851, are accounts, receipts, receipt books, checks, and collection notices. Writings are speeches, lectures and notes of Francis and others. Also, minutes and by-laws, 1807-1810, of the Medical and Surgical Society of the University of New York State; and printed material.</abstract>
+            <physdesc id="ref2" label="General Physical Description note">3 microfilm reels.</physdesc>
+            <physloc id="ref7" label="Paging">LH-RR-Media Rm-7</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Francis, John Wakefield, 1789-1861</persname>
+            </origination>
+        </did>
+        <originalsloc id="ref5">
+            <head>Existence and Location of Originals note</head>
+            <p>Originals in Manuscripts &amp; Archives Division, New York Public Library.</p>
+        </originalsloc>
+        <bioghist id="ref1">
+            <head>Biographical/Historical note</head>
+            <p>Physician John Wakefield Francis (1789-1861) cofounded the New York Academy of Medicine. He served as the second president of the Academy, taught at Bellevue Hospital, wrote medical texts, and edited professional journals.</p>
+        </bioghist>
+        <odd id="ref6">
+            <head>Early American History Note</head>
+            <p>This is a microfilm of an early American collection that may be of interest to researchers at the APS and may complement an original manuscript collection at the APS.</p>
+        </odd>
+        <controlaccess>
+            <genreform source="lcsh">Correspondence.</genreform>
+            <genreform source="lcsh">Lectures.</genreform>
+            <genreform source="leah">Microfilm Collection</genreform>
+            <genreform source="lcsh">Receipts.</genreform>
+            <genreform source="lcsh">Speeches.</genreform>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

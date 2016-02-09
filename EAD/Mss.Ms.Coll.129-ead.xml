@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Ms.Coll.129</num>
+                </titleproper>
+                <author>Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T20:28-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc audience="internal" level="collection">
+        <did>
+            <unittitle>Jane M. Rosenthal Papers</unittitle>
+            <unitid>Mss.Ms.Coll.129</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid120431" type="Box" label="Manuscripts">1-19</container>
+            <physdesc>
+                <extent>9.5 Linear feet</extent>
+            </physdesc>
+            <unitdate normal="1900/1900">1900</unitdate>
+            <physdesc id="ref3" label="General Physical Description note">9.5 linear feet.</physdesc>
+            <langmaterial id="ref4" label="Language of Materials note">Includes a large number of cassette and reel to reel tapes in Nahuatl.</langmaterial>
+            <abstract id="ref2" label="Abstract">The Jane M. Rosenthal papers includes a large number of cassette and reel to reel tapes in Nahuatl.</abstract>
+            <physloc id="ref5" label="Paging">LH-SB-25-3; LH-B-32-7 (Recordings)</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="local" role="Author (aut)">Rosenthal, Jane M.</persname>
+            </origination>
+        </did>
+        <bioghist id="ref1">
+            <head>Biographical/Historical note</head>
+            <p>The linguist Jane M. Rosenthal specialized in study of the Tlaxcala dialect of Nahuatl. She received an MA from the University of Chicago in 1971 for the study "The omnipresent problem of omnipresent in classical Nahuatl."</p>
+        </bioghist>
+        <controlaccess>
+            <subject source="lcsh">Nahuatl language</subject>
+            <subject source="lcsh">Tlaxcalan Indians</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref6" level="series">
+                <did>
+                    <unittitle>Audio recordings</unittitle>
+                </did>
+                <c02 id="ref8" level="file">
+                    <did>
+                        <unittitle>Sound tape reels</unittitle>
+                        <physdesc>
+                            <extent>38.0 Reel(s)</extent>
+                        </physdesc>
+                        <unitdate>1962, 1970-1974</unitdate>
+                    </did>
+                    <c03 id="ref13" level="file">
+                        <did>
+                            <unittitle>Nahuatl language recordings made in Tlaxcala</unittitle>
+                            <unitid>Reels.01</unitid>
+                            <physdesc>
+                                <extent>32.0 Reel(s)</extent>
+                            </physdesc>
+                            <unitdate normal="1970/1975" type="inclusive">1970-1975</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref10" level="file">
+                        <did>
+                            <unittitle>New Year Greeting by Dionisio Atonal</unittitle>
+                            <unitid>Reels.02</unitid>
+                            <unitdate>1973, 1978</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref12" level="file">
+                        <did>
+                            <unittitle>Nahuatl elicitations recorded in San Andrés, Morelos</unittitle>
+                            <unitid>Reels.03</unitid>
+                            <physdesc>
+                                <extent>2.0 Reel(s)</extent>
+                            </physdesc>
+                            <unitdate>1962</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref11" level="file">
+                        <did>
+                            <unittitle>Reading of items recorded for the Linguistic Atlas of New England</unittitle>
+                            <unitid>Reels.04</unitid>
+                            <physdesc>
+                                <extent>3.0 Reel(s)</extent>
+                            </physdesc>
+                            <unitdate>circa 1963</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref14" level="subseries">
+                    <did>
+                        <unittitle>Audiocassettes</unittitle>
+                        <physdesc>
+                            <extent>28.0 Tape(s)</extent>
+                        </physdesc>
+                        <unitdate normal="1978/1982" type="bulk">Bulk, 1978-1982</unitdate>
+                        <unitdate normal="1972/1989" type="inclusive">1972, 1978-1979, 1982-1984, 1986, 1989</unitdate>
+                    </did>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

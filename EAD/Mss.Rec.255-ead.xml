@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Rec.255-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Rec.255</num>
+                    <num>Mss.Rec.255</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Brian Carpenter</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+                <date>January 2011</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T21:15-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Hualapai Texts I</unittitle>
+            <unitid>Mss.Rec.255</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="nai"/>
+            </langmaterial>
+            <container id="cid12960001" type="Cassette" label="Audio">1</container>
+            <physdesc>
+                <extent>1.0 Tape(s)</extent>
+            </physdesc>
+            <unitdate>12-12-1994</unitdate>
+            <abstract id="ref3" label="Abstract">Recorded in Peach Springs, Arizona on 12 December 1994. Autobiographical stories and conversation given in Hualapai only.</abstract>
+            <physdesc id="ref2" label="General Physical Description note">1 sound cassette (DAT, 58 min.) : digital, stereo.</physdesc>
+            <physloc id="ref35" label="Paging">LH-B-32-5</physloc>
+            <origination label="creator">
+                <persname source="ingest">Bener, Jorgine</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Ichihashi, Kumiko</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest">Walema, Mary Jane</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest">Wescogame, Betty</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref4">
+            <head>Immediate Source of Acquisition</head>
+            <p>Presented by Kumiko Ichihashi in 1996. This material was recorded with the assistance of a Phillips Fund grant.</p>
+        </acqinfo>
+        <relatedmaterial id="ref5">
+            <head>Related Archival Materials</head>
+            <p>Project report ("Clause Combining in Hualapai," 1 p.) and tape index available in 
+                <extref ns2:actuate="onLoad" ns2:show="new" ns2:href="http://www.amphilsoc.org/mole/view?docId=ead/Mss.497.3.Am4-ead.xml">Phillips Fund Collection</extref> (Mss.497.3.Am4).</p>
+        </relatedmaterial>
+        <controlaccess>
+            <subject source="lcsh">Hualapai Indians--Social life and customs</subject>
+            <subject source="lcsh">Hualapai language</subject>
+            <genreform source="ingest">Sound recordings</genreform>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref6" level="series">
+                <did>
+                    <unittitle>Audio recordings</unittitle>
+                </did>
+                <c02 id="ref7" level="file">
+                    <did>
+                        <unittitle>Life Story</unittitle>
+                        <unitid>01-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1994-12-12</unitdate>
+                        <physdesc id="ref8" label="General Physical Description note">
+                            <extent>00:05:36</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Ichihashi, Kumiko</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Walema, Mary Jane</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref10">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (RDAT) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1721" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:2969">
+                        <daodesc>
+                            <p>APSdigrec_1721</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Autobiography</subject>
+                        <subject source="lcsh">Hualapai Indians--Social life and customs</subject>
+                        <subject source="lcsh">Hualapai language</subject>
+                        <geogname source="ingest">Peach Springs (Ariz.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref11" level="file">
+                    <did>
+                        <unittitle>Life Story</unittitle>
+                        <unitid>01-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1994-12-12</unitdate>
+                        <physdesc id="ref12" label="General Physical Description note">
+                            <extent>00:12:30</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Ichihashi, Kumiko</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Wescogame, Betty</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref14">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (RDAT) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1722" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:2968">
+                        <daodesc>
+                            <p>APSdigrec_1722</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Autobiography</subject>
+                        <subject source="lcsh">Hualapai Indians--Social life and customs</subject>
+                        <subject source="lcsh">Hualapai language</subject>
+                        <geogname source="ingest">Peach Springs (Ariz.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref15" level="file">
+                    <did>
+                        <unittitle>Peach Festival</unittitle>
+                        <unitid>01-03</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1994-12-12</unitdate>
+                        <physdesc id="ref16" label="General Physical Description note">
+                            <extent>00:05:26</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Ichihashi, Kumiko</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Walema, Mary Jane</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Wescogame, Betty</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref18">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (RDAT) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1723" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:2966">
+                        <daodesc>
+                            <p>APSdigrec_1723</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Festivals--Arizona</subject>
+                        <subject source="lcsh">Hualapai language</subject>
+                        <geogname source="ingest">Peach Springs (Ariz.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref19" level="file">
+                    <did>
+                        <unittitle>Conference in New Mexico</unittitle>
+                        <unitid>01-04</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1994-12-12</unitdate>
+                        <physdesc id="ref20" label="General Physical Description note">
+                            <extent>00:03:39</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Ichihashi, Kumiko</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Walema, Mary Jane</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Wescogame, Betty</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref22">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (RDAT) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1724" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:2964">
+                        <daodesc>
+                            <p>APSdigrec_1724</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Hualapai Indians</subject>
+                        <subject source="lcsh">Hualapai language</subject>
+                        <subject source="ingest">New Mexico</subject>
+                        <geogname source="ingest">Peach Springs (Ariz.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref23" level="file">
+                    <did>
+                        <unittitle>Boat Trip</unittitle>
+                        <unitid>01-05</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1994-12-12</unitdate>
+                        <physdesc id="ref24" label="General Physical Description note">
+                            <extent>00:10:57</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Ichihashi, Kumiko</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Wescogame, Betty</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref26">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (RDAT) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1725" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:2965">
+                        <daodesc>
+                            <p>APSdigrec_1725</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Hualapai Indians--Social life and customs</subject>
+                        <subject source="lcsh">Hualapai language</subject>
+                        <geogname source="ingest">Peach Springs (Ariz.)</geogname>
+                        <subject source="ingest">Voyages and travel</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref27" level="file">
+                    <did>
+                        <unittitle>Rock Writings</unittitle>
+                        <unitid>01-06</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1994-12-12</unitdate>
+                        <physdesc id="ref28" label="General Physical Description note">
+                            <extent>00:03:36</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Ichihashi, Kumiko</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Wescogame, Betty</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref30">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (RDAT) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1726" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:2967">
+                        <daodesc>
+                            <p>APSdigrec_1726</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Hualapai Indians--Social life and customs</subject>
+                        <subject source="lcsh">Hualapai language</subject>
+                        <geogname source="ingest">Peach Springs (Ariz.)</geogname>
+                        <subject source="ingest">Petroglyphs--Arizona</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref31" level="file">
+                    <did>
+                        <unittitle>Conversation in Hualapai</unittitle>
+                        <unitid>01-07</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1994-12-12</unitdate>
+                        <physdesc id="ref32" label="General Physical Description note">
+                            <extent>00:16:09</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Bener, Jorgine</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Ichihashi, Kumiko</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Walema, Mary Jane</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Wescogame, Betty</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref34">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (RDAT) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1727" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:2970">
+                        <daodesc>
+                            <p>APSdigrec_1727</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Hualapai language</subject>
+                        <geogname source="ingest">Peach Springs (Ariz.)</geogname>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.657.Sh6-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.657.Sh6</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney. Revised by Friederike Baer (NEH 2010).</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:22-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Joseph Shippen waste book, 1749-1750</unittitle>
+            <unitid>Mss.657.Sh6</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1006" type="Volume" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>1.0 Volume(s)</extent>
+                <extent>1 volume, 138 p.</extent>
+            </physdesc>
+            <unitdate normal="1749/1750" type="inclusive">1749-1750</unitdate>
+            <physdesc id="ref6" label="General Physical Description note">1 volume, 138 p.</physdesc>
+            <abstract id="ref1" label="Abstract">This waste book contains accounts with various persons in Pennsylvania, Maryland, and New Jersey for dry-goods, notions, rum, cutlery, glassware, and medicines.</abstract>
+            <physloc id="ref9" label="Paging">LH-MV-E-11</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Shippen, Joseph,1706-1793.</persname>
+            </origination>
+        </did>
+        <scopecontent id="ref7">
+            <head>Scope and Contents note</head>
+            <p>This wastebook contains accounts with various persons in Pennsylvania, Maryland, and New Jersey for a range of goods such as dry-goods, notions, rum, cutlery, glassware, and medicines. The book also includes bills for services such as sweeping the chimney and mending a store window. It covers the period from June 1, 1749 to May 31, 1750.</p>
+        </scopecontent>
+        <odd id="ref8">
+            <head>Early American History Note</head>
+            <p>This volume contains a range of business transactions relating to Joseph Shippen’s business as a Philadelphia merchant. The volume, dated 1749-1750, records the name of a customer, what was purchased, and its price.</p>
+        </odd>
+        <acqinfo id="ref5">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Received and accessioned, 1917 (657 Sh6).</p>
+        </acqinfo>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>Joseph Shippen (1706-1793) was a merchant. The Shippen family was one of the most prominent families in eighteenth and nineteenth century Philadelphia.</p>
+            <p>Joseph Shippen was the third of seven children of Joseph Shippen and Abigail Grosse. His father was a founding member of Benjamin Franklin’s Junto, an association of young men established “for mutual information and public good.” His brothers were the merchant and judge Edward (1703-1781, APS 1769) and the physician William (1712-1801), often referred to as William Shippen, the Elder. His sister Anne (1710-1790) was married to the merchant Charles Willing (1710-1754), mayor of Philadelphia and one of the founders of the University of Pennsylvania.</p>
+            <p>In 1742, Joseph Shippen, who went in the family by the name of “Gentleman Joe,” was elected to the Philadelphia City Council in which he served for many years. He subsequently moved to Germantown, where he died. Shippen was married to Mary Kearney of Barbados. They had eight children.</p>
+            <p></p>
+        </bioghist>
+        <controlaccess>
+            <genreform source="lcsh">Accounts.</genreform>
+            <subject source="leah">Business and Skilled Trades</subject>
+            <genreform source="leah">Business Records and Accounts</genreform>
+            <geogname source="lcsh">Philadelphia (Pa.) -- Commerce.</geogname>
+            <subject source="leah">Trade</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

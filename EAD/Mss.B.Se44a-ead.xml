@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.Se44a-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.Se44a</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T20:00-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Sellers family genealogical material, [n.d.]</unittitle>
+            <unitid>Mss.B.Se44a</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1584" type="Box" label="Manuscripts">1-4</container>
+            <physdesc>
+                <extent>2.0 Linear feet</extent>
+                <extent>Ca. 500 index cards; 2 folders</extent>
+            </physdesc>
+            <unitdate>n.d.</unitdate>
+            <abstract id="ref1" label="Abstract">These materials include lists of addresses of family descendants, a genealogy prepared by George Escol Sellers, and flour sacks from the Sellers' Millbourne Mills, Pennsylvania.</abstract>
+            <physdesc id="ref6" label="General Physical Description note">Ca. 500 index cards; 2 folders.</physdesc>
+            <physloc id="ref7" label="Paging">LH-MV-B-1; LH-SB-Black Case-29 (Map, OS)</physloc>
+            <origination label="creator">
+                <corpname source="ingest" role="Author (aut)">Sellers Family Association.</corpname>
+            </origination>
+        </did>
+        <acqinfo id="ref5">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by the Sellers Family Association through Mrs. Edward Webster and accessioned, 04/15/1980 (1980 1210ms).</p>
+            <p></p>
+        </acqinfo>
+        <controlaccess>
+            <famname source="ingest">Sellers family.</famname>
+            <persname rules="aacr" source="local">Sellers, George Escol</persname>
+            <geogname source="lcsh">Millbourne (Pa.)</geogname>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

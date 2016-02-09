@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.974.8.G76cf-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.974.8.G76cf</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:27-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Inns and taverns of colonial Philadelphia, 1950-1953</unittitle>
+            <unitid>Mss.974.8.G76cf</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1130" type="Box" label="Manuscripts">1-3</container>
+            <physdesc>
+                <extent>0.5 Linear feet</extent>
+                <extent>Ca. 2600 cards</extent>
+            </physdesc>
+            <unitdate normal="1950/1953" type="inclusive">1950-1953</unitdate>
+            <abstract id="ref1" label="Abstract">This is research data on taverns and tavern owners in eighteenth-century Philadelphia, used by Graham for his article, "The Taverns of Colonial Philadelphia" in "Historic Philadelphia" (APS, 1953). There is a guide to the data, a bibliographic card file, a card file of owners (1790-1800), and a card file of taverns.</abstract>
+            <physloc id="ref11" label="Paging">LH-MV-E-13 (974.8 G76); LH-MV-B-11 (974.8 G76cf)</physloc>
+            <physdesc id="ref10" label="General Physical Description note">Ca. 2600 cards.</physdesc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Graham, Robert Earle,comp.</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref9">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by Robert Earle Graham and accessioned, 12/04/1981 (1981 1468ms).</p>
+        </acqinfo>
+        <odd id="ref5">
+            <head>General note</head>
+            <p>Relating to this collection is another item by Graham, "Philadelphia inns and taverns: 1774-1780." Unpublished paper, University of Pennsylvania, 1952 (974.8 G76).</p>
+        </odd>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>Robert Earle Graham is a historian of Philadelphia colonial life; he compiled this collection while a graduate student at the University of Pennsylvania.</p>
+        </bioghist>
+        <controlaccess>
+            <genreform source="lcsh">Card files.</genreform>
+            <subject source="lcsh">Hotels -- United States -- 18th century.</subject>
+            <subject source="lcsh">Lodging-houses -- United States -- 18th century.</subject>
+            <geogname source="lcsh">Philadelphia (Pa.) -- Social life and customs.</geogname>
+            <geogname source="lcsh">United States -- Social life and customs -- To 1775.</geogname>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

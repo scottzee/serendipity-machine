@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.970.6.B23h-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.970.6.B23h</num>
+                </titleproper>
+                <author>Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:26-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="item">
+        <did>
+            <unittitle>Haida carvers in argillite</unittitle>
+            <unitid>Mss.970.6.B23h</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid119922" type="Volume" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>1.0 Volume(s)</extent>
+                <extent>1 vol., ca. 530p.</extent>
+            </physdesc>
+            <unitdate normal="1954/1954">1954</unitdate>
+            <abstract id="ref3" label="Abstract">A work intended as a sequel to Barbeau (1953), "Haida myths illustrated in argillite carvings," National Museum of Canada, Museum Bulletin 127. In addition to discussing Skidegat and Masset carvers and their work, the author presents material on carvers as medicine men, material on shamanism and witchcraft, classification of the subjects of statuettes (chiefs and illustration of myths). An appendix includes myths recorded by William Beynon among the Skidegat, Tsimshian, and Niskae from 1952-1954.</abstract>
+            <physdesc id="ref1" label="General Physical Description note">1 volume, 530 p.</physdesc>
+            <physloc id="ref6" label="Paging">LH-MV-E-13</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Barbeau, Marius, 1883-1969</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref2">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by Charles Marius Barbeau, 1954.</p>
+        </acqinfo>
+        <altformavail id="ref5">
+            <head>Existence and Location of Copies note</head>
+            <p>Printed (in part), Barbeau (1957), "Haida carvers in argillite," Canada Geological Survey, Museum Bulletin 139; and Barbeau (1961), "Huron-Wyandot traditional narrative in translations and native texts," National Museum of Canada, Bulletin 165.</p>
+        </altformavail>
+        <dsc/>
+    </archdesc>
+</ead>

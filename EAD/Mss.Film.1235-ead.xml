@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Film.1235-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Film.1235</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T20:12-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Henry Laurens papers, 1747-1882</unittitle>
+            <unitid>Mss.Film.1235</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1741" type="Reel" label="Microform">1-19</container>
+            <physdesc>
+                <extent>19.0 Microfilm reel(s)</extent>
+            </physdesc>
+            <unitdate normal="1747/1882" type="inclusive">1747-1882</unitdate>
+            <physdesc id="ref9" label="General Physical Description note">19 microfilm reels.</physdesc>
+            <physloc id="ref11" label="Paging">LH-RR-Media Rm-4</physloc>
+            <origination label="creator">
+                <persname source="naf" role="Author (aut)">Laurens, Henry, 1724-1792</persname>
+            </origination>
+        </did>
+        <odd id="ref10">
+            <head>Early American History Note</head>
+            <p>This is a microfilm of an early American collection that may be of interest to researchers at the APS and may complement an original manuscript collection at the APS.</p>
+        </odd>
+        <acqinfo id="ref8">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Purchased from the South Carolina Historical Society ($200.00) and accessioned, 1966 (1966 2251mf).</p>
+        </acqinfo>
+        <odd id="ref6">
+            <head>General note</head>
+            <p>There is a table of contents on the first reel.</p>
+        </odd>
+        <bioghist id="ref4">
+            <head>Biographical/Historical note</head>
+            <p>Henry Laurens was a merchant; he was elected to the American Philosophical Society in 1772.</p>
+        </bioghist>
+        <originalsloc id="ref2">
+            <head>Existence and Location of Originals note</head>
+            <p>Originals in South Carolina Historical Society.</p>
+        </originalsloc>
+        <controlaccess>
+            <corpname source="ingest">United States. -- Congress.</corpname>
+            <subject source="lcsh">Merchants.</subject>
+            <genreform source="leah">Microfilm Collection</genreform>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Film.1416-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Film.1416</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T20:13-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>The Beynon manuscript, [n.d.]</unittitle>
+            <unitid>Mss.Film.1416</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1804" type="Reel" label="Microform">1-4</container>
+            <physdesc>
+                <extent>4.0 Microfilm reel(s)</extent>
+            </physdesc>
+            <unitdate>n.d.</unitdate>
+            <physdesc id="ref6" label="General Physical Description note">4 microfilm reels.</physdesc>
+            <abstract id="ref1" label="Abstract">This microfilm contains a collection of 252 Tsimshian texts, with interlinear translations.</abstract>
+            <physloc id="ref7" label="Paging">LH-RR-Media Rm-6</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Beynon, William, 1888-1958</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref5">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Purchased from the Microfilm Corporation of America ($225.00) and accessioned, 03/21/1980 (1980 437-440mf).</p>
+            <p></p>
+        </acqinfo>
+        <originalsloc id="ref3">
+            <head>Existence and Location of Originals note</head>
+            <p>Originals in Columbia University.</p>
+        </originalsloc>
+        <controlaccess>
+            <subject source="lcsh">Indians of North America--Alaska--Legends</subject>
+            <subject source="lcsh">Tsimshian Indians--Legends</subject>
+            <subject source="lcsh">Tsimshian language--Texts</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

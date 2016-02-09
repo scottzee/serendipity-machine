@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.970.3.J25-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.970.3.J25</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:26-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="item">
+        <did>
+            <unittitle>Some account of my journey to the Seneca Nation of Indians, and residence amongst that people, 1798-1799</unittitle>
+            <unitid>Mss.970.3.J25</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1076" type="Volume" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>1.0 Volume(s)</extent>
+                <extent>1 volume, 181 p. </extent>
+            </physdesc>
+            <unitdate normal="1798/1799" type="inclusive">1798-1799</unitdate>
+            <physdesc id="ref7" label="General Physical Description note">1 volume, 181 p.</physdesc>
+            <physloc id="ref9" label="Paging">LH-MV-E-16</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Jackson, Halliday,1771-1835.</persname>
+            </origination>
+        </did>
+        <odd id="ref8">
+            <head>Early American History Note</head>
+            <p>This manuscript, entitled “An account of my journey to the Seneca Nation of Indians, and residence amongst that people,” was compiled by Halliday Jackson, a Quaker missionary, during his yearlong residence with the Seneca Nation in New York. Jackson’s chronicle is well-written, detailed, and often fascinating. It includes descriptions of daily life, weather, customs, and minutes of councils. A similar version was edited by Anthony F.C. Wallace and published in 
+                <emph render="italic">Pennsylvania History</emph> in 1952.</p>
+        </odd>
+        <acqinfo id="ref6">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Purchased from Sessler (Parke-Bernet sale; $500.00) and accessioned, 12/10/1964 (1964 2864ms).</p>
+        </acqinfo>
+        <odd id="ref4">
+            <head>General note</head>
+            <p>Another copy of this journal, worded differently, was edited by Anthony F. C. Wallace and published in 
+                <emph render="italic">Pennsylvania History</emph> 19 (1952): 177, 325.</p>
+        </odd>
+        <bioghist id="ref2">
+            <head>Biographical/Historical note</head>
+            <p>Halliday Jackson was a Pennsylvania Quaker missionary to the Indians.</p>
+        </bioghist>
+        <controlaccess>
+            <subject source="lcsh">Indians of North America--Missions</subject>
+            <genreform source="lcsh">Journals (notebooks).</genreform>
+            <subject source="leah">Native America</subject>
+            <subject source="lcsh">Seneca Indians--Missions</subject>
+            <subject source="lcsh">Society of Friends--Missions</subject>
+            <genreform source="leah">Travel Narratives and Journals</genreform>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

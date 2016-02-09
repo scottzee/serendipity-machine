@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Rec.61</num>
+                </titleproper>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T21:17-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Highland Chontal Dialect Survey</unittitle>
+            <unitid>Mss.Rec.61</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="nai"/>
+            </langmaterial>
+            <physdesc>
+                <extent>23.0 Reel(s)</extent>
+            </physdesc>
+            <unitdate>1967</unitdate>
+            <physdesc id="ref2" label="General Physical Description">11 sound tape reels (16 hr., 50 min.) : analog, 1 7/8 ips, half track, mono ; 5 in.</physdesc>
+            <abstract id="ref4" label="Abstract">Field recordings made in various locations in southeastern Oaxaca, Mexico in the summer of 1967 by Paul R. Turner with numerous Highland Chontal speakers. Elicitations of Highland Chontal words and phrases, using a common Spanish word list for all consultants.</abstract>
+        </did>
+        <relatedmaterial id="ref1">
+            <head>Related Archival Materials</head>
+            <p>A project report accompanying these recordings can be found in 
+                <extref ns2:actuate="onLoad" ns2:show="new" ns2:href="http://www.amphilsoc.org/mole/view?docId=ead/Mss.497.3.Am4-ead.xml">Phillips Fund Collection</extref> (Mss.497.3.Am4).</p>
+        </relatedmaterial>
+        <odd id="ref3">
+            <head>General note</head>
+            <p>This collection was originally recorded on 23 3-1/2 sound tape reels of 300 ft. each that were transferred to 5-inch reels for storage. Each 5-inch reel contains two of the collector's original reels.</p>
+        </odd>
+        <acqinfo id="ref5">
+            <head>Immediate Source of Acquisition</head>
+            <p>Donated by Paul R. Turner in 1968 (Acc. 1968 469r). This material was recorded with the assistance of a Phillips Rund grant.</p>
+        </acqinfo>
+        <dsc/>
+    </archdesc>
+</ead>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.509.En3-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.509.En3</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:15-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>English Scientific Autograph Collection, [ca. 19th century]</unittitle>
+            <unitid>Mss.509.En3</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid876" type="Box" label="Manuscripts">1-6</container>
+            <physdesc>
+                <extent>3.0 Linear feet</extent>
+                <extent>Ca. 3,000 items</extent>
+            </physdesc>
+            <unitdate normal="1800/1899" type="inclusive">Circa 19th century</unitdate>
+            <abstract id="ref4" label="Abstract">The collection is a miscellaneous group of letters of mainly British scientists and physicians, purchased as an existing autograph collection. There are a few American signatures. The letters are primarily from the nineteenth century and focus on medical and geological topics, but also there are some earlier and later dates. In addition to the letters are anatomical drawings of surgery, sketches of bones, and one geological notebook.</abstract>
+            <physdesc id="ref7" label="General Physical Description note">Ca. 3,000 items.</physdesc>
+            <physloc id="ref8" label="Paging">LH-B-31-2</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Various authors</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref3">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Purchased from Sessler - Sotheby (no. 550; £715) and accessioned, 1976 (1976 298ms).</p>
+        </acqinfo>
+        <controlaccess>
+            <persname rules="aacr" source="local">Adler, Joshua</persname>
+            <persname rules="aacr" source="naf">Allen, William </persname>
+            <persname rules="aacr" source="naf">Baird, Spencer Fullerton, 1823-1887</persname>
+            <persname rules="aacr" source="naf">Bather, F. A.</persname>
+            <persname rules="aacr" source="naf">Beaufort, Francis, Sir, 1774-1857</persname>
+            <persname rules="aacr" source="naf">Bell, Alfred</persname>
+            <persname source="ingest">Brewster, David, Sir, 1781-1868</persname>
+            <persname rules="aacr" source="local">Chaversworth, J. Kaye</persname>
+            <persname rules="aacr" source="naf">Coues, Elliott, 1842-1899</persname>
+            <persname rules="aacr" source="local">Cuming, Hugh, 1791-1865</persname>
+            <persname rules="aacr" source="naf">Dalton, John</persname>
+            <persname rules="aacr" source="local">Damon, Robert</persname>
+            <persname source="naf">Flower , William Henry, 1831-1899</persname>
+            <persname rules="aacr" source="naf">Jekyll, Gertrude, 1843-1932</persname>
+            <persname source="naf">Jenner, William, Sir, 1815-1898</persname>
+            <persname rules="aacr" source="naf">Knight, T. A.,  (Thomas Andrew), 1759-1838 </persname>
+            <persname source="naf">Lankester, E. Ray, Sir,  (Edwin Ray), 1847-1929</persname>
+            <persname source="ingest">Leslie, John</persname>
+            <persname source="naf">Lubbock, John, Sir, 1834-1913</persname>
+            <persname source="naf">Mantell, Gideon Algernon, 1790-1852</persname>
+            <persname source="ingest">Newton, Alfred, 1829-1907</persname>
+            <persname rules="aacr" source="naf">Owen, Richard, 1804-1892</persname>
+            <persname source="ingest">Paget, James, Sir, 1814-1899</persname>
+            <persname source="ingest">Sabine, Edward, Sir, 1788-1883</persname>
+            <persname source="ingest">Wallace, Alfred Russel, 1823-1913</persname>
+            <famname source="ingest">Wellington, Arthur Wellesley, -- Duke of, -- 1769-1852.</famname>
+            <persname source="ingest">Whewell, William, 1794-1866</persname>
+            <persname source="ingest">Wood, J. G. (John George), 1827-1889</persname>
+            <genreform source="lcsh">Drawings.</genreform>
+            <subject source="lcsh">Geology.</subject>
+            <subject source="lcsh">Medicine.</subject>
+            <subject source="lcsh">Physicians -- Great Britain.</subject>
+            <subject source="lcsh">Scientists -- Great Britain.</subject>
+            <genreform source="lcsh">Sketches.</genreform>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Ms.Coll.90a</num>
+                </titleproper>
+                <author>Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T21:06-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc audience="internal" level="collection">
+        <did>
+            <unittitle>Mountain, Isabel Morgan papers</unittitle>
+            <unitid>Mss.Ms.Coll.90a</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid120255" type="Box" label="Manuscripts">1-6</container>
+            <physdesc>
+                <extent>3.0 Linear feet</extent>
+            </physdesc>
+            <unitdate normal="1887/1996" type="inclusive">Circa 1887-1996</unitdate>
+            <physloc id="ref5" label="Paging">LH-SB-12-3</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="local" role="Author (aut)">Mountain, Isabel Morgan, 1911-1996</persname>
+            </origination>
+        </did>
+        <dsc>
+            <c01 id="ref1" level="series">
+                <did>
+                    <unittitle>Isabel Morgan Mountain papers</unittitle>
+                    <unitid>Mss Ms Coll 90b</unitid>
+                    <langmaterial>
+                        <language langcode="eng"/>
+                    </langmaterial>
+                    <container id="cid120256" type="Box" label="Manuscripts">4</container>
+                    <physdesc>
+                        <extent>2.0 Linear feet</extent>
+                    </physdesc>
+                    <unitdate normal="1934/1952" type="inclusive">1934-1952</unitdate>
+                    <physdesc id="ref4" label="General Physical Description note">2 linear feet.</physdesc>
+                    <abstract id="ref2" label="Abstract">Letters from Thomas Hunt Morgan and Lilian Vaughan Morgan.</abstract>
+                    <origination label="creator">
+                        <persname rules="aacr" source="local" role="Author (aut)">Mountain, Isabel Morgan, 1911-1996</persname>
+                    </origination>
+                </did>
+                <acqinfo id="ref3">
+                    <head>Immediate Source of Acquisition note</head>
+                    <p>Barbara Morgan Roberts, gift.</p>
+                </acqinfo>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

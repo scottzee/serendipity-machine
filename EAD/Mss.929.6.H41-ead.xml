@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.929.6.H41-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.929.6.H41</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:25-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>[Dictionary of heraldry], [n.d.]</unittitle>
+            <unitid>Mss.929.6.H41</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1060" type="Volume" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>1.0 Volume(s)</extent>
+                <extent>1 volume, 124 p. </extent>
+            </physdesc>
+            <unitdate>n.d. </unitdate>
+            <physdesc id="ref4" label="General Physical Description note">1 volume, 124 p.</physdesc>
+            <abstract id="ref1" label="Abstract">This incomplete volume contains an alphabetical list of family names, with some colored sketches of coats of arms.</abstract>
+            <physloc id="ref6" label="Paging">LH-MV-E-16</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Anonymous</persname>
+            </origination>
+        </did>
+        <odd id="ref5">
+            <head>Early American History Note</head>
+            <p>This volume, along with 
+                <extref ns2:actuate="onLoad" ns2:show="new" ns2:href="http://www.amphilsoc.org/mole/view?docId=ead/Mss.929.6.b646-ead.xml">[Book on Heraldry] (Mss.929.6.B646)</extref>, date from the 18th century and contain a range of information on heraldry. The Dictionary of Heraldry (H41) includes names and descriptions of shields. The back of the volume includes designs of various shields, many of which are in color. The Book on Heraldry (B646), which carries what appears to be a forgery of Benjamin Franklin’s signature on its first page, is much smaller. It too contains information on names, shields, and family origins. The back page has a map of the Delmarva Peninsula done by Mason and Dixon. Notes on longitude and latitude sit on the page next to the map.</p>
+        </odd>
+        <acqinfo id="ref3">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Received and accessioned, 10/--/1901 (4943).</p>
+        </acqinfo>
+        <controlaccess>
+            <subject source="lcsh">Heraldry.</subject>
+            <subject source="ingest">Miscellaneous</subject>
+            <genreform source="lcsh">Sketches.</genreform>
+            <subject source="leah">Surveying and Maps</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.657.M88-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.657.M88</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:22-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="item">
+        <did>
+            <unittitle>James Muir ledger, 1782-1795</unittitle>
+            <unitid>Mss.657.M88</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1005" type="Volume" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>1.0 Volume(s)</extent>
+                <extent>1volume, ca. 100 p., photocopy</extent>
+            </physdesc>
+            <unitdate normal="1782/1795" type="inclusive">1782-1795</unitdate>
+            <physdesc id="ref19" label="General Physical Description note">1 volume, ca. 100 p., photocopy.</physdesc>
+            <abstract id="ref1" label="Abstract">This ledger is a record of Muir's work for Robert Bell, Francis Bailey, Joseph Crukshank, Mathew Carey, Thomas Dobson, William Prichard, William Young, and Charles Varlo, including other accounts.</abstract>
+            <physloc id="ref20" label="Paging">LH-MV-E-11</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Muir, James,of Philadelphia.</persname>
+            </origination>
+        </did>
+        <originalsloc id="ref12">
+            <head>Existence and Location of Originals note</head>
+            <p>Originals in: Historical Society of Pennsylvania.</p>
+        </originalsloc>
+        <acqinfo id="ref9">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by Willman Spawn and accessioned, 1967 (1967 1743ph).</p>
+            <p></p>
+        </acqinfo>
+        <bioghist id="ref5">
+            <head>Biographical/Historical note</head>
+            <p>James Muir was a Philadelphia bookbinder.</p>
+        </bioghist>
+        <odd id="ref21">
+            <head>Early American History Note</head>
+            <p>This is a photocopy of James Muir’s ledger book from 1782-1789. There are some additional records that go up to 1795. Muir was a bookbinder in Philadelphia. The original volume is at the HSP.</p>
+        </odd>
+        <controlaccess>
+            <persname rules="aacr" source="naf">Bailey, Francis, 1735?-1815</persname>
+            <persname source="ingest">Bell, Robert</persname>
+            <persname rules="aacr" source="local">Carey, Mathew, 1760-1839</persname>
+            <persname rules="aacr" source="naf">Crukshank, Joseph, 1746?-1836</persname>
+            <persname rules="aacr" source="naf">Dobson, Thomas, 1751-1823</persname>
+            <famname source="ingest">Prichard, William.</famname>
+            <famname source="ingest">Varlo, Charles, -- ca. 1725-ca. 1795.</famname>
+            <persname rules="aacr" source="naf">Young, William, 1755-1829</persname>
+            <subject source="lcsh">Book industries and trade -- Pennsylvania.</subject>
+            <subject source="leah">Business and Skilled Trades</subject>
+            <genreform source="leah">Business Records and Accounts</genreform>
+            <genreform source="lcsh">Ledgers.</genreform>
+            <subject source="leah">Philadelphia History</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

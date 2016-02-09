@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.497.3.Am4gr-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.497.3.Am4gr</num>
+                </titleproper>
+                <author>Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:11-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Thomas Darlington Cope papers, 1945-1957</unittitle>
+            <unitid>Mss.497.3.Am4gr</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid605" type="Box" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>35.0 Item(s)</extent>
+            </physdesc>
+            <unitdate normal="1945/1957" type="inclusive">1945-1957</unitdate>
+            <physdesc id="ref4" label="General Physical Description note">Circa 35 items.</physdesc>
+            <physloc id="ref5" label="Paging">LH-MV-E-8</physloc>
+            <abstract id="ref1" label="Abstract">This collection contains letters and documents pertaining to Cope's research on the history of Charles Mason, Jeremiah Dixon, and the Mason-Dixon Line. Most of the letters are to English researchers, but included are some typescripts of original letters by Mason and Nevil Maskelyne. Cope published numerous articles on this topic, many printed by the American Philosophical Society.</abstract>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Cope, Thomas D.,  (Thomas Darlington)</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Dixon, Jeremiah</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="local" role="Correspondent (crp)">Maskelyne, Nevil, 1732-1811</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Mason, Charles, 1728-1786</persname>
+            </origination>
+        </did>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>Thomas Darlington Cope was a physicist and a historian of science.</p>
+        </bioghist>
+        <acqinfo id="ref2">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Acquistions occured on two separate dates: purchase from 1946 from Thomas Darlington Cope (APS Grant No. 851). Materials added in 1948 (Grant No. 1091).</p>
+        </acqinfo>
+        <controlaccess>
+            <geogname source="lcsh">Mason-Dixon Line.</geogname>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

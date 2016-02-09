@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Rec.90</num>
+                </titleproper>
+                <author>Finding aid prepared by Brian Carpenter</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+                <date>January 2012</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T21:19-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Otomi Stories</unittitle>
+            <unitid>Mss.Rec.90</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="oto"/>
+            </langmaterial>
+            <physdesc>
+                <extent>3.0 Reel(s)</extent>
+            </physdesc>
+            <unitdate>1972</unitdate>
+            <physdesc id="ref1" label="General Physical Description">3 sound tape reels (3 hr., 22 min.) : analog, half track, 3 3/4 ips, mono ; 5 in.</physdesc>
+            <abstract id="ref2" label="Abstract">Stories and jokes in Otomi, including discussion in Spanish on the meaning of each story. All stories are followed by Spanish translation. Recorded in San Diego, California, in July and August of 1972, by H. Russell Bernard with speaker Jesús Salinas Pedraza of Orizabita, Ixmiquilpan, Hidalgo, Mexico.</abstract>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Bernard, H. Russell</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="dacs" source="local" role="Speaker (spk)">Pedraza, Jesús Salinas</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref3">
+            <head>Immediate Source of Acquisition</head>
+            <p>Donated by H. Russell Bernard in 1972 (Acc. #1972 1625r).</p>
+        </acqinfo>
+        <relatedmaterial id="ref4">
+            <head>Related Archival Materials</head>
+            <p>Otomi transcript and English translation of stories available in "Otomi Parables, Folktales, and Jokes," International Journal of American Linguistics, Vol. 1, No. 2, 1972. (Call No.: 497.05 IN8.N V.1, NO.2)</p>
+        </relatedmaterial>
+        <controlaccess>
+            <subject source="lcsh">Humorous stories, Otomi</subject>
+            <subject source="lcsh">Otomi Indians--Folklore</subject>
+            <subject source="lcsh">Otomi language</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

@@ -1,0 +1,962 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Ms.Coll.101-ead.xml">PUBLIC "-//American Philosophical Society LIBRARY//TEXT(US::PAAV::Ms Coll 101:: Nautilus Photograph Collection)//EN" "nautilus.xml"</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Nautilus (Submarine) Photograph Collection
+                    <date type="span">1931</date>
+                    <num>Mss.Ms.Coll.101</num>
+                </titleproper>
+                <author>Finding aid prepared by J. J. Ahern</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+                <date>8/2001</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T20:18-0400</date>
+            </creation>
+            <langusage>ENG</langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Nautilus (Submarine) Photograph Collection</unittitle>
+            <unitid>Mss.Ms.Coll.101</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>0.5 Linear feet</extent>
+            </physdesc>
+            <unitdate normal="1931/1931">1931</unitdate>
+            <abstract id="ref1" label="Abstract">In 1931, the 
+                <emph render="italic">Nautilus</emph>, an O-12 class submarine, was fitted out to undertake an expedition to gather meteorological and oceanographical information while venturing beneath polar ice floes to the north pole. Although the crew did gather some useful information, the expedition was fated to suffer delays, accidents, and perhaps even sabotage. Although mechanical problems ruined any hope of reaching the pole, by late August, 1931, the 
+                <emph render="italic">Nautilus</emph> had maneuvered to the edge of the Arctic ice cap and was able to dive beneath a few floes. On its return, however, damage from storms and engine failure led the crew to scuttle the ship a few miles off the coast of Bergen, Norway. The 
+                <emph render="italic">Nautilus</emph> Collection is comprised of approximately 60 photographs, plus assorted newspaper clippings, postcards, and a few other miscellaneous items. The photographs document the voyage of the 
+                <emph render="italic">Nautilus</emph> from Camden, New Jersey, to the Brooklyn Naval Yard, and New London, Connecticut, across the Atlantic to the Arctic regions. The collection includes formal and informal photographs of the submarine, its interior, and ice floes, along with portraits of many of the ship's officers.</abstract>
+            <physloc id="ref113" label="Paging">LH-SB-16-6</physloc>
+        </did>
+        <bibliography id="ref16">
+            <head>Bibliography</head>
+            <bibref>Casarini-Wadham, Maria Pia, 
+                <title render="italic">By Submarine to the Arctic: Sir Hubert Wilkins' Nautilus Expedition of 1931</title> (Cambridge : Scott Polar Research Institution, University of Cambridge, 1989).</bibref>
+            <bibref>Grierson, John, 
+                <title render="italic">Sir Hubert Wilkins; Enigma of Exploration</title> (London : Robert Hale, 1960).</bibref>
+            <bibref>Thomas, Lowell, 
+                <title render="italic">Sir Hubert Wilkins, His World of Adventure: An Autobiography Recounted to Lowell Thomas</title> (London : Arthur Barker, 1962).</bibref>
+            <bibref>Wilkins, George Hubert, 
+                <title render="italic">Under the North Pole: the Wilkins-Ellsworth Submarine Expedition</title> (N.Y. : Brewer, Warren, and Putnam, 1931).</bibref>
+        </bibliography>
+        <odd id="ref112">
+            <head>Naval History Note</head>
+            <p>Students of naval history, in particular those with an interest in submarine development and exploration, may find this collection of benefit.</p>
+        </odd>
+        <odd id="ref18">
+            <head>Crew Manifest</head>
+            <p>The names of the participants are listed in a letter dated October 25, 1932, sent by Sir Hubert Wilkins to Brewer, Warren and Putnam Inc., the publishers of his book 
+                <title>Under the North Pole</title>. Additional information has been taken from the New York 
+                <title>Times</title> and New York 
+                <title>American</title>.</p>
+            <p>The list is in alphabetical order.</p>
+            <p>
+                <table>
+                    <tgroup cols="2">
+                        <colspec colname="col-0"/>
+                        <colspec colname="col-1"/>
+                        <colspec colname="col-2"/>
+                        <thead>
+                            <row>
+                                <entry>Name</entry>
+                                <entry>Title</entry>
+                                <entry>Duration aboard</entry>
+                            </row>
+                        </thead>
+                        <tbody>
+                            <row>
+                                <entry>Frank Arthur O. Blumberg</entry>
+                                <entry>Chief Electrician</entry>
+                                <entry>Complete voyage</entry>
+                            </row>
+                            <row>
+                                <entry>Edward Clark</entry>
+                                <entry>Quartermaster</entry>
+                                <entry>Complete voyage</entry>
+                            </row>
+                            <row>
+                                <entry>Frank Crilley</entry>
+                                <entry>Master Diver</entry>
+                                <entry>Complete voyage</entry>
+                            </row>
+                            <row>
+                                <entry>Sloan Danenhower</entry>
+                                <entry>Commander</entry>
+                                <entry>Complete voyage</entry>
+                            </row>
+                            <row>
+                                <entry>Emile Dored</entry>
+                                <entry>Photographer</entry>
+                                <entry>Norway to end of voyage</entry>
+                            </row>
+                            <row>
+                                <entry>Raymond W. Drakio</entry>
+                                <entry>Assistant Engineer</entry>
+                                <entry>Complete voyage</entry>
+                            </row>
+                            <row>
+                                <entry>Jacob Fleutsch</entry>
+                                <entry>Mess boy</entry>
+                                <entry>Complete voyage</entry>
+                            </row>
+                            <row>
+                                <entry>Willard I. Grimmer</entry>
+                                <entry>Assistant Radio Engineer</entry>
+                                <entry>Philadelphia to New York</entry>
+                            </row>
+                            <row>
+                                <entry>Clarence D. Holland</entry>
+                                <entry>Assistant Engineer</entry>
+                                <entry>Complete voyage</entry>
+                            </row>
+                            <row>
+                                <entry>John R. Janson</entry>
+                                <entry>Assistant Engineer</entry>
+                                <entry>Complete voyage</entry>
+                            </row>
+                            <row>
+                                <entry>Siguard Johnson</entry>
+                                <entry>Ship's Carpenter</entry>
+                                <entry>Philadelphia to Norway</entry>
+                            </row>
+                            <row>
+                                <entry>John H. Lundbeck</entry>
+                                <entry>Assistant Electrician</entry>
+                                <entry>Philadelphia to Norway</entry>
+                            </row>
+                            <row>
+                                <entry>Ray E. Meyers</entry>
+                                <entry>Chief Radio Operator</entry>
+                                <entry>Complete voyage</entry>
+                            </row>
+                            <row>
+                                <entry>Oliver C. Riggs</entry>
+                                <entry>First Assistant Engineer</entry>
+                                <entry>Philadelphia to England</entry>
+                            </row>
+                            <row>
+                                <entry>Harry Rothschild</entry>
+                                <entry>Cook</entry>
+                                <entry>Philadelphia to Norway</entry>
+                            </row>
+                            <row>
+                                <entry>Cornelius P. Royster</entry>
+                                <entry>Assistant Engineer</entry>
+                                <entry>Complete voyage</entry>
+                            </row>
+                            <row>
+                                <entry>Isaac Schlossback</entry>
+                                <entry>Lieut-Commander</entry>
+                                <entry>Complete voyage</entry>
+                            </row>
+                            <row>
+                                <entry>H. Carl Schnetter</entry>
+                                <entry>Assistant Engineer</entry>
+                                <entry>Complete voyage</entry>
+                            </row>
+                            <row>
+                                <entry>Ralph D. Shaw</entry>
+                                <entry>Chief Engineer</entry>
+                                <entry>Complete voyage</entry>
+                            </row>
+                            <row>
+                                <entry>Floyd M. Soule</entry>
+                                <entry>First Assistant Scientist</entry>
+                                <entry>Norway to end of voyage</entry>
+                            </row>
+                            <row>
+                                <entry>H. Stakarov</entry>
+                                <entry>No information available</entry>
+                                <entry>England to end of Voyage</entry>
+                            </row>
+                            <row>
+                                <entry>Emil Stamness</entry>
+                                <entry>Replacement Cook</entry>
+                                <entry>Norway to end of voyage</entry>
+                            </row>
+                            <row>
+                                <entry>Dr. Harold U. Sverdrup</entry>
+                                <entry>Chief Scientist</entry>
+                                <entry>Norway to end of voyage</entry>
+                            </row>
+                            <row>
+                                <entry>Dr. Bernhard Villinger</entry>
+                                <entry>Physician and Second Assistant Scientist</entry>
+                                <entry>Norway to end of voyage</entry>
+                            </row>
+                            <row>
+                                <entry>Harry Zoller</entry>
+                                <entry>Assistant Engineer</entry>
+                                <entry>Complete voyage</entry>
+                            </row>
+                        </tbody>
+                    </tgroup>
+                </table></p>
+        </odd>
+        <relatedmaterial id="ref15">
+            <head>Related Archival Materials note</head>
+            <p>A web exhibit based on the Nautilus Collection is available at 
+                <extref ns2:href="http://www.amphilsoc.org/library/exhibits/nautilus">http://www.amphilsoc.org/library/exhibits/nautilus/</extref>.</p>
+        </relatedmaterial>
+        <processinfo id="ref13">
+            <head>Processing Information note</head>
+            <p>Catalogued by J.J. Ahern, 2000</p>
+        </processinfo>
+        <acqinfo id="ref11">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Donated by Mr. and Mrs. Ben B. Levitt, August 1, 1998. The scrapbook was compiled by Mrs. Arthur O. Blumberg (Accession #1998-2200 ms).</p>
+        </acqinfo>
+        <prefercite id="ref9">
+            <head>Preferred Citation note</head>
+            <p>Cite as: Nautilus (Submarine) Photograph Collection, American Philosophical Society.</p>
+        </prefercite>
+        <scopecontent id="ref5">
+            <head>Scope and Contents note</head>
+            <p>The majority of items contained in the 
+                <emph render="italic">Nautilus</emph> Polar Expedition Collection are photographs of the submarine and crew at various stages during the submarine's fateful arctic expedition of 1931. These images are primarily press photographs accompanied by wire service captions. In each folder, a photocopy of each image precedes the original, with captions copied on the back. Other images come from the personal collection of Frank Blumberg, Chief Electrician aboard the 
+                <emph render="italic">Nautilus</emph>, and include snapshots and signed portraits. Finally, the collection also contains a scrapbook compiled by Blumberg from magazine clippings and photographs.</p>
+        </scopecontent>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>In 1931, Sir Hubert Wilkins undertook a scientific research mission to the North Pole using a modified O-class submarine leased from the United States Navy. The goals of this expedition were two-fold: to conduct scientific experiments and observations while moored to ice floes and while under way; and to successfully navigate to the North Pole while submerged beneath the Arctic ice floes. The experiments ranged from meteorological observations to temperature and water samples taken from the surface and the sea floor.</p>
+            <p>The submarine used was the O-12 (SS 73), built in 1916 by the Lake Torpedo Boat Co. of Bridgeport, CT. Commissioned in 1918, the boat spent most of her military career attached to Submarine Division 1, based at Coco Solo, Panama Canal Zone. O-12 displaced 566 tons submerged (491 tons surfaced), had a length of 175 ft., could reach speeds of 11 knots submerged (14 knots surfaced), and carried a crew of 29. She was decommissioned on June 17, 1924, and placed in reserve at the Philadelphia Navy Yard. After being transferred to the United States Shipping Board in 1930, Wilkins signed a lease for the use of the O-12 on February 1, 1931, at a cost of one dollar per year.</p>
+            <p>Modifications to the O-12 were made at the Mathis Shipyard in Camden, NJ. The boat was stripped of military armament and fitted with the latest scientific research equipment. Changes were also made to the superstructure that would allow for operation beneath the ice floes. With the modifications complete, the submarine cast off from Mathis Shipyard on March 16 for the first leg of a journey which would take her to the Brooklyn Navy Yard in New York. Before even leaving the Delaware River, the O-12 was forced to stop at the Philadelphia Navy Yard due to a snowstorm and then stopped at Marcus Hook to take on fuel.</p>
+            <p>On March 23 the O-12 arrived at the Brooklyn Navy Yard. While entering New York Harbor, the crew suffered the first in a series of accidents and mechanical problems that would plague them on the expedition when Assistant Radio Engineer Willard I. Grimmer fell overboard and drowned. Despite the tragedy, Lady Suzanne Bennett Wilkins (Sir Hubert's wife) christened the submarine the next day using a bottle of ice water, since champagne was unavailable because of prohibition. Among the many spectators was Jean Jules Verne, grandson to the author of 
+                <title>20,000 Leagues Under the Sea</title>, the source of the O-12's new name.</p>
+            <p>Before setting out on the expedition, the crew put the 
+                <emph render="italic">Nautilus</emph> through test runs in various locations off the New England coast. One of the tests included a 90 ft dive off Block Island in Long Island Sound. With mounting criticism from the fact that the expedition was two months behind schedule, it was decided to head out on the first leg of the journey, a planned stop in England. However the bad luck that beset the 
+                <emph render="italic">Nautilus</emph> continued. While crossing the Atlantic, the submarine encountered severe storms resulting in severe mechanical failure on June 13 when the starboard engine cracked a cylinder. This was followed by failure of the port engine, probably the result of it being used as the sole source of propulsion.</p>
+            <p>During the crossing, Wilkins had radioed the submarine's position back to the United States, and after both engines failed the crew broadcast an S.O.S. The 
+                <emph render="italic">Nautilus</emph> was eventually rescued on June 15 by the U.S.S. 
+                <emph render="italic">Wyoming</emph> (BB-32), which was crossing the Atlantic on a training cruise for midshipmen from the Naval Academy. The 
+                <emph render="italic">Wyoming</emph> took the foundering submarine in tow to Queenstown, Ireland. From Queenstown the submarine was towed to Davenport, England for repairs, which were made with considerable delays. Finally, the 
+                <emph render="italic">Nautilus</emph> was able to get underway for Bergen, where the scientific officers were brought on board and scientific equipment loaded. One piece of equipment that proved invaluable was the diving chamber, located in the former torpedo room. The chamber could be regulated to match the outside water pressure, allowing scientific equipment to be lowered directly into the water through a hatch.</p>
+            <p>On August 5, the 
+                <emph render="italic">Nautilus</emph> left Bergen headed north in search of the ice floes. The voyage was again repeatedly delayed because of mechanical problems and storms, which further caused the submarine to list at angles of up to 57 degrees. Despite these setbacks, the crew encountered their first ice floe on August 19, and celebrated when Ike Schlossback became the first to step onto the ice at 18:00 hours. For the next few days the 
+                <emph render="italic">Nautilus</emph> followed the edge of the ice pack in search of a location to make its first dive attempt. On August 22 the decision was made to dive under the ice floe, but while preparing to submerge it was discovered that the diving rudders were missing, making standard dives impossible. Nevertheless, Wilkins was determined to accomplish some of the planned experiments, particularly those that did not require being submerged. In the course of carrying out the experiments, the opportunity of forcing the 
+                <emph render="italic">Nautilus</emph> under an ice pack presented itself on August 31. This was accomplished despite the absence of diving rudders by filing all four ballast tanks and setting the trim at 2.5 degrees. In this way, the 
+                <emph render="italic">Nautilus</emph> was able to dive beneath a floe measuring three feet thick and was able to make several additional dives below the ice floes before the voyage ended.</p>
+            <p>Following a few additional days of research, Wilkins decided it was no longer safe to remain at sea. The 
+                <emph render="italic">Nautilus</emph> set course for Longyeartbyen in Svalbard, arriving on September 8. From there, Wilkins planned to proceed to England, but the boat encountered another storm which resulted in further hull damage and engine failure, forcing the 
+                <emph render="italic">Nautilus</emph> to dock in Bergen for the last time. After being returned to the United States Navy, the 
+                <emph render="italic">Nautilus</emph> was towed out of Bergen and sunk in a Norwegian fjord on November 20, 1931. Ironically, the first ship to cross the north pole was the nuclear submarine U.S.S. 
+                <emph render="italic">Nautilus</emph> (SSN - 571) on August 3, 1958.</p>
+        </bioghist>
+        <controlaccess>
+            <persname source="ingest">Blumberg, Frank Arthur O.</persname>
+            <persname source="ingest">Wilkins, George H. (George Hubert), 1888-1958</persname>
+            <subject source="lcsh">Arctic regions--Discovery and exploration</subject>
+            <subject source="lcsh">Brooklyn Navy Yard</subject>
+            <subject source="lcsh">Icebergs</subject>
+            <subject source="lcsh">Mathis Shipyard (Camden, N.J.)</subject>
+            <subject source="lcsh">Nautilus (Submarine)</subject>
+            <genreform source="ingest">Photoprints</genreform>
+            <subject source="lcsh">Submarines</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref19" level="series">
+                <did>
+                    <unittitle>Nautilus (Submarine) Photograph Collection</unittitle>
+                    <container id="cid64112" type="Box" label="Mixed materials">1</container>
+                    <physdesc>
+                        <extent>0.5 lin. feet</extent>
+                    </physdesc>
+                    <unitdate>1931</unitdate>
+                </did>
+                <c02 id="ref20" level="otherlevel">
+                    <did>
+                        <unittitle>Photographs</unittitle>
+                    </did>
+                    <c03 id="ref21" level="otherlevel">
+                        <did>
+                            <unittitle>
+                                <emph render="italic">Nautilus</emph> leaving berth at Mathis Shipyard, Camden, NJ</unittitle>
+                            <unitid>1</unitid>
+                            <container id="cid64149" type="Folder" label="Mixed materials">1</container>
+                            <unitdate>1931 March 16</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref22" level="otherlevel">
+                        <did>
+                            <unittitle>
+                                <emph render="italic">Nautilus</emph> on the Delaware River</unittitle>
+                            <unitid>2</unitid>
+                            <unitdate>1931 March 16</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref23" level="otherlevel">
+                        <did>
+                            <unittitle>Crew members inside control room</unittitle>
+                            <unitid>3</unitid>
+                            <unitdate>1931March 20</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref24" level="otherlevel">
+                        <did>
+                            <unittitle>Robert D. Shaw in engine room</unittitle>
+                            <unitid>4</unitid>
+                            <container id="cid64148" type="Folder" label="Mixed materials">2</container>
+                            <unitdate>1931March 20</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref25" level="otherlevel">
+                        <did>
+                            <unittitle>Sloan Danenhower, Jean Jules Verne, and Hubert Wilkins on 
+                                <emph render="italic">Nautilus</emph></unittitle>
+                            <unitid>5</unitid>
+                            <unitdate>1931March 23</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref26" level="otherlevel">
+                        <did>
+                            <unittitle>Christening of 
+                                <emph render="italic">Nautilus</emph> at Brooklyn Navy Yard</unittitle>
+                            <unitid>6</unitid>
+                            <physdesc>
+                                <extent>1.0 Photograph(s)</extent>
+                            </physdesc>
+                            <unitdate normal="1931/1931">1931March 23</unitdate>
+                            <abstract id="ref106" label="Abstract">View of submarine in harbor, with crowd gathered for christening.</abstract>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Christening of Nautilus at Brooklyn Navy Yard" ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:3830">
+                            <daodesc>
+                                <p>Christening of Nautilus at Brooklyn Navy Yard, 1931March 23 </p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref27" level="otherlevel">
+                        <did>
+                            <unittitle>Crew Photograph</unittitle>
+                            <unitid>7</unitid>
+                            <container id="cid64147" type="Folder" label="Mixed materials">3</container>
+                            <unitdate>1931 May 7</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref28" level="otherlevel">
+                        <did>
+                            <unittitle>Hubert Wilkins and Lincoln Ellsworth on 
+                                <emph render="italic">Nautilus</emph></unittitle>
+                            <unitid>8</unitid>
+                            <unitdate>1931March 23</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref29" level="otherlevel">
+                        <did>
+                            <unittitle>H. Wilkins and William B. Leeds</unittitle>
+                            <unitid>9</unitid>
+                            <unitdate>1931March 27</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref30" level="otherlevel">
+                        <did>
+                            <unittitle>Mrs. Harry A. Bruno, H. Wilkins, Elinor Smith, Bernt Balchen and James Fitzmaurice</unittitle>
+                            <unitid>10</unitid>
+                            <container id="cid64146" type="Folder" label="Mixed materials">4</container>
+                            <unitdate>1931 May 15</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref31" level="otherlevel">
+                        <did>
+                            <unittitle>Frank Blumberg</unittitle>
+                            <unitid>11</unitid>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref32" level="otherlevel">
+                        <did>
+                            <unittitle>Frank Blumberg</unittitle>
+                            <unitid>12</unitid>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Frank Blumberg" ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:3841">
+                            <daodesc>
+                                <p>Frank Blumberg, n.d. </p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref33" level="otherlevel">
+                        <did>
+                            <unittitle>John H. Lunddeck, sitting on hatch</unittitle>
+                            <unitid>13</unitid>
+                            <container id="cid64145" type="Folder" label="Mixed materials">5</container>
+                            <unitdate>1931 March 28</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref34" level="otherlevel">
+                        <did>
+                            <unittitle>Frank Crilley with Exide battery</unittitle>
+                            <unitid>14</unitid>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref35" level="otherlevel">
+                        <did>
+                            <unittitle>C.E. Johnsted and Sloan Dannenhower</unittitle>
+                            <unitid>15</unitid>
+                            <unitdate>1931 March 19</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref36" level="otherlevel">
+                        <did>
+                            <unittitle>John H. Lunddeck</unittitle>
+                            <unitid>16</unitid>
+                            <container id="cid64144" type="Folder" label="Mixed materials">6</container>
+                            <unitdate>1931 March 28</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref37" level="otherlevel">
+                        <did>
+                            <unittitle>Frank Arthur O. Blumberg</unittitle>
+                            <unitid>17</unitid>
+                            <unitdate>1931 March 28</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref38" level="otherlevel">
+                        <did>
+                            <unittitle>Frank Arthur O. Blumberg</unittitle>
+                            <unitid>18</unitid>
+                            <unitdate>1931 March 28</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref39" level="otherlevel">
+                        <did>
+                            <unittitle>Group photograph after christening</unittitle>
+                            <unitid>19</unitid>
+                            <container id="cid64143" type="Folder" label="Mixed materials">7</container>
+                            <unitdate>1931 March 24</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref40" level="otherlevel">
+                        <did>
+                            <unittitle>Isaac Schlossbach exiting hatch</unittitle>
+                            <unitid>20</unitid>
+                            <unitdate>1931 April 17</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref41" level="otherlevel">
+                        <did>
+                            <unittitle>Clarence P. Holland holding Pennsylvania flag (autographed)</unittitle>
+                            <unitid>21</unitid>
+                            <unitdate>1931 May 28</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref42" level="otherlevel">
+                        <did>
+                            <unittitle>Frank Blumberg looking at gyro</unittitle>
+                            <unitid>22</unitid>
+                            <container id="cid64142" type="Folder" label="Mixed materials">8</container>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref43" level="otherlevel">
+                        <did>
+                            <unittitle>Cornelius P. Royster, John R. Janson and Harry Zoeller in galley</unittitle>
+                            <unitid>23</unitid>
+                            <unitdate>1931 April 20</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref44" level="otherlevel">
+                        <did>
+                            <unittitle>Frank Crilley exiting air lock</unittitle>
+                            <unitid>24</unitid>
+                            <unitdate>1931 April 20</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref45" level="otherlevel">
+                        <did>
+                            <unittitle>Frank Crilley and Ray Meyers making radio broadcast from 
+                                <emph render="italic">Nautilus</emph></unittitle>
+                            <unitid>25</unitid>
+                            <container id="cid64141" type="Folder" label="Mixed materials">9</container>
+                            <unitdate>1931 April 20</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref46" level="otherlevel">
+                        <did>
+                            <unittitle>Lt. Cmdr. Edward H. Smith (USCG)</unittitle>
+                            <unitid>26</unitid>
+                            <unitdate>1931 May 19</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref47" level="otherlevel">
+                        <did>
+                            <unittitle>Capt. Wilson Brown (USCG), H. Wilkins and S. Danenhower</unittitle>
+                            <unitid>27</unitid>
+                            <unitdate>1931 June 4</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref48" level="otherlevel">
+                        <did>
+                            <unittitle>Ike Schlossback and Capt. Wilson Brown</unittitle>
+                            <unitid>28</unitid>
+                            <container id="cid64140" type="Folder" label="Mixed materials">10</container>
+                            <unitdate>1931 May 13</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref49" level="otherlevel">
+                        <did>
+                            <unittitle>Wilkins waving as 
+                                <emph render="italic">Nautilus</emph> arrives in Queenstown, Ireland</unittitle>
+                            <unitid>29</unitid>
+                            <unitdate>1931 June 28</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref50" level="otherlevel">
+                        <did>
+                            <unittitle>Wilkins on deck of 
+                                <emph render="italic">Nautilus</emph></unittitle>
+                            <unitid>30</unitid>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref51" level="otherlevel">
+                        <did>
+                            <unittitle>
+                                <emph render="italic">Nautilus</emph> being towed by U.S.S. Wyoming [newspaper clipping]</unittitle>
+                            <unitid>31</unitid>
+                            <container id="cid64139" type="Folder" label="Mixed materials">11</container>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref52" level="otherlevel">
+                        <did>
+                            <unittitle>
+                                <emph render="italic">Nautilus</emph> being towed into Portsmouth, England</unittitle>
+                            <unitid>32</unitid>
+                            <physdesc>
+                                <extent>1.0 Photograph(s)</extent>
+                            </physdesc>
+                            <unitdate normal="1931/1931">1931 July 3</unitdate>
+                            <abstract id="ref109" label="Abstract">View of the submarine being towed.</abstract>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Nautilus being towed into Portsmouth, England" ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:3831">
+                            <daodesc>
+                                <p>Nautilus being towed into Portsmouth, England, 1931 July 3 </p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref53" level="otherlevel">
+                        <did>
+                            <unittitle>Frank Blumberg inside 
+                                <emph render="italic">Nautilus</emph></unittitle>
+                            <unitid>33</unitid>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref54" level="otherlevel">
+                        <did>
+                            <unittitle>Dr. Villinger performing dental operation</unittitle>
+                            <unitid>34</unitid>
+                            <container id="cid64138" type="Folder" label="Mixed materials">12</container>
+                            <unitdate>1931 October 2</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref55" level="otherlevel">
+                        <did>
+                            <unittitle>Dr. Bernhard Villinger in his office</unittitle>
+                            <unitid>35</unitid>
+                            <unitdate>1931 April 13</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref56" level="otherlevel">
+                        <did>
+                            <unittitle>Crew members on ice floes</unittitle>
+                            <unitid>36</unitid>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref57" level="otherlevel">
+                        <did>
+                            <unittitle>
+                                <emph render="italic">Nautilus</emph> surfaced near ice floes</unittitle>
+                            <unitid>37</unitid>
+                            <container id="cid64137" type="Folder" label="Mixed materials">13</container>
+                            <unitdate>n.d.</unitdate>
+                            <abstract id="ref110" label="Abstract">View of submarine surfaced near ice floes.</abstract>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Nautilus surfaced near ice floes" ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:3834">
+                            <daodesc>
+                                <p>Nautilus surfaced near ice floes, n.d. </p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref58" level="otherlevel">
+                        <did>
+                            <unittitle>
+                                <emph render="italic">Nautilus</emph> surfaced near ice floes</unittitle>
+                            <unitid>38</unitid>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref59" level="otherlevel">
+                        <did>
+                            <unittitle>
+                                <emph render="italic">Nautilus</emph> surfaced near ice floes</unittitle>
+                            <unitid>39</unitid>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref60" level="otherlevel">
+                        <did>
+                            <unittitle>Crew conducting experiments on ice floes</unittitle>
+                            <unitid>40</unitid>
+                            <container id="cid64136" type="Folder" label="Mixed materials">14</container>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref61" level="otherlevel">
+                        <did>
+                            <unittitle>Edward Clark portrait [autographed]</unittitle>
+                            <unitid>41</unitid>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref62" level="otherlevel">
+                        <did>
+                            <unittitle>Frank Crilley portrait [autographed]</unittitle>
+                            <unitid>42</unitid>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref63" level="otherlevel">
+                        <did>
+                            <unittitle>Willard J. Grimmer portrait [autographed]</unittitle>
+                            <unitid>43</unitid>
+                            <container id="cid64135" type="Folder" label="Mixed materials">15</container>
+                            <unitdate>n.d.</unitdate>
+                            <abstract id="ref111" label="Abstract">Signed portrait of Grimmer.</abstract>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Willard J. Grimmer portrait [autographed]" ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:3837">
+                            <daodesc>
+                                <p>Willard J. Grimmer portrait [autographed], n.d. </p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref64" level="otherlevel">
+                        <did>
+                            <unittitle>Isaac Schlossback portrait [autographed]</unittitle>
+                            <unitid>44</unitid>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref65" level="otherlevel">
+                        <did>
+                            <unittitle>Cornelius P. Royster portrait [autographed]</unittitle>
+                            <unitid>45</unitid>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref66" level="otherlevel">
+                        <did>
+                            <unittitle>Frank Blumberg in U.S. Navy uniform</unittitle>
+                            <unitid>46</unitid>
+                            <container id="cid64134" type="Folder" label="Mixed materials">16</container>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref67" level="otherlevel">
+                        <did>
+                            <unittitle>Winter in Norway, postcard</unittitle>
+                            <unitid>47</unitid>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref68" level="otherlevel">
+                        <did>
+                            <unittitle>Winter in Norway, postcard</unittitle>
+                            <unitid>48</unitid>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref69" level="otherlevel">
+                        <did>
+                            <unittitle>Bergen - Floibanen, postcard from Frank Blumberg to Jerry Blumberg</unittitle>
+                            <unitid>49</unitid>
+                            <container id="cid64133" type="Folder" label="Mixed materials">17</container>
+                            <unitdate>1931 December 12</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref70" level="otherlevel">
+                        <did>
+                            <unittitle>Flaamsdalen, Søgn, postcard</unittitle>
+                            <unitid>50</unitid>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref71" level="otherlevel">
+                        <did>
+                            <unittitle>H. Wilkins in cold weather gear</unittitle>
+                            <unitid>51</unitid>
+                            <physdesc>
+                                <extent>1.0 Photograph(s)</extent>
+                            </physdesc>
+                            <unitdate>n.d.</unitdate>
+                            <abstract id="ref108" label="Abstract">Full length view of Wilkins seated outside wearing cold weather gear.</abstract>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="H. Wilkins in cold weather gear" ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:3832">
+                            <daodesc>
+                                <p>H. Wilkins in cold weather gear, n.d. </p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref72" level="otherlevel">
+                        <did>
+                            <unittitle>Isaac Schlossback with 3 unknown men</unittitle>
+                            <unitid>52</unitid>
+                            <container id="cid64132" type="Folder" label="Mixed materials">18</container>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref73" level="otherlevel">
+                        <did>
+                            <unittitle>Crew in snow storm with photographers</unittitle>
+                            <unitid>53</unitid>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref74" level="otherlevel">
+                        <did>
+                            <unittitle>Picture of unknown man</unittitle>
+                            <unitid>54</unitid>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref75" level="otherlevel">
+                        <did>
+                            <unittitle>Crewman on bow of 
+                                <emph render="italic">Nautilus</emph></unittitle>
+                            <unitid>55</unitid>
+                            <container id="cid64131" type="Folder" label="Mixed materials">19</container>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref76" level="otherlevel">
+                        <did>
+                            <unittitle>Two crewman on bow of 
+                                <emph render="italic">Nautilus</emph> holding lobsters</unittitle>
+                            <unitid>56</unitid>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref77" level="otherlevel">
+                        <did>
+                            <unittitle>Frank Blumberg in U.S. Navy dress whites</unittitle>
+                            <unitid>57</unitid>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref78" level="otherlevel">
+                        <did>
+                            <unittitle>H. Wilkins receiving Union Jack plague [autographed]</unittitle>
+                            <unitid>58</unitid>
+                            <container id="cid64130" type="Folder" label="Mixed materials">20</container>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref79" level="otherlevel">
+                        <did>
+                            <unittitle>Crewman on deck of submarine</unittitle>
+                            <unitid>59</unitid>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref80" level="otherlevel">
+                        <did>
+                            <unittitle>Two men in-front of car</unittitle>
+                            <unitid>60</unitid>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref81" level="otherlevel">
+                        <did>
+                            <unittitle>Ray E. Meyers, Frank Blumberg, and H. Wilkins in cold weather gear</unittitle>
+                            <unitid>61</unitid>
+                            <container id="cid64129" type="Folder" label="Mixed materials">21</container>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref82" level="otherlevel">
+                        <did>
+                            <unittitle>Unknown woman</unittitle>
+                            <unitid>62</unitid>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref83" level="otherlevel">
+                        <did>
+                            <unittitle>Group portrait of crew on ice floe.</unittitle>
+                            <unitid>63</unitid>
+                            <physdesc>
+                                <extent>1.0 Photograph(s)</extent>
+                            </physdesc>
+                            <unitdate>n.d.</unitdate>
+                            <abstract id="ref107" label="Abstract">Group portrait of crew outside.</abstract>
+                        </did>
+                        <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Group portrait of crew on ice floe. " ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:3835">
+                            <daodesc>
+                                <p>Group portrait of crew on ice floe. , n.d. </p>
+                            </daodesc>
+                        </dao>
+                    </c03>
+                    <c03 id="ref84" level="otherlevel">
+                        <did>
+                            <unittitle>H. Wilkins and Antonio Salemme inspecting bust</unittitle>
+                            <unitid>64</unitid>
+                            <container id="cid64128" type="Folder" label="Mixed materials">22</container>
+                            <unitdate>1930 September 7</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref85" level="otherlevel">
+                    <did>
+                        <unittitle>Miscellaneous items</unittitle>
+                    </did>
+                    <scopecontent id="ref90">
+                        <head>Scope and Contents note</head>
+                        <p>Miscellaneous items originally laid into scrapbook</p>
+                    </scopecontent>
+                    <c03 id="ref86" level="otherlevel">
+                        <did>
+                            <unittitle>Sperryscope newsletter on 
+                                <emph render="italic">Nautilus</emph></unittitle>
+                            <container id="cid64127" type="Folder" label="Mixed materials">23</container>
+                            <unitdate>1931 April</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref87" level="otherlevel">
+                        <did>
+                            <unittitle>R.M.S. Berengaria lunch menu</unittitle>
+                            <container id="cid64126" type="Folder" label="Mixed materials">24</container>
+                            <unitdate>1931 October 1</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref88" level="otherlevel">
+                        <did>
+                            <unittitle>Radiogram Book from expedition [blank pages]</unittitle>
+                            <container id="cid64125" type="Folder" label="Mixed materials">25</container>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref91" level="otherlevel">
+                    <did>
+                        <unittitle>Scrapbook</unittitle>
+                        <origination label="creator">
+                            <persname source="ingest">Blumberg, Frank Arthur O.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref105">
+                        <head>Scope and Contents note</head>
+                        <p>Scrapbook, now disbound.</p>
+                    </scopecontent>
+                    <c03 id="ref92" level="otherlevel">
+                        <did>
+                            <unittitle>Scrapbook - Original Layout</unittitle>
+                            <container id="cid64124" type="Folder" label="Mixed materials">26</container>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref93" level="otherlevel">
+                        <did>
+                            <unittitle>Scrapbook Page 1 - Magazine clippings</unittitle>
+                            <container id="cid64123" type="Folder" label="Mixed materials">27</container>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref94" level="otherlevel">
+                        <did>
+                            <unittitle>Scrapbook Page 2 - Blumberg, Wilkins and Meyers in coldweather gear; Blumberg looking at log</unittitle>
+                            <container id="cid64122" type="Folder" label="Mixed materials">28</container>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref95" level="otherlevel">
+                        <did>
+                            <unittitle>Scrapbook Page 3 - Honorable discharge for Blumberg from Wilkins</unittitle>
+                            <container id="cid64121" type="Folder" label="Mixed materials">29</container>
+                            <unitdate>1931 September 12</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref96" level="otherlevel">
+                        <did>
+                            <unittitle>Scrapbook Page 4 - Photograph of Frank Blumberg; crew signatures on radiogram page</unittitle>
+                            <container id="cid64120" type="Folder" label="Mixed materials">30</container>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref97" level="otherlevel">
+                        <did>
+                            <unittitle>Scrapbook Page 5 - Magazine clippings</unittitle>
+                            <container id="cid64119" type="Folder" label="Mixed materials">31</container>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref98" level="otherlevel">
+                        <did>
+                            <unittitle>Scrapbook Page 6 - "Damphools" proclamation</unittitle>
+                            <container id="cid64118" type="Folder" label="Mixed materials">32</container>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref99" level="otherlevel">
+                        <did>
+                            <unittitle>Scrapbook Page 7 - 
+                                <emph render="italic">Nautilus</emph> on cover of Sphere Magazine</unittitle>
+                            <container id="cid64117" type="Folder" label="Mixed materials">33</container>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref100" level="otherlevel">
+                        <did>
+                            <unittitle>Scrapbook Page 8 - Magazine clippings</unittitle>
+                            <container id="cid64116" type="Folder" label="Mixed materials">34</container>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref101" level="otherlevel">
+                        <did>
+                            <unittitle>Scrapbook Page 9 - Magazine clippings</unittitle>
+                            <container id="cid64115" type="Folder" label="Mixed materials">35</container>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref102" level="otherlevel">
+                        <did>
+                            <unittitle>Scrapbook Page 10 - Dixie Holland, portrait [autographed]</unittitle>
+                            <container id="cid64114" type="Folder" label="Mixed materials">36</container>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref103" level="otherlevel">
+                        <did>
+                            <unittitle>Scrapbook Page 11 - Ralph D. Shaw, portrait [autographed]</unittitle>
+                            <container id="cid64113" type="Folder" label="Mixed materials">37</container>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

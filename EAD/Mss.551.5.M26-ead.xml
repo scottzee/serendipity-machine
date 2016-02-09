@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.551.5.M26-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.551.5.M26</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:18-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Meteorological journals, 1784-1788, 1789-1793</unittitle>
+            <unitid>Mss.551.5.M26</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid936" type="Volume" label="Manuscripts">1-2</container>
+            <physdesc>
+                <extent>2.0 Volume(s)</extent>
+                <extent>2 volumes, 315 p. </extent>
+            </physdesc>
+            <unitdate normal="1784/1793" type="inclusive">1784-1793</unitdate>
+            <abstract id="ref1" label="Abstract">These journals, kept at Madison's plantation, also contain notes on sowing and harvesting, and migration of birds. Some notes are in Dolley Madison's hand.</abstract>
+            <physdesc id="ref16" label="General Physical Description note">2 volumes, 315 p.</physdesc>
+            <physloc id="ref18" label="Paging">LH-MV-E-9; LH-MV-E-16</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Madison, James, 1751-1836</persname>
+            </origination>
+        </did>
+        <relatedmaterial id="ref13">
+            <head>Related Archival Materials note</head>
+            <p>Meteorological journal, 1798-1802 (551.5/M56 No. X), American Philosophical Society Library, Philadelphia (Pa.).</p>
+            <p>Meteorological journal, 1793-1796, Presbyterian Historical Society, Philadelphia (Pa.).</p>
+        </relatedmaterial>
+        <acqinfo id="ref7">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by Mrs. Dolley Payne Madison, 1839; accessioned, 1900. (See letter from Mrs. Madison to Chapman, 12 Aug. 1839). See in-house shelf list for additional accession numbers.</p>
+        </acqinfo>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>James Madison was the fourth President of the United States and was elected to the American Philosophical Society in 1785.</p>
+        </bioghist>
+        <odd id="ref17">
+            <head>Early American History Note</head>
+            <p>These two volumes record the daily weather and other data at James Madison's plantation Montpeiler. In addition to the meteorological data, there are occasionally other notes pertaining to gardening and harvesting. These annotations often note the plants they have and where they were on the grounds.</p>
+        </odd>
+        <controlaccess>
+            <persname rules="aacr" source="naf">Madison, Dolley, 1768-1849</persname>
+            <subject source="ingest">Agriculture</subject>
+            <subject source="lcsh">Birds -- Migration -- United States.</subject>
+            <genreform source="lcsh">Journals (notebooks).</genreform>
+            <genreform source="leah">Meteorological Data</genreform>
+            <subject source="lcsh">Meteorology -- Observations.</subject>
+            <subject source="leah">Natural History</subject>
+            <subject source="leah">Science and Technology</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

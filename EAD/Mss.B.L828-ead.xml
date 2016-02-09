@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.L828-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.L828</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T19:40-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Papers on Charles Darwin, n.d.</unittitle>
+            <unitid>Mss.B.L828</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1400" type="Box" label="Manuscripts">1-12</container>
+            <physdesc>
+                <extent>6.0 Linear feet</extent>
+                <extent>Ca. 5000 items</extent>
+            </physdesc>
+            <unitdate>n.d.</unitdate>
+            <abstract id="ref8" label="Abstract">This collection of working papers, notes, manuscripts, and typescripts by Loewenberg contains his own writing on Darwin, as well as a wealth of data (notes, bibliographies, card file of references on evolution) relating to every aspect of Darwin's life.</abstract>
+            <physdesc id="ref15" label="General Physical Description note">Ca. 5000 items, 6 linear feet.</physdesc>
+            <physloc id="ref16" label="Paging">LH-B-19-2</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Loewenberg, Bert James,1905-1974.</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref14">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Deposited by Mrs. Bert James Loewenberg and Robert J. Loewenbert and accessioned, 07/11/1975 (1975 780ms).</p>
+        </acqinfo>
+        <bioghist id="ref10">
+            <head>Biographical/Historical note</head>
+            <p>Bert James Loewenberg was a historian and chairman of the Darwin Anniversary Committee.</p>
+        </bioghist>
+        <controlaccess>
+            <genreform source="lcsh">Bibliographies.</genreform>
+            <genreform source="lcsh">Card files.</genreform>
+            <subject source="lcsh">Evolution.</subject>
+            <genreform source="lcsh">Notes.</genreform>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

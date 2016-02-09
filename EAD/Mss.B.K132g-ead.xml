@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.K132g-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.K132g</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T19:36-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="item">
+        <did>
+            <unittitle>The facts relating to the separation of the ship's company of the Brig Advance in the Fall of 1854...by command of Miss Bessie Kane, [n.d.]</unittitle>
+            <unitid>Mss.B.K132g</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1361" type="Volume" label="Mixed materials">1</container>
+            <container parent="cid1361" type="Map-case">12</container>
+            <physdesc>
+                <extent>1.0 Volume(s)</extent>
+                <extent>1 volume, 26 p.; 12 maps</extent>
+            </physdesc>
+            <unitdate>n.d.</unitdate>
+            <abstract id="ref1" label="Abstract">This concerns the partial "revolt" of men under Elisha Kent Kane's command during the second Grinnell expedition.</abstract>
+            <physdesc id="ref10" label="General Physical Description note">1 volume, 26 p.; 12 maps.</physdesc>
+            <physloc id="ref13" label="Paging">LH-MV-E-3</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Goodfellow, Henry.</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref9">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by Mrs. Eleuthère Paul Du Pont and accessioned, 07/08/1976 (1976 1087ms).</p>
+            <p></p>
+        </acqinfo>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>Henry Goodale sailed with Elisha Kent Kane in the second Grinnell expedition (1853-1855).</p>
+        </bioghist>
+        <altformavail id="ref11">
+            <head>Existence and Location of Copies note</head>
+            <p>A carbon typescript of this item is available in the repository.</p>
+        </altformavail>
+        <odd id="ref12">
+            <head>Naval History Note</head>
+            <p>An account of mutiny on board the Brig Advance during the Grinnell expedition.</p>
+        </odd>
+        <controlaccess>
+            <corpname source="ingest">Advance (Ship)</corpname>
+            <persname rules="aacr" source="naf">Kane, Elisha Kent, 1820-1857</persname>
+            <subject source="lcsh">Arctic regions--Discovery and exploration</subject>
+            <subject source="lcsh">Mutiny.</subject>
+            <geogname source="lcsh">Northwest Passage.</geogname>
+            <subject source="lcsh">Voyages and travels.</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

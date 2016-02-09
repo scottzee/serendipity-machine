@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Film.424-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Film.424</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T20:14-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Charles Mason papers, 1750-1815</unittitle>
+            <unitid>Mss.Film.424</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1850" type="Reel" label="Microform">1-2</container>
+            <physdesc>
+                <extent>2.0 Microfilm reel(s)</extent>
+            </physdesc>
+            <unitdate normal="1750/1815" type="inclusive">1750-1815</unitdate>
+            <physdesc id="ref8" label="General Physical Description note">1 microfilm reel.</physdesc>
+            <abstract id="ref1" label="Abstract">Included in these papers are letters, memoranda, computations, and tables.</abstract>
+            <physloc id="ref10" label="Paging">LH-RR-Media Rm-2</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Mason, Charles, 1728-1786</persname>
+            </origination>
+        </did>
+        <odd id="ref9">
+            <head>Early American History Note</head>
+            <p>This is a microfilm of an early American collection that may be of interest to researchers at the APS and may complement an original manuscript collection at the APS.</p>
+        </odd>
+        <acqinfo id="ref7">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Received from Royal Society, London, 3/08/1949.</p>
+        </acqinfo>
+        <bioghist id="ref5">
+            <head>Biographical/Historical note</head>
+            <p>Charles Mason was an astronomer and surveyor. He was elected to the American Philosophical Society in 1768.</p>
+        </bioghist>
+        <originalsloc id="ref3">
+            <head>Existence and Location of Originals note</head>
+            <p>Originals in Royal Observatory, Greenwich, England.</p>
+        </originalsloc>
+        <controlaccess>
+            <subject source="lcsh">Astronomy.</subject>
+            <genreform source="lcsh">Computations.</genreform>
+            <genreform source="lcsh">Memoranda.</genreform>
+            <genreform source="leah">Microfilm Collection</genreform>
+            <geogname source="lcsh">Moon -- Observations.</geogname>
+            <geogname source="lcsh">Moon -- Orbit -- Tables.</geogname>
+            <genreform source="lcsh">Tables.</genreform>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

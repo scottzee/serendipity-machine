@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.P31.1-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.P31.1</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T19:52-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc audience="internal" level="collection">
+        <did>
+            <unittitle>Autobiography, [1790]-1904</unittitle>
+            <unitid>Mss.B.P31.1</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1490" type="Volume" label="Manuscripts">1-6</container>
+            <physdesc>
+                <extent>6.0 Volume(s)</extent>
+            </physdesc>
+            <unitdate normal="1790/1904" type="inclusive">Circa 1790-1904</unitdate>
+            <abstract id="ref1" label="Abstract">This group consists of several editions of Charles Willson Peale's autobiography: a fragment of a preliminary draft begun by C. W. Peale in 1790, a more extensive version begun in 1826, a transcribed copy of the 1826 manuscript by great-grandson Horace Wells Sellers (1896?), and a typed copy of this transcribed version with notes and an index (dated 1904) also by Horace Wells Sellers.</abstract>
+            <physdesc id="ref12" label="General Physical Description note">6 volumes.</physdesc>
+            <physloc id="ref15" label="Paging">LH-MV-E-4</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Peale, Charles Willson, 1741-1827</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref11">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Purchased from Charles Coleman Sellers and accessioned, 1945.</p>
+        </acqinfo>
+        <altformavail id="ref9">
+            <head>Existence and Location of Copies note</head>
+            <p>This collection is also available on microfilm (Film 240). The papers of C. W. Peale and his family have been reproduced almost in their entirety in microfiche form (Lillian B. Miller, ed. "Collected papers of Charles Willson Peale and his family." Kraus Microfilm, 1980).</p>
+            <p></p>
+        </altformavail>
+        <odd id="ref5">
+            <head>General note</head>
+            <p>The main body of the Peale Collection is described in brief in American Philosophical Society Library "Year Book" 1945:74-77.</p>
+        </odd>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>Charles Willson Peale was an artist and naturalist.</p>
+        </bioghist>
+        <odd id="ref13">
+            <head>Early American History Not</head>
+            <p>The autobiographies of Charles Wilson Peale (there are really two in this collection) are remarkable documents. The first, written in 1790, sketches out Peale’s life up to this point and is in a small, pocket sized bound volume. Peale recounts his exploits in the Revolutionary War and after it. The final copy, written in the early nineteenth century(likely 1826), consists of several hundred pages of detailed reminiscences of his life, an autobiography written for publication as a complement to his painted Artist in His Museum.</p>
+        </odd>
+        <odd id="ref14">
+            <head>Administrative Note</head>
+            <p>This record is superseded by, and included in, B P31. It was marked “internal only” in Dec., 2010 and is being kept in the case that it is needed for future administrative needs.</p>
+        </odd>
+        <controlaccess>
+            <famname source="ingest">Peale family.</famname>
+            <persname source="ingest">Sellers, Horace Wells,1857-1933.</persname>
+            <subject source="leah">American Revolution</subject>
+            <occupation source="lcsh">Artists -- United States.</occupation>
+            <genreform source="lcsh">Autobiographies.</genreform>
+            <genreform source="leah">Autobiography</genreform>
+            <subject source="leah">Early National Politics</subject>
+            <subject source="leah">Literature, Arts, and Culture</subject>
+            <occupation source="lcsh">Naturalists -- United States.</occupation>
+            <subject source="leah">Philadelphia History</subject>
+            <geogname source="lcsh">United States -- Civilization -- 1783-1865.</geogname>
+            <geogname source="lcsh">United States -- Civilization -- To 1783.</geogname>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

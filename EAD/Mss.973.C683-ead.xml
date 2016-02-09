@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.973.C683-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.973.C683</num>
+                </titleproper>
+                <author>Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:26-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Broadsides (small) Collection, ca. 1750-1995</unittitle>
+            <unitid>Mss.973.C683</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>2056.0 Item(s)</extent>
+                <extent>Circa 27 boxes; 2 extra-oversized drawers</extent>
+            </physdesc>
+            <unitdate normal="1750/1995" type="inclusive">Circa 1750-1995</unitdate>
+            <physdesc id="ref1" label="General Physical Description note">Circa 2056 items including 592 extra-oversized.</physdesc>
+            <physloc id="ref3" label="Paging">LH-MV-D-8; LH-MV-C-9 (OS); LH-SB-XOS Case 1-6to7 (XOS)</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Various authors</persname>
+            </origination>
+        </did>
+        <odd id="ref2">
+            <head>Naval History Note</head>
+            <p>The Broadsides Collection contains a few items which may be of interest to naval historians:</p>
+            <list type="ordered">
+                <head>Longitude.</head>
+                <item>
+                    <extref ns2:show="new" ns2:href="http://cdm.amphilsoc.org/u?/broadsides,74">Hellins, John</extref>. An extract from a letter of the Rev. Mr. John Hellins, formerly assistant to Mr. (now Dr.) Maskelyne, the Astronomer-Royal at Greenwich Observatory, to Francis Maseres, Esquire. 1792. Printed copy of a letter written on behalf of Dr. Maskelyne by his former assistant, John Hellins, in reply to a pamphlet authored by Mr. [Thomas] Mudge. Mudge submitted a chronometer of his own construction for a prize offered by the British Parliament for the determination of longitude at sea. During testing at the Royal Observatory the watch stopped working, leading to claims by Mudge that his device had been improperly handled by the observatory's director, Dr. [Nevil] Maskelyne. In the letter, Hellins details his observation of Maskelyne's great care in moving and winding chronometers. 4 pages. (973 C683 #114).</item>
+                <item>
+                    <extref ns2:show="new" ns2:href="http://cdm.amphilsoc.org/u?/broadsides,274">American Philosophical Society</extref>. Premiums. The American Philosophical Society, held at Philadelphia, for promoting useful knowledge, in order the more effectually to answer the ends of their institution, have agreed to appropriate, annually, a part of their funds to be disposed of in premiums to the authors of the best performances, inventions, or improvements, relative to certain specific subjects of useful knowledge. The following premiums, therefore, are now proposed by the society. 1796. Includes information on seven premiums offered by the society for the best entries in the following categories: system of liberal education, method for computing longitude by lunar observation, improvement of a ship's pump, improvement of stoves, method of preventing premature decay of peach trees, experimental treatise on vegetable dyes, and improvement of lamps. Also includes a notice of the conditions of the Magellanic premium. Note at base of this broadside requests printers of "newspapers and other periodical publications, in the United States and in Europe" to "republish the above information." Signed in type by W[illiam] Barton and John Bleakley, secretaries of the American Philosophical Society. 1 page. (973 C683 #251).</item>
+            </list>
+            <list type="ordered">
+                <head>United States. Navy.</head>
+                <item>
+                    <extref ns2:show="new" ns2:href="http://cdm.amphilsoc.org/u?/broadsides,933">Anonymous</extref>. General considerations ns2:showing the impolicy of the adoption by Congress of the recommendation of the secretary of the Navy to transfer the Coast and Geodetic Survey from the Treasury to the Navy Department. n.d. Broadside arguing against a proposed move of the Coast and Geodetic Survey from the Treasury to the Navy Department. 1 page. (973 C683 #76).</item>
+            </list>
+        </odd>
+        <odd id="ref4">
+            <head>Early American History Note</head>
+            <p>This collection contains printed broadsides from early America. Most are official government documents.</p>
+        </odd>
+        <controlaccess>
+            <genreform source="lcsh">Broadsides.</genreform>
+            <genreform source="leah">Official Government Documents and Records</genreform>
+            <genreform source="leah">Printed Material</genreform>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

@@ -1,0 +1,1643 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Rec.12-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Rec.12</num>
+                    <num>Mss.Rec.12</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Brian Carpenter</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T21:10-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Northern Tepehuan language material</unittitle>
+            <unitid>Mss.Rec.12</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="nai"/>
+            </langmaterial>
+            <physdesc>
+                <extent>3.0 Tape(s)</extent>
+            </physdesc>
+            <unitdate>1951, 1956, 1958</unitdate>
+            <abstract id="ref3" label="Abstract">Northern Tepehuan songs and stories originally recorded on wire by John Alden Mason in 1951, 1956, and 1958 Numerous short songs, folkloric and unidentified stories, description of pottery-making, conversation in Spanish on indigenous peoples, and texts and speech in the Macoba dialect of Pima Bajo. Recorded in Baborigame (Chihuahua,) Hermosillo, and Onavas (Sonora.) Tepehuan consultants are Gerónimo Aguilar, Andrés Carrillo, Antonio Carrillo, Celestina Carrillo, Dolores Carrillo, Juan Carrillo, Lorenzo Carrillo, Carolina Chaparro de Carrillo, Catalina Carrillo De Onteveros, Dolores Molina, and Julio Estrella. The Pima Bajo consultant is Nacho Lucero Coyote. Some material was recorded by David M. Brugge or Burton Bascom.</abstract>
+            <physdesc id="ref2" label="General Physical Description note">3 sound tape reels (2 hr., 9 min.) : analog, 7 1/2 ips, 1 track, mono ; 5 in.</physdesc>
+            <physloc id="ref209" label="Paging">LH-B-32-1</physloc>
+            <origination label="creator">
+                <persname source="ingest">Bascom, Burton W.</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Mason, John Alden, 1885-1967</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref4">
+            <head>Immediate Source of Acquisition</head>
+            <p>Presented by John A. Mason, 1952.</p>
+        </acqinfo>
+        <bioghist id="ref5">
+            <head>Biographical/Historical note</head>
+            <p>John Alden Mason was an anthropologist and archaeologist.</p>
+        </bioghist>
+        <scopecontent id="ref6">
+            <head>Scope and Contents</head>
+            <p>Tape 1. Duplicate of speech and songs of the Northern Tepehuan language, made from the original wire spool recorded at Baborigame, Chihuahua, Mexico, March 1951, by John Alden Mason of the University Museum, University of Pennsylvania. Duplicates from the original wire spool were made on 6 July 1951 by John Alden Mason and Leigh Lisker.</p>
+            <p>Tape 2. Continuation of tape 1. Recorded March-April 1951. Prominent background hum partially corrected at -12dB at 630hz during transfer to RDAT.</p>
+            <p>Tape 3. Continuation of tape 2. Elicitaton of Northern Tepehuan given in Spanish by Burton Bascom. The subsequent material on the tape was recorded at 15 ips and not transferred to RDAT with other programs. The portion not transferred to RDAT is a duplicate of the preceding program.</p>
+            <p>Tape 4. Northern Tepehuan speech and song. Tape duplicate of wire spool made in April 1951 at Baborigame, Chihuahua, Mexico. Tape duplicate made at the Univeristy Museum, University of Pennsylvania on 1 July 1954. Prominent line hum.</p>
+            <p>Tape 5. Lower Pima (Pima Bajo) texts. Dialect of Macoba (Sonora-Chihuahua border.) Recorded by David Brugge in Hermosillo, Sonora, June 1958, with consultant Nacho Lucero Coyote and interpreter Lorenzo Jimenez. Correspondence between Brugge and Mason regarding this research trip can be found in the John Alden Mason papers.</p>
+            <p>Tape 6. Lower Pima (Pima Bajo) material recorded at Onavas, Sonora, Mexico by David Brugge. Received by Mason from Brugge in June 1956. Poor sound quality overall due to oocilation on original wire recording.</p>
+        </scopecontent>
+        <accruals id="ref7">
+            <head>Accruals note</head>
+            <p>This collection is separated into two parts: tapes 1-3, which were the collector's original tapes contained in this collection, and tapes 4-6, which were removed from the collector's papers in the APS Library and added to this collection in July of 1989. The recordings in the APS Library are duplicates made from the collector's original wire spools.</p>
+        </accruals>
+        <controlaccess>
+            <subject source="lcsh">Indians of Mexico--Languages</subject>
+            <genreform source="ingest">Sound recordings</genreform>
+            <subject source="lcsh">Tepehuan language</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref8" level="series">
+                <did>
+                    <unittitle>Audio recordings</unittitle>
+                </did>
+                <c02 id="ref9" level="file">
+                    <did>
+                        <unittitle>Northern Tepehuan speech</unittitle>
+                        <unitid>01-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1951-03-17</unitdate>
+                        <physdesc id="ref10" label="General Physical Description note">
+                            <extent>00:00:59</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Aguilar, Gerónimo</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Mason, John Alden, 1885-1967</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref12">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Wire recording) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0445" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6084">
+                        <daodesc>
+                            <p>APSdigrec_0445</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Baborigame (Chihuahua, Mexico)</geogname>
+                        <subject source="ingest">Indians of Mexico--Chihuahua (State)</subject>
+                        <subject source="ingest">Tepehuan Indians</subject>
+                        <subject source="lcsh">Tepehuan language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref13" level="file">
+                    <did>
+                        <unittitle>The Story of Bear and Cricket</unittitle>
+                        <unitid>01-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1951-03-18</unitdate>
+                        <physdesc id="ref14" label="General Physical Description note">
+                            <extent>00:03:10</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Aguilar, Gerónimo</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Mason, John Alden, 1885-1967</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref15">
+                        <head>Scope and Contents note</head>
+                        <p>Story in Northern Tepehuan.</p>
+                    </scopecontent>
+                    <originalsloc id="ref17">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Wire recording) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0446" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6066">
+                        <daodesc>
+                            <p>APSdigrec_0446</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Baborigame (Chihuahua, Mexico)</geogname>
+                        <subject source="ingest">Bears--Folklore</subject>
+                        <subject source="ingest">Indians of Mexico--Chihuahua (State)</subject>
+                        <subject source="ingest">Tepehuan Indians</subject>
+                        <subject source="lcsh">Tepehuan Indians--Folklore</subject>
+                        <subject source="lcsh">Tepehuan language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref18" level="file">
+                    <did>
+                        <unittitle>The Story of the Shingle Maker</unittitle>
+                        <unitid>01-03</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1951-03-21</unitdate>
+                        <physdesc id="ref19" label="General Physical Description note">
+                            <extent>00:01:10</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Aguilar, Gerónimo</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Mason, John Alden, 1885-1967</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref20">
+                        <head>Scope and Contents note</head>
+                        <p>Story in Northern Tepehuan.</p>
+                    </scopecontent>
+                    <originalsloc id="ref22">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Wire recording) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0447" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6100">
+                        <daodesc>
+                            <p>APSdigrec_0447</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Baborigame (Chihuahua, Mexico)</geogname>
+                        <subject source="ingest">Indians of Mexico--Chihuahua (State)</subject>
+                        <subject source="ingest">Tepehuan Indians</subject>
+                        <subject source="lcsh">Tepehuan Indians--Folklore</subject>
+                        <subject source="lcsh">Tepehuan Indians--Social life and customs</subject>
+                        <subject source="lcsh">Tepehuan language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref23" level="file">
+                    <did>
+                        <unittitle>The Story of the Bear and the Planter</unittitle>
+                        <unitid>01-04</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1951-03-21</unitdate>
+                        <physdesc id="ref24" label="General Physical Description note">
+                            <extent>00:01:03</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Carrillo, Lorenzo</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Mason, John Alden, 1885-1967</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref25">
+                        <head>Scope and Contents note</head>
+                        <p>Story in Northern Tepehuan.</p>
+                    </scopecontent>
+                    <originalsloc id="ref27">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Wire recording) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0448" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6096">
+                        <daodesc>
+                            <p>APSdigrec_0448</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Baborigame (Chihuahua, Mexico)</geogname>
+                        <subject source="ingest">Bears--Folklore</subject>
+                        <subject source="ingest">Indians of Mexico--Chihuahua (State)</subject>
+                        <subject source="ingest">Tepehuan Indians</subject>
+                        <subject source="lcsh">Tepehuan Indians--Folklore</subject>
+                        <subject source="lcsh">Tepehuan language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref28" level="file">
+                    <did>
+                        <unittitle>Description of pottery-making and other household activities</unittitle>
+                        <unitid>01-05</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1951-03-26</unitdate>
+                        <physdesc id="ref29" label="General Physical Description note">
+                            <extent>00:01:13</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">De Carrillo, Catalina Chaparro</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Mason, John Alden, 1885-1967</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref31">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Wire recording) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0449" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6094">
+                        <daodesc>
+                            <p>APSdigrec_0449</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Baborigame (Chihuahua, Mexico)</geogname>
+                        <subject source="ingest">Indians of Mexico--Chihuahua (State)</subject>
+                        <subject source="ingest">Pottery craft</subject>
+                        <subject source="ingest">Tepehuan Indians</subject>
+                        <subject source="lcsh">Tepehuan Indians--Social life and customs</subject>
+                        <subject source="lcsh">Tepehuan language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref32" level="file">
+                    <did>
+                        <unittitle>The Story of the Pig and the Burro</unittitle>
+                        <unitid>01-06</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1951-03</unitdate>
+                        <physdesc id="ref33" label="General Physical Description note">
+                            <extent>00:03:31</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Carrillo, Lorenzo</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Mason, John Alden, 1885-1967</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref34">
+                        <head>Scope and Contents note</head>
+                        <p>Story in Northern Tepehuan.</p>
+                    </scopecontent>
+                    <originalsloc id="ref36">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Wire recording) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0450" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6089">
+                        <daodesc>
+                            <p>APSdigrec_0450</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Baborigame (Chihuahua, Mexico)</geogname>
+                        <subject source="ingest">Indians of Mexico--Chihuahua (State)</subject>
+                        <subject source="ingest">Swine--Folklore</subject>
+                        <subject source="ingest">Tepehuan Indians</subject>
+                        <subject source="lcsh">Tepehuan Indians--Folklore</subject>
+                        <subject source="lcsh">Tepehuan language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref37" level="file">
+                    <did>
+                        <unittitle>A Tepehuan Song about the Moon</unittitle>
+                        <unitid>01-07</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1951-03</unitdate>
+                        <physdesc id="ref38" label="General Physical Description note">
+                            <extent>00:00:23</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Carrillo, Antonio</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Mason, John Alden, 1885-1967</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref40">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Wire recording) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0451" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6082">
+                        <daodesc>
+                            <p>APSdigrec_0451</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Baborigame (Chihuahua, Mexico)</geogname>
+                        <subject source="ingest">Indians of Mexico--Chihuahua (State)</subject>
+                        <subject source="ingest">Tepehuan Indians</subject>
+                        <subject source="lcsh">Tepehuan Indians--Folklore</subject>
+                        <subject source="lcsh">Tepehuan Indians--Music</subject>
+                        <subject source="lcsh">Tepehuan language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref41" level="file">
+                    <did>
+                        <unittitle>The Song of the Chipmunk</unittitle>
+                        <unitid>01-08</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1951-03</unitdate>
+                        <physdesc id="ref42" label="General Physical Description note">
+                            <extent>00:00:27</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Carrillo, Lorenzo</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Mason, John Alden, 1885-1967</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref43">
+                        <head>Scope and Contents note</head>
+                        <p>Song in Northern Tepehuan.</p>
+                    </scopecontent>
+                    <originalsloc id="ref45">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Wire recording) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0452" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6075">
+                        <daodesc>
+                            <p>APSdigrec_0452</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Baborigame (Chihuahua, Mexico)</geogname>
+                        <subject source="ingest">Indians of Mexico--Chihuahua (State)</subject>
+                        <subject source="ingest">Tepehuan Indians</subject>
+                        <subject source="lcsh">Tepehuan Indians--Folklore</subject>
+                        <subject source="lcsh">Tepehuan Indians--Music</subject>
+                        <subject source="lcsh">Tepehuan language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref46" level="file">
+                    <did>
+                        <unittitle>The Bonanza Song</unittitle>
+                        <unitid>01-09</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1951-03</unitdate>
+                        <physdesc id="ref47" label="General Physical Description note">
+                            <extent>00:00:21</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Carrillo, Juan</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Mason, John Alden, 1885-1967</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref48">
+                        <head>Scope and Contents note</head>
+                        <p>Song in Northern Tepehuan.</p>
+                    </scopecontent>
+                    <originalsloc id="ref50">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Wire recording) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0453" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6098">
+                        <daodesc>
+                            <p>APSdigrec_0453</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Baborigame (Chihuahua, Mexico)</geogname>
+                        <subject source="ingest">Indians of Mexico--Chihuahua (State)</subject>
+                        <subject source="ingest">Tepehuan Indians</subject>
+                        <subject source="lcsh">Tepehuan Indians--Folklore</subject>
+                        <subject source="lcsh">Tepehuan Indians--Music</subject>
+                        <subject source="lcsh">Tepehuan language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref51" level="file">
+                    <did>
+                        <unittitle>The Little Owl</unittitle>
+                        <unitid>01-10</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1951-03</unitdate>
+                        <physdesc id="ref52" label="General Physical Description note">
+                            <extent>00:00:44</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Carrillo, Dolores</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Mason, John Alden, 1885-1967</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref53">
+                        <head>Scope and Contents note</head>
+                        <p>Story in Northern Tepehuan.</p>
+                    </scopecontent>
+                    <originalsloc id="ref55">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Wire recording) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0454" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6068">
+                        <daodesc>
+                            <p>APSdigrec_0454</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Baborigame (Chihuahua, Mexico)</geogname>
+                        <subject source="ingest">Indians of Mexico--Chihuahua (State)</subject>
+                        <subject source="ingest">Tepehuan Indians</subject>
+                        <subject source="lcsh">Tepehuan Indians--Folklore</subject>
+                        <subject source="lcsh">Tepehuan Indians--Music</subject>
+                        <subject source="lcsh">Tepehuan language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref56" level="file">
+                    <did>
+                        <unittitle>The Song of the Burro</unittitle>
+                        <unitid>01-11</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1951-03</unitdate>
+                        <physdesc id="ref57" label="General Physical Description note">
+                            <extent>00:00:18</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Carrillo, Juan</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Mason, John Alden, 1885-1967</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref58">
+                        <head>Scope and Contents note</head>
+                        <p>Song in Northern Tepehuan.</p>
+                    </scopecontent>
+                    <originalsloc id="ref60">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Wire recording) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0455" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6065">
+                        <daodesc>
+                            <p>APSdigrec_0455</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Baborigame (Chihuahua, Mexico)</geogname>
+                        <subject source="ingest">Indians of Mexico--Chihuahua (State)</subject>
+                        <subject source="ingest">Tepehuan Indians</subject>
+                        <subject source="lcsh">Tepehuan Indians--Folklore</subject>
+                        <subject source="lcsh">Tepehuan Indians--Music</subject>
+                        <subject source="lcsh">Tepehuan language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref61" level="file">
+                    <did>
+                        <unittitle>The Song of the Calandria</unittitle>
+                        <unitid>01-12</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1951-03</unitdate>
+                        <physdesc id="ref62" label="General Physical Description note">
+                            <extent>00:00:33</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Carrillo, Dolores</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Mason, John Alden, 1885-1967</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref63">
+                        <head>Scope and Contents note</head>
+                        <p>Song in Northern Tepehuan.</p>
+                    </scopecontent>
+                    <originalsloc id="ref65">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Wire recording) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0456" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6103">
+                        <daodesc>
+                            <p>APSdigrec_0456</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Baborigame (Chihuahua, Mexico)</geogname>
+                        <subject source="ingest">Indians of Mexico--Chihuahua (State)</subject>
+                        <subject source="ingest">Tepehuan Indians</subject>
+                        <subject source="lcsh">Tepehuan Indians--Folklore</subject>
+                        <subject source="lcsh">Tepehuan Indians--Music</subject>
+                        <subject source="lcsh">Tepehuan language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref66" level="file">
+                    <did>
+                        <unittitle>The Song of the Piñon Tree</unittitle>
+                        <unitid>01-13</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1951-03</unitdate>
+                        <physdesc id="ref67" label="General Physical Description note">
+                            <extent>00:00:27</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Carrillo, Dolores</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Mason, John Alden, 1885-1967</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref68">
+                        <head>Scope and Contents note</head>
+                        <p>Song in Northern Tepehuan.</p>
+                    </scopecontent>
+                    <originalsloc id="ref70">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Wire recording) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0457" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6071">
+                        <daodesc>
+                            <p>APSdigrec_0457</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Baborigame (Chihuahua, Mexico)</geogname>
+                        <subject source="ingest">Indians of Mexico--Chihuahua (State)</subject>
+                        <subject source="ingest">Tepehuan Indians</subject>
+                        <subject source="lcsh">Tepehuan Indians--Folklore</subject>
+                        <subject source="lcsh">Tepehuan Indians--Music</subject>
+                        <subject source="lcsh">Tepehuan language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref71" level="file">
+                    <did>
+                        <unittitle>The Song of the Dawn</unittitle>
+                        <unitid>01-14</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1951-03</unitdate>
+                        <physdesc id="ref72" label="General Physical Description note">
+                            <extent>00:00:21</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Carrillo, Juan</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Mason, John Alden, 1885-1967</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref73">
+                        <head>Scope and Contents note</head>
+                        <p>Song in Northern Tepehuan.</p>
+                    </scopecontent>
+                    <originalsloc id="ref75">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Wire recording) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0458" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6080">
+                        <daodesc>
+                            <p>APSdigrec_0458</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Baborigame (Chihuahua, Mexico)</geogname>
+                        <subject source="ingest">Indians of Mexico--Chihuahua (State)</subject>
+                        <subject source="ingest">Tepehuan Indians</subject>
+                        <subject source="lcsh">Tepehuan Indians--Folklore</subject>
+                        <subject source="lcsh">Tepehuan Indians--Music</subject>
+                        <subject source="lcsh">Tepehuan language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref76" level="file">
+                    <did>
+                        <unittitle>The Song of Baborigame</unittitle>
+                        <unitid>01-15</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1951-03</unitdate>
+                        <physdesc id="ref77" label="General Physical Description note">
+                            <extent>00:00:53</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Carrillo, Lorenzo</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Mason, John Alden, 1885-1967</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref78">
+                        <head>Scope and Contents note</head>
+                        <p>Song in Northern Tepehuan.</p>
+                    </scopecontent>
+                    <originalsloc id="ref80">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Wire recording) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0459" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6069">
+                        <daodesc>
+                            <p>APSdigrec_0459</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Baborigame (Chihuahua, Mexico)</geogname>
+                        <subject source="ingest">Indians of Mexico--Chihuahua (State)</subject>
+                        <subject source="ingest">Tepehuan Indians</subject>
+                        <subject source="lcsh">Tepehuan Indians--Folklore</subject>
+                        <subject source="lcsh">Tepehuan Indians--Music</subject>
+                        <subject source="lcsh">Tepehuan language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref81" level="file">
+                    <did>
+                        <unittitle>The Song of the Ants</unittitle>
+                        <unitid>01-16</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1951-03</unitdate>
+                        <physdesc id="ref82" label="General Physical Description note">
+                            <extent>00:00:51</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Carrillo, Antonio</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Mason, John Alden, 1885-1967</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref83">
+                        <head>Scope and Contents note</head>
+                        <p>Song in Northern Tepehuan.</p>
+                    </scopecontent>
+                    <originalsloc id="ref85">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Wire recording) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0460" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6072">
+                        <daodesc>
+                            <p>APSdigrec_0460</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Baborigame (Chihuahua, Mexico)</geogname>
+                        <subject source="ingest">Indians of Mexico--Chihuahua (State)</subject>
+                        <subject source="ingest">Tepehuan Indians</subject>
+                        <subject source="lcsh">Tepehuan Indians--Folklore</subject>
+                        <subject source="lcsh">Tepehuan Indians--Music</subject>
+                        <subject source="lcsh">Tepehuan language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref86" level="file">
+                    <did>
+                        <unittitle>The Song of Jesus Encinas</unittitle>
+                        <unitid>01-17</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1951-03</unitdate>
+                        <physdesc id="ref87" label="General Physical Description note">
+                            <extent>00:00:41</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">de Carrillo, Carolina Chaparro</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Mason, John Alden, 1885-1967</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref88">
+                        <head>Scope and Contents note</head>
+                        <p>Song in Northern Tepehuan.</p>
+                    </scopecontent>
+                    <originalsloc id="ref90">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Wire recording) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0461" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6088">
+                        <daodesc>
+                            <p>APSdigrec_0461</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Baborigame (Chihuahua, Mexico)</geogname>
+                        <subject source="ingest">Indians of Mexico--Chihuahua (State)</subject>
+                        <subject source="ingest">Tepehuan Indians</subject>
+                        <subject source="lcsh">Tepehuan Indians--Folklore</subject>
+                        <subject source="lcsh">Tepehuan Indians--Music</subject>
+                        <subject source="lcsh">Tepehuan language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref91" level="file">
+                    <did>
+                        <unittitle>The Song of the Mischevious Boy</unittitle>
+                        <unitid>01-18</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1951-03</unitdate>
+                        <physdesc id="ref92" label="General Physical Description note">
+                            <extent>00:00:32</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Carrillo, Celestina</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Mason, John Alden, 1885-1967</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref93">
+                        <head>Scope and Contents note</head>
+                        <p>Song in Northern Tepehuan.</p>
+                    </scopecontent>
+                    <originalsloc id="ref95">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Wire recording) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0462" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6091">
+                        <daodesc>
+                            <p>APSdigrec_0462</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Baborigame (Chihuahua, Mexico)</geogname>
+                        <subject source="ingest">Indians of Mexico--Chihuahua (State)</subject>
+                        <subject source="ingest">Tepehuan Indians</subject>
+                        <subject source="lcsh">Tepehuan Indians--Folklore</subject>
+                        <subject source="lcsh">Tepehuan Indians--Music</subject>
+                        <subject source="lcsh">Tepehuan language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref96" level="file">
+                    <did>
+                        <unittitle>La canción del chiquito</unittitle>
+                        <unitid>01-19</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1951-03</unitdate>
+                        <physdesc id="ref97" label="General Physical Description note">
+                            <extent>00:00:27</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">de Carrillo, Carolina Chaparro</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Mason, John Alden, 1885-1967</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref98">
+                        <head>Scope and Contents note</head>
+                        <p>Song in Northern Tepehuan.</p>
+                    </scopecontent>
+                    <originalsloc id="ref100">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Wire recording) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0463" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6086">
+                        <daodesc>
+                            <p>APSdigrec_0463</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Baborigame (Chihuahua, Mexico)</geogname>
+                        <subject source="ingest">Indians of Mexico--Chihuahua (State)</subject>
+                        <subject source="ingest">Tepehuan Indians</subject>
+                        <subject source="lcsh">Tepehuan Indians--Folklore</subject>
+                        <subject source="lcsh">Tepehuan Indians--Music</subject>
+                        <subject source="lcsh">Tepehuan language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref101" level="file">
+                    <did>
+                        <unittitle>The Story of the Mountain Lion</unittitle>
+                        <unitid>01-20</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1951-03-27</unitdate>
+                        <physdesc id="ref102" label="General Physical Description note">
+                            <extent>00:01:28</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Carrillo, Lorenzo</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Mason, John Alden, 1885-1967</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref103">
+                        <head>Scope and Contents note</head>
+                        <p>Story in Northern Tepehuan.</p>
+                    </scopecontent>
+                    <originalsloc id="ref105">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Wire recording) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0464" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6085">
+                        <daodesc>
+                            <p>APSdigrec_0464</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Baborigame (Chihuahua, Mexico)</geogname>
+                        <subject source="ingest">Indians of Mexico--Chihuahua (State)</subject>
+                        <subject source="ingest">Puma--Folklore</subject>
+                        <subject source="ingest">Tepehuan Indians</subject>
+                        <subject source="lcsh">Tepehuan Indians--Folklore</subject>
+                        <subject source="lcsh">Tepehuan language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref106" level="file">
+                    <did>
+                        <unittitle>The Song of the Pig</unittitle>
+                        <unitid>01-21</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1951-03-27</unitdate>
+                        <physdesc id="ref107" label="General Physical Description note">
+                            <extent>00:00:26</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Carrillo, Lorenzo</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Mason, John Alden, 1885-1967</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref108">
+                        <head>Scope and Contents note</head>
+                        <p>Song in Northern Tepehuan.</p>
+                    </scopecontent>
+                    <originalsloc id="ref110">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Wire recording) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0465" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6099">
+                        <daodesc>
+                            <p>APSdigrec_0465</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Baborigame (Chihuahua, Mexico)</geogname>
+                        <subject source="ingest">Indians of Mexico--Chihuahua (State)</subject>
+                        <subject source="ingest">Tepehuan Indians</subject>
+                        <subject source="lcsh">Tepehuan Indians--Folklore</subject>
+                        <subject source="lcsh">Tepehuan Indians--Music</subject>
+                        <subject source="lcsh">Tepehuan language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref111" level="file">
+                    <did>
+                        <unittitle>The Journey of Don Sotiero Ramírez</unittitle>
+                        <unitid>01-22</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1951-03-27</unitdate>
+                        <physdesc id="ref112" label="General Physical Description note">
+                            <extent>00:01:55</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Carrillo, Andrés</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Mason, John Alden, 1885-1967</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref113">
+                        <head>Scope and Contents note</head>
+                        <p>Story in Northern Tepehuan.</p>
+                    </scopecontent>
+                    <originalsloc id="ref115">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Wire recording) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0466" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6077">
+                        <daodesc>
+                            <p>APSdigrec_0466</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Baborigame (Chihuahua, Mexico)</geogname>
+                        <subject source="ingest">Indians of Mexico--Chihuahua (State)</subject>
+                        <subject source="ingest">Tepehuan Indians</subject>
+                        <subject source="lcsh">Tepehuan Indians--Folklore</subject>
+                        <subject source="lcsh">Tepehuan language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref116" level="file">
+                    <did>
+                        <unittitle>The Story of the Hunter</unittitle>
+                        <unitid>01-23</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1951-03-27</unitdate>
+                        <physdesc id="ref117" label="General Physical Description note">
+                            <extent>00:01:29</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Carrillo, Lorenzo</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Mason, John Alden, 1885-1967</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Molina, Dolores</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref118">
+                        <head>Scope and Contents note</head>
+                        <p>Story in Northern Tepehuan.</p>
+                    </scopecontent>
+                    <originalsloc id="ref120">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Wire recording) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0467" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6079">
+                        <daodesc>
+                            <p>APSdigrec_0467</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Baborigame (Chihuahua, Mexico)</geogname>
+                        <subject source="ingest">Hunters--Folklore</subject>
+                        <subject source="ingest">Indians of Mexico--Chihuahua (State)</subject>
+                        <subject source="ingest">Tepehuan Indians</subject>
+                        <subject source="lcsh">Tepehuan Indians--Folklore</subject>
+                        <subject source="lcsh">Tepehuan language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref121" level="file">
+                    <did>
+                        <unittitle>The Story of Eagle and Coyote</unittitle>
+                        <unitid>01-24</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1951-03-27</unitdate>
+                        <physdesc id="ref122" label="General Physical Description note">
+                            <extent>00:00:56</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Carrillo, Juan</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Mason, John Alden, 1885-1967</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref123">
+                        <head>Scope and Contents note</head>
+                        <p>Story in Northern Tepehuan.</p>
+                    </scopecontent>
+                    <originalsloc id="ref125">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Wire recording) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0468" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6087">
+                        <daodesc>
+                            <p>APSdigrec_0468</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Baborigame (Chihuahua, Mexico)</geogname>
+                        <subject source="ingest">Eagles--Folklore</subject>
+                        <subject source="ingest">Indians of Mexico--Chihuahua (State)</subject>
+                        <subject source="ingest">Tepehuan Indians</subject>
+                        <subject source="lcsh">Tepehuan Indians--Folklore</subject>
+                        <subject source="lcsh">Tepehuan language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref126" level="file">
+                    <did>
+                        <unittitle>The Song of the Town of Cinco Llagas</unittitle>
+                        <unitid>01-25</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1951-03-27</unitdate>
+                        <physdesc id="ref127" label="General Physical Description note">
+                            <extent>00:00:28</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Carrillo, Juan</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Mason, John Alden, 1885-1967</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref128">
+                        <head>Scope and Contents note</head>
+                        <p>Song in Northern Tepehuan.</p>
+                    </scopecontent>
+                    <originalsloc id="ref130">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Wire recording) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0469" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6102">
+                        <daodesc>
+                            <p>APSdigrec_0469</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Baborigame (Chihuahua, Mexico)</geogname>
+                        <subject source="ingest">Indians of Mexico--Chihuahua (State)</subject>
+                        <subject source="ingest">Tepehuan Indians</subject>
+                        <subject source="lcsh">Tepehuan Indians--Folklore</subject>
+                        <subject source="lcsh">Tepehuan Indians--Music</subject>
+                        <subject source="lcsh">Tepehuan language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref131" level="file">
+                    <did>
+                        <unittitle>The Song of the Rancho Curave</unittitle>
+                        <unitid>01-26</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1951-03-27</unitdate>
+                        <physdesc id="ref132" label="General Physical Description note">
+                            <extent>00:00:22</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Carrillo, Juan</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Mason, John Alden, 1885-1967</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref133">
+                        <head>Scope and Contents note</head>
+                        <p>Song in Northern Tepehuan.</p>
+                    </scopecontent>
+                    <originalsloc id="ref135">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Wire recording) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0470" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6090">
+                        <daodesc>
+                            <p>APSdigrec_0470</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Baborigame (Chihuahua, Mexico)</geogname>
+                        <subject source="ingest">Indians of Mexico--Chihuahua (State)</subject>
+                        <subject source="ingest">Tepehuan Indians</subject>
+                        <subject source="lcsh">Tepehuan Indians--Folklore</subject>
+                        <subject source="lcsh">Tepehuan Indians--Music</subject>
+                        <subject source="lcsh">Tepehuan language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref136" level="file">
+                    <did>
+                        <unittitle>The Song of the Little One</unittitle>
+                        <unitid>01-27</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1951-03-27</unitdate>
+                        <physdesc id="ref137" label="General Physical Description note">
+                            <extent>00:00:46</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Mason, John Alden, 1885-1967</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Molina, Dolores</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref138">
+                        <head>Scope and Contents note</head>
+                        <p>Song in Northern Tepehuan.</p>
+                    </scopecontent>
+                    <originalsloc id="ref140">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Wire recording) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0471" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6081">
+                        <daodesc>
+                            <p>APSdigrec_0471</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Baborigame (Chihuahua, Mexico)</geogname>
+                        <subject source="ingest">Indians of Mexico--Chihuahua (State)</subject>
+                        <subject source="ingest">Tepehuan Indians</subject>
+                        <subject source="lcsh">Tepehuan Indians--Folklore</subject>
+                        <subject source="lcsh">Tepehuan Indians--Music</subject>
+                        <subject source="lcsh">Tepehuan language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref141" level="file">
+                    <did>
+                        <unittitle>The Story of the Rabbit, or the Tar Baby Story</unittitle>
+                        <unitid>01-28</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1951-03-27</unitdate>
+                        <physdesc id="ref142" label="General Physical Description note">
+                            <extent>00:02:37</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Carrillo, Andrés</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Mason, John Alden, 1885-1967</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref143">
+                        <head>Scope and Contents note</head>
+                        <p>Story in Northern Tepehuan.</p>
+                    </scopecontent>
+                    <originalsloc id="ref145">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Wire recording) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0472" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6073">
+                        <daodesc>
+                            <p>APSdigrec_0472</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Baborigame (Chihuahua, Mexico)</geogname>
+                        <subject source="ingest">Indians of Mexico--Chihuahua (State)</subject>
+                        <subject source="ingest">Tepehuan Indians</subject>
+                        <subject source="lcsh">Tepehuan Indians--Folklore</subject>
+                        <subject source="lcsh">Tepehuan language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref146" level="file">
+                    <did>
+                        <unittitle>Northern Tepehuan speech</unittitle>
+                        <unitid>02-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1951-04</unitdate>
+                        <physdesc id="ref147" label="General Physical Description note">
+                            <extent>00:02:13</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Carrillo, Andrés</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Mason, John Alden, 1885-1967</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref149">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Wire recording) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0473" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6064">
+                        <daodesc>
+                            <p>APSdigrec_0473</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Baborigame (Chihuahua, Mexico)</geogname>
+                        <subject source="ingest">Indians of Mexico--Chihuahua (State)</subject>
+                        <subject source="ingest">Tepehuan Indians</subject>
+                        <subject source="lcsh">Tepehuan language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref150" level="file">
+                    <did>
+                        <unittitle>The Tale of the Peanut</unittitle>
+                        <unitid>02-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1951-04</unitdate>
+                        <physdesc id="ref151" label="General Physical Description note">
+                            <extent>00:04:50</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Carrillo, Andrés</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Mason, John Alden, 1885-1967</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref152">
+                        <head>Scope and Contents note</head>
+                        <p>Story in Northern Tepehuan.</p>
+                    </scopecontent>
+                    <originalsloc id="ref154">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Wire recording) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0474" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6095">
+                        <daodesc>
+                            <p>APSdigrec_0474</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Baborigame (Chihuahua, Mexico)</geogname>
+                        <subject source="ingest">Indians of Mexico--Chihuahua (State)</subject>
+                        <subject source="ingest">Tepehuan Indians</subject>
+                        <subject source="lcsh">Tepehuan Indians--Folklore</subject>
+                        <subject source="lcsh">Tepehuan language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref155" level="file">
+                    <did>
+                        <unittitle>The Story of the Poor Man with Many Children</unittitle>
+                        <unitid>02-03</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1951-04-03</unitdate>
+                        <physdesc id="ref156" label="General Physical Description note">
+                            <extent>00:21:25</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">De Onteveros, Catalina Carrillo</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Mason, John Alden, 1885-1967</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref157">
+                        <head>Scope and Contents note</head>
+                        <p>Story in Northern Tepehuan.</p>
+                    </scopecontent>
+                    <originalsloc id="ref159">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Wire recording) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0475" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6101">
+                        <daodesc>
+                            <p>APSdigrec_0475</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Baborigame (Chihuahua, Mexico)</geogname>
+                        <subject source="ingest">Indians of Mexico--Chihuahua (State)</subject>
+                        <subject source="ingest">Tepehuan Indians</subject>
+                        <subject source="lcsh">Tepehuan Indians--Folklore</subject>
+                        <subject source="lcsh">Tepehuan Indians--Social life and customs</subject>
+                        <subject source="lcsh">Tepehuan language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref160" level="file">
+                    <did>
+                        <unittitle>Some examples of Northern Tepehuan phonetics and morphology</unittitle>
+                        <unitid>03-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1951-05</unitdate>
+                        <physdesc id="ref161" label="General Physical Description note">
+                            <extent>00:03:29</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Bascom, Burton William, 1921-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Carrillo, Juan</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Mason, John Alden, 1885-1967</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref162">
+                        <head>Scope and Contents note</head>
+                        <p>Elicitaitions given in Spanish to a Northern Tepehuan speaker.</p>
+                    </scopecontent>
+                    <originalsloc id="ref164">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Wire recording) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0476" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6070">
+                        <daodesc>
+                            <p>APSdigrec_0476</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Baborigame (Chihuahua, Mexico)</geogname>
+                        <subject source="ingest">Indians of Mexico--Chihuahua (State)</subject>
+                        <subject source="ingest">Tepehuan language--Morphology</subject>
+                        <subject source="ingest">Tepehuan language--Phonetics</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref165" level="file">
+                    <did>
+                        <unittitle>Pima Bajo Text No. 2</unittitle>
+                        <unitid>05-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1958-06</unitdate>
+                        <physdesc id="ref166" label="General Physical Description note">
+                            <extent>00:11:48</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Brugge, David M.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Coyote, Nacho Lucero</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Jimenez, Lorenzo</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref167">
+                        <head>Scope and Contents note</head>
+                        <p>Spanish translation of a text in Pima Bajo. Pima Bajo language, dialect of Macoba (Sonora-Chihuahua border)</p>
+                    </scopecontent>
+                    <originalsloc id="ref169">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Wire recording) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0477" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6092">
+                        <daodesc>
+                            <p>APSdigrec_0477</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Hermosillo (Mexico)</geogname>
+                        <subject source="lcsh">Indians of Mexico--Sonora (State)</subject>
+                        <subject source="lcsh">Pima Bajo language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref170" level="file">
+                    <did>
+                        <unittitle>Pima Bajo text</unittitle>
+                        <unitid>05-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1958-06</unitdate>
+                        <physdesc id="ref171" label="General Physical Description note">
+                            <extent>00:07:56</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Brugge, David M.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Coyote, Nacho Lucero</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref172">
+                        <head>Scope and Contents note</head>
+                        <p>Pima Bajo language, dialect of Macoba (Sonora-Chihuahua border)</p>
+                    </scopecontent>
+                    <originalsloc id="ref174">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Wire recording) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0478" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6093">
+                        <daodesc>
+                            <p>APSdigrec_0478</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Hermosillo (Mexico)</geogname>
+                        <subject source="ingest">Indians of Mexico--Chihuahua (State)</subject>
+                        <subject source="lcsh">Indians of Mexico--Sonora (State)</subject>
+                        <subject source="lcsh">Pima Bajo language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref175" level="file">
+                    <did>
+                        <unittitle>Pima Bajo Text No. 4</unittitle>
+                        <unitid>05-03</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1958-06</unitdate>
+                        <physdesc id="ref176" label="General Physical Description note">
+                            <extent>00:08:38</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Brugge, David M.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Coyote, Nacho Lucero</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref177">
+                        <head>Scope and Contents note</head>
+                        <p>Pima Bajo language, dialect of Macoba (Sonora-Chihuahua border)</p>
+                    </scopecontent>
+                    <originalsloc id="ref179">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Wire recording) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0479" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6097">
+                        <daodesc>
+                            <p>APSdigrec_0479</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Hermosillo (Mexico)</geogname>
+                        <subject source="ingest">Indians of Mexico--Chihuahua (State)</subject>
+                        <subject source="lcsh">Indians of Mexico--Sonora (State)</subject>
+                        <subject source="lcsh">Pima Bajo language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref180" level="file">
+                    <did>
+                        <unittitle>Conversation in Pima Bajo and Spanish</unittitle>
+                        <unitid>05-04</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1958-06</unitdate>
+                        <physdesc id="ref181" label="General Physical Description note">
+                            <extent>00:08:42</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Brugge, David M.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Coyote, Nacho Lucero</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Jimenez, Lorenzo</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref182">
+                        <head>Scope and Contents note</head>
+                        <p>Lower Pima (Pima Bajo) texts. Dialect of Macoba (Sonora-Chihuahua border).</p>
+                    </scopecontent>
+                    <originalsloc id="ref184">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Wire recording) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0480" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6074">
+                        <daodesc>
+                            <p>APSdigrec_0480</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Hermosillo (Mexico)</geogname>
+                        <subject source="ingest">Indians of Mexico--Chihuahua (State)</subject>
+                        <subject source="lcsh">Indians of Mexico--Sonora (State)</subject>
+                        <subject source="lcsh">Pima Bajo language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref185" level="file">
+                    <did>
+                        <unittitle>Pima Bajo text</unittitle>
+                        <unitid>05-05</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1958-06</unitdate>
+                        <physdesc id="ref186" label="General Physical Description note">
+                            <extent>00:04:58</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Brugge, David M.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Coyote, Nacho Lucero</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Jimenez, Lorenzo</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref187">
+                        <head>Scope and Contents note</head>
+                        <p>Spanish translation of a text in Pima Bajo. Pima Bajo language, dialect of Macoba (Sonora-Chihuahua border)</p>
+                    </scopecontent>
+                    <originalsloc id="ref189">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Wire recording) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0481" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6083">
+                        <daodesc>
+                            <p>APSdigrec_0481</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Hermosillo (Mexico)</geogname>
+                        <subject source="ingest">Indians of Mexico--Chihuahua (State)</subject>
+                        <subject source="lcsh">Indians of Mexico--Sonora (State)</subject>
+                        <subject source="lcsh">Pima Bajo language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref190" level="file">
+                    <did>
+                        <unittitle>Pima Bajo text</unittitle>
+                        <unitid>05-06</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1958-06</unitdate>
+                        <physdesc id="ref191" label="General Physical Description note">
+                            <extent>00:16:27</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Brugge, David M.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Coyote, Nacho Lucero</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref192">
+                        <head>Scope and Contents note</head>
+                        <p>Pima Bajo language, dialect of Macoba (Sonora-Chihuahua border).</p>
+                    </scopecontent>
+                    <originalsloc id="ref194">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Wire recording) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0482" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6078">
+                        <daodesc>
+                            <p>APSdigrec_0482</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Hermosillo (Mexico)</geogname>
+                        <subject source="ingest">Indians of Mexico--Chihuahua (State)</subject>
+                        <subject source="lcsh">Indians of Mexico--Sonora (State)</subject>
+                        <subject source="lcsh">Pima Bajo language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref195" level="file">
+                    <did>
+                        <unittitle>Discussion in Spanish about indigenous people</unittitle>
+                        <unitid>06-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1956-06</unitdate>
+                        <physdesc id="ref196" label="General Physical Description note">
+                            <extent>00:02:03</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Brugge, David M.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Estrella, Julio</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref198">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Wire recording) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0483" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6063">
+                        <daodesc>
+                            <p>APSdigrec_0483</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Indians of Mexico--Sonora (State)</subject>
+                        <geogname source="ingest">Onavas (Sonora, Mexico)</geogname>
+                        <subject source="lcsh">Pima Bajo language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref199" level="file">
+                    <did>
+                        <unittitle>Pima Bajo speech</unittitle>
+                        <unitid>06-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1956-06</unitdate>
+                        <physdesc id="ref200" label="General Physical Description note">
+                            <extent>00:00:54</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Brugge, David M.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref201">
+                        <head>Scope and Contents note</head>
+                        <p>No speaker identification available in documentation.</p>
+                    </scopecontent>
+                    <originalsloc id="ref203">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Wire recording) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0484" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6067">
+                        <daodesc>
+                            <p>APSdigrec_0484</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Indians of Mexico--Sonora (State)</subject>
+                        <geogname source="ingest">Onavas (Sonora, Mexico)</geogname>
+                        <subject source="lcsh">Pima Bajo language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref204" level="file">
+                    <did>
+                        <unittitle>Spanish song</unittitle>
+                        <unitid>06-03</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1956-06</unitdate>
+                        <physdesc id="ref205" label="General Physical Description note">
+                            <extent>00:07:11</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Brugge, David M.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref206">
+                        <head>Scope and Contents note</head>
+                        <p>No identification of singers given in existing documentation.</p>
+                    </scopecontent>
+                    <originalsloc id="ref208">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Wire recording) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0485" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6076">
+                        <daodesc>
+                            <p>APSdigrec_0485</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Indians of Mexico--Sonora (State)--Music</subject>
+                        <geogname source="ingest">Onavas (Sonora, Mexico)</geogname>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

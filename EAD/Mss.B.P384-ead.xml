@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.P384-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.P384</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T19:53-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>R. A. F. (Richard Alexander Fullerton) Penrose correspondence and papers, 1885-1931</unittitle>
+            <unitid>Mss.B.P384</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1524" type="Box" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>0.25 Linear feet</extent>
+                <extent>Ca. 100 items</extent>
+            </physdesc>
+            <unitdate normal="1885/1931" type="inclusive">1885-1931</unitdate>
+            <physdesc id="ref8" label="General Physical Description note">Ca. 100 items.</physdesc>
+            <abstract id="ref1" label="Abstract">This correspondence is with Charles Francis Adams, Jr., Edgar Fahs Smith, and Thomas Sovereign Gates, about undergraduate days at Harvard College, his interest in Harvard, the University of Pennsylvania, and the Wistar Institute. The papers include a list of publications, biographical data, papers on Robert G. LeConte and Daniel Moreau Barringer, a certificate of membership in the Governor Thomas Dudley Family Association, and 25 drawings of crystals and 35 original sketches made to accompany his Harvard thesis, "The Nature and Origin of Deposits of Phosphate of Lime."</abstract>
+            <physloc id="ref9" label="Paging">LH-MV-C-16; LH-SB-Black Case-29 (OS Certif.)</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Penrose, R. A. F.(Richard Alexander Fullerton),1863-1931.</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref7">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by members of the Penrose family, 1932, and by Edward L. Stokes, 1952.</p>
+        </acqinfo>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>Richard Alexander Fullerton Penrose, Jr. was a geologist and was elected to the American Philosophical Society in 1905.</p>
+        </bioghist>
+        <controlaccess>
+            <persname rules="aacr" source="naf">Adams, Charles F. ,  (Charles Francis), 1854-1914</persname>
+            <persname source="ingest">Barringer, Daniel Moreau, 1860-</persname>
+            <persname rules="aacr" source="local">Gates, Thomas Sovereign</persname>
+            <corpname source="ingest">Harvard University.</corpname>
+            <famname source="ingest">LeConte, Robert G.</famname>
+            <persname rules="aacr" source="naf">Smith, Edgar Fahs, 1854-1928</persname>
+            <corpname source="ingest">University of Pennsylvania.</corpname>
+            <corpname source="ingest">Wistar Institute of Anatomy and Biology.</corpname>
+            <genreform source="lcsh">Certificates.</genreform>
+            <genreform source="lcsh">Drawings.</genreform>
+            <subject source="lcsh">Geology.</subject>
+            <subject source="lcsh">Mineralogy.</subject>
+            <genreform source="lcsh">Sketches.</genreform>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.P31.28abn-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.P31.28abn</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T19:52-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc audience="internal" level="collection">
+        <did>
+            <unittitle>Rubens Peale letterbooks, 1802-1814, 1824</unittitle>
+            <unitid>Mss.B.P31.28abn</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1513" type="Volume" label="Manuscripts">1-2</container>
+            <physdesc>
+                <extent>2.0 Volume(s)</extent>
+                <extent>2 volumes, 77 p.</extent>
+            </physdesc>
+            <unitdate normal="1802/1814" type="bulk">Bulk, 1802-1814</unitdate>
+            <unitdate normal="1802/1824" type="inclusive">1802-1824</unitdate>
+            <abstract id="ref1" label="Abstract">This collection of letters and letterbooks reflects Coleman Sellers' personal interests and his role as consulting engineer for the electric power-plant at Niagara Falls.</abstract>
+            <physdesc id="ref10" label="General Physical Description note">2 volumes, 77 p.</physdesc>
+            <physloc id="ref12" label="Paging">LH-MV-E-4</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Sellers, Coleman,b. 1827.</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref9">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Purchased from Charles Coleman Sellers and accessioned, 1945 (85112).</p>
+        </acqinfo>
+        <altformavail id="ref5">
+            <head>Existence and Location of Copies note</head>
+            <p>The letterbook, 1863-1878, is also available on microfilm (Film 1401).</p>
+        </altformavail>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>Coleman Sellers was an engineer and inventor.</p>
+        </bioghist>
+        <odd id="ref11">
+            <head>Administrative Note</head>
+            <p>This record is superseded by, and included in, B P31. It was marked “internal only” in Dec., 2010 and is being kept in the case that it is needed for future administrative needs.</p>
+        </odd>
+        <controlaccess>
+            <corpname source="ingest">Cataract Construction Company.</corpname>
+            <persname rules="aacr" source="local">Furness, William Howard</persname>
+            <persname rules="aacr" source="local">Greenwood, Henry</persname>
+            <persname rules="aacr" source="naf">Holmes, Oliver Wendell, 1809-1894 </persname>
+            <corpname source="ingest">Niagara Falls Power Company.</corpname>
+            <corpname source="ingest">Photographic Society of Philadelphia.</corpname>
+            <persname source="ingest">Sellers, Horace Wells,1857-1933.</persname>
+            <persname rules="aacr" source="local">Silliman, Benjamin, Jr., 1816-1885</persname>
+            <famname source="ingest">Sketches.</famname>
+            <subject source="lcsh">Civil engineering.</subject>
+            <subject source="lcsh">Electric power-plants -- New York (State)</subject>
+            <subject source="lcsh">Engineering.</subject>
+            <geogname source="lcsh">Niagara Falls (N.Y.)</geogname>
+            <genreform source="lcsh">Passports.</genreform>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

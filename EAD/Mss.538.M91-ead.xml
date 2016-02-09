@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.538.M91-ead.xml">PUBLIC "-//American Philosophical Society//TEXT (US::PPAmP::538 M91::Edward Mulhern, Dissertation on the doctrine and principles of magnetism)//EN" "mulhern.xml"</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Edward Mulhern
+                    <lb/>Dissertation on the doctrine and principles of magnetism
+                    <date type="span">1829</date>
+                    <num>Mss.538.M91</num>
+                </titleproper>
+                <author>Finding aid prepared by rsc</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+                <date>2003</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:18-0400</date>
+            </creation>
+            <langusage>ENG</langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Dissertation on the doctrine and principles of magnetism</unittitle>
+            <unitid>Mss.538.M91</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid115083" type="Volume" label="Bound materials">1</container>
+            <physdesc>
+                <extent>0.1 Linear feet</extent>
+                <extent>1 vol. (41 p.)</extent>
+            </physdesc>
+            <unitdate normal="1829/1829">1829</unitdate>
+            <abstract id="ref2" label="Abstract">During the late eighteenth and early nineteenth centuries, the American Philosophical Society regularly received letters, and occasionally full blown manuscripts, from members of the public regarding their ideas on science or technology. In 1829, Edward Mulhern of Philadelphia submitted a manuscript on terrestrial magnetism that he felt had implications for navigation. Little is known about Mulhern other than that he died before 1833. 
+                <lb/>Mulhern's "Dissertation on the doctrine and principles of magnetism &amp;" is an attempt to work through some fundamental issues in terrestrial magnetism, including the relative orientation and positions of the geographic and magnetic poles, with an eye toward their impact on navigation. The APS Minutes for April 15, 1833, read: "An application from Alex Mulhern to have returned to him a paper on the 'doctrine of Magnetism' laid before the society by his deceased father, was received and the Librarian was directed to return the same.'"</abstract>
+            <physdesc id="ref1" label="General Physical Description note">1 vol. (41p.), 0.1 linear feet</physdesc>
+            <physloc id="ref10" label="Paging">LH-MV-E-9</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Mulhern, Edward, d.1833?</persname>
+            </origination>
+        </did>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>During the late eighteenth and early nineteenth centuries, the American Philosophical Society regularly received letters, and occasionally full blown manuscripts, from members of the public regarding their ideas on science or technology. In 1829, Edward Mulhern of Philadelphia submitted a manuscript on terrestrial magnetism that he felt had implications for navigation. Little is known about Mulhern other than that he died before 1833.</p>
+        </bioghist>
+        <scopecontent id="ref4">
+            <head>Scope and Contents note</head>
+            <p>Edward Mulhern's "Dissertation on the doctrine and principles of magnetism &amp;" is an attempt to work through some fundamental issues in terrestrial magnetism, including the relative orientation and positions of the geographic and magnetic poles, with an eye toward their impact on navigation. The APS Minutes for April 15, 1833, read: "An application from Alex Mulhern to have returned to him a paper on the 'doctrine of Magnetism' laid before the society by his deceased father, was received and the Librarian was directed to return the same.'"</p>
+        </scopecontent>
+        <prefercite id="ref6">
+            <head>Preferred Citation note</head>
+            <p>Cite as: Edward Mulhern, Dissertation on the doctrine and principles of magnetism &amp;, American Philosophical Society.</p>
+        </prefercite>
+        <acqinfo id="ref7">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Bequest of Edward Mulhern, 1962.</p>
+        </acqinfo>
+        <processinfo id="ref8">
+            <head>Processing Information note</head>
+            <p>Recatalogued by rsc, 2003.</p>
+        </processinfo>
+        <odd id="ref9">
+            <head>Early American History Note</head>
+            <p>This is Edward Mulhern's dissertation on magnetism submitted to the APS in 1829.</p>
+        </odd>
+        <controlaccess>
+            <genreform source="leah">Dissertations</genreform>
+            <genreform source="leah">Educational Material</genreform>
+            <subject source="lcsh">Geodesy</subject>
+            <subject source="lcsh">Geomagnetism</subject>
+            <genreform source="leah">Manuscript Essays</genreform>
+            <subject source="leah">Science and Technology</subject>
+            <genreform source="lcsh">Sketches.</genreform>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

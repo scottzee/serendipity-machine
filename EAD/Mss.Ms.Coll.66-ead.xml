@@ -1,0 +1,2809 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Ms.Coll.66-ead.xml">PUBLIC "-//American Philosophical Society Library//TEXT(US::PAAV::Ms Coll 66:: James Crawford Papers)//EN" "crawford.xml"</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>James M. Crawford Papers
+                    <date type="span">1906-1988</date>
+                    <num>Mss.Ms.Coll.66</num>
+                </titleproper>
+                <author>Finding aid prepared by Miriam B. Spectre</author>
+                <sponsor>Encoding made possible by a grant from the Gladys Krieble Delmas Foundation to the Philadelphia Consortium of Special Collections Libraries. Support for processing the Crawford Papers was provided by a grant from the Andrew W. Mellon Foundation.</sponsor>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+                <date>3/2002</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T20:56-0400</date>
+            </creation>
+            <langusage>ENG</langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>James M. Crawford Papers</unittitle>
+            <unitid>Mss.Ms.Coll.66</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>68.75 Linear feet</extent>
+            </physdesc>
+            <unitdate normal="1906/1988" type="inclusive">1906-1988</unitdate>
+            <abstract id="ref2" label="Abstract">James M. Crawford was a linguist who mainly studied Native American languages, including Cocopa, Yuchi, and Mobilian trade language. He came to the field of linguistics halfway through his lifetime after pursuing a career in forestry in the West and Southwest. After receiving his PhD in 1966 from the University of California at Berkeley, he returned to his birthplace, Georgia, where he taught in the Department of Linguistics at the University of Georgia at Athens. 
+                <lb/>The collection is organized into seven series: I. Correspondence, 1964-1986; II. Subject Files, 1949-1987; III. Works by Crawford, 1962-1986; IV. Research NOtes &amp; Notebooks, 1906-1988; V. Card Files, 1960s-1980s; VI. Course Material, 1961-1986; VII. Photographs, 1963-1978.</abstract>
+            <physdesc id="ref1" label="General Physical Description note">68.75 linear feet</physdesc>
+            <langmaterial id="ref425" label="Language of Materials note">Cocopa</langmaterial>
+            <physloc id="ref450" label="Paging">LH-SB-4-3; LH-B-24-1 (OS)</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Crawford, James Mack, 1925-1989</persname>
+            </origination>
+        </did>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>James M. Crawford was born on 18 September 1925 in Commerce, Georgia, where his father was a farmer. As a child, Crawford became interested in languages by listening to Mexican radio stations; while in school, he studied Latin, French, and German. He served in the United States Army in Europe from 1943 to 1946 during the second World War. After returning to Georgia, he studied forestry at the University of Georgia in Athens, receiving his B.S. in 1949.</p>
+            <p>From 1949 to 1950, Crawford worked as County Ranger in the Georgia Forestry Commission in Butler, Georgia; then from 1950 to 1952 as Forester in the United States Forest Service in California, Arizona, and New Mexico. From 1953 to 1954, Crawford worked as Lumber Grader for the Hammond Lumber Company in Samoa, California and then for a year as Surveyor for the Utah Construction Company in Hawthorne, Nevada.</p>
+            <p>In 1956, Crawford returned to the forestry profession as Research Forester at the Pacific Southwest Forest and Range Experiment Station in Berkeley, California, where he worked until 1961. While there, he encountered a linguist working in the Sierras and became fascinated with the study of languages as a career. Soon after this encounter, Crawford arrived as a graduate student at the Department of Linguistics of the University of California at Berkeley, beginning his linguistic studies with Russian and Old Slavic. One of his professors, Dr. Mary Haas (a student of Edward Sapir), encouraged Crawford to study Native American languages, and he became engrossed in the intricacies of Cocopa, Yuchi, and Choctaw. From 1962 to 1965, he was a teaching assistant at Berkeley.</p>
+            <p>Crawford's dissertation, 
+                <emph render="italic">The Cocopa Language, </emph>focused on the language of the Cocopa Indians, whom he had visited in 1962 in Arizona. Cocopa is one of ten Yuman languages spoken in Arizona, California, and Mexico. In a later work, 
+                <emph render="italic">Cocopa Texts </emph>(1983), Crawford published phonetic transcriptions and English translations of Cocopa stories that he had collected.</p>
+            <p>Crawford received his Ph.D. in 1966. That year, he became Assistant Professor in the Department of Anthropology at Idaho State University, where he taught for two years. He returned in 1968 to the University of Georgia, this time as Associate Professor in the Department of Anthropology; in 1981, he became Professor. Crawford taught courses in linguistics, phonology, morphology and syntax, field methods in linguistics, and Native American languages.</p>
+            <p>Crawford received a grant from the American Council of Learned Societies in 1976 to study Mobilian trade language (a now extinct language that was once spoken along the Mississippi River). He won the 1977 James Mooney Award, given jointly by the Southern Anthropological Society and the University of Tennessee Press, for his manuscript, 
+                <emph render="italic">The Mobilian Trade Language, </emph>which was judged to be the outstanding manuscript on New World cultures. As part of the award, the manuscript was published by the University of Tennessee Press. During his field work, Crawford had traveled to Louisiana to interview the remaining three speakers of Mobilian; they had all died by the time the book was published.</p>
+            <p>Crawford also received grants to study Yuchi, which is a language isolate; that is, it is not related to other known languages and contains few borrowed words. The Yuchi Indians lived throughout South Georgia before being moved to Oklahoma with the Creek Indians in the 1830s. The Yuchi dictionary that Crawford worked on was never published. Crawford also helped to show that Yuchi Indians had been present in the Georgia area one hundred years sooner than had been previously thought. When Kristian Hvidt, librarian of Danish Parliament in Copenhagen, Denmark, discovered in 1977 some drawings of Yuchi Indians that had been done by Baron Philipp Georg Friedrich von Reck in the 1730s, Crawford was able to translate the Yuchi text on the labels.</p>
+            <p>Crawford received other grants to study Alabama, Cherokee, and other southeastern Indian languages. In 1980, he received, from the University of Georgia, the Albert Christ-Janer Award for Creativity in Research.</p>
+            <p>Crawford organized several symposia on Southeastern Indian Languages, and in 1978, he co-organized with Robert L. Rankin the first Conference on Muskogean Languages and Linguistics at the University of Oklahoma in Norman. He served as referee for the 
+                <emph render="italic">International Journal of American Linguistics, </emph>Macmillan Publishing Company, the National Endowment for the Humanities, the John D. and Catherine T. MacArthur Foundation, and the Wenner-Gren Foundation. He edited the Department of Anthropology newsletter.</p>
+            <p>Crawford was a member of the American Anthropological Association, the Arizona Historical and Archaeological Society, the International Linguistics Association, the Linguistic Society of America, the Pacific Coast Archaeological Society, the Southeastern Conference on Linguistics, and the Southern Anthropological Society.</p>
+            <p>Crawford's publications include numerous articles and reviews, as well as 
+                <emph render="italic">Studies in Southeastern Indian Languages, </emph>a book that he edited. He also published a 
+                <emph render="italic">Cocopa Dictionary </emph>as a companion volume to 
+                <emph render="italic">Cocopa Texts. </emph>Crawford was in the process of writing a Cocopa grammar that would be the third volume in the series on the Cocopa language when he died on 5 May 1989.</p>
+        </bioghist>
+        <scopecontent id="ref4">
+            <head>Scope and Contents note</head>
+            <p>The James M. Crawford Papers (1906-1988) contain correspondence, subject files, manuscripts of published and unpublished works by Crawford, research notes by Crawford, course material, and photographs, which document Crawford's career as a linguist.</p>
+            <p>The papers (113 boxes; 68.75 linear feet) are divided into seven series:</p>
+            <p>
+                <table>
+                    <tgroup cols="3">
+                        <colspec colname="col-0"/>
+                        <colspec colname="col-1"/>
+                        <colspec colname="col-2"/>
+                        <tbody>
+                            <row>
+                                <entry valign="top" align="left"> Series I. Correspondence </entry>
+                                <entry valign="top" align="left"> 1964-1986 </entry>
+                                <entry valign="top" align="left"> (1 box;.25 linear feet) </entry>
+                            </row>
+                            <row>
+                                <entry valign="top" align="left"> Series II. Subject Files </entry>
+                                <entry valign="top" align="left"> 1949-1987 </entry>
+                                <entry valign="top" align="left"> (2 boxes;.5 linear feet) </entry>
+                            </row>
+                            <row>
+                                <entry valign="top" align="left"> Series III. Works by Crawford </entry>
+                                <entry valign="top" align="left"> 1962-1986 </entry>
+                                <entry valign="top" align="left"> (18 boxes; 8 linear feet) </entry>
+                            </row>
+                            <row>
+                                <entry valign="top" align="left"> Series IV. Research Notes &amp; Notebooks </entry>
+                                <entry valign="top" align="left"> 1906-1988 </entry>
+                                <entry valign="top" align="left"> (10 boxes; 4.75 linear feet) </entry>
+                            </row>
+                            <row>
+                                <entry valign="top" align="left"> Series V. Card Files </entry>
+                                <entry valign="top" align="left"> 1960s-1980s </entry>
+                                <entry valign="top" align="left"> (83 boxes; 54 linear feet) </entry>
+                            </row>
+                            <row>
+                                <entry valign="top" align="left"> Series VI. Course Material </entry>
+                                <entry valign="top" align="left"> 1961-1986 </entry>
+                                <entry valign="top" align="left"> (3 boxes;.75 linear feet) </entry>
+                            </row>
+                            <row>
+                                <entry valign="top" align="left"> Series VII. Photographs </entry>
+                                <entry valign="top" align="left"> 1963-1978 </entry>
+                                <entry valign="top" align="left"> (1 box;.25 linear feet) </entry>
+                            </row>
+                            <row>
+                                <entry valign="top" align="left"> Series III-IV. Oversized </entry>
+                                <entry valign="top" align="left"> </entry>
+                                <entry valign="top" align="left"> (1 box;.25 linear feet) </entry>
+                            </row>
+                        </tbody>
+                    </tgroup>
+                </table>Oversized materials follow the same series arrangement as noted above. Cross referencing to oversized material appears on the folders in the standard sized boxes. Reprints have been moved to the printed materials collection of the APS library. To retrieve reprints, consult the card catalog for printed materials. Sound recordings have also been removed from the collection and cataloged as Recording 184.</p>
+        </scopecontent>
+        <processinfo id="ref5">
+            <head>Processing Information note</head>
+            <p>Processed by Miriam B. Spectre, August, 1994 (revised)</p>
+        </processinfo>
+        <relatedmaterial id="ref449">
+            <head>Related Archival Materials</head>
+            <p>Audio recordings made and collected by Crawford are available in the 
+                <extref ns2:actuate="onLoad" ns2:show="new" ns2:href="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Rec.184-ead.xml">Recordings of Native American languages</extref> collection (Mss.Rec.184).</p>
+        </relatedmaterial>
+        <acqinfo id="ref6">
+            <head>Immediate Source of Acquisition note</head>
+            <p>The Crawford Papers were donated to the APS Library by Elisabeth Crawford in 1990 (Accession #1990-2551ms). Six Cocopa notebooks (three from 1978, three from 1979) were donated by Margaret Langdon in 1994 (Accession #1994-690ms).</p>
+        </acqinfo>
+        <odd id="ref7">
+            <head>General note</head>
+            <p>During processing, the collection was re-foldered and re-housed in acid-free folders and boxes. Metal fasteners were removed and replaced with plastic clips when necessary. A separate listing of torn or severely deteriorated manuscripts and manuscripts that need to have glue and tape removed has been compiled by series and submitted to the Conservation Department.</p>
+            <p>All newspaper clippings were photocopied onto acid-free paper; the original clippings were then discarded. Other brittle or torn items were also photocopied, and when considered valuable, were retained. Photographs have been interleaved with non-buffered, acid-free paper.</p>
+        </odd>
+        <controlaccess>
+            <persname rules="aacr" source="local">Hayes, Lillian</persname>
+            <persname rules="aacr" source="local">Hayes, Victor</persname>
+            <persname rules="aacr" source="local">Keyaite, Ilona Mae</persname>
+            <subject source="ingest">Alabama language</subject>
+            <subject source="ingest">American Council of Learned Societies</subject>
+            <subject source="lcsh">Catawba language</subject>
+            <subject source="lcsh">Choctaw language</subject>
+            <subject source="lcsh">Cocopa language</subject>
+            <genreform source="lcsh">Drafts (preliminary versions).</genreform>
+            <genreform source="lcsh">Field notes.</genreform>
+            <genreform source="gmgpc">Gelatin silver prints</genreform>
+            <subject source="lcsh">Kiliwa language</subject>
+            <subject source="ingest">Linguists</subject>
+            <genreform source="ingest">Manuscripts (for publication)</genreform>
+            <subject source="lcsh">Mobilian trade language</subject>
+            <subject source="ingest">National Science Foundation</subject>
+            <subject source="lcsh">Newari language</subject>
+            <genreform source="gmgpc">Nitrate negatives</genreform>
+            <genreform source="ingest">Notebooks</genreform>
+            <genreform source="ingest">Photoprints</genreform>
+            <genreform source="gmgpc">Portrait photographs</genreform>
+            <genreform source="ingest">Reviews (Criticism)</genreform>
+            <subject source="lcsh">Wolof language</subject>
+            <subject source="lcsh">Yavapai language</subject>
+            <subject source="lcsh">Yuchi language</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref8" level="series">
+                <did>
+                    <unittitle>Series I. Correspondence</unittitle>
+                    <unitdate>1964-1986</unitdate>
+                </did>
+                <scopecontent id="ref30">
+                    <head>Scope and Contents note</head>
+                    <p>contains mainly incoming letters, although there are a few carbons of letters written by Crawford. Most of the letters are photocopies. The series is arranged alphabetically by correspondent's name and then chronologically within each folder. Enclosed manuscripts have been removed from this series and placed in Series III. A photocopy of the title page was filed with the original letter. Most of the correspondence deals with Crawford's publications. There is one letter from a Native American informant, Ilona Mae Keyaite.</p>
+                </scopecontent>
+                <c02 id="ref9" level="otherlevel">
+                    <did>
+                        <unittitle>Ferguson, Charles A.</unittitle>
+                        <container id="cid107863" type="Box" label="Mixed materials">Series I: F - V</container>
+                        <unitdate>1973</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref10" level="otherlevel">
+                    <did>
+                        <unittitle>Good, Dwight</unittitle>
+                        <unitdate>1965</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref11" level="otherlevel">
+                    <did>
+                        <unittitle>Handbook of North American Indians</unittitle>
+                        <unitdate>1983</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref12" level="otherlevel">
+                    <did>
+                        <unittitle>International Journal of American Linguistics</unittitle>
+                        <unitdate>1975, 1977</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref13" level="otherlevel">
+                    <did>
+                        <unittitle>Journal of California Anthropology</unittitle>
+                        <unitdate>1978</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref14" level="otherlevel">
+                    <did>
+                        <unittitle>Keyaite, Ilona Mae</unittitle>
+                        <unitdate>1964</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref15" level="otherlevel">
+                    <did>
+                        <unittitle>Linguistic Society of America</unittitle>
+                        <unitdate>1970-1973</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref16" level="otherlevel">
+                    <did>
+                        <unittitle>McDavid, Ravin L., Jr.</unittitle>
+                        <unitdate>1970</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref17" level="otherlevel">
+                    <did>
+                        <unittitle>Munro, Pamela</unittitle>
+                        <unitdate>1986</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref18" level="otherlevel">
+                    <did>
+                        <unittitle>Pulte, William</unittitle>
+                        <unitdate>1972</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref19" level="otherlevel">
+                    <did>
+                        <unittitle>Richardson, Miles</unittitle>
+                        <unitdate>1976</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref20" level="otherlevel">
+                    <did>
+                        <unittitle>Sawyer, Jesse O.</unittitle>
+                        <unitdate>1969</unitdate>
+                    </did>
+                    <scopecontent id="ref21">
+                        <head>Scope and Contents note</head>
+                        <p>-See also Ser.III-A, "Meaning in Cocopa Auxiliary Verbs"</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref22" level="otherlevel">
+                    <did>
+                        <unittitle>Southern Anthropological Society</unittitle>
+                        <unitdate>1967, 1969</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref23" level="otherlevel">
+                    <did>
+                        <unittitle>Sturtevant, William C.</unittitle>
+                        <unitdate>1977-1978</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref24" level="otherlevel">
+                    <did>
+                        <unittitle>University of California Press</unittitle>
+                        <unitdate>1981</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref25" level="otherlevel">
+                    <did>
+                        <unittitle>University of Georgia</unittitle>
+                        <unitdate>1971-1980</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref26" level="otherlevel">
+                    <did>
+                        <unittitle>The University of North Carolina</unittitle>
+                        <unitdate>1978</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref27" level="otherlevel">
+                    <did>
+                        <unittitle>University of South Florida</unittitle>
+                        <unitdate>1974</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref28" level="otherlevel">
+                    <did>
+                        <unittitle>The University of Tennessee Press</unittitle>
+                        <unitdate>1978</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref29" level="otherlevel">
+                    <did>
+                        <unittitle>Voegelin, Charles F.</unittitle>
+                        <unitdate>1970</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref31" level="series">
+                <did>
+                    <unittitle>Series II. Subject Files</unittitle>
+                    <unitdate>1975-1982</unitdate>
+                </did>
+                <scopecontent id="ref52">
+                    <head>Scope and Contents note</head>
+                    <p>includes grant applications and information for the American Council of Learned Societies and the National Science Foundation, clippings about Crawford and his work, copies of Crawford's curriculum vitae, reviews of Crawford's books, and two plant specimens collected by Crawford. The series is arranged alphabetically by folder title, and then chronologically within each folder.</p>
+                </scopecontent>
+                <c02 id="ref32" level="otherlevel">
+                    <did>
+                        <unittitle>American Council of Learned Societies</unittitle>
+                        <container id="cid107862" type="Box" label="Mixed materials">Series II: A - So</container>
+                        <unitdate>1975-1982</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref33" level="otherlevel">
+                    <did>
+                        <unittitle>Bilingual Education</unittitle>
+                        <unitdate>1974-1975</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref34" level="otherlevel">
+                    <did>
+                        <unittitle>Clippings</unittitle>
+                        <unitdate>1964-1984</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref35" level="otherlevel">
+                    <did>
+                        <unittitle>The Cocopa Language</unittitle>
+                        <unitdate>[1967]</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref36" level="otherlevel">
+                    <did>
+                        <unittitle>Cocopa Texts</unittitle>
+                        <unitdate>1982-1983</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref37" level="otherlevel">
+                    <did>
+                        <unittitle>Cocopah Indian Reservation Map</unittitle>
+                        <unitdate>1949</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref38" level="otherlevel">
+                    <did>
+                        <unittitle>Conference on Muskogean Languages and Linguistics</unittitle>
+                        <unitdate>19 Oct. 1978</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref39" level="otherlevel">
+                    <did>
+                        <unittitle>Curriculum Vitae</unittitle>
+                        <unitdate>1966-1987</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref40" level="otherlevel">
+                    <did>
+                        <unittitle>Informants' Receipts</unittitle>
+                        <unitdate>1978</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref41" level="otherlevel">
+                    <did>
+                        <unittitle>
+                            <emph render="italic">The Mobilian Trade Language--</emph>Reviews</unittitle>
+                        <unitdate>1979-1981, n.d.</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref42" level="otherlevel">
+                    <did>
+                        <unittitle>National Science Foundation</unittitle>
+                    </did>
+                    <c03 id="ref43" level="otherlevel">
+                        <did>
+                            <unittitle>Folder #1</unittitle>
+                            <unitdate>1969-1970</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref44" level="otherlevel">
+                        <did>
+                            <unittitle>Folder #2</unittitle>
+                            <unitdate>1971-1973</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref45" level="otherlevel">
+                    <did>
+                        <unittitle>"Plant Collected at Maggie Poncho's Alabama-Cereshalta[?] Reservation, Texas"</unittitle>
+                        <unitdate>Aug. 1970</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref46" level="otherlevel">
+                    <did>
+                        <unittitle>"Plant Collected Near Clarkdale, Arizona"</unittitle>
+                        <unitdate>13 Jul. 1967</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref47" level="otherlevel">
+                    <did>
+                        <unittitle>Sapulpa, Oklahoma Public Schools</unittitle>
+                        <unitdate>4 Jun. 1977</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref48" level="otherlevel">
+                    <did>
+                        <unittitle>Southern Anthropological Society</unittitle>
+                        <unitdate>1971</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref49" level="otherlevel">
+                    <did>
+                        <unittitle>
+                            <emph render="italic">Studies in Southeastern Indian Languages--</emph>Readers' Reviews</unittitle>
+                        <container id="cid107861" type="Box" label="Mixed materials">Series II: St - U</container>
+                        <unitdate>[1971]</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref50" level="otherlevel">
+                    <did>
+                        <unittitle>
+                            <emph render="italic">Studies in Southeastern Indian Languages--</emph>Reviews</unittitle>
+                        <unitdate>1975-1979</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref51" level="otherlevel">
+                    <did>
+                        <unittitle>University of Georgia Grant Proposal</unittitle>
+                        <unitdate>1982-1983</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref53" level="series">
+                <did>
+                    <unittitle>Series III. Works by Crawford</unittitle>
+                    <unitdate>1962-1986</unitdate>
+                </did>
+                <scopecontent id="ref162">
+                    <head>Scope and Contents note</head>
+                    <p>contains handwritten and typed notes, outlines, drafts, and final versions of articles, books, and reviews. This series is arranged alphabetically by title. For some works, the notes, drafts, and final copies are filed together. This series is divided into four subseries that reflect the subject content of the works: A. Cocopa, B. Yuchi, C. Yuman, and D. Other. The first subseries, Cocopa, includes Crawford's dissertation, 
+                        <emph render="italic">The Cocopa Language </emph>and notes, drafts, and final versions of his book, 
+                        <emph render="italic">Cocopa Texts. </emph>The second subseries, Yuchi, includes "Reconnaissance among Several Indian Groups in Mississippi, Oklahoma, Texas, and Louisiana" and "Yuchi Text with Translation." The third subseries, Yuman, includes "Account of Reconnaissance among Several Languages of the Yuman Family in Arizona." The fourth subseries, Other, includes some papers that Crawford wrote for graduate courses at the University of California at Berkeley; notes, drafts, and final versions of his books, 
+                        <emph render="italic">The Mobilian Trade Language </emph>and 
+                        <emph render="italic">Studies in Southeastern Indian Languages; </emph>and reviews of other people's books.</p>
+                </scopecontent>
+                <c02 id="ref54" level="subseries">
+                    <did>
+                        <unittitle>Series III-A. Works by Crawford--Cocopa</unittitle>
+                        <unitdate>1962-1986</unitdate>
+                    </did>
+                    <c03 id="ref55" level="otherlevel">
+                        <did>
+                            <unittitle>"Baby Talk in an American Indian Language"</unittitle>
+                            <container id="cid107860" type="Box" label="Mixed materials">Series IIIA: B - Cocopa Dict. #2</container>
+                            <unitdate>1974</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref56" level="otherlevel">
+                        <did>
+                            <unittitle>"Classificatory Verbs in Cocopa"</unittitle>
+                            <unitdate>1986</unitdate>
+                        </did>
+                        <scopecontent id="ref57">
+                            <head>Scope and Contents note</head>
+                            <p>-See also Ser.I, Munro, Pamela</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref58" level="otherlevel">
+                        <did>
+                            <unittitle>"Cocopa I"</unittitle>
+                            <unitdate>1975</unitdate>
+                            <physdesc id="ref59" label="General Physical Description note">2 Folders</physdesc>
+                        </did>
+                        <scopecontent id="ref60">
+                            <head>Scope and Contents note</head>
+                            <p>-See also Ser.III-A, "A Cocopa Tale: The Alligator Who Couldn't Turn Over"</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref61" level="otherlevel">
+                        <did>
+                            <unittitle>"The Cocopa Auxiliary Verb ya "Be Located, Happen" "</unittitle>
+                            <unitdate>[1969]</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref62" level="otherlevel">
+                        <did>
+                            <unittitle>"Cocopa Baby Talk"</unittitle>
+                            <unitdate>[1969]</unitdate>
+                        </did>
+                        <scopecontent id="ref63">
+                            <head>Scope and Contents note</head>
+                            <p>-See also Ser.I, Southern Anthropological Society</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref64" level="otherlevel">
+                        <did>
+                            <unittitle>Cocopa Dictionary</unittitle>
+                            <unitdate>[198-]</unitdate>
+                        </did>
+                        <c04 id="ref65" level="otherlevel">
+                            <did>
+                                <unittitle>Folder #1-2</unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="ref66" level="otherlevel">
+                            <did>
+                                <unittitle>Folders #3-9</unittitle>
+                                <container id="cid107859" type="Box" label="Mixed materials">Series IIIA: Cocopa Dict. #3-9</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref67" level="otherlevel">
+                            <did>
+                                <unittitle>Folders #10-16</unittitle>
+                                <container id="cid107858" type="Box" label="Mixed materials">Series IIIA: Cocopa Dict. #10-16</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref68" level="otherlevel">
+                            <did>
+                                <unittitle>Folders #17-23</unittitle>
+                                <container id="cid107857" type="Box" label="Mixed materials">Series IIIA: Cocopa Dict. #17-23</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref69" level="otherlevel">
+                            <did>
+                                <unittitle>Folders #24-27</unittitle>
+                                <container id="cid107856" type="Box" label="Mixed materials">Series IIIA: Cocopa Dict. #24 - Cocopa Lang.--Ms. #2</container>
+                            </did>
+                        </c04>
+                    </c03>
+                    <c03 id="ref70" level="otherlevel">
+                        <did>
+                            <unittitle>
+                                <emph render="italic">Cocopa Dictionary--</emph>Disks</unittitle>
+                        </did>
+                        <scopecontent id="ref71">
+                            <head>Scope and Contents note</head>
+                            <p>-See Oversized</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref72" level="otherlevel">
+                        <did>
+                            <unittitle>"Cocopa Grammar"</unittitle>
+                            <unitdate>[1973]</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref73" level="otherlevel">
+                        <did>
+                            <unittitle>
+                                <emph render="italic">The Cocopa Language--</emph>Ms.</unittitle>
+                            <unitdate>1966</unitdate>
+                        </did>
+                        <c04 id="ref74" level="otherlevel">
+                            <did>
+                                <unittitle>Folders #1-2</unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="ref75" level="otherlevel">
+                            <did>
+                                <unittitle>Folders #3-5</unittitle>
+                                <container id="cid107855" type="Box" label="Mixed materials">Series IIIA: Cocopa Lang.--Ms. #3 - Cocopa Lang.--Notes #4</container>
+                            </did>
+                        </c04>
+                    </c03>
+                    <c03 id="ref76" level="otherlevel">
+                        <did>
+                            <unittitle>
+                                <emph render="italic">The Cocopa Language--</emph>Notes</unittitle>
+                            <unitdate>1966</unitdate>
+                        </did>
+                        <c04 id="ref77" level="otherlevel">
+                            <did>
+                                <unittitle>Folders #1-4</unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="ref78" level="otherlevel">
+                            <did>
+                                <unittitle>Folder #5</unittitle>
+                                <container id="cid107854" type="Box" label="Mixed materials">Series IIIA: Cocopa Lang.--Notes #5 - Cocopa Texts #5</container>
+                            </did>
+                        </c04>
+                    </c03>
+                    <c03 id="ref79" level="otherlevel">
+                        <did>
+                            <unittitle>"The Cocopa Language: Thematic Prefixes of the Verb"</unittitle>
+                            <unitdate>May 1965</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref80" level="otherlevel">
+                        <did>
+                            <unittitle>"A Cocopa Tale: The Alligator Who Couldn't Turn Over"</unittitle>
+                            <unitdate>[1976]</unitdate>
+                        </did>
+                        <scopecontent id="ref81">
+                            <head>Scope and Contents note</head>
+                            <p>-See also Ser.III-A, "Cocopa I"</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref82" level="otherlevel">
+                        <did>
+                            <unittitle>Cocopa Texts</unittitle>
+                            <unitdate>[1983]</unitdate>
+                        </did>
+                        <c04 id="ref83" level="otherlevel">
+                            <did>
+                                <unittitle>Folders #1-5</unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="ref84" level="otherlevel">
+                            <did>
+                                <unittitle>Folders #6-11</unittitle>
+                                <container id="cid107853" type="Box" label="Mixed materials">Series IIIA: Cocopa Texts #6-11</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref85" level="otherlevel">
+                            <did>
+                                <unittitle>Folders #12-15</unittitle>
+                                <container id="cid107852" type="Box" label="Mixed materials">Series IIIA: Cocopa Texts #12 - Ma</container>
+                            </did>
+                        </c04>
+                    </c03>
+                    <c03 id="ref86" level="otherlevel">
+                        <did>
+                            <unittitle>"Coyote and His Daughter"</unittitle>
+                            <unitdate>[1978]</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref87" level="otherlevel">
+                        <did>
+                            <unittitle>"Epenthetic Vowels in Cocopa Phonology"</unittitle>
+                            <unitdate>[1967]</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref88" level="otherlevel">
+                        <did>
+                            <unittitle>"Linguistic Color Categorization in Mesamerica: Instructions for Descriptive Field Work"</unittitle>
+                            <unitdate>[1978]</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref89" level="otherlevel">
+                        <did>
+                            <unittitle>"A Look at Some Cocopa Auxiliaries"</unittitle>
+                            <unitdate>[1972]</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref90" level="otherlevel">
+                        <did>
+                            <unittitle>"Maricopa and Cocopa: A Binary Comparison"</unittitle>
+                            <unitdate>Dec. 1962</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref91" level="otherlevel">
+                        <did>
+                            <unittitle>"Meaning in Cocopa Auxiliary Verbs"</unittitle>
+                            <container id="cid107851" type="Box" label="Mixed materials">Series IIIA: Me - U</container>
+                            <unitdate>[1968]</unitdate>
+                            <physdesc id="ref92" label="General Physical Description note">2 Folders</physdesc>
+                        </did>
+                        <scopecontent id="ref93">
+                            <head>Scope and Contents note</head>
+                            <p>-See also Ser.I, Sawyer, Jesse O.</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref94" level="otherlevel">
+                        <did>
+                            <unittitle>"More on Cocopa Baby Talk"</unittitle>
+                            <unitdate>[1977]</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref95" level="otherlevel">
+                        <did>
+                            <unittitle>"The Morphology of the Cocopa Noun"</unittitle>
+                            <unitdate>May 1964</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref96" level="otherlevel">
+                        <did>
+                            <unittitle>"Nominalization in Cocopa"</unittitle>
+                            <unitdate>1978</unitdate>
+                        </did>
+                        <scopecontent id="ref97">
+                            <head>Scope and Contents note</head>
+                            <p>-See also Ser.IV-A, "Relativization and Nominalization in Cocopa"</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref98" level="otherlevel">
+                        <did>
+                            <unittitle>"A Preliminary Report on the Phonemes of the Cocopa Language"</unittitle>
+                            <unitdate>Apr. 1963</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref99" level="otherlevel">
+                        <did>
+                            <unittitle>"Proto-Yuman: Reconstructed from Cocopa, Diegueño, Maricopa, and Yavapai"</unittitle>
+                        </did>
+                        <scopecontent id="ref100">
+                            <head>Scope and Contents note</head>
+                            <p>-See Ser.III-C, same title</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref101" level="otherlevel">
+                        <did>
+                            <unittitle>"Spanish Loan Words in Cocopa"</unittitle>
+                            <unitdate>[1979]</unitdate>
+                        </did>
+                        <scopecontent id="ref102">
+                            <head>Scope and Contents note</head>
+                            <p>-See also Ser.I, 
+                                <emph render="italic">Journal of California Anthropology</emph></p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref103" level="otherlevel">
+                        <did>
+                            <unittitle>"Uses and Functions of Cocopa Auxiliary Verbs"</unittitle>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref104" level="subseries">
+                    <did>
+                        <unittitle>Series III-B. Works by Crawford--Yuchi</unittitle>
+                        <unitdate>1969-1979</unitdate>
+                    </did>
+                    <c03 id="ref105" level="otherlevel">
+                        <did>
+                            <unittitle>"Biloxi, Ofo, and Yuchi"</unittitle>
+                            <container id="cid107850" type="Box" label="Mixed materials">Series IIIB: B - Yuchi Phonology #1</container>
+                            <unitdate>[1970]</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref106" level="otherlevel">
+                        <did>
+                            <unittitle>"Reconnaissance Among Several Indian Groups in Mississippi, Oklahoma, Texas, and Louisiana"</unittitle>
+                            <unitdate>Aug. 1969</unitdate>
+                            <physdesc id="ref107" label="General Physical Description note">2 Folders</physdesc>
+                        </did>
+                    </c03>
+                    <c03 id="ref108" level="otherlevel">
+                        <did>
+                            <unittitle>"Timucua and YuchI. Two Language Isolates of the Southeast"</unittitle>
+                            <unitdate>[1977]</unitdate>
+                            <physdesc id="ref109" label="General Physical Description note">2 Folders</physdesc>
+                        </did>
+                    </c03>
+                    <c03 id="ref110" level="otherlevel">
+                        <did>
+                            <unittitle>"Yuchi"</unittitle>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref111" level="otherlevel">
+                        <did>
+                            <unittitle>"Yuchi" in 
+                                <emph render="italic">Handbook of North American Indians</emph></unittitle>
+                            <unitdate>[1979]</unitdate>
+                            <physdesc id="ref112" label="General Physical Description note">2 Folders</physdesc>
+                        </did>
+                    </c03>
+                    <c03 id="ref113" level="otherlevel">
+                        <did>
+                            <unittitle>"Yuchi Phonology"</unittitle>
+                            <unitdate>[197-]</unitdate>
+                        </did>
+                        <c04 id="ref114" level="otherlevel">
+                            <did>
+                                <unittitle>Folder #1</unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="ref115" level="otherlevel">
+                            <did>
+                                <unittitle>Folders #2-3</unittitle>
+                                <container id="cid107849" type="Box" label="Mixed materials">Series IIIB: Yuchi Phonology #2 - Yuchi T.</container>
+                            </did>
+                        </c04>
+                    </c03>
+                    <c03 id="ref116" level="otherlevel">
+                        <did>
+                            <unittitle>"Yuchi Text with Translation"</unittitle>
+                            <unitdate>[1972]</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref117" level="subseries">
+                    <did>
+                        <unittitle>Series III-C. Works by Crawford--Yuman</unittitle>
+                        <unitdate>1962-1980</unitdate>
+                    </did>
+                    <c03 id="ref118" level="otherlevel">
+                        <did>
+                            <unittitle>"Account of Reconnaissance Among Several Languages of the Yuman Family in Arizona"</unittitle>
+                            <container id="cid107848" type="Box" label="Mixed materials">Series IIIC: A - S</container>
+                            <unitdate>1962</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref119" level="otherlevel">
+                        <did>
+                            <unittitle>"Bibliography of the Tribes and Languages of the Yuman Family"</unittitle>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref120" level="otherlevel">
+                        <did>
+                            <unittitle>
+                                <emph render="italic">Cochimi and Proto-Yuman: Lexical and Syntactic Evidence for a New Language Family in Lower California </emph>by Mauricio J. Mixco--Review</unittitle>
+                            <unitdate>[1980]</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref121" level="otherlevel">
+                        <did>
+                            <unittitle>"A Comparison of Chimariko and Yuman"</unittitle>
+                            <unitdate>[1976]</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref122" level="otherlevel">
+                        <did>
+                            <unittitle>"Proto-Yuman: Reconstructed from Cocopa, Diegueño, Maricopa, and Yavapai"</unittitle>
+                            <unitdate>Jan. 1964</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref123" level="otherlevel">
+                        <did>
+                            <unittitle>"Some Cognate Sets from Chimariko and Several Yuman Languages"</unittitle>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref124" level="subseries">
+                    <did>
+                        <unittitle>Series III-D. Works by Crawford--Other</unittitle>
+                        <unitdate>1962-1986</unitdate>
+                    </did>
+                    <c03 id="ref125" level="otherlevel">
+                        <did>
+                            <unittitle>"The Brahui Verb: A Restatement of the Morphology"</unittitle>
+                            <container id="cid107847" type="Box" label="Mixed materials">Series IIID: Bra - Bri</container>
+                            <unitdate>1964</unitdate>
+                            <physdesc id="ref126" label="General Physical Description note">2 Folders</physdesc>
+                        </did>
+                    </c03>
+                    <c03 id="ref127" level="otherlevel">
+                        <did>
+                            <unittitle>"A Brief Account of the Indian Tribes of Northeast Georgia"</unittitle>
+                            <unitdate>23 Feb. 1962</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref128" level="otherlevel">
+                        <did>
+                            <unittitle>
+                                <emph render="italic">The Caddoan, Iroquoian, and Siouan Languages </emph>by Wallace L. Chafe; 
+                                <emph render="italic">A Grammar of Biloxi </emph>by Paula Ferris Einaudi; 
+                                <emph render="italic">A Grammar of Pawnee </emph>by Douglas R. Parks; and 
+                                <emph render="italic">Wichita Grammar </emph>by David S. Rood--Review</unittitle>
+                            <container id="cid107846" type="Box" label="Mixed materials">Series IIID: C - Mobilian Tr. Lang.--Ms. #3</container>
+                            <unitdate>1977</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref129" level="otherlevel">
+                        <did>
+                            <unittitle>
+                                <emph render="italic">Dictionary of Indian Tribes of the Americas--</emph>Articles</unittitle>
+                            <unitdate>[1979]</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref130" level="otherlevel">
+                        <did>
+                            <unittitle>"English 
+                                <emph render="italic">Sun </emph>and Latin 
+                                <emph render="italic">Sol"</emph></unittitle>
+                            <unitdate>Dec. 1962</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref131" level="otherlevel">
+                        <did>
+                            <unittitle>
+                                <emph render="italic">A Grammar of Diegueño Nominals </emph>by Larry Paul Gorbet--Review</unittitle>
+                            <unitdate>[1978]</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref132" level="otherlevel">
+                        <did>
+                            <unittitle>
+                                <emph render="italic">A Grammar of Diegueño, the Mesa Grande Dialect </emph>by Margaret Langdon-Review</unittitle>
+                            <unitdate>[1972]</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref133" level="otherlevel">
+                        <did>
+                            <unittitle>"Hokan and Siouan Words for Mouth"</unittitle>
+                            <unitdate>[1070-1971]</unitdate>
+                            <physdesc id="ref134" label="General Physical Description note">2 Folders</physdesc>
+                        </did>
+                    </c03>
+                    <c03 id="ref135" level="otherlevel">
+                        <did>
+                            <unittitle>Houma</unittitle>
+                        </did>
+                        <scopecontent id="ref136">
+                            <head>Scope and Contents note</head>
+                            <p>-See Ser.III-D, 
+                                <emph render="italic">Dictionary of Indian Tribes of the Americas--</emph>Articles</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref137" level="otherlevel">
+                        <did>
+                            <unittitle>
+                                <emph render="italic">Kiliwa Dictionary </emph>by Mauricio J. Mixco--Review</unittitle>
+                            <unitdate>[1986]</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref138" level="otherlevel">
+                        <did>
+                            <unittitle>Mobile</unittitle>
+                        </did>
+                        <scopecontent id="ref139">
+                            <head>Scope and Contents note</head>
+                            <p>-See Ser.III-D, 
+                                <emph render="italic">Dictionary of Indian Tribes of the Americas--</emph>Articles</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref140" level="otherlevel">
+                        <did>
+                            <unittitle>
+                                <emph render="italic">The Mobilian Trade Language--</emph>Ms.</unittitle>
+                            <unitdate>[1978]</unitdate>
+                        </did>
+                        <c04 id="ref141" level="otherlevel">
+                            <did>
+                                <unittitle>Folders #1-3</unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="ref142" level="otherlevel">
+                            <did>
+                                <unittitle>Folders #4-9</unittitle>
+                                <container id="cid107845" type="Box" label="Mixed materials">Series IIID: Mobilian Tr. Lang.--Ms. #4-9</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref143" level="otherlevel">
+                            <did>
+                                <unittitle>Folders #10-11</unittitle>
+                                <container id="cid107844" type="Box" label="Mixed materials">Series IIID: Mobilian Tr. Lang.--Ms. #10 - Mobilian Tr. Lang.--Notes #5</container>
+                            </did>
+                        </c04>
+                    </c03>
+                    <c03 id="ref144" level="otherlevel">
+                        <did>
+                            <unittitle>
+                                <emph render="italic">The Mobilian Trade Language--</emph>Notes</unittitle>
+                            <unitdate>[1978]</unitdate>
+                        </did>
+                        <c04 id="ref145" level="otherlevel">
+                            <did>
+                                <unittitle>Folders #1-5</unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="ref146" level="otherlevel">
+                            <did>
+                                <unittitle>Folder #6</unittitle>
+                                <container id="cid107843" type="Box" label="Mixed materials">Series IIID: Mobilian Tr. Lang.--Notes #6 - Studies in S.I. Lang. #2</container>
+                            </did>
+                        </c04>
+                    </c03>
+                    <c03 id="ref147" level="otherlevel">
+                        <did>
+                            <unittitle>Natchez</unittitle>
+                        </did>
+                        <scopecontent id="ref148">
+                            <head>Scope and Contents note</head>
+                            <p>-See Ser.III-D, 
+                                <emph render="italic">Dictionary of Indian Tribes of the Americas--</emph>Articles</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref149" level="otherlevel">
+                        <did>
+                            <unittitle>
+                                <emph render="italic">The Natchez: Annotated Translations from Antoine Simon le Page du Pratz's Histoire de la Louisiane and a Short English-Natchez Dictionary </emph>by Charles D. Van Tuyl--Review</unittitle>
+                            <unitdate>[1981]</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref150" level="otherlevel">
+                        <did>
+                            <unittitle>"Native Americans and Their Languages" by Roger Owen--Review</unittitle>
+                            <unitdate>[1978]</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref151" level="otherlevel">
+                        <did>
+                            <unittitle>"The Nature of Language: The View of Linguists"</unittitle>
+                            <unitdate>May 1964</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref152" level="otherlevel">
+                        <did>
+                            <unittitle>
+                                <emph render="italic">Nez Perce Texts </emph>by Haruo Aoki--Review</unittitle>
+                            <unitdate>[1980]</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref153" level="otherlevel">
+                        <did>
+                            <unittitle>"On the Relationship Between Timucua and Muskogean"</unittitle>
+                            <unitdate>[1986]</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref154" level="otherlevel">
+                        <did>
+                            <unittitle>
+                                <emph render="italic">A Papago Grammar </emph>by Ofelia Zepeda--Review</unittitle>
+                            <unitdate>[1984]</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref155" level="otherlevel">
+                        <did>
+                            <unittitle>"A Phonological Comparison of the Speech of Two Communities in California: East Bay and El Centro"</unittitle>
+                            <unitdate>Jan. 1964</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref156" level="otherlevel">
+                        <did>
+                            <unittitle>"The Phonological Sequence ya in Words Pertaining to the Mouth in Southeastern and Other Indian Languages"</unittitle>
+                            <unitdate>[1975]</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref157" level="otherlevel">
+                        <did>
+                            <unittitle>Quapaw</unittitle>
+                        </did>
+                        <scopecontent id="ref158">
+                            <head>Scope and Contents note</head>
+                            <p>-See Ser.III-D, 
+                                <emph render="italic">Dictionary of Indian Tribes of the Americas--</emph>Articles</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref159" level="otherlevel">
+                        <did>
+                            <unittitle>Studies in Southeastern Indian Languages</unittitle>
+                            <unitdate>[197-]</unitdate>
+                        </did>
+                        <c04 id="ref160" level="otherlevel">
+                            <did>
+                                <unittitle>Folders #1-2</unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="ref161" level="otherlevel">
+                            <did>
+                                <unittitle>Folder #3</unittitle>
+                                <container id="cid107842" type="Box" label="Mixed materials">Series IIID: Studies in S.I. Lang. #3</container>
+                            </did>
+                        </c04>
+                    </c03>
+                </c02>
+            </c01>
+            <c01 id="ref163" level="series">
+                <did>
+                    <unittitle>Series IV. Research Notes</unittitle>
+                    <unitdate>1962-1988</unitdate>
+                </did>
+                <scopecontent id="ref296">
+                    <head>Scope and Contents note</head>
+                    <p>contains loose notes and notebooks on various linguistic topics. The series is arranged alphabetically by folder title, and then chronologically within each folder. The series is divided into four subseries that reflect the subject content of the notes: A. Cocopa, B. Yuchi, C. Yuman, and D. Other. The first subseries, Cocopa, includes notes on morphology and phoneme checking. The second subseries, Yuchi, includes notes on syntax and cognates to Siouan. The third subseries, Yuman, includes notes on phonemes and a notebook on Yuman reconnaissance. The fourth subseries, Other, includes notes and notebooks on Bakweri, Burmese, Cherokee, Choctaw, Korean, Mandingo, Shona, Shoshoni, and Wolof. There are also a number of unidentified notebooks. The earliest item is a manuscript Igorrote-English dictionary from 1906.</p>
+                </scopecontent>
+                <c02 id="ref164" level="subseries">
+                    <did>
+                        <unittitle>Series IV-A. Research Notes and Notebooks--Cocopa</unittitle>
+                        <unitdate>1962-1979</unitdate>
+                    </did>
+                    <c03 id="ref165" level="otherlevel">
+                        <did>
+                            <unittitle>"Birds of the Southwestern Desert"--Cocopa</unittitle>
+                            <container id="cid107841" type="Box" label="Mixed materials">Series IVA: B - Notebook #5</container>
+                            <unitdate>[1962]</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref166" level="otherlevel">
+                        <did>
+                            <unittitle>"Cocopa "Animal Talk" "</unittitle>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref167" level="otherlevel">
+                        <did>
+                            <unittitle>"Comparison of Cocopa, Maricopa, Diegueño, and Yavapai"</unittitle>
+                            <unitdate>1964?</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref168" level="otherlevel">
+                        <did>
+                            <unittitle>"Elements in Cocopa Vocabulary Probably Due to Culture Contacts with Western World"</unittitle>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref169" level="otherlevel">
+                        <did>
+                            <unittitle>Final Consonants Alphabetically Arranged</unittitle>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref170" level="otherlevel">
+                        <did>
+                            <unittitle>Morphology (Noun)</unittitle>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref171" level="otherlevel">
+                        <did>
+                            <unittitle>Morphology (Verb)</unittitle>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref172" level="otherlevel">
+                        <did>
+                            <unittitle>Notebook</unittitle>
+                        </did>
+                        <scopecontent id="ref173">
+                            <head>Scope and Contents note</head>
+                            <p>-See Ser.IV-B, Notebook #9</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref174" level="otherlevel">
+                        <did>
+                            <unittitle>Notebook #1</unittitle>
+                            <unitdate>1963</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref175" level="otherlevel">
+                        <did>
+                            <unittitle>Notebook #2</unittitle>
+                            <unitdate>1963</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref176" level="otherlevel">
+                        <did>
+                            <unittitle>Notebook #3</unittitle>
+                            <unitdate>1963</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref177" level="otherlevel">
+                        <did>
+                            <unittitle>Notebook #4</unittitle>
+                            <unitdate>1963-1964</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref178" level="otherlevel">
+                        <did>
+                            <unittitle>Notebook #5</unittitle>
+                            <unitdate>1964-1965</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref179" level="otherlevel">
+                        <did>
+                            <unittitle>Notebook #6</unittitle>
+                            <container id="cid107840" type="Box" label="Mixed materials">Series IVA: Notebook #6-14</container>
+                            <unitdate>1965</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref180" level="otherlevel">
+                        <did>
+                            <unittitle>Notebook #7</unittitle>
+                            <unitdate>1965</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref181" level="otherlevel">
+                        <did>
+                            <unittitle>Notebook #8</unittitle>
+                            <unitdate>1967</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref182" level="otherlevel">
+                        <did>
+                            <unittitle>Notebook #9, [Part 1]</unittitle>
+                            <unitdate>1967</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref183" level="otherlevel">
+                        <did>
+                            <unittitle>Notebook #9, [Part 2]</unittitle>
+                            <unitdate>1973</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref184" level="otherlevel">
+                        <did>
+                            <unittitle>Notebook #10</unittitle>
+                            <unitdate>1978</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref185" level="otherlevel">
+                        <did>
+                            <unittitle>Notebook #11</unittitle>
+                            <unitdate>1978</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref186" level="otherlevel">
+                        <did>
+                            <unittitle>Notebook #12</unittitle>
+                            <unitdate>1978</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref187" level="otherlevel">
+                        <did>
+                            <unittitle>Notebook #13</unittitle>
+                            <unitdate>1979</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref188" level="otherlevel">
+                        <did>
+                            <unittitle>Notebook #14</unittitle>
+                            <unitdate>1979</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref189" level="otherlevel">
+                        <did>
+                            <unittitle>Notebook #15</unittitle>
+                            <container id="cid107839" type="Box" label="Mixed materials">Series IVA: Notebook #15 - R</container>
+                            <unitdate>1979</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref190" level="otherlevel">
+                        <did>
+                            <unittitle>Notes #1</unittitle>
+                            <unitdate>1962</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref191" level="otherlevel">
+                        <did>
+                            <unittitle>Notes #2</unittitle>
+                            <unitdate>1967</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref192" level="otherlevel">
+                        <did>
+                            <unittitle>Notes #3</unittitle>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref193" level="otherlevel">
+                        <did>
+                            <unittitle>Notes #4</unittitle>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref194" level="otherlevel">
+                        <did>
+                            <unittitle>Phoneme Checking</unittitle>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref195" level="otherlevel">
+                        <did>
+                            <unittitle>"Relativization and Nominalization in Cocopa"</unittitle>
+                            <unitdate>Jun. 1977</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref196" level="otherlevel">
+                        <did>
+                            <unittitle>Songs</unittitle>
+                            <container id="cid107838" type="Box" label="Mixed materials">Series IVA: S - W</container>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref197" level="otherlevel">
+                        <did>
+                            <unittitle>Spanish Words in Cocopa</unittitle>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref198" level="otherlevel">
+                        <did>
+                            <unittitle>Syntax</unittitle>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref199" level="otherlevel">
+                        <did>
+                            <unittitle>Word List</unittitle>
+                            <unitdate>1962</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref200" level="subseries">
+                    <did>
+                        <unittitle>Series IV-B. Research Notes &amp; Notebooks--Yuchi</unittitle>
+                        <unitdate>1970-1987</unitdate>
+                    </did>
+                    <odd id="ref201">
+                        <head>General note</head>
+                        <p>
+                            <emph render="bold">Series IV-B: Research Notes &amp; Notebooks--Yuchi</emph></p>
+                    </odd>
+                    <c03 id="ref202" level="otherlevel">
+                        <did>
+                            <unittitle>Handouts</unittitle>
+                            <container id="cid107837" type="Box" label="Mixed materials">Series IVB: H - Notebook #8</container>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref203" level="otherlevel">
+                        <did>
+                            <unittitle>Informants</unittitle>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref204" level="otherlevel">
+                        <did>
+                            <unittitle>"Negation"</unittitle>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref205" level="otherlevel">
+                        <did>
+                            <unittitle>Notebook</unittitle>
+                        </did>
+                        <c04 id="ref206" level="otherlevel">
+                            <did>
+                                <unittitle>Folders #1-4</unittitle>
+                                <unitdate>Summer 1970</unitdate>
+                            </did>
+                        </c04>
+                        <c04 id="ref207" level="otherlevel">
+                            <did>
+                                <unittitle>Folders #5-8</unittitle>
+                                <unitdate>Summer 1971</unitdate>
+                            </did>
+                        </c04>
+                        <c04 id="ref208" level="otherlevel">
+                            <did>
+                                <unittitle>Folder #9</unittitle>
+                                <container id="cid107836" type="Box" label="Mixed materials">Series IVB: Notebook #9 - Y</container>
+                                <unitdate>Summer 1973</unitdate>
+                            </did>
+                            <scopecontent id="ref209">
+                                <head>Scope and Contents note</head>
+                                <p>pp.1-28: Yuchi</p>
+                                <p>pp.31-86: Cocopa</p>
+                            </scopecontent>
+                        </c04>
+                        <c04 id="ref210" level="otherlevel">
+                            <did>
+                                <unittitle>Folder #10</unittitle>
+                                <unitdate>1987</unitdate>
+                            </did>
+                        </c04>
+                    </c03>
+                    <c03 id="ref211" level="otherlevel">
+                        <did>
+                            <unittitle>Notes</unittitle>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref212" level="otherlevel">
+                        <did>
+                            <unittitle>"Notes on Yuchi Syntax"</unittitle>
+                            <unitdate>1978</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref213" level="otherlevel">
+                        <did>
+                            <unittitle>"Possible Cognates to Yuchi in Siouan, Atakapa, Yava, Maider, etc."</unittitle>
+                            <unitdate>1971-1977</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref214" level="otherlevel">
+                        <did>
+                            <unittitle>Rough Sheets</unittitle>
+                            <unitdate>1971</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref215" level="otherlevel">
+                        <did>
+                            <unittitle>"Some Possible Cognates Between Yuchi and Siouan and Between Yuchi and Tunica"</unittitle>
+                            <unitdate>Jul. 1976</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref216" level="otherlevel">
+                        <did>
+                            <unittitle>Yuchi Vocabulary by Seymour Frank</unittitle>
+                            <unitdate>1970</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref217" level="subseries">
+                    <did>
+                        <unittitle>Series IV-C. Research Notes &amp; Notebooks--Yuman</unittitle>
+                        <unitdate>1962-1985</unitdate>
+                    </did>
+                    <odd id="ref218">
+                        <head>General note</head>
+                        <p>
+                            <emph render="bold">Series IV-C: Research Notes &amp; Notebooks--Yuman</emph></p>
+                    </odd>
+                    <c03 id="ref219" level="otherlevel">
+                        <did>
+                            <unittitle>Notes</unittitle>
+                            <container id="cid107835" type="Box" label="Mixed materials">Series IVC: N - Y</container>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref220" level="otherlevel">
+                        <did>
+                            <unittitle>"Notes on Possible Informants Among Speakers of the Yuman Language"</unittitle>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref221" level="otherlevel">
+                        <did>
+                            <unittitle>"Phonemes of Four Yuman Languages"</unittitle>
+                            <unitdate>1962</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref222" level="otherlevel">
+                        <did>
+                            <unittitle>Yuchi Data</unittitle>
+                            <unitdate>[1985]</unitdate>
+                        </did>
+                        <scopecontent id="ref223">
+                            <head>Scope and Contents note</head>
+                            <p>-See also Oversized</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref224" level="otherlevel">
+                        <did>
+                            <unittitle>Yuman Reconnaissance--Notebook</unittitle>
+                            <unitdate>1962</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref225" level="subseries">
+                    <did>
+                        <unittitle>Series IV-D. Research Notes &amp; Notebooks--Other</unittitle>
+                        <unitdate>1906-1988</unitdate>
+                    </did>
+                    <odd id="ref226">
+                        <head>General note</head>
+                        <p>
+                            <emph render="bold">Series IV-D: Research Notes &amp; Notebooks--Other</emph></p>
+                    </odd>
+                    <c03 id="ref227" level="otherlevel">
+                        <did>
+                            <unittitle>Alabama Vocabulary (Mary McCall)</unittitle>
+                            <container id="cid107834" type="Box" label="Mixed materials">Series IVD: A - Bam</container>
+                            <unitdate>Oct. 1971</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref228" level="otherlevel">
+                        <did>
+                            <unittitle>Bakweri--Notebook</unittitle>
+                            <unitdate>1981</unitdate>
+                            <physdesc id="ref229" label="General Physical Description note">2 Folders</physdesc>
+                        </did>
+                    </c03>
+                    <c03 id="ref230" level="otherlevel">
+                        <did>
+                            <unittitle>Bambara--Notebook</unittitle>
+                            <unitdate>1988</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref231" level="otherlevel">
+                        <did>
+                            <unittitle>Basa--Notebook</unittitle>
+                            <container id="cid107833" type="Box" label="Mixed materials">Series IVD: Bas - C</container>
+                            <unitdate>1984</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref232" level="otherlevel">
+                        <did>
+                            <unittitle>Bayang; Hawaiian--Notebook</unittitle>
+                            <unitdate>1980</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref233" level="otherlevel">
+                        <did>
+                            <unittitle>Biloxi-Ofo Bibliography</unittitle>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref234" level="otherlevel">
+                        <did>
+                            <unittitle>Burmese--Notebook</unittitle>
+                            <unitdate>n.d.</unitdate>
+                            <physdesc id="ref235" label="General Physical Description note">2 Folders</physdesc>
+                        </did>
+                    </c03>
+                    <c03 id="ref236" level="otherlevel">
+                        <did>
+                            <unittitle>Cambodian--Notebook</unittitle>
+                            <unitdate>1974-1975</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref237" level="otherlevel">
+                        <did>
+                            <unittitle>Catawba</unittitle>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref238" level="otherlevel">
+                        <did>
+                            <unittitle>Cherokee, NC Trip</unittitle>
+                            <unitdate>May 1972</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref239" level="otherlevel">
+                        <did>
+                            <unittitle>Cherokee--Notebook</unittitle>
+                            <unitdate>1972-1973</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref240" level="otherlevel">
+                        <did>
+                            <unittitle>Cherokee Phonology</unittitle>
+                            <unitdate>1972</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref241" level="otherlevel">
+                        <did>
+                            <unittitle>Chitimacha</unittitle>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref242" level="otherlevel">
+                        <did>
+                            <unittitle>Choctaw--Notebook</unittitle>
+                        </did>
+                        <c04 id="ref243" level="otherlevel">
+                            <did>
+                                <unittitle>Folder #1</unittitle>
+                                <unitdate>1971-1972</unitdate>
+                            </did>
+                        </c04>
+                        <c04 id="ref244" level="otherlevel">
+                            <did>
+                                <unittitle>Folder #2</unittitle>
+                                <unitdate>1973</unitdate>
+                            </did>
+                        </c04>
+                    </c03>
+                    <c03 id="ref245" level="otherlevel">
+                        <did>
+                            <unittitle>Columbus Museum</unittitle>
+                            <unitdate>Jul. 1969</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref246" level="otherlevel">
+                        <did>
+                            <unittitle>Dialect Study (El Centro, East Bay)</unittitle>
+                            <container id="cid107832" type="Box" label="Mixed materials">Series IVD: D - L</container>
+                            <unitdate>1964</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref247" level="otherlevel">
+                        <did>
+                            <unittitle>Diegueño</unittitle>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref248" level="otherlevel">
+                        <did>
+                            <unittitle>Haas Miscellany</unittitle>
+                            <unitdate>1980</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref249" level="otherlevel">
+                        <did>
+                            <unittitle>Haas' Tunica Texts</unittitle>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref250" level="otherlevel">
+                        <did>
+                            <unittitle>Havasupai</unittitle>
+                            <unitdate>1962</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref251" level="otherlevel">
+                        <did>
+                            <unittitle>History of Linguistics</unittitle>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref252" level="otherlevel">
+                        <did>
+                            <unittitle>Hokan Numerals</unittitle>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref253" level="otherlevel">
+                        <did>
+                            <unittitle>Igorrote-English Dictionary--Notebook</unittitle>
+                            <unitdate>[1906]</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref254" level="otherlevel">
+                        <did>
+                            <unittitle>Japanese--Notebook</unittitle>
+                            <unitdate>1969</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref255" level="otherlevel">
+                        <did>
+                            <unittitle>Kiliwa Word List</unittitle>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref256" level="otherlevel">
+                        <did>
+                            <unittitle>Korean Notebook</unittitle>
+                        </did>
+                        <c04 id="ref257" level="otherlevel">
+                            <did>
+                                <unittitle>Folder #1</unittitle>
+                                <unitdate>1967</unitdate>
+                            </did>
+                        </c04>
+                        <c04 id="ref258" level="otherlevel">
+                            <did>
+                                <unittitle>Folder #2</unittitle>
+                                <unitdate>1971</unitdate>
+                            </did>
+                        </c04>
+                    </c03>
+                    <c03 id="ref259" level="otherlevel">
+                        <did>
+                            <unittitle>Korean--Notes</unittitle>
+                            <unitdate>1967</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref260" level="otherlevel">
+                        <did>
+                            <unittitle>Linguistic Atlas</unittitle>
+                            <unitdate>1964</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref261" level="otherlevel">
+                        <did>
+                            <unittitle>Mandingo--Notebook</unittitle>
+                            <container id="cid107831" type="Box" label="Mixed materials">Series IVD: M - Shon</container>
+                            <unitdate>1987</unitdate>
+                            <physdesc id="ref262" label="General Physical Description note">2 Folders</physdesc>
+                        </did>
+                    </c03>
+                    <c03 id="ref263" level="otherlevel">
+                        <did>
+                            <unittitle>Maricopa Notes</unittitle>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref264" level="otherlevel">
+                        <did>
+                            <unittitle>Maricopa Word Lists</unittitle>
+                            <unitdate>1962</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref265" level="otherlevel">
+                        <did>
+                            <unittitle>Ma-Ya-Co-Ha Comparative Sets</unittitle>
+                            <unitdate>1964</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref266" level="otherlevel">
+                        <did>
+                            <unittitle>Mikasula--Notebook</unittitle>
+                            <unitdate>1975</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref267" level="otherlevel">
+                        <did>
+                            <unittitle>Miscellany</unittitle>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                        <scopecontent id="ref268">
+                            <head>Scope and Contents note</head>
+                            <p>-See also Ser.V, Miscellany #3</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref269" level="otherlevel">
+                        <did>
+                            <unittitle>"Mobilian Forms Collected August 27, 1970 from Leonard Lavan by J.M. Crawford Near Elton, Louisiana"</unittitle>
+                            <unitdate>1970</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref270" level="otherlevel">
+                        <did>
+                            <unittitle>Mobilian Search--Notebook</unittitle>
+                            <unitdate>1976</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref271" level="otherlevel">
+                        <did>
+                            <unittitle>Newari</unittitle>
+                            <unitdate>1961</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref272" level="otherlevel">
+                        <did>
+                            <unittitle>Numerals from Indian Languages</unittitle>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref273" level="otherlevel">
+                        <did>
+                            <unittitle>Ojibwa</unittitle>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref274" level="otherlevel">
+                        <did>
+                            <unittitle>Reconnaissance of Southeastern Indian Languages--Notebook</unittitle>
+                            <unitdate>1969</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref275" level="otherlevel">
+                        <did>
+                            <unittitle>Shona--Notebook</unittitle>
+                        </did>
+                        <c04 id="ref276" level="otherlevel">
+                            <did>
+                                <unittitle>Folder #1</unittitle>
+                                <unitdate>1973</unitdate>
+                            </did>
+                        </c04>
+                        <c04 id="ref277" level="otherlevel">
+                            <did>
+                                <unittitle>Folder #2</unittitle>
+                                <unitdate>1974</unitdate>
+                            </did>
+                        </c04>
+                    </c03>
+                    <c03 id="ref278" level="otherlevel">
+                        <did>
+                            <unittitle>Shoshoni--Notebook</unittitle>
+                            <container id="cid107830" type="Box" label="Mixed materials">Series IVD: Shos - Unidentified--Notebook #7</container>
+                        </did>
+                        <c04 id="ref279" level="otherlevel">
+                            <did>
+                                <unittitle>Folder #1</unittitle>
+                                <unitdate>1967</unitdate>
+                            </did>
+                        </c04>
+                        <c04 id="ref280" level="otherlevel">
+                            <did>
+                                <unittitle>Folder #2</unittitle>
+                                <unitdate>1968</unitdate>
+                            </did>
+                        </c04>
+                    </c03>
+                    <c03 id="ref281" level="otherlevel">
+                        <did>
+                            <unittitle>Shoshoni Notes</unittitle>
+                            <unitdate>1967</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref282" level="otherlevel">
+                        <did>
+                            <unittitle>Mrs. Terrell--Notebook</unittitle>
+                            <unitdate>1969</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref283" level="otherlevel">
+                        <did>
+                            <unittitle>Timucua</unittitle>
+                            <unitdate>1975</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref284" level="otherlevel">
+                        <did>
+                            <unittitle>Unidentified</unittitle>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref285" level="otherlevel">
+                        <did>
+                            <unittitle>Unidentified--Notebook</unittitle>
+                            <unitdate>n.d.</unitdate>
+                        </did>
+                        <c04 id="ref286" level="otherlevel">
+                            <did>
+                                <unittitle>Folders #1-7</unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="ref287" level="otherlevel">
+                            <did>
+                                <unittitle>Folder #8</unittitle>
+                                <container id="cid107829" type="Box" label="Mixed materials">Series IVD: Unidentified--Notebook #8 - Y</container>
+                            </did>
+                        </c04>
+                    </c03>
+                    <c03 id="ref288" level="otherlevel">
+                        <did>
+                            <unittitle>Wolof--Notebook</unittitle>
+                        </did>
+                        <c04 id="ref289" level="otherlevel">
+                            <did>
+                                <unittitle>Folder #1</unittitle>
+                                <unitdate>1975-1976</unitdate>
+                            </did>
+                        </c04>
+                        <c04 id="ref290" level="otherlevel">
+                            <did>
+                                <unittitle>Folder #2</unittitle>
+                                <unitdate>1976</unitdate>
+                            </did>
+                        </c04>
+                        <c04 id="ref291" level="otherlevel">
+                            <did>
+                                <unittitle>Folder #3</unittitle>
+                                <unitdate>1976-1977</unitdate>
+                            </did>
+                        </c04>
+                        <c04 id="ref292" level="otherlevel">
+                            <did>
+                                <unittitle>Folder #4</unittitle>
+                                <unitdate>1978</unitdate>
+                            </did>
+                        </c04>
+                    </c03>
+                    <c03 id="ref293" level="otherlevel">
+                        <did>
+                            <unittitle>Wolof Notes</unittitle>
+                            <unitdate>1977</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref294" level="otherlevel">
+                        <did>
+                            <unittitle>Wolof Rough Notes</unittitle>
+                            <unitdate>1976</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref295" level="otherlevel">
+                        <did>
+                            <unittitle>Yavapai Word List</unittitle>
+                            <unitdate>1962</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+            </c01>
+            <c01 id="ref297" level="series">
+                <did>
+                    <unittitle>Series V. Card Files</unittitle>
+                    <unitdate>1960s-1980s</unitdate>
+                </did>
+                <scopecontent id="ref391">
+                    <head>Scope and Contents note</head>
+                    <p>contains card-sized paper slips that are mainly dictionary entries for several languages. The slips have pencilled notes in English and in the languages covered. The various languages include Alabama, Catawba, Choctaw, Cocopa, Mobilian, Newari, Yavapai, and Yuchi. There also three boxes of slips that Crawford apparently did not finish filing before he died, and there are three boxes of miscellaneous slips. The labels on the boxes have been copied from the labels that were given to the boxes by Crawford.</p>
+                </scopecontent>
+                <c02 id="ref298" level="otherlevel">
+                    <did>
+                        <unittitle>English - Alabama</unittitle>
+                        <container id="cid107828" type="Box" label="Mixed materials">Series V: 1</container>
+                    </did>
+                </c02>
+                <c02 id="ref299" level="otherlevel">
+                    <did>
+                        <unittitle>Alabama - English</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref300" level="otherlevel">
+                    <did>
+                        <unittitle>Catawba - English</unittitle>
+                        <container id="cid107827" type="Box" label="Mixed materials">Series V: 2</container>
+                    </did>
+                </c02>
+                <c02 id="ref301" level="otherlevel">
+                    <did>
+                        <unittitle>English - Catawba</unittitle>
+                        <container id="cid107826" type="Box" label="Mixed materials">Series V: 3</container>
+                    </did>
+                </c02>
+                <c02 id="ref302" level="otherlevel">
+                    <did>
+                        <unittitle>Choctaw - English</unittitle>
+                        <container id="cid107825" type="Box" label="Mixed materials">Series V: 4</container>
+                    </did>
+                </c02>
+                <c02 id="ref303" level="otherlevel">
+                    <did>
+                        <unittitle>English - Choctaw</unittitle>
+                        <container id="cid107824" type="Box" label="Mixed materials">Series V: 5</container>
+                    </did>
+                </c02>
+                <c02 id="ref304" level="otherlevel">
+                    <did>
+                        <unittitle>Cocopa - English</unittitle>
+                        <container id="cid107809" type="Box" label="Mixed materials">Series V: 6</container>
+                    </did>
+                    <c03 id="ref305" level="otherlevel">
+                        <did>
+                            <unittitle>a - i</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref306" level="otherlevel">
+                        <did>
+                            <unittitle>k</unittitle>
+                            <container id="cid107823" type="Box" label="Mixed materials">Series V: 7</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref307" level="otherlevel">
+                        <did>
+                            <unittitle>kw</unittitle>
+                            <container id="cid107822" type="Box" label="Mixed materials">Series V: 8</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref308" level="otherlevel">
+                        <did>
+                            <unittitle>l - ly</unittitle>
+                            <container id="cid107821" type="Box" label="Mixed materials">Series V: 9</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref309" level="otherlevel">
+                        <did>
+                            <unittitle>m</unittitle>
+                            <container id="cid107820" type="Box" label="Mixed materials">Series V: 10</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref310" level="otherlevel">
+                        <did>
+                            <unittitle>n - ny</unittitle>
+                            <container id="cid107819" type="Box" label="Mixed materials">Series V: 11</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref311" level="otherlevel">
+                        <did>
+                            <unittitle>nyu - p</unittitle>
+                            <container id="cid107818" type="Box" label="Mixed materials">Series V: 12</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref312" level="otherlevel">
+                        <did>
+                            <unittitle>q - s</unittitle>
+                            <container id="cid107817" type="Box" label="Mixed materials">Series V: 13</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref313" level="otherlevel">
+                        <did>
+                            <unittitle>š</unittitle>
+                            <container id="cid107816" type="Box" label="Mixed materials">Series V: 14</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref314" level="otherlevel">
+                        <did>
+                            <unittitle>s</unittitle>
+                            <container id="cid107815" type="Box" label="Mixed materials">Series V: 15</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref315" level="otherlevel">
+                        <did>
+                            <unittitle>t - w</unittitle>
+                            <container id="cid107814" type="Box" label="Mixed materials">Series V: 16</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref316" level="otherlevel">
+                        <did>
+                            <unittitle>x</unittitle>
+                            <container id="cid107813" type="Box" label="Mixed materials">Series V: 17</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref317" level="otherlevel">
+                        <did>
+                            <unittitle>xw - y</unittitle>
+                            <container id="cid107812" type="Box" label="Mixed materials">Series V: 18</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref318" level="otherlevel">
+                        <did>
+                            <unittitle>? -?i</unittitle>
+                            <container id="cid107811" type="Box" label="Mixed materials">Series V: 19</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref319" level="otherlevel">
+                        <did>
+                            <unittitle>?w</unittitle>
+                            <container id="cid107810" type="Box" label="Mixed materials">Series V: 20</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref320" level="otherlevel">
+                    <did>
+                        <unittitle>English - Cocopa</unittitle>
+                        <container id="cid107798" type="Box" label="Mixed materials">Series V: 21</container>
+                    </did>
+                    <c03 id="ref321" level="otherlevel">
+                        <did>
+                            <unittitle>A - B</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref322" level="otherlevel">
+                        <did>
+                            <unittitle>D - E</unittitle>
+                            <container id="cid107808" type="Box" label="Mixed materials">Series V: 22</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref323" level="otherlevel">
+                        <did>
+                            <unittitle>F - G</unittitle>
+                            <container id="cid107807" type="Box" label="Mixed materials">Series V: 23</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref324" level="otherlevel">
+                        <did>
+                            <unittitle>H - I</unittitle>
+                            <container id="cid107806" type="Box" label="Mixed materials">Series V: 24</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref325" level="otherlevel">
+                        <did>
+                            <unittitle>J - M</unittitle>
+                            <container id="cid107805" type="Box" label="Mixed materials">Series V: 25</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref326" level="otherlevel">
+                        <did>
+                            <unittitle>N - Ph</unittitle>
+                            <container id="cid107804" type="Box" label="Mixed materials">Series V: 26</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref327" level="otherlevel">
+                        <did>
+                            <unittitle>Pi - Py</unittitle>
+                            <container id="cid107803" type="Box" label="Mixed materials">Series V: 27</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref328" level="otherlevel">
+                        <did>
+                            <unittitle>Q - Sh</unittitle>
+                            <container id="cid107802" type="Box" label="Mixed materials">Series V: 28</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref329" level="otherlevel">
+                        <did>
+                            <unittitle>Si - Sy</unittitle>
+                            <container id="cid107801" type="Box" label="Mixed materials">Series V: 29</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref330" level="otherlevel">
+                        <did>
+                            <unittitle>T - Z</unittitle>
+                            <container id="cid107800" type="Box" label="Mixed materials">Series V: 30</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref331" level="otherlevel">
+                        <did>
+                            <unittitle>A - U</unittitle>
+                            <container id="cid107799" type="Box" label="Mixed materials">Series V: 31</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref332" level="otherlevel">
+                    <did>
+                        <unittitle>Spanish Loanwords in Cocopa</unittitle>
+                        <container id="cid107797" type="Box" label="Mixed materials">Series V: 32</container>
+                    </did>
+                </c02>
+                <c02 id="ref333" level="otherlevel">
+                    <did>
+                        <unittitle>Kiliwa - English</unittitle>
+                        <container id="cid107796" type="Box" label="Mixed materials">Series V: 33</container>
+                    </did>
+                </c02>
+                <c02 id="ref334" level="otherlevel">
+                    <did>
+                        <unittitle>English - Kiliwa</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref335" level="otherlevel">
+                    <did>
+                        <unittitle>Miscellany #1</unittitle>
+                        <container id="cid107795" type="Box" label="Mixed materials">Series V: 34</container>
+                    </did>
+                </c02>
+                <c02 id="ref336" level="otherlevel">
+                    <did>
+                        <unittitle>Miscellany #2</unittitle>
+                        <container id="cid107794" type="Box" label="Mixed materials">Series V: 35</container>
+                    </did>
+                </c02>
+                <c02 id="ref337" level="otherlevel">
+                    <did>
+                        <unittitle>Miscellany #3</unittitle>
+                        <container id="cid107793" type="Box" label="Mixed materials">Series V: 36</container>
+                    </did>
+                </c02>
+                <c02 id="ref338" level="otherlevel">
+                    <did>
+                        <unittitle>English - Mobilian</unittitle>
+                        <container id="cid107792" type="Box" label="Mixed materials">Series V: 37</container>
+                    </did>
+                </c02>
+                <c02 id="ref339" level="otherlevel">
+                    <did>
+                        <unittitle>Mobilian - English</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref340" level="otherlevel">
+                    <did>
+                        <unittitle>Newari; Unidentified</unittitle>
+                        <container id="cid107791" type="Box" label="Mixed materials">Series V: 38</container>
+                    </did>
+                </c02>
+                <c02 id="ref341" level="otherlevel">
+                    <did>
+                        <unittitle>To Be Filed</unittitle>
+                        <container id="cid107788" type="Box" label="Mixed materials">Series V: 39a</container>
+                    </did>
+                    <c03 id="ref342" level="otherlevel">
+                        <did>
+                            <unittitle>b - h</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref343" level="otherlevel">
+                        <did>
+                            <unittitle>t - y</unittitle>
+                            <container id="cid107790" type="Box" label="Mixed materials">Series V: 39b</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref344" level="otherlevel">
+                        <did>
+                            <unittitle>y -?</unittitle>
+                            <container id="cid107789" type="Box" label="Mixed materials">Series V: 40</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref345" level="otherlevel">
+                    <did>
+                        <unittitle>English - Yavapai</unittitle>
+                        <container id="cid107787" type="Box" label="Mixed materials">Series V: 41</container>
+                    </did>
+                </c02>
+                <c02 id="ref346" level="otherlevel">
+                    <did>
+                        <unittitle>Yavapai - English</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref347" level="otherlevel">
+                    <did>
+                        <unittitle>Yuchi - English</unittitle>
+                        <container id="cid107765" type="Box" label="Mixed materials">Series V: 42</container>
+                    </did>
+                    <c03 id="ref348" level="otherlevel">
+                        <did>
+                            <unittitle>b - č</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref349" level="otherlevel">
+                        <did>
+                            <unittitle>čh - dæ</unittitle>
+                            <container id="cid107786" type="Box" label="Mixed materials">Series V: 43</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref350" level="otherlevel">
+                        <did>
+                            <unittitle>de -</unittitle>
+                            <container id="cid107785" type="Box" label="Mixed materials">Series V: 44</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref351" level="otherlevel">
+                        <did>
+                            <unittitle>do - gi</unittitle>
+                            <container id="cid107784" type="Box" label="Mixed materials">Series V: 45</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref352" level="otherlevel">
+                        <did>
+                            <unittitle>go</unittitle>
+                            <container id="cid107783" type="Box" label="Mixed materials">Series V: 46</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref353" level="otherlevel">
+                        <did>
+                            <unittitle>go - he</unittitle>
+                            <container id="cid107782" type="Box" label="Mixed materials">Series V: 47a</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref354" level="otherlevel">
+                        <did>
+                            <unittitle>he – h^</unittitle>
+                            <container id="cid107781" type="Box" label="Mixed materials">Series V: 47b</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref355" level="otherlevel">
+                        <did>
+                            <unittitle>ž - k</unittitle>
+                            <container id="cid107780" type="Box" label="Mixed materials">Series V: 48</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref356" level="otherlevel">
+                        <did>
+                            <unittitle>k'</unittitle>
+                            <container id="cid107779" type="Box" label="Mixed materials">Series V: 49</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref357" level="otherlevel">
+                        <did>
+                            <unittitle>l - l'</unittitle>
+                            <container id="cid107778" type="Box" label="Mixed materials">Series V: 50</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref358" level="otherlevel">
+                        <did>
+                            <unittitle>l - m</unittitle>
+                            <container id="cid107777" type="Box" label="Mixed materials">Series V: 51</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref359" level="otherlevel">
+                        <did>
+                            <unittitle>na - no</unittitle>
+                            <container id="cid107776" type="Box" label="Mixed materials">Series V: 52</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref360" level="otherlevel">
+                        <did>
+                            <unittitle>no - n'</unittitle>
+                            <container id="cid107775" type="Box" label="Mixed materials">Series V: 53</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref361" level="otherlevel">
+                        <did>
+                            <unittitle>p - p'</unittitle>
+                            <container id="cid107774" type="Box" label="Mixed materials">Series V: 54</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref362" level="otherlevel">
+                        <did>
+                            <unittitle>d2 - š'</unittitle>
+                            <container id="cid107773" type="Box" label="Mixed materials">Series V: 55</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref363" level="otherlevel">
+                        <did>
+                            <unittitle>s - s'</unittitle>
+                            <container id="cid107772" type="Box" label="Mixed materials">Series V: 56</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref364" level="otherlevel">
+                        <did>
+                            <unittitle>š - š'</unittitle>
+                            <container id="cid107771" type="Box" label="Mixed materials">Series V: 57</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref365" level="otherlevel">
+                        <did>
+                            <unittitle>t - t'</unittitle>
+                            <container id="cid107770" type="Box" label="Mixed materials">Series V: 58</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref366" level="otherlevel">
+                        <did>
+                            <unittitle>w - w'</unittitle>
+                            <container id="cid107769" type="Box" label="Mixed materials">Series V: 59</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref367" level="otherlevel">
+                        <did>
+                            <unittitle>y - y'</unittitle>
+                            <container id="cid107768" type="Box" label="Mixed materials">Series V: 60</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref368" level="otherlevel">
+                        <did>
+                            <unittitle>z</unittitle>
+                            <container id="cid107767" type="Box" label="Mixed materials">Series V: 61</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref369" level="otherlevel">
+                        <did>
+                            <unittitle>?</unittitle>
+                            <container id="cid107766" type="Box" label="Mixed materials">Series V: 62</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref370" level="otherlevel">
+                    <did>
+                        <unittitle>Yuchi Dictionary</unittitle>
+                        <container id="cid107764" type="Box" label="Mixed materials">Series V: 63</container>
+                    </did>
+                    <c03 id="ref371" level="otherlevel">
+                        <did>
+                            <unittitle>A - Z</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref372" level="otherlevel">
+                    <did>
+                        <unittitle>English - Yuchi</unittitle>
+                        <container id="cid107746" type="Box" label="Mixed materials">Series V: 64</container>
+                    </did>
+                    <c03 id="ref373" level="otherlevel">
+                        <did>
+                            <unittitle>A - Be</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref374" level="otherlevel">
+                        <did>
+                            <unittitle>Bi - Cl</unittitle>
+                            <container id="cid107763" type="Box" label="Mixed materials">Series V: 65</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref375" level="otherlevel">
+                        <did>
+                            <unittitle>Ca - Cy</unittitle>
+                            <container id="cid107762" type="Box" label="Mixed materials">Series V: 66</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref376" level="otherlevel">
+                        <did>
+                            <unittitle>Co - E</unittitle>
+                            <container id="cid107761" type="Box" label="Mixed materials">Series V: 67</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref377" level="otherlevel">
+                        <did>
+                            <unittitle>F - G</unittitle>
+                            <container id="cid107760" type="Box" label="Mixed materials">Series V: 68</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref378" level="otherlevel">
+                        <did>
+                            <unittitle>H - Herd</unittitle>
+                            <container id="cid107759" type="Box" label="Mixed materials">Series V: 69</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref379" level="otherlevel">
+                        <did>
+                            <unittitle>Here - Hy</unittitle>
+                            <container id="cid107758" type="Box" label="Mixed materials">Series V: 70</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref380" level="otherlevel">
+                        <did>
+                            <unittitle>I - Im</unittitle>
+                            <container id="cid107757" type="Box" label="Mixed materials">Series V: 71a</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref381" level="otherlevel">
+                        <did>
+                            <unittitle>In - L</unittitle>
+                            <container id="cid107756" type="Box" label="Mixed materials">Series V: 71b</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref382" level="otherlevel">
+                        <did>
+                            <unittitle>M</unittitle>
+                            <container id="cid107755" type="Box" label="Mixed materials">Series V: 72</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref383" level="otherlevel">
+                        <did>
+                            <unittitle>N - Pa</unittitle>
+                            <container id="cid107754" type="Box" label="Mixed materials">Series V: 73a</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref384" level="otherlevel">
+                        <did>
+                            <unittitle>Pe - R</unittitle>
+                            <container id="cid107753" type="Box" label="Mixed materials">Series V: 73b</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref385" level="otherlevel">
+                        <did>
+                            <unittitle>S - Sk</unittitle>
+                            <container id="cid107752" type="Box" label="Mixed materials">Series V: 74a</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref386" level="otherlevel">
+                        <did>
+                            <unittitle>Sl - Te</unittitle>
+                            <container id="cid107751" type="Box" label="Mixed materials">Series V: 74b</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref387" level="otherlevel">
+                        <did>
+                            <unittitle>Th - Ty</unittitle>
+                            <container id="cid107750" type="Box" label="Mixed materials">Series V: 74c</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref388" level="otherlevel">
+                        <did>
+                            <unittitle>U - Wh</unittitle>
+                            <container id="cid107749" type="Box" label="Mixed materials">Series V: 75a</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref389" level="otherlevel">
+                        <did>
+                            <unittitle>Wi - Z</unittitle>
+                            <container id="cid107748" type="Box" label="Mixed materials">Series V: 75b</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref390" level="otherlevel">
+                        <did>
+                            <unittitle>Dictionary</unittitle>
+                            <container id="cid107747" type="Box" label="Mixed materials">Series V: 76</container>
+                        </did>
+                    </c03>
+                </c02>
+            </c01>
+            <c01 id="ref392" level="series">
+                <did>
+                    <unittitle>Series VI. Course Material</unittitle>
+                    <unitdate>1961-1986</unitdate>
+                </did>
+                <scopecontent id="ref412">
+                    <head>Scope and Contents note</head>
+                    <p>mainly contains course notes for graduate courses in linguistics that Crawford took at the University of California at Berkeley in the 1960s, including Old Church Slavic, Russian, and Sanskrit. There is a photocopied version of a text for a course, Linguistics 888, that Crawford taught, probably at the University of Georgia.</p>
+                </scopecontent>
+                <c02 id="ref393" level="otherlevel">
+                    <did>
+                        <unittitle>American Indian Languages--Linguistics 170</unittitle>
+                        <container id="cid107745" type="Box" label="Mixed materials">Series VI: A - I</container>
+                        <unitdate>1962</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref394" level="otherlevel">
+                    <did>
+                        <unittitle>Cocopa Sketch--Handout for Seminar at University of California at Berkeley</unittitle>
+                        <unitdate>1963</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref395" level="otherlevel">
+                    <did>
+                        <unittitle>Dravidian Seminar--Linguistics 290H</unittitle>
+                        <unitdate>1964</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref396" level="otherlevel">
+                    <did>
+                        <unittitle>Indo-European--Linguistics 150</unittitle>
+                        <unitdate>1962</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref397" level="otherlevel">
+                    <did>
+                        <unittitle>Linguistics</unittitle>
+                        <container id="cid107744" type="Box" label="Mixed materials">Series VI: L - R</container>
+                        <unitdate>n.d.</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref398" level="otherlevel">
+                    <did>
+                        <unittitle>Linguistics 35</unittitle>
+                        <unitdate>1963</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref399" level="otherlevel">
+                    <did>
+                        <unittitle>Linguistics 130</unittitle>
+                        <unitdate>1963</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref400" level="otherlevel">
+                    <did>
+                        <unittitle>Linguistics 140</unittitle>
+                        <unitdate>1961</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref401" level="otherlevel">
+                    <did>
+                        <unittitle>Linguistics 145</unittitle>
+                        <unitdate>1963</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref402" level="otherlevel">
+                    <did>
+                        <unittitle>Linguistics 150</unittitle>
+                        <unitdate>1962</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref403" level="otherlevel">
+                    <did>
+                        <unittitle>Linguistics 220a</unittitle>
+                        <unitdate>n.d.</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref404" level="otherlevel">
+                    <did>
+                        <unittitle>Linguistics 225</unittitle>
+                        <unitdate>1964</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref405" level="otherlevel">
+                    <did>
+                        <unittitle>Linguistics 290g</unittitle>
+                        <unitdate>1962</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref406" level="otherlevel">
+                    <did>
+                        <unittitle>Linguistics 888</unittitle>
+                        <unitdate>1986</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref407" level="otherlevel">
+                    <did>
+                        <unittitle>Old Church Slavic--Notebook</unittitle>
+                        <unitdate>1962</unitdate>
+                        <physdesc id="ref408" label="General Physical Description note">3 Folders</physdesc>
+                    </did>
+                </c02>
+                <c02 id="ref409" level="otherlevel">
+                    <did>
+                        <unittitle>Russian</unittitle>
+                        <unitdate>1961</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref410" level="otherlevel">
+                    <did>
+                        <unittitle>Sanskrit</unittitle>
+                        <container id="cid107743" type="Box" label="Mixed materials">Series VI: Sa - Se</container>
+                        <unitdate>1961</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref411" level="otherlevel">
+                    <did>
+                        <unittitle>Seminars: 290a Theory; 290g American Indian Languages; Dialectology 216; 225; 130 Phonology--Notebook</unittitle>
+                        <unitdate>n.d.</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref413" level="series">
+                <did>
+                    <unittitle>Series VII. Photographs</unittitle>
+                    <unitdate>1963-1973</unitdate>
+                </did>
+                <scopecontent id="ref415">
+                    <head>Scope and Contents note</head>
+                    <p>Native American Images note: Photographs and slides of a Yuman family of the Cocopa tribe that James Mack Crawford met while researching the Cocopa language for his dissertation. Taken by Crawford, the black and white gelatin silver prints show Native Americans from the Somerton reservation that moved to Buckeye, Arizona in 1963. Dressed primarily in modern clothes, some images display women in native neck ware. The 1978 photographs appear in Crawford’s published work, Cocopa Tales (1983).</p>
+                    <p></p>
+                </scopecontent>
+                <c02 id="ref426" level="item">
+                    <did>
+                        <unittitle>Lillian Hayes and her daughter Mildred</unittitle>
+                        <physdesc>
+                            <extent>1.0 Item(s)</extent>
+                            <extent> 5 x 7 inches gelatin silver print</extent>
+                        </physdesc>
+                        <unitdate normal="1963/1963">1963</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref429" level="item">
+                    <did>
+                        <unittitle>Lillian Hayes and her daughter Mildred</unittitle>
+                        <physdesc>
+                            <extent>5 x 4 inches gelatin silver print</extent>
+                        </physdesc>
+                        <unitdate normal="1963/1963">1963</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref430" level="item">
+                    <did>
+                        <unittitle>Victor Hayes</unittitle>
+                        <physdesc>
+                            <extent>5 x 4 inches gelatin silver print</extent>
+                        </physdesc>
+                        <unitdate normal="1963/1963">1963</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref431" level="item">
+                    <did>
+                        <unittitle>Victor Hayes</unittitle>
+                        <physdesc>
+                            <extent> 7 x 5 inches gelatin silver print</extent>
+                        </physdesc>
+                        <unitdate normal="1963/1963">1963</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref432" level="item">
+                    <did>
+                        <unittitle>Mary Thomas</unittitle>
+                        <physdesc>
+                            <extent>7 x 5 inches gelatin silver print</extent>
+                        </physdesc>
+                        <unitdate normal="1963/1963">1963</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref433" level="item">
+                    <did>
+                        <unittitle>Mary Thomas</unittitle>
+                        <physdesc>
+                            <extent> 5 x 4 inches gelatin silver print</extent>
+                        </physdesc>
+                        <unitdate normal="1963/1963">1963</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref434" level="item">
+                    <did>
+                        <unittitle>James Mack Crawford, Lillian Hayes, Victor Hayes</unittitle>
+                        <physdesc>
+                            <extent>5 x 7 inches gelatin silver print</extent>
+                        </physdesc>
+                        <unitdate normal="1978/1978">1978</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref435" level="item">
+                    <did>
+                        <unittitle>James Mack Crawford, Lillian Hayes, and Victor Hayes</unittitle>
+                        <physdesc>
+                            <extent>5 x 4 inches gelatin silver print</extent>
+                        </physdesc>
+                        <unitdate normal="1963/1978" type="inclusive">1963-1978</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref436" level="item">
+                    <did>
+                        <unittitle>Two daughters of Mary Thomas, Ilona and Vivian</unittitle>
+                        <physdesc>
+                            <extent> 5 x 4 inches gelatin silver print</extent>
+                        </physdesc>
+                        <unitdate normal="1963/1978" type="inclusive">1963-1978</unitdate>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Two daughters of Mary Thomas, Ilona and Vivian" ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:1738">
+                        <daodesc>
+                            <p>Two daughters of Mary Thomas, Ilona and Vivian, 1963-1978 </p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref437" level="item">
+                    <did>
+                        <unittitle>Two daughters of Mary Thomas, Ilona and Vivian</unittitle>
+                        <physdesc>
+                            <extent> 5 x 4 inches gelatin silver print</extent>
+                        </physdesc>
+                        <unitdate normal="1963/1978" type="inclusive">1963-1978</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref438" level="item">
+                    <did>
+                        <unittitle>Two daughters of Mary Thomas, Ilona and Vivian</unittitle>
+                        <physdesc>
+                            <extent> 7 x 5 inches gelatin silver print</extent>
+                        </physdesc>
+                        <unitdate normal="1963/1963">1963</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref439" level="item">
+                    <did>
+                        <unittitle>Two daughters of Mary Thomas, Ilona and Vivian</unittitle>
+                        <physdesc>
+                            <extent> 10 x 8 inches gelatin silver print</extent>
+                        </physdesc>
+                        <unitdate normal="1963/1963">1963</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref440" level="item">
+                    <did>
+                        <unittitle>Daughters of Mary Thomas</unittitle>
+                        <physdesc>
+                            <extent>5 x 4 inches gelatin silver print</extent>
+                        </physdesc>
+                        <unitdate normal="1963/1963">1963</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref441" level="item">
+                    <did>
+                        <unittitle>Josephine Thomas</unittitle>
+                        <physdesc>
+                            <extent> 5 x 4 inches gelatin silver print</extent>
+                        </physdesc>
+                        <unitdate normal="1963/1978" type="inclusive">1963-1978</unitdate>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Josephine Thomas" ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:1739">
+                        <daodesc>
+                            <p>Josephine Thomas, 1963-1978 </p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref442" level="item">
+                    <did>
+                        <unittitle>Josephine Thomas</unittitle>
+                        <physdesc>
+                            <extent> 5 x 4 inches gelatin silver print</extent>
+                        </physdesc>
+                        <unitdate normal="1963/1978" type="inclusive">1963-1978</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref443" level="item">
+                    <did>
+                        <unittitle>Josephine Thomas</unittitle>
+                        <physdesc>
+                            <extent> 5 x 4 inches gelatin silver print</extent>
+                        </physdesc>
+                        <unitdate normal="1963/1978" type="inclusive">1963-1978</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref444" level="item">
+                    <did>
+                        <unittitle>Josephine Thomas</unittitle>
+                        <physdesc>
+                            <extent>7 x 5 inches gelatin silver print</extent>
+                        </physdesc>
+                        <unitdate normal="1963/1963">1963</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref445" level="item">
+                    <did>
+                        <unittitle>Josephine Thomas</unittitle>
+                        <physdesc>
+                            <extent> 5 x 4 inches gelatin silver print</extent>
+                        </physdesc>
+                        <unitdate normal="1963/1978" type="inclusive">1963-1978</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref446" level="item">
+                    <did>
+                        <unittitle>Lillian Hayes and her daughter Mildred</unittitle>
+                        <physdesc>
+                            <extent>2 nitrate negatives</extent>
+                        </physdesc>
+                        <unitdate normal="1963/1963">1963</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref447" level="item">
+                    <did>
+                        <unittitle>Victor Hayes</unittitle>
+                        <physdesc>
+                            <extent>2 nitrate negatives</extent>
+                        </physdesc>
+                        <unitdate normal="1963/1963">1963</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref448" level="item">
+                    <did>
+                        <unittitle>Cocopa texts</unittitle>
+                        <physdesc>
+                            <extent>3 nitrate negatives</extent>
+                        </physdesc>
+                        <unitdate normal="1963/1978" type="inclusive">1963-1978</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref427" level="item">
+                    <did>
+                        <unittitle>Lillian Hayes and her daughter Mildred</unittitle>
+                        <physdesc>
+                            <extent>1.0 Item(s)</extent>
+                            <extent>4 ½ x 4 inches gelatin silver print</extent>
+                        </physdesc>
+                        <unitdate normal="1963/1963">1963</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref428" level="item">
+                    <did>
+                        <unittitle>Victor Hayes</unittitle>
+                        <physdesc>
+                            <extent> 4 ½ x 4 inches gelatin silver print</extent>
+                        </physdesc>
+                        <unitdate normal="1963/1963">1963</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref416" level="series">
+                <did>
+                    <unittitle>Series III-A, IV-B</unittitle>
+                    <container id="cid107741" type="Oversize" label="Mixed materials">1</container>
+                </did>
+                <odd id="ref417">
+                    <head>General note</head>
+                    <p>
+                        <emph render="bold">Oversized</emph></p>
+                </odd>
+                <c02 id="ref418" level="otherlevel">
+                    <did>
+                        <unittitle>Series III-A, Works by Crawford--Cocopa</unittitle>
+                    </did>
+                    <c03 id="ref419" level="otherlevel">
+                        <did>
+                            <unittitle>
+                                <emph render="italic">Cocopa Dictionary--</emph>Disks (20)</unittitle>
+                            <unitdate>[198-]</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref420" level="otherlevel">
+                    <did>
+                        <unittitle>Series IV-B, Research Notes &amp; Notebooks--Yuchi</unittitle>
+                    </did>
+                    <c03 id="ref421" level="otherlevel">
+                        <did>
+                            <unittitle>10 3/4 in. magnetic tape</unittitle>
+                            <unitdate>30 Oct. 1979</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref422" level="otherlevel">
+                        <did>
+                            <unittitle>6 in. magnetic tape</unittitle>
+                            <unitdate>2 Oct. 1985</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref423" level="otherlevel">
+                        <did>
+                            <unittitle>7 1/4 in. magnetic tape</unittitle>
+                            <unitdate>12 Dec. 1985</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref424" level="otherlevel">
+                        <did>
+                            <unittitle>10 3/4 in. magnetic tape</unittitle>
+                            <unitdate>17 Sep. 1986</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

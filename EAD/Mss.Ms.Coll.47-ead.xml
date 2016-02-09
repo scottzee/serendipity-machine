@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Ms.Coll.47-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Ms.Coll.47</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T20:44-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Filippo Mazzei papers, 1730-1922 (inclusive), 1780-1816 (bulk)</unittitle>
+            <unitid>Mss.Ms.Coll.47</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid2016" type="Box" label="Manuscripts">1-42</container>
+            <physdesc>
+                <extent>21.0 Linear feet</extent>
+            </physdesc>
+            <unitdate normal="1780/1816" type="bulk">Bulk, 1780-1816</unitdate>
+            <unitdate normal="1730/1922" type="inclusive">1730-1922</unitdate>
+            <physdesc id="ref12" label="General Physical Description note">21 linear feet.</physdesc>
+            <abstract id="ref1" label="Abstract">This collection consists of facsimiles of documents, microfilmed for "Philip Mazzei: the comprehensive microform edition of his papers, 1730-1816" (Kraus International Publications, 1982), and also typescripts and translations into English of other documents.</abstract>
+            <physloc id="ref13" label="Paging">LH-B-43-2</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Mazzei, Filippo,1730-1816.</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref11">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by the Philip Mazzei Foundation, 455 Western Avenue, Morristown, NJ 07960, and accessioned, 01/28/1987 (1987 122ms).</p>
+            <p></p>
+        </acqinfo>
+        <altformavail id="ref7">
+            <head>Existence and Location of Copies note</head>
+            <p>This collection is also available on microfilm (
+                <extref ns2:actuate="onLoad" ns2:show="new" ns2:href="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Film.1436-ead.xml">Film 1436</extref>).</p>
+        </altformavail>
+        <arrangement id="ref5">
+            <head>Arrangement note</head>
+            <p>The material is arranged in chronological order.</p>
+        </arrangement>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>Mazzei was an Italian physician, merchant, and horticulturist, who lived in London as a wine merchant before moving to Virginia in 1773. He introduced grapes, olives, and other fruits on a plantation near Monticello, and became an active supporter of the revolutionary movement in Virginia. He served as an agent in Europe for the Commonwealth of Virginia, and later became a chargé d'affaires for King Stanislaus of Poland.</p>
+        </bioghist>
+        <odd id="ref14">
+            <head>Early American History Note</head>
+            <p>This manuscript collection falls outside the geographic scope of the Early American guide (British North America and the United States before 1840). It may be of interest to scholars interested in global history, international relations, imperialism, or the U.S. in the world.</p>
+        </odd>
+        <controlaccess>
+            <persname rules="aacr" source="naf">Adams, John, 1735-1826</persname>
+            <persname rules="aacr" source="naf">Adams, Thomas, 1730-1788 </persname>
+            <persname rules="aacr" source="naf">Barère, B. ,  (Bertrand), 1755-1841 </persname>
+            <famname source="ingest">Besenval, Pierre-Victor, -- baron de, -- 1721-1791.</famname>
+            <persname rules="aacr" source="naf">Carmignani, Giovanni, 1768-1847</persname>
+            <famname source="ingest">Catherine -- II, -- Empress of Russia, -- 1729-1796.</famname>
+            <persname rules="aacr" source="naf">Condorcet, Jean-Antoine-Nicolas de, marquis de, 1743-1794</persname>
+            <persname rules="aacr" source="naf">David, Jacques Louis, 1748-1825</persname>
+            <persname rules="aacr" source="local">Derieux, Justin Pierre Plumard</persname>
+            <persname rules="aacr" source="naf">Fabbroni, Giovanni Valentino Mattia, 1752-1822</persname>
+            <persname rules="aacr" source="local">Fabbroni, Teresa</persname>
+            <persname rules="aacr" source="naf">Franklin, Benjamin, 1706-1790</persname>
+            <persname rules="aacr" source="naf">Grimm, Friedrich Melchior, Freiherr von, 1723-1807 </persname>
+            <persname rules="aacr" source="naf">Hennin, Pierre-Michel, 1728-1807</persname>
+            <persname rules="aacr" source="naf">Heudier, Pierre</persname>
+            <persname rules="aacr" source="naf">Jefferson, Thomas, 1743-1826</persname>
+            <persname source="naf">La Rochefoucauld-Liancourt, François-Alexandre-Frédéric, duc de, 1747-1827 </persname>
+            <famname source="ingest">Louis -- XVI, -- King of France, -- 1754-1793.</famname>
+            <persname rules="aacr" source="naf">Mably, abbé de, 1709-1785 </persname>
+            <persname rules="aacr" source="naf">Madison, James, 1749-1812</persname>
+            <famname source="ingest">Marchione, Margherita, -- collector.</famname>
+            <famname source="ingest">Oraczewski, Feliks, -- Count.</famname>
+            <persname rules="aacr" source="naf">Piattoli, Scipione, 1749-1809</persname>
+            <persname rules="aacr" source="local">Pini, Andrea, d. 1816</persname>
+            <persname rules="aacr" source="local">Pini, Elizabetta Mazzei, 1798-1868</persname>
+            <famname source="ingest">Rzewuski, Seweryn, -- Count.</famname>
+            <corpname source="ingest">Société de 1789.</corpname>
+            <famname source="ingest">Stanislaw -- II August, -- King of Poland, -- 1732-1798.</famname>
+            <famname source="ingest">Talleyrand-Périgord, Charles Maurice de, -- prince de Bénévent, -- 1754-1838.</famname>
+            <subject source="lcsh">Agriculture -- United States.</subject>
+            <subject source="leah">Beyond Early America</subject>
+            <occupation source="lcsh">Diplomats.</occupation>
+            <geogname source="lcsh">France -- History -- Revolution, 1789-1799 -- Societies, etc.</geogname>
+            <geogname source="lcsh">France -- History -- Revolution, 1789-1799.</geogname>
+            <geogname source="lcsh">Great Britain -- Foreign relations -- 1760-1789.</geogname>
+            <geogname source="lcsh">Italy -- Politics and government -- 1789-1815.</geogname>
+            <geogname source="lcsh">Netherlands -- Politics and government -- 1714-1795.</geogname>
+            <geogname source="lcsh">Poland -- Foreign relations -- 1763-1796.</geogname>
+            <geogname source="lcsh">Russia -- Politics and government -- 1689-1801.</geogname>
+            <geogname source="lcsh">United States -- Foreign relations -- 1775-1783.</geogname>
+            <geogname source="lcsh">United States -- History -- Revolution, 1775-1783 -- Personal histories.</geogname>
+            <geogname source="lcsh">United States -- Politics and government -- 1783-1809.</geogname>
+            <geogname source="lcsh">Virginia -- Politics and government -- 1775-1783.</geogname>
+            <subject source="lcsh">Viticulture.</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

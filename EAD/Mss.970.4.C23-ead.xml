@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.970.4.C23</num>
+                </titleproper>
+                <author>Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:26-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="item">
+        <did>
+            <unittitle>Notes on the Six Nations (New York), 1890, successors to the Five Nations which once constituted the League or Confederacy of the "Iriquois" [sic]....</unittitle>
+            <unitid>Mss.970.4.C23</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid421" type="Volume" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>1.0 Volume(s)</extent>
+                <extent>1 volume, 251 p.
+</extent>
+            </physdesc>
+            <unitdate normal="1890/1890">1890</unitdate>
+            <physdesc id="ref5" label="General Physical Description note">1 volume, 251 p.</physdesc>
+            <abstract id="ref1" label="Abstract">These notes were taken for the eleventh Census of the U.S., 22nd Division. It lists chiefs, crops, population, diseases, houses, other property and values of the Iroquois in New York.</abstract>
+            <physloc id="ref6" label="Paging">LH-MV-E-13</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Carrington, Henry Beebee, 1824-1912</persname>
+            </origination>
+        </did>
+        <odd id="ref4">
+            <head>General note</head>
+            <p>Carrington's official report was published as an Extra Census Bulletin under the name of Thomas Donaldson (Washington, D.C., 1892). 89 p. [Information taken from a letter from William Fenton to the National Archives in Washington, D.C.]</p>
+        </odd>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>Ohio lawyer Henry Beebee Carrington served in the military during the Civil War and continued in the army fighting Indians (1865-1869).</p>
+        </bioghist>
+        <acqinfo id="ref2">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Gift from William Fenton and accessioned, 09/15/1971 (1567ms).</p>
+        </acqinfo>
+        <controlaccess>
+            <subject source="lcsh">Indians of North America--Census</subject>
+            <subject source="lcsh">Iroquois Indians--Agriculture</subject>
+            <subject source="lcsh">Iroquois Indians--Census</subject>
+            <subject source="lcsh">Iroquois Indians--Diseases</subject>
+            <subject source="lcsh">Iroquois Indians--Dwellings</subject>
+            <subject source="lcsh">Iroquois Indians--Population</subject>
+            <subject source="lcsh">Iroquois Indians--Property</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

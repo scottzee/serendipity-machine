@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.B83v-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.B83v</num>
+                </titleproper>
+                <author>Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:54-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="item">
+        <did>
+            <unittitle>Verslag van een tocht naar kemandora in centraal Nieuw Guinea, van 20 Februari 1939 tot 10 Maart 1939</unittitle>
+            <unitid>Mss.B.B83v</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="dut"/>
+            </langmaterial>
+            <container id="cid119981" type="Volume" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>1.0 Volume(s)</extent>
+            </physdesc>
+            <unitdate normal="1939/1939">1939</unitdate>
+            <abstract id="ref3" label="Abstract">Dissertation. Contains inscription to Gajdusek from Jan ten Brink, [19]86.</abstract>
+            <physdesc id="ref1" label="General Physical Description note">Photocopy of thesis dissertation; 1 volume, 90 p.</physdesc>
+            <physloc id="ref4" label="Paging">BFH-OvAud-108</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="local" role="Author (aut)">Bruyn, J. Victor de</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref2">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by Daniel Carleton Gajdusek; accessioned, 1992 (1992 610ms.)</p>
+        </acqinfo>
+        <controlaccess>
+            <genreform source="lcsh">Dissertation, Academic</genreform>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

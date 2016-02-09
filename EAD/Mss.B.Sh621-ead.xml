@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.Sh621-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.Sh621</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T20:00-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Edward Shippen receipts, 1754-1789</unittitle>
+            <unitid>Mss.B.Sh621</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1592" type="Box" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>0.25 Linear feet</extent>
+                <extent>19 items</extent>
+            </physdesc>
+            <unitdate normal="1754/1789" type="inclusive">1754-1789</unitdate>
+            <abstract id="ref1" label="Abstract">These are receipts from tradesmen, mechanics, and storekeepers for sewing, carriage work, the making and repair of shoes, madeira, fabrics, sugar, hair-dressing, and clothing.</abstract>
+            <physdesc id="ref8" label="General Physical Description note">19 items.</physdesc>
+            <physloc id="ref10" label="Paging">LH-MV-B-1</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Shippen, Edward,1729-1806.</persname>
+            </origination>
+        </did>
+        <odd id="ref9">
+            <head>Early American History Note</head>
+            <p>The Edward Shippen Collection is composed of nineteen documents, which are contained within the Shippen Family Collection. The documents are Edward Shippen's receipts from 1764 to 1789. The receipts are for various personal purchases he made. A small, disjointed collection, the receipts touch on the personal consumption preferences of one of the wealthiest men in the colony.</p>
+        </odd>
+        <acqinfo id="ref7">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Purchased and accessioned, 1957 (1957 1569ms).</p>
+            <p></p>
+        </acqinfo>
+        <altformavail id="ref5">
+            <head>Existence and Location of Copies note</head>
+            <p>These materials are also available on microfilm (Film 762).</p>
+        </altformavail>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>Edward Shippen was Chief Justice of Pennsylvania, and was elected to the American Philosophical Society in 1768.</p>
+        </bioghist>
+        <controlaccess>
+            <subject source="leah">American Revolution</subject>
+            <subject source="leah">Business and Skilled Trades</subject>
+            <genreform source="leah">Business Records and Accounts</genreform>
+            <subject source="lcsh">Household supplies -- Pennsylvania -- Philadelphia.</subject>
+            <subject source="leah">Marriage and Family Life</subject>
+            <genreform source="lcsh">Receipts.</genreform>
+            <subject source="leah">Social Life and Custom</subject>
+            <subject source="leah">Trade</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Film.1036-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Film.1036</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T20:11-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="item">
+        <did>
+            <unittitle>Journal among the Arikara Indians, and other papers, 1794-1796</unittitle>
+            <unitid>Mss.Film.1036</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="fre"/>
+            </langmaterial>
+            <container id="cid1687" type="Reel" label="Microform">1</container>
+            <physdesc>
+                <extent>1.0 Microfilm reel(s)</extent>
+            </physdesc>
+            <unitdate normal="1794/1796" type="inclusive">1794-1796</unitdate>
+            <abstract id="ref1" label="Abstract">Includes "Description abrègée du Haut-Missouri adressé: a Monsieur don Zénon Trudeau," an account of a journey up the Missouri River, with descriptions of the life and manners of the Indian tribes, prepared for Don Zenon Trudeau, Lieutenant Governor of the Country East of the Illinois (n.d., [after 1795]). Extracts from journals, June 7, 1794-June 1796 (part printed from copy in Department of State Archives, Washington), 190 pages. Approximately 200 pages of letters. Materials contain descriptions of the culture of the Plains Indians (Cheyenne, Arikara, Mandan, Pawnee, Gros Ventres, Sioux, Poncas), dress, customs, marriage, birth; calumet dance, sun dance, buffalo dance; warfare.</abstract>
+            <physdesc id="ref12" label="General Physical Description note">1 microfilm reel.</physdesc>
+            <physloc id="ref15" label="Paging">LH-RR-Media Rm-3</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Trudeau, Jean Baptiste,1748-1827.</persname>
+            </origination>
+        </did>
+        <altformavail id="ref13">
+            <head>Existence and Location of Copies note</head>
+            <p>Printed (in English translation): Trudeau, 
+                <emph render="italic">Collections of the Missouri Historical Society</emph> (1912) 4: 9-48; Trudeau, 
+                <emph render="italic">American Historical Review</emph> (1914) 19: 299-333; Abel, 
+                <emph render="italic">Missouri Valley Historical Review</emph> (1921) 8: 149-179.</p>
+        </altformavail>
+        <odd id="ref14">
+            <head>Early American History Note</head>
+            <p>This is a microfilm of an early American collection that may be of interest to researchers at the APS and may complement an original manuscript collection at the APS.</p>
+        </odd>
+        <acqinfo id="ref11">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by Université Laval, Séminaire de Québec and accessioned, 1960.</p>
+        </acqinfo>
+        <userestrict id="ref9">
+            <head>Conditions Governing Use note</head>
+            <p>This material may not be copied or reproduced without permission of the archivist of the Séminaire de Québec, Canada.</p>
+        </userestrict>
+        <odd id="ref7">
+            <head>General note</head>
+            <p>There is a second copy of this film available in the repository.</p>
+        </odd>
+        <bioghist id="ref5">
+            <head>Biographical/Historical note</head>
+            <p>Jean Baptiste Trudeau was a schoolmaster, trader, and traveler.</p>
+        </bioghist>
+        <originalsloc id="ref3">
+            <head>Existence and Location of Originals note</head>
+            <p>Originals in Université Laval, Séminaire de Québec.</p>
+        </originalsloc>
+        <controlaccess>
+            <persname rules="aacr" source="local">Trudeau, Zenon</persname>
+            <subject source="lcsh">Indians of North America--Social life and customs</subject>
+            <genreform source="lcsh">Journals (notebooks).</genreform>
+            <genreform source="leah">Microfilm Collection</genreform>
+            <geogname source="lcsh">Missouri River.</geogname>
+            <geogname source="lcsh">United States -- Discovery and exploration.</geogname>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

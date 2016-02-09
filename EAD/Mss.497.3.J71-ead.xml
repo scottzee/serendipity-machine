@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.497.3.J71-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.497.3.J71</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:12-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Ojibwa ethnographic and linguistic field notes, 1903-1905</unittitle>
+            <unitid>Mss.497.3.J71</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid809" type="Box" label="Mixed materials">1</container>
+            <container parent="cid809" type="Volume">1</container>
+            <physdesc>
+                <extent>1.0 Volume(s)</extent>
+                <extent>1 volume, ca. 250 p.; 42 items</extent>
+            </physdesc>
+            <unitdate normal="1903/1905" type="inclusive">1903-1905</unitdate>
+            <physdesc id="ref9" label="General Physical Description note">1 volume, ca. 250 p.; 42 items.</physdesc>
+            <abstract id="ref1" label="Abstract">The collection includes material relating to government, mythology, festivals, customs, games, etc. of the Ojibwa Indians. Also includes comments on the language; vocabulary, some items with English glosses; lists of bands and locations; and photographs of people, activities, dwellings, canoes, etc.</abstract>
+            <physloc id="ref25" label="Paging">LH-MV-E-8</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Jones, William,1871-1909.</persname>
+            </origination>
+        </did>
+        <relatedmaterial id="ref11">
+            <head>Related Archival Materials note</head>
+            <p>Jones' major work on the Ojibwa was published posthumously by Truman Michelson, ed. 
+                <emph render="italic">Ojibwa Texts</emph>, 2 vols. (American Ethnological Society, 1917, 1919).</p>
+        </relatedmaterial>
+        <acqinfo id="ref7">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by Ruth Landes (Dept. of Anthropology, McMaster University, 1280 Main Street, Hamilton, Ontario, Canada L8S 4L9) and accessioned, 12/--/1977 (2071ms).</p>
+        </acqinfo>
+        <scopecontent id="ref12">
+            <head>Scope and Contents note</head>
+            <p>Native American Images note : 43 pencil sketches, 42 black and white silver gelatin photographs of Ojibwa Indians of Minnesota and Ontario taken by Jones from 1903-1905. Ethnographic images of pipes, canoes, traps, totem figures, pottery, birch bark dwellings, a cradleboard, and Native Americans in traditional dress. Primarily scenes from Nett Lake, Bois Fort, Minnesota and Lake Nipigon, Ontario. Referenced in the online 
+                <extref ns2:actuate="onLoad" ns2:show="new" ns2:href="http://www.amphilsoc.org/natam/search">Daythal Kendall Guide to Native American Collections at the American Philosophical Society</extref>.</p>
+        </scopecontent>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>William Jones was born on March 28, 1871, on a Sauk and Fox reservation in Kansas. He was educated in Indian schools in Kansas and Indiana, at Hampton Institute and Andover, and received a B.A. from Harvard in 1900. He continued anthropological studies at Columbia, where he received an M.A. in 1901 and a PhD in 1904. Jones conducted field work, in affiliation with the American Museum of Natural History, on Algonquian languages. He was killed by native Filipinos in March 1909, while on an ethnological expedition for the American Museum.</p>
+        </bioghist>
+        <processinfo id="ref24">
+            <head>Processing Information note</head>
+            <p>Inventory is not complete, only scanned images are noted.</p>
+        </processinfo>
+        <controlaccess>
+            <corpname rules="aacr" source="naf">American Museum of Natural History.</corpname>
+            <persname source="ingest">Benedict, Ruth, 1887-1848</persname>
+            <persname rules="aacr" source="naf">Boas,  Franz, 1858-1942 </persname>
+            <persname source="ingest">Mead, Margaret,1901-1978,comp.</persname>
+            <subject source="lcsh">Algonquian Indians</subject>
+            <genreform source="lcsh">Field notes.</genreform>
+            <genreform source="gmgpc">Gelatin silver prints</genreform>
+            <subject source="lcsh">Indians of North America--Languages</subject>
+            <subject source="lcsh">Indians of North America--Minnesota</subject>
+            <subject source="lcsh">Indians of North America--Ontario</subject>
+            <subject source="lcsh">Indians of North America--Religion</subject>
+            <subject source="lcsh">Indians of North America--Social life and customs</subject>
+            <subject source="lcsh">Ojibwa Indians</subject>
+            <genreform source="lcsh">Sketches.</genreform>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref14" level="item">
+                <did>
+                    <unittitle>Ojibwa canoes</unittitle>
+                    <physdesc>
+                        <extent>Number 4</extent>
+                    </physdesc>
+                    <unitdate normal="1903/1905" type="inclusive">1903-1905</unitdate>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Ojibwa canoes " ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:3649">
+                    <daodesc>
+                        <p>Ojibwa canoes , 1903-1905 </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref15" level="item">
+                <did>
+                    <unittitle>Ojibwa chief and wife</unittitle>
+                    <physdesc>
+                        <extent>Number 9</extent>
+                    </physdesc>
+                    <unitdate normal="1903/1905" type="inclusive">1903-1905</unitdate>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Ojibwa chief and wife " ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:3645">
+                    <daodesc>
+                        <p>Ojibwa chief and wife , 1903-1905 </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref16" level="item">
+                <did>
+                    <unittitle>Ojibwa family</unittitle>
+                    <physdesc>
+                        <extent>Number 9</extent>
+                    </physdesc>
+                    <unitdate normal="1903/1905" type="inclusive">1903-1905</unitdate>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Ojibwa family " ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:3640">
+                    <daodesc>
+                        <p>Ojibwa family , 1903-1905 </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref17" level="item">
+                <did>
+                    <unittitle>Ojibwa man</unittitle>
+                    <physdesc>
+                        <extent>Number 9</extent>
+                    </physdesc>
+                    <unitdate normal="1903/1905" type="inclusive">1903-1905</unitdate>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Ojibwa man" ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:3648">
+                    <daodesc>
+                        <p>Ojibwa man, 1903-1905 </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref18" level="item">
+                <did>
+                    <unittitle>Ojibwa mother and children</unittitle>
+                    <physdesc>
+                        <extent>Number 9</extent>
+                    </physdesc>
+                    <unitdate normal="1903/1905" type="inclusive">1903-1905</unitdate>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Ojibwa mother and children" ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:3646">
+                    <daodesc>
+                        <p>Ojibwa mother and children, 1903-1905 </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref19" level="item">
+                <did>
+                    <unittitle>Ojibwa totem figures</unittitle>
+                    <physdesc>
+                        <extent>Number 4</extent>
+                    </physdesc>
+                    <unitdate normal="1903/1905" type="inclusive">1903-1905</unitdate>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Ojibwa totem figures " ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:3644">
+                    <daodesc>
+                        <p>Ojibwa totem figures , 1903-1905 </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref20" level="item">
+                <did>
+                    <unittitle>Ojibwa utensils</unittitle>
+                    <physdesc>
+                        <extent>Number 4</extent>
+                    </physdesc>
+                    <unitdate normal="1903/1905" type="inclusive">1903-1905</unitdate>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Ojibwa utensils " ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:3642">
+                    <daodesc>
+                        <p>Ojibwa utensils , 1903-1905 </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref21" level="item">
+                <did>
+                    <unittitle>Ojibwa woman and child</unittitle>
+                    <physdesc>
+                        <extent>Number 9</extent>
+                    </physdesc>
+                    <unitdate normal="1903/1905" type="inclusive">1903-1905</unitdate>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Ojibwa woman and child " ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:3643">
+                    <daodesc>
+                        <p>Ojibwa woman and child , 1903-1905 </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref22" level="item">
+                <did>
+                    <unittitle>Ojibwas</unittitle>
+                    <physdesc>
+                        <extent>Number 9</extent>
+                    </physdesc>
+                    <unitdate normal="1903/1905" type="inclusive">1903-1905</unitdate>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Ojibwas" ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:3647">
+                    <daodesc>
+                        <p>Ojibwas, 1903-1905 </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref23" level="item">
+                <did>
+                    <unittitle>Ojibwas</unittitle>
+                    <physdesc>
+                        <extent>Number 9</extent>
+                    </physdesc>
+                    <unitdate normal="1903/1905" type="inclusive">1903-1905</unitdate>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Ojibwas" ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:3641">
+                    <daodesc>
+                        <p>Ojibwas, 1903-1905 </p>
+                    </daodesc>
+                </dao>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

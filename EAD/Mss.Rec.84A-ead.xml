@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Rec.84A</num>
+                    <num>Mss.Rec.84A</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Brian Carpenter</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+                <date>08-2010</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T21:19-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Dakota language, Western dialect</unittitle>
+            <unitid>Mss.Rec.84A</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="dak"/>
+            </langmaterial>
+            <physdesc>
+                <extent>1.0 Reel(s)</extent>
+            </physdesc>
+            <unitdate>1970</unitdate>
+            <abstract id="ref3" label="Abstract">Consists of elicited sentences in the Western dialect of Dakota made with the assistance of two consultants, Joseph Marshall, Jr. of Mission, South Dakota and Moses Big Crow of St. Francis, South Dakota. Recorded in multiple work sessions in February and March 1970.</abstract>
+            <physdesc id="ref2" label="General Physical Description note">1 sound tape reel (48 min.) : analog, 7 1/2 ips, 2 track, mono ; 5 in.</physdesc>
+            <physloc id="ref27" label="Paging">LH-B-32-3</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Carter, Richard T., (Richard Thomas), 1941-</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref4">
+            <head>Immediate Source of Acquisition</head>
+            <p>Donated by Richard Carter in 1971 (Acc. 1971 939ms). This material was recorded with the assistance of a Phillips Fund grant.</p>
+        </acqinfo>
+        <relatedmaterial id="ref5">
+            <head>Related Archival Materials</head>
+            <p>Transcripts of these recording session and other linguistic fieldwork can be found in the 
+                <extref ns2:actuate="onLoad" ns2:show="new" ns2:href="http://www.amphilsoc.org/mole/view?docId=ead/Mss.497.3.Am4-ead.xml">Phillips Fund collection (Mss.497.3.Am4)</extref>.</p>
+        </relatedmaterial>
+        <controlaccess>
+            <subject source="lcsh">Dakota language</subject>
+            <subject source="lcsh">Lakota dialect</subject>
+            <genreform source="ingest">Sound recordings</genreform>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref6" level="series">
+                <did>
+                    <unittitle>Audio recordings</unittitle>
+                </did>
+                <c02 id="ref7" level="file">
+                    <did>
+                        <unittitle>Elicited sentences, work session #14</unittitle>
+                        <unitid>01-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1970-02-11</unitdate>
+                        <physdesc id="ref8" label="General Physical Description note">
+                            <extent>00:04:08</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Carter, Richard T. (Richard Thomas), 1941-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Marshall, Joseph, Jr.</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref10">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3600" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3657">
+                        <daodesc>
+                            <p>APSdigrec_3600</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Lakota dialect</subject>
+                        <geogname source="ingest">Mission (S.D.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref11" level="file">
+                    <did>
+                        <unittitle>Elicited sentences, work session #15</unittitle>
+                        <unitid>01-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1970-02-19</unitdate>
+                        <physdesc id="ref12" label="General Physical Description note">
+                            <extent>00:03:52</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Carter, Richard T. (Richard Thomas), 1941-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Marshall, Joseph, Jr.</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref14">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3601" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3660">
+                        <daodesc>
+                            <p>APSdigrec_3601</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Lakota dialect</subject>
+                        <geogname source="ingest">Mission (S.D.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref15" level="file">
+                    <did>
+                        <unittitle>Elicited sentences, work session #18</unittitle>
+                        <unitid>01-03</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1970-03-03</unitdate>
+                        <physdesc id="ref16" label="General Physical Description note">
+                            <extent>00:05:37</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Big Crow, Moses</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Carter, Richard T. (Richard Thomas), 1941-</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref18">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3602" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3659">
+                        <daodesc>
+                            <p>APSdigrec_3602</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Lakota dialect</subject>
+                        <geogname source="ingest">St. Francis (S.D.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref19" level="file">
+                    <did>
+                        <unittitle>Elicited sentences, work session #19</unittitle>
+                        <unitid>01-04</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1970-03-05</unitdate>
+                        <physdesc id="ref20" label="General Physical Description note">
+                            <extent>00:10:08</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Big Crow, Moses</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Carter, Richard T. (Richard Thomas), 1941-</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref22">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3603" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3658">
+                        <daodesc>
+                            <p>APSdigrec_3603</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Lakota dialect</subject>
+                        <geogname source="ingest">St. Francis (S.D.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref23" level="file">
+                    <did>
+                        <unittitle>Elicited sentences, work session #20</unittitle>
+                        <unitid>01-05</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1970-03-06</unitdate>
+                        <physdesc id="ref24" label="General Physical Description note">
+                            <extent>00:24:48</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Big Crow, Moses</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Carter, Richard T. (Richard Thomas), 1941-</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref26">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3604" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3661">
+                        <daodesc>
+                            <p>APSdigrec_3604</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Lakota dialect</subject>
+                        <geogname source="ingest">St. Francis (S.D.)</geogname>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

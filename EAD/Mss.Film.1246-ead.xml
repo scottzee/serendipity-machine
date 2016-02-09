@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Film.1246-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Film.1246</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T20:12-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Index to Smiley family papers, 1885-1930, pertaining to the conferences at Lake Mohonk</unittitle>
+            <unitid>Mss.Film.1246</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1749" type="Reel" label="Microform">1</container>
+            <physdesc>
+                <extent>1.0 Microfilm reel(s)</extent>
+            </physdesc>
+            <unitdate normal="1885/1930" type="inclusive">1885-1930</unitdate>
+            <abstract id="ref6" label="Abstract">This is a detailed table of contents to the Smiley Family Papers at Haverford College, pertaining chiefly to Indian conferences at Lake Mohonk (New York).</abstract>
+            <physdesc id="ref11" label="General Physical Description note">1 microfilm reel.</physdesc>
+            <physloc id="ref12" label="Paging">LH-RR-Media Rm-4</physloc>
+        </did>
+        <acqinfo id="ref10">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Received from Haverford College, Pennsylvania, PA, and accessioned, 1967 (1967 1236mf).</p>
+            <p></p>
+        </acqinfo>
+        <originalsloc id="ref3">
+            <head>Existence and Location of Originals note</head>
+            <p>Originals in Haverford College, Pennsylvania.</p>
+        </originalsloc>
+        <controlaccess>
+            <famname source="ingest" role="Author (aut)">Smiley family.</famname>
+            <subject source="lcsh">Indians of North America</subject>
+            <geogname source="lcsh">Lake Mohonk (N.Y.).</geogname>
+            <subject source="lcsh">Meetings.</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

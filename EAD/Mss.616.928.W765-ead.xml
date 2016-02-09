@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.616.928.W765-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.616.928.W765</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:22-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="item">
+        <did>
+            <unittitle>Caspar Wistar commonplace book, 1796-1813</unittitle>
+            <unitid>Mss.616.928.W765</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid985" type="Volume" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>1.0 Volume(s)</extent>
+                <extent>1 volume, 95 p. </extent>
+            </physdesc>
+            <unitdate normal="1796/1813" type="inclusive">1796-1813</unitdate>
+            <physdesc id="ref8" label="General Physical Description note">1 volume, 95 p.</physdesc>
+            <abstract id="ref1" label="Abstract">This volume contains medical notes by Wistar, including observations on yellow fever and arguments to prove its foreign origin, facts relative to the progress of the fever in 1797, the infection and death of Colonel Van Emburgh, the infection of the crew of the ship "Deborah" and of the Durham boat (1802), an account of the diseases which afflicted the family of James Hammar in Montgomery County (Pa.), facts relating to the typhus fever of 1812-1813, case histories (1796-1803), temperature chart (1758-1759, 1760), and a thermometrical journal (1760-1765) kept by Charles Norris and copied by Wistar from notes in possession of Joseph Parker Norris.</abstract>
+            <physloc id="ref10" label="Paging">LH-MV-E-11</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="local" role="Author (aut)">Wistar, Caspar, 1761-1818</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref7">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by Mr. and Mrs. Henry G. Leach, 1951.</p>
+        </acqinfo>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>Caspar Wistar was a Philadelphia physician.</p>
+        </bioghist>
+        <odd id="ref9">
+            <head>Early American History Note</head>
+            <p>This fascinating commonplace book contains some of Caspar Wistar’s thoughts on medicine. Infectious disease is a particularly prominent topic. Wistar offers observations and some theories, noting how “country people” had some immunities that others did not. Wistar discusses the yellow fever epidemic in Philadelphia and infections on boats, in individuals, and within families. There is also meteorological data from 1758-1765.</p>
+        </odd>
+        <controlaccess>
+            <corpname source="ingest">Deborah (Ship).</corpname>
+            <persname rules="aacr" source="local">Hammar, James</persname>
+            <persname rules="aacr" source="naf">Norris, Charles </persname>
+            <famname source="ingest">Van Emburgh, -- Colonel.</famname>
+            <genreform source="leah">Commonplace Book</genreform>
+            <genreform source="lcsh">Commonplace books.</genreform>
+            <subject source="lcsh">Communicable diseases.</subject>
+            <genreform source="leah">Educational Material</genreform>
+            <subject source="leah">Medicine</subject>
+            <subject source="lcsh">Medicine.</subject>
+            <genreform source="leah">Meteorological Data</genreform>
+            <subject source="lcsh">Meteorology -- Observations.</subject>
+            <genreform source="leah">Notebooks</genreform>
+            <subject source="leah">Philadelphia History</subject>
+            <subject source="leah">Science and Technology</subject>
+            <genreform source="leah">Scientific Data</genreform>
+            <subject source="lcsh">Typhus fever.</subject>
+            <subject source="lcsh">Yellow fever.</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Rec.85-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Rec.85</num>
+                    <num>Mss.Rec.85</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Brian Carpenter</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+                <date>10-2010</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T21:19-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Malecite stories</unittitle>
+            <unitid>Mss.Rec.85</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="alg"/>
+            </langmaterial>
+            <physdesc>
+                <extent>6.0 Reel(s)</extent>
+            </physdesc>
+            <unitdate>1972</unitdate>
+            <abstract id="ref3" label="Abstract">Multiple unidentified stories and speech given in Malecite-Passamaquody only from multiple consultants. Recorded in 1972, in Kingsclear, Oromocto, and St. Marys, New Brunswick.</abstract>
+            <physdesc id="ref2" label="General Physical Description note">6 sound tape reels, (5 hr., 35 min.) : analog, 3 3/4 ips, 2 tracks, mono ; 5 in.</physdesc>
+            <physloc id="ref71" label="Paging">LH-B-32-3</physloc>
+            <origination label="creator">
+                <persname source="ingest">Polchic, Arthur</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="dacs" source="local">Polchic, Margaret</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest">Polchic, Solomon</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Szábo, László</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest">Toomah, Madeleine</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref4">
+            <head>Immediate Source of Acquisition</head>
+            <p>Donated by László Szábo in 1972 (Acc. 1972 593r). This material was recorded with the assistance of a Phillips Fund grant.</p>
+        </acqinfo>
+        <controlaccess>
+            <subject source="lcsh">Malecite Indians--Folklore</subject>
+            <subject source="lcsh">Passamaquoddy language</subject>
+            <subject source="lcsh">Passamaquoddy language--Texts</subject>
+            <genreform source="ingest">Sound recordings</genreform>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref5" level="series">
+                <did>
+                    <unittitle>Audio recordings</unittitle>
+                </did>
+                <c02 id="ref6" level="file">
+                    <did>
+                        <unittitle>Malecite Stories</unittitle>
+                        <unitid>01-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1972</unitdate>
+                        <physdesc id="ref7" label="General Physical Description note">
+                            <extent>00:29:12</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Szabó, László</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Toomah, Madeleine</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref8">
+                        <head>Scope and Contents note</head>
+                        <p>Multiple unidentified texts in Malecite-Passamaquody only.</p>
+                    </scopecontent>
+                    <originalsloc id="ref10">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2338" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5524">
+                        <daodesc>
+                            <p>APSdigrec_2338</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Kingsclear (N.B.)</geogname>
+                        <subject source="lcsh">Passamaquoddy language--Texts</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref11" level="file">
+                    <did>
+                        <unittitle>Malecite Stories</unittitle>
+                        <unitid>01-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1972</unitdate>
+                        <physdesc id="ref12" label="General Physical Description note">
+                            <extent>00:23:06</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Polchic, Arthur</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Szabó, László</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref13">
+                        <head>Scope and Contents note</head>
+                        <p>Multiple unidentified texts in Malecite-Passamaquody only.</p>
+                    </scopecontent>
+                    <originalsloc id="ref15">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2339" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5525">
+                        <daodesc>
+                            <p>APSdigrec_2339</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Kingsclear (N.B.)</geogname>
+                        <subject source="lcsh">Passamaquoddy language--Texts</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref16" level="file">
+                    <did>
+                        <unittitle>Malecite Stories</unittitle>
+                        <unitid>02-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1972</unitdate>
+                        <physdesc id="ref17" label="General Physical Description note">
+                            <extent>00:31:37</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Polchic, Margaret</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Szabó, László</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref18">
+                        <head>Scope and Contents note</head>
+                        <p>Multiple unidentified texts in Malecite-Passamaquody only. Contains persistent sound distortion due to the microphone being placed too close to the speaker.</p>
+                    </scopecontent>
+                    <originalsloc id="ref20">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2340" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5526">
+                        <daodesc>
+                            <p>APSdigrec_2340</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Kingsclear (N.B.)</geogname>
+                        <subject source="lcsh">Passamaquoddy language--Texts</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref21" level="file">
+                    <did>
+                        <unittitle>Malecite Stories</unittitle>
+                        <unitid>02-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1972</unitdate>
+                        <physdesc id="ref22" label="General Physical Description note">
+                            <extent>00:17:50</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Paul, Mr.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Szabó, László</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref23">
+                        <head>Scope and Contents note</head>
+                        <p>Multiple unidentified texts in Malecite-Passamaquody only.</p>
+                    </scopecontent>
+                    <originalsloc id="ref25">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2341" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5527">
+                        <daodesc>
+                            <p>APSdigrec_2341</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Oromocto (N.B.)</geogname>
+                        <subject source="lcsh">Passamaquoddy language--Texts</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref26" level="file">
+                    <did>
+                        <unittitle>Malecite Stories</unittitle>
+                        <unitid>02-03</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1972</unitdate>
+                        <physdesc id="ref27" label="General Physical Description note">
+                            <extent>00:07:34</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Szabó, László</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Toomah, Madeleine</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref28">
+                        <head>Scope and Contents note</head>
+                        <p>Multiple unidentified texts in Malecite-Passamaquody only. Contains occasional sound distortion due to the microphone being placed too close to the speaker.</p>
+                    </scopecontent>
+                    <originalsloc id="ref30">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2342" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5529">
+                        <daodesc>
+                            <p>APSdigrec_2342</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Kingsclear (N.B.)</geogname>
+                        <subject source="lcsh">Passamaquoddy language--Texts</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref31" level="file">
+                    <did>
+                        <unittitle>Malecite Stories</unittitle>
+                        <unitid>03-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1972</unitdate>
+                        <physdesc id="ref32" label="General Physical Description note">
+                            <extent>00:28:54</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Polchic, Solomon</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Szabó, László</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref33">
+                        <head>Scope and Contents note</head>
+                        <p>Multiple unidentified texts in Malecite-Passamaquody only.</p>
+                    </scopecontent>
+                    <originalsloc id="ref35">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2343" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5530">
+                        <daodesc>
+                            <p>APSdigrec_2343</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Passamaquoddy language--Texts</subject>
+                        <geogname source="ingest">St. Marys (N.B.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref36" level="file">
+                    <did>
+                        <unittitle>Malecite Stories</unittitle>
+                        <unitid>03-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1972</unitdate>
+                        <physdesc id="ref37" label="General Physical Description note">
+                            <extent>00:29:10</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Szabó, László</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Toomah, Madeleine</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref38">
+                        <head>Scope and Contents note</head>
+                        <p>Multiple unidentified texts in Malecite-Passamaquody only. Includes a brief period of singing from 17:51 to 18:17.</p>
+                    </scopecontent>
+                    <originalsloc id="ref40">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2344" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5532">
+                        <daodesc>
+                            <p>APSdigrec_2344</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Kingsclear (N.B.)</geogname>
+                        <subject source="ingest">Malecite Indians--Music</subject>
+                        <subject source="lcsh">Passamaquoddy language--Texts</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref41" level="file">
+                    <did>
+                        <unittitle>Malecite Stories</unittitle>
+                        <unitid>04-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1972</unitdate>
+                        <physdesc id="ref42" label="General Physical Description note">
+                            <extent>00:27:39</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Polchic, Solomon</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Szabó, László</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref43">
+                        <head>Scope and Contents note</head>
+                        <p>Multiple unidentified texts in Malecite-Passamaquody only.</p>
+                    </scopecontent>
+                    <originalsloc id="ref45">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2345" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5533">
+                        <daodesc>
+                            <p>APSdigrec_2345</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Passamaquoddy language--Texts</subject>
+                        <geogname source="ingest">St. Marys (N.B.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref46" level="file">
+                    <did>
+                        <unittitle>Malecite Stories</unittitle>
+                        <unitid>04-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1972</unitdate>
+                        <physdesc id="ref47" label="General Physical Description note">
+                            <extent>00:31:28</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Polchic, Solomon</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Szabó, László</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref48">
+                        <head>Scope and Contents note</head>
+                        <p>Multiple unidentified texts in Malecite-Passamaquody only.</p>
+                    </scopecontent>
+                    <originalsloc id="ref50">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2346" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5531">
+                        <daodesc>
+                            <p>APSdigrec_2346</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Passamaquoddy language--Texts</subject>
+                        <geogname source="ingest">St. Marys (N.B.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref51" level="file">
+                    <did>
+                        <unittitle>Malecite Stories</unittitle>
+                        <unitid>05-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1972</unitdate>
+                        <physdesc id="ref52" label="General Physical Description note">
+                            <extent>00:25:46</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Polchic, Solomon</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Szabó, László</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref53">
+                        <head>Scope and Contents note</head>
+                        <p>Multiple unidentified texts in Malecite-Passamaquody only.</p>
+                    </scopecontent>
+                    <originalsloc id="ref55">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2347" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5535">
+                        <daodesc>
+                            <p>APSdigrec_2347</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Passamaquoddy language--Texts</subject>
+                        <geogname source="ingest">St. Marys (N.B.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref56" level="file">
+                    <did>
+                        <unittitle>Malecite Stories</unittitle>
+                        <unitid>05-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1972</unitdate>
+                        <physdesc id="ref57" label="General Physical Description note">
+                            <extent>00:28:07</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Polchic, Arthur</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Szabó, László</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref58">
+                        <head>Scope and Contents note</head>
+                        <p>Multiple unidentified texts in Malecite-Passamaquody only.</p>
+                    </scopecontent>
+                    <originalsloc id="ref60">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2348" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5538">
+                        <daodesc>
+                            <p>APSdigrec_2348</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Kingsclear (N.B.)</geogname>
+                        <subject source="lcsh">Passamaquoddy language--Texts</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref61" level="file">
+                    <did>
+                        <unittitle>Malecite Stories</unittitle>
+                        <unitid>06-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1972</unitdate>
+                        <physdesc id="ref62" label="General Physical Description note">
+                            <extent>00:30:53</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Polchic, Margaret</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Szabó, László</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref63">
+                        <head>Scope and Contents note</head>
+                        <p>Multiple unidentified texts in Malecite-Passamaquody only.</p>
+                    </scopecontent>
+                    <originalsloc id="ref65">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2349" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5536">
+                        <daodesc>
+                            <p>APSdigrec_2349</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Kingsclear (N.B.)</geogname>
+                        <subject source="lcsh">Passamaquoddy language--Texts</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref66" level="file">
+                    <did>
+                        <unittitle>Malecite Stories</unittitle>
+                        <unitid>06-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1972</unitdate>
+                        <physdesc id="ref67" label="General Physical Description note">
+                            <extent>00:23:32</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Polchic, Margaret</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Szabó, László</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref68">
+                        <head>Scope and Contents note</head>
+                        <p>Multiple unidentified texts in Malecite-Passamaquody only.</p>
+                    </scopecontent>
+                    <originalsloc id="ref70">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2350" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5537">
+                        <daodesc>
+                            <p>APSdigrec_2350</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Kingsclear (N.B.)</geogname>
+                        <subject source="lcsh">Passamaquoddy language--Texts</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

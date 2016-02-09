@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Film.526-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Film.526</num>
+                </titleproper>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T20:15-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Photographs of Allegany and Cornplanter Indians</unittitle>
+            <unitid>Mss.Film.526</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid13329001" type="Reel" label="Microform">1</container>
+            <physdesc>
+                <extent>1.0 Microfilm reel(s)</extent>
+            </physdesc>
+            <unitdate normal="1928/1929" type="inclusive">1928-1929</unitdate>
+            <abstract id="ref2" label="Abstract">C. 50 photographs of Allegany and Cornplanter Indians, etc., taken by Dorothy Skinner.</abstract>
+            <physdesc id="ref3" label="General Physical Description note">Film. ca. 50 items.</physdesc>
+            <physloc id="ref6" label="Paging">LH-RR-Media Rm-3</physloc>
+            <origination label="creator">
+                <persname source="ingest">Skinner, Dorothy P.</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref1">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by the Penn. State Museum, Dec. 1950.</p>
+        </acqinfo>
+        <otherfindaid id="ref4">
+            <head>Other Finding Aids note</head>
+            <p>Table of contents available.</p>
+        </otherfindaid>
+        <odd id="ref5">
+            <head>General note</head>
+            <p>Not located (see inventory of paper finding aids).</p>
+        </odd>
+        <dsc/>
+    </archdesc>
+</ead>

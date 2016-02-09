@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.H.S.Film.20-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.H.S.Film.20</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T20:16-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Sir Edwin Sabine correspondence, 1825-1854</unittitle>
+            <unitid>Mss.H.S.Film.20</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1932" type="Reel" label="Microform">1-6</container>
+            <physdesc>
+                <extent>6.0 Microfilm reel(s)</extent>
+            </physdesc>
+            <unitdate normal="1825/1854" type="inclusive">1825-1854</unitdate>
+            <abstract id="ref1" label="Abstract">This is professional correspondence to and from Sabine and numerous scientists, including H. Lloyd and James C. Ross.</abstract>
+            <physdesc id="ref8" label="General Physical Description note">6 microfilm reels.</physdesc>
+            <physloc id="ref9" label="Paging">LH-RR-Media Rm-7</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Sabine, Edward, Sir, 1788-1883</persname>
+            </origination>
+        </did>
+        <odd id="ref10">
+            <head>Early American History Note</head>
+            <p>This microfilm collection may be of interest to early American scholars.</p>
+        </odd>
+        <acqinfo id="ref7">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Acquired from the British Meteorological Archives, England, and accessioned, 1966 (1966 1584mf). See in-house shelf list for additional accession information.</p>
+        </acqinfo>
+        <bioghist id="ref5">
+            <head>Biographical/Historical note</head>
+            <p>Edward Sabine was a geophysicist and was president of the Royal Society; he was elected to the American Philosophical Society in 1841.</p>
+        </bioghist>
+        <originalsloc id="ref3">
+            <head>Existence and Location of Originals note</head>
+            <p>Originals in British Meteorological Archives, England.</p>
+        </originalsloc>
+        <controlaccess>
+            <famname source="ingest">Lloyd, H.</famname>
+            <persname rules="aacr" source="naf">Ross, James Clark, Sir, 1800-1862</persname>
+            <subject source="lcsh">Geophysics.</subject>
+            <subject source="lcsh">Magnetism -- Experiments.</subject>
+            <genreform source="leah">Microfilm Collection</genreform>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Temp5 .Misc Ms</num>
+                </titleproper>
+                <author>Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T21:21-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Vaughan Club papers, 1838-1841.</unittitle>
+            <unitid>Mss.Temp5 .Misc Ms</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid97852" type="Box" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>0.5 Linear feet</extent>
+            </physdesc>
+            <unitdate normal="1838/1841" type="inclusive">1838-1841</unitdate>
+            <abstract id="ref1" label="Abstract">There are letters, songs, menus, etc. Members included William Strickland, N. Chapman, A. D. Bache, R. Dunglison, and others, who brought their bottles already decanted and ready to drink.</abstract>
+            <physdesc id="ref2" label="General Physical Description note">17 items, ca. 50 p.</physdesc>
+            <origination label="creator">
+                <corpname rules="aacr" source="local" role="Author (aut)">Vaughan Club.</corpname>
+            </origination>
+        </did>
+        <acqinfo id="ref4">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Acquired, 1900.</p>
+        </acqinfo>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>The Vaughan Club was a social drinking club, named after the American Philosophical Society member and officer, John Vaughan, who, among other things, was a Philadelphia wine merchant.</p>
+        </bioghist>
+        <odd id="ref5">
+            <head>Early American History Note</head>
+            <p>The Papers of the Vaughan Club (1828-1841) are various records of this informal social club at the APS. There are copies of correspondence among members, songs that were sung at meetings, and menus and other items from their gatherings.</p>
+        </odd>
+        <controlaccess>
+            <genreform source="lcsh">Correspondence.</genreform>
+            <genreform source="leah">General Correspondence</genreform>
+            <genreform source="leah">Institutional Records</genreform>
+            <genreform source="lcsh">Menus.</genreform>
+            <genreform source="lcsh">Music--Scores. </genreform>
+            <subject source="leah">Philadelphia History</subject>
+            <subject source="leah">Social Life and Custom</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

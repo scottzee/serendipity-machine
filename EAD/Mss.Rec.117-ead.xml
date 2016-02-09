@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Rec.117</num>
+                    <num>Mss.Rec.117</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Brian Carpenter</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+                <date>February 2011</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T21:10-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>"The Good Message": A reading by Louise Deer of translation of the Handsome Lake Code</unittitle>
+            <unitid>Mss.Rec.117</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>1.0 Reel(s)</extent>
+            </physdesc>
+            <unitdate>1981</unitdate>
+            <abstract id="ref2" label="Abstract">A reading by Louise Deer of a Mohawk version of part of the first day of the recitation of the Handsome lake Code, written down at the Six Nations Reserve in Ontario in 1880 by Seth Newhouse. Recorded by Alice Hopkins in Brooklyn, New York, in 1981.</abstract>
+            <physdesc id="ref3" label="General Physical Description note">1 sound cassette (21 min.) : analog, 1 7/8 ips, stereo.</physdesc>
+            <physloc id="ref11" label="Paging">LH-B-32-3</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Speaker (spk)">Deer, Louise</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest" role="Author in quotations or text extracts (aqt)">Handsome Lake, 1735-1815</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Hopkins, Alice W.</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest" role="Transcriber (trc)">Newhouse, Seth</persname>
+            </origination>
+        </did>
+        <relatedmaterial id="ref4">
+            <head>Related Archival Materials</head>
+            <p>The compiler's notes, transcriptions of the original text in original transcription, modernized Mohawk orthography, phonemic represenation, English translation, and morphological analysis are available in the 
+                <extref ns2:actuate="onLoad" ns2:show="new" ns2:href="http://www.amphilsoc.org/mole/view?docId=ead/Mss.497.3.Am4-ead.xml">Phillips Fund Collection (Mss.497.3.Am4 no. 190)</extref>.</p>
+        </relatedmaterial>
+        <acqinfo id="ref5">
+            <head>Immediate Source of Acquisition</head>
+            <p>Donated by Alice W. Hopkins in 1981 (Acc. 1981 1390ms). This material was recorded with the assistance of a Phillips Fund grant.</p>
+        </acqinfo>
+        <controlaccess>
+            <subject source="ingest">Iroquois Indians--Religion</subject>
+            <subject source="ingest">Iroquois Indians--Rites and ceremonies</subject>
+            <subject source="lcsh">Mohawk language</subject>
+            <genreform source="ingest">Sound recordings</genreform>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref6" level="series">
+                <did>
+                    <unittitle>Audio recordings</unittitle>
+                </did>
+                <c02 id="ref7" level="file">
+                    <did>
+                        <unittitle>Karihwi:yo, "The Good Message"</unittitle>
+                        <unitid>01-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1981</unitdate>
+                        <physdesc id="ref8" label="General Physical Description note">
+                            <extent>00:21:03</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest" role="Speaker (spk)">Deer, Louise</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest" role="Creator (cre)">Hopkins, Alice W.</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref10">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3105" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3540">
+                        <daodesc>
+                            <p>APSdigrec_3105</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Brooklyn (N.Y.)</geogname>
+                        <subject source="ingest">Handsome Lake, 1735-1815</subject>
+                        <subject source="ingest">Iroquois Indians--Religion</subject>
+                        <subject source="ingest">Iroquois Indians--Rites and ceremonies</subject>
+                        <subject source="lcsh">Mohawk language</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

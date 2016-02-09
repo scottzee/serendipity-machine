@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.580.M58-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.580.M58</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:21-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Botanical journal in North America, 1787-1796</unittitle>
+            <unitid>Mss.580.M58</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="fre"/>
+            </langmaterial>
+            <container id="cid963" type="Volume" label="Manuscripts">1-9</container>
+            <physdesc>
+                <extent>9.0 Volume(s)</extent>
+                <extent>9 volumes, ca. 700 p. </extent>
+            </physdesc>
+            <unitdate normal="1787/1796" type="inclusive">1787-1796</unitdate>
+            <physdesc id="ref10" label="General Physical Description note">9 volumes, ca. 700 p.</physdesc>
+            <abstract id="ref1" label="Abstract">These journeys of botanical exploration include information regarding plants, and his remarks on the condition of remote settlements he visited. The journals cover the territory from Hudson's Bay to the Indian River in Florida, and from the Bahama Islands to the banks of the Mississippi.</abstract>
+            <physloc id="ref15" label="Paging">LH-MV-E-16 (580 M58); LH-B-31-7 (580 M58.f)</physloc>
+            <origination label="creator">
+                <persname source="naf" role="Author (aut)">Michaux, André, 1746-1802</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref9">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by Francois André Michaux, 1824; accessioned, 1900.</p>
+        </acqinfo>
+        <altformavail id="ref5">
+            <head>Existence and Location of Copies note</head>
+            <p>These volumes are also available on microfilm (Film 407).</p>
+        </altformavail>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>André Michaux was a French botanist and traveler.</p>
+        </bioghist>
+        <odd id="ref14">
+            <head>Early American History Note</head>
+            <p>The Collection consists of nine small journals Andre Michaux kept as he traveled throughout North America. His travels took him to places as far and wide as the Caribbean, Kentucky, and Hudson’s Bay. The journal has been printed in APS’s Proceedings 26 (1889):1. The Kentucky travels can be found in Reuben G. Thwaites’ Early Western Travels, 1748-1846.</p>
+        </odd>
+        <controlaccess>
+            <subject source="lcsh">Botany -- North America.</subject>
+            <subject source="lcsh">Discoveries in geography.</subject>
+            <genreform source="lcsh">Journals (notebooks).</genreform>
+            <subject source="leah">Natural History</subject>
+            <genreform source="leah">Scientific Data</genreform>
+            <subject source="leah">Travel</subject>
+            <genreform source="leah">Travel Narratives and Journals</genreform>
+            <geogname source="lcsh">United States -- Description and travel.</geogname>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref11" level="collection">
+                <did>
+                    <unittitle>Andre Michaux collection (copy)</unittitle>
+                    <unitid>580 M58.f</unitid>
+                    <langmaterial>
+                        <language langcode="eng"/>
+                    </langmaterial>
+                    <physdesc>
+                        <extent>1.0 Linear feet</extent>
+                    </physdesc>
+                    <unitdate normal="1785/1807" type="inclusive">1785-1807</unitdate>
+                    <abstract id="ref12" label="Abstract">Documents relative to his botanical activities in the United States. Printed pages of film 330.</abstract>
+                    <origination label="creator">
+                        <persname source="naf" role="Author (aut)">Michaux, André, 1746-1802</persname>
+                    </origination>
+                </did>
+                <originalsloc id="ref13">
+                    <head>Existence and Location of Originals note</head>
+                    <p>From originals in the Archives nationales and Bibliotheque nationale, Paris.</p>
+                </originalsloc>
+                <controlaccess>
+                    <subject source="lcsh">Botany</subject>
+                </controlaccess>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.W437-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.W437</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T20:07-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Paul A. Weiss manuscripts, 1966-1971</unittitle>
+            <unitid>Mss.B.W437</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1646" type="Box" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>0.25 Linear feet</extent>
+                <extent>4 items, ca. 190 p.</extent>
+            </physdesc>
+            <unitdate normal="1966/1971" type="inclusive">1966-1971</unitdate>
+            <abstract id="ref8" label="Abstract">These are four annotated manuscripts of published articles, including reprints: "Bringing the Public to Science" (1966), "A Cell is not an island of itself" (1971), "Neural development in biological perspective" (1970), and "One plus one does not equal two" (1971).</abstract>
+            <physdesc id="ref15" label="General Physical Description note">4 items, ca. 190 p.</physdesc>
+            <physloc id="ref16" label="Paging">LH-MV-B-3</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Weiss, Paul A.,1898-</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref14">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by Paul A. Weiss and accessioned, 03/01/1977 (1977 1331ms).</p>
+            <p></p>
+        </acqinfo>
+        <bioghist id="ref10">
+            <head>Biographical/Historical note</head>
+            <p>Paul A. Weiss was a biologist.</p>
+        </bioghist>
+        <controlaccess>
+            <subject source="lcsh">Biology.</subject>
+            <subject source="lcsh">Science.</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

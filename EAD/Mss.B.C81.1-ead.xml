@@ -1,0 +1,1892 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.C81.1-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.C81.1</num>
+                </titleproper>
+                <author>Finding aid prepared by Anne Harney. Revised by Friederike Baer (NEH 2010).</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T19:04-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>José Francisco Correia da Serra papers, 1772-1827</unittitle>
+            <unitid>Mss.B.C81.1</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="por"/>
+            </langmaterial>
+            <container id="cid633" type="Box" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>0.5 Linear feet</extent>
+                <extent>200 items</extent>
+            </physdesc>
+            <unitdate normal="1772/1827" type="inclusive">1772-1827</unitdate>
+            <physdesc id="ref3" label="General Physical Description note">Circa 200 items, mostly transcripts and photocopies of letters; seven mss. letters (formerly B C81.2-8).</physdesc>
+            <abstract id="ref1" label="Abstract">Transcripts and photocopies of Correia de Serra correspondence, made by Richard B. Davis for "The Abbé Correa in America," APS 
+                <emph render="italic">Transactions</emph> 45, 2 (1955). Seven mss. letters are also included.</abstract>
+            <langmaterial id="ref6" label="Language of Materials note">Collection is in Portugese, Latin, French, and English.</langmaterial>
+            <physloc id="ref359" label="Paging">LH-B-16-4</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Adams, John Quincy, 1767-1848 </persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Cooper, Thomas, 1759-1839</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Correia da Serra, José Francisco, 1750-1823</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Corrêa da Serra, Edward J. </persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest" role="Correspondent (crp)">Du Ponceau , Peter Stephen, 1760-1844</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Humboldt, Alexander von, 1769-1859</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Jefferson, Thomas, 1743-1826</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="local" role="Correspondent (crp)">Linnaeus , Carl </persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Madison, James, 1751-1836</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Monroe, James, 1758-1831</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Muhlenberg, Gotthilf Henrich Ernst, 1753-1815</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Ord, George, 1781-1866 </persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Rawle, William, 1759-1836</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Rush, Richard</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Skipwith, Fulwar, 1765-1839</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Smith, James Edward, Sir, 1759-1828</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Vaughan, John, 1756-1841</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Walsh, Robert, 1784-1859</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="local" role="Correspondent (crp)">Wistar, Caspar, 1761-1818</persname>
+            </origination>
+        </did>
+        <bioghist id="ref4">
+            <head>Biographical/Historical note</head>
+            <p>José Francisco Correia da Serra (1750–1823, APS 1812) was an abbot, diplomat, scholar and botanist. In his work as a botanist he was particularly concerned with the systematic classification of vegetable species. Thomas Jefferson described him as “profoundly learned in several branches of science he was so above all others in that of Botany; in which he preferred an amalgamation of the methods of Linnaeus [1707-1778, APS 1769] and of Jussieu [1686-1758] to either of them exclusively.” Correia spent many years of his life in France, England and the United States where he made the acquaintance of leading European and American intellectual leaders of the time.</p>
+            <p>Correia was born in Serpa, Portugal, to the physician and lawyer Luis Dias Correia and Francisca Luisa da Serra. In 1756 the family was forced to leave Portugal because the elder Correia’s scientific work had incurred the displeasure of the Holy Office. They settled in Naples, Italy, where the boy came under the tutelage of the abbé and university professor of “Commerce and mechanics” Antonio Genovesi (1712-1769), a major force in the Neapolitan Enlightenment. During this time Correia was also taught in natural history by the botanist Luis Antonio Verney (1713-1792). In 1772 Correia moved to Rome where he studied at the University and other institutions. By that time he was already corresponding with Carl Linnaeus, in Latin. He also made the acquaintance of Don John Carlos of Braganza, second Duke of Lafoens, a member of the Portuguese royal family. The Duke became Correia’s friend and patron.</p>
+            <p>In 1775 Correia was ordained a Presbyterian abbot; two years later he received the degree of Doctor of Laws. However, it was clear that Correia’s real interest was natural history, especially botany, and that he did not plan to pursue a life in the church. In fact, some of his biographers have suggested that he focused on ecclesiastical studies mainly in order to protect himself in his scientific work from potential suspicions by the Inquisition. Whatever the case, in early 1778 the young abbé, with encouragement from the duke, who hoped to encourage scientific research in Portugal, moved to Lisbon. There he turned his attention to scholarly pursuits and diplomacy.</p>
+            <p>Correia and the duke set out right away to organize the Royal Academy of Sciences of Lisbon, a learned institution that was dedicated to the advancement of science. Correia also conducted botanical research. He spent the period from 1786 to about 1788 outside of Portugal, and while his activities during this period remain unclear, there is evidence that he visited Rome. In the mid-1790s, after his return to his native country, he began the task of editing what would be the first three of five volumes of 
+                <emph render="italic">Colleccao de livros ineditos da historia Portugueza</emph>, an extensive collection of documents.</p>
+            <p>In 1795 political difficulties compelled Correia to leave Portugal. The Royal Academy and many of its members were viewed with suspicion by certain ecclesiastical groups, especially after Correia befriended the French naturalist and Girondist Peter Marie Auguste Broussonet (1761-1807), who had taken refuge in Portugal. Armed with letters of introduction to several British scientists, Correia traveled to London. He soon became the protégé of Sir Joseph Banks (1743-1820, APS 1787), president of the Royal Society, who facilitated Correia’s election to the Society. He also was welcomed by James Edward Smith (1759-1828, APS 1796), president of the Linnean Society. By then, Correia was already publishing on various natural science topics, especially botany, which contributed to his growing reputation as a naturalist.</p>
+            <p>For about one year during his residence in London, Correia also served as Secretary to the Portuguese embassy. However, tensions with the conservative Minister compelled him to depart from England in 1802. In the summer of that year, Correia moved to Paris. There he made the acquaintance of leading scientists and other public figures. The list includes Pierre Samuel Du Pont de Nemours (1739–1817, APS 1800), the Marquis de Lafayette (1757-1834, APS 1781), Alexander von Humboldt (1769-1859, APS 1804), the French naturalist Georges Cuvier (1769-1832), Augustin Pyrame de Candolle (1778-1841, APS 1841), and André Thouin (1746-1824), superintendent of the 
+                <emph render="italic">Jardin du Roi</emph>, now known as 
+                <emph render="italic">Jardin des Plantes</emph>, in Paris. Correia also met Esther Delavigne, who eventually became his lover.</p>
+            <p>Of particular importance to Correia was his extensive correspondence with friends in Portugal that he maintained throughout his time in London, Paris and then the United States. Through his contact with them he hoped to bring the latest scientific ideas and discoveries to his mother country. His letters are filled with news of new vaccines, maritime maps, instruments, and anything else that he thought might serve to aid the progress of Portugal. Correia’s wide-ranging contacts with fellow botanists made him an important intermediary in the exchanges between naturalists in different parts of the world. In 1807 his own government recognized his contributions by making him a Knight of the Order of Christ.</p>
+            <p>Overall, Correia’s time in Paris was happy and fruitful. However, life as a liberal under Napoleon was not easy, and Correia soon began to explore the possibility of relocating once again, this time to the United States. Finally, in the winter of 1811, the abbé was aboard the 
+                <emph render="italic">U.S.S. Constitution</emph>, on his way to what would become a particularly interesting period in his life.</p>
+            <p>Correia arrived in Washington, D. C., in early 1812, and he did not lose time in making the acquaintance of leading Americans, including President James Madison. He was anxious to visit Thomas Jefferson but owing to the fact that Philadelphia was the intellectual center of the new nation, he decided to establish himself there first. His European friends had already announced Correia’s imminent arrival to several prominent Philadelphians, including the physicians Benjamin Rush (1745-1813, APS 1768) and Caspar Wistar (1761-1818, APS 1787), and John Vaughan (1756–1841, APS 1784), the treasurer and librarian of the American Philosophical Society. The abbé was elected a member of the Society in January of 1812, before his arrival in the city. He became close friends with Vaughan who soon handled his business affairs and advised him in all kinds of matters. Correia also got to know the botanist Henry Muhlenberg (1753-1815, APS 1785), who introduced him to the physician and botanist Jacob Bigelow (1787-1879, APS 1818). And he reconnected with several Philadelphians he knew from his time in Paris, including the lawyer and financier Nicholas Biddle (1786-1844, APS 1813), and William Short (1759-1849, APS 1804), Jefferson’s private secretary in Paris. Life in Philadelphia was clearly enjoyable for the Portuguese exile but he remained anxious to visit “the great the truly great Mr. Jefferson.” In July of 1813 he left for Virginia for the first of what would eventually be seven visits over a period of about eight years.</p>
+            <p>Jefferson had been introduced to Correia in glowing letters from Lafayette, Du Pont, Thouin, and Humboldt. It is not surprising, then, that Jefferson received the visitor with warmth and great expectations. They were not disappointed. Jefferson described his guest as “the best digest of science in books, men, and things that I have ever met with; and with these the most amiable and engaging character.” The room in which Correia stayed during his visits to Monticello, the North Square Room, is still known as the Abbé’s room. Correia spent much of his time in Virginia on rambles through the country, often in the company of Thomas Mann Randolph (1768-1828, APS 1794). His interest in natural history eventually also took him to Kentucky, Georgia and north to the Canadian border.</p>
+            <p>Through Jefferson, Correia made the acquaintance of Francis Walker Gilmer (1790-1826), a promising young man who readily accepted the abbé’s invitation to accompany him on his excursions. In 1816 President Madison asked the two men to deliver a letter from him to the agent of the Cherokee, in the southeastern United States. In the course of their journey through South Carolina and Georgia, they made extensive botanical notations, and Gilmer also recorded several pages of Cherokee vocabulary.</p>
+            <p>In 1816 Correia received news of his appointment as Portuguese minister-plenipotentiary at Washington, D. C. His expectation that this post would not interfere with his scientific pursuits turned out to be mistaken, even though he never spent more than half a year in the nation’s capital. From the start he was forced to deal with complaints about privateers flying foreign flags who were threatening the Portuguese colonies in South America. The fear was that these privateers, many of whom were American, could encourage and aid a rebellion in Brazil. Correia successfully lobbied the U. S. government for a Neutrality Act that was designed to curb these actions.</p>
+            <p>In the late 1810s, increasing worries about the turn of Portuguese-American affairs and serious health problems gradually made the abbé’s temper shorter and his spirits lower. He also ultimately became a severe critic of America and Americans, an attitude that contributed to his estrangement from some of his older American friends. However, he also found comfort in new relationships with, for example, the English-born chemist and lawyer Thomas Cooper (1759-1839, APS 1802). Most significantly, Edward Joseph, his fifteen-year old son with his lover Esther Delavigne arrived in the United States from Paris in 1818. Edward, who stayed with his father until their return to Europe, got to know many of his Philadelphia friends quite well. In 1820 father and son sailed from the United States for Portugal via London, a year after Correia had learned of his appointment as Counselor of State for Brazil. Correia spent the last three years of his life in Lisbon, “covered with honors,” as his son Edward wrote in a letter to John Vaughan. He died in Lisbon in 1823.</p>
+            <p>Correia published many essays and reports on botany in the leading European and American scientific journals of his time. His research centered on the systematic classification of vegetable species. In his work he attempted to apply the methods of compared anatomy of zoology to botany; he sought to group plants into families based on their similarities. His concept of symmetry was later adopted and developed by Candolle. While Correia was not “a member of every philosophical society in the world,” as his young protégé Gilmer wrote enthusiastically in a letter to his brother, he did belong to numerous learned societies. They included the Royal Society, the Linnean Society, the Academy of Science of Paris, and the Société Philomatique. He also offered several courses in botany at the American Philosophical Society.</p>
+        </bioghist>
+        <scopecontent id="ref7">
+            <head>Scope and Contents note</head>
+            <p>The collection consists primarily of letters and essays on matters related to botany as well as Correia’s role as Minister Plenipotentiary to the United States. They were written between 1772 and 1827. Also included are several letters and notes by Richard Beale and other persons about Davis’s research on Correia, dated 1949 to 1957. The collection includes a typed table of contents (1958).</p>
+            <p>The largest single group of letters (25) was written by Correa to John Quincy Adams between 1817 and 1820, when Correia served as Minister Plenipotentiary. They concern official business, including the appointment of various officials and, most prominently, the persistent troubles with American privateers and Correia’s efforts to get the American government to do something about it. Other noteworthy items dealing with official business include a letter by Correia to James Monroe in which he protests a number of assaults by American privateers on Portuguese vessels (1816), and several letters to Secretary of State Richard Rush in which Correia expresses his displeasure about the support given by American citizens to “rebels” in the Portuguese colony of Pernambuco (1817). A letter by Rush to Madison testifies to Correia’s persistence; Rush writes that among the foreign ministers, “the Abbe Correa was the one with whom my official relations were the least smooth” (1817). Correa, in turn, complained to John Quincy Adams in 1819 that “during more than two years, I have been obliged by my duty to oppose the systematic and organized depredations daily committed on the property of Portuguese subjects.” Of interest is also a letter to the Count of Palmela in which Correia assesses the policies of various colonial governments in the West Indies (1820).</p>
+            <p>Another significant body of letters is addressed to James Edward Smith, a botanist and founder of the Linnean Society in London. The letters, which are dated between 1795 and 1821, deal primarily with botanical matters, including news about fellow botanists, such as Antoine Laurent de Jussieu (1800). The letters are friendly and frequently also include personal news. The letter of September 1801 deals with Correia’s troubles in Portugal.</p>
+            <p>The collection includes several letters by Correia to Thomas Jefferson. They are friendly letters that reflect their shared interests in the natural sciences. In one letter, for example, Correia writes about his pleasure of sending notes on Captain Lewis’s papers to Jefferson (1816), and another one describes Correia’s intention of visiting Monticello (1818). There is also an undated list of books forwarded to Jefferson.</p>
+            <p>Items that reflect Correia’s interest in the natural sciences generally, and botany specifically, include three letters by Correia to Carl Linnaeus when Correia was still a student in Rome (1772, 1773, 1774). Written in Latin, the letters deal with botanical topics. A letter to Joseph Banks, written while Correia resided in Philadelphia, refers to seeds and papers that Correia had sent to London (1803), and an undated note in French confirms Correia’s dinner appointment with Alexander von Humboldt.</p>
+            <p>Several letters shed light on Correia’s interest in and affection for the United States. A letter to Fulwar Skipwith refers to Correia’s idea of living in America as “the utmost of my wishes” and his belief that only an official invitation by the government would make this possible (1808). There is also a letter of introduction for Correia by J. Dauxion Lavaysse, addressed to Benjamin Rush (1811), and a letter of introduction for Robert M. Patterson by Correia, addressed to Smith (1811). A letter written in 1814 refers to Correia’s difficulty of sending money to Paris during Jefferson’s embargo. Also of note is a letter to President Madison in which Correia offers suggestions on how the United States could take advantage of its mineral resources as well as lands as sources of revenue (1814). Correia comments extensively on the “new faculty” of the University of Pennsylvania in a letter to William Rawle (1816). A letter of condolence to Elizabeth Mifflin Wistar speaks to his friendship with the Philadelphia physician Caspar Wistar (1818). The collection also includes an obituary of C. Wistar written by Correia (1818).</p>
+            <p>Letters written by individuals other then Correia include one by Joseph Banks (1810, in French), and a letter by Joseph Rademaker, Consul general of Portugal, to Secretary of State James Monroe (1816?). There is a group of letters exchanged between Thomas Cooper and Thomas Jefferson which deal with the University of Virginia, including matters relating to the faculty and Cooper’s efforts to secure minerals and works of art (1817-1819). One letter from John Vaughan to Jefferson suggests Landeren Vanapan, who had been recommended by Correia, for a position at the university (1821), and another one by Jefferson to Robert Walsh declines Walsh’s request for material on Jefferson’s life, due primarily to Jefferson’s advanced age and poor health (1823). A friendly letter by Jefferson to Walsh mentions Correia as well as a book on skepticism that Jefferson had recently read (1818). There are also five letters by Henry Muhlenberg to Stephen Elliott, dealing with botanical matters (1812, 1813, 1814). Finally, a particularly heartfelt letter by Francis W. Gilmer informs Dabney Carr of Correia’s departure from the United States in 1820.</p>
+            <p>Also included in the collection are essays by Correia on several topics, including the “Natural Family of the Aurantia” (1799), the Doryantes (1800), botany (in Latin, undated), “The case of the Brazilian Indian,” and “A description of great English houses and gardens.” There are also reports that Correia prepared for the APS, and there is a dedication to several individuals, including Correia, that was included in Thomas Nuttall’s 
+                <emph render="italic">Journal of the Travels</emph> (1821).</p>
+        </scopecontent>
+        <acqinfo id="ref2">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by Richard Beale Davis and accessioned, 1958 (1958 1046).</p>
+        </acqinfo>
+        <originalsloc id="ref5">
+            <head>Existence and Location of Originals note</head>
+            <p>Location of originals note in item description, if known.</p>
+        </originalsloc>
+        <odd id="ref360">
+            <head>Early American History Note</head>
+            <p>This manuscript collection falls outside the geographic scope of the Early American guide (British North America and the United States before 1840). It may be of interest to scholars interested in global history, international relations, imperialism, or the U.S. in the world.</p>
+        </odd>
+        <controlaccess>
+            <subject source="leah">Beyond Early America</subject>
+            <subject source="lcsh">Natural history.</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref8" level="series">
+                <did>
+                    <unittitle>Papers</unittitle>
+                </did>
+                <c02 id="ref15" level="file">
+                    <did>
+                        <unittitle>Letter to Carolus Linnaeus;</unittitle>
+                        <unitdate>March 28, 1772</unitdate>
+                        <physdesc id="ref16" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Correia da Serra, José Francisco, 1750-1823</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref17">
+                        <head>Scope and Contents note</head>
+                        <p>Rome, Typed L. 1p. Copy. In Latin. (see Correa de Serra. Letters...)</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref18" level="file">
+                    <did>
+                        <unittitle>Letter to Carolus Linnaeus;</unittitle>
+                        <unitdate>Sept. 15, 1773</unitdate>
+                        <physdesc id="ref19" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Correia da Serra, José Francisco, 1750-1823</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref20">
+                        <head>Scope and Contents note</head>
+                        <p>Rome, Typed L. 4p. Copy. In Latin. (see Correa de Serra. Letters...) Concerning botany.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref21" level="file">
+                    <did>
+                        <unittitle>Letter to Carolus Linnaeus;</unittitle>
+                        <unitdate>Jan. 22, 1774</unitdate>
+                        <physdesc id="ref22" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Correia da Serra, José Francisco, 1750-1823</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref23">
+                        <head>Scope and Contents note</head>
+                        <p>(?). Typed L. 2p. In Latin. Copy. (see Correa de Serra. Letters...) Concerning botany.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref24" level="file">
+                    <did>
+                        <unittitle>Letter to [Sir James E. Smith];</unittitle>
+                        <unitdate>June 15, 1795</unitdate>
+                        <physdesc id="ref25" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Correia da Serra, José Francisco, 1750-1823</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref26">
+                        <head>Scope and Contents note</head>
+                        <p>London, Typed L. 2p. Copy. (see Correa de Serra. Letters...) Friendly letter.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref27" level="file">
+                    <did>
+                        <unittitle>Letter to [Sir] J[ames] E. Smith;</unittitle>
+                        <unitdate>Jan. 30, 1797</unitdate>
+                        <physdesc id="ref28" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Correia da Serra, José Francisco, 1750-1823</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref29">
+                        <head>Scope and Contents note</head>
+                        <p>London, Typed L. 3p. Copy. (see Correa de Serra. Letters...) Concerning various items of natural history and philosophy. Friendly letter.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref30" level="file">
+                    <did>
+                        <unittitle>Letter to [Sir] James Edward Smith, Norwich;</unittitle>
+                        <unitdate>March 23, 1797</unitdate>
+                        <physdesc id="ref31" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Correia da Serra, José Francisco, 1750-1823</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref32">
+                        <head>Scope and Contents note</head>
+                        <p>London, Typed.L. 4p. Copy. (see Correa de Serra. Letters...) Has the Lisbon academy diploma for him and can get their publications,as J.Banks has. Botanical news.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref33" level="file">
+                    <did>
+                        <unittitle>On two Genera of...Aurantia;</unittitle>
+                        <unitdate>July 2, 1799</unitdate>
+                        <physdesc id="ref34" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Correia da Serra, José Francisco, 1750-1823</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref35">
+                        <head>Scope and Contents note</head>
+                        <p>read Typescript. 17p. (see Correa de Serra. Letters . . .) Printed: Linnean society of London. Trans., v.5, 218.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref36" level="file">
+                    <did>
+                        <unittitle>Letter to [Sir James E. Smith?];</unittitle>
+                        <unitdate>July 26, 1800</unitdate>
+                        <physdesc id="ref37" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Correia da Serra, José Francisco, 1750-1823</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref38">
+                        <head>Scope and Contents note</head>
+                        <p>London, Typed L. 3p. Copy. (see Correa de Serra. Letters...) Botanical news. Friendly letter. Refers to Mr. de Souza.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref39" level="file">
+                    <did>
+                        <unittitle>Letter to [Sir James Edward] Smith;</unittitle>
+                        <unitdate>Sept. 3, 1800</unitdate>
+                        <physdesc id="ref40" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Correia da Serra, José Francisco, 1750-1823</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref41">
+                        <head>Scope and Contents note</head>
+                        <p>London, Typed L. 2p. Copy. (see Correa de Serra. Letters...) Botanical news. Will forward parcel.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref42" level="file">
+                    <did>
+                        <unittitle>On the Doryanthes...;</unittitle>
+                        <unitdate>Dec. 2, 1800</unitdate>
+                        <physdesc id="ref43" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Correia da Serra, José Francisco, 1750-1823</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref44">
+                        <head>Scope and Contents note</head>
+                        <p>[read] Typescript. 7p. (see Correa de Serra. Letters...) Printed: Linnean society of London. Trans., v.6, 211.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref45" level="file">
+                    <did>
+                        <unittitle>Letter to [Sir James E. Smith];</unittitle>
+                        <unitdate>Sept. 15, 1801</unitdate>
+                        <physdesc id="ref46" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Correia da Serra, José Francisco, 1750-1823</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref47">
+                        <head>Scope and Contents note</head>
+                        <p>London, Typed L. 2p. Copy. (see Correa de Serra. Letters...) Printed in part: Davis. Correa in America... APS Trans.,n.s.,v.45, 1955, p.94.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref48" level="file">
+                    <did>
+                        <unittitle>Letter to Sir Joseph Banks, bart.;</unittitle>
+                        <unitdate>Oct. 7, 1803</unitdate>
+                        <physdesc id="ref49" label="General Physical Description note">10x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Correia da Serra, José Francisco, 1750-1823</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref50">
+                        <head>Scope and Contents note</head>
+                        <p>Paris, Typed L. 1p. Copy. (see Correa de Serra. Letters...) Forwards papers and seeds.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref51" level="file">
+                    <did>
+                        <unittitle>Letter to [Sir] J[ames] E. Smith;</unittitle>
+                        <unitdate>Jan. 26, 1807</unitdate>
+                        <physdesc id="ref52" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Correia da Serra, José Francisco, 1750-1823</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref53">
+                        <head>Scope and Contents note</head>
+                        <p>Leeds, Typed L. 6p. Copy. (see Correa de Serra. Letters...) Identification of a plant mentioned in antiquity.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref54" level="file">
+                    <did>
+                        <unittitle>Letter to [Fulwar] Skipwith;</unittitle>
+                        <unitdate>Sept. 4, 1808</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Correia da Serra, José Francisco, 1750-1823</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref55">
+                        <head>Scope and Contents note</head>
+                        <p>Paris, Photostat of A.L.S. 2p.and add.and end. by Robert Gilmor. (see Correa de Serra. Letters...) Printed: Davis. Correa in America... APS Trans.,n.s.,45,1955, p.123. From original in Historical society of Pennsylvania.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref56" level="file">
+                    <did>
+                        <unittitle>Letter to ----;</unittitle>
+                        <unitdate>April 7, 1810</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Banks, Joseph, 1743-1820</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref57">
+                        <head>Scope and Contents note</head>
+                        <p>Photostat of A.L.S. 2p. In French. (see Correa de Serra. Letters.) Concerning botany. From original in the Gray Herbarium at Harvard University.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref58" level="file">
+                    <did>
+                        <unittitle>Letter to [Sir James E. Smith?];</unittitle>
+                        <unitdate>Oct. 31, 1811</unitdate>
+                        <physdesc id="ref59" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Correia da Serra, José Francisco, 1750-1823</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref60">
+                        <head>Scope and Contents note</head>
+                        <p>Paris, Typed L. 2p. Copy. (see Correa de Serra. Letters...) Introduces R.M. Patterson.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref61" level="file">
+                    <did>
+                        <unittitle>Letter to Benj[amin] Rush, Philadelphia;</unittitle>
+                        <unitdate>Dec. 17, 1811</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Dauxion Lavaysse, J.-J. (Jean-J.), ca. 1770-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref62">
+                        <head>Scope and Contents note</head>
+                        <p>Paris, Photostat of A.L.S. 2p.and add.,end. (see Correa de Serra. Letters...) Introduces Correa de Serra. From original in Library Company of Philadelphia.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref63" level="file">
+                    <did>
+                        <unittitle>Letter to Stephen Elliott, Beaufort, S.C.;</unittitle>
+                        <unitdate>Oct. 5, 1812</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Muhlenberg, Henry, 1753-1815</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref64">
+                        <head>Scope and Contents note</head>
+                        <p>Lancaster, Photostat of A.L.S. 3p.and add. (see Correa de Serra. Letters...) Botanical news. Refers to Correa de Serra and Michaux. From originals in Arnold Arboretum, Harvard University.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref65" level="file">
+                    <did>
+                        <unittitle>Letter to Stephen Elliott, Beaufort, S.C.;</unittitle>
+                        <unitdate>Nov. 11, 1812</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Muhlenberg, Henry, 1753-1815</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref66">
+                        <head>Scope and Contents note</head>
+                        <p>Lancaster, Photostat of A.L.S. 3p.and add., end. (see Correa de Serra. Letters...) Botanical news. Refers to Lewis's Travels, Z.Collins, and Correa de Serra. From original in Arnold Arboretum, Harvard University.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref344" level="file">
+                    <did>
+                        <unittitle>Letter to Augustin Pyrame de Candolle</unittitle>
+                        <unitdate>December 1, 1812</unitdate>
+                        <langmaterial id="ref346" label="Language of Materials note">In French.</langmaterial>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Correia da Serra, José Francisco, 1750-1823</persname>
+                        </origination>
+                    </did>
+                    <odd id="ref345">
+                        <head>General note</head>
+                        <p>Formerly B C81.5</p>
+                    </odd>
+                </c02>
+                <c02 id="ref67" level="file">
+                    <did>
+                        <unittitle>Letter to Stephen Elliott, Beaufort, S.C.;</unittitle>
+                        <unitdate>Jan. 14, 1813</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Muhlenberg, Henry, 1753-1815</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref68">
+                        <head>Scope and Contents note</head>
+                        <p>Lancaster, Photostat of A.L.S. 3p.and add.,end. (see Correa de Serra. Letters...) Botanical news. Refers to the APS and Z. Collins. From original in Arnold Arboretum, Harvard University.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref347" level="file">
+                    <did>
+                        <unittitle>Letter to Augustin Pyrame de Candolle</unittitle>
+                        <unitdate>January 29, 1813</unitdate>
+                        <langmaterial id="ref349" label="Language of Materials note">In French.</langmaterial>
+                    </did>
+                    <odd id="ref348">
+                        <head>General note</head>
+                        <p>Formerly B C81.6.</p>
+                    </odd>
+                </c02>
+                <c02 id="ref69" level="file">
+                    <did>
+                        <unittitle>Letter to Stephen Elliott, Charleston;</unittitle>
+                        <unitdate>May 17, 1813</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Muhlenberg, Henry, 1753-1815</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref70">
+                        <head>Scope and Contents note</head>
+                        <p>Lancaster, Photostat of A.L.S. 2p.and add., end. (see Correa de Serra. Letters...) Botanical news. Concerning Z. Collins. Refers to Correa de Serra. From original in Arnold Arboretum, Harvard University.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref338" level="file">
+                    <did>
+                        <unittitle>Letter to Monsieur at ami</unittitle>
+                        <unitdate>June 24, 1813</unitdate>
+                    </did>
+                    <odd id="ref339">
+                        <head>General note</head>
+                        <p>Formerly B C81.3.</p>
+                    </odd>
+                    <scopecontent id="ref340">
+                        <head>Scope and Contents note</head>
+                        <p>In French.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref71" level="file">
+                    <did>
+                        <unittitle>Letter to Tho[ma]s Jefferson;</unittitle>
+                        <unitdate>June 26, 1813</unitdate>
+                        <physdesc id="ref72" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Carr, Frank</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref73">
+                        <head>Scope and Contents note</head>
+                        <p>Charlottesville, Typed L. 1p.with [typed] end.: The specimen sent to Mr. Correa at Philadelphia. Copy. (see Correa de Serra. Letters...) Encloses mineral.</p>
+                    </scopecontent>
+                    <odd id="ref356">
+                        <head>General note</head>
+                        <p>Not located April 2010.</p>
+                    </odd>
+                </c02>
+                <c02 id="ref350" level="file">
+                    <did>
+                        <unittitle>Letter to Augustin Pyrame de Candolle</unittitle>
+                        <unitdate>September 9, 1813</unitdate>
+                        <langmaterial id="ref352" label="Language of Materials note">In French.</langmaterial>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Correia da Serra, José Francisco, 1750-1823</persname>
+                        </origination>
+                    </did>
+                    <odd id="ref351">
+                        <head>General note</head>
+                        <p>Formerly : B C81.7.</p>
+                    </odd>
+                </c02>
+                <c02 id="ref74" level="file">
+                    <did>
+                        <unittitle>Letter to [Sir] James Edward Smith;</unittitle>
+                        <unitdate>Nov. 18, 1813</unitdate>
+                        <physdesc id="ref75" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Correia da Serra, José Francisco, 1750-1823</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref76">
+                        <head>Scope and Contents note</head>
+                        <p>Boston, Typed L. 2p. Copy. (see Correa de Serra. Letters...) Printed in part: Davis. Correa in America... APS Trans.,n.s.,45.1955, p.114.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref77" level="file">
+                    <did>
+                        <unittitle>Letter to Messrs. Le Roy, Boyard &amp; McEvery;</unittitle>
+                        <unitdate>April 28, 1814</unitdate>
+                        <physdesc id="ref78" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Correia da Serra, José Francisco, 1750-1823</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref79">
+                        <head>Scope and Contents note</head>
+                        <p>Philadelphia, Typed L. 1p. Copy. (see Correa de Serra. Letters...) Business.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref80" level="file">
+                    <did>
+                        <unittitle>Letter to Stephen Elliott, Charleston;</unittitle>
+                        <unitdate>July 13, 1814</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Muhlenberg, Henry, 1753-1815</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref81">
+                        <head>Scope and Contents note</head>
+                        <p>Lancaster, Photostat of A.L.S. 3p.and add.,end. (see Correa de Serra. Letters...) Botanical news. Refers to Z.Collins and Correa de Serra. From original in Arnold Arboretum, Harvard University.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref82" level="file">
+                    <did>
+                        <unittitle>Letter to [James Madison];</unittitle>
+                        <unitdate>Dec. 10, 1814</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Correia da Serra, José Francisco, 1750-1823</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref83">
+                        <head>Scope and Contents note</head>
+                        <p>Philadelphia, Photostat of A.L.S. 6p.and end. (see Correa de Serra. Letters...) Printed: Davis. Correa in America... APS Trans., n.s.,45, 1955, pp.132-134. From original in Library of Congress.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref353" level="file">
+                    <did>
+                        <unittitle>Letter to Augustin Pyrame de Candolle</unittitle>
+                        <unitdate>April 8, 1815</unitdate>
+                        <langmaterial id="ref355" label="Language of Materials note">In French.</langmaterial>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Correia da Serra, José Francisco, 1750-1823</persname>
+                        </origination>
+                    </did>
+                    <odd id="ref354">
+                        <head>General note</head>
+                        <p>Formerly B C81.8.</p>
+                    </odd>
+                </c02>
+                <c02 id="ref84" level="file">
+                    <did>
+                        <unittitle>Report of committee on a paper relative to a species of Malaxis, by W.P.S.Barton;</unittitle>
+                        <unitdate>Aug. 10, 1815</unitdate>
+                        <physdesc id="ref85" label="General Physical Description note">9x6-1/2</physdesc>
+                        <origination label="creator">
+                            <corpname source="ingest">American Philosophical Society</corpname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref86">
+                        <head>Scope and Contents note</head>
+                        <p>D.S.: .J.Correa de Serra and Zaccheus Collins. 2p.and end. ----Typescript. (see Correa de Serra. Letters...)</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref87" level="file">
+                    <did>
+                        <unittitle>Letter to [Augustin Pyrame] De Candolle Montpellier;</unittitle>
+                        <unitdate>Nov. 7, 1815</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Correia da Serra, José Francisco, 1750-1823</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref88">
+                        <head>Scope and Contents note</head>
+                        <p>Charleston, Photostat of A.L.S. 1p.and add., end. In French. (see Correa de Serra. Letters.) Wishes him to correspond with Stephen Elliott. From original in Gray Herbarium, Harvard University.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref89" level="file">
+                    <did>
+                        <unittitle>Letter to [William Rawle];</unittitle>
+                        <unitdate>March 14, 1816</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Correia da Serra, José Francisco, 1750-1823</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref90">
+                        <head>Scope and Contents note</head>
+                        <p>Photostat of A.L.S. 4p. (see Correa de Serra. Letters...) Printed: Davis, Correa in America... APS Trans.n.s., 45, 1955, pp.145-147. (from original in University of Pennsylvania Archives.)</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref91" level="file">
+                    <did>
+                        <unittitle>Report of committee on the memorial relative to the first discovery of the new genus of plants called Bartonia;</unittitle>
+                        <unitdate>March 15, 1816</unitdate>
+                        <physdesc id="ref92" label="General Physical Description note">10x8</physdesc>
+                        <origination label="creator">
+                            <corpname source="ingest">American Philosophical Society</corpname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref93">
+                        <head>Scope and Contents note</head>
+                        <p>D.S.: J.Correa de Serra and Zaccheus Collins. 2p.and end. Publication not recommended. ----Typescript. (see Correa de Serra Letters...)</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref341" level="file">
+                    <did>
+                        <unittitle>Letter to Deleuze</unittitle>
+                        <unitdate>April 8, 1816</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Correia da Serra, José Francisco, 1750-1823</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref342">
+                        <head>Scope and Contents note</head>
+                        <p>In French.</p>
+                    </scopecontent>
+                    <odd id="ref343">
+                        <head>General note</head>
+                        <p>Formerly B C81.4</p>
+                    </odd>
+                </c02>
+                <c02 id="ref94" level="file">
+                    <did>
+                        <unittitle>Letter to [Thomas Jefferson];</unittitle>
+                        <unitdate>May 12, 1816</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Correia da Serra, José Francisco, 1750-1823</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref95">
+                        <head>Scope and Contents note</head>
+                        <p>Philadelphia, Photostat of A.L.S. 1p. (see Correa de Serra. Letters.) Introduces Col. Jones. Concerning the papers of Lewis.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref96" level="file">
+                    <did>
+                        <unittitle>Report of committee on the publication of William Byrd's journal of the Virginia North Carolina boundary;</unittitle>
+                        <unitdate>May 22, 1816</unitdate>
+                        <physdesc id="ref97" label="General Physical Description note">6-1/2x7-3/4</physdesc>
+                        <origination label="creator">
+                            <corpname source="ingest">American Philosophical Society</corpname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref98">
+                        <head>Scope and Contents note</head>
+                        <p>D.S.: J.Correa de Serra, Peter S. DuPonceau and C.Wistar. 1p.and end. ----Typescript. (see Correa de Serra. Letters...)</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref99" level="file">
+                    <did>
+                        <unittitle>Letter to [André] Dashkoff;</unittitle>
+                        <unitdate>Sept. 7, 1816</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Correia da Serra, José Francisco, 1750-1823</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref100">
+                        <head>Scope and Contents note</head>
+                        <p>Charlottesville, photostat of A.L.S. 1p. In French. (see Correa de Serra. Letters...) Printed: Davis. Correa in America... APS Trans.,n.s., 45,1955, p.154. From original in University of Virginia library.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref9" level="file">
+                    <did>
+                        <unittitle>Letter to James Monroe;</unittitle>
+                        <unitdate>Oct. 12, [1816?]</unitdate>
+                        <physdesc id="ref10" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Rademaker, Joseph</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref11">
+                        <head>Scope and Contents note</head>
+                        <p>Philadelphia, Typed L. 2p. Copy. (see Correa de Serra. Letters...) Concerning Correa's taking over as the diplomatic representative for Portugual.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref101" level="file">
+                    <did>
+                        <unittitle>Letter to ----;</unittitle>
+                        <unitdate>Oct. 18, 1816</unitdate>
+                        <physdesc id="ref102" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Correia da Serra, José Francisco, 1750-1823</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref103">
+                        <head>Scope and Contents note</head>
+                        <p>Typed L. 2p. Copy. (see Correa de serra. Letters...) Asks that Vasques be appointed consul general to replace Rademaker.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref104" level="file">
+                    <did>
+                        <unittitle>Letter to James Monroe;</unittitle>
+                        <unitdate>Dec. 20, 1816</unitdate>
+                        <physdesc id="ref105" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Correia da Serra, José Francisco, 1750-1823</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref106">
+                        <head>Scope and Contents note</head>
+                        <p>Washington, Typed L. 8p. Copy. (see Correa de Serra. Letters...) Diplomatic difficulties with Portugual.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref107" level="file">
+                    <did>
+                        <unittitle>Letter to James Monroe;</unittitle>
+                        <unitdate>Dec. 22, 1816</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Correia da Serra, José Francisco, 1750-1823</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref108">
+                        <head>Scope and Contents note</head>
+                        <p>Photostat of A.L.S. 1p.and add.,end. (see Correa de Serra. Letters...) Printed: Davis. Correa in America... APS Trans., n.s., 45, 1955, 154-155. From original in New York Public Library.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref109" level="file">
+                    <did>
+                        <unittitle>Letter to [James] Monroe;</unittitle>
+                        <unitdate>Jan. 16, 1817</unitdate>
+                        <physdesc id="ref110" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Correia da Serra, José Francisco, 1750-1823</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref111">
+                        <head>Scope and Contents note</head>
+                        <p>Washington, Typed L. 1p. Copy. (see Correa de Serra. Letters...) Concerning a death in the royal family.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref112" level="file">
+                    <did>
+                        <unittitle>Letter to ----;</unittitle>
+                        <unitdate>April 25, 1817</unitdate>
+                        <physdesc id="ref113" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Correia da Serra, José Francisco, 1750-1823</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref114">
+                        <head>Scope and Contents note</head>
+                        <p>Philadelphia, Typed L. 2p. Copy. (see Correa de Serra. Letters...) Diplomatic business.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref115" level="file">
+                    <did>
+                        <unittitle>Letter to Richard Rush;</unittitle>
+                        <unitdate>May 10, 1817</unitdate>
+                        <physdesc id="ref116" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Correia da Serra, José Francisco, 1750-1823</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref117">
+                        <head>Scope and Contents note</head>
+                        <p>Washington, Typed L. 2p. Copy. (see Correa de Serra. Letters...) Foreign policy of the U.S.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref330" level="file">
+                    <did>
+                        <unittitle>Letter to John Vaughan</unittitle>
+                        <unitdate>May 11, 1817</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Everett, Edward, 1794-1865</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref118" level="file">
+                    <did>
+                        <unittitle>Letter to Richard Rush;</unittitle>
+                        <unitdate>May 20, 1817</unitdate>
+                        <physdesc id="ref119" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Correia da Serra, José Francisco, 1750-1823</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref120">
+                        <head>Scope and Contents note</head>
+                        <p>Washington, Typed L. 4p. Copy. (see Correa de Serra. Letters...) Concerning diplomatic relations over a revolt in Brazil.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref121" level="file">
+                    <did>
+                        <unittitle>Letter to Richard Rush;</unittitle>
+                        <unitdate>May 25, 1817</unitdate>
+                        <physdesc id="ref122" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Correia da Serra, José Francisco, 1750-1823</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref123">
+                        <head>Scope and Contents note</head>
+                        <p>Washington, Typed L. 5p. Copy. (see Correa de Serra. letters...) Informs him of a blockade of Pernambuco</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref124" level="file">
+                    <did>
+                        <unittitle>Letter to James Madison;</unittitle>
+                        <unitdate>June 18, 1817</unitdate>
+                        <physdesc id="ref125" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Rush, Richard</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref126">
+                        <head>Scope and Contents note</head>
+                        <p>Washington, Typed L. 10p. Copy. (see Correa de Serra. Letters...) Concerning Correa's official letters over the dispute with Brazil.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref127" level="file">
+                    <did>
+                        <unittitle>Letter to [Thomas Jefferson];</unittitle>
+                        <unitdate>July 12, 1817</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Correia da Serra, José Francisco, 1750-1823</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref128">
+                        <head>Scope and Contents note</head>
+                        <p>New York, Photostat of A.L.S. 1p. (see Correa de Serra. Letters...) Printed: Davis. Correa in America... APS Trans., n.s., 45, 1955, p.155. From original in Mass. Hist. Soc.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref129" level="file">
+                    <did>
+                        <unittitle>Letter to Richard Rush;</unittitle>
+                        <unitdate>July 23, 1817</unitdate>
+                        <physdesc id="ref130" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Correia da Serra, José Francisco, 1750-1823</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref131">
+                        <head>Scope and Contents note</head>
+                        <p>Philadelphia, Typed L.in 3rd.P. 2p. Copy (see Correa de Serra. Letters...) Has no dispatches to send.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref132" level="file">
+                    <did>
+                        <unittitle>Letter to Thomas Jefferson;</unittitle>
+                        <unitdate>Sept. 19, 1817</unitdate>
+                        <physdesc id="ref133" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Cooper, Thomas, 1759-1839</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref134">
+                        <head>Scope and Contents note</head>
+                        <p>Philadelphia, Typed L. 4p. Copy. (see Correa de Serra. Letters...) Concerning teachers for various subjects for the university. Refers to Correa de Serra.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref135" level="file">
+                    <did>
+                        <unittitle>Letter to Thomas Cooper;</unittitle>
+                        <unitdate>Sept. 23, 1817</unitdate>
+                        <physdesc id="ref136" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas, pres.U.S., 1743-1826.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref137">
+                        <head>Scope and Contents note</head>
+                        <p>Monticello, Typed L. 1p. Copy. (see Correa de Serra. Letters...) Hopes he will come to the university. Refers to Correa de Serra and Walsh.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref138" level="file">
+                    <did>
+                        <unittitle>Letter to [Joseph Francisco Correia de Serra?];</unittitle>
+                        <unitdate>Sept. 30, 1817</unitdate>
+                        <physdesc id="ref139" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Vasques, Joaquim Joze</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref140">
+                        <head>Scope and Contents note</head>
+                        <p>New York, Typed L. 2p. Copy. In Portuguese. (see Correa de Serra. Letters...) Consular business.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref141" level="file">
+                    <did>
+                        <unittitle>Letter to John Quincy Adams;</unittitle>
+                        <unitdate>Nov. 19, 1817</unitdate>
+                        <physdesc id="ref142" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Correia da Serra, José Francisco, 1750-1823</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref143">
+                        <head>Scope and Contents note</head>
+                        <p>Washington, Typed L. 2p. Copy. (see Correa de Serra. Letters...) Concerning Portuguese foreign affairs.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref144" level="file">
+                    <did>
+                        <unittitle>Letter to [Robert] Walsh;</unittitle>
+                        <unitdate>Jan. 9, 1818</unitdate>
+                        <physdesc id="ref145" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref146">
+                        <head>Scope and Contents note</head>
+                        <p>Monticello, Typed L. 3p. Copy. (see Correa de Serra. Letters...) Concerning philosophical inquiries. Concerning an article by Destutt de Tracy. Refers to Correa.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref147" level="file">
+                    <did>
+                        <unittitle>Letter to Mrs. [Elizabeth Mifflin] Wistar;</unittitle>
+                        <unitdate>Jan. 31, 1818</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Correia da Serra, José Francisco, 1750-1823</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref148">
+                        <head>Scope and Contents note</head>
+                        <p>Washington, Photostat of A.L.S. 1p. (see Correa de Serra. Letters.) Printed: Davis. Correa in America. . . APS Trans.,n.s., 45, 1955, p.160. From original in Historical Society of Pennsylvania.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref149" level="file">
+                    <did>
+                        <unittitle>Letter to Thomas Jefferson;</unittitle>
+                        <unitdate>Feb. 20, 1818</unitdate>
+                        <physdesc id="ref150" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Cooper, Thomas, 1759-1839</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref151">
+                        <head>Scope and Contents note</head>
+                        <p>Philadelphia, Typed L. 3p. Copy. (see Correa de Serra. Letters...) Thinks he may take the post at the university, due to University of Pennsylvania politics. Refers to Correa.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref152" level="file">
+                    <did>
+                        <unittitle>Letter to J[ohn] Q[uincy] Adams;</unittitle>
+                        <unitdate>March 8, 1818</unitdate>
+                        <physdesc id="ref153" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Correia da Serra, José Francisco, 1750-1823</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref154">
+                        <head>Scope and Contents note</head>
+                        <p>Washington, Typed L. 2p.and enc.of 2p. copy. (see Correa de Serra. Letters...) Portuguese relations.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref155" level="file">
+                    <did>
+                        <unittitle>Letter to J[ohn] Quincey [sic] Adams;</unittitle>
+                        <unitdate>March 18, 1818</unitdate>
+                        <physdesc id="ref156" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Correia da Serra, José Francisco, 1750-1823</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref157">
+                        <head>Scope and Contents note</head>
+                        <p>Baltimore, Typed L. 2p. Copy. (see Correa de Serra. Letters...) Is going to Norfolk for his health.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref158" level="file">
+                    <did>
+                        <unittitle>Letter to John Quincy Adams;</unittitle>
+                        <unitdate>March 25, 1818</unitdate>
+                        <physdesc id="ref159" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Correia da Serra, José Francisco, 1750-1823</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref160">
+                        <head>Scope and Contents note</head>
+                        <p>Norfolk, (?), Typed L. 2p. Copy. (see Correa de serra. Letters...) Portuguese-U.S. relations.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref161" level="file">
+                    <did>
+                        <unittitle>Letter to [Thomas Jefferson];</unittitle>
+                        <unitdate>April 10, 1818</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Correia da Serra, José Francisco, 1750-1823</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref162">
+                        <head>Scope and Contents note</head>
+                        <p>Norfolk, Photostat of A.L.S. 1p. (see Correa de Serra. Letters...) Printed: Davis. Correa in America, APS Trans., n.s., 45, 1955, p.162. From original in Massachusetts Historical Society.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref163" level="file">
+                    <did>
+                        <unittitle>Letter to John Quincey [sic] Adams;</unittitle>
+                        <unitdate>April 24, 1818</unitdate>
+                        <physdesc id="ref164" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Correia da Serra, José Francisco, 1750-1823</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref165">
+                        <head>Scope and Contents note</head>
+                        <p>Washington, Typed L. 1p. Copy. (see Correa de Serra. Letters...) Portuguese foreign relations.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref331" level="file">
+                    <did>
+                        <unittitle>Necrological Note on Caspar Wistar</unittitle>
+                        <unitdate>April 1818</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Correia da Serra, José Francisco, 1750-1823</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref166" level="file">
+                    <did>
+                        <unittitle>Letter to J[ohn] Quincy Adams;</unittitle>
+                        <unitdate>July 30, 1818</unitdate>
+                        <physdesc id="ref167" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Correia da Serra, José Francisco, 1750-1823</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref168">
+                        <head>Scope and Contents note</head>
+                        <p>Philadelphia, Typed L. 2p. Copy. (see Correa de Serra. Letters...) Concerning consuls.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref169" level="file">
+                    <did>
+                        <unittitle>Letter to Thomas Jefferson;</unittitle>
+                        <unitdate>Oct. 6, 1818</unitdate>
+                        <physdesc id="ref170" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Cooper, Thomas, 1759-1839</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref171">
+                        <head>Scope and Contents note</head>
+                        <p>Fredericksburgh, Typed L. 3p. Copy. (see Correa de Serra. Letters...) Concerning the possibility of his going to the university. Refers to Ord and Wilson and Correa.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref172" level="file">
+                    <did>
+                        <unittitle>Letter to J[ohn] Quincy Adams;</unittitle>
+                        <unitdate>Oct. 13, 1818</unitdate>
+                        <physdesc id="ref173" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Correia da Serra, José Francisco, 1750-1823</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref174">
+                        <head>Scope and Contents note</head>
+                        <p>Washington, Typed L. 3p. Copy. (see Correa de Serra. Letters...) Concerning a consul which the king wishes replaced.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref175" level="file">
+                    <did>
+                        <unittitle>Letter to J[ohn] Quincy Adams;</unittitle>
+                        <unitdate>Oct. 15, 1818</unitdate>
+                        <physdesc id="ref176" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Correia da Serra, José Francisco, 1750-1823</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref177">
+                        <head>Scope and Contents note</head>
+                        <p>Washington, (?), Typed L. 2p. Copy. (see Correa de Serra. Letters...) Concerning foreign affairs.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref178" level="file">
+                    <did>
+                        <unittitle>Letter to J[ohn] Quincy Adams;</unittitle>
+                        <unitdate>Oct. 18, 1818</unitdate>
+                        <physdesc id="ref179" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Correia da Serra, José Francisco, 1750-1823</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref180">
+                        <head>Scope and Contents note</head>
+                        <p>Washington, Typed L. 1p. Copy. (see Correa de Serra. Letters...) Concerning a consul for the southern states.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref181" level="file">
+                    <did>
+                        <unittitle>Letter to Joseph Delaplaine, Philadelphia;</unittitle>
+                        <unitdate>Nov. 5, 1818</unitdate>
+                        <physdesc id="ref182" label="General Physical Description note">9-3/4x8</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Correia da Serra, José Francisco, 1750-1823</persname>
+                        </origination>
+                    </did>
+                    <altformavail id="ref332">
+                        <head>Existence and Location of Copies note</head>
+                        <p>FILM 54-66 FRAME 230.</p>
+                    </altformavail>
+                    <scopecontent id="ref183">
+                        <head>Scope and Contents note</head>
+                        <p>Washington, A.L.S. 2p.and add.,end. (see Correa de Serra papers.) Refuses compliment. Congratulates him on his Franklin.</p>
+                    </scopecontent>
+                    <odd id="ref357">
+                        <head>General note</head>
+                        <p>Formerly B C81.2.</p>
+                    </odd>
+                </c02>
+                <c02 id="ref184" level="file">
+                    <did>
+                        <unittitle>Letter to J[ohn] Quincy Adams;</unittitle>
+                        <unitdate>Nov. 6, 1818</unitdate>
+                        <physdesc id="ref185" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Correia da Serra, José Francisco, 1750-1823</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref186">
+                        <head>Scope and Contents note</head>
+                        <p>Washington, Typed L. 2p. Copy. (see Correa de Serra. Letters...) Concerning consuls.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref187" level="file">
+                    <did>
+                        <unittitle>Letter to John Quincey [sic] Adams;</unittitle>
+                        <unitdate>Nov. 13, 1818</unitdate>
+                        <physdesc id="ref188" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Correia da Serra, José Francisco, 1750-1823</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref189">
+                        <head>Scope and Contents note</head>
+                        <p>Washington, Typed L. 2p. Copy. (see Correa de Serra. Letters...) Foreign relations.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref190" level="file">
+                    <did>
+                        <unittitle>Letter to John Quincey [sic] Adams;</unittitle>
+                        <unitdate>Nov. 14, 1818</unitdate>
+                        <physdesc id="ref191" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Correia da Serra, José Francisco, 1750-1823</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref192">
+                        <head>Scope and Contents note</head>
+                        <p>Washington, Typed L. 4p. Copy. (see Correa de Serra. Letters...) Foreign relations.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref193" level="file">
+                    <did>
+                        <unittitle>Letter to J[ohn] Quincey [sic] Adams;</unittitle>
+                        <unitdate>Dec. 11, 1818</unitdate>
+                        <physdesc id="ref194" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Correia da Serra, José Francisco, 1750-1823</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref195">
+                        <head>Scope and Contents note</head>
+                        <p>Washington, (?), Typed L. 2p. Copy. (see Correa de Serra. Letters...) Foreign relations.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref196" level="file">
+                    <did>
+                        <unittitle>Letter to J[ohn] Quincy Adams;</unittitle>
+                        <unitdate>Dec. 14, 1818</unitdate>
+                        <physdesc id="ref197" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Correia da Serra, José Francisco, 1750-1823</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref198">
+                        <head>Scope and Contents note</head>
+                        <p>Washington, Typed L. 1p. Copy. (see Correa de Serra. Letters...) Lists consuls for three posts.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref202" level="file">
+                    <did>
+                        <unittitle>Letter to John Quincy Adams;</unittitle>
+                        <unitdate>Feb. 4, 1819</unitdate>
+                        <physdesc id="ref203" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Correia da Serra, José Francisco, 1750-1823</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref204">
+                        <head>Scope and Contents note</head>
+                        <p>Washington, Typed L. 2p. Copy. (See Correa de Serra. Letters...) Foreign relations.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref205" level="file">
+                    <did>
+                        <unittitle>Letter to John Quincy Adams;</unittitle>
+                        <unitdate>Feb. 27, 1819</unitdate>
+                        <physdesc id="ref206" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Correia da Serra, José Francisco, 1750-1823</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref207">
+                        <head>Scope and Contents note</head>
+                        <p>Washington, Typed L. 1p. Copy. (see Correa de Serra. Letters...) Lists consuls for Portugual.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref208" level="file">
+                    <did>
+                        <unittitle>Letter to J[acob] Bigelow, Boston;</unittitle>
+                        <unitdate>March 7, 1819</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Correia da Serra, José Francisco, 1750-1823</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref209">
+                        <head>Scope and Contents note</head>
+                        <p>Washington, Photostat of A.L.S. 2p.and add. (see Correa de Serra. Letters...) Printed: Davis. Correa in America... APS Trans.,n.s., 45, 1955, p.168. From original in Mass.Hist.Soc.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref210" level="file">
+                    <did>
+                        <unittitle>Letter to John Quincy Adams;</unittitle>
+                        <unitdate>March 17, 1819</unitdate>
+                        <physdesc id="ref211" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Correia da Serra, José Francisco, 1750-1823</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref212">
+                        <head>Scope and Contents note</head>
+                        <p>Washington, Typed L. 1p. Copy. (see Correa de Serra. Letters...) Asks for another appointment,since he cannot meet him as planned.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref213" level="file">
+                    <did>
+                        <unittitle>Letter to John Quincy Adams;</unittitle>
+                        <unitdate>March 17, 1819</unitdate>
+                        <physdesc id="ref214" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Correia da Serra, José Francisco, 1750-1823</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref215">
+                        <head>Scope and Contents note</head>
+                        <p>Washington, Typed L. 10p. Copy. (see Correa de Serra. Letters...) Diplomatic events with Portugual.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref216" level="file">
+                    <did>
+                        <unittitle>Letter to Daniel Brent;</unittitle>
+                        <unitdate>March 20, 1819</unitdate>
+                        <physdesc id="ref217" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Correia da Serra, José Francisco, 1750-1823</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref218">
+                        <head>Scope and Contents note</head>
+                        <p>Typed L. 1p. Copy. (see Correa de Serra. Letters...) Business.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref219" level="file">
+                    <did>
+                        <unittitle>Letter to ----;</unittitle>
+                        <unitdate>March 30, 1819</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Correia da Serra, José Francisco, 1750-1823</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref220">
+                        <head>Scope and Contents note</head>
+                        <p>Photostat of A.L. 1p. (see Correa de Serra. Letters...) Friendly letter.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref221" level="file">
+                    <did>
+                        <unittitle>Letter to Thomas Jefferson;</unittitle>
+                        <unitdate>June 21, 1819</unitdate>
+                        <physdesc id="ref222" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Cooper, Thomas, 1759-1839</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref223">
+                        <head>Scope and Contents note</head>
+                        <p>Philadelphia, Typed L. 4p. copy. (see Correa de Serra. Letters...) Concerning the University of Virginia. Refers to J.Vaughan and Correa.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref224" level="file">
+                    <did>
+                        <unittitle>Letter to Thomas Jefferson;</unittitle>
+                        <unitdate>July 28, 1819</unitdate>
+                        <physdesc id="ref225" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Cooper, Thomas, 1759-1839</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref226">
+                        <head>Scope and Contents note</head>
+                        <p>Typed L. 1p. Copy. (see Correa de Serra. Letters...) Friendly letter. Concerning Collins and Nuttall. Refers to Correa.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref227" level="file">
+                    <did>
+                        <unittitle>Letter to Thomas Jefferson;</unittitle>
+                        <unitdate>Sept. 13, 1819</unitdate>
+                        <physdesc id="ref228" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Cooper, Thomas, 1759-1839</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref229">
+                        <head>Scope and Contents note</head>
+                        <p>Philadelphia, Typed L. 2p. Copy. (see Correa de Serra. Letters...) Will teach in Lexington and come to Virginia next year. Refers to J.Vaughan and Correa.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref230" level="file">
+                    <did>
+                        <unittitle>Letter to James Madison, Montpellier;</unittitle>
+                        <unitdate>Nov. 15, 1819</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Correia da Serra, José Francisco, 1750-1823</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref231">
+                        <head>Scope and Contents note</head>
+                        <p>Philadelphia, Photostat of A.L.S. 1p.and add. (see Correa de Serra. Letters...) Printed: Davis. Correa in America... APS Trans., n.s., 45, 1955, p.173. From original in Historical Society of Pennsylvania.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref232" level="file">
+                    <did>
+                        <unittitle>Letter to John Quincey [sic] Adams;</unittitle>
+                        <unitdate>Nov. 23, 1819</unitdate>
+                        <physdesc id="ref233" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Correia da Serra, José Francisco, 1750-1823</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref234">
+                        <head>Scope and Contents note</head>
+                        <p>Philadelphia, Typed L. 5p. Copy. (see Correa de Serra. Letters...) Printed: Davis. Correa in America... APS Trans.,n.s., 45, 1955, p.173.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref235" level="file">
+                    <did>
+                        <unittitle>Letter to Baron von Stackelberg, Washington;</unittitle>
+                        <unitdate>Dec. 8, 1819</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Correia da Serra, José Francisco, 1750-1823</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref236">
+                        <head>Scope and Contents note</head>
+                        <p>New York, Photostat of A.L.S. 2p.and add. In French. (see Correa de Serra. Letters) Asks that he check on the delivery of certain mail for him. From original in Historical Society of Pennsylvania.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref199" level="file">
+                    <did>
+                        <unittitle>Memorandum pertaining to diplomacy with the U.S.;</unittitle>
+                        <unitdate>1819</unitdate>
+                        <physdesc id="ref200" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Correia da Serra, José Francisco, 1750-1823</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref201">
+                        <head>Scope and Contents note</head>
+                        <p>[ca.?]. Typed D. 1p. Copy. (see Correa de Serra. Letters...)</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref237" level="file">
+                    <did>
+                        <unittitle>Letter to John Quincey [sic] Adams;</unittitle>
+                        <unitdate>Jan. 27, 1820</unitdate>
+                        <physdesc id="ref238" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Correia da Serra, José Francisco, 1750-1823</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref239">
+                        <head>Scope and Contents note</head>
+                        <p>Philadelphia, Typed L. 3p. Copy. (see Correa de Serra. Letters...) Foreign affairs.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref240" level="file">
+                    <did>
+                        <unittitle>Letter to Count of Palmela;</unittitle>
+                        <unitdate>March 4, 1820</unitdate>
+                        <physdesc id="ref241" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Correia da Serra, José Francisco, 1750-1823</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref242">
+                        <head>Scope and Contents note</head>
+                        <p>Philadelphia, Typed L. 5p. Copy. (see Correa da Serra. Letters...) Foreign affairs. For information concerning this letter see: R.B.Davis. Letters to and from... 1949-1953.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref243" level="file">
+                    <did>
+                        <unittitle>Letter to Thomas Jefferson;</unittitle>
+                        <unitdate>May 3, 1820</unitdate>
+                        <physdesc id="ref244" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Cooper, Thomas, 1759-1839</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref245">
+                        <head>Scope and Contents note</head>
+                        <p>Columbia, S.C., Typed L. 3p. Copy. (see Correa de Serra. Letters...) Thinks he is settled in South Carolina. Concerning Correa.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref246" level="file">
+                    <did>
+                        <unittitle>Letter to Sir J[ames] E[dward] Smith;</unittitle>
+                        <unitdate>May 9, 1820</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Correia da Serra, José Francisco, 1750-1823</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref247">
+                        <head>Scope and Contents note</head>
+                        <p>Philadelphia, Photostat of A.L.S. 1p.,end.and add. with endorsement by George Ord. (see Correa de Serra. Letters...) Printed: Davis. Correa in America... APS Trans., n.s., 45, 1955, p.178. From original in Historical Society of Pennsylvania.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref248" level="file">
+                    <did>
+                        <unittitle>Letter to J[ohn] Quincey [sic] Adams;</unittitle>
+                        <unitdate>June 4, 1820</unitdate>
+                        <physdesc id="ref249" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Correia da Serra, José Francisco, 1750-1823</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref250">
+                        <head>Scope and Contents note</head>
+                        <p>Philadelphia, Typed L. 2p. Copy. (see Correa de Serra. Letters...) Foreign relations.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref251" level="file">
+                    <did>
+                        <unittitle>Letter to John Quincey [sic] Adams;</unittitle>
+                        <unitdate>June 8, 1820</unitdate>
+                        <physdesc id="ref252" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Correia da Serra, José Francisco, 1750-1823</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref253">
+                        <head>Scope and Contents note</head>
+                        <p>Philadelphia, Typed L. 2p. Copy. (see Correa de Serra. Letters...) Foreign relations.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref254" level="file">
+                    <did>
+                        <unittitle>Letter to [Richard Anthony Salisbury];</unittitle>
+                        <unitdate>July 4, 1820</unitdate>
+                        <physdesc id="ref255" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Correia da Serra, José Francisco, 1750-1823</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref256">
+                        <head>Scope and Contents note</head>
+                        <p>Philadelphia, Typed L. 6p. Copy. (see Correa de Serra. Letters...) Botanical news. Friendly letter.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref257" level="file">
+                    <did>
+                        <unittitle>Letter to John Quincey [sic] Adams;</unittitle>
+                        <unitdate>July 16, 1820</unitdate>
+                        <physdesc id="ref258" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Correia da Serra, José Francisco, 1750-1823</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref259">
+                        <head>Scope and Contents note</head>
+                        <p>Wilmington, Typed L. 3p. Copy. (see Correa de Serra. Letters...) Foreign relations.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref260" level="file">
+                    <did>
+                        <unittitle>Letter to [John Wayles] Eppes;</unittitle>
+                        <unitdate>July 29, 1820</unitdate>
+                        <physdesc id="ref261" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref262">
+                        <head>Scope and Contents note</head>
+                        <p>Monticello, Typed L. 6p. Copy. (see Correa de Serra. Letters...) Concerning the university. Friendly letter. Correa's thoughts of Elliott.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref263" level="file">
+                    <did>
+                        <unittitle>Letter to Dabney Carr;</unittitle>
+                        <unitdate>Aug. 10, 1820</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Gilmer, Francis Walker, 1790-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref264">
+                        <head>Scope and Contents note</head>
+                        <p>Richmond, Photostat of A.L.S. 2p. (see Correa de Serra. Letters...) Printed: Davis. Correa in America...; APS Trans., n.s., 45, 1955,178-179. From original in Va.State library.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref265" level="file">
+                    <did>
+                        <unittitle>Letter to John Quincy Adams;</unittitle>
+                        <unitdate>Aug. 26, 1820</unitdate>
+                        <physdesc id="ref266" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Correia da Serra, José Francisco, 1750-1823</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref267">
+                        <head>Scope and Contents note</head>
+                        <p>Washington, Typed L. 2p. Copy. (see Correa de Serra. Letters...) Foreign relations.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref268" level="file">
+                    <did>
+                        <unittitle>Letter to John Quincy Adams;</unittitle>
+                        <unitdate>Nov. 9, 1820</unitdate>
+                        <physdesc id="ref269" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Correia da Serra, José Francisco, 1750-1823</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref270">
+                        <head>Scope and Contents note</head>
+                        <p>New York, Typed L. 1p. Copy. (see Correa de Serra. Letters...) Has referred the question to Portugual.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref271" level="file">
+                    <did>
+                        <unittitle>Letter to [Joseph Francisco Correa de Serra.];</unittitle>
+                        <unitdate>Dec. 1, 1820</unitdate>
+                        <physdesc id="ref272" label="General Physical Description note">9-3/4x8</physdesc>
+                        <origination label="creator">
+                            <corpname source="ingest">American Philosophical Society</corpname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref273">
+                        <head>Scope and Contents note</head>
+                        <p>Draft of L. 1p.and end. Testimonial of his excellence. See Proc., XXIII, pt.3,498. ---Typed copy. (see Correa de Serra. Letters...)</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref277" level="file">
+                    <did>
+                        <unittitle>Letter to [Sir James Edward Smith];</unittitle>
+                        <unitdate>Jan. 1, 1821</unitdate>
+                        <physdesc id="ref278" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Correia da Serra, José Francisco, 1750-1823</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref279">
+                        <head>Scope and Contents note</head>
+                        <p>London, Typed L. 1p. Copy. (see Correa de Serra. Letters...) Will visit him in Norwich.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref280" level="file">
+                    <did>
+                        <unittitle>Letter to [Sir James Edward] Smith;</unittitle>
+                        <unitdate>Jan. 2, 1821</unitdate>
+                        <physdesc id="ref281" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Correia da Serra, José Francisco, 1750-1823</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref282">
+                        <head>Scope and Contents note</head>
+                        <p>London, Typed L. 3p. Copy. (see Correa de Serra. Letters...) Will be glad to help his nephew, if able.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref283" level="file">
+                    <did>
+                        <unittitle>Letter to [Sir James E. Smith];</unittitle>
+                        <unitdate>Jan. 10, 1821</unitdate>
+                        <physdesc id="ref284" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Correia da Serra, José Francisco, 1750-1823</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref285">
+                        <head>Scope and Contents note</head>
+                        <p>London, Typed L. 2p. Copy. (see Correa de Serra. Letters...) Must go to Paris. Will remember his nephew and help him.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref286" level="file">
+                    <did>
+                        <unittitle>Letter to [Sir James Edward] Smith;</unittitle>
+                        <unitdate>Feb. 20, 1821</unitdate>
+                        <physdesc id="ref287" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Correia da Serra, José Francisco, 1750-1823</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref288">
+                        <head>Scope and Contents note</head>
+                        <p>London, Typed L. 4p. Copy. (see Correa de Serra. Letters...) Will help his nephew enter trade in Brazil.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref289" level="file">
+                    <did>
+                        <unittitle>Letter to J[ames] E. Smith;</unittitle>
+                        <unitdate>March 1, 1821</unitdate>
+                        <physdesc id="ref290" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Correia da Serra, José Francisco, 1750-1823</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref291">
+                        <head>Scope and Contents note</head>
+                        <p>London, Typed L. 2p. Copy. (see Correa de Serra. Letters...) Will be very happy to help his nephew, if the boy can be shipped to Rio.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref292" level="file">
+                    <did>
+                        <unittitle>Letter to Thomas Jefferson;</unittitle>
+                        <unitdate>March 24, 1821</unitdate>
+                        <physdesc id="ref293" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Vaughan, John, 1756-1841</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref294">
+                        <head>Scope and Contents note</head>
+                        <p>Philadelphia, Typed L. 3p. Copy. (see Correa de Serra. Letters...) Recommends Lardner Vanuxem as professor at the university. Refers to Correa.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref295" level="file">
+                    <did>
+                        <unittitle>Letter to Sir J[ames] E. Smith;</unittitle>
+                        <unitdate>July 23, 1821</unitdate>
+                        <physdesc id="ref296" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Correia da Serra, José Francisco, 1750-1823</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref297">
+                        <head>Scope and Contents note</head>
+                        <p>London, Typed L. 2p. Copy. (see Correa de Serra. Letters...) Is returning to Portugual. Friendly letter.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref298" level="file">
+                    <did>
+                        <unittitle>Letter to R[ichard] A. Salisbury;</unittitle>
+                        <unitdate>Sept. 3, 1821</unitdate>
+                        <physdesc id="ref299" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Correia da Serra, José Francisco, 1750-1823</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref300">
+                        <head>Scope and Contents note</head>
+                        <p>Lisbon, Typed L. 3p. Copy. (see Correa de Serra. Letters...) Concerning his return to Portugual. Botanical hopes in Portugual.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref333" level="file">
+                    <did>
+                        <unittitle>Newspaper clipping reporting Correia's departure from Liverpool</unittitle>
+                        <unitdate>November 11, [1821]</unitdate>
+                        <physdesc id="ref334" label="General Physical Description note">Newspaper clipping</physdesc>
+                    </did>
+                </c02>
+                <c02 id="ref274" level="file">
+                    <did>
+                        <unittitle>Journal of the travels...;</unittitle>
+                        <unitdate>1821</unitdate>
+                        <physdesc id="ref275" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Nuttall, Thomas, 1786-1859</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref276">
+                        <head>Scope and Contents note</head>
+                        <p>Typescript of t.p. 1p. (see Correa de Serra. Letters...) Mentions Correa de Serra.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref301" level="file">
+                    <did>
+                        <unittitle>Letter to [Peter S.] DuPonceau;</unittitle>
+                        <unitdate>Jan. 12, 1822</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Correia da Serra, José Francisco, 1750-1823</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref302">
+                        <head>Scope and Contents note</head>
+                        <p>Lisbon, Photostat of A.L.S. 2p. (see Correa de Serra. Letters...) Printed: Davis. Correa in America... APS Trans.,n.s., 45, 1955, p.185. From original in Academy of Natural Sciences of Philadelphia.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref335" level="file">
+                    <did>
+                        <unittitle>Letter to Rene Louis Desfontaines</unittitle>
+                        <unitdate>August 15, 1822</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Correia da Serra, José Francisco, 1750-1823</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref358">
+                        <head>Scope and Contents note</head>
+                        <p>Lisbonne, ALS 1p.add. In French. Recommends son Edward, who will study medicine in Paris. Mentions "jardin des plantes."</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref303" level="file">
+                    <did>
+                        <unittitle>Letter to [Robert] Walsh;</unittitle>
+                        <unitdate>April 5, 1823</unitdate>
+                        <physdesc id="ref304" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Jefferson, Thomas, 1743-1826</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref305">
+                        <head>Scope and Contents note</head>
+                        <p>Monticello, Typed L. 2p. Copy. (see Correa de Serra. Letters...) Concerning the various requests that he write his autobiography. Refers to Correa.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref306" level="file">
+                    <did>
+                        <unittitle>Letter to R[ichard] A. Salisbury, London;</unittitle>
+                        <unitdate>Oct. 6, 1827</unitdate>
+                        <physdesc id="ref307" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Correia da Serra, José Francisco, 1750-1823</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref308">
+                        <head>Scope and Contents note</head>
+                        <p>Neufchatel en Bray, Typed L. 4p. Copy. (see Correa de Serra. Letters...) Concerning his plans for the future, Refers to his father's name and fame.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref309" level="file">
+                    <did>
+                        <unittitle>Letter to [Richard Beale Davis];</unittitle>
+                        <unitdate>May 12, 1949</unitdate>
+                        <physdesc id="ref310" label="General Physical Description note">8-1/4x5-1/4</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Institut de France. Bibliothèque</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref311">
+                        <head>Scope and Contents note</head>
+                        <p>Paris, A.L.S.: Paul Cloe(?). 2p. In French. (see Correa de Serra. Letters...) Concerning Correa de Serra and lists letters of his available for reproduction</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref312" level="file">
+                    <did>
+                        <unittitle>Letters to and from various persons pertaining to his research on Correa de Serra;</unittitle>
+                        <unitdate>1949-1953</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Davis, Richard Beale</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref313">
+                        <head>Scope and Contents note</head>
+                        <p>D. 11 items, Various sizes. (see Correa de Serra. Letters...)</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref316" level="file">
+                    <did>
+                        <unittitle>Notes concerning Correa de Serra, taken from various sources;</unittitle>
+                        <unitdate>1957</unitdate>
+                        <physdesc id="ref317" label="General Physical Description note">5-1/2x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Davis, Richard Beale</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref318">
+                        <head>Scope and Contents note</head>
+                        <p>D. 39 leaves. (see Correa de Serra. Letters...)</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref12" level="file">
+                    <did>
+                        <unittitle>Miscellaneous notes of biographical or critical estimates of Correa de Serra</unittitle>
+                        <unitdate>[1957]</unitdate>
+                        <physdesc id="ref13" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Davis, Richard Beale</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref14">
+                        <head>Scope and Contents note</head>
+                        <p>D. 19 leaves. (see Correa de Serra. Letters...)</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref319" level="file">
+                    <did>
+                        <unittitle>Letter to Baron Humboldt.</unittitle>
+                        <unitdate>undated</unitdate>
+                        <physdesc id="ref320" label="General Physical Description note">10x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Correia da Serra, José Francisco, 1750-1823</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref321">
+                        <head>Scope and Contents note</head>
+                        <p>Typed L.in 3rd.P. 1p. Copy In French. (see Correa de Serra. Letters...) Invitation to dinner.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref322" level="file">
+                    <did>
+                        <unittitle>The case of the Brazilian Indians.</unittitle>
+                        <unitdate>undated</unitdate>
+                        <physdesc id="ref323" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Correia da Serra, José Francisco, 1750-1823</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref324">
+                        <head>Scope and Contents note</head>
+                        <p>Typescript. 3p. (see Correa de Serra. Letters...)</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref325" level="file">
+                    <did>
+                        <unittitle>Description of great English houses and gardens.</unittitle>
+                        <unitdate>undated</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Correia da Serra, José Francisco, 1750-1823</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref326">
+                        <head>Scope and Contents note</head>
+                        <p>Photostat of D. 3p. (see Correa de Serra. Letters. . .) From original in Mass. Hist. Soc.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref327" level="file">
+                    <did>
+                        <unittitle>Observations on botany.</unittitle>
+                        <unitdate>undated</unitdate>
+                        <physdesc id="ref328" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Correia da Serra, José Francisco, 1750-1823</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref329">
+                        <head>Scope and Contents note</head>
+                        <p>Typescript. 3p. In Latin. (see Correa de Serra. Letters...)</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref336" level="file">
+                    <did>
+                        <unittitle>Memoire of books forwarded to Thomas Jefferson</unittitle>
+                        <unitdate>undated</unitdate>
+                    </did>
+                    <scopecontent id="ref337">
+                        <head>Scope and Contents note</head>
+                        <p>In French.</p>
+                    </scopecontent>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

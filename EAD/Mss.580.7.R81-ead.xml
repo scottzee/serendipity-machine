@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.580.7.R81-ead.xml">PUBLIC "-//American Philosophical Society Library//TEXT(US::PAAV::580.7 R81:: Royal Botanic Gardens, Calcutta Index)//EN" "royal.xml"</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Royal Botanic Gardens, Calcutta Index 
+                    <date type="span">ca.1830</date>
+                    <num>Mss.580.7.R81</num>
+                </titleproper>
+                <author>Finding aid prepared by rsc</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+                <date>8/2001</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:21-0400</date>
+            </creation>
+            <langusage>ENG</langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Royal Botanic Garden, Calcutta Index</unittitle>
+            <unitid>Mss.580.7.R81</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid115244" type="Volume" label="Bound materials">1</container>
+            <physdesc>
+                <extent>1.0 Volume(s)</extent>
+                <extent>154 p.</extent>
+            </physdesc>
+            <unitdate normal="1830/1830">ca. 1830</unitdate>
+            <abstract id="ref2" label="Abstract">Founded in 1787, the Royal Botanic Garden, Calcutta, was the leading center for botanical investigation in the English South Asian colonies. The Index lists plants held at the Botanic Gardens in about 1830, arranged alphabetically by indigenous name. Recorded in fourteen languages, with Latin binomial equivalents, the volume also makes note of those species described by the former superintendent of the Garden, William Roxburgh, and includes a few flattened specimens between the pages.</abstract>
+            <physdesc id="ref1" label="General Physical Description note">1 vol. (154p.)</physdesc>
+            <physloc id="ref9" label="Paging">LH-MV-E-10</physloc>
+            <origination label="creator">
+                <corpname source="ingest" role="Author (aut)">Royal Botanic Garden (Calcutta, India)</corpname>
+            </origination>
+        </did>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>Founded by the East India Company in 1787, the Royal Botanic Garden in Calcutta, India, (now the Indian Botanic Garden) was one of the largest tropical gardens in the world during the nineteenth century, supporting a vast herbarium that became the core of the present day Central National Herbarium of India. Specializing in the native flora from all of the regions of India, the Garden was an important source for the cultivation of orchids, bamboos, and palms, and was an important supplier of plants to Kew and other European gardens. It remains an important center for botanical research.</p>
+        </bioghist>
+        <scopecontent id="ref4">
+            <head>Scope and Contents note</head>
+            <p>The Alphabetical Index is a classified listing of plants held in the collections of the Royal Botanic Garden at Calcutta in about 1830. Arranged by their native names in fourteen languages ranging from Arabic to Uriya, paired with their Latin binomial equivalent, the index represents a snapshot of one of the most important English colonial botanic gardens. Those species described by the former superintendent of the Garden, William Roxburgh (1751-1815), are distinctly noted.</p>
+            <p>Although lacking a date, the Index is written on a variety of watermarked papers, ranging from Whatman (1826) to Radway (1828). Eleven plant specimens have been folded between the pages.</p>
+        </scopecontent>
+        <prefercite id="ref6">
+            <head>Preferred Citation note</head>
+            <p>Cite as: Royal Botanic Garden, Calcutta, Index, American Philosophical Society.</p>
+        </prefercite>
+        <acqinfo id="ref7">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Acquired from James Fenning, February, 2001. Accession number M2001-17.</p>
+        </acqinfo>
+        <relatedmaterial id="ref8">
+            <head>Related Archival Materials note</head>
+            <p>The Joseph Banks Papers at the State Library of New South Wales includes an earlier list of plants held at the Botanic Gardens. See Christopher Smith "List of Plants from the Honble Companies Botanic Garden at Calcutta for the Royal Gardens at Kew," 1795 (Series 16.15), and "List of Plants on board the Royl Adml for the Honbl East India Company's Botanic Garden at Calcutta," September 1795 (Series 16.11).</p>
+            <p>The Papers of Charles Baron Clarke (B C555) and Victor Jacquemont (Ms. Coll. 103) contain additional information on botany in nineteenth century India.</p>
+        </relatedmaterial>
+        <odd id="ref10">
+            <head>Early American History Note</head>
+            <p>This manuscript collection falls outside the geographic scope of the Early American guide (British North America and the United States before 1840). It may be of interest to scholars interested in global history, international relations, imperialism, or the U.S. in the world.</p>
+        </odd>
+        <controlaccess>
+            <persname source="ingest">Roxburgh, William, 1751-1815</persname>
+            <subject source="leah">Beyond Early America</subject>
+            <subject source="lcsh">Botanical gardens--India</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

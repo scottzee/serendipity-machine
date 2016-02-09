@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.597.Aq3-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.597.Aq3</num>
+                </titleproper>
+                <author>Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:21-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Aquarium Society of Philadelphia archives, 1902-1906, 1913-1925</unittitle>
+            <unitid>Mss.597.Aq3</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid148" type="Volume" label="Manuscripts">1</container>
+            <container parent="cid148" type="Box">1</container>
+            <physdesc>
+                <extent>0.25 Linear feet</extent>
+                <extent>75 p. and 1 volume</extent>
+            </physdesc>
+            <unitdate normal="1913/1925" type="bulk">Bulk, 1913-1925</unitdate>
+            <unitdate normal="1902/1925" type="inclusive">1902-1925</unitdate>
+            <abstract id="ref1" label="Abstract">Primarily records kept by the Secretaries, Herman T. Wolf and William T. Innes, but includes treasurer's records, membership information, presidential addresses, etc.</abstract>
+            <physdesc id="ref3" label="General Physical Description note">75 p. and 1 volume.</physdesc>
+            <physloc id="ref4" label="Paging">LH-MV-E-10 (Part 1); LH-MV-E-16 (Part 2)</physloc>
+            <origination label="creator">
+                <corpname rules="aacr" source="local" role="Author (aut)">Aquarium Society of Philadelphia.</corpname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Secretary (sec)">Innes, William T.,  (William Thornton), 1874-1969</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Secretary (sec)">Wolf, Herman Theodore, 1855-</persname>
+            </origination>
+        </did>
+        <controlaccess>
+            <subject source="lcsh">Ichthyology -- Societies, etc.</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

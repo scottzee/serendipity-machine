@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Film.206</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T20:14-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Observations on the soil and climate of East Florida, 1822</unittitle>
+            <unitid>Mss.Film.206</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1821" type="Reel" label="Microform">1</container>
+            <physdesc>
+                <extent>1.0 Microfilm reel(s)</extent>
+            </physdesc>
+            <unitdate normal="1822/1822">1822</unitdate>
+            <physdesc id="ref7" label="General Physical Description note">1 microfilm reel.</physdesc>
+            <physloc id="ref9" label="Paging">LH-RR-Media Rm-1</physloc>
+            <origination label="creator">
+                <persname source="naf" role="Author (aut)">Le Conte, John Eatton, 1784-1860</persname>
+            </origination>
+        </did>
+        <odd id="ref8">
+            <head>Early American History Note</head>
+            <p>This is a microfilm of an early American collection that may be of interest to researchers at the APS and may complement an original manuscript collection at the APS.</p>
+        </odd>
+        <acqinfo id="ref6">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Acquired from the National Archives, 1934.</p>
+        </acqinfo>
+        <bioghist id="ref4">
+            <head>Biographical/Historical note</head>
+            <p>John Eatton LeConte was an engineer and naturalist; he was elected to the American Philosophical Society in 1851.</p>
+        </bioghist>
+        <originalsloc id="ref2">
+            <head>Existence and Location of Originals note</head>
+            <p>Originals in National Archives.</p>
+        </originalsloc>
+        <controlaccess>
+            <subject source="lcsh">Climatology.</subject>
+            <geogname source="lcsh">Florida.</geogname>
+            <genreform source="leah">Microfilm Collection</genreform>
+            <subject source="lcsh">Soils and climate.</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

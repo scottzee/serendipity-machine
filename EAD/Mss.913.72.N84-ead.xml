@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.913.72.N84-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.913.72.N84</num>
+                </titleproper>
+                <author>Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:23-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Notes on Mexican Antiquities</unittitle>
+            <unitid>Mss.913.72.N84</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="spa"/>
+            </langmaterial>
+            <container id="cid4372" type="Volume" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>1.0 Volume(s)</extent>
+            </physdesc>
+            <unitdate normal="1785/1806" type="inclusive">1785-1806</unitdate>
+            <abstract id="ref5" label="Abstract">Related to the Dupaix expeditions of 1806, four loose notebooks with 23 ink and pencil sketches of Mexican ruins and hieroglyphics. Fragmented text, in Spanish, with images of construction and decoration on stonework, pottery and buildings of various native ruins of the Yucatan. The APS manuscript sketch file has an inventory list of the images.</abstract>
+            <physdesc id="ref13" label="General Physical Description note">4 items of 15, 16, 17, and 18 p.</physdesc>
+            <physloc id="ref15" label="Paging">LH-MV-E-16</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Anonymous</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref6">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Donor (?), Joel R. Poinsett, 1830.</p>
+        </acqinfo>
+        <odd id="ref14">
+            <head>Early American History Note</head>
+            <p>Compiled by an anonymous traveler to Mexico sometime in the 19th century, this large volume contains hundreds of extremely intricate pencil and watercolor sketches of Mexican artifacts and sites that were seen during an expedition to Mexico.</p>
+        </odd>
+        <controlaccess>
+            <genreform source="leah">Art</genreform>
+            <subject source="leah">Beyond Early America</subject>
+            <subject source="lcsh">Indians of Mexico</subject>
+            <subject source="leah">International Travel</subject>
+            <subject source="leah">Literature, Arts, and Culture</subject>
+            <geogname source="lcsh">Mexico--Antiquities. </geogname>
+            <subject source="lcsh">Mixtec Indians</subject>
+            <genreform source="leah">Sketchbooks</genreform>
+            <genreform source="lcsh">Sketches.</genreform>
+            <genreform source="leah">Travel Narratives and Journals</genreform>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref1" level="item">
+                <did>
+                    <unittitle>Pyramide de Paplanta [sic]. Description Ic[o]nografica, de la antigua y famosa Piramide o Adoratorio del Pueblo de Papantla [1785].</unittitle>
+                    <unitid>Freeman 2189</unitid>
+                    <langmaterial>
+                        <language langcode="spa"/>
+                    </langmaterial>
+                    <physdesc>
+                        <extent>1.0 Item(s)</extent>
+                        <extent>16 p.</extent>
+                    </physdesc>
+                    <unitdate normal="1785/1785">1785</unitdate>
+                    <abstract id="ref2" label="Abstract">First is an extract from the Gazeta de Mexico for Tuesday, July 1785, entitled "Papantla." Second is a brief description of the iconographic decorations, together with 4 pencil sketches.</abstract>
+                </did>
+            </c01>
+            <c01 id="ref3" level="item">
+                <did>
+                    <unittitle>Varios modas de pintar. Y por geroglificos en el fresco y al temple [1785-1806?]</unittitle>
+                    <unitid>Freeman 444</unitid>
+                    <langmaterial>
+                        <language langcode="spa"/>
+                    </langmaterial>
+                    <physdesc>
+                        <extent>1.0 Item(s)</extent>
+                        <extent>18 p.</extent>
+                    </physdesc>
+                    <unitdate normal="1785/1806" type="inclusive">Circa</unitdate>
+                    <abstract id="ref4" label="Abstract">A brief discussion of coloring techniques with some mention of figures used.</abstract>
+                </did>
+            </c01>
+            <c01 id="ref7" level="item">
+                <did>
+                    <unittitle>Algo de lengua mexicana, y de la explicacion de Algunos geroglificos [n.d.].</unittitle>
+                    <unitid>Freeman 2337</unitid>
+                    <langmaterial>
+                        <language langcode="spa"/>
+                    </langmaterial>
+                    <physdesc>
+                        <extent>1.0 Item(s)</extent>
+                    </physdesc>
+                    <unitdate>n.d.</unitdate>
+                    <abstract id="ref8" label="Abstract">A brief essay on phonology, dialectical differences, and an explanation of some hieroglyphics.</abstract>
+                    <physdesc id="ref9" label="General Physical Description note">1 item, 15 p.</physdesc>
+                </did>
+            </c01>
+            <c01 id="ref10" level="item">
+                <did>
+                    <unittitle>Notas varias y Caprichosas; Tehuantepec, Tonila, etc. [ca. 1800].</unittitle>
+                    <unitid>Freeman 2181</unitid>
+                    <langmaterial>
+                        <language langcode="spa"/>
+                    </langmaterial>
+                    <physdesc>
+                        <extent>1.0 Item(s)</extent>
+                        <extent>17 p.</extent>
+                    </physdesc>
+                    <unitdate normal="1800/1800">Circa </unitdate>
+                    <physdesc id="ref11" label="General Physical Description note">1 item, 17 p.</physdesc>
+                    <abstract id="ref12" label="Abstract">Discusses means of construction and decoration of stone work in various Mexican and Mayan sites. (One sheet bears reference to 2nd Mixtecan expedition, 1806, i.e., DuPaix's 1806 expedition.)</abstract>
+                </did>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

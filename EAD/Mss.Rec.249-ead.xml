@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Rec.249</num>
+                </titleproper>
+                <author>Finding aid prepared by Brian Carpenter</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+                <date>June 2011</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T21:15-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Comparative Studies in Athapascan Syntax</unittitle>
+            <unitid>Mss.Rec.249</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="apa"/>
+            </langmaterial>
+            <physdesc>
+                <extent>2.0 Reel(s)</extent>
+            </physdesc>
+            <unitdate>1998</unitdate>
+            <physdesc id="ref1" label="General Physical Description">2 sound tape reels (1 hr., 20 min.) : analog, 7 1/2 ips, full track, mono ; 7 in.</physdesc>
+            <abstract id="ref4" label="Abstract">Elicited sentences in Western Apache, recorded as part 1 of a 2-part study to compare syntax in Western Apache (Southern Athabaskan) and Tsuu T'ina (Sarcee: Northern Athabaskan). The tapes and transcripts for part 2 are not in the APS Library collections.</abstract>
+            <origination label="creator">
+                <persname rules="aacr" source="local" role="Author (aut)">Potter, Brian</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref5">
+            <head>Immediate Source of Acquisition</head>
+            <p>Donated by Brian Potter in 1998 (Acc. 98-1112r). This material was recorded with the assistance of a Phillips Fund grant.</p>
+        </acqinfo>
+        <relatedmaterial id="ref3">
+            <head>Related Archival Materials</head>
+            <p>A transcript of the recording, as well as other related manuscript material, including a primer on Western Apache and the "Western Apache Verb Project," are available in the 
+                <extref ns2:actuate="onLoad" ns2:show="new" ns2:href="http://www.amphilsoc.org/mole/view?docId=ead/Mss.497.3.Am4-ead.xml">Phillips Fund Collection</extref> (Mss.497.3.Am4).</p>
+        </relatedmaterial>
+        <controlaccess>
+            <genreform source="ingest">Sound recordings</genreform>
+            <subject source="lcsh">Western Apache language--Syntax</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

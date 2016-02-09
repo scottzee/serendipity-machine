@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.497.3.H35n-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.497.3.H35n</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:12-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="item">
+        <did>
+            <unittitle>Names which the Lenni Lenape...had given to rivers, streams, places, etc., 1822</unittitle>
+            <unitid>Mss.497.3.H35n</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="del"/>
+            </langmaterial>
+            <container id="cid804" type="Volume" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>1.0 Volume(s)</extent>
+                <extent>1 volume, 58 p.</extent>
+            </physdesc>
+            <unitdate normal="1822/1822">1822</unitdate>
+            <langmaterial id="ref10" label="Language of Materials note">In Delaware with English translations.</langmaterial>
+            <abstract id="ref1" label="Abstract">Place names (taken from deeds of conveyance and maps, and narrated by Indians) for Pennsylvania, New Jersey, Maryland, and Virginia, together with names and biographies of chiefs and famous men. Translations included.</abstract>
+            <physdesc id="ref8" label="General Physical Description note">1 volume, 58 p.</physdesc>
+            <physloc id="ref11" label="Paging">LH-MV-E-15</physloc>
+            <origination label="creator">
+                <persname source="naf" role="Author (aut)">Heckewelder, John Gottlieb Ernestus, 1743-1823</persname>
+            </origination>
+        </did>
+        <odd id="ref9">
+            <head>General note</head>
+            <p>This item was prepared for publication by Peter S. Du Ponceau and printed in American Philosophical Society "Transactions", n.s., 4 (1834): 351-396. See also Pam. v.1113,no.22.</p>
+        </odd>
+        <acqinfo id="ref7">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by John Gottlieb Ernestus Heckewelder and accessioned, 1822 (6807).</p>
+        </acqinfo>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>John Gottlieb Ernestus Heckewelder served as a Moravian missionary to the Indians of Ohio.</p>
+        </bioghist>
+        <odd id="ref12">
+            <head>Early American History Note</head>
+            <p>The John Heckewelder Collection consists of an assortment of documents, almost all of which deal with Native Americans. Heckewelder was a Moravian missionary to Delaware Indians in Pennsylvania who was a prominent figure in nineteenth century intellectual circles. The primary focus of the collection is on his attempt to preserve Native American languages, especially those of the Lenni Lenape (Delaware) in Pennsylvania. His correspondence and one publication also chronicle Native American history, customs, and life. Heckewelder also kept a meteorological journal while on his mission to Gnadenhutten, Pa from 1802-1814, which is part of the collection. Much of the collection comes from Heckewelder’s correspondence with the APS and its prominent member and linguist Stephen DuPonceau.</p>
+            <p>There are many content rich sources in the collection. Heckewelder’s “Communications to the Historical and Literary Committee” is a 187 page bound volume of correspondence that includes responses to queries on Indian history, his own observations of Native culture, and records of Native American oral histories as conveyed to Heckewelder (970.1 H35c). The record provides insight in Native American history, white understanding of Native cultures, and oral traditions in the early nineteenth century. Among the oral histories Heckewelder records is a contact story, the history of the “emigration” of the Lenni Lenape from the west, and origins stories of other Native groups as related by the Delaware.</p>
+            <p>The collection also contains his extensive correspondence with Peter DuPonceau on Indian culture and language (497.3 H35o). The content of these letters add additional details that were not included in his publications or other writings.</p>
+            <p>Also of significance are his notes on the names that the Lenni Lenape called areas of the Mid-Atlantic that also contain a list of important Indian leaders (497.3 H35n). These brief biographical sketches are based on details provided by Indians or Heckewelder’s own interactions with them.</p>
+            <p>Finally, remaining portions of the Heckewelder Collection contain detailed meteorological data for Gnadenhutten (551.5 H352) and other language data.</p>
+        </odd>
+        <controlaccess>
+            <persname source="ingest">Du Ponceau , Peter Stephen, 1760-1844</persname>
+            <genreform source="leah">Diaries</genreform>
+            <subject source="leah">Language and Linguistics</subject>
+            <subject source="lcsh">Names, Delaware.</subject>
+            <subject source="lcsh">Names, Indian -- North America.</subject>
+            <subject source="leah">Native America</subject>
+            <genreform source="leah">Native American Materials</genreform>
+            <genreform source="leah">Oral History</genreform>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.113.M28e-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.113.M28e</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:07-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="item">
+        <did>
+            <unittitle>Nouveau système du monde, 1715-1724</unittitle>
+            <unitid>Mss.113.M28e</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="fre"/>
+            </langmaterial>
+            <container id="cid681" type="Volume" label="Manuscripts">1-3</container>
+            <physdesc>
+                <extent>3.0 Volume(s)</extent>
+                <extent>3 volumes, 915 p. </extent>
+            </physdesc>
+            <unitdate normal="1715/1724" type="inclusive">1715-1724</unitdate>
+            <abstract id="ref1" label="Abstract">This is an extract from a manuscript and is divided into three parts. This volume puts forth the theory that the visible geological formations of the earth were formed in the depths of the ocean; it offers opinions that support this system; and then predicts the natural consequences of the loss of all living beings from the waters of the ocean.</abstract>
+            <physdesc id="ref8" label="General Physical Description note">3 volumes, 915 p.</physdesc>
+            <physloc id="ref10" label="Paging">LH-MV-E-15</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Maillet, Benoît de,1656-1738.</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref7">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Purchased at the sale of Benjamin Franklin's library, 1803.</p>
+        </acqinfo>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>The well-traveled French diplomat Benoît de Maillet worked as an anthropologist and author; he was the first to formulate an evolutionary hypothosis to explain the origin of man.</p>
+        </bioghist>
+        <odd id="ref9">
+            <head>Early American History Note</head>
+            <p>This three volume set is one of eight known manuscripts of Benoit De Maillet’s Nouveau System du Monde. Although it is listed as being an extract, that designation only applies to the first eighty-two pages. The remaining three volumes are a complete version of the work, which may differ significantly from the printed version. This set came from Benjamin Franklin’s private library.</p>
+        </odd>
+        <controlaccess>
+            <subject source="leah">Beyond Early America</subject>
+            <subject source="lcsh">Earth sciences.</subject>
+            <subject source="lcsh">Formations (Geology)</subject>
+            <genreform source="leah">Manuscript Essays</genreform>
+            <subject source="lcsh">Marine biology.</subject>
+            <subject source="leah">Natural History</subject>
+            <subject source="lcsh">Oceanography.</subject>
+            <subject source="leah">Science and Technology</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

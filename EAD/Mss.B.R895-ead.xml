@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.R895-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.R895</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T19:58-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="item">
+        <did>
+            <unittitle>Samuel Rush notebook, 1859</unittitle>
+            <unitid>Mss.B.R895</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1564" type="Volume" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>1.0 Volume(s)</extent>
+                <extent>1 volume, 116 p.</extent>
+            </physdesc>
+            <unitdate normal="1859/1859">1859</unitdate>
+            <abstract id="ref1" label="Abstract">This notebook contains short essays on various topics, such as public singers ("the Mountebanks of the Voice"), the embarrassments of public men (Daniel E. Sickles and Philip Barton Key), songs, wit, wealth, suicide, Benjamin Rush, "that little sneak Kossuth," and modern authors ("the present wretches of the pen").</abstract>
+            <physdesc id="ref6" label="General Physical Description note">1 volume, 116 p.</physdesc>
+            <physloc id="ref8" label="Paging">LH-MV-E-15</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Rush, Samuel,1795-1859.</persname>
+            </origination>
+        </did>
+        <odd id="ref7">
+            <head>Early American History Note</head>
+            <p>This volume contains an assortment of essays presumably written by Samuel Rush. The topics are wide ranging and cover many cultural and social issues of the day. The opening essay critiques “public singers,” while others touch on suicide, music, and public life.</p>
+        </odd>
+        <acqinfo id="ref5">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Purchased ($70.00) and accessioned, 1943 (1943 84466).</p>
+        </acqinfo>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>Samuel Rush was a lawyer, recorder of Philadelphia, and the son of Benjamin Rush.</p>
+        </bioghist>
+        <controlaccess>
+            <persname rules="aacr" source="local">Key, Philip Barton</persname>
+            <persname rules="aacr" source="naf">Kossuth, Lajos, 1802-1894</persname>
+            <persname rules="aacr" source="naf">Rush, Benjamin, 1746-1813</persname>
+            <persname rules="aacr" source="naf">Sickles, Daniel E. </persname>
+            <genreform source="lcsh">Essays.</genreform>
+            <subject source="leah">Literature, Arts, and Culture</subject>
+            <genreform source="leah">Manuscript Essays</genreform>
+            <genreform source="lcsh">Notebooks.</genreform>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

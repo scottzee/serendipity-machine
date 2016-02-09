@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.594.L16</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:21-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Lamarck's genera of shells, [ca. 1831]</unittitle>
+            <unitid>Mss.594.L16</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid971" type="Volume" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>1.0 Volume(s)</extent>
+                <extent>1 volume, 111 p. </extent>
+            </physdesc>
+            <unitdate normal="1831/1831">Circa 1831</unitdate>
+            <abstract id="ref1" label="Abstract">This volume was copied by Philip Holbrook Nicklin, a Philadelphia author and bookseller, from portions of the "London Quarterly Journal of Science Literature and the Arts" and partly from a translation of the original, to which is prefixed a short conchological introduction, containing descriptions of the Linnean genera, &amp; of those species, from which Lamarck has formed most of his genera.</abstract>
+            <physdesc id="ref12" label="General Physical Description note">1 volume, 111 p.</physdesc>
+            <physloc id="ref14" label="Paging">LH-MV-E-10</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Nicklin, Philip Houlbrooke,1786-1842.</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref11">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by Philip Holbrook Nicklin and accessioned, 1831 (1831 12018).</p>
+            <p></p>
+        </acqinfo>
+        <odd id="ref7">
+            <head>General note</head>
+            <p>There is an index to Lamarck's genera in the volume.</p>
+        </odd>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>Lamarck was a zoologist.</p>
+        </bioghist>
+        <odd id="ref13">
+            <head>Early American History Note</head>
+            <p>This volume is a manuscript copy of of Lamarck's Genera of Shells. It was copied from various sources, including the "London Quarterly Journal of Science."</p>
+        </odd>
+        <controlaccess>
+            <persname source="ingest">Lamarck, Jean Baptiste Pierre Antoine de Monet de, 1744-1829</persname>
+            <genreform source="leah">Manuscript Essays</genreform>
+            <subject source="lcsh">Mollusks.</subject>
+            <subject source="leah">Natural History</subject>
+            <subject source="lcsh">Natural history.</subject>
+            <subject source="leah">Science and Technology</subject>
+            <subject source="lcsh">Zoology.</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

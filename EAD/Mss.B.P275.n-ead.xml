@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.P274.n-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.P275.n</num>
+                </titleproper>
+                <author>Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T19:50-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Robert Maskell Patterson notebooks, 1810-1811</unittitle>
+            <unitid>Mss.B.P275.n</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid97814" type="Volume" label="Manuscripts">1-4</container>
+            <physdesc>
+                <extent>4.0 Volume(s)</extent>
+            </physdesc>
+            <unitdate normal="1810/1811" type="inclusive">1810-1811</unitdate>
+            <abstract id="ref1" label="Abstract">These are notes of lectures and experiments made at Paris as a student at the Jardin des Plantes. The volumes are entitled: Botany &amp; Agriculture (with a large portion actually on electrical machinery); Trees and Shrubs; Chemistry, Physics, Mineralogy; and Zoology.</abstract>
+            <physdesc id="ref2" label="General Physical Description note">4 volumes.</physdesc>
+            <physloc id="ref7" label="Paging">LH-MV-E-3</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Patterson, , Robert M.,  (Robert Maskell), 1787-1854</persname>
+            </origination>
+        </did>
+        <bioghist id="ref4">
+            <head>Biographical/Historical note</head>
+            <p>Professor of natural philosophy Robert maskell Patterson became the director of the United States Mint; he was elected to the APS in 1809.</p>
+        </bioghist>
+        <acqinfo id="ref5">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by Rev. James O. Patterson, 1955.</p>
+        </acqinfo>
+        <odd id="ref6">
+            <head>Early American History Note</head>
+            <p>Previously catalogued as part of the the Robert Patterson Collection, this portion contains lecture notes on natural philosophy, death, mathematics, engineering, and other subjects. In addition to the notes, there is a class roster from the Universities of Pennsylvania and Virginia and copies of exams. There is also meteorological data for 1775 and 1776.</p>
+        </odd>
+        <controlaccess>
+            <subject source="ingest">Agriculture</subject>
+            <subject source="lcsh">Botany</subject>
+            <subject source="lcsh">Chemistry</subject>
+            <subject source="leah">Education</subject>
+            <genreform source="leah">Educational Material</genreform>
+            <genreform source="leah">Meteorological Data</genreform>
+            <subject source="lcsh">Mineralogy</subject>
+            <subject source="leah">Natural History</subject>
+            <genreform source="leah">Notebooks</genreform>
+            <subject source="lcsh">Physics</subject>
+            <subject source="leah">Science and Technology</subject>
+            <subject source="ingest">Zoology</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

@@ -1,0 +1,814 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Rec.7</num>
+                    <num>Mss.Rec.7</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Brian Carpenter</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+                <date>January 2011</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T21:18-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Stories in Chitimacha</unittitle>
+            <unitid>Mss.Rec.7</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="nai"/>
+            </langmaterial>
+            <physdesc>
+                <extent>2.0 Reel(s)</extent>
+            </physdesc>
+            <unitdate>1933, 1934</unitdate>
+            <abstract id="ref3" label="Abstract">This collection primarily contains Chitimacha material, with some additional Nootka material, originally recorded on 23 wax cylinders by Morris Swadesh in 1933 and 1934. The recordings were transferred circa 1951 to 2 sound tape reels. Due to the poor condition of the original cylinders, the sound quality of the recordings is generally poor. Tape 1 contains elicited sentences, folklore, and autobiographical stories told in Chitimacha by Benjamin Paul, chief from 1903 to 1934, and Delphine Ducloux, the last known speaker of Chitimacha. Recorded in Louisiana in 1933 on 22 wax cylinders. Tape 2 contains elicited sentences, unidentified narrative, and some singing in Nootka by Alex Thomas. Recorded at Port Alberni, British Columbia, on 1 wax cylinder in 1934.</abstract>
+            <physdesc id="ref2" label="General Physical Description note">2 sound tape reels (1 hr., 53 min.) : analog, 3 3/4 ips, 2 track, mono; 7 in.</physdesc>
+            <physloc id="ref97" label="Paging">LH-B-32-1</physloc>
+            <origination label="creator">
+                <persname source="ingest">Ducloux, Delphine</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest">Paul, Benjamin</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Swadesh, Morris, 1909-1967</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest">Thomas, Alex</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref4">
+            <head>Immediate Source of Acquisition</head>
+            <p>Donated by Morris Swadesh in 1950.</p>
+        </acqinfo>
+        <relatedmaterial id="ref5">
+            <head>Related Archival Material</head>
+            <p>Morris Swadesh's Chitimacha dictionary file, Chitimacha-English dictionary, fieldnotes, grammar, texts, vocabulary, and other material can be found in the 
+                <extref ns2:actuate="onLoad" ns2:show="new" ns2:href="http://www.amphilsoc.org/mole/view?docId=ead/Mss.497.3.B63c-ead.xml">Franz Boas Collection of Materials for American Linguistics</extref> (Mss.497.3.B63c.)</p>
+        </relatedmaterial>
+        <controlaccess>
+            <subject source="lcsh">Animals--Folklore</subject>
+            <subject source="lcsh">Basket making</subject>
+            <subject source="lcsh">Chitimacha Indians--Folklore</subject>
+            <subject source="lcsh">Chitimacha language</subject>
+            <subject source="lcsh">Indians of North America--Migrations</subject>
+            <subject source="lcsh">Nootka Indians--Music</subject>
+            <subject source="lcsh">Nootka language</subject>
+            <genreform source="ingest">Sound recordings</genreform>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref6" level="series">
+                <did>
+                    <unittitle>Audio recordings</unittitle>
+                </did>
+                <c02 id="ref60" level="file">
+                    <did>
+                        <unittitle>Rabbit Splits His Nose</unittitle>
+                        <unitid>01-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1934</unitdate>
+                        <physdesc id="ref61" label="General Physical Description note">
+                            <extent>00:07:50</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Paul, Benjamin</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Swadesh, Morris, 1909-1967</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref63">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Cylinder recording) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0048" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5814">
+                        <daodesc>
+                            <p>APSdigrec_0048</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Animals--Folklore</subject>
+                        <subject source="lcsh">Chitimacha Indians--Folklore</subject>
+                        <subject source="lcsh">Chitimacha language</subject>
+                        <geogname source="ingest">Louisiana</geogname>
+                        <subject source="ingest">Rabbits--Folklore</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref40" level="file">
+                    <did>
+                        <unittitle>Grandmother Teasing Song; How the Indian Came</unittitle>
+                        <unitid>02-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1934</unitdate>
+                        <physdesc id="ref41" label="General Physical Description note">
+                            <extent>00:05:45</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Paul, Benjamin</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Swadesh, Morris, 1909-1967</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref43">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Cylinder recording) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0049" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5820">
+                        <daodesc>
+                            <p>APSdigrec_0049</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Chitimacha Indians--Folklore</subject>
+                        <subject source="lcsh">Chitimacha language</subject>
+                        <subject source="lcsh">Indians of North America--Migrations</subject>
+                        <geogname source="ingest">Louisiana</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref81" level="file">
+                    <did>
+                        <unittitle>The Chart of the Sky; Old Owl Woman</unittitle>
+                        <unitid>03-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1934-09-17</unitdate>
+                        <physdesc id="ref82" label="General Physical Description note">
+                            <extent>00:07:15</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Paul, Benjamin</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Swadesh, Morris, 1909-1967</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref84">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Cylinder recording) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0050" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5819">
+                        <daodesc>
+                            <p>APSdigrec_0050</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Chitimacha Indians--Folklore</subject>
+                        <subject source="lcsh">Chitimacha language</subject>
+                        <geogname source="ingest">Louisiana</geogname>
+                        <subject source="ingest">Owls--Folklore</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref64" level="file">
+                    <did>
+                        <unittitle>Rabbit Splits His Nose; Wolf and Turtle</unittitle>
+                        <unitid>04-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1934</unitdate>
+                        <physdesc id="ref65" label="General Physical Description note">
+                            <extent>00:07:24</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Paul, Benjamin</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Swadesh, Morris, 1909-1967</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref67">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Cylinder recording) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0051" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5813">
+                        <daodesc>
+                            <p>APSdigrec_0051</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Chitimacha Indians--Folklore</subject>
+                        <subject source="lcsh">Chitimacha language</subject>
+                        <geogname source="ingest">Louisiana</geogname>
+                        <subject source="ingest">Rabbits--Folklore</subject>
+                        <subject source="ingest">Turtles</subject>
+                        <subject source="ingest">Wolves--Folklore</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref52" level="file">
+                    <did>
+                        <unittitle>Mockingbird and Owl; Two Chickens; When the World Began [1 of 2]</unittitle>
+                        <unitid>05-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1934</unitdate>
+                        <physdesc id="ref53" label="General Physical Description note">
+                            <extent>00:05:54</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Paul, Benjamin</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Swadesh, Morris, 1909-1967</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref55">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Cylinder recording) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0052" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5818">
+                        <daodesc>
+                            <p>APSdigrec_0052</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Chickens</subject>
+                        <subject source="lcsh">Chitimacha Indians--Folklore</subject>
+                        <subject source="lcsh">Chitimacha language</subject>
+                        <subject source="ingest">Creation--Mythology</subject>
+                        <geogname source="ingest">Louisiana</geogname>
+                        <subject source="ingest">Mockingbirds--Folklore</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref93" level="file">
+                    <did>
+                        <unittitle>When the World Began [2 of 2]; Some Sentences Continued and Concluded; The Neighbors' Fight [beginning]</unittitle>
+                        <unitid>06-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1934</unitdate>
+                        <physdesc id="ref94" label="General Physical Description note">
+                            <extent>00:05:38</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Paul, Benjamin</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Swadesh, Morris, 1909-1967</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref96">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Cylinder recording) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0053" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5815">
+                        <daodesc>
+                            <p>APSdigrec_0053</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Chitimacha Indians--Folklore</subject>
+                        <subject source="lcsh">Chitimacha language</subject>
+                        <subject source="ingest">Creation--Mythology</subject>
+                        <geogname source="ingest">Louisiana</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref20" level="file">
+                    <did>
+                        <unittitle>Chitimacha sentences</unittitle>
+                        <unitid>07-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1934</unitdate>
+                        <physdesc id="ref21" label="General Physical Description note">
+                            <extent>00:05:25</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Paul, Benjamin</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Swadesh, Morris, 1909-1967</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref23">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Cylinder recording) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0054" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5816">
+                        <daodesc>
+                            <p>APSdigrec_0054</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Chitimacha language</subject>
+                        <geogname source="ingest">Louisiana</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref89" level="file">
+                    <did>
+                        <unittitle>The Snake-Bite Story; Chitimacha Phrases</unittitle>
+                        <unitid>08-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1934</unitdate>
+                        <physdesc id="ref90" label="General Physical Description note">
+                            <extent>00:05:27</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Paul, Benjamin</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Swadesh, Morris, 1909-1967</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref92">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Cylinder recording) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0055" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5821">
+                        <daodesc>
+                            <p>APSdigrec_0055</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Chitimacha Indians--Folklore</subject>
+                        <subject source="lcsh">Chitimacha language</subject>
+                        <geogname source="ingest">Louisiana</geogname>
+                        <subject source="ingest">Snakes</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref76" level="file">
+                    <did>
+                        <unittitle>Stories in Chitimacha, Cylinder #9 (Deer and Turtle as Rivals [1 of 2]?)</unittitle>
+                        <unitid>09-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1934</unitdate>
+                        <physdesc id="ref77" label="General Physical Description note">
+                            <extent>00:05:41</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Paul, Benjamin</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Swadesh, Morris, 1909-1967</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref78">
+                        <head>Scope and Contents note</head>
+                        <p>Untitled cylinder. May be "Deer and Turtle as Rivals (part 1 of 2)"</p>
+                    </scopecontent>
+                    <originalsloc id="ref80">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Cylinder recording) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0056" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5817">
+                        <daodesc>
+                            <p>APSdigrec_0056</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Animals--Folklore</subject>
+                        <subject source="lcsh">Chitimacha Indians--Folklore</subject>
+                        <subject source="lcsh">Chitimacha language</subject>
+                        <subject source="ingest">Deer</subject>
+                        <geogname source="ingest">Louisiana</geogname>
+                        <subject source="ingest">Turtles</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref28" level="file">
+                    <did>
+                        <unittitle>Deer and Turtle as Rivals [2 of 2]</unittitle>
+                        <unitid>10-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1934</unitdate>
+                        <physdesc id="ref29" label="General Physical Description note">
+                            <extent>00:05:52</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Paul, Benjamin</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Swadesh, Morris, 1909-1967</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref31">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Cylinder recording) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0057" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5806">
+                        <daodesc>
+                            <p>APSdigrec_0057</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Animals--Folklore</subject>
+                        <subject source="lcsh">Chitimacha language</subject>
+                        <subject source="ingest">Deer</subject>
+                        <geogname source="ingest">Louisiana</geogname>
+                        <subject source="ingest">Turtles</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref32" level="file">
+                    <did>
+                        <unittitle>DuPlessis in League with the Devil [1 of 2]</unittitle>
+                        <unitid>11-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1934</unitdate>
+                        <physdesc id="ref33" label="General Physical Description note">
+                            <extent>00:03:09</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Paul, Benjamin</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Swadesh, Morris, 1909-1967</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref35">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Cylinder recording) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0058" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5805">
+                        <daodesc>
+                            <p>APSdigrec_0058</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Chitimacha language</subject>
+                        <subject source="ingest">Devil--Folklore</subject>
+                        <geogname source="ingest">Louisiana</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref36" level="file">
+                    <did>
+                        <unittitle>DuPlessis in League with the Devil [2 of 2]; How Longhorn Got Her Name</unittitle>
+                        <unitid>12-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1934</unitdate>
+                        <physdesc id="ref37" label="General Physical Description note">
+                            <extent>00:02:58</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Paul, Benjamin</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Swadesh, Morris, 1909-1967</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref39">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Cylinder recording) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0059" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5809">
+                        <daodesc>
+                            <p>APSdigrec_0059</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Chitimacha Indians--Folklore</subject>
+                        <subject source="lcsh">Chitimacha language</subject>
+                        <subject source="ingest">Devil--Folklore</subject>
+                        <geogname source="ingest">Louisiana</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref48" level="file">
+                    <did>
+                        <unittitle>Marriage of the Chief's Daughters</unittitle>
+                        <unitid>13-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1934</unitdate>
+                        <physdesc id="ref49" label="General Physical Description note">
+                            <extent>00:02:47</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Paul, Benjamin</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Swadesh, Morris, 1909-1967</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref51">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Cylinder recording) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0060" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5808">
+                        <daodesc>
+                            <p>APSdigrec_0060</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Chitimacha language</subject>
+                        <geogname source="ingest">Louisiana</geogname>
+                        <subject source="ingest">Marriage</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref85" level="file">
+                    <did>
+                        <unittitle>The Snake-Bite Story</unittitle>
+                        <unitid>14-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1934</unitdate>
+                        <physdesc id="ref86" label="General Physical Description note">
+                            <extent>00:02:41</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Paul, Benjamin</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Swadesh, Morris, 1909-1967</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref88">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Cylinder recording) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0061" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5807">
+                        <daodesc>
+                            <p>APSdigrec_0061</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Chitimacha Indians--Folklore</subject>
+                        <subject source="lcsh">Chitimacha language</subject>
+                        <geogname source="ingest">Louisiana</geogname>
+                        <subject source="ingest">Snakes</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref68" level="file">
+                    <did>
+                        <unittitle>Some Talk About Hunting</unittitle>
+                        <unitid>15-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1934</unitdate>
+                        <physdesc id="ref69" label="General Physical Description note">
+                            <extent>00:03:07</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Paul, Benjamin</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Swadesh, Morris, 1909-1967</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref71">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Cylinder recording) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0062" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5803">
+                        <daodesc>
+                            <p>APSdigrec_0062</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Chitimacha language</subject>
+                        <subject source="ingest">Hunting</subject>
+                        <geogname source="ingest">Louisiana</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref72" level="file">
+                    <did>
+                        <unittitle>Stories in Chitimacha, Cylinder #16</unittitle>
+                        <unitid>16-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1934</unitdate>
+                        <physdesc id="ref73" label="General Physical Description note">
+                            <extent>00:02:59</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Ducloux, Delphine</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Swadesh, Morris, 1909-1967</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref75">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Cylinder recording) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0063" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5800">
+                        <daodesc>
+                            <p>APSdigrec_0063</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Chitimacha Indians--Folklore</subject>
+                        <subject source="lcsh">Chitimacha language</subject>
+                        <geogname source="ingest">Louisiana</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref44" level="file">
+                    <did>
+                        <unittitle>How I Learned to Weave Baskets</unittitle>
+                        <unitid>17-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1934</unitdate>
+                        <physdesc id="ref45" label="General Physical Description note">
+                            <extent>00:03:03</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Ducloux, Delphine</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Swadesh, Morris, 1909-1967</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref47">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Cylinder recording) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0064" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5801">
+                        <daodesc>
+                            <p>APSdigrec_0064</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Basket making</subject>
+                        <subject source="lcsh">Chitimacha language</subject>
+                        <geogname source="ingest">Louisiana</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref7" level="file">
+                    <did>
+                        <unittitle>A Selfish Woman</unittitle>
+                        <unitid>18-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1934</unitdate>
+                        <physdesc id="ref8" label="General Physical Description note">
+                            <extent>00:05:18</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Ducloux, Delphine</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Swadesh, Morris, 1909-1967</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref10">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Cylinder recording) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0065" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5802">
+                        <daodesc>
+                            <p>APSdigrec_0065</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Chitimacha language</subject>
+                        <geogname source="ingest">Louisiana</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref11" level="file">
+                    <did>
+                        <unittitle>A Selfish Woman, further 45-55, sentences 1-4</unittitle>
+                        <unitid>19-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1934</unitdate>
+                        <physdesc id="ref12" label="General Physical Description note">
+                            <extent>00:05:12</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Ducloux, Delphine</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Swadesh, Morris, 1909-1967</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref13">
+                        <head>Scope and Contents note</head>
+                        <p>Numbering in title refers to location of recorded material on original wax cylinder.</p>
+                    </scopecontent>
+                    <originalsloc id="ref15">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Cylinder recording) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0066" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5799">
+                        <daodesc>
+                            <p>APSdigrec_0066</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Chitimacha language</subject>
+                        <geogname source="ingest">Louisiana</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref24" level="file">
+                    <did>
+                        <unittitle>Chitimacha Speech &amp; Songs</unittitle>
+                        <unitid>20-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1934</unitdate>
+                        <physdesc id="ref25" label="General Physical Description note">
+                            <extent>00:05:07</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Ducloux, Delphine</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Swadesh, Morris, 1909-1967</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref27">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Cylinder recording) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0067" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5811">
+                        <daodesc>
+                            <p>APSdigrec_0067</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Chitimacha Indians--Folklore</subject>
+                        <subject source="lcsh">Chitimacha language</subject>
+                        <geogname source="ingest">Louisiana</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref16" level="file">
+                    <did>
+                        <unittitle>Chitimacha Sentences</unittitle>
+                        <unitid>21-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1934</unitdate>
+                        <physdesc id="ref17" label="General Physical Description note">
+                            <extent>00:05:08</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Ducloux, Delphine</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Swadesh, Morris, 1909-1967</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref19">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Cylinder recording) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0068" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5798">
+                        <daodesc>
+                            <p>APSdigrec_0068</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Chitimacha language</subject>
+                        <geogname source="ingest">Louisiana</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref56" level="file">
+                    <did>
+                        <unittitle>Nootka Sentences and Story</unittitle>
+                        <unitid>23-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1933</unitdate>
+                        <physdesc id="ref57" label="General Physical Description note">
+                            <extent>00:07:48</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Swadesh, Morris, 1909-1967</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Thomas, Alex</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref59">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Cylinder recording) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0069" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:5804">
+                        <daodesc>
+                            <p>APSdigrec_0069</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Nootka Indians--Music</subject>
+                        <subject source="lcsh">Nootka language</subject>
+                        <geogname source="ingest">Port Alberni (B.C.)</geogname>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

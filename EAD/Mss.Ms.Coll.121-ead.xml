@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Ms.Coll.121-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Ms.Coll.121</num>
+                </titleproper>
+                <author>Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T20:26-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Sanford Louis Palay Papers, 1938-2002</unittitle>
+            <unitid>Mss.Ms.Coll.121</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid97813" type="Box" label="Manuscripts">1-154</container>
+            <physdesc>
+                <extent>77.0 Linear feet</extent>
+            </physdesc>
+            <unitdate normal="1938/2002" type="inclusive">1938-2002</unitdate>
+            <physdesc id="ref4" label="General Physical Description note">77 linear ft.</physdesc>
+            <abstract id="ref3" label="Abstract">The Palay collection contains the bulk of Palay's professional correspondence from his days as a medical student until after his retirement. The collection includes class notes, research notes on brain anatomy and physiology and on the golgi apparatus, a large number of electron micrographs of brain structures, and editorial files from the Journal of Comparative Neurology (1980-1997).</abstract>
+            <physloc id="ref5" label="Paging">LH-SB-21-6</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Palay, Sanford L.</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref1">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Gift of the estate of Sanford Palay through Victoria Palay, 2003.</p>
+        </acqinfo>
+        <bioghist id="ref2">
+            <head>Biographical/Historical note</head>
+            <p>A pioneering neuroscientist, Sanford L. Palay began research into the structure and function of the brain as a student at Western Reserve Medical School (MD, 1943). His research on the fine structure of synaptic vesicles at the Rockefeller Institute in 1953, resulted in a series of electron micrographs that are often cited as the first images of the synapse and of the structures that release messenger chemicals in the brain. His later work at the National Institutes of Health and at Harvard Medical School (1961-1989) helped provide a well rounded picture of the structure of neuroglia (cells that support and protect neurons) and of the cerebellum. Palay was the long-time editor of the Journal of Comparative Neurology.</p>
+        </bioghist>
+        <controlaccess>
+            <subject source="lcsh">Brain--Anatomy. </subject>
+            <genreform source="lcsh">Correspondence.</genreform>
+            <subject source="lcsh">Golgi apparatus. </subject>
+            <subject source="lcsh">Neuroglia. </subject>
+            <genreform source="aat">Research notes. </genreform>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.497.J35-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.497.J35</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:10-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Comparative vocabularies of several Indian languages, 1802-1808</unittitle>
+            <unitid>Mss.497.J35</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid838" type="Volume" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>1.0 Volume(s)</extent>
+                <extent>1 volume, 72 p. </extent>
+            </physdesc>
+            <unitdate normal="1802/1808" type="inclusive">1802-1808</unitdate>
+            <abstract id="ref1" label="Abstract">This item contains Jefferson's comparative vocabulary, based on his collection of vocabularies taken on printed forms; a second comparative vocabulary; and John Sibley's vocabulary of the Caddo language. This document was damaged in transit from the White House to Monticello in 1809 (see letters of Jefferson to Peter S. Du Ponceau, November 7, 1817, and April 26, 1816.)</abstract>
+            <physdesc id="ref19" label="General Physical Description note">1 volume, 72 p.</physdesc>
+            <physloc id="ref22" label="Paging">LH-MV-E-8</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Jefferson, Thomas, 1743-1826</persname>
+            </origination>
+        </did>
+        <bioghist id="ref12">
+            <head>Biographical/Historical note</head>
+            <p>Thomas Jefferson served as president of the United States, 1801-1809, and of the American Philosophical Society, 1797-1815. John Sibley was an Indian agent for Orleans Territory, 1805-1814, and gathered vocabularies of tribes within the territory and reported his findings to Jefferson.</p>
+        </bioghist>
+        <acqinfo id="ref9">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by Thomas Jefferson and accessioned, 1817 (1817 51356).</p>
+            <p></p>
+        </acqinfo>
+        <altformavail id="ref5">
+            <head>Existence and Location of Copies note</head>
+            <p>This item is also available on microfilm (Film 1474, no. 2).</p>
+        </altformavail>
+        <odd id="ref23">
+            <head>Early American History Note</head>
+            <p>Presented to the APS by Thomas Jefferson in 1817, this volume contains Jefferson's compilation of Indian Vocabularies.</p>
+        </odd>
+        <controlaccess>
+            <persname rules="aacr" source="naf">Sibley, John, 1757-1837</persname>
+            <subject source="ingest">Atacapas language</subject>
+            <subject source="lcsh">Caddo language</subject>
+            <subject source="lcsh">Cayuga language</subject>
+            <subject source="lcsh">Cherokee language</subject>
+            <subject source="lcsh">Chickasaw language</subject>
+            <subject source="lcsh">Chitimacha language</subject>
+            <subject source="lcsh">Choctaw language</subject>
+            <subject source="lcsh">Cree language</subject>
+            <subject source="lcsh">Creek language</subject>
+            <subject source="ingest">Delaware language</subject>
+            <subject source="lcsh">Indians of North America--Languages</subject>
+            <subject source="leah">Language and Linguistics</subject>
+            <genreform source="leah">Language Material</genreform>
+            <subject source="lcsh">Mahican language</subject>
+            <subject source="lcsh">Miami language (Ind. and Okla.)</subject>
+            <subject source="ingest">Munsee language</subject>
+            <subject source="ingest">Nanticoke language</subject>
+            <subject source="leah">Native America</subject>
+            <genreform source="leah">Native American Materials</genreform>
+            <subject source="lcsh">Oneida language</subject>
+            <subject source="lcsh">Onondaga language</subject>
+            <subject source="lcsh">Ottawa language</subject>
+            <subject source="lcsh">Shawnee language</subject>
+            <subject source="lcsh">Tuscarora language </subject>
+            <subject source="lcsh">Unami jargon </subject>
+            <subject source="ingest">Unquachog language</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref21" level="series">
+                <did>
+                    <unittitle>Comparative vocabularies of several Indian languages</unittitle>
+                    <container id="cid12873005" type="Volume" label="Mixed materials">1</container>
+                    <physdesc>
+                        <extent>1.0 vol.</extent>
+                    </physdesc>
+                    <unitdate normal="1802/1808" type="inclusive">1802-1808</unitdate>
+                </did>
+                <c02 id="ref20" level="item">
+                    <did>
+                        <unittitle>Page 15</unittitle>
+                        <physdesc>
+                            <extent>1.0 p.</extent>
+                        </physdesc>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Native American languages" ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:3607">
+                        <daodesc>
+                            <p>Native American languages, 1802-1808 </p>
+                        </daodesc>
+                    </dao>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

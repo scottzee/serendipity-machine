@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.W396-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.W396</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T20:07-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Leslie Tillotson Webster papers, 1909-1943</unittitle>
+            <unitid>Mss.B.W396</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1644" type="Box" label="Manuscripts">1-8</container>
+            <physdesc>
+                <extent>4.0 Linear feet</extent>
+                <extent>Ca. 2000 items</extent>
+            </physdesc>
+            <unitdate normal="1909/1943" type="inclusive">1909-1943</unitdate>
+            <physdesc id="ref8" label="General Physical Description note">Ca. 2000 items, 4 linear feet.</physdesc>
+            <abstract id="ref1" label="Abstract">Includes correspondence, diaries, lab notes, photographs. Webster was a pioneering epidemiologist working at the Rockefeller Institute (1920-1943), and his collection documents this, as well as his interest in encephalitis, poliomyelitis, rabies, and resistance to infectious diseases. Other aspects of his life can be seen in his diaries and journals: diary of 1909; privately published diary of 1919, with photos, of his service in Labrador as a physician at the International Grenfell Assoc.; European journal of 1924, with photos, of Webster's honeymoon trip which was partly paid for by the Institute in order that he could meet European scientists; diary of 1929-1943; 1930 journal of a canoe trip to James Bay, with Dr. Charles C. McCoy. There is also a volume of letters concerning his death, including biographical sketches by colleagues. The contributions of his wife, Emily deForest Weber White (later married to Dr. Harold White), to Webster's work and publications can be seen in her interesting reminiscence, "Science Recollections, 1923-1971." Her own interests after Webster's death are suggested in her report of her world trip of 1964 in behalf of the Planned Parenthood Assoc. including attendance at the International Conference of Social Work, in Athens, Greece.</abstract>
+            <physloc id="ref15" label="Paging">LH-B-29-2</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Webster, Leslie Tillotson,1894-1943.</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref7">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by Emily deForest Webster White, 1967-1972; initally accessioned, 03/--/1967 (1967 462ms). See in-house shelf list for additional accession numbers and dates.</p>
+            <p></p>
+        </acqinfo>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>Leslie Tillotson Webster was an epidemiologist and worked at the Rockefeller Institute from 1920 to 1943.</p>
+        </bioghist>
+        <controlaccess>
+            <persname rules="aacr" source="naf">Flexner, Simon, 1863-1946</persname>
+            <corpname source="ingest">International Grenfell Association.</corpname>
+            <famname source="ingest">Kasahara, S.</famname>
+            <persname rules="aacr" source="local">Kodama, M.</persname>
+            <persname rules="aacr" source="naf">McCoy, Charles C.</persname>
+            <persname rules="aacr" source="local">Muckenfuss, Ralph S.</persname>
+            <persname source="naf">Osborn, Frederick, 1889-1981</persname>
+            <persname rules="aacr" source="naf">Paul, John R.,  (John Rodman), 1893-1971 </persname>
+            <corpname source="ingest">Planned Parenthood Association.</corpname>
+            <corpname rules="aacr" source="naf">Rockefeller Institute.</corpname>
+            <persname rules="aacr" source="naf">Smith, Theobald, 1859-1934 </persname>
+            <persname rules="aacr" source="local">Takaki, Itsuma</persname>
+            <persname rules="aacr" source="naf">Topley, W. W. C.,  (William Whiteman Carlton), 1886-1944</persname>
+            <famname source="ingest">White, Emily deForest Webster.</famname>
+            <persname source="ingest">Zinsser, Hans, 1878-1940</persname>
+            <subject source="lcsh">Communicable diseases -- Transmission.</subject>
+            <genreform source="lcsh">Diaries.</genreform>
+            <subject source="lcsh">Encephalitis.</subject>
+            <subject source="lcsh">Epidemiology.</subject>
+            <geogname source="lcsh">Europe -- Description and travel.</geogname>
+            <genreform source="lcsh">Laboratory notes.</genreform>
+            <subject source="lcsh">Medical sciences.</subject>
+            <genreform source="lcsh">Photoprints.</genreform>
+            <subject source="lcsh">Poliomyelitis</subject>
+            <subject source="lcsh">Rabies.</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref9" level="series">
+                <did>
+                    <unittitle>Graphics</unittitle>
+                    <abstract id="ref10" label="Abstract">The following represents the graphics available in the Leslie Tillotson Webster papers.</abstract>
+                </did>
+                <c02 id="ref13" level="item">
+                    <did>
+                        <unittitle>Leslie T. Webster, formal portrait</unittitle>
+                        <physdesc>
+                            <extent>1.0 Photograph(s)</extent>
+                        </physdesc>
+                        <unitdate>n. d.</unitdate>
+                        <abstract id="ref14" label="Abstract">Bust length portrait of Webster.</abstract>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Leslie T. Webster, formal portrait " ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:4481">
+                        <daodesc>
+                            <p>Leslie T. Webster, formal portrait , n. d. </p>
+                        </daodesc>
+                    </dao>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

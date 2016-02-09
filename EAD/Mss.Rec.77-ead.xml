@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Rec.77-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Rec.77</num>
+                    <num>Mss.Rec.77</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Brian Carpenter</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+                <date>10-2010</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T21:18-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Wichita language materials</unittitle>
+            <unitid>Mss.Rec.77</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="nai"/>
+            </langmaterial>
+            <physdesc>
+                <extent>1.0 Reel(s)</extent>
+            </physdesc>
+            <unitdate>1965</unitdate>
+            <abstract id="ref3" label="Abstract">Elicited Wichita word and phrase list; 3 stories given in Wichita: "Why the Dove Mourns," "How the Dove is Sad," and "Turtle, Buffalo and Coyote." Free translations by collector given in transcripts.</abstract>
+            <physdesc id="ref2" label="General Physical Description note">1 sound tape reel (1 hr., 7 min.) : analog, 3 3/4 ips, 2 track, mono ; 7 in.</physdesc>
+            <physloc id="ref34" label="Paging">LH-B-32-3</physloc>
+            <origination label="creator">
+                <persname source="ingest">Miller, Frank</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="dacs" source="local">Provost, Bertha</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Rood, David S.</persname>
+            </origination>
+        </did>
+        <relatedmaterial id="ref4">
+            <head>Related Archival Materials</head>
+            <p>Report on fieldwork and dissertation on the Wichita language available in 
+                <extref ns2:actuate="onLoad" ns2:show="new" ns2:href="http://www.amphilsoc.org/mole/view?docId=ead/Mss.497.3.Am4-ead.xml">Phillips Fund collection</extref> (Mss.497.3.Am4).</p>
+        </relatedmaterial>
+        <acqinfo id="ref5">
+            <head>Immediate Source of Acquisition</head>
+            <p>Donated by David Rood in 1969. This material was recorded with the assistance of a Phillips Fund grant.</p>
+        </acqinfo>
+        <controlaccess>
+            <genreform source="ingest">Sound recordings</genreform>
+            <subject source="lcsh">Wichita Indians--Folklore</subject>
+            <subject source="lcsh">Wichita language</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref6" level="series">
+                <did>
+                    <unittitle>Audio recordings</unittitle>
+                </did>
+                <c02 id="ref7" level="file">
+                    <did>
+                        <unittitle>Wichita word and phrase list: 1-255</unittitle>
+                        <unitid>01-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1965</unitdate>
+                        <physdesc id="ref8" label="General Physical Description note">
+                            <extent>00:29:56</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Miller, Frank</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Rood, David S.</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref10">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1920" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:14413">
+                        <daodesc>
+                            <p>APSdigrec_1920</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Anadarko (Okla.)</geogname>
+                        <subject source="lcsh">Wichita language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref11" level="file">
+                    <did>
+                        <unittitle>Story about how the dove was sad</unittitle>
+                        <unitid>01-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1965</unitdate>
+                        <physdesc id="ref12" label="General Physical Description note">
+                            <extent>00:01:34</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Miller, Frank</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Rood, David S.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref13">
+                        <head>Scope and Contents note</head>
+                        <p>Story given in Wichita only. The collector's free translation is as follows: "Once upon a time a dove was cooing a great deal. We Wichita would say he was mourning. At the same time the mocking bird was mocking all the birds. When he heard this, the dove said to the mocking bird, 'You are constantly mocking all kinds of birds. But in my case, my spirits are sad and depresesed. I am mourning. May the day never come when I happend to hear you mocking me, because I am mourning. I am not cooing at all. If the day comes when you mock me, you will not be safe. I will kill you.' So that is the story of how the dove was sad and his spirits were depressed."</p>
+                    </scopecontent>
+                    <originalsloc id="ref15">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1921" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:14416">
+                        <daodesc>
+                            <p>APSdigrec_1921</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Anadarko (Okla.)</geogname>
+                        <subject source="ingest">Doves--Folklore</subject>
+                        <subject source="lcsh">Wichita Indians--Folklore</subject>
+                        <subject source="lcsh">Wichita language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref16" level="file">
+                    <did>
+                        <unittitle>Wichita word and phrase list: 256-407</unittitle>
+                        <unitid>01-03</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1965</unitdate>
+                        <physdesc id="ref17" label="General Physical Description note">
+                            <extent>00:17:43</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Miller, Frank</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Rood, David S.</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref19">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1922" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:14420">
+                        <daodesc>
+                            <p>APSdigrec_1922</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Anadarko (Okla.)</geogname>
+                        <subject source="lcsh">Wichita language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref20" level="file">
+                    <did>
+                        <unittitle>Wichita word and phrase list: 1-87</unittitle>
+                        <unitid>01-04</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1965</unitdate>
+                        <physdesc id="ref21" label="General Physical Description note">
+                            <extent>00:11:06</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Provost, Bertha</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Rood, David S.</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref23">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1923" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:14423">
+                        <daodesc>
+                            <p>APSdigrec_1923</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Anadarko (Okla.)</geogname>
+                        <subject source="lcsh">Wichita language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref24" level="file">
+                    <did>
+                        <unittitle>Why the Dove Mourns</unittitle>
+                        <unitid>01-05</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1965</unitdate>
+                        <physdesc id="ref25" label="General Physical Description note">
+                            <extent>00:01:18</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Provost, Bertha</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Rood, David S.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref26">
+                        <head>Scope and Contents note</head>
+                        <p>Story given in Wichita only. The collector's free translation is as follows: "The dove is always mourning, day after day, all the time. The dove used to be a gambler; he gambled and gambled all the time. He was always losing everying he had. Then one day his brother died. Someone came and told him, 'Your brother is dead, and I have come to get you.' He said, 'Wait a while.' Again he told him, and again he said, 'Wait.' So the messenger went back, and when he got back they had already buried him--because his brother had not come. Finally he came, after a long time. 'Where is he?' he asked. 'We already buried him, because you did not come for a long time,' they told him. And that is the way it is. To this day, the dove mourns all the time."</p>
+                    </scopecontent>
+                    <originalsloc id="ref28">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1924" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:14399">
+                        <daodesc>
+                            <p>APSdigrec_1924</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Anadarko (Okla.)</geogname>
+                        <subject source="ingest">Doves--Folklore</subject>
+                        <subject source="lcsh">Wichita Indians--Folklore</subject>
+                        <subject source="lcsh">Wichita language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref29" level="file">
+                    <did>
+                        <unittitle>Turtle, Buffalo and Coyote</unittitle>
+                        <unitid>01-06</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1965</unitdate>
+                        <physdesc id="ref30" label="General Physical Description note">
+                            <extent>00:05:36</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Provost, Bertha</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Rood, David S.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref31">
+                        <head>Scope and Contents note</head>
+                        <p>Story given in Wichita only.</p>
+                    </scopecontent>
+                    <originalsloc id="ref33">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1925" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:14402">
+                        <daodesc>
+                            <p>APSdigrec_1925</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Anadarko (Okla.)</geogname>
+                        <subject source="ingest">Coyote--Folklore</subject>
+                        <subject source="ingest">Turtles--Folklore</subject>
+                        <subject source="lcsh">Wichita Indians--Folklore</subject>
+                        <subject source="lcsh">Wichita language</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

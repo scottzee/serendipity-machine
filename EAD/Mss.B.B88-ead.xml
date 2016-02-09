@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.B88-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.B88</num>
+                </titleproper>
+                <author>Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:55-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Sir Charles James Fox Bunbury papers, 1845-1852</unittitle>
+            <unitid>Mss.B.B88</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid385" type="Box" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>0.25 Linear feet</extent>
+                <extent>20 items</extent>
+            </physdesc>
+            <unitdate normal="1845/1852" type="inclusive">1845-1852</unitdate>
+            <physdesc id="ref4" label="General Physical Description note">20 items.</physdesc>
+            <abstract id="ref1" label="Abstract">There are botanical notebooks which concern Bunbury's study of fossil plants in general, with special studies on the fossil plants in the Geological Society in Richmond, Virginia, and at Aix-la-Chapelle, Cape Breton Island, and Pennsylvania. There is also a historical sketch of eminent English naturalists.</abstract>
+            <physloc id="ref6" label="Paging">LH-MV-C-2</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Bunbury, Charles James Fox, Sir, 1809-1886</persname>
+            </origination>
+        </did>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>Sir Charles Bunbury worked as an English botanist and paleobotanist.</p>
+        </bioghist>
+        <acqinfo id="ref2">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Purchased from Rendell ($200.00) and accessioned, 09/08/1969 (1969 1275ms).</p>
+        </acqinfo>
+        <odd id="ref5">
+            <head>Early American History Note</head>
+            <p>The Charles Bunbury Collection contains a wealth of information on fossils. Sir Charles Bunbury was a nineteenth century geologist and paleontologist. The majority of the documents in collection are Bunbury’s own notes on the subject of fossils. These very detailed notes contain a wealth of information on fossil finds and can provide insight into the prevailing ideas and debates about fossil remains. The collection includes a range of material, including a draft of an essay on algae, reports and analysis of important fossil finds, and reviews and notes on recent publications. The collection also includes a number of Bunbury’s private notebooks in which he describes fossils he has seen or read about in great detail, thus giving modern researchers access to information on remains that may no longer be in existence.</p>
+            <p>These notebooks range from general notes on geology, mineralogy, and botany to notebooks on specific fossils and places. One of his notebooks, for instance, details fossils found in the Geological Society Museum, recounting where it was discovered and what it looks like. Other notebooks describe fossilized plants from Richmond, Virginia, Pennsylvania, and Sydney, Cape Breton, fossilized ferns from Aix-la-Chapelle, and miscellaneous finds from other places such as Portage County, Ohio.</p>
+            <p>Although Bunbury was interested in geology and fossils in general, the bulk of this collection and his own work focused on fossilized flora.</p>
+        </odd>
+        <controlaccess>
+            <corpname rules="aacr" source="naf">Geological Society (Richmond, Va.). Museum.</corpname>
+            <subject source="lcsh">Fossil fuels -- Pennsylvania.</subject>
+            <genreform source="leah">Manuscript Essays</genreform>
+            <subject source="lcsh">Mineralogy</subject>
+            <subject source="leah">Natural History</subject>
+            <geogname source="lcsh">Naturalists - England</geogname>
+            <genreform source="leah">Notebooks</genreform>
+            <genreform source="lcsh">Notebooks.</genreform>
+            <subject source="lcsh">Paleobotany -- Germany -- Aachen.</subject>
+            <subject source="lcsh">Paleobotany -- Nova Scotia -- Cape Breton Island.</subject>
+            <subject source="lcsh">Paleobotany -- Pennsylvania.</subject>
+            <subject source="leah">Science and Technology</subject>
+            <genreform source="leah">Scientific Data</genreform>
+            <genreform source="leah">Sketchbooks</genreform>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

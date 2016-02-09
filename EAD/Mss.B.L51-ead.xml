@@ -1,0 +1,2796 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP">PUBLIC "-//American Philosophical Society//TEXT (US::PPAmP::B L51:: Richard Henry Lee Papers)//EN" "lee.xml"</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Richard Henry Lee Papers
+                    <date type="span">1763-1823</date>
+                    <num>Mss.B.L51</num>
+                </titleproper>
+                <author>Finding aid prepared by rsc</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+                <date>2003</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T19:38-0400</date>
+            </creation>
+            <langusage>ENG</langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Richard Henry Lee Papers</unittitle>
+            <unitid>Mss.B.L51</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>0.5 Linear feet</extent>
+            </physdesc>
+            <unitdate normal="1763/1823" type="inclusive">1763-1823</unitdate>
+            <abstract id="ref1" label="Abstract">A politician and arch revolutionary, Richard Henry Lee was an impassioned supporter of American independence from the mid-1760s. Born into one of the most prominent families in the colony on January 20, 1732, Lee was bred to a political life, serving in the Virginia House of Burgesses during the Stamp Act and Non-importation crises, helping convey his state into the revolutionary camp. As a delegate to the Continental Congress, Lee was the first to officially move that a declaration of independence be drafted, and he ended his public career as a principled opponent of ratification of the Constitution and as Virginia's first U.S. Senator. He died at home in Virginia in June 1794. 
+                <lb/>A small, but highly valuable collection, the papers of Richard Henry Lee document the political life and activities of one of the most ardent revolutionaries in Virginia. The 0.5 linear feet of letters (193 items), most addressed to Lee, are an important resource for study of pre-Revolutionary political agitation in Virginia, the increasing connections forged between the colonies, and the political course of the war. To a lesser degree the collection documents Lee's late-life anti-federalism. Among the major correspondents are Lee's brothers Arthur and William, and such leaders in the revolutionary cause as George Washington, Samuel Adams, Charles Lee, John Adams, and Thomas Paine.</abstract>
+            <physloc id="ref349" label="Paging">LH-MV-C-13; LH-SB-Black Case-28 (OS)</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Lee, Richard Henry, 1732-1794</persname>
+            </origination>
+        </did>
+        <bibliography id="ref18">
+            <head>Bibliography</head>
+            <p>Most of the correspondence in the collection is reproduced in:
+                <bibref>Lee, Richard Henry, 
+                    <title render="italic">Memoir of the Life of Richard Henry Lee</title> (Philadelphia: Carey and Lee, 1825) 
+                    <emph render="bold">Call no.</emph>: B L51l.</bibref>
+                <bibref>Ballagh, James Curtis, ed., 
+                    <title render="italic">The Letters of Richard Henry Lee</title>, 2 vols. (New York: MacMillan, 1911-1914) 
+                    <emph render="bold">Call no.</emph>: B L51b.</bibref></p>
+            <bibref>Hays, Isaac Minis, "A Note on the History of the Jefferson Manuscript Draught of the Declaration of Independence in the Library of the American Philosophical Society," 
+                <title render="italic">Transactions of the American Philosophical Society</title> 37 (1898): 88-107.</bibref>
+        </bibliography>
+        <odd id="ref348">
+            <head>Early American History Note</head>
+            <p>This collection of Richard Henry Lee correspondence is most notable for its rich content relating to the movement for Independence, military matters during the war, and the politics of ratification and the early republic. Because much of the correspondence is incoming, the letters offer insight into a wide range of other topics – and snapshots of events happening in areas beyond Lee’s home state of Virginia. Frequent correspondents during the revolutionary era include John Dickinson, Samuel Adams, Benjamin Rush, and George Washington, among others. Almost all of these letters contain discussions of politics that offer significant insight into the letter writer’s political thought and rich details on events happening throughout British America. Among Rush’s correspondence is a series of letters written following the Battle of Princeton that relate the treatment Rush administered to a Hugh Mercer, who later died of his wounds.</p>
+        </odd>
+        <otherfindaid id="ref20">
+            <head>Other Finding Aids note</head>
+            <p>
+                <bibref>
+                    <title render="italic">Calendar of the Correspondence Relating to the American Revolution of Brigadier-General George Weedon, Hon. Richard Henry Lee, Hon. Arthur Lee, and Major-General Nathanael Greene, in the Library of the American Philosophical Society</title> (Philadelphia: American Philosophical Society, 1900) 
+                    <emph render="bold">Call no.</emph>: 973.3 Am4.</bibref></p>
+        </otherfindaid>
+        <separatedmaterial id="ref17">
+            <head>Separated Materials note</head>
+            <p>The Lee Papers originally included a manuscript penultimate draft of Thomas Jefferson's Declaration of Independence written on about July 1, 1776. The draft is housed separately.</p>
+        </separatedmaterial>
+        <relatedmaterial id="ref15">
+            <head>Related Archival Materials note</head>
+            <p>The Lee Papers are one of several important collections at the APS for documenting the American Revolution, including the papers of 
+                <extref ns2:actuate="onLoad" ns2:show="new" ns2:href="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.F85-ead.xml">Benjamin Franklin</extref> (B F85), 
+                <extref ns2:actuate="onLoad" ns2:show="new" ns2:href="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.G83-ead.xml">Nathanael Greene</extref> (B G83), and 
+                <extref ns2:actuate="onLoad" ns2:show="new" ns2:href="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.W41-ead.xml">George Weedon</extref> (B W41). The Library also has eight reels of microfilm of the 
+                <extref ns2:actuate="onLoad" ns2:show="new" ns2:href="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Film.1240-ead.xml">Lee Family Papers at the University of Virginia</extref> (Film 1240).</p>
+            <p>The correspondence of Richard Henry Lee and his family is widely scattered, with individual letters and small groups located at a large number of repositories. The major collections are: 
+                <list type="simple">
+                    <item>Richard Henry Lee Papers, 1742-1795. Alderman Library, University of Virginia (8 microfilm reels). </item>
+                    <item>Lee Family Papers, 1722-1892. Huntington Library (100 items)</item>
+                    <item>Richard Henry Lee Papers, 1785-1796. Alderman Library, University of Virginia (50 items). Chiefly concerning the settlement of Lee's estate.</item>
+                    <item>Richard Henry Lee Papers and Lee Family Papers. Virginia Historical Society.</item>
+                    <item>Richard Henry Lee Papers and Lee Family Papers. Library of Congress.</item>
+                </list></p>
+        </relatedmaterial>
+        <processinfo id="ref13">
+            <head>Processing Information note</head>
+            <p>Recatalogued by rsc, 2003.</p>
+        </processinfo>
+        <acqinfo id="ref11">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Gift of Richard Henry Lee, Jr., June 12, 1825.</p>
+        </acqinfo>
+        <prefercite id="ref9">
+            <head>Preferred Citation note</head>
+            <p>Cite as: Richard Henry Lee Papers, American Philosophical Society.</p>
+        </prefercite>
+        <scopecontent id="ref5">
+            <head>Scope and Contents note</head>
+            <p>A small, but highly valuable collection, the papers of Richard Henry Lee document the political life and activities of one of the most ardent revolutionaries in Virginia. The 0.5 linear feet of letters (193 items), most addressed to Lee, are an important resource for study of pre-Revolutionary political agitation in Virginia, the increasing connections forged between the colonies, and the political course of the war. To a lesser degree the collection documents Lee's late-life anti-federalism. Among the major correspondents are Lee's brothers Arthur and William, and such leaders in the revolutionary cause as George Washington, Samuel Adams, Charles Lee, John Adams, and Thomas Paine.</p>
+            <p/>
+            <p/>
+            <p>After Lexington and Concord, the letters from Charles Lee sometimes seem overwrought with emotion and excitement, as when he wrote: by the eternal God if you do not declare immediately for positive independence We are all ruin'd -- there is a poorness of spirit and languor in the late proceedings of the Congress that I confess frightens me so much, that at times I regret having embark'd my all, my fortune, life and reputation..." (May 10, 1776).</p>
+            <p>Several of the 25 letters written by George Washington provide exceptionally important information on the prosecution of the war, the testy relationship between Washington and a demanding Congress, and other topics. In a letter written July 10, 1775, Washington provides his assessment of the siege of Boston; his letter of Dec. 26, 1775, discusses Lord Dunmore's "diabolical" proclamation to arm slaves; the letter of June 12, 1784, requests quiet assistance for the impoverished Thomas Paine.</p>
+            <p>Lee's other major correspondents include the Boston radical Samuel Adams (15 letters), Charles Lee (6 letters), and Gen. Adam Stephen (5 letters), but the selection includes important letters from a number of eminent men associated with the revolutionary struggle, including John Adams, Baron de Kalb, Horatio Gates, Conte de Grasse, Patrick Henry, John Jay, Thomas Jefferson, the Marquis de Lafayette, Henry Laurens, Thomas Paine, Kasimerz Pulaski, Benjamin Rush, George Weedon, and George Wythe.</p>
+        </scopecontent>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>Tall and aristocratic in bearing, Richard Henry Lee was an impassioned supporter of American independence in Virginia and later a prominent antagonist of the federal constitution. Born into one of the most prominent families in the colony on January 20, 1732, Lee was bred to a political life. The son of Thomas Lee, one-time president of the governing Council of Virginia and a founder of the Ohio Company, and Hannah Ludwell of "Stratford Hall," Westmorland County, Lee benefited from a superior education, attending the Wakefield Academy in England for seven years before returning in 1751 to enter the family calling, public service. Four of his brothers were active in Revolutionary and post-revolutionary politics: Francis Lightfoot Lee joined Richard as a signer of the Declaration of Independence, Thomas Ludwell Lee helped write Virginia's resolve for independence and was later chosen to the state supreme court, and Arthur and William Lee became noted diplomats.</p>
+            <p>Appointed justice of the peace for Westmoreland County in 1757, Lee was first elected to the House of Burgesses in the next year, aged 25. From the first, he pitted himself in the radical wing of Virginia politics. His first speech as a legislator was a proposal to ban the importation of slaves into Virginia, and he earned a reputation as a zealous -- occasionally overly zealous -- political combatant for the part he played in a dispute with the Speaker, John Robinson, over a rivalry between the Ohio Land Company and Robinson's Loyal Land Company. However it was only with the political disputes between the colonies and England after the end of the Seven Years War that Lee's characteristically incendiary style began to emerge.</p>
+            <p>Although Lee had initially applied to become a collector under the Stamp Act of 1765, he very soon turned to the opposition, becoming a leader of the most vocal and extreme wing. With his brothers Thomas and Francis Lightfoot, Lee gathered 115 signatures to the "Westmoreland Resolves," a petition that threatened "danger and disgrace" to anyone who paid the tax. An act of overt sedition, and one of the earliest to threaten physical violence, the Resolves were a key turning point in the pre-revolutionary struggle.</p>
+            <p>After recovering from a hunting accident that cost him several fingers on one hand in 1768, Lee returned to a position of prominence in the nascent independence movement, helping to galvanize support for the Non-importation agreements. From England, his brother Arthur kept him informed of English news and political gossip and of the shifting currents toward the colonial crisis. But the specifics of Lee's part in the resistance in Virginia were ultimately less important than his efforts to strengthen political unity between the colonies and to foster a systematic intercolonial exchange of information. In the process, he forged a close working relationship with the Massachusetts firebrand Samuel Adams, and the two remained close throughout the ensuing decades of political strife.</p>
+            <p>From his seat in the Continental Congress, Lee emerged as an orator of unusual skill and power, urging the colonies to stay the oppositional course and, in July 1775, becoming one of the first to recommend forming independent state governments. Perhaps his signal claim to public renown came on May 17, 1776, when he submitted a resolution to Congress stating that the colonies should declare "That these united Colonies are, and ought to be, fee and independent States, that they are absolved from all allegiance from the British crown, and than all political connection between America and State of Great Britain is, and ought to be, totally dissolved." Before the debate over the declaration of independence took place, however, Lee had returned to Virginia to assist his home state establish its new government.</p>
+            <p>In later years, Lee supported the Ordinance of 1785 and the Northwest Ordinance, believing (as a child of the Ohio Company) that revenue from western lands would be beneficial to the new state, and he unsuccessfully submitted an amendment to allow federal support for religion. Increasingly poor health prevented him from taking up his position as delegate to either the federal constitutional convention of 1787 or the state ratification convention in 1788, however Lee contributed to the debate as author of the seminal Anti-federalist tract 
+                <title render="italic">Letters from the Federal Farmer to the Republican</title> (1787-1788). Supportive of much of the federal apparatus (centralization of foreign affairs, commerce, money, and post), he nevertheless rejected the constitution for what he saw as anti-democratic tendencies in a powerful executive, the lack of a bill of rights, and the too limited number of seats in the House of Representatives.</p>
+            <p>Following the ratification, however, Lee grudgingly came around to support the federal government and was appointed as one of the state's first two Senators in 1789, both Anti-federalists. Once again he took up the cause of an amendment to allow public support for religion, but his term in office was interrupted repeatedly by ill health and by the effects of a carriage accident. Finally, half way through his term on October 8, 1792, he was forced to resign and retire from public life.</p>
+            <p>Lee was twice married, first to Anne Aylett in 1757, with whom he had four children, and second, in 1768, to Anne Gaskins Pinckard, with whom he had five children. After leaving the Senate, Lee returned to his estate, "Chantilly," where he died on June 19, 1794.</p>
+        </bioghist>
+        <controlaccess>
+            <persname rules="aacr" source="naf">Adams, John, 1735-1826</persname>
+            <persname rules="aacr" source="naf">Adams, Samuel, 1722-1803</persname>
+            <persname source="ingest">Barré, Isaac, 1726-1802</persname>
+            <persname source="ingest">Carmichael, William, d. 1795 </persname>
+            <persname source="ingest">Chase, Samuel, 1741-1811</persname>
+            <persname source="ingest">Conway, Thomas, 1733-ca.1800</persname>
+            <persname source="ingest">De Kalb, Johann, 1721-1780</persname>
+            <persname source="ingest">Dickinson, John, 1732-1808</persname>
+            <persname rules="aacr" source="local">Gates, Horatio, 1728-1806</persname>
+            <persname source="ingest">Grasse, Francois Joseph Paul de Grasse, comte de, 1722-1788</persname>
+            <persname source="ingest">Henry, Patrick, 1726-1799</persname>
+            <persname source="ingest">Holker, John, 1719-1786</persname>
+            <persname source="ingest">Jay, John, 1745- 1829</persname>
+            <persname rules="aacr" source="naf">Jefferson, Thomas, 1743-1826</persname>
+            <persname source="ingest">Jennings, Edmund</persname>
+            <persname source="naf">Johnson, Thomas, 1732-1819</persname>
+            <persname source="ingest">Jones, William</persname>
+            <persname rules="aacr" source="naf">Lafayette, Marie Joseph Paul Yves, marquis de, 1757-1834</persname>
+            <persname source="naf">Laurens, Henry, 1724-1792</persname>
+            <persname source="ingest">Lee, Arthur, 1740-1792</persname>
+            <persname source="ingest">Lee, John</persname>
+            <persname source="ingest">Lee, William, 1739-1795</persname>
+            <persname source="naf">Lovell, James, 1737-1814</persname>
+            <persname source="ingest">Martin, John</persname>
+            <persname source="ingest">McKean, Thomas, 1734-1817</persname>
+            <persname source="ingest">Mifflin, Thomas, 1744-1800</persname>
+            <persname rules="aacr" source="naf">Monroe, James, 1758-1831</persname>
+            <persname source="naf">Morris, Gouverneur, 1752-1816</persname>
+            <persname source="ingest">Page, John, 1744-1808</persname>
+            <persname source="ingest">Page, Mann</persname>
+            <persname source="ingest">Paine, Thomas, 1737-1809</persname>
+            <persname source="ingest">Pendleton, Edmund, 1721-1803</persname>
+            <persname source="ingest">Pulaski, Kazimierz, 1747-1779</persname>
+            <persname source="ingest">Reed, Joseph, 1741-1785</persname>
+            <persname rules="aacr" source="naf">Rush, Benjamin, 1746-1813</persname>
+            <persname rules="aacr" source="naf">Schuyler, Philip John, 1733-1804</persname>
+            <persname source="ingest">Shippen, William, 1736?-1808</persname>
+            <persname source="ingest">Stephen, Adam</persname>
+            <persname source="ingest">Sullivan, James, 1744-1808</persname>
+            <persname rules="aacr" source="naf">Washington, George, 1732-1799</persname>
+            <persname source="ingest">Weedon, George,1734-1793.</persname>
+            <persname source="ingest">Whipple, William, 1730-1785</persname>
+            <persname source="ingest">Wythe, George, 1726-1806</persname>
+            <subject source="leah">American Revolution</subject>
+            <subject source="leah">Early National Politics</subject>
+            <geogname source="lcsh">Great Britain--Politics and government--18th century</geogname>
+            <subject source="leah">Military History</subject>
+            <subject source="lcsh">Non-importation agreements, 1768-1769</subject>
+            <genreform source="leah">Political Correspondence</genreform>
+            <subject source="lcsh">Stamp Act, 1765</subject>
+            <geogname source="lcsh">United States--History--Revolution, 1775-1783</geogname>
+            <geogname source="lcsh">United States--History--Revolution, 1775-1783--Causes</geogname>
+            <geogname source="lcsh">United States--Politics and government--1783-1789</geogname>
+            <geogname source="lcsh">United States--Politics and government--To 1775</geogname>
+            <geogname source="lcsh">Virginia--Politics and government--Revolution, 1775-1783</geogname>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref21" level="series">
+                <did>
+                    <unittitle>Richard Henry Lee Papers</unittitle>
+                    <container id="cid13216" type="Box" label="Mixed materials">1</container>
+                    <physdesc>
+                        <extent>0.5 lin. feet</extent>
+                    </physdesc>
+                    <unitdate>1763-1823</unitdate>
+                </did>
+                <c02 id="ref22" level="item">
+                    <did>
+                        <unittitle>ALS Cy to John Dickinson</unittitle>
+                        <physdesc>
+                            <extent>2p.</extent>
+                        </physdesc>
+                        <unitdate>1763 April 4</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Lee, Richard Henry, 1732-1794</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref23" level="item">
+                    <did>
+                        <unittitle>ALS to Arthur Lee</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1766 February 22</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Adanson, Dr.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref25">
+                        <head>Scope and Contents note</head>
+                        <p>In Latin</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref26" level="item">
+                    <did>
+                        <unittitle>ALS to [George Wythe]</unittitle>
+                        <physdesc>
+                            <extent>3p.</extent>
+                        </physdesc>
+                        <unitdate>1766 July 25</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Lee, Richard Henry, 1732-1794</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref28">
+                        <head>Scope and Contents note</head>
+                        <p>Vindication against being friendly to the Stamp Act</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref29" level="item">
+                    <did>
+                        <unittitle>ALS to Arthur Lee</unittitle>
+                        <physdesc>
+                            <extent>2p.</extent>
+                        </physdesc>
+                        <unitdate>1767 October 31</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Cardross, Lord</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref30" level="item">
+                    <did>
+                        <unittitle>ALS to D. DeBirdt</unittitle>
+                        <physdesc>
+                            <extent>4p.</extent>
+                        </physdesc>
+                        <unitdate>1768 May 14</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Adams, Samuel </persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref32">
+                        <head>Scope and Contents note</head>
+                        <p>Massachusetts politics; Stamp Act; Non-Importation agreement</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref33" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>4p.</extent>
+                        </physdesc>
+                        <unitdate>1768 December 27</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Lee, Arthur, 1740-1792</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref34" level="item">
+                    <did>
+                        <unittitle>ALS Cy to John Dickinson</unittitle>
+                        <physdesc>
+                            <extent>6p.</extent>
+                        </physdesc>
+                        <unitdate>1768 August 10</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Lee, Richard Henry, 1732-1794</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref36">
+                        <head>Scope and Contents note</head>
+                        <p>Includes copies of Lee to Dickinson, 1768 Nov. 26, and Dickinson to Lee, 1768 August 10, 1769 January 16, and 1773 May 30</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref37" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>4p.</extent>
+                        </physdesc>
+                        <unitdate>1768 December 27</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Lee, Arthur, 1740-1792</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref39">
+                        <head>Scope and Contents note</head>
+                        <p>Melancholy state of politics in England. Shelburne is sound, but not likely to lead. Farmer's letters widely read, but to little purpose.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref40" level="item">
+                    <did>
+                        <unittitle>ALS Cy to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>2p.</extent>
+                        </physdesc>
+                        <unitdate>1769 June 22</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Dickinson, John</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref41" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>6p.</extent>
+                        </physdesc>
+                        <unitdate>1769 August 15</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Lee, Arthur, 1740-1792</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref43">
+                        <head>Scope and Contents note</head>
+                        <p>Complex state of British politics.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref44" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>2p.</extent>
+                        </physdesc>
+                        <unitdate>1769 September 18</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Lee, Arthur, 1740-1792</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref45" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>3p.</extent>
+                        </physdesc>
+                        <unitdate>1769 September or October</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Lee, Arthur, 1740-1792</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref46" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>4p.</extent>
+                        </physdesc>
+                        <unitdate>1769 November 15</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Lee, Arthur, 1740-1792</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref47" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>2p.</extent>
+                        </physdesc>
+                        <unitdate>1769 November 19</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Lee, Arthur, 1740-1792</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref48" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>3p.</extent>
+                        </physdesc>
+                        <unitdate>1769 December 3</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Lee, Arthur, 1740-1792</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref49" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>2p.</extent>
+                        </physdesc>
+                        <unitdate>1770 May 20</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Lee, Arthur, 1740-1792</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref50" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>2p.</extent>
+                        </physdesc>
+                        <unitdate>1770 October 20</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Lee, Arthur, 1740-1792</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref51" level="item">
+                    <did>
+                        <unittitle>ALS to Arthur Lee</unittitle>
+                        <physdesc>
+                            <extent>2p.</extent>
+                        </physdesc>
+                        <unitdate>1771 January 31</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Barré, Isaac, 1726-1802</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref53">
+                        <head>Scope and Contents note</head>
+                        <p>"I see you lament, with all the feelings of true Patriotism, that the Firmness of America has at last given way to thte combined arts of ministerial and mercantile wickedness..."</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref54" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>3p.</extent>
+                        </physdesc>
+                        <unitdate>1771 August 17</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Jennings, Edmund</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref55" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>2p.</extent>
+                        </physdesc>
+                        <unitdate>1771 December 29</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Jennings, Edmund</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref57">
+                        <head>Scope and Contents note</head>
+                        <p>Plus 2p. inclosure</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref58" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>3p.</extent>
+                        </physdesc>
+                        <unitdate>1772 Aug. 17</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Lee, Arthur, 1740-1792</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref59" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>4p.</extent>
+                        </physdesc>
+                        <unitdate>1773 April 10</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Adams, Samuel </persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref60" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>4p.</extent>
+                        </physdesc>
+                        <unitdate>1774 March 18</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Lee, Arthur, 1740-1792</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref62">
+                        <head>Scope and Contents note</head>
+                        <p>Urges unity in opposition to British attempts to split Massachusetts from the other colonies.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref63" level="item">
+                    <did>
+                        <unittitle>Petition to Great Britain. Parliament</unittitle>
+                        <physdesc>
+                            <extent>3p.</extent>
+                        </physdesc>
+                        <unitdate>1774 March 26</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">"Several Natives of America"</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref65">
+                        <head>Scope and Contents note</head>
+                        <p>Remonstrance against financial reprisals taken against Boston tea party.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref66" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>3p.</extent>
+                        </physdesc>
+                        <unitdate>1774 July 15</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Adams, Samuel </persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref68">
+                        <head>Scope and Contents note</head>
+                        <p>Bostonians repond to the Port Bill by resolving to withstand the hardships.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref69" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1774 August 9</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Washington, George</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref70" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>3p.</extent>
+                        </physdesc>
+                        <unitdate>1774 Aug. 27</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Stephen, Adam</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref72">
+                        <head>Scope and Contents note</head>
+                        <p>"The Fate of America depends upon your Meeting and the Eyes of the European World hang upon you waiting the Event." Need for arms in Virginia: "At the Congress this ought to be privately taken into consideration -- A plan laid for encouraging Numbers of Gun lock smiths to come in -- A number of Locks to be imported with Caution -- to prevent suspicion and as many arms as could be got -- I imagine that we want 100,000 stand of Arms. We have great difficulty in fitting out the few men we want on this occasion."</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref73" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>3p.</extent>
+                        </physdesc>
+                        <unitdate>1774 Dec. 22</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Lee, Arthur, 1740-1792</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref74" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>4p.</extent>
+                        </physdesc>
+                        <unitdate>1775 Feb. 1</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Stephen, Adam</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref75" level="item">
+                    <did>
+                        <unittitle>ADS</unittitle>
+                        <physdesc>
+                            <extent>3p.</extent>
+                        </physdesc>
+                        <unitdate>ca.1775 Feb. 2</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Lee, Richard Henry, 1732-1794</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref77">
+                        <head>Scope and Contents note</head>
+                        <p>Opinion re: Committee of King George's County, Va.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref78" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>2p.</extent>
+                        </physdesc>
+                        <unitdate>1775 Feb. 17</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Stephen, Adam</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref79" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>4p.</extent>
+                        </physdesc>
+                        <unitdate>1775 March 21</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Adams, Samuel </persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref81">
+                        <head>Scope and Contents note</head>
+                        <p>Gage and British troops more insolent than ever. Oration to commemorate the Boston Massacre.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref82" level="item">
+                    <did>
+                        <unittitle>Petition (ADf fragment) to George III</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1775 April 5</unitdate>
+                        <origination label="creator">
+                            <corpname source="ingest">United States. Continental Congress.</corpname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref83" level="item">
+                    <did>
+                        <unittitle>ADf to London (England). Lord Mayor</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1775 May</unitdate>
+                        <origination label="creator">
+                            <corpname source="ingest">United States. Continental Congress.</corpname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref84" level="item">
+                    <did>
+                        <unittitle>ADfS to Gouverneur Morris</unittitle>
+                        <physdesc>
+                            <extent>4p.</extent>
+                        </physdesc>
+                        <unitdate>1775 May 28</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Lee, Richard Henry, 1732-1794</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref85" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>3p.</extent>
+                        </physdesc>
+                        <unitdate>1775 June 1</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Philopatria</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref86" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>4p.</extent>
+                        </physdesc>
+                        <unitdate>1775 July 10</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Washington, George</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref88">
+                        <head>Scope and Contents note</head>
+                        <p>Situation of the army besieging Boston: "between you and me I think we are in an exceeding dangerous situation, as our numbers are not much larger than we suppose, from the best accts. we are able to get, those of the Enemy to be."</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref89" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>2p.</extent>
+                        </physdesc>
+                        <unitdate>1775 Sept. 2</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Lee, Charles</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref90" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>2p.</extent>
+                        </physdesc>
+                        <unitdate>1775 Sept. 23</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Stephen, Adam</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref92">
+                        <head>Scope and Contents note</head>
+                        <p>Wiandots and other Indians between Detroit and Niagara are "greatly divided."</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref93" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1775 Oct. 19</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Schuyler, Philip John, 1733-1804</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref94" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>2p.</extent>
+                        </physdesc>
+                        <unitdate>1775 Oct. 29</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Washington, George</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref95" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>4p.</extent>
+                        </physdesc>
+                        <unitdate>1775 Nov. 27</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Washington, George</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref97">
+                        <head>Scope and Contents note</head>
+                        <p>State of the army and ships available. "For Godsake hurry the signers of money that our want may be supplied."</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref98" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>4p.</extent>
+                        </physdesc>
+                        <unitdate>1775 Dec. 12</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Lee, Charles</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref100">
+                        <head>Scope and Contents note</head>
+                        <p>Proposes seizing the estates of all opponents of liberty and banishing them to internal exile; fortify and garrison New York or destroy it.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref101" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>4p.</extent>
+                        </physdesc>
+                        <unitdate>1775 Dec. 26</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Washington, George</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref103">
+                        <head>Scope and Contents note</head>
+                        <p>Response to Dunmore's "diabolical" proclamation to arm slaves.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref104" level="item">
+                    <did>
+                        <unittitle>ALS Cy to Lord Piercy</unittitle>
+                        <physdesc>
+                            <extent>2p.</extent>
+                        </physdesc>
+                        <unitdate>1775</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Lee, Charles</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref105" level="item">
+                    <did>
+                        <unittitle>Petition Cy to George III</unittitle>
+                        <physdesc>
+                            <extent>2p.</extent>
+                        </physdesc>
+                        <unitdate>1775</unitdate>
+                        <origination label="creator">
+                            <corpname source="ingest">London (England). Lord Mayor and Common Council.</corpname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref106" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>2p.</extent>
+                        </physdesc>
+                        <unitdate>1775</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Morris, Gouverneur, 1752-1816</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref107" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>3p.</extent>
+                        </physdesc>
+                        <unitdate>1776 Feb. 20</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Page, John, 1744-1808</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref108" level="item">
+                    <did>
+                        <unittitle>ALS to Charles Lee</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1776 Feb.</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Lee, Richard Henry, 1732-1794</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref109" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>3p.</extent>
+                        </physdesc>
+                        <unitdate>1776 Apr. 4</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Washington, George</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref111">
+                        <head>Scope and Contents note</head>
+                        <p>Lakes are impassable and troops cannot be spared. Flight of British from Boston. Need a hospital badly for the troops.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref112" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>4p.</extent>
+                        </physdesc>
+                        <unitdate>1776 Apr. 5</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Lee, Charles</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref114">
+                        <head>Scope and Contents note</head>
+                        <p>Complaints of timidity of political leadership. Bland says the author of Common Sense is a blockhead.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref115" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1776 Apr. 8</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Pendleton, Edmund, 1721-1803</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref116" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>4p.</extent>
+                        </physdesc>
+                        <unitdate>1776 Apr. 12</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Lee, Charles</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref117" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>3p.</extent>
+                        </physdesc>
+                        <unitdate>1776 May 10</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Lee, Charles</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref119">
+                        <head>Scope and Contents note</head>
+                        <p>"by the eternal God if you do not declare immediately for positive independence We are all ruin'd -- there is a poorness of spirit and languor in the late proceedings of the Congress that I confess frightens me so much, that at times I regret having embark'd my all, my fortune, life and reputation..."</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref120" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1776 May 18</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Washington, George</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref121" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>3p.</extent>
+                        </physdesc>
+                        <unitdate>1776 July 15</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Adams, Samuel </persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref123">
+                        <head>Scope and Contents note</head>
+                        <p>Howe in New York. "Our Declaration of Independency has given Vigor to the Spirits of the People. Had this decisive measure been taken Nine Months ago, it is my opinion that Canada would at this time have been in our hands..."</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref124" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>3p.</extent>
+                        </physdesc>
+                        <unitdate>1776 July 30</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Chase, Samuel, 1741-1811</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref125" level="item">
+                    <did>
+                        <unittitle>ADf Proposed additions to the instructions given to the Commissioners going to France</unittitle>
+                        <physdesc>
+                            <extent>2p.</extent>
+                        </physdesc>
+                        <unitdate>1776 Oct.</unitdate>
+                        <origination label="creator">
+                            <corpname source="ingest">United States. Continental Congress.</corpname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref127">
+                        <head>Scope and Contents note</head>
+                        <p>Authorization to seek arms and troops from France and Spain.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref128" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>2p.</extent>
+                        </physdesc>
+                        <unitdate>1776 Dec. 17</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Shippen, William, 1736?-1808</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref129" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>4p.</extent>
+                        </physdesc>
+                        <unitdate>1776 Dec. 20</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Rush, Benjamin, 1746-1813</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref131">
+                        <head>Scope and Contents note</head>
+                        <p>"We are much blamed by the Whigs and ridiculed by the Tories for leaving Philada. so suddenly."</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref132" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>4p.</extent>
+                        </physdesc>
+                        <unitdate>1776 Dec. 20</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Shippen, William, 1736?-1808</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref134">
+                        <head>Scope and Contents note</head>
+                        <p>Recommendations to Congress on the needs of military hospitals.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref135" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>4p.</extent>
+                        </physdesc>
+                        <unitdate>1776 Dec. 20</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Shippen, William, 1736?-1808</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref136" level="item">
+                    <did>
+                        <unittitle>ALS to Commissioners to France</unittitle>
+                        <physdesc>
+                            <extent>2p.</extent>
+                        </physdesc>
+                        <unitdate>1776 Dec. 21</unitdate>
+                        <origination label="creator">
+                            <corpname source="ingest">United States. Continental Congress.</corpname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref138">
+                        <head>Scope and Contents note</head>
+                        <p>News of progress of war.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref139" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>4p.</extent>
+                        </physdesc>
+                        <unitdate>1776 Dec. 21</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Rush, Benjamin, 1746-1813</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref140" level="item">
+                    <did>
+                        <unittitle>Cy to the States</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1776 Dec. 29</unitdate>
+                        <origination label="creator">
+                            <corpname source="ingest">United States. Continental Congress.</corpname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref142">
+                        <head>Scope and Contents note</head>
+                        <p>Appointing Lee, Adams, and Wilson as a committee to draft a letter explaining why Congress has expanded the powers given to Washington</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref143" level="item">
+                    <did>
+                        <unittitle>ALS to Commissioners to France</unittitle>
+                        <physdesc>
+                            <extent>4p.</extent>
+                        </physdesc>
+                        <unitdate>1776 Dec. 30</unitdate>
+                        <origination label="creator">
+                            <corpname source="ingest">United States. Continental Congress.</corpname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref144" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>4p.</extent>
+                        </physdesc>
+                        <unitdate>1776 Dec. 30</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Rush, Benjamin, 1746-1813</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref146">
+                        <head>Scope and Contents note</head>
+                        <p>"There is no soil so dear to a soldier as that which is marked with the footsteps of a flying enemy."</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref147" level="item">
+                    <did>
+                        <unittitle>Subscription in support of John Sears</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1776</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Davenport, James </persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref148" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>3p.</extent>
+                        </physdesc>
+                        <unitdate>1776 [i.e. 1777] Jan. 6</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Rush, Benjamin, 1746-1813</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref150">
+                        <head>Scope and Contents note</head>
+                        <p>News of Battle of Princeton.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref151" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>4p.</extent>
+                        </physdesc>
+                        <unitdate>1777 Jan. 7</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Rush, Benjamin, 1746-1813</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref153">
+                        <head>Scope and Contents note</head>
+                        <p>Mercer is improving after wounding at Princeton. More news of Princeton.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref154" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1777 Jan. 10</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Washington, George</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref155" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>4p.</extent>
+                        </physdesc>
+                        <unitdate>1777 Jan. 14</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Rush, Benjamin, 1746-1813</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref157">
+                        <head>Scope and Contents note</head>
+                        <p>Suggests commissary send supplies to American POWs. Rumors that the British have raised large numbers of Russians and Germans to serve in America; news of Battle of Trenton reaches New York.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref158" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>3p.</extent>
+                        </physdesc>
+                        <unitdate>1777 Jan. 14</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Rush, Benjamin, 1746-1813</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref159" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>3p.</extent>
+                        </physdesc>
+                        <unitdate>1777 Jan. 17</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Shippen, William, 1736?-1808</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref160" level="item">
+                    <did>
+                        <unittitle>ALS to Commissioners to France</unittitle>
+                        <physdesc>
+                            <extent>2p.</extent>
+                        </physdesc>
+                        <unitdate>1777 Feb. 19</unitdate>
+                        <origination label="creator">
+                            <corpname source="ingest">United States. Continental Congress.</corpname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref161" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>2p.</extent>
+                        </physdesc>
+                        <unitdate>1777 Mar. 6</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Washington, George</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref162" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1777 Mar. 17</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Carmichael, William, d. 1795 </persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref164">
+                        <head>Scope and Contents note</head>
+                        <p>Arthur Lee is in Spain. Introducing the Marquis de Lafayette and Baron deKalb.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref165" level="item">
+                    <did>
+                        <unittitle>ALS Cy to George Washington</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1777 Apr. 10</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">United States. Congress</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref166" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>2p.</extent>
+                        </physdesc>
+                        <unitdate>1777 Apr. 22</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Stephen, Adam</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref168">
+                        <head>Scope and Contents note</head>
+                        <p>Jerseymen and Virginians will bear the burden of fighting while "The Myriads of the North -- the Great Women... seem Cloy'd of fighting and are wonderfully backward in turning out."</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref169" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>4p.</extent>
+                        </physdesc>
+                        <unitdate>1777 Apr. 22</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Washington, George</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref170" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1777 May 10</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Washington, George</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref172">
+                        <head>Scope and Contents note</head>
+                        <p>Introducing the Chevalier d'Annemours.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref173" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>4p.</extent>
+                        </physdesc>
+                        <unitdate>1777 May 17</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Washington, George</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref175">
+                        <head>Scope and Contents note</head>
+                        <p>Requests instructions for what to do with so many foreigners appointed by Congress to field officer over native born Americans.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref176" level="item">
+                    <did>
+                        <unittitle>ALS to George Washington</unittitle>
+                        <physdesc>
+                            <extent>2p.</extent>
+                        </physdesc>
+                        <unitdate>1777 May 22</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Lee, Richard Henry, 1732-1794</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref177" level="item">
+                    <did>
+                        <unittitle>ADfS to Patrick Henry</unittitle>
+                        <physdesc>
+                            <extent>4p.</extent>
+                        </physdesc>
+                        <unitdate>1777 May</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Lee, Richard Henry, 1732-1794</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref178" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>3p.</extent>
+                        </physdesc>
+                        <unitdate>1777 June 1</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Washington, George</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref179" level="item">
+                    <did>
+                        <unittitle>ALS Cy to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>4p.</extent>
+                        </physdesc>
+                        <unitdate>1777 June 15</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Lee, Arthur, 1740-1792</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref180" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>2p.</extent>
+                        </physdesc>
+                        <unitdate>1777 June 26</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Adams, Samuel </persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref181" level="item">
+                    <did>
+                        <unittitle>ALS Cy to Unidentified recipient</unittitle>
+                        <physdesc>
+                            <extent>2p.</extent>
+                        </physdesc>
+                        <unitdate>1777 July 1</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Chase, Samuel, 1741-1811</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref182" level="item">
+                    <did>
+                        <unittitle>ALS to Thomas Paine</unittitle>
+                        <physdesc>
+                            <extent>2p.</extent>
+                        </physdesc>
+                        <unitdate>1777 July 13</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Lee, Richard Henry, 1732-1794</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref183" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>2p.</extent>
+                        </physdesc>
+                        <unitdate>1777 July 1</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Paine, Thomas, 1737-1809</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref184" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>2p.</extent>
+                        </physdesc>
+                        <unitdate>1777 Aug. 24</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Wythe, George</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref185" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1777 Sept. 13</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Pendleton, Edmund, 1721-1803</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref186" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1777 Sept. 16</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">DeKalb, Johann</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref187" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>2p.</extent>
+                        </physdesc>
+                        <unitdate>1777 Sept. 23</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Page, Mann</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref189">
+                        <head>Scope and Contents note</head>
+                        <p>News of defeat of Burgoyne at Saratoga.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref190" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1777 Oct. 11</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Pendleton, Edmund, 1721-1803</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref191" level="item">
+                    <did>
+                        <unittitle>ALS Cy to George Pynchon and John Bradford</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1777 Oct. 14</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Lee, Richard Henry, 1732-1794</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref192" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1777 Oct. 18</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Wythe, George</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref193" level="item">
+                    <did>
+                        <unittitle>ADfS to George Wythe</unittitle>
+                        <physdesc>
+                            <extent>3p.</extent>
+                        </physdesc>
+                        <unitdate>1777 Oct. 19</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Lee, Richard Henry, 1732-1794</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref194" level="item">
+                    <did>
+                        <unittitle>ADfS to United States. Congress</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1777 Oct. 24</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Lee, Richard Henry, 1732-1794</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref195" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>2p.</extent>
+                        </physdesc>
+                        <unitdate>1777 Oct. 27</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Page, Mann</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref196" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>3p.</extent>
+                        </physdesc>
+                        <unitdate>1777 Nov. 5</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Mifflin, Thomas</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref197" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>2p.</extent>
+                        </physdesc>
+                        <unitdate>1777 Nov. 6</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Wythe, George</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref198" level="item">
+                    <did>
+                        <unittitle>ALS to Arthur Lee</unittitle>
+                        <physdesc>
+                            <extent>3p.</extent>
+                        </physdesc>
+                        <unitdate>1777 Nov. 9</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Wilkes, John</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref200">
+                        <head>Scope and Contents note</head>
+                        <p>"This poor country is fallen into a fatal lethargy, from which all efforts to rouse her seem ineffectual. The single loss of Minorca drove the people of England almost to madness, now thirteen provinces dismembered from the British empire scarcely excite a murmur, except among a very few, who dare to love their country even at this disagreeable period."</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref201" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>3p.</extent>
+                        </physdesc>
+                        <unitdate>1777 Nov. 12</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Mifflin, Thomas</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref202" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>2p.</extent>
+                        </physdesc>
+                        <unitdate>1777 Nov. 28</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Chase, Samuel, 1741-1811</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref203" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>2p.</extent>
+                        </physdesc>
+                        <unitdate>1777 Dec. 3</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Lee, William</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref205">
+                        <head>Scope and Contents note</head>
+                        <p>Urges enlisting British and German deserters to encourage such behavior.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref206" level="item">
+                    <did>
+                        <unittitle>ADfS to Thomas Johnson</unittitle>
+                        <physdesc>
+                            <extent>2p.</extent>
+                        </physdesc>
+                        <unitdate>1777 Dec. 13</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Lee, Richard Henry, 1732-1794</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref208">
+                        <head>Scope and Contents note</head>
+                        <p>Complaint about Marylanders trading with British warships.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref209" level="item">
+                    <did>
+                        <unittitle>ALS Cy to Thomas Johnson</unittitle>
+                        <physdesc>
+                            <extent>4p.</extent>
+                        </physdesc>
+                        <unitdate>1777 Dec. 28</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Lovell, James, 1737-1814</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref210" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>2p.</extent>
+                        </physdesc>
+                        <unitdate>ca.1777</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Lee, Charles</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref211" level="item">
+                    <did>
+                        <unittitle>ALS Cy to George Washington</unittitle>
+                        <physdesc>
+                            <extent>2p.</extent>
+                        </physdesc>
+                        <unitdate>1778 Jan. 2</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Lee, Richard Henry, 1732-1794</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref213">
+                        <head>Scope and Contents note</head>
+                        <p>Re: British tricks and forgery of "Letters from Washington."</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref214" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>2p.</extent>
+                        </physdesc>
+                        <unitdate>1778 Feb. 15</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Washington, George</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref216">
+                        <head>Scope and Contents note</head>
+                        <p>"The enemy are governed by no principles that ought to actuate honest men..."</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref217" level="item">
+                    <did>
+                        <unittitle>ALS to Arthur Lee</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1778 March 12</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Windham, W.</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref218" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>3p.</extent>
+                        </physdesc>
+                        <unitdate>1778 Apr. 20</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Adams, Samuel </persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref219" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>3p.</extent>
+                        </physdesc>
+                        <unitdate>1778 May 23</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Conway, Thomas, 1733-ca.1800</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref221">
+                        <head>Scope and Contents note</head>
+                        <p>Blames a cabal against him for leaving his commission.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref222" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>2p.</extent>
+                        </physdesc>
+                        <unitdate>1778 June 18</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Henry, Patrick</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref223" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1778 June 23</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Page, Mann</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref224" level="item">
+                    <did>
+                        <unittitle>ALS Cy to George Washington</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1778 June 24</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Lee, Richard Henry, 1732-1794</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref225" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>2p.</extent>
+                        </physdesc>
+                        <unitdate>1778 July 2</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Lafayette, Marie Joseph Paul Yves, marquis de, 1757-1834</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref226" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>2p.</extent>
+                        </physdesc>
+                        <unitdate>1778 July 10</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Page, John, 1744-1808</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref228">
+                        <head>Scope and Contents note</head>
+                        <p>Congratulations on departure of British from Philadelphia.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref229" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1778 Aug. 1</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Wythe, George</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref230" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>4p.</extent>
+                        </physdesc>
+                        <unitdate>1778 Aug. 10</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Washington, George</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref232">
+                        <head>Scope and Contents note</head>
+                        <p>Re: Col. Spotswood.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref233" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1778 Aug. 13</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Pulaski, Kazimierz, 1747-1779</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref235">
+                        <head>Scope and Contents note</head>
+                        <p>Seeking Lee's support against false accusations made against Pulaski.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref236" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>2p.</extent>
+                        </physdesc>
+                        <unitdate>1778 Aug. 17</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">DeKalb, Johann</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref237" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>2p.</extent>
+                        </physdesc>
+                        <unitdate>1778 Sept. 21</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Lee, William</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref238" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>4p.</extent>
+                        </physdesc>
+                        <unitdate>1778 Sept. 23</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="local">Gates, Horatio, 1728-1806</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref239" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>2p.</extent>
+                        </physdesc>
+                        <unitdate>1778 Sept. 23</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Washington, George</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref241">
+                        <head>Scope and Contents note</head>
+                        <p>Paper money. "The designs of the Enemy, to me, are mysterious -- indeed totally incomprehensible..."</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref242" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>4p.</extent>
+                        </physdesc>
+                        <unitdate>1778 Oct. 15</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Page, John, 1744-1808</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref243" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>4p.</extent>
+                        </physdesc>
+                        <unitdate>1778 Oct. 17</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Lee, William</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref245">
+                        <head>Scope and Contents note</head>
+                        <p>Diplomatic efforts in Germany.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref246" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>2p.</extent>
+                        </physdesc>
+                        <unitdate>1778 Nov. 8</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Whipple, William</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref247" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>2p.</extent>
+                        </physdesc>
+                        <unitdate>1778 Dec. 10</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Lovell, James, 1737-1814</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref248" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>4p.</extent>
+                        </physdesc>
+                        <unitdate>1778 Dec. 18</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Lovell, James, 1737-1814</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref249" level="item">
+                    <did>
+                        <unittitle>Cy to Great Britain. Commissioners</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>ca.1778</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">[United States. Congress]</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref250" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>2p.</extent>
+                        </physdesc>
+                        <unitdate>1779 Jan. 7</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Lafayette, Marie Joseph Paul Yves, marquis de, 1757-1834</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref251" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>3p.</extent>
+                        </physdesc>
+                        <unitdate>1779 Oct. 7</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Lafayette, Marie Joseph Paul Yves, marquis de, 1757-1834</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref252" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>4p.</extent>
+                        </physdesc>
+                        <unitdate>1779 March 25</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">McKean, Thomas, 1734-1817</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref254">
+                        <head>Scope and Contents note</head>
+                        <p>Political machinations in Congress since Lee's departure and Franklin's against Arthur Lee.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref255" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>4p.</extent>
+                        </physdesc>
+                        <unitdate>1779 April 15</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Reed, Joseph, 1741-1785</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref256" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1779 April 22</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="local">Holker, John</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref257" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>2p.</extent>
+                        </physdesc>
+                        <unitdate>1779 April 5</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="local">Holker, John</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref258" level="item">
+                    <did>
+                        <unittitle>LS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1779 May 5</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Washington, George</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref259" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>3p.</extent>
+                        </physdesc>
+                        <unitdate>1779 June 13</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Lafayette, Marie Joseph Paul Yves, marquis de, 1757-1834</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref260" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>2p.</extent>
+                        </physdesc>
+                        <unitdate>1779 June 22</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Laurens, Henry, 1724-1792</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref261" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>2p.</extent>
+                        </physdesc>
+                        <unitdate>1779 June 17</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas.</persname>
+                        </origination>
+                    </did>
+                    <bibliography id="ref341">
+                        <head>Bibliography</head>
+                        <p>Printed: Boyd, v.2, 298-299.</p>
+                    </bibliography>
+                    <odd id="ref342">
+                        <head>General note</head>
+                        <p>Film 199 Frame 68</p>
+                    </odd>
+                </c02>
+                <c02 id="ref262" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>2p.</extent>
+                        </physdesc>
+                        <unitdate>1780 Aug. 15</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Lee, William</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref263" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>4p.</extent>
+                        </physdesc>
+                        <unitdate>1779 Aug. 17</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Lovell, James, 1737-1814</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref264" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>2p.</extent>
+                        </physdesc>
+                        <unitdate>1779 Aug. 23</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Whipple, William</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref265" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>4p.</extent>
+                        </physdesc>
+                        <unitdate>1779 Aug. 31</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Laurens, Henry, 1724-1792</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref266" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>2p.</extent>
+                        </physdesc>
+                        <unitdate>1779 Sept. 18</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Whipple, William</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref267" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>2p.</extent>
+                        </physdesc>
+                        <unitdate>1779 Sept. 28</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Laurens, Henry, 1724-1792</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref268" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>2p.</extent>
+                        </physdesc>
+                        <unitdate>1779 Oct. 12</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Laurens, Henry, 1724-1792</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref269" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1779 Dec. 13</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Lafayette, Marie Joseph Paul Yves, marquis de, 1757-1834</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref270" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1780 Aug. 31</unitdate>
+                        <origination label="creator">
+                            <persname source="naf">Lovell, James, 1737-1814</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref271" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>2p.</extent>
+                        </physdesc>
+                        <unitdate>1781 Jan. 15</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Adams, Samuel </persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref272" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1781 Feb. 8</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">DeGrasse, Conte de</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref273" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>3p.</extent>
+                        </physdesc>
+                        <unitdate>1781 March 10</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Jefferson, Thomas.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref275">
+                        <head>Scope and Contents note</head>
+                        <p>Re: Steuben and militia.</p>
+                    </scopecontent>
+                    <bibliography id="ref343">
+                        <head>Bibliography</head>
+                        <p>Printed: Boyd, v.5, 114-115.</p>
+                    </bibliography>
+                    <odd id="ref344">
+                        <head>General note</head>
+                        <p>Film 199 Frame 69</p>
+                    </odd>
+                </c02>
+                <c02 id="ref276" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>2p.</extent>
+                        </physdesc>
+                        <unitdate>1781 June 15</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Weedon, George</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref278">
+                        <head>Scope and Contents note</head>
+                        <p>Defences in Virginia.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref279" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>2p.</extent>
+                        </physdesc>
+                        <unitdate>1781 Aug. 12</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Weedon, George</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref280" level="item">
+                    <did>
+                        <unittitle>ALS to Arthur Lee</unittitle>
+                        <physdesc>
+                            <extent>2p.</extent>
+                        </physdesc>
+                        <unitdate>1781 Sept. 4</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">McKean, Thomas, 1734-1817</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref281" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1781 Sept. 20</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Weedon, George</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref282" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1781 Oct. 29</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">DeGrasse, Conte de</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref284">
+                        <head>Scope and Contents note</head>
+                        <p>In French.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref285" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>2p.</extent>
+                        </physdesc>
+                        <unitdate>1783 Sept. 15</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Whipple, William</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref286" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>3p.</extent>
+                        </physdesc>
+                        <unitdate>1783 April 4</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Monroe, James, 1758-1831</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref287" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>2p.</extent>
+                        </physdesc>
+                        <unitdate>1783 April 17</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Whipple, William</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref288" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>2p.</extent>
+                        </physdesc>
+                        <unitdate>1784 June 12</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Washington, George</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref290">
+                        <head>Scope and Contents note</head>
+                        <p>"Unsolicited by, and unknown to Mr. Paine, I take the liberty of hinting the services, and distressed (for so I think it may be called) situation of that Gentleman."</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref291" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>2p.</extent>
+                        </physdesc>
+                        <unitdate>1784 Oct. 8</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Florida-Blanca, Conte de</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref293">
+                        <head>Scope and Contents note</head>
+                        <p>On verso Richard Henry Lee ALS Cy to Florida Blance, 1785 Oct. 6. Regarding future of Spanish-American relations.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref294" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1784 Dec. 9</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Adams, Samuel </persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref295" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>4p.</extent>
+                        </physdesc>
+                        <unitdate>1784 Dec. 23</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Adams, Samuel </persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref297">
+                        <head>Scope and Contents note</head>
+                        <p>"By God's Blessing on the Councils and the Arms of our Country, we are now ran'k with Nations. May they keep us from exulting beyond Measure! Great Pains are tyet to be taken and much Wisdom is requisite that we may stand as a Nation in a respectable Character. Better it would have been for us to have fallen in our highly famed Struggle for our Rights, or even to have remain'd in our ignoble State of Bondage hoping for better Times, than now to become a contemptible Nation."</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref298" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>4p.</extent>
+                        </physdesc>
+                        <unitdate>1784 Dec. 14</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Washington, George</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref300">
+                        <head>Scope and Contents note</head>
+                        <p>Re: Treaty of Fort Stanwix. "These people [the Iroquois] have given I think all that the United States could reasonably have asked of them -- more perhaps than the state of New York conceive ought to have been required from them, by any other than their own Legislature."</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref301" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>8p.</extent>
+                        </physdesc>
+                        <unitdate>1785 Feb. 8</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Washington, George</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref302" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1785 Feb. 28</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Pendleton, Edmund, 1721-1803</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref304">
+                        <head>Scope and Contents note</head>
+                        <p>Regarding an act to incorporate the Episcopal Church, separation of church and state.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref305" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1785 March 7</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Pendleton, Edmund, 1721-1803</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref306" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>3p.</extent>
+                        </physdesc>
+                        <unitdate>1785 March 15</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Washington, George</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref308">
+                        <head>Scope and Contents note</head>
+                        <p>Ohio lands; Shawnees.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref309" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee(?)</unittitle>
+                        <physdesc>
+                            <extent>2p.</extent>
+                        </physdesc>
+                        <unitdate>1785 March 16</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Lafayette, Marie Joseph Paul Yves, marquis de, 1757-1834</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref310" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>2p.</extent>
+                        </physdesc>
+                        <unitdate>1785 April 18</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Pendleton, Edmund, 1721-1803</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref311" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>3p.</extent>
+                        </physdesc>
+                        <unitdate>1785 April 29</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Adams, John</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref312" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>3p.</extent>
+                        </physdesc>
+                        <unitdate>1785 June 22</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Washington, George</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref313" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>4p.</extent>
+                        </physdesc>
+                        <unitdate>1785 July 15</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Adams, John</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref315">
+                        <head>Scope and Contents note</head>
+                        <p>Critique of American policy toward Britain.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref316" level="item">
+                    <did>
+                        <unittitle>To "A Gentleman of Virginia"</unittitle>
+                        <physdesc>
+                            <extent>3p.</extent>
+                        </physdesc>
+                        <unitdate>1785 July 19</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Washington, George</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref318">
+                        <head>Scope and Contents note</head>
+                        <p>Regarding rights of navigation of the Mississippi River.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref319" level="item">
+                    <did>
+                        <unittitle>ALS to unidentified recipient</unittitle>
+                        <physdesc>
+                            <extent>3p.</extent>
+                        </physdesc>
+                        <unitdate>1785 Aug. 22</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Washington, George</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref320" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>4p.</extent>
+                        </physdesc>
+                        <unitdate>1785 Sept. 6</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Adams, John</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref321" level="item">
+                    <did>
+                        <unittitle>ALS to unidentified recipient</unittitle>
+                        <physdesc>
+                            <extent>3p.</extent>
+                        </physdesc>
+                        <unitdate>1786 May 24</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Monroe, James, 1758-1831</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref322" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>2p.</extent>
+                        </physdesc>
+                        <unitdate>1787 Dec. 3</unitdate>
+                        <abstract id="ref339" label="Abstract">Two page letter from Adams to Lee.</abstract>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Adams, Samuel </persname>
+                        </origination>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="ALS to Richard Henry Lee" ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/text:2603">
+                        <daodesc>
+                            <p>ALS to Richard Henry Lee, 1787 Dec. 3 </p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref323" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>3p.</extent>
+                        </physdesc>
+                        <unitdate>1789 July 2</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Chase, Samuel, 1741-1811</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref324" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>2p.</extent>
+                        </physdesc>
+                        <unitdate>1789 Feb. 9</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Gerry, Elbridge</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref325" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>3p.</extent>
+                        </physdesc>
+                        <unitdate>1789 April 11</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Sullivan, James</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref326" level="item">
+                    <did>
+                        <unittitle>LS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>2p.</extent>
+                        </physdesc>
+                        <unitdate>1789 April 22</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Adams, Samuel </persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref327" level="item">
+                    <did>
+                        <unittitle>LS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>2p.</extent>
+                        </physdesc>
+                        <unitdate>1789 July 14</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Adams, Samuel </persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref329">
+                        <head>Scope and Contents note</head>
+                        <p>Re: federal versus state balance.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref330" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>2p.</extent>
+                        </physdesc>
+                        <unitdate>1789 Aug. 2</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Washington, George</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref331" level="item">
+                    <did>
+                        <unittitle>LS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>3p.</extent>
+                        </physdesc>
+                        <unitdate>1789 Aug. 24</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Adams, Samuel </persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref332" level="item">
+                    <did>
+                        <unittitle>LS to Richard Henry Lee</unittitle>
+                        <physdesc>
+                            <extent>3p.</extent>
+                        </physdesc>
+                        <unitdate>1789 Aug. 24</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Adams, Samuel </persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref333" level="item">
+                    <did>
+                        <unittitle>ALS to Arthur Lee</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1790 Oct. 14</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Jones, William</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref334" level="item">
+                    <did>
+                        <unittitle>ALS to Arthur Lee</unittitle>
+                        <physdesc>
+                            <extent>1p.</extent>
+                        </physdesc>
+                        <unitdate>1790 Nov. 7</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Jones, William</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref335" level="item">
+                    <did>
+                        <unittitle>ALS to Richard Henry Lee, Jr.</unittitle>
+                        <physdesc>
+                            <extent>3p.</extent>
+                        </physdesc>
+                        <unitdate>1823 Feb. 12</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Jay, John</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref337">
+                        <head>Scope and Contents note</head>
+                        <p>Memories of events of 1774.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref338" level="item">
+                    <did>
+                        <unittitle>Fortifications of Boston Neck by the British</unittitle>
+                        <physdesc>
+                            <extent>1 map, 39.5 x 32.1 cm</extent>
+                        </physdesc>
+                        <unitdate>ca.1775</unitdate>
+                        <origination label="creator">
+                            <persname rules="local" source="local">Unidentified</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref346">
+                        <head>Scope and Contents note</head>
+                        <p>The cartographer is thought to be John Trumball.</p>
+                    </scopecontent>
+                    <phystech id="ref345">
+                        <head>Physical Characteristics and Technical Requirements note</head>
+                        <p>Oversized.</p>
+                    </phystech>
+                    <otherfindaid id="ref347">
+                        <head>Other Finding Aids note</head>
+                        <p>Realms of Gold, 25 (1).</p>
+                    </otherfindaid>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

@@ -1,0 +1,2832 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Rec.80</num>
+                    <num>Mss.Rec.80</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Brian Carpenter</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+                <date>01-2011</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T21:18-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Quileute recordings</unittitle>
+            <unitid>Mss.Rec.80</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="nai"/>
+            </langmaterial>
+            <physdesc>
+                <extent>14.0 Reel(s)</extent>
+            </physdesc>
+            <unitdate normal="1969/1970" type="inclusive">1969-1970</unitdate>
+            <abstract id="ref3" label="Abstract">Linguistic field recordings of the Quileute language based on Manuel J. Andrade's "Quileute Texts" (Columbia University Press, 1931), made by Eric Hamp. The recordings consist of Hamp reading back from Andrade's transcription of Quileute texts to Beatrice Black, a Quileute-speaking consultant, who repeats them in the correct pronunciation, provides explanation, and suggests corrections. Includes occasional discussions in English, with some infrequent English translations of the text. Texts included are primarily Quileute legends and folklore. Also included are conversations and discussions about basket making, local history, family history, education, potlatches, and Quileute vocabulary relating to calculating age, digging clams, gender-specific forms of address, names of rivers, and other miscellaneous terms. Recorded at Taholah, Washington, in August 1969 and November 1970.</abstract>
+            <physdesc id="ref2" label="General Physical Description note">14 sound tape reels (29 hr., 59 min.) : analog, 3 3/4 ips, 2 track, mono ; 7 in.</physdesc>
+            <physloc id="ref372" label="Paging">LH-B-32-3</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author in quotations or text extracts (aqt)">Andrade, Manuel José, 1885-1941</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="dacs" source="local" role="Speaker (spk)">Black, Beatrice</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Hamp, Eric P.</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref4">
+            <head>Immediate Source of Acquisition</head>
+            <p>Donated by Eric Hamp. This material was recorded with the assistance of a Phillips Fund grant.</p>
+        </acqinfo>
+        <controlaccess>
+            <subject source="lcsh">Basket making</subject>
+            <subject source="lcsh">Indians of North America--Washington (State)--Olympic Peninsula</subject>
+            <geogname source="lcsh">La Push (Wash.)</geogname>
+            <subject source="lcsh">Monsters--Folklore</subject>
+            <subject source="lcsh">Potlatch</subject>
+            <subject source="lcsh">Quileute Indians--Folklore</subject>
+            <subject source="lcsh">Quileute Indians--History</subject>
+            <subject source="lcsh">Quileute Indians--Social life and customs</subject>
+            <subject source="lcsh">Quileute language--Texts</subject>
+            <subject source="lcsh">Raven (Legendary character)--Legends</subject>
+            <genreform source="ingest">Sound recordings</genreform>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref5" level="series">
+                <did>
+                    <unittitle>Audio recordings</unittitle>
+                </did>
+                <c02 id="ref6" level="file">
+                    <did>
+                        <unittitle>Text 18: Q'wäeti' deceives Dásk'iya' [incomplete]</unittitle>
+                        <unitid>01-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1969-08</unitdate>
+                        <physdesc id="ref7" label="General Physical Description note">
+                            <extent>00:07:27</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Black, Beatrice</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hamp, Eric P.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref8">
+                        <head>Scope and Contents note</head>
+                        <p>This program consists of the researcher reading back a text in Quileute from Manuel J. Andrade's "Quileute Texts" (see Related Resource) to a Quileute-speaking consultant who assists in pronunciation, provides explanation, and suggests corrections. Interactions in English, with infrequent English translations of the text. Identical to "Text 18: Q'wäeti' deceives Dásk'iya' [2 of 2]" (APSdigrec_1986) from collection APSREC073 by the same collector. See Related Recording.</p>
+                    </scopecontent>
+                    <originalsloc id="ref10">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1989" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3775">
+                        <daodesc>
+                            <p>APSdigrec_1989</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Monsters--Folklore</subject>
+                        <subject source="lcsh">Quileute Indians--Folklore</subject>
+                        <subject source="lcsh">Quileute language--Texts</subject>
+                        <geogname source="ingest">Taholah (Wash.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref11" level="file">
+                    <did>
+                        <unittitle>Text 19: Dásk'iya' is killed by a girl</unittitle>
+                        <unitid>01-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1969-08</unitdate>
+                        <physdesc id="ref12" label="General Physical Description note">
+                            <extent>00:22:43</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Black, Beatrice</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hamp, Eric P.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref13">
+                        <head>Scope and Contents note</head>
+                        <p>This program consists of the researcher reading back a text in Quileute from Manuel J. Andrade's "Quileute Texts" (see Related Resource) to a Quileute-speaking consultant who assists in pronunciation, provides explanation, and suggests corrections. Interactions in English, with infrequent English translations of the text. Identical to "Text 19: Dásk'iya' is killed by a girl" (APSdigrec_1987) from collection APSREC073 by the same collector. See Related Recording.</p>
+                    </scopecontent>
+                    <originalsloc id="ref15">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1990" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3774">
+                        <daodesc>
+                            <p>APSdigrec_1990</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Monsters--Folklore</subject>
+                        <subject source="lcsh">Quileute Indians--Folklore</subject>
+                        <subject source="lcsh">Quileute language--Texts</subject>
+                        <geogname source="ingest">Taholah (Wash.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref16" level="file">
+                    <did>
+                        <unittitle>Text 20: Devil-fish kills Dásk'iya'</unittitle>
+                        <unitid>01-03</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1969-08</unitdate>
+                        <physdesc id="ref17" label="General Physical Description note">
+                            <extent>00:18:06</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Black, Beatrice</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hamp, Eric P.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref18">
+                        <head>Scope and Contents note</head>
+                        <p>This program consists of the researcher reading back a text in Quileute from Manuel J. Andrade's "Quileute Texts" (see Related Resource) to a Quileute-speaking consultant who assists in pronunciation, provides explanation, and suggests corrections. Interactions in English, with infrequent English translations of the text. Identical to "Text 20: Devil-fish kills Dásk'iya'" (APSdigrec_1988) from collection APSREC073 by the same collector. See Related Recording.</p>
+                    </scopecontent>
+                    <originalsloc id="ref20">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1991" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3773">
+                        <daodesc>
+                            <p>APSdigrec_1991</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Quileute Indians--Folklore</subject>
+                        <subject source="lcsh">Quileute language--Texts</subject>
+                        <geogname source="ingest">Taholah (Wash.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref21" level="file">
+                    <did>
+                        <unittitle>Conversation in English and Quileute</unittitle>
+                        <unitid>01-04</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1969-08-19</unitdate>
+                        <physdesc id="ref22" label="General Physical Description note">
+                            <extent>00:00:35</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Black, Beatrice</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hamp, Eric P.</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref24">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1992" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3776">
+                        <daodesc>
+                            <p>APSdigrec_1992</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Quileute language</subject>
+                        <geogname source="ingest">Taholah (Wash.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref25" level="file">
+                    <did>
+                        <unittitle>Text 21: The man who was left on a rock [incomplete]</unittitle>
+                        <unitid>01-05</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1969-08-20</unitdate>
+                        <physdesc id="ref26" label="General Physical Description note">
+                            <extent>00:35:41</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Black, Beatrice</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hamp, Eric P.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref27">
+                        <head>Scope and Contents note</head>
+                        <p>This program consists of the researcher reading back a text in Quileute from Manuel J. Andrade's "Quileute Texts" (see Related Resource) to a Quileute-speaking consultant who assists in pronunciation, provides explanation, and suggests corrections. Interactions in English, with infrequent English translations of the text. The beginning of the story is not found on the original recording. This program begins approximately 33 lines after the story's beginning in the source text. The length of the entire story in the source text is 52 lines.</p>
+                    </scopecontent>
+                    <originalsloc id="ref29">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1993" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3778">
+                        <daodesc>
+                            <p>APSdigrec_1993</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Quileute Indians--Folklore</subject>
+                        <subject source="lcsh">Quileute language--Texts</subject>
+                        <geogname source="ingest">Taholah (Wash.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref30" level="file">
+                    <did>
+                        <unittitle>Text 22: The girl who was left on a tree [1 of 2]</unittitle>
+                        <unitid>01-06</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1969-08-20</unitdate>
+                        <physdesc id="ref31" label="General Physical Description note">
+                            <extent>00:53:13</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Black, Beatrice</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hamp, Eric P.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref32">
+                        <head>Scope and Contents note</head>
+                        <p>This program consists of the researcher reading back a text in Quileute from Manuel J. Andrade's "Quileute Texts" (see Related Resource) to a Quileute-speaking consultant who assists in pronunciation, provides explanation, and suggests corrections. Interactions in English, with infrequent English translations of the text.</p>
+                    </scopecontent>
+                    <originalsloc id="ref34">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1994" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3777">
+                        <daodesc>
+                            <p>APSdigrec_1994</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Quileute Indians--Folklore</subject>
+                        <subject source="lcsh">Quileute language--Texts</subject>
+                        <geogname source="ingest">Taholah (Wash.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref35" level="file">
+                    <did>
+                        <unittitle>Text 22: The girl who was left on a tree [2 of 2]</unittitle>
+                        <unitid>02-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1969-08-20</unitdate>
+                        <physdesc id="ref36" label="General Physical Description note">
+                            <extent>00:09:40</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Black, Beatrice</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hamp, Eric P.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref37">
+                        <head>Scope and Contents note</head>
+                        <p>This program consists of the researcher reading back a text in Quileute from Manuel J. Andrade's "Quileute Texts" (see Related Resource) to a Quileute-speaking consultant who assists in pronunciation, provides explanation, and suggests corrections. Interactions in English, with infrequent English translations of the text. The majority of this program consists of a discussion of a rude word used by someone in the story.</p>
+                    </scopecontent>
+                    <originalsloc id="ref39">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1995" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3782">
+                        <daodesc>
+                            <p>APSdigrec_1995</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Quileute Indians--Folklore</subject>
+                        <subject source="ingest">Quileute language--Obscene words</subject>
+                        <subject source="lcsh">Quileute language--Texts</subject>
+                        <geogname source="ingest">Taholah (Wash.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref40" level="file">
+                    <did>
+                        <unittitle>Text 23: The two brothers [1 of 3]</unittitle>
+                        <unitid>02-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1969-08-20</unitdate>
+                        <physdesc id="ref41" label="General Physical Description note">
+                            <extent>00:59:10</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Black, Beatrice</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hamp, Eric P.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref42">
+                        <head>Scope and Contents note</head>
+                        <p>This program consists of the researcher reading back a text in Quileute from Manuel J. Andrade's "Quileute Texts" (see Related Resource) to a Quileute-speaking consultant who assists in pronunciation, provides explanation, and suggests corrections. Interactions in English, with infrequent English translations of the text.</p>
+                    </scopecontent>
+                    <originalsloc id="ref44">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1996" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3783">
+                        <daodesc>
+                            <p>APSdigrec_1996</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Brothers--Folklore</subject>
+                        <subject source="lcsh">Quileute Indians--Folklore</subject>
+                        <subject source="lcsh">Quileute language--Texts</subject>
+                        <geogname source="ingest">Taholah (Wash.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref45" level="file">
+                    <did>
+                        <unittitle>Text 23: The two brothers [2 of 3]</unittitle>
+                        <unitid>02-03</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1969-08-20</unitdate>
+                        <physdesc id="ref46" label="General Physical Description note">
+                            <extent>00:04:51</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Black, Beatrice</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hamp, Eric P.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref47">
+                        <head>Scope and Contents note</head>
+                        <p>This program consists of the researcher reading back a text in Quileute from Manuel J. Andrade's "Quileute Texts" (see Related Resource) to a Quileute-speaking consultant who assists in pronunciation, provides explanation, and suggests corrections. Interactions in English, with infrequent English translations of the text.</p>
+                    </scopecontent>
+                    <originalsloc id="ref49">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1997" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3781">
+                        <daodesc>
+                            <p>APSdigrec_1997</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Brothers--Folklore</subject>
+                        <subject source="lcsh">Quileute Indians--Folklore</subject>
+                        <subject source="lcsh">Quileute language--Texts</subject>
+                        <geogname source="ingest">Taholah (Wash.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref50" level="file">
+                    <did>
+                        <unittitle>Text 23: The two brothers [3 of 3]</unittitle>
+                        <unitid>02-04</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1969-08-23</unitdate>
+                        <physdesc id="ref51" label="General Physical Description note">
+                            <extent>00:23:57</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Black, Beatrice</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hamp, Eric P.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref52">
+                        <head>Scope and Contents note</head>
+                        <p>This program consists of the researcher reading back a text in Quileute from Manuel J. Andrade's "Quileute Texts" (see Related Resource) to a Quileute-speaking consultant who assists in pronunciation, provides explanation, and suggests corrections. Interactions in English, with infrequent English translations of the text.</p>
+                    </scopecontent>
+                    <originalsloc id="ref54">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1998" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3788">
+                        <daodesc>
+                            <p>APSdigrec_1998</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Brothers--Folklore</subject>
+                        <subject source="lcsh">Quileute Indians--Folklore</subject>
+                        <subject source="lcsh">Quileute language--Texts</subject>
+                        <geogname source="ingest">Taholah (Wash.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref55" level="file">
+                    <did>
+                        <unittitle>Text 24: Wadswad's exploit [1 of 2]</unittitle>
+                        <unitid>02-05</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1969-08-23</unitdate>
+                        <physdesc id="ref56" label="General Physical Description note">
+                            <extent>00:17:24</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Black, Beatrice</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hamp, Eric P.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref57">
+                        <head>Scope and Contents note</head>
+                        <p>This program consists of the researcher reading back a text in Quileute from Manuel J. Andrade's "Quileute Texts" (see Related Resource) to a Quileute-speaking consultant who assists in pronunciation, provides explanation, and suggests corrections. Interactions in English, with infrequent English translations of the text.</p>
+                    </scopecontent>
+                    <originalsloc id="ref59">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1999" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3780">
+                        <daodesc>
+                            <p>APSdigrec_1999</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Quileute Indians--Folklore</subject>
+                        <subject source="lcsh">Quileute language--Texts</subject>
+                        <geogname source="ingest">Taholah (Wash.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref60" level="file">
+                    <did>
+                        <unittitle>Text 24: Wadswad's exploit [2 of 2]</unittitle>
+                        <unitid>02-06</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1969-08-23</unitdate>
+                        <physdesc id="ref61" label="General Physical Description note">
+                            <extent>00:15:06</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Black, Beatrice</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hamp, Eric P.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref62">
+                        <head>Scope and Contents note</head>
+                        <p>This program consists of the researcher reading back a text in Quileute from Manuel J. Andrade's "Quileute Texts" (see Related Resource) to a Quileute-speaking consultant who assists in pronunciation, provides explanation, and suggests corrections. Interactions in English, with infrequent English translations of the text.</p>
+                    </scopecontent>
+                    <originalsloc id="ref64">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2000" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3787">
+                        <daodesc>
+                            <p>APSdigrec_2000</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Quileute Indians--Folklore</subject>
+                        <subject source="lcsh">Quileute language--Texts</subject>
+                        <geogname source="ingest">Taholah (Wash.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref65" level="file">
+                    <did>
+                        <unittitle>Text 25: Rabbit and Wolf</unittitle>
+                        <unitid>03-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1969-08-23</unitdate>
+                        <physdesc id="ref66" label="General Physical Description note">
+                            <extent>00:07:01</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Black, Beatrice</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hamp, Eric P.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref67">
+                        <head>Scope and Contents note</head>
+                        <p>This program consists of the researcher reading back a text in Quileute from Manuel J. Andrade's "Quileute Texts" (see Related Resource) to a Quileute-speaking consultant who assists in pronunciation, provides explanation, and suggests corrections. Interactions in English, with infrequent English translations of the text.</p>
+                    </scopecontent>
+                    <originalsloc id="ref69">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2001" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3786">
+                        <daodesc>
+                            <p>APSdigrec_2001</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Quileute Indians--Folklore</subject>
+                        <subject source="lcsh">Quileute language--Texts</subject>
+                        <subject source="ingest">Rabbits--Folklore</subject>
+                        <geogname source="ingest">Taholah (Wash.)</geogname>
+                        <subject source="ingest">Wolves--Folklore</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref70" level="file">
+                    <did>
+                        <unittitle>Quileute term for digging clams</unittitle>
+                        <unitid>03-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1969-08-23</unitdate>
+                        <physdesc id="ref71" label="General Physical Description note">
+                            <extent>00:00:32</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Black, Beatrice</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hamp, Eric P.</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref73">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2002" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3784">
+                        <daodesc>
+                            <p>APSdigrec_2002</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Clamming</subject>
+                        <subject source="lcsh">Quileute language</subject>
+                        <geogname source="ingest">Taholah (Wash.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref74" level="file">
+                    <did>
+                        <unittitle>Text 26: The star husbands [1 of 5]</unittitle>
+                        <unitid>03-03</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1969-08-24</unitdate>
+                        <physdesc id="ref75" label="General Physical Description note">
+                            <extent>00:12:02</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Black, Beatrice</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hamp, Eric P.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref76">
+                        <head>Scope and Contents note</head>
+                        <p>This program consists of the researcher reading back a text in Quileute from Manuel J. Andrade's "Quileute Texts" (see Related Resource) to a Quileute-speaking consultant who assists in pronunciation, provides explanation, and suggests corrections. Interactions in English, with infrequent English translations of the text.</p>
+                    </scopecontent>
+                    <originalsloc id="ref78">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2003" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3785">
+                        <daodesc>
+                            <p>APSdigrec_2003</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Quileute Indians--Folklore</subject>
+                        <subject source="lcsh">Quileute language--Texts</subject>
+                        <subject source="ingest">Stars--Mythology</subject>
+                        <geogname source="ingest">Taholah (Wash.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref79" level="file">
+                    <did>
+                        <unittitle>Text 26: The star husbands [2 of 5]</unittitle>
+                        <unitid>03-04</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1969-08-24</unitdate>
+                        <physdesc id="ref80" label="General Physical Description note">
+                            <extent>00:57:08</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Black, Beatrice</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hamp, Eric P.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref81">
+                        <head>Scope and Contents note</head>
+                        <p>This program consists of the researcher reading back a text in Quileute from Manuel J. Andrade's "Quileute Texts" (see Related Resource) to a Quileute-speaking consultant who assists in pronunciation, provides explanation, and suggests corrections. Interactions in English, with infrequent English translations of the text.</p>
+                    </scopecontent>
+                    <originalsloc id="ref83">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2004" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3790">
+                        <daodesc>
+                            <p>APSdigrec_2004</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Quileute Indians--Folklore</subject>
+                        <subject source="lcsh">Quileute language--Texts</subject>
+                        <subject source="ingest">Stars--Mythology</subject>
+                        <geogname source="ingest">Taholah (Wash.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref84" level="file">
+                    <did>
+                        <unittitle>Text 26: The star husbands [3 of 5]</unittitle>
+                        <unitid>03-05</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1969-08-24</unitdate>
+                        <physdesc id="ref85" label="General Physical Description note">
+                            <extent>00:49:19</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Black, Beatrice</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hamp, Eric P.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref86">
+                        <head>Scope and Contents note</head>
+                        <p>This program consists of the researcher reading back a text in Quileute from Manuel J. Andrade's "Quileute Texts" (see Related Resource) to a Quileute-speaking consultant who assists in pronunciation, provides explanation, and suggests corrections. Interactions in English, with infrequent English translations of the text.</p>
+                    </scopecontent>
+                    <originalsloc id="ref88">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2005" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3792">
+                        <daodesc>
+                            <p>APSdigrec_2005</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Quileute Indians--Folklore</subject>
+                        <subject source="lcsh">Quileute language--Texts</subject>
+                        <subject source="ingest">Stars--Mythology</subject>
+                        <geogname source="ingest">Taholah (Wash.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref89" level="file">
+                    <did>
+                        <unittitle>Text 26: The star husbands [4 of 5]</unittitle>
+                        <unitid>03-06</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1969-08-24</unitdate>
+                        <physdesc id="ref90" label="General Physical Description note">
+                            <extent>00:18:21</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Black, Beatrice</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hamp, Eric P.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref91">
+                        <head>Scope and Contents note</head>
+                        <p>This program consists of the researcher reading back a text in Quileute from Manuel J. Andrade's "Quileute Texts" (see Related Resource) to a Quileute-speaking consultant who assists in pronunciation, provides explanation, and suggests corrections. Interactions in English, with infrequent English translations of the text.</p>
+                    </scopecontent>
+                    <originalsloc id="ref93">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2006" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3791">
+                        <daodesc>
+                            <p>APSdigrec_2006</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Quileute Indians--Folklore</subject>
+                        <subject source="lcsh">Quileute language--Texts</subject>
+                        <subject source="ingest">Stars--Mythology</subject>
+                        <geogname source="ingest">Taholah (Wash.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref94" level="file">
+                    <did>
+                        <unittitle>Text 26: The star husbands [5 of 5]</unittitle>
+                        <unitid>04-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1969-08-24</unitdate>
+                        <physdesc id="ref95" label="General Physical Description note">
+                            <extent>00:21:18</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Black, Beatrice</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hamp, Eric P.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref96">
+                        <head>Scope and Contents note</head>
+                        <p>This program consists of the researcher reading back a text in Quileute from Manuel J. Andrade's "Quileute Texts" (see Related Resource) to a Quileute-speaking consultant who assists in pronunciation, provides explanation, and suggests corrections. Interactions in English, with infrequent English translations of the text.</p>
+                    </scopecontent>
+                    <originalsloc id="ref98">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2007" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3793">
+                        <daodesc>
+                            <p>APSdigrec_2007</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Quileute Indians--Folklore</subject>
+                        <subject source="lcsh">Quileute language--Texts</subject>
+                        <subject source="ingest">Stars--Mythology</subject>
+                        <geogname source="ingest">Taholah (Wash.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref99" level="file">
+                    <did>
+                        <unittitle>Quileute names for rivers</unittitle>
+                        <unitid>04-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1969-08-24</unitdate>
+                        <physdesc id="ref100" label="General Physical Description note">
+                            <extent>00:04:24</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Black, Beatrice</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hamp, Eric P.</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref102">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2008" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3794">
+                        <daodesc>
+                            <p>APSdigrec_2008</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Names, Geographical--Washington (State)--Olympic Peninsula</subject>
+                        <subject source="lcsh">Quileute language</subject>
+                        <subject source="ingest">Rivers--Washington (State)--Olympic Peninsula</subject>
+                        <geogname source="ingest">Taholah (Wash.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref103" level="file">
+                    <did>
+                        <unittitle>Text 28: The theft of light [1 of 2]</unittitle>
+                        <unitid>04-03</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1969-08-24</unitdate>
+                        <physdesc id="ref104" label="General Physical Description note">
+                            <extent>00:05:10</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Black, Beatrice</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hamp, Eric P.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref105">
+                        <head>Scope and Contents note</head>
+                        <p>This program consists of the researcher reading back a text in Quileute from Manuel J. Andrade's "Quileute Texts" (see Related Resource) to a Quileute-speaking consultant who assists in pronunciation, provides explanation, and suggests corrections. Interactions in English, with infrequent English translations of the text.</p>
+                    </scopecontent>
+                    <originalsloc id="ref107">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2009" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3803">
+                        <daodesc>
+                            <p>APSdigrec_2009</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Light--Mythology</subject>
+                        <subject source="lcsh">Quileute Indians--Folklore</subject>
+                        <subject source="lcsh">Quileute language--Texts</subject>
+                        <geogname source="ingest">Taholah (Wash.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref108" level="file">
+                    <did>
+                        <unittitle>Text 28: The theft of light [2 of 2]</unittitle>
+                        <unitid>04-04</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1969-08-24</unitdate>
+                        <physdesc id="ref109" label="General Physical Description note">
+                            <extent>00:50:23</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Black, Beatrice</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hamp, Eric P.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref110">
+                        <head>Scope and Contents note</head>
+                        <p>This program consists of the researcher reading back a text in Quileute from Manuel J. Andrade's "Quileute Texts" (see Related Resource) to a Quileute-speaking consultant who assists in pronunciation, provides explanation, and suggests corrections. Interactions in English, with infrequent English translations of the text.</p>
+                    </scopecontent>
+                    <originalsloc id="ref112">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2010" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3805">
+                        <daodesc>
+                            <p>APSdigrec_2010</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Light--Mythology</subject>
+                        <subject source="lcsh">Quileute Indians--Folklore</subject>
+                        <subject source="lcsh">Quileute language--Texts</subject>
+                        <geogname source="ingest">Taholah (Wash.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref113" level="file">
+                    <did>
+                        <unittitle>Text 31: Q'wäeti' plays a trick on Shark [1 of 3]</unittitle>
+                        <unitid>04-05</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1969-08-24</unitdate>
+                        <physdesc id="ref114" label="General Physical Description note">
+                            <extent>00:16:18</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Black, Beatrice</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hamp, Eric P.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref115">
+                        <head>Scope and Contents note</head>
+                        <p>This program consists of the researcher reading back a text in Quileute from Manuel J. Andrade's "Quileute Texts" (see Related Resource) to a Quileute-speaking consultant who assists in pronunciation, provides explanation, and suggests corrections. Interactions in English, with infrequent English translations of the text.</p>
+                    </scopecontent>
+                    <originalsloc id="ref117">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2011" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3802">
+                        <daodesc>
+                            <p>APSdigrec_2011</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Quileute Indians--Folklore</subject>
+                        <subject source="lcsh">Quileute language--Texts</subject>
+                        <subject source="ingest">Sharks--Folklore</subject>
+                        <geogname source="ingest">Taholah (Wash.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref118" level="file">
+                    <did>
+                        <unittitle>Conversation on education and potlatches</unittitle>
+                        <unitid>04-06</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1969-08-24</unitdate>
+                        <physdesc id="ref119" label="General Physical Description note">
+                            <extent>00:07:24</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Black, Beatrice</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hamp, Eric P.</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref121">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2012" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3804">
+                        <daodesc>
+                            <p>APSdigrec_2012</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">La Push (Wash.)</subject>
+                        <subject source="ingest">Potlatch</subject>
+                        <subject source="ingest">Quileute Indians--Education</subject>
+                        <subject source="lcsh">Quileute language</subject>
+                        <geogname source="ingest">Taholah (Wash.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref122" level="file">
+                    <did>
+                        <unittitle>Text 31: Q'wäeti' plays a trick on Shark [2 of 3]</unittitle>
+                        <unitid>04-07</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1969-08-24</unitdate>
+                        <physdesc id="ref123" label="General Physical Description note">
+                            <extent>00:26:55</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Black, Beatrice</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hamp, Eric P.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref124">
+                        <head>Scope and Contents note</head>
+                        <p>This program consists of the researcher reading back a text in Quileute from Manuel J. Andrade's "Quileute Texts" (see Related Resource) to a Quileute-speaking consultant who assists in pronunciation, provides explanation, and suggests corrections. Interactions in English, with infrequent English translations of the text.</p>
+                    </scopecontent>
+                    <originalsloc id="ref126">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2013" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3808">
+                        <daodesc>
+                            <p>APSdigrec_2013</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Quileute Indians--Folklore</subject>
+                        <subject source="lcsh">Quileute language--Texts</subject>
+                        <subject source="ingest">Sharks--Folklore</subject>
+                        <geogname source="ingest">Taholah (Wash.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref127" level="file">
+                    <did>
+                        <unittitle>Text 31: Q'wäeti' plays a trick on Shark [3 of 3]</unittitle>
+                        <unitid>05-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1969-08-25</unitdate>
+                        <physdesc id="ref128" label="General Physical Description note">
+                            <extent>00:13:44</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Black, Beatrice</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hamp, Eric P.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref129">
+                        <head>Scope and Contents note</head>
+                        <p>This program consists of the researcher reading back a text in Quileute from Manuel J. Andrade's "Quileute Texts" (see Related Resource) to a Quileute-speaking consultant who assists in pronunciation, provides explanation, and suggests corrections. Interactions in English, with infrequent English translations of the text.</p>
+                    </scopecontent>
+                    <originalsloc id="ref131">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2014" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3807">
+                        <daodesc>
+                            <p>APSdigrec_2014</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Quileute Indians--Folklore</subject>
+                        <subject source="lcsh">Quileute language--Texts</subject>
+                        <subject source="ingest">Sharks--Folklore</subject>
+                        <geogname source="ingest">Taholah (Wash.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref132" level="file">
+                    <did>
+                        <unittitle>Text 32: Q'wäeti' and the wolves</unittitle>
+                        <unitid>05-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1969-08-25</unitdate>
+                        <physdesc id="ref133" label="General Physical Description note">
+                            <extent>00:47:21</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Black, Beatrice</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hamp, Eric P.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref134">
+                        <head>Scope and Contents note</head>
+                        <p>This program consists of the researcher reading back a text in Quileute from Manuel J. Andrade's "Quileute Texts" (see Related Resource) to a Quileute-speaking consultant who assists in pronunciation, provides explanation, and suggests corrections. Interactions in English, with infrequent English translations of the text.</p>
+                    </scopecontent>
+                    <originalsloc id="ref136">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2015" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3806">
+                        <daodesc>
+                            <p>APSdigrec_2015</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Quileute Indians--Folklore</subject>
+                        <subject source="lcsh">Quileute language--Texts</subject>
+                        <geogname source="ingest">Taholah (Wash.)</geogname>
+                        <subject source="ingest">Wolves--Folklore</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref137" level="file">
+                    <did>
+                        <unittitle>Text 33: The origin of death [1 of 2]</unittitle>
+                        <unitid>05-03</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1969-08-25</unitdate>
+                        <physdesc id="ref138" label="General Physical Description note">
+                            <extent>00:04:44</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Black, Beatrice</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hamp, Eric P.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref139">
+                        <head>Scope and Contents note</head>
+                        <p>This program consists of the researcher reading back a text in Quileute from Manuel J. Andrade's "Quileute Texts" (see Related Resource) to a Quileute-speaking consultant who assists in pronunciation, provides explanation, and suggests corrections. Interactions in English, with infrequent English translations of the text.</p>
+                    </scopecontent>
+                    <originalsloc id="ref141">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2016" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3812">
+                        <daodesc>
+                            <p>APSdigrec_2016</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Death--Folklore</subject>
+                        <subject source="lcsh">Quileute Indians--Folklore</subject>
+                        <subject source="lcsh">Quileute language--Texts</subject>
+                        <subject source="ingest">Raven (Legendary character)--Legends</subject>
+                        <geogname source="ingest">Taholah (Wash.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref142" level="file">
+                    <did>
+                        <unittitle>Text 33: The origin of death [2 of 2]</unittitle>
+                        <unitid>05-04</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1969-08-25</unitdate>
+                        <physdesc id="ref143" label="General Physical Description note">
+                            <extent>00:22:11</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Black, Beatrice</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hamp, Eric P.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref144">
+                        <head>Scope and Contents note</head>
+                        <p>This program consists of the researcher reading back a text in Quileute from Manuel J. Andrade's "Quileute Texts" (see Related Resource) to a Quileute-speaking consultant who assists in pronunciation, provides explanation, and suggests corrections. Interactions in English, with infrequent English translations of the text.</p>
+                    </scopecontent>
+                    <originalsloc id="ref146">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2017" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3810">
+                        <daodesc>
+                            <p>APSdigrec_2017</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Death--Folklore</subject>
+                        <subject source="lcsh">Quileute Indians--Folklore</subject>
+                        <subject source="lcsh">Quileute language--Texts</subject>
+                        <subject source="ingest">Raven (Legendary character)--Legends</subject>
+                        <geogname source="ingest">Taholah (Wash.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref147" level="file">
+                    <did>
+                        <unittitle>Text 34: Raven loses his son [1 of 3]</unittitle>
+                        <unitid>05-05</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1969-08-26</unitdate>
+                        <physdesc id="ref148" label="General Physical Description note">
+                            <extent>00:10:42</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Black, Beatrice</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hamp, Eric P.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref149">
+                        <head>Scope and Contents note</head>
+                        <p>This program consists of the researcher reading back a text in Quileute from Manuel J. Andrade's "Quileute Texts" (see Related Resource) to a Quileute-speaking consultant who assists in pronunciation, provides explanation, and suggests corrections. Interactions in English, with infrequent English translations of the text.</p>
+                    </scopecontent>
+                    <originalsloc id="ref151">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2018" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3811">
+                        <daodesc>
+                            <p>APSdigrec_2018</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Quileute Indians--Folklore</subject>
+                        <subject source="lcsh">Quileute language--Texts</subject>
+                        <subject source="ingest">Raven (Legendary character)--Legends</subject>
+                        <geogname source="ingest">Taholah (Wash.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref152" level="file">
+                    <did>
+                        <unittitle>Text 34: Raven loses his son [2 of 3]</unittitle>
+                        <unitid>05-06</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1969-08-26</unitdate>
+                        <physdesc id="ref153" label="General Physical Description note">
+                            <extent>00:32:59</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Black, Beatrice</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hamp, Eric P.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref154">
+                        <head>Scope and Contents note</head>
+                        <p>This program consists of the researcher reading back a text in Quileute from Manuel J. Andrade's "Quileute Texts" (see Related Resource) to a Quileute-speaking consultant who assists in pronunciation, provides explanation, and suggests corrections. Interactions in English, with infrequent English translations of the text.</p>
+                    </scopecontent>
+                    <originalsloc id="ref156">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2019" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3814">
+                        <daodesc>
+                            <p>APSdigrec_2019</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Quileute Indians--Folklore</subject>
+                        <subject source="lcsh">Quileute language--Texts</subject>
+                        <subject source="ingest">Raven (Legendary character)--Legends</subject>
+                        <geogname source="ingest">Taholah (Wash.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref157" level="file">
+                    <did>
+                        <unittitle>Text 34: Raven loses his son [3 of 3]</unittitle>
+                        <unitid>06-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1969-08-26</unitdate>
+                        <physdesc id="ref158" label="General Physical Description note">
+                            <extent>00:05:09</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Black, Beatrice</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hamp, Eric P.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref159">
+                        <head>Scope and Contents note</head>
+                        <p>This program consists of the researcher reading back a text in Quileute from Manuel J. Andrade's "Quileute Texts" (see Related Resource) to a Quileute-speaking consultant who assists in pronunciation, provides explanation, and suggests corrections. Interactions in English, with infrequent English translations of the text.</p>
+                    </scopecontent>
+                    <originalsloc id="ref161">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2020" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3815">
+                        <daodesc>
+                            <p>APSdigrec_2020</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Quileute Indians--Folklore</subject>
+                        <subject source="lcsh">Quileute language--Texts</subject>
+                        <subject source="ingest">Raven (Legendary character)--Legends</subject>
+                        <geogname source="ingest">Taholah (Wash.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref162" level="file">
+                    <did>
+                        <unittitle>Text 35: The origin of death</unittitle>
+                        <unitid>06-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1969-08-26</unitdate>
+                        <physdesc id="ref163" label="General Physical Description note">
+                            <extent>00:04:51</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Black, Beatrice</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hamp, Eric P.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref164">
+                        <head>Scope and Contents note</head>
+                        <p>This program consists of the researcher reading back a text in Quileute from Manuel J. Andrade's "Quileute Texts" (see Related Resource) to a Quileute-speaking consultant who assists in pronunciation, provides explanation, and suggests corrections. Interactions in English, with infrequent English translations of the text.</p>
+                    </scopecontent>
+                    <originalsloc id="ref166">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2021" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3813">
+                        <daodesc>
+                            <p>APSdigrec_2021</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Death--Folklore</subject>
+                        <subject source="lcsh">Quileute Indians--Folklore</subject>
+                        <subject source="lcsh">Quileute language--Texts</subject>
+                        <subject source="ingest">Raven (Legendary character)--Legends</subject>
+                        <geogname source="ingest">Taholah (Wash.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref167" level="file">
+                    <did>
+                        <unittitle>Text 36: Raven orders Deer to weep</unittitle>
+                        <unitid>06-03</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1969-08-27</unitdate>
+                        <physdesc id="ref168" label="General Physical Description note">
+                            <extent>00:42:15</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Black, Beatrice</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hamp, Eric P.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref169">
+                        <head>Scope and Contents note</head>
+                        <p>This program consists of the researcher reading back a text in Quileute from Manuel J. Andrade's "Quileute Texts" (see Related Resource) to a Quileute-speaking consultant who assists in pronunciation, provides explanation, and suggests corrections. Interactions in English, with infrequent English translations of the text.</p>
+                    </scopecontent>
+                    <originalsloc id="ref171">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2022" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3816">
+                        <daodesc>
+                            <p>APSdigrec_2022</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Deer--Folklore</subject>
+                        <subject source="lcsh">Quileute Indians--Folklore</subject>
+                        <subject source="lcsh">Quileute language--Texts</subject>
+                        <subject source="ingest">Raven (Legendary character)--Legends</subject>
+                        <geogname source="ingest">Taholah (Wash.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref172" level="file">
+                    <did>
+                        <unittitle>Text 37: Raven and Fish-Duck</unittitle>
+                        <unitid>06-04</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1969-08-27</unitdate>
+                        <physdesc id="ref173" label="General Physical Description note">
+                            <extent>00:13:16</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Black, Beatrice</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hamp, Eric P.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref174">
+                        <head>Scope and Contents note</head>
+                        <p>This program consists of the researcher reading back a text in Quileute from Manuel J. Andrade's "Quileute Texts" (see Related Resource) to a Quileute-speaking consultant who assists in pronunciation, provides explanation, and suggests corrections. Interactions in English, with infrequent English translations of the text.</p>
+                    </scopecontent>
+                    <originalsloc id="ref176">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2023" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3817">
+                        <daodesc>
+                            <p>APSdigrec_2023</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Ducks--Folklore</subject>
+                        <subject source="lcsh">Quileute Indians--Folklore</subject>
+                        <subject source="lcsh">Quileute language--Texts</subject>
+                        <subject source="ingest">Raven (Legendary character)--Legends</subject>
+                        <geogname source="ingest">Taholah (Wash.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref177" level="file">
+                    <did>
+                        <unittitle>Text 38: Raven and King-fisher</unittitle>
+                        <unitid>06-05</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1969-08-27</unitdate>
+                        <physdesc id="ref178" label="General Physical Description note">
+                            <extent>00:16:18</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Black, Beatrice</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hamp, Eric P.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref179">
+                        <head>Scope and Contents note</head>
+                        <p>This program consists of the researcher reading back a text in Quileute from Manuel J. Andrade's "Quileute Texts" (see Related Resource) to a Quileute-speaking consultant who assists in pronunciation, provides explanation, and suggests corrections. Interactions in English, with infrequent English translations of the text.</p>
+                    </scopecontent>
+                    <originalsloc id="ref181">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2024" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3819">
+                        <daodesc>
+                            <p>APSdigrec_2024</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Kingfishers--Folklore</subject>
+                        <subject source="lcsh">Quileute Indians--Folklore</subject>
+                        <subject source="lcsh">Quileute language--Texts</subject>
+                        <subject source="ingest">Raven (Legendary character)--Legends</subject>
+                        <geogname source="ingest">Taholah (Wash.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref182" level="file">
+                    <did>
+                        <unittitle>Text 39: Raven and Bear</unittitle>
+                        <unitid>06-06</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1969-08-27</unitdate>
+                        <physdesc id="ref183" label="General Physical Description note">
+                            <extent>00:21:31</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Black, Beatrice</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hamp, Eric P.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref184">
+                        <head>Scope and Contents note</head>
+                        <p>This program consists of the researcher reading back a text in Quileute from Manuel J. Andrade's "Quileute Texts" (see Related Resource) to a Quileute-speaking consultant who assists in pronunciation, provides explanation, and suggests corrections. Interactions in English, with infrequent English translations of the text.</p>
+                    </scopecontent>
+                    <originalsloc id="ref186">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2025" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3822">
+                        <daodesc>
+                            <p>APSdigrec_2025</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Bears--Folklore</subject>
+                        <subject source="lcsh">Quileute Indians--Folklore</subject>
+                        <subject source="lcsh">Quileute language--Texts</subject>
+                        <subject source="ingest">Raven (Legendary character)--Legends</subject>
+                        <geogname source="ingest">Taholah (Wash.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref187" level="file">
+                    <did>
+                        <unittitle>Text 40: Raven loses his daughter</unittitle>
+                        <unitid>06-07</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1969-08-27</unitdate>
+                        <physdesc id="ref188" label="General Physical Description note">
+                            <extent>00:06:39</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Black, Beatrice</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hamp, Eric P.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref189">
+                        <head>Scope and Contents note</head>
+                        <p>This program consists of the researcher reading back a text in Quileute from Manuel J. Andrade's "Quileute Texts" (see Related Resource) to a Quileute-speaking consultant who assists in pronunciation, provides explanation, and suggests corrections. Interactions in English, with infrequent English translations of the text.</p>
+                    </scopecontent>
+                    <originalsloc id="ref191">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2026" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3828">
+                        <daodesc>
+                            <p>APSdigrec_2026</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Quileute Indians--Folklore</subject>
+                        <subject source="lcsh">Quileute language--Texts</subject>
+                        <subject source="ingest">Raven (Legendary character)--Legends</subject>
+                        <geogname source="ingest">Taholah (Wash.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref192" level="file">
+                    <did>
+                        <unittitle>Text 41: Raven gambles</unittitle>
+                        <unitid>06-08</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1969-08-27</unitdate>
+                        <physdesc id="ref193" label="General Physical Description note">
+                            <extent>00:12:51</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Black, Beatrice</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hamp, Eric P.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref194">
+                        <head>Scope and Contents note</head>
+                        <p>This program consists of the researcher reading back a text in Quileute from Manuel J. Andrade's "Quileute Texts" (see Related Resource) to a Quileute-speaking consultant who assists in pronunciation, provides explanation, and suggests corrections. Interactions in English, with infrequent English translations of the text. From 7:51 to 8:17 there is a passage identified in the source text as being in the Quinault language.</p>
+                    </scopecontent>
+                    <originalsloc id="ref196">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2027" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3824">
+                        <daodesc>
+                            <p>APSdigrec_2027</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Quileute Indians--Folklore</subject>
+                        <subject source="lcsh">Quileute language--Texts</subject>
+                        <subject source="ingest">Raven (Legendary character)--Legends</subject>
+                        <geogname source="ingest">Taholah (Wash.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref197" level="file">
+                    <did>
+                        <unittitle>Conversation on miscellaneous Quileute words and gender-specific forms of address</unittitle>
+                        <unitid>06-09</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1969-08-27</unitdate>
+                        <physdesc id="ref198" label="General Physical Description note">
+                            <extent>00:09:28</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Black, Beatrice</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hamp, Eric P.</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref200">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2028" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3821">
+                        <daodesc>
+                            <p>APSdigrec_2028</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Quileute language</subject>
+                        <subject source="ingest">Quileute language--Grammar</subject>
+                        <geogname source="ingest">Taholah (Wash.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref201" level="file">
+                    <did>
+                        <unittitle>Text 42: Dásk'iya' is killed by a girl</unittitle>
+                        <unitid>07-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1969-08-28</unitdate>
+                        <physdesc id="ref202" label="General Physical Description note">
+                            <extent>00:14:55</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Black, Beatrice</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hamp, Eric P.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref203">
+                        <head>Scope and Contents note</head>
+                        <p>This program consists of the researcher reading back a text in Quileute from Manuel J. Andrade's "Quileute Texts" (see Related Resource) to a Quileute-speaking consultant who assists in pronunciation, provides explanation, and suggests corrections. Interactions in English, with infrequent English translations of the text.</p>
+                    </scopecontent>
+                    <originalsloc id="ref205">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2029" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3820">
+                        <daodesc>
+                            <p>APSdigrec_2029</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Monsters--Folklore</subject>
+                        <subject source="lcsh">Quileute Indians--Folklore</subject>
+                        <subject source="lcsh">Quileute language--Texts</subject>
+                        <geogname source="ingest">Taholah (Wash.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref206" level="file">
+                    <did>
+                        <unittitle>Text 43: Dásk'iya' is killed by a young man</unittitle>
+                        <unitid>07-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1969-08-28</unitdate>
+                        <physdesc id="ref207" label="General Physical Description note">
+                            <extent>00:18:18</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Black, Beatrice</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hamp, Eric P.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref208">
+                        <head>Scope and Contents note</head>
+                        <p>This program consists of the researcher reading back a text in Quileute from Manuel J. Andrade's "Quileute Texts" (see Related Resource) to a Quileute-speaking consultant who assists in pronunciation, provides explanation, and suggests corrections. Interactions in English, with infrequent English translations of the text.</p>
+                    </scopecontent>
+                    <originalsloc id="ref210">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2030" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3823">
+                        <daodesc>
+                            <p>APSdigrec_2030</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Monsters--Folklore</subject>
+                        <subject source="lcsh">Quileute Indians--Folklore</subject>
+                        <subject source="lcsh">Quileute language--Texts</subject>
+                        <geogname source="ingest">Taholah (Wash.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref211" level="file">
+                    <did>
+                        <unittitle>Text 44: Dásk'iya' is killed by Devil-fish</unittitle>
+                        <unitid>07-03</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1969-08-28</unitdate>
+                        <physdesc id="ref212" label="General Physical Description note">
+                            <extent>00:14:43</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Black, Beatrice</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hamp, Eric P.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref213">
+                        <head>Scope and Contents note</head>
+                        <p>This program consists of the researcher reading back a text in Quileute from Manuel J. Andrade's "Quileute Texts" (see Related Resource) to a Quileute-speaking consultant who assists in pronunciation, provides explanation, and suggests corrections. Interactions in English, with infrequent English translations of the text.</p>
+                    </scopecontent>
+                    <originalsloc id="ref215">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2031" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3827">
+                        <daodesc>
+                            <p>APSdigrec_2031</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Monsters--Folklore</subject>
+                        <subject source="lcsh">Quileute Indians--Folklore</subject>
+                        <subject source="lcsh">Quileute language--Texts</subject>
+                        <geogname source="ingest">Taholah (Wash.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref216" level="file">
+                    <did>
+                        <unittitle>Text 45: Dásk'iya' is killed by Q'wäeti' [1 of 2]</unittitle>
+                        <unitid>07-04</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1969-08-28</unitdate>
+                        <physdesc id="ref217" label="General Physical Description note">
+                            <extent>00:17:50</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Black, Beatrice</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hamp, Eric P.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref218">
+                        <head>Scope and Contents note</head>
+                        <p>This program consists of the researcher reading back a text in Quileute from Manuel J. Andrade's "Quileute Texts" (see Related Resource) to a Quileute-speaking consultant who assists in pronunciation, provides explanation, and suggests corrections. Interactions in English, with infrequent English translations of the text.</p>
+                    </scopecontent>
+                    <originalsloc id="ref220">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2032" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3825">
+                        <daodesc>
+                            <p>APSdigrec_2032</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Monsters--Folklore</subject>
+                        <subject source="lcsh">Quileute Indians--Folklore</subject>
+                        <subject source="lcsh">Quileute language--Texts</subject>
+                        <geogname source="ingest">Taholah (Wash.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref221" level="file">
+                    <did>
+                        <unittitle>Text 45: Dásk'iya' is killed by Q'wäeti' [2 of 2]</unittitle>
+                        <unitid>07-05</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1969-08-28</unitdate>
+                        <physdesc id="ref222" label="General Physical Description note">
+                            <extent>00:03:24</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Black, Beatrice</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hamp, Eric P.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref223">
+                        <head>Scope and Contents note</head>
+                        <p>This program consists of the researcher reading back a text in Quileute from Manuel J. Andrade's "Quileute Texts" (see Related Resource) to a Quileute-speaking consultant who assists in pronunciation, provides explanation, and suggests corrections. Interactions in English, with infrequent English translations of the text.</p>
+                    </scopecontent>
+                    <originalsloc id="ref225">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2033" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3826">
+                        <daodesc>
+                            <p>APSdigrec_2033</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Monsters--Folklore</subject>
+                        <subject source="lcsh">Quileute Indians--Folklore</subject>
+                        <subject source="lcsh">Quileute language--Texts</subject>
+                        <geogname source="ingest">Taholah (Wash.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref226" level="file">
+                    <did>
+                        <unittitle>Text 46: The elks kill the wolves</unittitle>
+                        <unitid>07-06</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1969-08-28</unitdate>
+                        <physdesc id="ref227" label="General Physical Description note">
+                            <extent>00:36:54</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Black, Beatrice</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hamp, Eric P.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref228">
+                        <head>Scope and Contents note</head>
+                        <p>This program consists of the researcher reading back a text in Quileute from Manuel J. Andrade's "Quileute Texts" (see Related Resource) to a Quileute-speaking consultant who assists in pronunciation, provides explanation, and suggests corrections. Interactions in English, with infrequent English translations of the text.</p>
+                    </scopecontent>
+                    <originalsloc id="ref230">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2034" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3829">
+                        <daodesc>
+                            <p>APSdigrec_2034</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Elk--Folklore</subject>
+                        <subject source="lcsh">Quileute Indians--Folklore</subject>
+                        <subject source="lcsh">Quileute language--Texts</subject>
+                        <geogname source="ingest">Taholah (Wash.)</geogname>
+                        <subject source="ingest">Wolves--Folklore</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref231" level="file">
+                    <did>
+                        <unittitle>Text 47: Wren and Bear [1 of 2]</unittitle>
+                        <unitid>07-07</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1969-08-28</unitdate>
+                        <physdesc id="ref232" label="General Physical Description note">
+                            <extent>00:25:36</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Black, Beatrice</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hamp, Eric P.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref233">
+                        <head>Scope and Contents note</head>
+                        <p>This program consists of the researcher reading back a text in Quileute from Manuel J. Andrade's "Quileute Texts" (see Related Resource) to a Quileute-speaking consultant who assists in pronunciation, provides explanation, and suggests corrections. Interactions in English, with infrequent English translations of the text.</p>
+                    </scopecontent>
+                    <originalsloc id="ref235">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2035" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3832">
+                        <daodesc>
+                            <p>APSdigrec_2035</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Bears--Folklore</subject>
+                        <subject source="lcsh">Quileute Indians--Folklore</subject>
+                        <subject source="lcsh">Quileute language--Texts</subject>
+                        <geogname source="ingest">Taholah (Wash.)</geogname>
+                        <subject source="ingest">Wrens--Folklore</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref236" level="file">
+                    <did>
+                        <unittitle>Text 47: Wren and Bear [2 of 2]</unittitle>
+                        <unitid>08-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1969-08-28</unitdate>
+                        <physdesc id="ref237" label="General Physical Description note">
+                            <extent>00:07:49</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Black, Beatrice</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hamp, Eric P.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref238">
+                        <head>Scope and Contents note</head>
+                        <p>This program consists of the researcher reading back a text in Quileute from Manuel J. Andrade's "Quileute Texts" (see Related Resource) to a Quileute-speaking consultant who assists in pronunciation, provides explanation, and suggests corrections. Interactions in English, with infrequent English translations of the text.</p>
+                    </scopecontent>
+                    <originalsloc id="ref240">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2036" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3834">
+                        <daodesc>
+                            <p>APSdigrec_2036</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Bears--Folklore</subject>
+                        <subject source="lcsh">Quileute Indians--Folklore</subject>
+                        <subject source="lcsh">Quileute language--Texts</subject>
+                        <geogname source="ingest">Taholah (Wash.)</geogname>
+                        <subject source="ingest">Wrens--Folklore</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref241" level="file">
+                    <did>
+                        <unittitle>Quileute words and phrases taken from Manuel J. Andrade's "Quileute"</unittitle>
+                        <unitid>08-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1969-08-29</unitdate>
+                        <physdesc id="ref242" label="General Physical Description note">
+                            <extent>00:43:43</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Black, Beatrice</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hamp, Eric P.</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref244">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2037" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3835">
+                        <daodesc>
+                            <p>APSdigrec_2037</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Quileute language--Glossaries, vocabularies, etc.</subject>
+                        <geogname source="ingest">Taholah (Wash.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref245" level="file">
+                    <did>
+                        <unittitle>Text 48: Rabbit and East Wind</unittitle>
+                        <unitid>08-03</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1969-08-29</unitdate>
+                        <physdesc id="ref246" label="General Physical Description note">
+                            <extent>00:12:35</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Black, Beatrice</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hamp, Eric P.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref247">
+                        <head>Scope and Contents note</head>
+                        <p>This program consists of the researcher reading back a text in Quileute from Manuel J. Andrade's "Quileute Texts" (see Related Resource) to a Quileute-speaking consultant who assists in pronunciation, provides explanation, and suggests corrections. Interactions in English, with infrequent English translations of the text.</p>
+                    </scopecontent>
+                    <originalsloc id="ref249">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2038" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3831">
+                        <daodesc>
+                            <p>APSdigrec_2038</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Quileute Indians--Folklore</subject>
+                        <subject source="lcsh">Quileute language--Texts</subject>
+                        <subject source="ingest">Rabbits--Folklore</subject>
+                        <geogname source="ingest">Taholah (Wash.)</geogname>
+                        <subject source="ingest">Winds--Folklore</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref250" level="file">
+                    <did>
+                        <unittitle>Text 49: The Woman who married a dog [1 of 2]</unittitle>
+                        <unitid>08-04</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1969-08-29</unitdate>
+                        <physdesc id="ref251" label="General Physical Description note">
+                            <extent>01:04:00</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Black, Beatrice</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hamp, Eric P.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref252">
+                        <head>Scope and Contents note</head>
+                        <p>This program consists of the researcher reading back a text in Quileute from Manuel J. Andrade's "Quileute Texts" (see Related Resource) to a Quileute-speaking consultant who assists in pronunciation, provides explanation, and suggests corrections. Interactions in English, with infrequent English translations of the text.</p>
+                    </scopecontent>
+                    <originalsloc id="ref254">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2039" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3833">
+                        <daodesc>
+                            <p>APSdigrec_2039</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Dogs--Folklore</subject>
+                        <subject source="lcsh">Quileute Indians--Folklore</subject>
+                        <subject source="lcsh">Quileute Indians--Social life and customs</subject>
+                        <subject source="lcsh">Quileute language--Texts</subject>
+                        <geogname source="ingest">Taholah (Wash.)</geogname>
+                        <subject source="ingest">Whaling</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref255" level="file">
+                    <did>
+                        <unittitle>Text 49: The Woman who married a dog [2 of 2]</unittitle>
+                        <unitid>09-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1969-08-29</unitdate>
+                        <physdesc id="ref256" label="General Physical Description note">
+                            <extent>00:55:06</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Black, Beatrice</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hamp, Eric P.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref257">
+                        <head>Scope and Contents note</head>
+                        <p>This program consists of the researcher reading back a text in Quileute from Manuel J. Andrade's "Quileute Texts" (see Related Resource) to a Quileute-speaking consultant who assists in pronunciation, provides explanation, and suggests corrections. Interactions in English, with infrequent English translations of the text.</p>
+                    </scopecontent>
+                    <originalsloc id="ref259">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2040" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3837">
+                        <daodesc>
+                            <p>APSdigrec_2040</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Dogs--Folklore</subject>
+                        <subject source="lcsh">Quileute Indians--Folklore</subject>
+                        <subject source="lcsh">Quileute Indians--Social life and customs</subject>
+                        <subject source="lcsh">Quileute language--Texts</subject>
+                        <geogname source="ingest">Taholah (Wash.)</geogname>
+                        <subject source="ingest">Whaling</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref260" level="file">
+                    <did>
+                        <unittitle>Text 50: The dog children [1 of 2]</unittitle>
+                        <unitid>09-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1969-08-31</unitdate>
+                        <physdesc id="ref261" label="General Physical Description note">
+                            <extent>00:09:49</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Black, Beatrice</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hamp, Eric P.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref262">
+                        <head>Scope and Contents note</head>
+                        <p>This program consists of the researcher reading back a text in Quileute from Manuel J. Andrade's "Quileute Texts" (see Related Resource) to a Quileute-speaking consultant who assists in pronunciation, provides explanation, and suggests corrections. Interactions in English, with infrequent English translations of the text.</p>
+                    </scopecontent>
+                    <originalsloc id="ref264">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2041" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3839">
+                        <daodesc>
+                            <p>APSdigrec_2041</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Dogs--Folklore</subject>
+                        <subject source="lcsh">Quileute Indians--Folklore</subject>
+                        <subject source="lcsh">Quileute language--Texts</subject>
+                        <geogname source="ingest">Taholah (Wash.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref265" level="file">
+                    <did>
+                        <unittitle>Text 50: The dog children [2 of 2]</unittitle>
+                        <unitid>09-03</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1969-08-31</unitdate>
+                        <physdesc id="ref266" label="General Physical Description note">
+                            <extent>01:03:20</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Black, Beatrice</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hamp, Eric P.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref267">
+                        <head>Scope and Contents note</head>
+                        <p>This program consists of the researcher reading back a text in Quileute from Manuel J. Andrade's "Quileute Texts" (see Related Resource) to a Quileute-speaking consultant who assists in pronunciation, provides explanation, and suggests corrections. Interactions in English, with infrequent English translations of the text.</p>
+                    </scopecontent>
+                    <originalsloc id="ref269">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2042" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3838">
+                        <daodesc>
+                            <p>APSdigrec_2042</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Dogs--Folklore</subject>
+                        <subject source="lcsh">Quileute Indians--Folklore</subject>
+                        <subject source="lcsh">Quileute language--Texts</subject>
+                        <geogname source="ingest">Taholah (Wash.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref270" level="file">
+                    <did>
+                        <unittitle>Text 51: The woman who married Shark [1 of 2]</unittitle>
+                        <unitid>10-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1969-08-31</unitdate>
+                        <physdesc id="ref271" label="General Physical Description note">
+                            <extent>01:05:04</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Black, Beatrice</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hamp, Eric P.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref272">
+                        <head>Scope and Contents note</head>
+                        <p>This program consists of the researcher reading back a text in Quileute from Manuel J. Andrade's "Quileute Texts" (see Related Resource) to a Quileute-speaking consultant who assists in pronunciation, provides explanation, and suggests corrections. Interactions in English, with infrequent English translations of the text.</p>
+                    </scopecontent>
+                    <originalsloc id="ref274">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2043" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3799">
+                        <daodesc>
+                            <p>APSdigrec_2043</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Quileute Indians--Folklore</subject>
+                        <subject source="lcsh">Quileute language--Texts</subject>
+                        <subject source="ingest">Sharks--Folklore</subject>
+                        <geogname source="ingest">Taholah (Wash.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref275" level="file">
+                    <did>
+                        <unittitle>Text 51: The woman who married Shark [2 of 2]</unittitle>
+                        <unitid>10-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1969-08-31</unitdate>
+                        <physdesc id="ref276" label="General Physical Description note">
+                            <extent>00:06:38</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Black, Beatrice</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hamp, Eric P.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref277">
+                        <head>Scope and Contents note</head>
+                        <p>This program consists of the researcher reading back a text in Quileute from Manuel J. Andrade's "Quileute Texts" (see Related Resource) to a Quileute-speaking consultant who assists in pronunciation, provides explanation, and suggests corrections. Interactions in English, with infrequent English translations of the text.</p>
+                    </scopecontent>
+                    <originalsloc id="ref279">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2044" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3796">
+                        <daodesc>
+                            <p>APSdigrec_2044</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Quileute Indians--Folklore</subject>
+                        <subject source="lcsh">Quileute language--Texts</subject>
+                        <subject source="ingest">Sharks--Folklore</subject>
+                        <geogname source="ingest">Taholah (Wash.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref280" level="file">
+                    <did>
+                        <unittitle>Text 52: The man who married Thunder-Bird's daughter [1 of 2]</unittitle>
+                        <unitid>10-03</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1969-08-31</unitdate>
+                        <physdesc id="ref281" label="General Physical Description note">
+                            <extent>00:58:25</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Black, Beatrice</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hamp, Eric P.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref282">
+                        <head>Scope and Contents note</head>
+                        <p>This program consists of the researcher reading back a text in Quileute from Manuel J. Andrade's "Quileute Texts" (see Related Resource) to a Quileute-speaking consultant who assists in pronunciation, provides explanation, and suggests corrections. Interactions in English, with infrequent English translations of the text.</p>
+                    </scopecontent>
+                    <originalsloc id="ref284">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2045" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3798">
+                        <daodesc>
+                            <p>APSdigrec_2045</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Quileute Indians--Folklore</subject>
+                        <subject source="lcsh">Quileute language--Texts</subject>
+                        <geogname source="ingest">Taholah (Wash.)</geogname>
+                        <subject source="ingest">Thunderbird (Legendary character)--Legends</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref285" level="file">
+                    <did>
+                        <unittitle>Text 52: The man who married Thunder-Bird's daughter [2 of 2]</unittitle>
+                        <unitid>11-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1969-09-01</unitdate>
+                        <physdesc id="ref286" label="General Physical Description note">
+                            <extent>00:22:37</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Black, Beatrice</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hamp, Eric P.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref287">
+                        <head>Scope and Contents note</head>
+                        <p>This program consists of the researcher reading back a text in Quileute from Manuel J. Andrade's "Quileute Texts" (see Related Resource) to a Quileute-speaking consultant who assists in pronunciation, provides explanation, and suggests corrections. Interactions in English, with infrequent English translations of the text.</p>
+                    </scopecontent>
+                    <originalsloc id="ref289">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2046" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3797">
+                        <daodesc>
+                            <p>APSdigrec_2046</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Quileute Indians--Folklore</subject>
+                        <subject source="lcsh">Quileute language--Texts</subject>
+                        <geogname source="ingest">Taholah (Wash.)</geogname>
+                        <subject source="ingest">Thunderbird (Legendary character)--Legends</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref290" level="file">
+                    <did>
+                        <unittitle>Text 53: The Two Fishermen [1 of 2]</unittitle>
+                        <unitid>11-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1969-09-02</unitdate>
+                        <physdesc id="ref291" label="General Physical Description note">
+                            <extent>00:32:37</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Black, Beatrice</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hamp, Eric P.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref292">
+                        <head>Scope and Contents note</head>
+                        <p>This program consists of the researcher reading back a text in Quileute from Manuel J. Andrade's "Quileute Texts" (see Related Resource) to a Quileute-speaking consultant who assists in pronunciation, provides explanation, and suggests corrections. Interactions in English, with infrequent English translations of the text.</p>
+                    </scopecontent>
+                    <originalsloc id="ref294">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2047" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3800">
+                        <daodesc>
+                            <p>APSdigrec_2047</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Quileute Indians--Fishing</subject>
+                        <subject source="lcsh">Quileute Indians--Folklore</subject>
+                        <subject source="lcsh">Quileute language--Texts</subject>
+                        <geogname source="ingest">Taholah (Wash.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref295" level="file">
+                    <did>
+                        <unittitle>Text 53: The Two Fishermen [2 of 2]</unittitle>
+                        <unitid>11-03</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1969-09-02</unitdate>
+                        <physdesc id="ref296" label="General Physical Description note">
+                            <extent>00:25:41</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Black, Beatrice</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hamp, Eric P.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref297">
+                        <head>Scope and Contents note</head>
+                        <p>This program consists of the researcher reading back a text in Quileute from Manuel J. Andrade's "Quileute Texts" (see Related Resource) to a Quileute-speaking consultant who assists in pronunciation, provides explanation, and suggests corrections. Interactions in English, with infrequent English translations of the text. At 3:32 there are 3 seconds of silence representing a gap on the original recording. In the gap, lines 28-32 from the original source text are missing.</p>
+                    </scopecontent>
+                    <originalsloc id="ref299">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2048" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3853">
+                        <daodesc>
+                            <p>APSdigrec_2048</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Quileute Indians--Fishing</subject>
+                        <subject source="lcsh">Quileute Indians--Folklore</subject>
+                        <subject source="lcsh">Quileute language--Texts</subject>
+                        <geogname source="ingest">Taholah (Wash.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref300" level="file">
+                    <did>
+                        <unittitle>Text 54: The Man who Became a Hair-Seal [1 of 3]</unittitle>
+                        <unitid>11-04</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1970-11-21</unitdate>
+                        <physdesc id="ref301" label="General Physical Description note">
+                            <extent>00:42:45</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Black, Beatrice</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hamp, Eric P.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref302">
+                        <head>Scope and Contents note</head>
+                        <p>This program consists of the researcher reading back a text in Quileute from Manuel J. Andrade's "Quileute Texts" (see Related Resource) to a Quileute-speaking consultant who assists in pronunciation, provides explanation, and suggests corrections. Interactions in English, with infrequent English translations of the text. At 25:07 there are 3 seconds of silence representing a gap in the original recording. Due to this gap, most of lines 23-24 from the original source text are missing.</p>
+                    </scopecontent>
+                    <originalsloc id="ref304">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2049" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3854">
+                        <daodesc>
+                            <p>APSdigrec_2049</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Quileute Indians--Folklore</subject>
+                        <subject source="lcsh">Quileute language--Texts</subject>
+                        <subject source="ingest">Sealing</subject>
+                        <geogname source="ingest">Taholah (Wash.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref305" level="file">
+                    <did>
+                        <unittitle>Text 54: The Man who Became a Hair-Seal [2 of 3]</unittitle>
+                        <unitid>12-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1970-11-21</unitdate>
+                        <physdesc id="ref306" label="General Physical Description note">
+                            <extent>00:54:21</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Black, Beatrice</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hamp, Eric P.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref307">
+                        <head>Scope and Contents note</head>
+                        <p>This program consists of the researcher reading back a text in Quileute from Manuel J. Andrade's "Quileute Texts" (see Related Resource) to a Quileute-speaking consultant who assists in pronunciation, provides explanation, and suggests corrections. Interactions in English, with infrequent English translations of the text.</p>
+                    </scopecontent>
+                    <originalsloc id="ref309">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2050" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3855">
+                        <daodesc>
+                            <p>APSdigrec_2050</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Quileute Indians--Folklore</subject>
+                        <subject source="lcsh">Quileute language--Texts</subject>
+                        <subject source="ingest">Sealing</subject>
+                        <geogname source="ingest">Taholah (Wash.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref310" level="file">
+                    <did>
+                        <unittitle>Text 54: The Man who Became a Hair-Seal [3 of 3]</unittitle>
+                        <unitid>12-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1970-11-21</unitdate>
+                        <physdesc id="ref311" label="General Physical Description note">
+                            <extent>00:48:21</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Black, Beatrice</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hamp, Eric P.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref312">
+                        <head>Scope and Contents note</head>
+                        <p>This program consists of the researcher reading back a text in Quileute from Manuel J. Andrade's "Quileute Texts" (see Related Resource) to a Quileute-speaking consultant who assists in pronunciation, provides explanation, and suggests corrections. Interactions in English, with infrequent English translations of the text.</p>
+                    </scopecontent>
+                    <originalsloc id="ref314">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2051" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3852">
+                        <daodesc>
+                            <p>APSdigrec_2051</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Quileute Indians--Folklore</subject>
+                        <subject source="lcsh">Quileute language--Texts</subject>
+                        <subject source="ingest">Sealing</subject>
+                        <geogname source="ingest">Taholah (Wash.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref315" level="file">
+                    <did>
+                        <unittitle>Text 55: Three Hunters are Taken to Seal's Home [1 of 2]</unittitle>
+                        <unitid>12-03</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1970-11-21</unitdate>
+                        <physdesc id="ref316" label="General Physical Description note">
+                            <extent>00:28:59</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Black, Beatrice</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hamp, Eric P.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref317">
+                        <head>Scope and Contents note</head>
+                        <p>This program consists of the researcher reading back a text in Quileute from Manuel J. Andrade's "Quileute Texts" (see Related Resource) to a Quileute-speaking consultant who assists in pronunciation, provides explanation, and suggests corrections. Interactions in English, with infrequent English translations of the text.</p>
+                    </scopecontent>
+                    <originalsloc id="ref319">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2052" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3859">
+                        <daodesc>
+                            <p>APSdigrec_2052</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Quileute Indians--Folklore</subject>
+                        <subject source="lcsh">Quileute language--Texts</subject>
+                        <subject source="ingest">Sealing</subject>
+                        <geogname source="ingest">Taholah (Wash.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref320" level="file">
+                    <did>
+                        <unittitle>Text 55: Three Hunters are Taken to Seal's Home [2 of 2]</unittitle>
+                        <unitid>13-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1970-11-21</unitdate>
+                        <physdesc id="ref321" label="General Physical Description note">
+                            <extent>00:36:02</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Black, Beatrice</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hamp, Eric P.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref322">
+                        <head>Scope and Contents note</head>
+                        <p>This program consists of the researcher reading back a text in Quileute from Manuel J. Andrade's "Quileute Texts" (see Related Resource) to a Quileute-speaking consultant who assists in pronunciation, provides explanation, and suggests corrections. Interactions in English, with infrequent English translations of the text.</p>
+                    </scopecontent>
+                    <originalsloc id="ref324">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2053" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3863">
+                        <daodesc>
+                            <p>APSdigrec_2053</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Quileute Indians--Folklore</subject>
+                        <subject source="lcsh">Quileute language--Texts</subject>
+                        <subject source="ingest">Sealing</subject>
+                        <geogname source="ingest">Taholah (Wash.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref325" level="file">
+                    <did>
+                        <unittitle>Conversation on seasons and calculating people's ages</unittitle>
+                        <unitid>13-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1970-11-21</unitdate>
+                        <physdesc id="ref326" label="General Physical Description note">
+                            <extent>00:10:24</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Black, Beatrice</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hamp, Eric P.</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref328">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2054" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3860">
+                        <daodesc>
+                            <p>APSdigrec_2054</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Age</subject>
+                        <subject source="ingest">Birds--Washington (State)--Olympic Peninsula</subject>
+                        <subject source="lcsh">Quileute Indians--Social life and customs</subject>
+                        <subject source="lcsh">Quileute language</subject>
+                        <subject source="ingest">Seasons</subject>
+                        <geogname source="ingest">Taholah (Wash.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref329" level="file">
+                    <did>
+                        <unittitle>Text 56: The Origin of the Man in the Moon [1 of 5]</unittitle>
+                        <unitid>13-03</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1970-11-22</unitdate>
+                        <physdesc id="ref330" label="General Physical Description note">
+                            <extent>00:17:13</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Black, Beatrice</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hamp, Eric P.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref331">
+                        <head>Scope and Contents note</head>
+                        <p>This program consists of the researcher reading back a text in Quileute from Manuel J. Andrade's "Quileute Texts" (see Related Resource) to a Quileute-speaking consultant who assists in pronunciation, provides explanation, and suggests corrections. Interactions in English, with infrequent English translations of the text.</p>
+                    </scopecontent>
+                    <originalsloc id="ref333">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2055" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3861">
+                        <daodesc>
+                            <p>APSdigrec_2055</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Moon--Folklore</subject>
+                        <subject source="lcsh">Quileute Indians--Folklore</subject>
+                        <subject source="lcsh">Quileute language--Texts</subject>
+                        <geogname source="ingest">Taholah (Wash.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref334" level="file">
+                    <did>
+                        <unittitle>Text 56: The Origin of the Man in the Moon [2 of 5]</unittitle>
+                        <unitid>13-04</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1970-11-22</unitdate>
+                        <physdesc id="ref335" label="General Physical Description note">
+                            <extent>00:06:08</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Black, Beatrice</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hamp, Eric P.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref336">
+                        <head>Scope and Contents note</head>
+                        <p>This program consists of the researcher reading back a text in Quileute from Manuel J. Andrade's "Quileute Texts" (see Related Resource) to a Quileute-speaking consultant who assists in pronunciation, provides explanation, and suggests corrections. Interactions in English, with infrequent English translations of the text.</p>
+                    </scopecontent>
+                    <originalsloc id="ref338">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2056" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3858">
+                        <daodesc>
+                            <p>APSdigrec_2056</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Moon--Folklore</subject>
+                        <subject source="lcsh">Quileute Indians--Folklore</subject>
+                        <subject source="lcsh">Quileute language--Texts</subject>
+                        <geogname source="ingest">Taholah (Wash.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref339" level="file">
+                    <did>
+                        <unittitle>Conversation on family history and local history</unittitle>
+                        <unitid>13-05</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1970-11-22</unitdate>
+                        <physdesc id="ref340" label="General Physical Description note">
+                            <extent>00:31:33</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Black, Beatrice</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hamp, Eric P.</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref342">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2057" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3862">
+                        <daodesc>
+                            <p>APSdigrec_2057</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Indians of North America--Washington (State)--Olympic Peninsula</subject>
+                        <subject source="ingest">Quileute Indians--History</subject>
+                        <subject source="lcsh">Quileute Indians--Social life and customs</subject>
+                        <subject source="ingest">Reagan, Albert B., 1871-1936</subject>
+                        <geogname source="ingest">Taholah (Wash.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref343" level="file">
+                    <did>
+                        <unittitle>Text 56: The Origin of the Man in the Moon [3 of 5]</unittitle>
+                        <unitid>13-06</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1970-11-22</unitdate>
+                        <physdesc id="ref344" label="General Physical Description note">
+                            <extent>00:17:13</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Black, Beatrice</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hamp, Eric P.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref345">
+                        <head>Scope and Contents note</head>
+                        <p>This program consists of the researcher reading back a text in Quileute from Manuel J. Andrade's "Quileute Texts" (see Related Resource) to a Quileute-speaking consultant who assists in pronunciation, provides explanation, and suggests corrections. Interactions in English, with infrequent English translations of the text.</p>
+                    </scopecontent>
+                    <originalsloc id="ref347">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2058" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3857">
+                        <daodesc>
+                            <p>APSdigrec_2058</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Moon--Folklore</subject>
+                        <subject source="lcsh">Quileute Indians--Folklore</subject>
+                        <subject source="lcsh">Quileute language--Texts</subject>
+                        <geogname source="ingest">Taholah (Wash.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref348" level="file">
+                    <did>
+                        <unittitle>Text 56: The Origin of the Man in the Moon [4 of 5]</unittitle>
+                        <unitid>13-07</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1970-11-22</unitdate>
+                        <physdesc id="ref349" label="General Physical Description note">
+                            <extent>00:11:18</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Black, Beatrice</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hamp, Eric P.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref350">
+                        <head>Scope and Contents note</head>
+                        <p>This program consists of the researcher reading back a text in Quileute from Manuel J. Andrade's "Quileute Texts" (see Related Resource) to a Quileute-speaking consultant who assists in pronunciation, provides explanation, and suggests corrections. Interactions in English, with infrequent English translations of the text.</p>
+                    </scopecontent>
+                    <originalsloc id="ref352">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2059" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3844">
+                        <daodesc>
+                            <p>APSdigrec_2059</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Moon--Folklore</subject>
+                        <subject source="lcsh">Quileute Indians--Folklore</subject>
+                        <subject source="lcsh">Quileute language--Texts</subject>
+                        <geogname source="ingest">Taholah (Wash.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref353" level="file">
+                    <did>
+                        <unittitle>Text 56: The Origin of the Man in the Moon [5 of 5]</unittitle>
+                        <unitid>14-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1970-11-22</unitdate>
+                        <physdesc id="ref354" label="General Physical Description note">
+                            <extent>00:38:24</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Black, Beatrice</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hamp, Eric P.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref355">
+                        <head>Scope and Contents note</head>
+                        <p>This program consists of the researcher reading back a text in Quileute from Manuel J. Andrade's "Quileute Texts" (see Related Resource) to a Quileute-speaking consultant who assists in pronunciation, provides explanation, and suggests corrections. Interactions in English, with infrequent English translations of the text.</p>
+                    </scopecontent>
+                    <originalsloc id="ref357">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2060" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3842">
+                        <daodesc>
+                            <p>APSdigrec_2060</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Moon--Folklore</subject>
+                        <subject source="lcsh">Quileute Indians--Folklore</subject>
+                        <subject source="lcsh">Quileute language--Texts</subject>
+                        <geogname source="ingest">Taholah (Wash.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref358" level="file">
+                    <did>
+                        <unittitle>Text 57: The Origin of Potlatch [1 of 2]</unittitle>
+                        <unitid>14-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1970-11-22</unitdate>
+                        <physdesc id="ref359" label="General Physical Description note">
+                            <extent>00:28:24</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Black, Beatrice</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hamp, Eric P.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref360">
+                        <head>Scope and Contents note</head>
+                        <p>This program consists of the researcher reading back a text in Quileute from Manuel J. Andrade's "Quileute Texts" (see Related Resource) to a Quileute-speaking consultant who assists in pronunciation, provides explanation, and suggests corrections. Interactions in English, with infrequent English translations of the text.</p>
+                    </scopecontent>
+                    <originalsloc id="ref362">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_4014" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3843">
+                        <daodesc>
+                            <p>APSdigrec_4014</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Birds--Folklore</subject>
+                        <subject source="ingest">Potlatch</subject>
+                        <subject source="lcsh">Quileute Indians--Folklore</subject>
+                        <subject source="lcsh">Quileute language--Texts</subject>
+                        <geogname source="ingest">Taholah (Wash.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref363" level="file">
+                    <did>
+                        <unittitle>Text 57: The Origin of Potlatch [2 of 2]</unittitle>
+                        <unitid>14-03</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1970-11-22</unitdate>
+                        <physdesc id="ref364" label="General Physical Description note">
+                            <extent>00:14:29</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Black, Beatrice</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hamp, Eric P.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref365">
+                        <head>Scope and Contents note</head>
+                        <p>This program consists of the researcher reading back a text in Quileute from Manuel J. Andrade's "Quileute Texts" (see Related Resource) to a Quileute-speaking consultant who assists in pronunciation, provides explanation, and suggests corrections. Interactions in English, with infrequent English translations of the text.</p>
+                    </scopecontent>
+                    <originalsloc id="ref367">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_4015" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3841">
+                        <daodesc>
+                            <p>APSdigrec_4015</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Birds--Folklore</subject>
+                        <subject source="ingest">Potlatch</subject>
+                        <subject source="lcsh">Quileute Indians--Folklore</subject>
+                        <subject source="lcsh">Quileute language--Texts</subject>
+                        <geogname source="ingest">Taholah (Wash.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref368" level="file">
+                    <did>
+                        <unittitle>Conversation about baskets</unittitle>
+                        <unitid>14-04</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1970-11-22</unitdate>
+                        <physdesc id="ref369" label="General Physical Description note">
+                            <extent>00:03:13</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Black, Beatrice</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hamp, Eric P.</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref371">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_4016" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:8384">
+                        <daodesc>
+                            <p>APSdigrec_4016</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Basket making</subject>
+                        <subject source="lcsh">Quileute Indians--Fishing</subject>
+                        <subject source="lcsh">Quileute Indians--Social life and customs</subject>
+                        <geogname source="ingest">Taholah (Wash.)</geogname>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Film.1295-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Film.1295</num>
+                </titleproper>
+                <author>Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T20:12-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Quiché Maya texts</unittitle>
+            <unitid>Mss.Film.1295</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="myn"/>
+            </langmaterial>
+            <container id="cid120261" type="Reel" label="Microform">1</container>
+            <physdesc>
+                <extent>1.0 Microfilm reel(s)</extent>
+            </physdesc>
+            <unitdate normal="1971/1971">Circa 1971</unitdate>
+            <physdesc id="ref1" label="General Physical Description note">1 microfilm reel.</physdesc>
+            <abstract id="ref4" label="Abstract">Includes vocabulary with Spanish glosses; texts recorded by Manuel J. Andrade (1935), transcribed and translated by Remigio Cochojil-Gonzalez (1964-1971); orthography developed by Norman A. McQuown.</abstract>
+            <langmaterial id="ref5" label="Language of Materials note">In Quiche and Spanish.</langmaterial>
+            <physloc id="ref11" label="Paging">LH-RR-Media Rm-4</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">McQuown, Norman A.</persname>
+            </origination>
+        </did>
+        <relatedmaterial id="ref6">
+            <head>Related Archival Materials note</head>
+            <p>See also, 
+                <extref ns2:actuate="onLoad" ns2:show="new" ns2:href="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Rec.89-ead.xml">Quiché Texts (Rec. 89)</extref>.</p>
+        </relatedmaterial>
+        <acqinfo id="ref2">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Received from Norman A. McQuown in 1971. This material was recorded with the assistance of a Phillips Fund grant.</p>
+        </acqinfo>
+        <controlaccess>
+            <subject source="lcsh">Mayan languages</subject>
+            <subject source="lcsh">Quiché language--Texts</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

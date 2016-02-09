@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Ms.Coll.11a-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Ms.Coll.11a</num>
+                </titleproper>
+                <author>Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T20:26-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Betsy Copping Corner papers, 1935-1974</unittitle>
+            <unitid>Mss.Ms.Coll.11a</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid30281" type="Box" label="Manuscripts">1-2</container>
+            <physdesc>
+                <extent>500.0 Item(s)</extent>
+            </physdesc>
+            <unitdate normal="1935/1974" type="inclusive">1935-1974</unitdate>
+            <physdesc id="ref4" label="General Physical Description note">Circa 500 items.</physdesc>
+            <abstract id="ref1" label="Abstract">This small collection contains manuscripts of her book reviews (1943-1947), correspondence with Christopher C. Booth [co-editor of "Chain of Friendship: Selected Letters of Dr. John Fothergill" (1971)] and with Amy E. Wallis, the owner of the Fothergill family papers in England. There are a couple of letters from Charles Joseph Singer and Francis Peyton Rous, but most of the correspondence is personal.</abstract>
+            <physloc id="ref5" label="Paging">LH-B-35-5</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Booth, Christopher C.,  (Christopher Charles), 1924-</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Corner, Betsy Copping</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Singer, Charles Joseph, 1876-1960</persname>
+            </origination>
+        </did>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>Writer Betsy Copping Corner, wife of endocrinologist George Washington Corner, covered medical history and wrote book reviews; she also edited the diary of William Shippen, Jr. and the letters of John Fothergill.</p>
+        </bioghist>
+        <acqinfo id="ref2">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Gift from Corner estate and accessioned, 1981.</p>
+        </acqinfo>
+        <controlaccess>
+            <persname rules="aacr" source="naf">Fothergill, John, 1712-1780</persname>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

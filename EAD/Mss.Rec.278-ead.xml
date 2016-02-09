@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Rec.278</num>
+                </titleproper>
+                <author>Finding aid prepared by Brian Carpenter</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+                <date>August 8, 2012</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T21:15-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Arapaho Verbal Morphology</unittitle>
+            <unitid>Mss.Rec.278</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="arp"/>
+            </langmaterial>
+            <physdesc>
+                <extent>11.0 Tape(s)</extent>
+            </physdesc>
+            <unitdate normal="2000/2001" type="inclusive">2000-2001</unitdate>
+            <physdesc id="ref1" label="General Physical Description">11 audiocassettes (8 hr., 25 min.) : analog, stereo. Tape 8 is blank</physdesc>
+            <abstract id="ref4" label="Abstract">Recordings of speakers of the Arapaho language, primarily focusing on conjunct order verb forms and aspectual material. Also includes a long autobiographical text, conversation, brief stories, rabbit dance songs, and pow-wow-songs. Recorded at Wind River Indian Reservation (Wyo.), Lander (Wyo.), and Boulder (Colo.) in 2000 and 2001.</abstract>
+            <origination label="creator">
+                <persname rules="aacr" source="local" role="Author (aut)">Cowell, Andrew</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref2">
+            <head>Immediate Source of Acquisition</head>
+            <p>Donated by Andrew Cowell in 2001 (Acc. M2001-16). This material was recorded with the assistance of a Phillips Fund grant.</p>
+        </acqinfo>
+        <relatedmaterial id="ref3">
+            <head>Related Archival Materials</head>
+            <p>Manuscript material accompanying these recordings can be found in the 
+                <extref ns2:actuate="onLoad" ns2:show="new" ns2:href="http://www.amphilsoc.org/mole/view?docId=ead/Mss.497.3.Am4-ead.xml">Phillips Fund Collection</extref> (Mss.497.3.Am4).</p>
+        </relatedmaterial>
+        <controlaccess>
+            <subject source="lcsh">Arapaho language</subject>
+            <genreform source="ingest">Sound recordings</genreform>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

@@ -1,0 +1,727 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.973.2.M31-ead.xml">PUBLIC "-//American Philosophical Society Library//TEXT(US::PAAV::973.2 M31:: Pennsylvania Non-Importation Resolutions)//EN" "panonimport.xml"</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Pennsylvania Stamp Act and Non-Importation Resolutions Collection
+                    <date type="span">1765-1775</date>
+                    <num>Mss.973.2.M31</num>
+                </titleproper>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+                <date>4/2003</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:27-0400</date>
+            </creation>
+            <langusage>ENG</langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Pennsylvania Stamp Act and Non-Importation Resolutions Collection</unittitle>
+            <unitid>Mss.973.2.M31</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>2.0 Volume(s)</extent>
+            </physdesc>
+            <unitdate normal="1765/1775" type="inclusive">1765-1775</unitdate>
+            <abstract id="ref1" label="Abstract">From the Sugar Act of 1764 through the Tea Act of 1773, the British Parliament imposed a variety of taxes upon their American colonies in an effort to raise revenue to offset the enormous debts incurred during the Seven Years' (French and Indian) War. Far more efficiently than raising revenue, these duties raised the indignation of the colonits, contributing more than their share to the alienation that fueled the independence movement 
+                <lb/>The two volumes that comprise the Pennsylvania Stamp Act and Non-Importation Resolutions Collection contain 34 manuscript and printed items relating to the political crisis over taxation on goods imported into the American colonies between 1765 and 1773, with a focus on Philadelphia. The first volume is concerned exclusively with agitation over the Stamp Act of 1765 and its repeal, while the second volume relates more specifically to the Non-Importation agreements of the 1760s, the Townshend Duties, and the Tea Act of 1773. Among these are letters of Governor John Penn, correspondence between the Sons of Liberty at Philadelphia and those of New York, 1766, an address of the committee of Boston merchants to a committee of Philadelphia merchants, 11 August 1768. Among the more dramatic letters are those from John Hughes, the would-be Stamp Officer for Pennsylvania who resigned bis commission in the face of public protest, and a seies of threatening letters addressed to James and Drinker, consignees for the sale of tea in Pennsylvania in 1773.</abstract>
+            <physloc id="ref116" label="Paging">LH-MV-B-11</physloc>
+            <origination label="creator">
+                <persname source="ingest">Bradford, William, 1719-1791</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest">Hawker, James</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf">Hughes, John</persname>
+            </origination>
+            <origination label="creator">
+                <corpname source="ingest">James and Drinker</corpname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf">Penn, John, 1729-1795</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="local" role="Author (aut)">Various</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest">Wharton, Isaac</persname>
+            </origination>
+            <origination label="creator">
+                <corpname source="ingest">Wharton, Thomas .</corpname>
+            </origination>
+        </did>
+        <relatedmaterial id="ref114">
+            <head>Realted Archival Materials note</head>
+            <p>See also 
+                <extref ns2:actuate="onLoad" ns2:show="new" ns2:href="http://www.amphilsoc.org/mole/view?docId=ead/Mss.973.31.H87-ead.xml">John Hughes, Letter to the Commisioners of the stamp office from the Pennsylvania Collector (Mss.973.31.H87)</extref>.</p>
+        </relatedmaterial>
+        <odd id="ref115">
+            <head>Early American History Note</head>
+            <p>This collection contains a range of documents on the imperial crisis in Philadelphia. Specifically, the documents focus on the Stamp Act and the Non-importation agreements of 1773. For the Stamp Act, there are many letters from John Hughes, the Stamp Tax collector. The letters detail his tribulations. There is also a large, oversize letter from John Hughes to the Commissioners of the Stamp Office in London defending his actions and outlining his experiences during the Stamp Act controversy (first page missing). The documents surrounding the 1773 boycott of tea in Philadelphia include detailed reports from commissioners appointed by residents to negotiate with the East India company officials and the testimony of the firm of James and Drinker who were designated distributors of the tea.</p>
+        </odd>
+        <processinfo id="ref15">
+            <head>Processing Information note</head>
+            <p>Recatalogued by rsc, April 2003.</p>
+        </processinfo>
+        <altformavail id="ref13">
+            <head>Existence and Location of Copies note</head>
+            <p>The Pennsylvania Stamp Act and Non-Importation Resolutions volumes are available on microfilm (Film 1251).</p>
+        </altformavail>
+        <acqinfo id="ref11">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Unknown provenance; accessioned in 1927.</p>
+        </acqinfo>
+        <prefercite id="ref9">
+            <head>Preferred Citation note</head>
+            <p>Cite as: Pennsylvania Stamp Act and Non-Importation Resolutions Collection, American Philosophical Society.</p>
+        </prefercite>
+        <scopecontent id="ref5">
+            <head>Scope and Contents note</head>
+            <p>The two volumes that comprise the Pennsylvania Stamp Act and Non-Importation Resolutions Collection contain 34 manuscript and printed items relating to the political crisis over taxation on goods imported into the American colonies between 1765 and 1773, with a focus on Philadelphia. The first volume is concerned exclusively with agitation over the Stamp Act of 1765 and its repeal, while the second volume relates more specifically to the Non-Importation agreements of the 1760s, the Townshend Duties, and the Tea Act of 1773.</p>
+            <p>Volume 1 contains copies of important letters from Gov. John Penn and James Hawker regarding the distribution of stamped paper, and the public . The most dramatic letters are from John Hughes, Stamp Commissioner for Pennsylvania, describing the large public protests and implicit threats that forced him to resign his commission in the fall. A taste of the protest to which Hughes was subjected is provided in two letters from the New York Sons of Liberty, exhorting their Philadelphia brethren to support the cause.</p>
+            <p>Volume 2 includes similarly valuable material for documenting the intense local pressure exerted on Philadelphia merchants during the period of the Townshend Duties and Tea Act, 1767-1773. Two of the three tea consignees in Philadelphia, Thomas and Isaac Wharton and Jonathan Browne, were quick to disavow their intention to sell East India tea in Philadelphia, and they therefore avoided the wrath of the patriot mob. James and Drinker, however, were more equivocal in their statements, and endured subtle, and not so subtle, threats. In December 1773, however, they followed the better example of John Hughes and stated unequivocally that they would not sell taxed tea, suggesting instead that the tea should be impounded and kept safe while merchants lobbied the East India Company and the crown to repeal the Act.</p>
+            <p>The collection also provides a perspective on the developing connections between American colonists opposed to British rule. Letters between Merchants Committees and the Sons of Liberty in New York, Boston, and Philadelphia, and possibly Virginia, hint at the development of a unified colonial line.</p>
+            <p>The last item in the collection is a record of imports into Philadelphia, 1774-1775, with a later series of personal accounts (1780), possibly kept by Thomas Bradford.</p>
+        </scopecontent>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>From the Sugar Act of 1764 through the Tea Act of 1773, the British Parliament imposed a variety of taxes upon their American colonies in an effort to raise revenue to offset the enormous debts incurred during the Seven Years' (French and Indian) War. Far more efficiently than raising revenue, these duties raised the indignation of the colonits, contributing more than their share to the alienation that fueled the independence movement.</p>
+            <p>The Stamp Act became the first direct tax on the American colonies in 1765, levying a fee on all official documents, and thus all legal transactions. The response of the Massachusetts House of Representatives was swift and decisive. On June 6, 1765, they agreed to the motion of James Otis to organize an intercolonial meeting to resist the Stamp Act, and two days later, issued a circular letter to the assemblies of the other colonies. The resulting Stamp Act Congress included 9 of the 13 colonies, and their vigorous protest, coupled with effective boycotts of British goods and the all too often violent response in the streets, led Parliament to withdraw the act in 1766.</p>
+            <p>Yet in a sign of things to come, Parliament issued their withdrawal of the Stamp Act with an no-nonsense Declaratory Act resserting their authority over all colonial affairs, including taxation. Still seeking ways of extracting additonal revenue from the colonies, in 1767 the Chancellor of the Exchequer Charles Townshend proposed a duty on all imports into the colonies of five key commodities -- lead, paint, glass, paper and tea -- reasoning that such indirect taxation would be less odious. Clearly a misjudgment of the mood in the colonies, the Townshend Duties produced results very similar to the Stamp Act: wide spread protests, sporadic violence, and increasing coordination between radical elements in all 13 colonies. The Non-Importation Agreements in 1768 and 1769 were the a series of boycotts of British imports organized in nearly port city in the 13 colonies, accompanied by , eventually led to repeal of four of five of the Townshend duties in 1770.</p>
+            <p>The sole Townshend Duty to remain in place after 1770 was the duty on tea, and American radicals continued their boycott of that commodity. With declining revenues for the East India Company, Prime Minister Frederick North was led to recraft the scheme of taxation on tea, the most important features of which were to impose the tax at the point of origin, and to sell the tea in America through consignees who were granted exclusive rights to its retail. The results followed the pattern set in the previous decade of agitation, culminating in the Tea Party in Boston, the impoundment of tea in Charleston, and the successful rejection of tea in Philadelphia and elsewhere. Local resistance, in short, made the Tea Act as much a dead letter as any of its predecessors.</p>
+        </bioghist>
+        <controlaccess>
+            <genreform source="lcsh">Accounts.</genreform>
+            <subject source="leah">American Revolution</subject>
+            <genreform source="lcsh">Broadsides.</genreform>
+            <subject source="leah">Colonial Politics</subject>
+            <subject source="leah">Government Affairs</subject>
+            <geogname source="ingest">Great Britain--Commerce--Pennsylvania</geogname>
+            <genreform source="leah">Legal Records</genreform>
+            <subject source="ingest">Non-Importation agreements, 1768-1769</subject>
+            <genreform source="leah">Official Government Documents and Records</genreform>
+            <subject source="leah">Pennsylvania History</subject>
+            <geogname source="ingest">Pennsylvania--Commerce--Great Britain</geogname>
+            <geogname source="ingest">Philadelphia (Pa.)--Commerce--Colonial period, ca.1600-1775</geogname>
+            <geogname source="ingest">Philadelphia (Pa.)--Politics and government--Colonial period, ca.1600-1775</geogname>
+            <subject source="leah">Philadelphia History</subject>
+            <genreform source="leah">Political Correspondence</genreform>
+            <genreform source="leah">Printed Material</genreform>
+            <subject source="ingest">Sons of Liberty</subject>
+            <subject source="ingest">Stamp Act, 1765</subject>
+            <subject source="ingest">Tea tax (American colonies)</subject>
+            <geogname source="ingest">United States--History--Revolution, 1775-1783--Causes</geogname>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref16" level="series">
+                <did>
+                    <unittitle>Manuscripts Relating to the Stamp Act Agitation</unittitle>
+                    <container id="cid18943" type="Volume" label="Mixed materials">1</container>
+                    <physdesc>
+                        <extent>1 vol. (16 items)</extent>
+                    </physdesc>
+                    <unitdate>1765-1769</unitdate>
+                </did>
+                <c02 id="ref17" level="item">
+                    <did>
+                        <unittitle>Good effects of the Patriotism of Women</unittitle>
+                        <unitid>1</unitid>
+                        <physdesc>
+                            <extent>AMs Cy, 1p.</extent>
+                        </physdesc>
+                        <unitdate>ca.1765</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Unidentified author</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref19">
+                        <head>Scope and Contents note</head>
+                        <p>Suggests women lead opposition to British policy. "The Female sex have ever been remarkable for sagacity, and quick discernments. It is not therefore to be wondered at that so general abnd patriotic a disposuition appears among them to give up Tea and Finery for Home Spun and Libety, when both reason and experience prove that good Husbands, generous Lovers, and faithful Friends are not to be found in a land of Slavery."</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref20" level="item">
+                    <did>
+                        <unittitle>Address to King George</unittitle>
+                        <unitid>2</unitid>
+                        <physdesc>
+                            <extent>AMs Cy, 1p.</extent>
+                        </physdesc>
+                        <unitdate>ca.1765</unitdate>
+                        <origination label="creator">
+                            <corpname source="ingest">Virginia. Council and House of Burgesses.</corpname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref22">
+                        <head>Scope and Contents note</head>
+                        <p>Petition to repeal Stamp Act.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref23" level="item">
+                    <did>
+                        <unittitle>Address to King George</unittitle>
+                        <unitid>2b</unitid>
+                        <physdesc>
+                            <extent>AMs Cy, 4p.</extent>
+                        </physdesc>
+                        <unitdate>ca.1765</unitdate>
+                        <origination label="creator">
+                            <corpname source="ingest">Virginia. Council and House of Burgesses.</corpname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref24" level="item">
+                    <did>
+                        <unittitle>to John Penn</unittitle>
+                        <unitid>3</unitid>
+                        <physdesc>
+                            <extent>ALS, 1p.</extent>
+                        </physdesc>
+                        <unitdate>Sept. 17, 1765</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Hughes, John</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref26">
+                        <head>Scope and Contents note</head>
+                        <p>Has not received his commission from the Stamp Office.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref27" level="item">
+                    <did>
+                        <unittitle>to Capt. James Hawker</unittitle>
+                        <unitid>4</unitid>
+                        <physdesc>
+                            <extent>ADfS, 1p.</extent>
+                        </physdesc>
+                        <unitdate>October 2, 1765</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Penn, John, 1729-1795</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref28" level="item">
+                    <did>
+                        <unittitle>to Capt. Holland</unittitle>
+                        <unitid>5</unitid>
+                        <physdesc>
+                            <extent>ADfS, 1p.</extent>
+                        </physdesc>
+                        <unitdate>October 2, 1765</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Penn, John, 1729-1795</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref30">
+                        <head>Scope and Contents note</head>
+                        <p>As Hughes refuses to take charge of the stamped papers, Penn orders James Hawker take them.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref31" level="item">
+                    <did>
+                        <unittitle>to John Penn</unittitle>
+                        <unitid>6</unitid>
+                        <physdesc>
+                            <extent>ALS, 1p.</extent>
+                        </physdesc>
+                        <unitdate>October 3, 1765</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Hawker, James</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref33">
+                        <head>Scope and Contents note</head>
+                        <p>Will accept the stamped paper, but advises Penn to find a place to store them for the winter.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref34" level="item">
+                    <did>
+                        <unittitle>to John Penn</unittitle>
+                        <unitid>7</unitid>
+                        <physdesc>
+                            <extent>ALS, 1p.</extent>
+                        </physdesc>
+                        <unitdate>October 3, 1765</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Hughes, John</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref36">
+                        <head>Scope and Contents note</head>
+                        <p>Relays word that the stamped paper may be met with violence.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref37" level="item">
+                    <did>
+                        <unittitle>to John Penn</unittitle>
+                        <unitid>8</unitid>
+                        <physdesc>
+                            <extent>ALS, 1p.</extent>
+                        </physdesc>
+                        <unitdate>October 6, 1765</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Hawker, James</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref38" level="item">
+                    <did>
+                        <unittitle>to John Penn</unittitle>
+                        <unitid>9</unitid>
+                        <physdesc>
+                            <extent>ALS, 1p.</extent>
+                        </physdesc>
+                        <unitdate>October 8, 1765</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Hughes, John</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref40">
+                        <head>Scope and Contents note</head>
+                        <p>Resigns his commission as Stamp Cfficer due threats and public protest.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref41" level="item">
+                    <did>
+                        <unittitle>to John Swift, Alexander Barclay and Thomas Graeme</unittitle>
+                        <unitid>10</unitid>
+                        <physdesc>
+                            <extent>ALS, 3p.</extent>
+                        </physdesc>
+                        <unitdate>November 5, 1765</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Hughes, John</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref43">
+                        <head>Scope and Contents note</head>
+                        <p>Further account of protests: "The State House and Christ Church Bells 
+                            <emph render="italic">were run, muffled</emph> and two Negroe Drummers (one of whom belonged to Alderman Saml. Mifflin) beat thro' all parts of the City, 
+                            <emph render="italic">with muffled Drums</emph> -- thereby alarming the Inhabitants. In consequence whereof, a large Number of Peoplke was raised and assembled at the State House, where it was publickly declared, as I am informed, That if I did not immediatelye resign my Office, my House should be pulled down and my Substance destroyed..."</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref44" level="item">
+                    <did>
+                        <unittitle>to John Penn</unittitle>
+                        <unitid>11</unitid>
+                        <physdesc>
+                            <extent>ALS, 1p.</extent>
+                        </physdesc>
+                        <unitdate>March 3, 1766</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Hawker, James</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref46">
+                        <head>Scope and Contents note</head>
+                        <p>Promises to protect the stamped paper.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref47" level="item">
+                    <did>
+                        <unittitle>to John Penn</unittitle>
+                        <unitid>12</unitid>
+                        <physdesc>
+                            <extent>ALS, 1p.</extent>
+                        </physdesc>
+                        <unitdate>March 19, 1766</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Hawker, James</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref49">
+                        <head>Scope and Contents note</head>
+                        <p>Asks whether Penn can take the stamped paper out of the ship.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref50" level="item">
+                    <did>
+                        <unittitle>to John Penn</unittitle>
+                        <unitid>13</unitid>
+                        <physdesc>
+                            <extent>ALS, 2p.</extent>
+                        </physdesc>
+                        <unitdate>March 21, 1766</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Hawker, James</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref52">
+                        <head>Scope and Contents note</head>
+                        <p>Reiterates his request to remove the paper from his ship.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref53" level="item">
+                    <did>
+                        <unittitle>to William Bradford</unittitle>
+                        <unitid>14</unitid>
+                        <physdesc>
+                            <extent>ALS, 1p.</extent>
+                        </physdesc>
+                        <unitdate>February 13, 1766</unitdate>
+                        <origination label="creator">
+                            <corpname source="ingest">Sons of Liberty of New York. Committee.</corpname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref55">
+                        <head>Scope and Contents note</head>
+                        <p>Proposes forming an Association "in order to form an Union of the Colonioes, in immitation of our brethren in Connecticut, Boston, etc... and you may be assured it is the deliberate and determined resolution of our Brethren to the eastward, as well as here, not to be enslaved by any power on Earth, without opposing force, to force."</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref56" level="item">
+                    <did>
+                        <unittitle>to Sons of Liberty of Philadelphia</unittitle>
+                        <unitid>15</unitid>
+                        <physdesc>
+                            <extent>ALS, 1p.</extent>
+                        </physdesc>
+                        <unitdate>February 21, 1766</unitdate>
+                        <origination label="creator">
+                            <corpname source="ingest">Sons of Liberty of New York. Committee.</corpname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref58">
+                        <head>Scope and Contents note</head>
+                        <p>"As you have expressed yourselves so warmly in the Glorious Cause of Liberty, we cannot help mentioning our Surprize at your siffering even the least Appearance of such an odious thing of a Stamp Distributor, to exist in your Province, and therefore, presume we may claim to know, from you, the reasons thereof."</p>
+                    </scopecontent>
+                </c02>
+            </c01>
+            <c01 id="ref59" level="series">
+                <did>
+                    <unittitle>Manuscripts Relating to the Non-Importation Agreements</unittitle>
+                    <container id="cid18942" type="Volume" label="Mixed materials">2</container>
+                    <physdesc>
+                        <extent>1 vol. (18 items)</extent>
+                    </physdesc>
+                    <unitdate>1765-1774</unitdate>
+                </did>
+                <c02 id="ref60" level="item">
+                    <did>
+                        <unittitle>to Merchants in Great Britain</unittitle>
+                        <unitid>4</unitid>
+                        <physdesc>
+                            <extent>Broadside, 1p.</extent>
+                        </physdesc>
+                        <unitdate>November 7, 1765</unitdate>
+                        <origination label="creator">
+                            <corpname source="ingest">Philadelphia (Pa.). Merchants and Traders.</corpname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref62">
+                        <head>Scope and Contents note</head>
+                        <p>Resolution not to import British goods until repeal of the Stamp Act.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref63" level="item">
+                    <did>
+                        <unittitle>to Sons of Liberty of New York</unittitle>
+                        <unitid>5</unitid>
+                        <physdesc>
+                            <extent>ALS, 2p.</extent>
+                        </physdesc>
+                        <unitdate>February 15, 1766</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Unidentified author</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref65">
+                        <head>Scope and Contents note</head>
+                        <p>Statement of support for non-importation and offer to organize a Sons of Liberty of Philadelphia.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref66" level="item">
+                    <did>
+                        <unittitle>to Merchants and Manufacturers of Great Britain</unittitle>
+                        <unitid>6</unitid>
+                        <physdesc>
+                            <extent>Pr. LS, 3p.</extent>
+                        </physdesc>
+                        <unitdate>1767?</unitdate>
+                        <origination label="creator">
+                            <corpname source="ingest">Philadelphia (Pa.). Merchants and Traders.</corpname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref68">
+                        <head>Scope and Contents note</head>
+                        <p>Protest against imposition of the Townshend Duties (on paper, glass, tea, etc.).</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref69" level="item">
+                    <did>
+                        <unittitle>to Merchants of Philadelphia</unittitle>
+                        <unitid>7</unitid>
+                        <physdesc>
+                            <extent>ALS, 2p.</extent>
+                        </physdesc>
+                        <unitdate>August 11, 1768</unitdate>
+                        <origination label="creator">
+                            <corpname source="ingest">Boston (Mass.). Committee of Merchants.</corpname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref71">
+                        <head>Scope and Contents note</head>
+                        <p>Bostonians agree not to import British goods.</p>
+                        <p>Signed by Thomas Chushing, John Hancock, John Rowe, John Erving, Edward Payne, William Phillips, and John Barrett. Addressed to Thomas Willing, Joseph wift, Thomas Smith, William West, John Cox, George Bryan, and William Fisher.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref72" level="item">
+                    <did>
+                        <unittitle>Resolutions on Non-Importation</unittitle>
+                        <unitid>9</unitid>
+                        <physdesc>
+                            <extent>AMs Cy, 2p.</extent>
+                        </physdesc>
+                        <unitdate>August 27, 1768</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">New York (N.Y.). Merchants</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref74">
+                        <head>Scope and Contents note</head>
+                        <p>Agreement not to import British goods, directly or indirectly.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref75" level="item">
+                    <did>
+                        <unittitle>Resolution regarding Samuel Purviance</unittitle>
+                        <unitid>10</unitid>
+                        <physdesc>
+                            <extent>AMs, 2p.</extent>
+                        </physdesc>
+                        <unitdate>[after April 1770]</unitdate>
+                        <origination label="creator">
+                            <corpname source="ingest">Philadelphia (Pa.). Committee of Merchants.</corpname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref77">
+                        <head>Scope and Contents note</head>
+                        <p>Public notice that Samuel Purviance, Sr., has violated his agreement not to import British goods.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref78" level="item">
+                    <did>
+                        <unittitle>To The Commissioners Appointed by the East-India Company, for the Sale of Tea, in America</unittitle>
+                        <unitid>14</unitid>
+                        <physdesc>
+                            <extent>Broadside, 1p.</extent>
+                        </physdesc>
+                        <unitdate>1773</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Scaevola (pseud.)</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref80">
+                        <head>Scope and Contents note</head>
+                        <p>Protest against the Commissioners' accepting "a paltry bribe of a petty Commisssion, to rivet the Shackles of Slavery on your American Brethren."</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref81" level="item">
+                    <did>
+                        <unittitle>Report of the Committee appointed to wait upon the gentlemen... named Commissioners for the Sale of Tea... and to request them to resign their Commission</unittitle>
+                        <unitid>18</unitid>
+                        <physdesc>
+                            <extent>AMs, 2p.</extent>
+                        </physdesc>
+                        <unitdate>October 17, 1773</unitdate>
+                        <origination label="creator">
+                            <corpname source="ingest">Philadelphia (Pa.). Committee of Merchants.</corpname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref83">
+                        <head>Scope and Contents note</head>
+                        <p>Report stating that Thomas and Isaac Wharton had agreed to resign and James and Drinker "not being so candid and explicit." Jonathan Browne out of town.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref84" level="item">
+                    <did>
+                        <unittitle>Report of the Committee appointed to wait upon the gentlemen... named Commissioners for the Sale of Tea... and to request them to resign their Commission</unittitle>
+                        <unitid>19</unitid>
+                        <physdesc>
+                            <extent>AMs, 4p.</extent>
+                        </physdesc>
+                        <unitdate>October 17-22, 1773</unitdate>
+                        <origination label="creator">
+                            <corpname source="ingest">Philadelphia (Pa.). Committee of Merchants.</corpname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref86">
+                        <head>Scope and Contents note</head>
+                        <p>Copy of item 18, plus additional report on James and Drinker's ambiguity.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref87" level="item">
+                    <did>
+                        <unittitle>Report of the Committee appointed to wait upon the gentlemen... named Commissioners for the Sale of Tea... and to request them to resign their Commission</unittitle>
+                        <unitid>20</unitid>
+                        <physdesc>
+                            <extent>AMs, 2p.</extent>
+                        </physdesc>
+                        <unitdate>October 17-22, 1773</unitdate>
+                        <origination label="creator">
+                            <corpname source="ingest">Philadelphia (Pa.). Committee of Merchants.</corpname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref89">
+                        <head>Scope and Contents note</head>
+                        <p>Copy of item 19.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref90" level="item">
+                    <did>
+                        <unittitle>Report of the Committee appointed to wait upon the gentlemen... named Commissioners for the Sale of Tea... and to request them to resign their Commission</unittitle>
+                        <unitid>21</unitid>
+                        <physdesc>
+                            <extent>AMs, 1p.</extent>
+                        </physdesc>
+                        <unitdate>October 19, 1773</unitdate>
+                        <origination label="creator">
+                            <corpname source="ingest">Philadelphia (Pa.). Committee of Merchants.</corpname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref92">
+                        <head>Scope and Contents note</head>
+                        <p>Jonathan Browne has agreed to resign his commission.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref93" level="item">
+                    <did>
+                        <unittitle>to Citizens of Philadelphia(?)</unittitle>
+                        <unitid>22</unitid>
+                        <physdesc>
+                            <extent>AMs, 1p.</extent>
+                        </physdesc>
+                        <unitdate>October 22, 1773</unitdate>
+                        <origination label="creator">
+                            <corpname source="ingest">James and Drinker</corpname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref95">
+                        <head>Scope and Contents note</head>
+                        <p>Reiteration "that we neither meant or intended to do any thing that would be disagreeable to our fellow Citizens" and "that our Ideas of the American Revenue Act, were the same with those of our fellow Citizens generally."</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref96" level="item">
+                    <did>
+                        <unittitle>to Citizens of Philadelphia(?)</unittitle>
+                        <unitid>23</unitid>
+                        <physdesc>
+                            <extent>AMs, 1p.</extent>
+                        </physdesc>
+                        <unitdate>October 22, 1773</unitdate>
+                        <origination label="creator">
+                            <corpname source="ingest">James and Drinker</corpname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref98">
+                        <head>Scope and Contents note</head>
+                        <p>Copy of item 22</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref99" level="item">
+                    <did>
+                        <unittitle>Report of the Committee appointed to wait upon the gentlemen... named Commissioners for the Sale of Tea... and to request them to resign their Commission</unittitle>
+                        <unitid>24</unitid>
+                        <physdesc>
+                            <extent>AMs, 1p.</extent>
+                        </physdesc>
+                        <unitdate>October 23, 1773</unitdate>
+                        <origination label="creator">
+                            <corpname source="ingest">Philadelphia (Pa.). Committee of Merchants.</corpname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref101">
+                        <head>Scope and Contents note</head>
+                        <p>Further criticism of the ambiguous response of James and Drinker.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref102" level="item">
+                    <did>
+                        <unittitle>ALS to George Clymer, John Allen, John Wilcocks, Peter Knight, Jeremiah Warder, Lambert Cadwalader, William Moulder, Abraham Bickley, Benjamin Loxley, Thomas Barclay, and Thomas Penrose</unittitle>
+                        <unitid>25</unitid>
+                        <physdesc>
+                            <extent>AMs, 1p.</extent>
+                        </physdesc>
+                        <unitdate>December 2, 1773</unitdate>
+                        <origination label="creator">
+                            <corpname source="ingest">Philadelphia (Pa.). Tea Commissioners. (Thomas and Isaac Wharton, James and Drinker, Jonathan Browne)</corpname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref104">
+                        <head>Scope and Contents note</head>
+                        <p>Notice of impending arrival of a tea ship, the 
+                            <emph render="italic">Polly</emph>, subject to the tea tax.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref105" level="item">
+                    <did>
+                        <unittitle>A Card</unittitle>
+                        <unitid>26</unitid>
+                        <physdesc>
+                            <extent>Broadside, 1p.</extent>
+                        </physdesc>
+                        <unitdate>December 2, 1773</unitdate>
+                        <origination label="creator">
+                            <persname rules="local" source="local">Unidentified</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref107">
+                        <head>Scope and Contents note</head>
+                        <p>Public notice to James and Drinker to leave a public notice of whether they intend to resign their commissions.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref108" level="item">
+                    <did>
+                        <unittitle>to Citizens of Philadelphia(?)</unittitle>
+                        <unitid>27</unitid>
+                        <physdesc>
+                            <extent>ALS, 2p.</extent>
+                        </physdesc>
+                        <unitdate>December 2, 1773</unitdate>
+                        <origination label="creator">
+                            <corpname source="ingest">James and Drinker</corpname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref110">
+                        <head>Scope and Contents note</head>
+                        <p>Proposal that the tea shipment be impounded without harm and without intent to distribute, and that the East India Company be pressured to lobby for repeal of the Tea Act. Reassertion that they do not intend to act and "decline acting" on their commissions.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref111" level="item">
+                    <did>
+                        <unittitle>Records of imports into Philadelphia</unittitle>
+                        <unitid>33</unitid>
+                        <physdesc>
+                            <extent>AMs, 1p.</extent>
+                        </physdesc>
+                        <unitdate>December 5, 1774-October 25, 1780</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Bradford, William, 1719-1791</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref113">
+                        <head>Scope and Contents note</head>
+                        <p>Records of imports into Philadelphia from December 5, 1775-April, 1775. Personal accounts 1780..</p>
+                    </scopecontent>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

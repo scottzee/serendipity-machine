@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Film.523-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Film.523</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T20:15-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Baron D. J.(Dominique Jean) Larrey letters, 1818-1873</unittitle>
+            <unitid>Mss.Film.523</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1863" type="Reel" label="Microform">1</container>
+            <physdesc>
+                <extent>1.0 Microfilm reel(s)</extent>
+            </physdesc>
+            <unitdate normal="1818/1873" type="inclusive">1818-1873</unitdate>
+            <physdesc id="ref11" label="General Physical Description note">1 microfilm reel.</physdesc>
+            <abstract id="ref1" label="Abstract">Letters addressed to Larrey and to his son, Baron Felix Hippolyte Larrey, chiefly from American medical personages. Correspondents include: Daniel Brainard, Charles P. Brigham, Robley Dunglison, Richard Willmott Hall, Felix Pascalis, and David Bailie Warden.</abstract>
+            <physloc id="ref12" label="Paging">LH-RR-Media Rm-3</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Larrey, D. J.(Dominique Jean),baron,1766-1842.</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref9">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Received from the Bibliothèque Nationale, Paris, 1950.</p>
+        </acqinfo>
+        <bioghist id="ref5">
+            <head>Biographical/Historical note</head>
+            <p>D.J. Larrey was a military surgeon.</p>
+        </bioghist>
+        <originalsloc id="ref3">
+            <head>Existence and Location of Originals note</head>
+            <p>Originals in Bibliothèque Nationale, Paris.</p>
+        </originalsloc>
+        <odd id="ref13">
+            <head>Early American History Note</head>
+            <p>This microfilm collection may be of interest to early American scholars.</p>
+        </odd>
+        <controlaccess>
+            <persname rules="aacr" source="naf">Brainard, Daniel, 1812-1866</persname>
+            <persname rules="aacr" source="local">Brigham, Charles P.</persname>
+            <persname source="ingest">Dunglison, Robley, 1798-1869</persname>
+            <persname rules="aacr" source="naf">Hall, Richard Willmott, 1785-1847</persname>
+            <persname rules="aacr" source="naf">Larrey, Felix Hippolyte, Baron, 1808-1895</persname>
+            <persname rules="aacr" source="naf">Pascalis Ouviere, Felix, 1762-1833</persname>
+            <persname rules="aacr" source="local">Warden,  David Bailie, 1772-1845</persname>
+            <subject source="lcsh">Medicine, Military.</subject>
+            <genreform source="leah">Microfilm Collection</genreform>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

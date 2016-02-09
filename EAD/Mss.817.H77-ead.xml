@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.817.H77-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.817.H77</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:23-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Miscellaneous works, [n.d.]</unittitle>
+            <unitid>Mss.817.H77</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1016" type="Volume" label="Manuscripts">1-6</container>
+            <physdesc>
+                <extent>6.0 Volume(s)</extent>
+                <extent>6 volumes, 1,700 p. </extent>
+            </physdesc>
+            <unitdate>n.d.</unitdate>
+            <abstract id="ref1" label="Abstract">This is a collection of Francis Hopkinson's prose writings, prepared by him for publication. These volumes are numbered 1-4 and 6. Volume 5, missing here, contains his verse.</abstract>
+            <physloc id="ref12" label="Paging">LH-MV-E-11</physloc>
+            <physdesc id="ref10" label="General Physical Description note">6 volumes, 1,700 p.</physdesc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Hopkinson, Francis, 1737-1791</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref9">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Gift from Joseph Hopkinson and accessioned, 1832 (2933-7).</p>
+        </acqinfo>
+        <odd id="ref5">
+            <head>General note</head>
+            <p>These works are printed in Hopkinson's 
+                <emph render="italic">Miscellaneous Essays and Occasional Writings</emph> (3 v., Philadelphia, 1792).</p>
+        </odd>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>Francis Hopkinson was an author, musician, and statesman.</p>
+        </bioghist>
+        <odd id="ref11">
+            <head>Early American History Note</head>
+            <p>This collection contains the original manuscripts for Francis Hopkinson’s 
+                <emph render="italic">Miscellaneous Essays and Occasional Writing</emph>, published in 1792. The five volumes at the APS do not include his verse.</p>
+        </odd>
+        <controlaccess>
+            <subject source="leah">Literature, Arts, and Culture</subject>
+            <genreform source="leah">Manuscript Essays</genreform>
+            <subject source="leah">Philadelphia History</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

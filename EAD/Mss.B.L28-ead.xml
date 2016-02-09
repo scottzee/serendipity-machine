@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.L28-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.L28</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T19:37-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Sir E. Ray (Edwin Ray) Lankester letters,1892-[ca. 1903]</unittitle>
+            <unitid>Mss.B.L28</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1378" type="Box" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>0.25 Linear feet</extent>
+                <extent>50 items</extent>
+            </physdesc>
+            <unitdate normal="1892/1903" type="inclusive">1892-1903</unitdate>
+            <abstract id="ref6" label="Abstract">These letters, most of which are undated, concern natural history, spiritualism, his publications, lectures, and teaching.</abstract>
+            <physdesc id="ref11" label="General Physical Description note">50 items.</physdesc>
+            <physloc id="ref12" label="Paging">LH-MV-C-12</physloc>
+            <origination label="creator">
+                <persname source="naf" role="Author (aut)">Lankester, E. Ray, Sir,  (Edwin Ray), 1847-1929</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref10">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Purchased from Myers (£1488) and accessioned, 06/26/1974 (1974 773ms). See in-house shelf list for additional sources and accession numbers and dates.</p>
+            <p></p>
+        </acqinfo>
+        <bioghist id="ref8">
+            <head>Biographical/Historical note</head>
+            <p>Edwin Ray Lankester was a British zoologist and author. He taught at Exeter College (1872-1874), University College (1874-1882), Edinburgh University (1882-1891), and Oxford (1891-1927).</p>
+        </bioghist>
+        <controlaccess>
+            <persname rules="aacr" source="naf">Beddard, Frank E.,  (Frank Evers), 1858-1925</persname>
+            <persname rules="aacr" source="naf">Darwin, Charles, 1809-1882</persname>
+            <persname rules="aacr" source="naf">Frazer, James George, Sir, 1854-1941</persname>
+            <persname rules="aacr" source="naf">Moore, Aubrey Lackington, 1848-1890</persname>
+            <persname source="ingest">Paget, James, Sir, 1814-1899</persname>
+            <persname rules="aacr" source="local">Ransome, George</persname>
+            <persname source="ingest">Sclater, Philip Lutley, 1829-1913</persname>
+            <persname rules="aacr" source="local">Stebbing, Thomas Roscoe Rede, b. 1835</persname>
+            <famname source="ingest">Thiselton-Dyer, Harriet, -- Lady.</famname>
+            <subject source="lcsh">Natural history.</subject>
+            <subject source="lcsh">Science publishing.</subject>
+            <subject source="lcsh">Spiritualism.</subject>
+            <subject source="lcsh">Zoology -- Study and teaching.</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref13" level="file">
+                <did>
+                    <unittitle>Letter to "Dear Sirs"</unittitle>
+                    <unitdate>May 20, 1892</unitdate>
+                    <physdesc id="ref14" label="General Physical Description note">8 7/8x7</physdesc>
+                    <origination label="creator">
+                        <persname source="naf" role="Author (aut)">Lankester, E. Ray, Sir,  (Edwin Ray), 1847-1929</persname>
+                    </origination>
+                </did>
+                <scopecontent id="ref15">
+                    <head>Scope and Contents note</head>
+                    <p>A.L.S. 1p. Accepts ticket for his friend Du Maurier's lecture on the 25th, and will take a seat on the platform.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref16" level="file">
+                <did>
+                    <unittitle>Letter to "Dear Sir"</unittitle>
+                    <unitdate>Oct. 22, 1903</unitdate>
+                    <physdesc id="ref17" label="General Physical Description note">8x10</physdesc>
+                    <origination label="creator">
+                        <persname source="naf" role="Author (aut)">Lankester, E. Ray, Sir,  (Edwin Ray), 1847-1929</persname>
+                    </origination>
+                </did>
+                <scopecontent id="ref18">
+                    <head>Scope and Contents note</head>
+                    <p>A.L.S. 2p. Wishes to purchase a small plot of land near Wimbledon to build a house; asks about sizes and prices.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref19" level="file">
+                <did>
+                    <unittitle>Letter to "Dear Sir"</unittitle>
+                    <unitdate>Nov. 9, 1903</unitdate>
+                    <physdesc id="ref20" label="General Physical Description note">7 1/2x9</physdesc>
+                    <origination label="creator">
+                        <persname source="naf" role="Author (aut)">Lankester, E. Ray, Sir,  (Edwin Ray), 1847-1929</persname>
+                    </origination>
+                </did>
+                <scopecontent id="ref21">
+                    <head>Scope and Contents note</head>
+                    <p>A.L.S. 4p. Aks for details on three plots at the Belvedere Estate.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref22" level="file">
+                <did>
+                    <unittitle>Letter to "Dear Sir"</unittitle>
+                    <unitdate>Nov. 14, 1903</unitdate>
+                    <physdesc id="ref23" label="General Physical Description note">7 1/2x9</physdesc>
+                    <origination label="creator">
+                        <persname source="naf" role="Author (aut)">Lankester, E. Ray, Sir,  (Edwin Ray), 1847-1929</persname>
+                    </origination>
+                </did>
+                <scopecontent id="ref24">
+                    <head>Scope and Contents note</head>
+                    <p>A.L.S. 3p. Is sorry for not meeting at Wimbledon. Asks to give instructions to lodge tenants to permit him to see the lodge and grounds some day next week.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref25" level="file">
+                <did>
+                    <unittitle>Letter to "Dear Beddard"</unittitle>
+                    <unitdate>undated</unitdate>
+                    <physdesc id="ref26" label="General Physical Description note">8 7/8x7</physdesc>
+                    <origination label="creator">
+                        <persname source="naf" role="Author (aut)">Lankester, E. Ray, Sir,  (Edwin Ray), 1847-1929</persname>
+                    </origination>
+                </did>
+                <scopecontent id="ref27">
+                    <head>Scope and Contents note</head>
+                    <p>A.L.S. 3p. Jan. 30. Questions and suggestions regarding the price of color plates, and the design and production of drawings.</p>
+                </scopecontent>
+                <controlaccess>
+                    <persname rules="aacr" source="naf" role="Recipient (rcp)">Beddard, Frank E.,  (Frank Evers), 1858-1925 -- Correspondence</persname>
+                </controlaccess>
+            </c01>
+            <c01 id="ref28" level="file">
+                <did>
+                    <unittitle>Letter to "Dear Mr. Frazer"</unittitle>
+                    <unitdate>undated</unitdate>
+                    <physdesc id="ref29" label="General Physical Description note">8 7/8x7</physdesc>
+                    <origination label="creator">
+                        <persname source="naf" role="Author (aut)">Lankester, E. Ray, Sir,  (Edwin Ray), 1847-1929</persname>
+                    </origination>
+                </did>
+                <scopecontent id="ref30">
+                    <head>Scope and Contents note</head>
+                    <p>A.L.S. 4p. Feb. 5. Explains that he will not be able to write and deliver the lecture on sea fishes on March 5. Suggests Professor Weldon at University College, who is agreeable and could be prepared in time, to replace him.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref31" level="file">
+                <did>
+                    <unittitle>Letter to "Dear Beddard"</unittitle>
+                    <unitdate>undated</unitdate>
+                    <physdesc id="ref32" label="General Physical Description note">8 7/8x7</physdesc>
+                    <origination label="creator">
+                        <persname source="naf" role="Author (aut)">Lankester, E. Ray, Sir,  (Edwin Ray), 1847-1929</persname>
+                    </origination>
+                </did>
+                <scopecontent id="ref33">
+                    <head>Scope and Contents note</head>
+                    <p>A.L.S. 4p. Feb. 17. Has sent his communication to the Royal Society, cautions him that there may be a wait. Offers advice and critique regarding his drawings and papers, and hopes that the Press will undertake his book.</p>
+                </scopecontent>
+                <controlaccess>
+                    <persname rules="aacr" source="naf" role="Recipient (rcp)">Beddard, Frank E.,  (Frank Evers), 1858-1925 -- Correspondence</persname>
+                </controlaccess>
+            </c01>
+            <c01 id="ref34" level="file">
+                <did>
+                    <unittitle>Letter to "Dear Stebbing"</unittitle>
+                    <unitdate>undated</unitdate>
+                    <physdesc id="ref35" label="General Physical Description note">8 7/8x7</physdesc>
+                    <origination label="creator">
+                        <persname source="naf" role="Author (aut)">Lankester, E. Ray, Sir,  (Edwin Ray), 1847-1929</persname>
+                    </origination>
+                </did>
+                <scopecontent id="ref36">
+                    <head>Scope and Contents note</head>
+                    <p>A.L.S. 1p. July 13. Will be leaving on the 21st to spend a fortnight at the Spa Hotel. Hopes to find him at home.</p>
+                </scopecontent>
+                <controlaccess>
+                    <persname rules="aacr" source="local" role="Recipient (rcp)">Stebbing, Thomas Roscoe Rede, b. 1835 -- Correspondence</persname>
+                </controlaccess>
+            </c01>
+            <c01 id="ref37" level="file">
+                <did>
+                    <unittitle>Letter to "Dear Stebbing"</unittitle>
+                    <unitdate>undated</unitdate>
+                    <origination label="creator">
+                        <persname source="naf" role="Author (aut)">Lankester, E. Ray, Sir,  (Edwin Ray), 1847-1929</persname>
+                    </origination>
+                </did>
+                <scopecontent id="ref38">
+                    <head>Scope and Contents note</head>
+                    <p>A.L.S. 4p. August 6th.</p>
+                </scopecontent>
+                <controlaccess>
+                    <persname rules="aacr" source="local" role="Recipient (rcp)">Stebbing, Thomas Roscoe Rede, b. 1835 -- Correspondence</persname>
+                </controlaccess>
+            </c01>
+            <c01 id="ref39" level="file">
+                <did>
+                    <unittitle>Letter to "Dear Mr. Stebbing"</unittitle>
+                    <unitdate>undated</unitdate>
+                    <origination label="creator">
+                        <persname source="naf" role="Author (aut)">Lankester, E. Ray, Sir,  (Edwin Ray), 1847-1929</persname>
+                    </origination>
+                </did>
+                <scopecontent id="ref40">
+                    <head>Scope and Contents note</head>
+                    <p>A.L.S. 2p. Nov. 17.</p>
+                </scopecontent>
+                <controlaccess>
+                    <persname rules="aacr" source="local" role="Recipient (rcp)">Stebbing, Thomas Roscoe Rede, b. 1835 -- Correspondence</persname>
+                </controlaccess>
+            </c01>
+            <c01 id="ref41" level="file">
+                <did>
+                    <unittitle>Letter to "My dear Stebbing"</unittitle>
+                    <unitdate>undated</unitdate>
+                    <origination label="creator">
+                        <persname source="naf" role="Author (aut)">Lankester, E. Ray, Sir,  (Edwin Ray), 1847-1929</persname>
+                    </origination>
+                </did>
+                <scopecontent id="ref42">
+                    <head>Scope and Contents note</head>
+                    <p>A.L.S. 1p. Dec. 9.</p>
+                </scopecontent>
+                <controlaccess>
+                    <persname rules="aacr" source="local" role="Recipient (rcp)">Stebbing, Thomas Roscoe Rede, b. 1835 -- Correspondence</persname>
+                </controlaccess>
+            </c01>
+            <c01 id="ref43" level="file">
+                <did>
+                    <unittitle>Letter to "Dear Miss Lewis"</unittitle>
+                    <unitdate>undated</unitdate>
+                    <origination label="creator">
+                        <persname source="naf" role="Author (aut)">Lankester, E. Ray, Sir,  (Edwin Ray), 1847-1929</persname>
+                    </origination>
+                </did>
+                <scopecontent id="ref44">
+                    <head>Scope and Contents note</head>
+                    <p>A.L.S. 3p. Feb. 18.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref45" level="file">
+                <did>
+                    <unittitle>Letter to "Dear Beddard"</unittitle>
+                    <unitdate>undated</unitdate>
+                    <origination label="creator">
+                        <persname source="naf" role="Author (aut)">Lankester, E. Ray, Sir,  (Edwin Ray), 1847-1929</persname>
+                    </origination>
+                </did>
+                <scopecontent id="ref46">
+                    <head>Scope and Contents note</head>
+                    <p>A.L.S. 3p. Feb. 21.</p>
+                </scopecontent>
+                <controlaccess>
+                    <persname rules="aacr" source="naf" role="Author (aut)">Beddard, Frank E.,  (Frank Evers), 1858-1925 -- Correspondence</persname>
+                </controlaccess>
+            </c01>
+            <c01 id="ref47" level="file">
+                <did>
+                    <unittitle>Letter to S. J. Hickson</unittitle>
+                    <unitdate>undated</unitdate>
+                    <origination label="creator">
+                        <persname source="naf" role="Author (aut)">Lankester, E. Ray, Sir,  (Edwin Ray), 1847-1929</persname>
+                    </origination>
+                </did>
+                <scopecontent id="ref48">
+                    <head>Scope and Contents note</head>
+                    <p>A.L.S. Postal card. Feb. 28.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref49" level="file">
+                <did>
+                    <unittitle>Letter to "Dear Kempe"</unittitle>
+                    <unitdate>undated</unitdate>
+                    <origination label="creator">
+                        <persname source="naf" role="Author (aut)">Lankester, E. Ray, Sir,  (Edwin Ray), 1847-1929</persname>
+                    </origination>
+                </did>
+                <scopecontent id="ref50">
+                    <head>Scope and Contents note</head>
+                    <p>A.L.S. 3p. Feb. 28.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref51" level="file">
+                <did>
+                    <unittitle>Letter to "Dear Sir"</unittitle>
+                    <unitdate>undated</unitdate>
+                    <origination label="creator">
+                        <persname source="naf" role="Author (aut)">Lankester, E. Ray, Sir,  (Edwin Ray), 1847-1929</persname>
+                    </origination>
+                </did>
+                <scopecontent id="ref52">
+                    <head>Scope and Contents note</head>
+                    <p>A.L.S. 3p. March 11.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref53" level="file">
+                <did>
+                    <unittitle>Letter to Philip Lutley Sclater</unittitle>
+                    <unitdate>undated</unitdate>
+                    <origination label="creator">
+                        <persname source="naf" role="Author (aut)">Lankester, E. Ray, Sir,  (Edwin Ray), 1847-1929</persname>
+                    </origination>
+                </did>
+                <scopecontent id="ref54">
+                    <head>Scope and Contents note</head>
+                    <p>A.L.S. 3p. May 11.</p>
+                </scopecontent>
+                <controlaccess>
+                    <persname source="ingest" role="Recipient (rcp)">Sclater, Philip Lutley, 1829-1913 -- Correspondence</persname>
+                </controlaccess>
+            </c01>
+            <c01 id="ref55" level="file">
+                <did>
+                    <unittitle>Letter to "Dear Sir"</unittitle>
+                    <unitdate>undated</unitdate>
+                    <origination label="creator">
+                        <persname source="naf" role="Author (aut)">Lankester, E. Ray, Sir,  (Edwin Ray), 1847-1929</persname>
+                    </origination>
+                </did>
+                <scopecontent id="ref56">
+                    <head>Scope and Contents note</head>
+                    <p>A.L.S. 1p. June 11.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref57" level="file">
+                <did>
+                    <unittitle>Letter to Mrs. Fredk. Smith</unittitle>
+                    <unitdate>undated</unitdate>
+                    <origination label="creator">
+                        <persname source="naf" role="Author (aut)">Lankester, E. Ray, Sir,  (Edwin Ray), 1847-1929</persname>
+                    </origination>
+                </did>
+                <scopecontent id="ref58">
+                    <head>Scope and Contents note</head>
+                    <p>A.L.S. 2p. June 14.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref59" level="file">
+                <did>
+                    <unittitle>Letter to "Dear Sir"</unittitle>
+                    <unitdate>undated</unitdate>
+                    <origination label="creator">
+                        <persname source="naf" role="Author (aut)">Lankester, E. Ray, Sir,  (Edwin Ray), 1847-1929</persname>
+                    </origination>
+                </did>
+                <scopecontent id="ref60">
+                    <head>Scope and Contents note</head>
+                    <p>A.L.S. 2p. June 17.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref61" level="file">
+                <did>
+                    <unittitle>Letter to "My dear Beddard"</unittitle>
+                    <unitdate>undated</unitdate>
+                    <origination label="creator">
+                        <persname source="naf" role="Author (aut)">Lankester, E. Ray, Sir,  (Edwin Ray), 1847-1929</persname>
+                    </origination>
+                </did>
+                <scopecontent id="ref62">
+                    <head>Scope and Contents note</head>
+                    <p>A.L.S. 3p. June 25</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref63" level="file">
+                <did>
+                    <unittitle>Letter to Professor Newton</unittitle>
+                    <unitdate>undated</unitdate>
+                    <origination label="creator">
+                        <persname source="naf" role="Author (aut)">Lankester, E. Ray, Sir,  (Edwin Ray), 1847-1929</persname>
+                    </origination>
+                </did>
+                <scopecontent id="ref64">
+                    <head>Scope and Contents note</head>
+                    <p>A.L.S. 2p. July 6.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref65" level="file">
+                <did>
+                    <unittitle>Letter to Mr. Horsburgh</unittitle>
+                    <unitdate>undated</unitdate>
+                    <origination label="creator">
+                        <persname source="naf" role="Author (aut)">Lankester, E. Ray, Sir,  (Edwin Ray), 1847-1929</persname>
+                    </origination>
+                </did>
+                <scopecontent id="ref66">
+                    <head>Scope and Contents note</head>
+                    <p>A.L.S. 2p. July 7.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref67" level="file">
+                <did>
+                    <unittitle>Letter to "Dear Beddard"</unittitle>
+                    <unitdate>undated</unitdate>
+                    <origination label="creator">
+                        <persname source="naf" role="Author (aut)">Lankester, E. Ray, Sir,  (Edwin Ray), 1847-1929</persname>
+                    </origination>
+                </did>
+                <scopecontent id="ref68">
+                    <head>Scope and Contents note</head>
+                    <p>A.L.S. 2p. July 19.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref69" level="file">
+                <did>
+                    <unittitle>Letter to "Dear Beddard"</unittitle>
+                    <unitdate>undated</unitdate>
+                    <origination label="creator">
+                        <persname source="naf" role="Author (aut)">Lankester, E. Ray, Sir,  (Edwin Ray), 1847-1929</persname>
+                    </origination>
+                </did>
+                <scopecontent id="ref70">
+                    <head>Scope and Contents note</head>
+                    <p>A.L.S. 4p. July 23.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref71" level="file">
+                <did>
+                    <unittitle>Letter to "Dear Beddard"</unittitle>
+                    <unitdate>undated</unitdate>
+                    <origination label="creator">
+                        <persname source="naf" role="Author (aut)">Lankester, E. Ray, Sir,  (Edwin Ray), 1847-1929</persname>
+                    </origination>
+                </did>
+                <scopecontent id="ref72">
+                    <head>Scope and Contents note</head>
+                    <p>A.L.S. 4p. July 23.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref73" level="file">
+                <did>
+                    <unittitle>Letter to "Dear Beddard"</unittitle>
+                    <unitdate>undated</unitdate>
+                    <origination label="creator">
+                        <persname source="naf" role="Author (aut)">Lankester, E. Ray, Sir,  (Edwin Ray), 1847-1929</persname>
+                    </origination>
+                </did>
+                <scopecontent id="ref74">
+                    <head>Scope and Contents note</head>
+                    <p>A.L.S. 4p. August 22.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref75" level="file">
+                <did>
+                    <unittitle>Letter to "Dear Beddard"</unittitle>
+                    <unitdate>undated</unitdate>
+                    <origination label="creator">
+                        <persname source="naf" role="Author (aut)">Lankester, E. Ray, Sir,  (Edwin Ray), 1847-1929</persname>
+                    </origination>
+                </did>
+                <scopecontent id="ref76">
+                    <head>Scope and Contents note</head>
+                    <p>A.L.S. 3p. September 26.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref77" level="file">
+                <did>
+                    <unittitle>Letter to "Dear Sir"</unittitle>
+                    <unitdate>undated</unitdate>
+                    <origination label="creator">
+                        <persname source="naf" role="Author (aut)">Lankester, E. Ray, Sir,  (Edwin Ray), 1847-1929</persname>
+                    </origination>
+                </did>
+                <scopecontent id="ref78">
+                    <head>Scope and Contents note</head>
+                    <p>A.L.S. 1p. October 6.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref79" level="file">
+                <did>
+                    <unittitle>Letter to "My dear Sir"</unittitle>
+                    <unitdate>undated</unitdate>
+                    <origination label="creator">
+                        <persname source="naf" role="Author (aut)">Lankester, E. Ray, Sir,  (Edwin Ray), 1847-1929</persname>
+                    </origination>
+                </did>
+                <scopecontent id="ref80">
+                    <head>Scope and Contents note</head>
+                    <p>A.L.S. 3p. October 8.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref81" level="file">
+                <did>
+                    <unittitle>Letter to "My dear Benham"</unittitle>
+                    <unitdate>undated</unitdate>
+                    <origination label="creator">
+                        <persname source="naf" role="Author (aut)">Lankester, E. Ray, Sir,  (Edwin Ray), 1847-1929</persname>
+                    </origination>
+                </did>
+                <scopecontent id="ref82">
+                    <head>Scope and Contents note</head>
+                    <p>A.L.S. 2p. October 15.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref83" level="file">
+                <did>
+                    <unittitle>Letter to "My dear Beddard"</unittitle>
+                    <unitdate>undated</unitdate>
+                    <origination label="creator">
+                        <persname source="naf" role="Author (aut)">Lankester, E. Ray, Sir,  (Edwin Ray), 1847-1929</persname>
+                    </origination>
+                </did>
+                <scopecontent id="ref84">
+                    <head>Scope and Contents note</head>
+                    <p>A.L.S. 3p. October 30.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref85" level="file">
+                <did>
+                    <unittitle>Letter to "Dear Beddard"</unittitle>
+                    <unitdate>undated</unitdate>
+                    <origination label="creator">
+                        <persname source="naf" role="Author (aut)">Lankester, E. Ray, Sir,  (Edwin Ray), 1847-1929</persname>
+                    </origination>
+                </did>
+                <scopecontent id="ref86">
+                    <head>Scope and Contents note</head>
+                    <p>A.L.S. 2p. November 8.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref87" level="file">
+                <did>
+                    <unittitle>Letter to "Dear Sir"</unittitle>
+                    <unitdate>undated</unitdate>
+                    <origination label="creator">
+                        <persname source="naf" role="Author (aut)">Lankester, E. Ray, Sir,  (Edwin Ray), 1847-1929</persname>
+                    </origination>
+                </did>
+                <scopecontent id="ref88">
+                    <head>Scope and Contents note</head>
+                    <p>A.L.S. 2p. December 23.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref89" level="file">
+                <did>
+                    <unittitle>Letter to "Dear Beddard"</unittitle>
+                    <unitdate>undated</unitdate>
+                    <origination label="creator">
+                        <persname source="naf" role="Author (aut)">Lankester, E. Ray, Sir,  (Edwin Ray), 1847-1929</persname>
+                    </origination>
+                </did>
+                <scopecontent id="ref90">
+                    <head>Scope and Contents note</head>
+                    <p>A.L.S. 3p. December 24.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref91" level="file">
+                <did>
+                    <unittitle>Letter to "My dear Ransome"</unittitle>
+                    <unitdate>undated</unitdate>
+                    <origination label="creator">
+                        <persname source="naf" role="Author (aut)">Lankester, E. Ray, Sir,  (Edwin Ray), 1847-1929</persname>
+                    </origination>
+                </did>
+                <scopecontent id="ref92">
+                    <head>Scope and Contents note</head>
+                    <p>Signed "Edwin Lankester". 3p. Friday.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref93" level="file">
+                <did>
+                    <unittitle>Letter to "Dear Sir"</unittitle>
+                    <unitdate>undated</unitdate>
+                    <origination label="creator">
+                        <persname source="naf" role="Author (aut)">Lankester, E. Ray, Sir,  (Edwin Ray), 1847-1929</persname>
+                    </origination>
+                </did>
+                <scopecontent id="ref94">
+                    <head>Scope and Contents note</head>
+                    <p>A.L.S. 4p. Saturday.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref95" level="file">
+                <did>
+                    <unittitle>Envelope addressed to Mr. Benjamin Harrison.</unittitle>
+                    <unitdate>undated</unitdate>
+                    <origination label="creator">
+                        <persname source="naf" role="Author (aut)">Lankester, E. Ray, Sir,  (Edwin Ray), 1847-1929</persname>
+                    </origination>
+                </did>
+                <scopecontent id="ref96">
+                    <head>Scope and Contents note</head>
+                    <p>A.L.S. 1p.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref97" level="file">
+                <did>
+                    <unittitle>Autograph</unittitle>
+                    <unitdate>undated</unitdate>
+                    <origination label="creator">
+                        <persname source="naf" role="Author (aut)">Lankester, E. Ray, Sir,  (Edwin Ray), 1847-1929</persname>
+                    </origination>
+                </did>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

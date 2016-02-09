@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.P38-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.P38</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T19:53-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>William Penn miscellaneous letters and documents, 1665-1801</unittitle>
+            <unitid>Mss.B.P38</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1135" type="Volume" label="Manuscripts">1-4</container>
+            <physdesc>
+                <extent>4.0 Volume(s)</extent>
+                <extent>4 volumes, 125 items</extent>
+            </physdesc>
+            <unitdate normal="1665/1801" type="inclusive">1665-1801</unitdate>
+            <abstract id="ref1" label="Abstract">Three volumes contain letters, laws, charters, reports, proclamations, petitions, and other official and semi-official documents relating principally to early Pennsylvania and New Jersey, signed by or addressed to William Penn, among others. A fourth volume is Penn's cash book, 1699-1703, which records expeditures, payments of quit rents, etc. Tipped in is "Catalogue of Goods left at Pensbury," and of goods left at Philadelphia, 1701.</abstract>
+            <physloc id="ref19" label="Paging">LH-MV-E-5</physloc>
+            <physdesc id="ref14" label="General Physical Description note">4 volumes, 125 items.</physdesc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Penn, William,1644-1718.</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref13">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by Dr. and Mrs. George Logan, 1817; accessioned, 1900. See in-house shelf list for additional acquisition dates.</p>
+        </acqinfo>
+        <custodhist id="ref9">
+            <head>Custodial History note</head>
+            <p>Presented in part by Thomas Biddle, Redmond Conyngham, Bernard Gratz, Dr. and Mrs. George Logan, Joseph Parker Norris, William Rawle, and Hugh Roberts; various dates.</p>
+        </custodhist>
+        <altformavail id="ref7">
+            <head>Existence and Location of Copies note</head>
+            <p>Volumes 1-3 are also available on microfilm (Film 1339).</p>
+        </altformavail>
+        <odd id="ref5">
+            <head>General note</head>
+            <p>"Catalogue of Goods left at Pensbury" was printed, with omissions and changes, in "Correspondence between William Penn and James Logan" 4:62 (Historical Society of Pennsylvania "Memoirs" 9).</p>
+        </odd>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>William Penn was a religious and political thinker and founder of Pennsylvania.</p>
+        </bioghist>
+        <processinfo id="ref17">
+            <head>Processing Information note</head>
+            <p>Index is incomplete.</p>
+        </processinfo>
+        <odd id="ref18">
+            <head>Early American History Note</head>
+            <p>This collection of William Penn's miscellaneous documents and letters largely consists of material relating to the early settlement of Philadelphia and Pennsylvania. There are also records that relate to William Penn’s interests in the Jerseys. Most documents are from before 1710, although some do come after and some appear to be manuscript copies of older documents. Most of the documents are signed by or addressed to William Penn and have been published in various publications from the Historical Society of Pennsylvania and in the Papers of William Penn.</p>
+            <p>The collection also includes documents relating to the proprietor’s ownership of land, including quitrent rolls and cash books. Among the interesting documents included in the collection is a "tree" drawn by James Alexander for Andrew Hamilton showing the history of land grants in the Mid-Atlantic, especially as pertains to New Jersey, and a political cartoon depicting the 1765 Pennsylvania election. There are also records from the 1720s-1730s on the border dispute with Maryland, a couple of documents on the Seven Years War, broadsides of British speeches on Irish affairs from the 1780s, and some other documents from the 1790s.</p>
+            <p>The collection is well-indexed.</p>
+        </odd>
+        <controlaccess>
+            <persname rules="aacr" source="local">Claypoole, James, 1640-1694</persname>
+            <persname rules="aacr" source="naf">Eckley, John </persname>
+            <persname rules="aacr" source="naf">Fletcher, Benjamin, 1640-1703</persname>
+            <persname rules="aacr" source="naf">Hamilton, Andrew, d. 1703</persname>
+            <persname rules="aacr" source="naf">Lloyd, Thomas, 1640-1694</persname>
+            <persname source="ingest">Logan, James, 1674-1751</persname>
+            <persname source="ingest">Markham, William, 1635 -1704</persname>
+            <persname rules="aacr" source="naf">Norris, Isaac, 1671-1735</persname>
+            <famname source="ingest">Roberts, Hugh, -- d. 1702.</famname>
+            <persname rules="aacr" source="local">Simcock, John</persname>
+            <persname rules="aacr" source="naf">Turner, Robert, fl. 1654-1665</persname>
+            <persname source="ingest">Williams, Jonathan.</persname>
+            <genreform source="leah">Business Records and Accounts</genreform>
+            <genreform source="lcsh">Cashbooks.</genreform>
+            <genreform source="lcsh">Charters.</genreform>
+            <subject source="leah">Colonial Politics</subject>
+            <subject source="lcsh">Land speculation</subject>
+            <genreform source="lcsh">Laws.</genreform>
+            <genreform source="leah">Maps and Surveys</genreform>
+            <subject source="leah">Military History</subject>
+            <geogname source="lcsh">New Jersey -- History -- Colonial period, ca. 1600-1775.</geogname>
+            <genreform source="leah">Official Government Documents and Records</genreform>
+            <geogname source="lcsh">Pennsylvania -- History -- Colonial period, ca. 1600-1775.</geogname>
+            <subject source="leah">Pennsylvania History</subject>
+            <genreform source="lcsh">Petitions.</genreform>
+            <subject source="leah">Philadelphia History</subject>
+            <genreform source="leah">Political Correspondence</genreform>
+            <genreform source="leah">Printed Material</genreform>
+            <genreform source="lcsh">Proclamations.</genreform>
+            <subject source="leah">Seven Years' War</subject>
+            <subject source="lcsh">Sugar.</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref15" level="file">
+                <did>
+                    <unittitle>Cash book</unittitle>
+                    <unitdate>1699-1703</unitdate>
+                    <origination label="creator">
+                        <persname source="ingest">Penn, William, 1644-1718</persname>
+                    </origination>
+                </did>
+                <scopecontent id="ref16">
+                    <head>Scope and Contents note</head>
+                    <p>34.1 A manuscript. Presented by Dr. George Logan and Mrs. Deborah Norris Logan, Dec. 31, 1817.</p>
+                </scopecontent>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

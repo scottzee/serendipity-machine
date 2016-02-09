@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.L968-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.L968</num>
+                    <num>Mss.B.L968</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T19:40-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>John Lukens papers, 1760-1788</unittitle>
+            <unitid>Mss.B.L968</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid13267001" type="Box-folder" label="Mixed materials">1</container>
+            <container parent="cid13267001" type="Volume">12</container>
+            <physdesc>
+                <extent>12.0 Volume(s)</extent>
+            </physdesc>
+            <unitdate normal="1760/1788" type="inclusive">1760-1788</unitdate>
+            <abstract id="ref2" label="Abstract">There are several letters which concern Lukens' official position as Surveyor-general, but the bulk of the collection is the 12 small survey books (1760-1775, ca. 108 p.). There are surveys of Philadelphia, particularly near the State House, now Independence Square; for a vineyard plantation in the Northern Liberties (1769); and for lands in Lancaster and Berks Counties.</abstract>
+            <physdesc id="ref1" label="General Physical Description note">
+                <extent>12 volumes, 106 p.; 4 items.</extent></physdesc>
+            <physloc id="ref22" label="Paging">LH-MV-C-13</physloc>
+            <origination label="creator">
+                <persname source="ingest">Lukens, John, 1720-1789</persname>
+            </origination>
+        </did>
+        <odd id="ref4">
+            <head>Early American History Note</head>
+            <p>The small survey books of John Lukens contain various land surveys that Lukens undertook throughout Pennsylvania. The Lukens family was a prominent surveying family with close ties to the proprietary government. The books do not contain any sketches, but are instead a listing of coordinates and features that can be used to demarcate land. Notably, there is little in the surveys about the Connecticut dispute, although items on the Lukens' involvement in that event can be found in other collections, such as the Eastwick Collection.</p>
+        </odd>
+        <acqinfo id="ref5">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Purchased from Philadelphia Autograph Company (08-25-88; $200.00) and accessioned, 1947.</p>
+        </acqinfo>
+        <bioghist id="ref6">
+            <head>Biographical/Historical note</head>
+            <p>John Lukens was Surveyor-general of Pennsylvania and was elected to the American Philosophical Society in 1767.</p>
+        </bioghist>
+        <controlaccess>
+            <geogname source="lcsh">Berks County (Pa.)</geogname>
+            <subject source="leah">Government Affairs</subject>
+            <geogname source="lcsh">Independence National Historical Park (Philadelphia, Pa.)</geogname>
+            <geogname source="lcsh">Lancaster County (Pa.)</geogname>
+            <subject source="lcsh">Land speculation</subject>
+            <genreform source="leah">Maps and Surveys</genreform>
+            <genreform source="leah">Official Government Documents and Records</genreform>
+            <subject source="leah">Pennsylvania History</subject>
+            <subject source="lcsh">Surveying -- Pennsylvania -- Philadelphia.</subject>
+            <subject source="leah">Surveying and Maps</subject>
+            <genreform source="lcsh">Surveys (land).</genreform>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref7" level="series">
+                <did>
+                    <unittitle>Papers</unittitle>
+                    <unitdate>1760-1788</unitdate>
+                    <origination label="creator">
+                        <persname source="ingest">Lukens, John, 1720-1789</persname>
+                    </origination>
+                </did>
+                <scopecontent id="ref21">
+                    <head>Scope and Contents note</head>
+                    <p>D. 16 items.</p>
+                </scopecontent>
+                <c02 id="ref25" level="file">
+                    <did>
+                        <unittitle>Survey book</unittitle>
+                        <unitdate>1760</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Lukens, John, 1720-1789</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref26" level="file">
+                    <did>
+                        <unittitle>Survey book</unittitle>
+                        <unitdate>Sept., 1765</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Lukens, John, 1720-1789</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref27" level="file">
+                    <did>
+                        <unittitle>Survey book</unittitle>
+                        <unitdate>July, 1766</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Lukens, John, 1720-1789</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref28" level="item">
+                    <did>
+                        <unittitle>Survey book</unittitle>
+                        <unitdate>1766</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Lukens, John, 1720-1789</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref39" level="file">
+                    <did>
+                        <unittitle>Survey book</unittitle>
+                        <unitdate>August, 1767</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Lukens, John, 1720-1789</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref32" level="file">
+                    <did>
+                        <unittitle>Survey book</unittitle>
+                        <unitdate>1767-1768</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Lukens, John, 1720-1789</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref33" level="file">
+                    <did>
+                        <unittitle>Survey book</unittitle>
+                        <unitdate>April, 1769</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Lukens, John, 1720-1789</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref34" level="file">
+                    <did>
+                        <unittitle>Survey book</unittitle>
+                        <unitdate>1773</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Lukens, John, 1720-1789</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref36" level="file">
+                    <did>
+                        <unittitle>Survey book</unittitle>
+                        <unitdate>October, 1774?</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Lukens, John, 1720-1789</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref37" level="file">
+                    <did>
+                        <unittitle>Survey book</unittitle>
+                        <unitdate>February, 1775</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Lukens, John, 1720-1789</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref38" level="file">
+                    <did>
+                        <unittitle>Survey book</unittitle>
+                        <physdesc>
+                            <extent>2.0 folders</extent>
+                        </physdesc>
+                        <unitdate>n.d.</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Lukens, John, 1720-1789</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref10" level="file">
+                    <did>
+                        <unittitle>Statement to the state of Pennsylvania;</unittitle>
+                        <unitdate>Sept.-Dec., 1781</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Lukens, John, 1720-1789</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref11">
+                        <head>Scope and Contents note</head>
+                        <p>D. 3 leaves and add. Various sizes. Surveying charges.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref12" level="file">
+                    <did>
+                        <unittitle>Letter to the Supreme Executive Council of Pennsylvania;</unittitle>
+                        <unitdate>Nov., 1787</unitdate>
+                        <physdesc id="ref13" label="General Physical Description note">13-1/4x8-1/4</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Lukens, John, 1720-1789</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref14">
+                        <head>Scope and Contents note</head>
+                        <p>[].A.L.S.with initials. 2p. Draft. (see Lukens papers.) Concerning taking fees as Surveyor General.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref15" level="file">
+                    <did>
+                        <unittitle>Extract from the minutes, addressed to John Lukens;</unittitle>
+                        <unitdate>Nov. 26, 1787</unitdate>
+                        <physdesc id="ref16" label="General Physical Description note">13x8</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Pennsylvania. Supreme Executive Council</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref17">
+                        <head>Scope and Contents note</head>
+                        <p>Philadelphia, A.D.S.: James Trimble for Charles Biddle. 1p.and add.,end. (see Lunkens papers.) Wishes to know if he claims any fees since he became a salaried officer (Surveyor General).</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref18" level="file">
+                    <did>
+                        <unittitle>Draught of survey of Northampton lot for Jonathan Dickinson Serjeant;</unittitle>
+                        <unitdate>May 21, 1788</unitdate>
+                        <physdesc id="ref19" label="General Physical Description note">13-1/2x8</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Hamilton, James, Jr.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref20">
+                        <head>Scope and Contents note</head>
+                        <p>A.D.S. 1p.and end.: "Ret.into the Secretary's Office...for John Lukens Esqr. Edw[ar]d Lynch." (see Luknes papers.)</p>
+                    </scopecontent>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

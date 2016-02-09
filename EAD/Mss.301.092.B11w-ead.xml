@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/library/mole/b/babcock.xml">babcock.xml</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Barbara Babcock and Nancy Parezo, "Women Anthropologists and the Native American Southwest, 1880-1945"
+                    <date type="span">1986</date>
+                    <num>Mss.301.092.B11w</num>
+                </titleproper>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+                <date>3/2003</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:08-0400</date>
+            </creation>
+            <langusage>ENG</langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Women Anthropologists and the Native American Southwest, 1880-1945</unittitle>
+            <unitid>Mss.301.092.B11w</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>28.0 p.</extent>
+            </physdesc>
+            <unitdate normal="1986/1986">1986</unitdate>
+            <abstract id="ref1" label="Abstract">Barbara Babcock (Department of English) and Nancy Parezo (American Indian Studies and Anthropology) are members of the faculty at the University of Arizona. Their oral history of women anthropologists in the southwestern United States was published in 1988 as 
+                <title render="italic">Daughters of the Desert : Women Anthropologists and the Native American Southwest, 1880-1980</title>. 
+                <lb/>This related essay includes brief biographical discussions of over 30 women who worked in the southwestern United States between 1880 and 1945. It was published as "The leading edge: Women anthropologists in the native American Southwest, 1880-1945," 
+                <title render="italic">El Palacio</title> 92 (1986)</abstract>
+            <physloc id="ref15" label="Paging">LH-MV-E-7</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Babcock, Barbara A., 1943-</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Parezo, Nancy J.</persname>
+            </origination>
+        </did>
+        <bibliography id="ref12">
+            <head>Bibliography</head>
+            <bibref>Babcock, Barbara A. and Nancy J. Parezo, "The leading edge: Women anthropologists in the native American Southwest, 1880-1945," 
+                <title render="italic">El Palacio</title> 92 (1986) 
+                <emph render="bold">call no.</emph>: 572 Pam 56.</bibref>
+            <bibref>Babcock, Barbara A. and Nancy J. Parezo, 
+                <title render="italic">Daughters of the Desert : Women Anthropologists and the Native American Southwest, 1880-1980</title> (Albuquerque, 1988). 
+                <emph render="bold">Call no.</emph>: 572.09 B11d.</bibref>
+        </bibliography>
+        <processinfo id="ref14">
+            <head>Processing Information note</head>
+            <p>Catalogued 2003.</p>
+        </processinfo>
+        <acqinfo id="ref11">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Gift of the author, 1994 (accn. 1994-291ms).</p>
+        </acqinfo>
+        <prefercite id="ref9">
+            <head>Preferred Citation note</head>
+            <p>Cite as: Barbara A. Babcock and Nancy J. Parezo, "Women Anthropologists and the Native American Southwest, 1880-1945," American Philosophical Society.</p>
+        </prefercite>
+        <scopecontent id="ref5">
+            <head>Scope and Contents note</head>
+            <p>Barbara Babcock and Nancy Parezo's essay on women anthropologists includes brief biographical discussions of over 30 women who worked in the southwestern United States between 1880 and 1945. Their essay was published as "The leading edge: Women anthropologists in the Native American Southwest, 1880-1945," 
+                <title render="italic">El Palacio</title> 92 (1986) 
+                <emph render="bold">call no.</emph>: 572 Pam 56.</p>
+        </scopecontent>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>Barbara Babcock (Department of English) and Nancy Parezo (American Indian Studies and Anthropology) are members of the faculty at the University of Arizona. Their oral history of women anthropologists in the southwestern United States was published in 1988 as 
+                <title render="italic">Daughters of the Desert : Women Anthropologists and the Native American Southwest, 1880-1980</title>.</p>
+        </bioghist>
+        <controlaccess>
+            <persname source="ingest">Benedict, Ruth, 1887-1848</persname>
+            <persname source="ingest">Parsons, Elsie Worthington Clews, 1875-1941</persname>
+            <persname rules="aacr" source="naf">Reichard, Gladys Amanda, 1893-1955</persname>
+            <persname source="ingest">Stevenson, Matilda Coxe, 1849-1915</persname>
+            <persname source="ingest">Underhill, Ruth Murray, 1884-1984</persname>
+            <subject source="ingest">Indians of North America--Southwest, New</subject>
+            <subject source="ingest">Southwest, New</subject>
+            <subject source="ingest">Women anthropologists</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

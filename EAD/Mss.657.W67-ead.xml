@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.657.W67-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.657.W67</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:22-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>John Williams daybook and ledger, 1773-1774</unittitle>
+            <unitid>Mss.657.W67</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1007" type="Volume" label="Manuscripts">1-2</container>
+            <physdesc>
+                <extent>2.0 Volume(s)</extent>
+                <extent>2 volumes, 243 p. </extent>
+            </physdesc>
+            <unitdate normal="1773/1774" type="inclusive">1773-1774</unitdate>
+            <abstract id="ref1" label="Abstract">The two volumes consist of a daybook and ledger. The first volume, a daybook, is a chronological record of sales, with names of purchasers.</abstract>
+            <physdesc id="ref11" label="General Physical Description note">2 volumes, 243 p.</physdesc>
+            <physloc id="ref15" label="Paging">LH-MV-E-11</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Williams, John</persname>
+            </origination>
+        </did>
+        <bioghist id="ref8">
+            <head>Biographical/Historical note</head>
+            <p>John Williams was a storekeeper in Middletown (Pa.).</p>
+        </bioghist>
+        <acqinfo id="ref5">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Received and accessioned, 1900.</p>
+        </acqinfo>
+        <odd id="ref14">
+            <head>Early American History Note</head>
+            <p>John Williams’s ledger and daybook record the business activities for this Lancaster County-based merchant. The ledger contains daily sales and purchases for 1773 and 1774. The accounts can provide insight into the consumption of residents of the Pennsylvania hinterland and the trade and business connections it had with Philadelphia and other ports. The daybook contains even more information. Entries record individuals, what they purchased, and at what price.</p>
+        </odd>
+        <controlaccess>
+            <subject source="leah">Business and Skilled Trades</subject>
+            <genreform source="leah">Business Records and Accounts</genreform>
+            <genreform source="lcsh">Daybooks.</genreform>
+            <genreform source="lcsh">Ledgers.</genreform>
+            <geogname source="lcsh">Middletown (Pa.) -- Commerce.</geogname>
+            <subject source="leah">Pennsylvania History</subject>
+            <subject source="leah">Trade</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref12" level="item">
+                <did>
+                    <unittitle>John Williams ledger, 1773-1774</unittitle>
+                    <unitid>657.W67d</unitid>
+                    <langmaterial>
+                        <language langcode="eng"/>
+                    </langmaterial>
+                    <container id="cid52311" type="Volume" label="Manuscripts">1</container>
+                    <physdesc>
+                        <extent>1.0 Volume(s)</extent>
+                    </physdesc>
+                    <unitdate normal="1773/1774" type="inclusive">1773-1774</unitdate>
+                    <abstract id="ref13" label="Abstract">The ledger arranges the chronological record of sales by customer. Articles listed as being sold include sugar, augers, knives, jewelry, thread, tea, linen, coffee, tobacco, combs, fabrics, glass panes, wine, rum, ribbon, salt, and frying pans.</abstract>
+                </did>
+            </c01>
+            <c01 id="ref16" level="file">
+                <did>
+                    <unittitle>Day book</unittitle>
+                    <unitdate>1773-1774</unitdate>
+                </did>
+                <scopecontent id="ref17">
+                    <head>Scope and Contents note</head>
+                    <p>125,(2)p. F. Manuscript. Contains note signed by John Williams before James Burd, Justice of peace, March 26, 1774, that accounts are correct. Mentions Randle and John Mitchell of Philadelphia as partners.</p>
+                </scopecontent>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Film.627-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Film.627</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T20:15-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>William Darlington letters, 1836-1857</unittitle>
+            <unitid>Mss.Film.627</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1881" type="Reel" label="Microform">1</container>
+            <physdesc>
+                <extent>1.0 Microfilm reel(s)</extent>
+            </physdesc>
+            <unitdate normal="1836/1857" type="inclusive">1836-1857</unitdate>
+            <abstract id="ref8" label="Abstract">These are to Darlington from Spencer F. Baird, Robert Carr, Edward D. Ingraham, Moses Marshall, George Ord, John Jay Smith, and John F. Watson, among others. A letter from Joseph Johnson encloses a sketch of the life of Stephen Elliott (1771-1830).</abstract>
+            <physdesc id="ref15" label="General Physical Description note">1 microfilm reel.</physdesc>
+            <physloc id="ref17" label="Paging">LH-RR-Media Rm-3</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Darlington, William, 1782-1863</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref7">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Received from New York Historical Society, 1953.</p>
+        </acqinfo>
+        <bioghist id="ref5">
+            <head>Biographical/Historical note</head>
+            <p>William Darlington was a physician and naturalist.</p>
+        </bioghist>
+        <originalsloc id="ref3">
+            <head>Existence and Location of Originals note</head>
+            <p>Originals in:New-York Historical Society, New York, New York.</p>
+        </originalsloc>
+        <odd id="ref16">
+            <head>Early American History Note</head>
+            <p>This is a microfilm of an early American collection that may be of interest to researchers at the APS and may complement an original manuscript collection at the APS.</p>
+        </odd>
+        <controlaccess>
+            <persname rules="aacr" source="naf">Baird, Spencer Fullerton, 1823-1887</persname>
+            <persname rules="aacr" source="naf">Carr, Robert</persname>
+            <persname rules="aacr" source="naf">Elliott, Stephen, 1771-1830</persname>
+            <persname rules="aacr" source="naf">Ingraham, Edward D.,  (Edward Duncan), 1793-1854</persname>
+            <persname rules="aacr" source="naf">Johnson, Joseph, 1776-1862</persname>
+            <persname rules="aacr" source="local">Marshall, Moses</persname>
+            <persname rules="aacr" source="naf">Ord, George, 1781-1866 </persname>
+            <persname rules="aacr" source="naf">Smith, J. Jay,  (John Jay), 1798-1881</persname>
+            <persname rules="aacr" source="local">Watson, John F.</persname>
+            <subject source="ingest">Agriculture</subject>
+            <subject source="lcsh">Botany.</subject>
+            <genreform source="leah">Microfilm Collection</genreform>
+            <subject source="lcsh">Natural history.</subject>
+            <subject source="lcsh">Potatoes.</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

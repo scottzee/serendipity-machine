@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.497.3.G41-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.497.3.G41</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:11-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Miscellaneous collection on the American Indian, 1949-1961</unittitle>
+            <unitid>Mss.497.3.G41</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid803" type="Box" label="Manuscripts">1-2</container>
+            <physdesc>
+                <extent>1.0 Linear feet</extent>
+                <extent>Ca. 365 items, 75 photographs</extent>
+            </physdesc>
+            <unitdate normal="1949/1961" type="inclusive">1949-1961</unitdate>
+            <abstract id="ref1" label="Abstract">This collection pertains principally to the Cherokees of North Carolina and Oklahoma and to their language, ethnography, folklore, archeology, history, music, etc. Includes Indian studies and correspondence by Gillespie, notes on Indian dances and linguistics, bibliographies, publications of the Archaeological Society of Brigham Young University, and newspaper clippings. Also comprised of materials on: Apache, Calusa, Chippewa, Choctaw, Delaware, Eskimo, Fox, Iroquois, Karankawa, Kuchin, Louchens, Mattaponi, Muskogee, Navajo, Onondaga, Pueblo, Sauk, Seminole, Seneca, Shawnee, Sioux, Slave, Timucua, Tuscarora, Tutelo, and Wyandot. Contains: Gillespie, "A grammar of western dialect of Cherokee language of the Iroquoian family," 1949-1954 (131 pages); "Miscellaneous material on the Cherokee Indians and language"; "Miscellaneous items pertaining to the American Indian."</abstract>
+            <physdesc id="ref6" label="General Physical Description note">Ca. 365 items; 75 photographs.</physdesc>
+            <physloc id="ref91" label="Paging">LH-MV-B-9</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Gillespie, John D.</persname>
+            </origination>
+        </did>
+        <scopecontent id="ref7">
+            <head>Scope and Contents note</head>
+            <p>"A grammar of western dialect of Cherokee language of the Iroquoian family": A discussion of the history of the Sequoyan syllabary; the western (North Carolina) Cherokee; migration; relation of syllabary characters to Cherokee design; phonemics and sound shifts as an indication of relation of Cherokee-Iroquoian to Caddoan languages; phonetics and morphophonemics; free forms vs. bound forms; grammar arranged by semantic categories.</p>
+            <p>"Miscellaneous material on the Cherokee Indians and language": Materials pertaining to the Western Cherokee Nighthawk Keetowahs, together with dance materials, music, medicinal and ceremonial observations, transcripts from notes, etc. (1951-1952). Includes Alice Marriott, Ethnographic observation of the nighthawk Keetowah, and Gillespie, The Kthula cult of Haiti.</p>
+        </scopecontent>
+        <scopecontent id="ref8">
+            <head>Scope and Contents note</head>
+            <p>Native American Images note: Nearly 600 photomechanical prints, black and white silver gelatin photographs, ink and pencil sketches, maps, news clipping photographs, and color postcards of Eastern Cherokee Indians, collected and taken by John D. Gillespie while researching Native American music from 1947-1961. Images depict the social life and customs of the Cherokees of western North Carolina, eastern Tennessee and Oklahoma with such practices as ball playing, basket weaving, dances, beadwork, pottery and native dress. Also, some individual and group portraits of Junaluska, Sequoyah and Koshare Indian dancers. Includes some materials on Mayan, Cheyenne, Navajo, Choctaw, and Pueblo tribes. Referenced in the Supplement of the Freeman Guide to manuscripts relating to the American Indian.</p>
+        </scopecontent>
+        <acqinfo id="ref5">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by John D. Gillespie in honor of Dr. Frank Speck and accessioned, 02/1962. See in-house shelf list for additional accession numbers and dates.</p>
+        </acqinfo>
+        <controlaccess>
+            <corpname rules="aacr" source="local">Archaeological Society of Brigham Young University..</corpname>
+            <persname rules="aacr" source="naf">Junaluska, d.1858</persname>
+            <persname rules="aacr" source="naf">Sequoyah, 1770?-1843</persname>
+            <subject source="lcsh">Cherokee dance</subject>
+            <subject source="lcsh">Cherokee Indians </subject>
+            <subject source="lcsh">Cherokee language</subject>
+            <subject source="lcsh">Cheyenne Indians</subject>
+            <subject source="lcsh">Choctaw Indians</subject>
+            <genreform source="lcsh">Clippings.</genreform>
+            <genreform source="gmgpc">Gelatin silver prints</genreform>
+            <subject source="lcsh">Indian dance--North America</subject>
+            <subject source="lcsh">Indians of North America--Languages</subject>
+            <subject source="lcsh">Indians of North America--North Carolina</subject>
+            <subject source="lcsh">Indians of North America--Oklahoma</subject>
+            <subject source="lcsh">Indians of North America--Tennessee</subject>
+            <genreform source="lcsh">Maps.</genreform>
+            <subject source="ingest">Navajo Indians</subject>
+            <genreform source="lcsh">Newspaper clippings</genreform>
+            <genreform source="gmgpc">Photomechanical prints</genreform>
+            <genreform source="lcsh">Photoprints.</genreform>
+            <genreform source="ingest">Postcards</genreform>
+            <subject source="lcsh">Pueblo Indians</subject>
+            <genreform source="lcsh">Sketches.</genreform>
+            <subject source="local">Southeast Indians</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref16" level="file">
+                <did>
+                    <unittitle>A grammar of western dialect of Cherokee language of the Iroquoian family</unittitle>
+                    <unitid>No.1</unitid>
+                    <unitdate normal="1949/1954" type="inclusive">1949-1954</unitdate>
+                    <abstract id="ref30" label="Abstract">Sequoyan syllabary</abstract>
+                    <origination label="creator">
+                        <persname source="ingest">Gillespie, John D.</persname>
+                    </origination>
+                </did>
+                <otherfindaid id="ref17">
+                    <head>Other Finding Aids note</head>
+                    <p>Freeman guide, #68 and 660. Film 1320</p>
+                </otherfindaid>
+            </c01>
+            <c01 id="ref18" level="file">
+                <did>
+                    <unittitle>Miscellaneous material on the Cherokee Indians</unittitle>
+                    <unitid>No.2</unitid>
+                    <unitdate normal="1951/1962" type="inclusive">1951-1962</unitdate>
+                    <abstract id="ref19" label="Abstract">Materials pertaining to the western Cherokee Nighthawk Keetowahs, together with dance materials, music, medicinal and ceremonial observations, transcripts from notes, etc. Including Alice Marriott "Ethnographic observation of the Nighthawk Keetowah" and John Gillespie "The Kthula cult of Haiti."</abstract>
+                    <origination label="creator">
+                        <persname source="ingest">Gillespie, John D.</persname>
+                    </origination>
+                </did>
+                <scopecontent id="ref20">
+                    <head>Scope and Contents note</head>
+                    <p>Native American Images note: 9 pencil sketches, 1 negative print, 59 ink sketches, 6 newspaper clippings of diagrams of Keetouwah ceremonial dances, music score of a lullaby, glyphs of Kthulhu language of Haiti, and a Cherokee feast.</p>
+                </scopecontent>
+                <otherfindaid id="ref49">
+                    <head>Other Finding Aids note</head>
+                    <p>Freeman guide, #69 and #605</p>
+                </otherfindaid>
+            </c01>
+            <c01 id="ref22" level="file">
+                <did>
+                    <unittitle>Eastern Cherokee reservation scrapbook</unittitle>
+                    <unitid>No.3, item 1</unitid>
+                    <unitdate normal="1947/1954" type="inclusive">1947-1954</unitdate>
+                    <abstract id="ref23" label="Abstract">Miscellaneous papers: scrapbook of photographs, newspaper clippings, picture postal cards, etc.</abstract>
+                    <origination label="creator">
+                        <persname source="ingest">Gillespie, John D.</persname>
+                    </origination>
+                </did>
+                <scopecontent id="ref25">
+                    <head>Scope and Contents note</head>
+                    <p>Native American Images note: 38 black and white photographs, 6 color postcards, 24 newsclippings, 2 negatives of Cherokee individual portraits in native attire, weapons, dwellings, canoes, dances, basket weaving, and games in North Carolina and Tennessee.</p>
+                </scopecontent>
+                <otherfindaid id="ref26">
+                    <head>Other Finding Aids note</head>
+                    <p>Freeman guide, #4010</p>
+                </otherfindaid>
+                <c02 id="ref85" level="item">
+                    <did>
+                        <unittitle>Cherokee attire</unittitle>
+                        <unitdate normal="1947/1954" type="inclusive">1947-1954</unitdate>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Cherokee attire" ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:3656">
+                        <daodesc>
+                            <p>Cherokee attire, 1947-1954 </p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref86" level="item">
+                    <did>
+                        <unittitle>Cherokee man "chiefing"</unittitle>
+                        <unitdate normal="1947/1954" type="inclusive">1947-1954</unitdate>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Cherokee man &quot;chiefing&quot;" ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:3655">
+                        <daodesc>
+                            <p>Cherokee man "chiefing", 1947-1954 </p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref87" level="item">
+                    <did>
+                        <unittitle>Cherokee man with bear cub</unittitle>
+                        <unitdate normal="1947/1954" type="inclusive">1947-1954</unitdate>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Cherokee man with bear cub" ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:3657">
+                        <daodesc>
+                            <p>Cherokee man with bear cub, 1947-1954 </p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref88" level="item">
+                    <did>
+                        <unittitle>Cherokee men on stage</unittitle>
+                        <unitdate>1954</unitdate>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Cherokee men on stage" ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:3652">
+                        <daodesc>
+                            <p>Cherokee men on stage, 1954 </p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref89" level="item">
+                    <did>
+                        <unittitle>Cherokee utensils</unittitle>
+                        <unitdate normal="1947/1954" type="inclusive">1947-1954</unitdate>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Cherokee utensils" ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:3654">
+                        <daodesc>
+                            <p>Cherokee utensils, 1947-1954 </p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref90" level="item">
+                    <did>
+                        <unittitle>Commemoration of the Treaty of Dumplin Creek</unittitle>
+                        <unitdate>1954</unitdate>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Commemoration of the Treaty of Dumplin Creek" ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:3653">
+                        <daodesc>
+                            <p>Commemoration of the Treaty of Dumplin Creek, 1954 </p>
+                        </daodesc>
+                    </dao>
+                </c02>
+            </c01>
+            <c01 id="ref27" level="file">
+                <did>
+                    <unittitle>The Indian voice: Indian medium of expression</unittitle>
+                    <unitid>No.3, item 2</unitid>
+                    <unitdate>n.d.</unitdate>
+                </did>
+                <scopecontent id="ref28">
+                    <head>Scope and Contents note</head>
+                    <p>Native American Images note: 49 photomechanical prints of portraits of Kiowa, Seminoles, Kaws, Cherokees.</p>
+                </scopecontent>
+                <otherfindaid id="ref29">
+                    <head>Other Finding Aids note</head>
+                    <p>Freeman guide, #4010</p>
+                </otherfindaid>
+            </c01>
+            <c01 id="ref31" level="file">
+                <did>
+                    <unittitle>The Official guide to Cherokee</unittitle>
+                    <unitid>No.3, item 3</unitid>
+                    <unitdate>n.d.</unitdate>
+                </did>
+                <scopecontent id="ref32">
+                    <head>Scope and Contents note</head>
+                    <p>Native American Images note: 26 photomechanical prints of portraits, dwellings, pipes, moccasin.</p>
+                </scopecontent>
+                <otherfindaid id="ref33">
+                    <head>Other Finding Aids note</head>
+                    <p>Freeman guide, #4010</p>
+                </otherfindaid>
+            </c01>
+            <c01 id="ref34" level="file">
+                <did>
+                    <unittitle>Junaluska</unittitle>
+                    <unitid>No.3, item 4</unitid>
+                    <unitdate>1951</unitdate>
+                </did>
+                <scopecontent id="ref35">
+                    <head>Scope and Contents note</head>
+                    <p>Native American Images note: 6 ink sketches of portraits, cradle-board, grave sites, battle of horse-shoe bend, maps.</p>
+                </scopecontent>
+                <otherfindaid id="ref36">
+                    <head>Other Finding Aids note</head>
+                    <p>Freeman guide, #4010</p>
+                </otherfindaid>
+            </c01>
+            <c01 id="ref37" level="file">
+                <did>
+                    <unittitle>Chief Junaluska</unittitle>
+                    <unitid>No.3, item 5</unitid>
+                    <unitdate>1950</unitdate>
+                </did>
+                <scopecontent id="ref38">
+                    <head>Scope and Contents note</head>
+                    <p>Native American Images note: 6 ink sketches of photomechanical prints of portrait, boundary tree, ambush at Raven's place, Shawano war party, Wah-lah-see-yah.</p>
+                </scopecontent>
+                <otherfindaid id="ref39">
+                    <head>Other Finding Aids note</head>
+                    <p>Freeman guide, #4010</p>
+                </otherfindaid>
+            </c01>
+            <c01 id="ref40" level="file">
+                <did>
+                    <unittitle>Miscellaneous papers: correspondence</unittitle>
+                    <unitid>No.3, item 6</unitid>
+                    <unitdate normal="1950/1961" type="inclusive">1950-1961</unitdate>
+                    <origination label="creator">
+                        <persname source="ingest">Gillespie, John D.</persname>
+                    </origination>
+                </did>
+                <scopecontent id="ref41">
+                    <head>Scope and Contents note</head>
+                    <p>Native American Images note: 18 ink sketches, 6 color postcards, 4 photomechanical prints of Zuni, Pueblo dwellings, relics, dancers and Cherokee dwelling, myth, portraits.</p>
+                </scopecontent>
+                <otherfindaid id="ref42">
+                    <head>Other Finding Aids note</head>
+                    <p>Freeman guide, #4010</p>
+                </otherfindaid>
+            </c01>
+            <c01 id="ref43" level="file">
+                <did>
+                    <unittitle>Miscellaneous papers: newspaper clippings, photograph of clippings, notes, etc.</unittitle>
+                    <unitid>No.3, item 7</unitid>
+                    <unitdate normal="1953/1961" type="inclusive">1953-1961</unitdate>
+                    <origination label="creator">
+                        <persname source="ingest">Gillespie, John D.</persname>
+                    </origination>
+                </did>
+                <scopecontent id="ref45">
+                    <head>Scope and Contents note</head>
+                    <p>Native American Images note: 9 newspaper photographs, 7 photomechanical prints of Cherokee portraits, artifacts, pipes, weapons, dwellings, grave sites.</p>
+                </scopecontent>
+                <otherfindaid id="ref50">
+                    <head>Other Finding Aids note</head>
+                    <p>Freeman guide, #4010</p>
+                </otherfindaid>
+            </c01>
+            <c01 id="ref46" level="file">
+                <did>
+                    <unittitle>Miscellaneous papers: University archaeological society, Brigham Young University</unittitle>
+                    <unitid>No.3, item 8</unitid>
+                    <origination label="creator">
+                        <persname source="ingest">Gillespie, John D.</persname>
+                    </origination>
+                </did>
+                <scopecontent id="ref47">
+                    <head>Scope and Contents note</head>
+                    <p>Native American Images note: 14 photomechanical prints of pottery, artifacts, stone carvings, Olmic stone head, archaelogical sites at Chiapas, Mexico.</p>
+                </scopecontent>
+                <otherfindaid id="ref48">
+                    <head>Other Finding Aids note</head>
+                    <p>Freeman guide, #4010</p>
+                </otherfindaid>
+            </c01>
+            <c01 id="ref51" level="file">
+                <did>
+                    <unittitle>Miscellaneous papers: twenty-one articles on Indian dances</unittitle>
+                    <unitid>No.3, item 9</unitid>
+                    <unitdate>n.d.</unitdate>
+                    <origination label="creator">
+                        <persname source="ingest">Gillespie, John D.</persname>
+                    </origination>
+                </did>
+                <scopecontent id="ref52">
+                    <head>Scope and Contents note</head>
+                    <p>Native American Images note: 9 photomechanical prints of Cheyenne dances; Cherokee stick ball; sand paintings in Navajo hogan.</p>
+                </scopecontent>
+                <otherfindaid id="ref53">
+                    <head>Other Finding Aids note</head>
+                    <p>Freeman guide, #4010</p>
+                </otherfindaid>
+            </c01>
+            <c01 id="ref54" level="file">
+                <did>
+                    <unittitle>Miscellaneous papers: field notes on the North Carolina Cherokee</unittitle>
+                    <unitid>No.3, item 10</unitid>
+                    <origination label="creator">
+                        <persname source="ingest">Gillespie, John D.</persname>
+                    </origination>
+                </did>
+                <otherfindaid id="ref55">
+                    <head>Other Finding Aids note</head>
+                    <p>Freeman guide, #4010</p>
+                </otherfindaid>
+            </c01>
+            <c01 id="ref56" level="file">
+                <did>
+                    <unittitle>Miscellaneous papers: Tahlequah, Oklahoma.</unittitle>
+                    <unitid>No.3, item 11</unitid>
+                    <unitdate normal="1930/1959" type="inclusive">1930-1959</unitdate>
+                    <origination label="creator">
+                        <persname source="ingest">Gillespie, John D.</persname>
+                    </origination>
+                </did>
+                <scopecontent id="ref57">
+                    <head>Scope and Contents note</head>
+                    <p>Native American Images note: 5 photomechanical prints, 8 newsclipping photographs, 5 maps of Oklahoma Indian territory, Cherokee blankets, dwellings, settlements.</p>
+                </scopecontent>
+                <otherfindaid id="ref58">
+                    <head>Other Finding Aids note</head>
+                    <p>Freeman guide, #4010</p>
+                </otherfindaid>
+            </c01>
+            <c01 id="ref59" level="file">
+                <did>
+                    <unittitle>Miscellaneous papers: bibliographies of American Indians</unittitle>
+                    <unitid>No.3, item 12</unitid>
+                    <unitdate>1950</unitdate>
+                    <origination label="creator">
+                        <persname source="ingest">Gillespie, John D.</persname>
+                    </origination>
+                </did>
+                <scopecontent id="ref60">
+                    <head>Scope and Contents note</head>
+                    <p>Native American Images note: 24 newspaper clipping photographs from the New Cherokee Advocate of portraits, dwellings, cradleboards, utensils.</p>
+                </scopecontent>
+                <otherfindaid id="ref61">
+                    <head>Other Finding Aids note</head>
+                    <p>Freeman guide, #4010</p>
+                </otherfindaid>
+            </c01>
+            <c01 id="ref62" level="file">
+                <did>
+                    <unittitle>Miscellaneous papers: Indian dances</unittitle>
+                    <unitid>No.3, item 13</unitid>
+                    <unitdate>n.d.</unitdate>
+                    <origination label="creator">
+                        <persname source="ingest">Gillespie, John D.</persname>
+                    </origination>
+                </did>
+                <otherfindaid id="ref64">
+                    <head>Other Finding Aids note</head>
+                    <p>Freeman guide, #4010</p>
+                </otherfindaid>
+                <scopecontent id="ref63">
+                    <head>Scope and Contents note</head>
+                    <p>Native American Images note: 221 photomechanical prints of Koshare Indians artifacts, dances, native attire, portraits.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref65" level="file">
+                <did>
+                    <unittitle>Miscellaneous papers: studies on Indians</unittitle>
+                    <unitid>No.3, item 14</unitid>
+                    <unitdate>n.d.</unitdate>
+                    <origination label="creator">
+                        <persname source="ingest">Gillespie, John D.</persname>
+                    </origination>
+                </did>
+                <otherfindaid id="ref66">
+                    <head>Other Finding Aids note</head>
+                    <p>Freeman guide, #4010</p>
+                </otherfindaid>
+            </c01>
+            <c01 id="ref67" level="file">
+                <did>
+                    <unittitle>Miscellaneous papers: American Indian linguistic studies</unittitle>
+                    <unitid>No.3, item 15a</unitid>
+                    <unitdate normal="1944/1947" type="inclusive">1944-1947</unitdate>
+                    <origination label="creator">
+                        <persname source="ingest">Gillespie, John D.</persname>
+                    </origination>
+                </did>
+                <otherfindaid id="ref68">
+                    <head>Other Finding Aids note</head>
+                    <p>Freeman guide, #4010</p>
+                </otherfindaid>
+            </c01>
+            <c01 id="ref69" level="file">
+                <did>
+                    <unittitle>Miscellaneous papers: American Indian liguistic studies</unittitle>
+                    <unitid>No.3, item 15b</unitid>
+                    <unitdate>n.d.</unitdate>
+                    <origination label="creator">
+                        <persname source="ingest">Gillespie, John D.</persname>
+                    </origination>
+                </did>
+                <otherfindaid id="ref70">
+                    <head>Other Finding Aids note</head>
+                    <p>Freeman guide, #4010</p>
+                </otherfindaid>
+            </c01>
+            <c01 id="ref71" level="file">
+                <did>
+                    <unittitle>Miscellaneous papers: Cherokee linguistics</unittitle>
+                    <unitid>No.3, item 16</unitid>
+                    <unitdate normal="1948/1950" type="inclusive">1948-1950</unitdate>
+                    <origination label="creator">
+                        <persname source="ingest">Gillespie, John D.</persname>
+                    </origination>
+                </did>
+                <otherfindaid id="ref72">
+                    <head>Other Finding Aids note</head>
+                    <p>Freeman guide, #4010</p>
+                </otherfindaid>
+            </c01>
+            <c01 id="ref73" level="file">
+                <did>
+                    <unittitle>Miscellaneous papers: C.E.D.A.M. (Mexico) publications</unittitle>
+                    <unitid>No.3, item 17</unitid>
+                    <unitdate normal="1960/1961" type="inclusive">1960-1961</unitdate>
+                    <origination label="creator">
+                        <persname source="ingest">Gillespie, John D.</persname>
+                    </origination>
+                </did>
+                <scopecontent id="ref74">
+                    <head>Scope and Contents note</head>
+                    <p>Native American Images note: 15 photomechanical prints of artifacts, jewelry, skeletal remains, and pottery found in the sacred well of Chichen Itza.</p>
+                </scopecontent>
+                <otherfindaid id="ref75">
+                    <head>Other Finding Aids note</head>
+                    <p>Freeman guide, #4010</p>
+                </otherfindaid>
+            </c01>
+            <c01 id="ref76" level="file">
+                <did>
+                    <unittitle>Miscellaneous papers: Indian studies</unittitle>
+                    <unitid>No.3, item 18</unitid>
+                    <unitdate normal="1954/1960" type="inclusive">1954-1960</unitdate>
+                    <origination label="creator">
+                        <persname source="ingest">Gillespie, John D.</persname>
+                    </origination>
+                </did>
+                <scopecontent id="ref77">
+                    <head>Scope and Contents note</head>
+                    <p>Native American Images note: 5 photomechanical prints from Sooner magazine of Native American paintings.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref78" level="file">
+                <did>
+                    <unittitle>Miscellaneous papers: Indian studies</unittitle>
+                    <unitid>No.3, item 19</unitid>
+                    <unitdate normal="1948/1960" type="inclusive">1948-1960</unitdate>
+                    <origination label="creator">
+                        <persname source="ingest">Gillespie, John D.</persname>
+                    </origination>
+                </did>
+                <otherfindaid id="ref79">
+                    <head>Other Finding Aids note</head>
+                    <p>Freeman guide, #4010</p>
+                </otherfindaid>
+            </c01>
+            <c01 id="ref80" level="file">
+                <did>
+                    <unittitle>Miscellaneous papers: Cherokee, N.C.</unittitle>
+                    <unitid>No.3, item 20</unitid>
+                    <unitdate normal="1952/1961" type="inclusive">1952-1961</unitdate>
+                    <origination label="creator">
+                        <persname source="ingest">Gillespie, John D.</persname>
+                    </origination>
+                </did>
+                <scopecontent id="ref81">
+                    <head>Scope and Contents note</head>
+                    <p>Native American Images note: 10 color postcards, 63 photomechanical prints, 28 newspaper clipping photographs, 10 ink sketches of Cherokee Indian villages in North Carolina. Includes images of dwellings, dances, crafts, attire, ball playing, totems.</p>
+                </scopecontent>
+                <otherfindaid id="ref82">
+                    <head>Other Finding Aids note</head>
+                    <p>Freeman guide, #4010</p>
+                </otherfindaid>
+            </c01>
+            <c01 id="ref83" level="file">
+                <did>
+                    <unittitle>Miscellaneous papers: Cherokee bibliography</unittitle>
+                    <unitid>No.3, item 21</unitid>
+                    <unitdate>n.d.</unitdate>
+                    <origination label="creator">
+                        <persname source="ingest">Gillespie, John D.</persname>
+                    </origination>
+                </did>
+                <otherfindaid id="ref84">
+                    <head>Other Finding Aids note</head>
+                    <p>Freeman guide, #4010</p>
+                </otherfindaid>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

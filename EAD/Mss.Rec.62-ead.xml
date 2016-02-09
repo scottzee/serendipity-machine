@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Rec.62-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Rec.62</num>
+                </titleproper>
+                <author>Finding aid prepared by Brian Carpenter</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T21:17-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>San Juan Pueblo music</unittitle>
+            <unitid>Mss.Rec.62</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="nai"/>
+            </langmaterial>
+            <physdesc>
+                <extent>5.0 Tape(s)</extent>
+            </physdesc>
+            <unitdate>1967</unitdate>
+            <physdesc id="ref1" label="General Physical Description note">5 sound tape reels (9 hrs.) : analog, 3 3/4 ips, 2 track, mono ; 7 in.</physdesc>
+            <abstract id="ref4" label="Abstract">A large variety of songs and dances given by multiple performers, recorded by Linda Goodman at Ohkay Owingeh (San Juan Pueblo), New Mexico in 1967. Includes some songs borrowed from Picuris, Taos, Acoma, and Santo Domingo Pueblos, as well as Navajo, Apache, Kiowa, Comanche, Ute, and Pawnee songs. Also includes a Tewa vocabulary list and discussions of specific dances and musical activities.</abstract>
+            <physloc id="ref5" label="Paging">LH-B-32-2</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Goodman, Linda J.</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref2">
+            <head>Immediate Source of Acquisition</head>
+            <p>Donated by Linda Goodman in 1968 (Acc. 1968 1468r - 1968 1469r). This material was recorded with the assistance of a Phillips Fund grant.</p>
+        </acqinfo>
+        <accessrestrict id="ref3">
+            <head>Conditions Governing Access</head>
+            <p>This collection contains material that may be culturally sensitive in nature. Please consult the Manuscripts Librarian for information regarding conditions of access and reproduction.</p>
+        </accessrestrict>
+        <controlaccess>
+            <genreform source="ingest">Sound recordings</genreform>
+            <subject source="lcsh">Tewa dance</subject>
+            <subject source="lcsh">Tewa Indians--Music</subject>
+            <subject source="lcsh">Tewa language</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

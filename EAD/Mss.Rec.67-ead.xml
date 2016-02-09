@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Rec.67-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Rec.67</num>
+                    <num>Mss.Rec.67</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Brian Carpenter</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+                <date>11-2010</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T21:17-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Pawnee texts</unittitle>
+            <unitid>Mss.Rec.67</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="nai"/>
+            </langmaterial>
+            <physdesc>
+                <extent>1.0 Reel(s)</extent>
+            </physdesc>
+            <unitdate>1966</unitdate>
+            <abstract id="ref3" label="Abstract">11 unindentified texts given in Pawnee only, nine in the South Band dialect, two in the Skiri dialect. Recorded in Pawnee, Oklahoma, in 1966.</abstract>
+            <physdesc id="ref2" label="General Physical Description note">1 sound tape reel (4 hr., 56 min.) : analog, 3 3/4 ips, 2 track, mono ; 7 in.</physdesc>
+            <physloc id="ref57" label="Paging">LH-B-32-2</physloc>
+            <origination label="creator">
+                <persname rules="dacs" source="local">Allen, Sam</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="dacs" source="local">Cummings, Harry</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="dacs" source="local">Jim, Phillip</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Parks, Douglas R.</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref4">
+            <head>Immediate Source of Acquisition</head>
+            <p>Donated by Douglas Parks. This material was recorded with the assistance of a Phillips Fund grant.</p>
+        </acqinfo>
+        <relatedmaterial id="ref5">
+            <head>Related Archival Materials</head>
+            <p>Project report with summary of work completed available in 
+                <extref ns2:actuate="onLoad" ns2:show="new" ns2:href="http://www.amphilsoc.org/mole/view?docId=ead/Mss.497.3.Am4-ead.xml">Phillips Fund collection</extref> (Mss.497.3.Am4).</p>
+        </relatedmaterial>
+        <controlaccess>
+            <subject source="lcsh">Pawnee Indians</subject>
+            <subject source="lcsh">Pawnee language</subject>
+            <subject source="lcsh">Pawnee language--Texts</subject>
+            <genreform source="ingest">Sound recordings</genreform>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref6" level="series">
+                <did>
+                    <unittitle>Audio recordings</unittitle>
+                </did>
+                <c02 id="ref7" level="file">
+                    <did>
+                        <unittitle>Pawnee Text #1</unittitle>
+                        <unitid>01-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1966</unitdate>
+                        <physdesc id="ref8" label="General Physical Description note">
+                            <extent>00:25:50</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Cummings, Harry</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Parks, Douglas R. (Douglas Richard), 1942-</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref9">
+                        <head>Scope and Contents note</head>
+                        <p>Unidentified text given in Pawnee only, South Band dialect. Contains occasional digital sound errors due to degradation on RDAT transfer tape.</p>
+                    </scopecontent>
+                    <originalsloc id="ref11">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2317" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3913">
+                        <daodesc>
+                            <p>APSdigrec_2317</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Pawnee (Okla.)</geogname>
+                        <subject source="lcsh">Pawnee language--Texts</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref12" level="file">
+                    <did>
+                        <unittitle>Pawnee Text #2 and #3</unittitle>
+                        <unitid>01-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1966</unitdate>
+                        <physdesc id="ref13" label="General Physical Description note">
+                            <extent>00:51:50</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Cummings, Harry</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Parks, Douglas R. (Douglas Richard), 1942-</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref14">
+                        <head>Scope and Contents note</head>
+                        <p>Unidentified text given in Pawnee only, South Band dialect. The break between texts 2 and 3 is unclear on the original recording, but may occur at 40:43, 41:09, or 42:44. Contains a small number of digital sound errors due to degradation on RDAT transfer tape.</p>
+                    </scopecontent>
+                    <originalsloc id="ref16">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2318" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3916">
+                        <daodesc>
+                            <p>APSdigrec_2318</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Pawnee (Okla.)</geogname>
+                        <subject source="lcsh">Pawnee language--Texts</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref17" level="file">
+                    <did>
+                        <unittitle>Pawnee Text #4</unittitle>
+                        <unitid>01-03</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1966</unitdate>
+                        <physdesc id="ref18" label="General Physical Description note">
+                            <extent>00:13:51</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Cummings, Harry</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Parks, Douglas R. (Douglas Richard), 1942-</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref19">
+                        <head>Scope and Contents note</head>
+                        <p>Unidentified text given in Pawnee only, South Band dialect.</p>
+                    </scopecontent>
+                    <originalsloc id="ref21">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2319" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3915">
+                        <daodesc>
+                            <p>APSdigrec_2319</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Pawnee (Okla.)</geogname>
+                        <subject source="lcsh">Pawnee language--Texts</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref22" level="file">
+                    <did>
+                        <unittitle>Pawnee Text #5</unittitle>
+                        <unitid>01-04</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1966</unitdate>
+                        <physdesc id="ref23" label="General Physical Description note">
+                            <extent>00:21:05</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Cummings, Harry</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Parks, Douglas R. (Douglas Richard), 1942-</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref24">
+                        <head>Scope and Contents note</head>
+                        <p>Unidentified text given in Pawnee only, South Band dialect.</p>
+                    </scopecontent>
+                    <originalsloc id="ref26">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2320" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3917">
+                        <daodesc>
+                            <p>APSdigrec_2320</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Pawnee (Okla.)</geogname>
+                        <subject source="lcsh">Pawnee language--Texts</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref27" level="file">
+                    <did>
+                        <unittitle>Pawnee Text #6</unittitle>
+                        <unitid>01-05</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1966</unitdate>
+                        <physdesc id="ref28" label="General Physical Description note">
+                            <extent>01:17:45</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Cummings, Harry</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Parks, Douglas R. (Douglas Richard), 1942-</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref29">
+                        <head>Scope and Contents note</head>
+                        <p>Unidentified text given in Pawnee only, South Band dialect.</p>
+                    </scopecontent>
+                    <originalsloc id="ref31">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2321" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3914">
+                        <daodesc>
+                            <p>APSdigrec_2321</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Pawnee (Okla.)</geogname>
+                        <subject source="lcsh">Pawnee language--Texts</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref32" level="file">
+                    <did>
+                        <unittitle>Pawnee Text #7</unittitle>
+                        <unitid>01-06</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1966</unitdate>
+                        <physdesc id="ref33" label="General Physical Description note">
+                            <extent>00:13:49</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Cummings, Harry</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Parks, Douglas R. (Douglas Richard), 1942-</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref34">
+                        <head>Scope and Contents note</head>
+                        <p>Unidentified text given in Pawnee only, South Band dialect.</p>
+                    </scopecontent>
+                    <originalsloc id="ref36">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2322" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3922">
+                        <daodesc>
+                            <p>APSdigrec_2322</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Pawnee (Okla.)</geogname>
+                        <subject source="lcsh">Pawnee language--Texts</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref37" level="file">
+                    <did>
+                        <unittitle>Pawnee Text #8</unittitle>
+                        <unitid>01-07</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1966</unitdate>
+                        <physdesc id="ref38" label="General Physical Description note">
+                            <extent>00:11:30</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Cummings, Harry</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Parks, Douglas R. (Douglas Richard), 1942-</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref39">
+                        <head>Scope and Contents note</head>
+                        <p>Unidentified text given in Pawnee only, South Band dialect.</p>
+                    </scopecontent>
+                    <originalsloc id="ref41">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2323" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3920">
+                        <daodesc>
+                            <p>APSdigrec_2323</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Pawnee (Okla.)</geogname>
+                        <subject source="lcsh">Pawnee language--Texts</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref42" level="file">
+                    <did>
+                        <unittitle>Pawnee Text #9</unittitle>
+                        <unitid>01-08</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1966</unitdate>
+                        <physdesc id="ref43" label="General Physical Description note">
+                            <extent>00:21:11</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Allen, Sam</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Parks, Douglas R. (Douglas Richard), 1942-</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref44">
+                        <head>Scope and Contents note</head>
+                        <p>Unidentified text given in Pawnee only, Skiri dialect.</p>
+                    </scopecontent>
+                    <originalsloc id="ref46">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2324" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3919">
+                        <daodesc>
+                            <p>APSdigrec_2324</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Pawnee (Okla.)</geogname>
+                        <subject source="lcsh">Pawnee language--Texts</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref47" level="file">
+                    <did>
+                        <unittitle>Pawnee Text #10</unittitle>
+                        <unitid>01-09</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1966</unitdate>
+                        <physdesc id="ref48" label="General Physical Description note">
+                            <extent>00:16:52</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Allen, Sam</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Parks, Douglas R. (Douglas Richard), 1942-</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref49">
+                        <head>Scope and Contents note</head>
+                        <p>Unidentified text given in Pawnee only, Skiri dialect.</p>
+                    </scopecontent>
+                    <originalsloc id="ref51">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2325" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3921">
+                        <daodesc>
+                            <p>APSdigrec_2325</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Pawnee (Okla.)</geogname>
+                        <subject source="lcsh">Pawnee language--Texts</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref52" level="file">
+                    <did>
+                        <unittitle>Pawnee Text #11</unittitle>
+                        <unitid>01-10</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1966</unitdate>
+                        <physdesc id="ref53" label="General Physical Description note">
+                            <extent>00:42:22</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Jim, Phillip</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Parks, Douglas R. (Douglas Richard), 1942-</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref54">
+                        <head>Scope and Contents note</head>
+                        <p>Unidentified text given in Pawnee only, South Band dialect.</p>
+                    </scopecontent>
+                    <originalsloc id="ref56">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2326" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3923">
+                        <daodesc>
+                            <p>APSdigrec_2326</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Pawnee (Okla.)</geogname>
+                        <subject source="lcsh">Pawnee language--Texts</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

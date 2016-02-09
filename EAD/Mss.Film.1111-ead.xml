@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Film.1111-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Film.1111</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T20:11-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Jacob Harvey papers,1808-1847</unittitle>
+            <unitid>Mss.Film.1111</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="mul"/>
+            </langmaterial>
+            <container id="cid1701" type="Reel" label="Microform">1-3</container>
+            <physdesc>
+                <extent>3.0 Microfilm reel(s)</extent>
+            </physdesc>
+            <unitdate normal="1808/1847" type="inclusive">1808-1847</unitdate>
+            <abstract id="ref1" label="Abstract">This collection includes ca. 200 letters to and from Harvey's family, concerning Quakers, the Missouri Compromise, slavery, the depression of 1819-1820. There is also a commonplace book (1819-1820, 1821 Aug.), with observations on a balloon ascension of 2 Aug. 1819 from Vauxhall Gardens in England, slavery, Indians, and descriptions of Washington and Baltimore. There are also journals of trips to Niagara Falls and Canada in 1820 and to the American West, from Baltimore to Louisville and back, with an added description of a voyage around Long Island aboard the Robert Fulton in August 1821.</abstract>
+            <langmaterial id="ref10" label="Language of Materials note">Collection is in French, Algonquin, and Iroquois.</langmaterial>
+            <physloc id="ref13" label="Paging">LH-RR-Media Rm-3</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Harvey, Jacob.</persname>
+            </origination>
+        </did>
+        <odd id="ref11">
+            <head>African American History Note</head>
+            <p>For interesting source material on African American history, see correspondence regarding the Missouri Compromise and slavery, and the commonplace book which also contains references to slavery.</p>
+        </odd>
+        <odd id="ref12">
+            <head>Early American History Note</head>
+            <p>This is a microfilm of an early American collection that may be of interest to researchers at the APS and may complement an original manuscript collection at the APS.</p>
+        </odd>
+        <acqinfo id="ref9">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by Daniel M. Feins and accessioned, 1962.</p>
+        </acqinfo>
+        <accessrestrict id="ref7">
+            <head>Conditions Governing Access note</head>
+            <p>Restrictions apply; consult the repository.</p>
+        </accessrestrict>
+        <bioghist id="ref5">
+            <head>Biographical/Historical note</head>
+            <p>Jacob Harvey was a merchant, arriving in New York City ca. 1816. He was the son of Joseph Massey Harvey, who was a member of the Society of Friends in Limerick, Ireland, and was the brother of William Henry Harvey, who was a member of the American Philosophical Society. He married Mary Hosack, the daughter of New York physician David Hosack.</p>
+        </bioghist>
+        <originalsloc id="ref3">
+            <head>Existence and Location of Originals note</head>
+            <p>Originals in possession of Mr. and Mrs. Daniel M. Feins.</p>
+        </originalsloc>
+        <controlaccess>
+            <persname source="ingest">Hosack, David, 1769-1835</persname>
+            <corpname source="ingest">Robert Fulton (Ship).</corpname>
+            <corpname source="ingest">Shakers.</corpname>
+            <subject source="lcsh">Balloons.</subject>
+            <geogname source="lcsh">Baltimore (Md.) -- Description and travel.</geogname>
+            <geogname source="lcsh">Canada--Description and travel.</geogname>
+            <subject source="lcsh">Depressions -- 1819 -- United States.</subject>
+            <genreform source="leah">Microfilm Collection</genreform>
+            <subject source="lcsh">Missouri compromise.</subject>
+            <geogname source="lcsh">Niagara Falls (N.Y. and Ont.) -- Description and travel.</geogname>
+            <subject source="lcsh">Quakers.</subject>
+            <subject source="lcsh">Slavery -- United States.</subject>
+            <subject source="local">Slaves, slavery, slave trade</subject>
+            <subject source="lcsh">Voyages and travels.</subject>
+            <geogname source="lcsh">Washington (D.C.) -- Description and travel.</geogname>
+            <geogname source="lcsh">West (U.S.) -- Description and travel.</geogname>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

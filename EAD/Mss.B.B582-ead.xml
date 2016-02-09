@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.B582-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.B582</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:32-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>S. F. (Sidney Fay) Blake correspondence, ca. 1920s- 1950s</unittitle>
+            <unitid>Mss.B.B582</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1208" type="Box" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>0.5 Linear feet</extent>
+                <extent>250 items.</extent>
+            </physdesc>
+            <unitdate>Circa 1920-1950</unitdate>
+            <abstract id="ref1" label="Abstract">This is professional correspondence concerned primarily with botanical nomenclature. Some of the letters touch on personal matters, and there is also a series with the Texas Research Foundation relative to the disposition of Blake's herbarium. The most substantial correspondence is with Liberty Hyde Bailey, Nathaniel Lord Britton, and Waldo Lee McAtee.</abstract>
+            <physdesc id="ref11" label="General Physical Description note">250 items.</physdesc>
+            <physloc id="ref12" label="Paging">LH-B-13-3</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Blake, S. F.,  (Sidney Fay), 1892-1959</persname>
+            </origination>
+        </did>
+        <bioghist id="ref8">
+            <head>Biographical/Historical note</head>
+            <p>Sidney Fay Blake was a botanist.</p>
+        </bioghist>
+        <controlaccess>
+            <persname rules="aacr" source="naf">Bailey, L.H. (Liberty Hyde), 1858-1954</persname>
+            <persname source="ingest">Britton, Nathaniel Lord, 1859-1934</persname>
+            <persname source="ingest">McAtee, W. L.(Waldo Lee),1883-1962.</persname>
+            <corpname source="ingest">Texas Research Foundation.</corpname>
+            <subject source="lcsh">Botany -- Nomenclature.</subject>
+            <subject source="lcsh">Herbaria -- United States.</subject>
+            <subject source="lcsh">Plants -- Collection and preservation.</subject>
+            <subject source="lcsh">Plants -- Type specimens.</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

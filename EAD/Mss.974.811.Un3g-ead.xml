@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.974.811.Un3q-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.974.811.Un3g</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:28-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="item">
+        <did>
+            <unittitle>Reports on Benjamin Franklin's houses, 1960-1961</unittitle>
+            <unitid>Mss.974.811.Un3g</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1124" type="Volume" label="Manuscripts">1-3</container>
+            <physdesc>
+                <extent>3.0 Volume(s)</extent>
+            </physdesc>
+            <unitdate normal="1960/1961" type="inclusive">1960-1961</unitdate>
+            <abstract id="ref1" label="Abstract">This collection contains two reports on Franklin's house: one prepared in 1960 by M. O. Anderson, John D. R. Platt, and B. Bruce Powell; and the other in 1961 by Dennis C. Kurjack, Martin I. Yoelson, William M. Campbell, and Richard Tyler. There is also a report on Franklin's "tenant houses," prepared by James F. O'Gorman in 1960.</abstract>
+            <physloc id="ref5" label="Paging">LH-MV-E-13 (974.811 Un3g, Un3g.1, Un3g.2)</physloc>
+            <origination label="creator">
+                <corpname source="ingest" role="Author (aut)">Independence National Historical Park (Philadelphia, Pa.)</corpname>
+            </origination>
+        </did>
+        <acqinfo id="ref3">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Gift from U.S. National Park Service and accessioned, 03/--/1961 (1961 367ms). See in-house shelf list for additional sources and accession dates and numbers.</p>
+        </acqinfo>
+        <controlaccess>
+            <persname rules="aacr" source="naf">Anderson, M.O.</persname>
+            <famname source="ingest">Campbell, William M., -- architect.</famname>
+            <persname rules="aacr" source="naf">Franklin, Benjamin, 1706-1790</persname>
+            <persname rules="aacr" source="naf">Kurjack, Dennis C. </persname>
+            <persname rules="aacr" source="naf">O'Gorman, James F</persname>
+            <persname rules="aacr" source="naf">Platt, John David Ronalds, 1922-</persname>
+            <persname rules="aacr" source="local">Powell, B. Bruce</persname>
+            <persname rules="aacr" source="local">Tyler, Richard</persname>
+            <persname rules="aacr" source="local">Yoelson, Martin I</persname>
+            <subject source="lcsh">Historic sites -- Pennsylvania.</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

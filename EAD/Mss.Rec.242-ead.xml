@@ -1,0 +1,1350 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Rec.242-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Rec.242</num>
+                    <num>Mss.Rec.242</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Brian Carpenter</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+                <date>11-2010</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T21:14-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Ghost Dance-era Songs of the Arapaho Crow Dance</unittitle>
+            <unitid>Mss.Rec.242</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="arp"/>
+            </langmaterial>
+            <physdesc>
+                <extent>5.0 Tape(s)</extent>
+            </physdesc>
+            <unitdate>1995</unitdate>
+            <abstract id="ref3" label="Abstract">Linguistic and cultural fieldwork about songs associated with the Crow Dance of the Northern Arapaho and its relation to the Ghost Dance and other tribes' dances. Consists of linguistic and cultural analysis and transcription of 16 pre-recorded songs sung by Fred Gone, Sr. an with Arapaho consultant, William C'Hair. Also includes extensive discussion of Arapaho customs and ceremonies. Recorded in Arapahoe, Wyoming on 18 July 1995.</abstract>
+            <physdesc id="ref2" label="General Physical Description note">5 sound tape reels (4 hr., 44 min.) : analog, 3 3/4 ips, half track, mono ; 7 in.</physdesc>
+            <physloc id="ref146" label="Paging">LH-B-32-5</physloc>
+            <origination label="creator">
+                <persname rules="dacs" source="local">C'Hair, Wayne</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="dacs" source="ingest">C'Hair, William</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest">Gone, Fred, Sr.</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Hatton, Orin T.</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest">Taylor, Allan R. (Allan Ross), 1931-</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref4">
+            <head>Immediate Source of Acquisition</head>
+            <p>Presented by Orrin Hatton. This material was recorded with the assistance of a Phillips Fund grant.</p>
+        </acqinfo>
+        <relatedmaterial id="ref5">
+            <head>Related Archival Materials</head>
+            <p>Project report, correspondence among researchers and consultant, song texts with notes, song transcriptions, subject index and finding aid to interview tapes, transcript of tape 1, and various linguistic and melodic analyses can be found in the 
+                <extref ns2:actuate="onLoad" ns2:show="new" ns2:href="http://www.amphilsoc.org/mole/view?docId=ead/Mss.497.3.Am4-ead.xml">Phillips Fund Collection</extref> (Mss.497.3.Am4).</p>
+        </relatedmaterial>
+        <controlaccess>
+            <subject source="lcsh">Arapaho dance</subject>
+            <subject source="lcsh">Arapaho Indians--Music</subject>
+            <subject source="lcsh">Arapaho Indians--Rites and ceremonies</subject>
+            <subject source="lcsh">Arapaho Indians--Social life and customs</subject>
+            <subject source="lcsh">Arapaho language</subject>
+            <subject source="lcsh">Ghost dance</subject>
+            <genreform source="ingest">Sound recordings</genreform>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref6" level="series">
+                <did>
+                    <unittitle>Audio recordings</unittitle>
+                </did>
+                <c02 id="ref7" level="file">
+                    <did>
+                        <unittitle>Introductory remarks and discussion of songs</unittitle>
+                        <unitid>01-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1995-07-18</unitdate>
+                        <physdesc id="ref8" label="General Physical Description note">
+                            <extent>00:29:37</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">C'Hair, Wayne</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">C'Hair, William James</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hatton, Orin T., 1953-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Taylor, Allan R. (Allan Ross), 1931-</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref9">
+                        <head>Scope and Contents note</head>
+                        <p>"Opening discussion about translation of 'my children' and use in song, singular or plural. Introductions. Discussion of the order of song performance (tape collection has a random order). Description of the Gone songs and their use (not ceremonial songs). Discussion about notation of Arapaho language in IPA. C'Hair is conversant in linguistic notation, accustomed to writing his language and working as a linguistic and cultural consultant. Discussion of songtexts; compression of words in songs."</p>
+                    </scopecontent>
+                    <originalsloc id="ref11">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3332" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:2933">
+                        <daodesc>
+                            <p>APSdigrec_3332</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Arapaho dance</subject>
+                        <subject source="lcsh">Arapaho Indians--Music</subject>
+                        <subject source="lcsh">Arapaho language</subject>
+                        <geogname source="ingest">Arapahoe (Wyo.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref12" level="file">
+                    <did>
+                        <unittitle>Song #1, with discussion</unittitle>
+                        <unitid>01-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1995-07-18</unitdate>
+                        <physdesc id="ref13" label="General Physical Description note">
+                            <extent>00:28:07</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">C'Hair, Wayne</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">C'Hair, William James</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Gone, Fred P.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hatton, Orin T., 1953-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Taylor, Allan R. (Allan Ross), 1931-</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref14">
+                        <head>Scope and Contents note</head>
+                        <p>"Play tape of [Fred] Gone singing song #1. [3:05 - 6:50] Discussion follows: Arapaho text, notation, and English translation; 'day of wind'. Irrelevant discussion of Indian word for St. Louis and reference to Mexicans or Spaniards as 'bread people.' Discussion of misappropriation of term 'Crow Dance' for the 'Dance of God'; language used in prayers; Jack Wilson (Wovoka) and Ghost Dance; origins of 'Dance of God' from the Sioux people; Omaha dance from the Omaha people (wolf people), 'Wolf Dance'; Rabbit Dance and Owl Dance."</p>
+                    </scopecontent>
+                    <originalsloc id="ref16">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3333" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:2928">
+                        <daodesc>
+                            <p>APSdigrec_3333</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Arapaho dance</subject>
+                        <subject source="lcsh">Arapaho Indians--Music</subject>
+                        <subject source="lcsh">Arapaho language</subject>
+                        <geogname source="ingest">Arapahoe (Wyo.)</geogname>
+                        <subject source="ingest">Omaha dance</subject>
+                        <subject source="ingest">Sioux dance</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref17" level="file">
+                    <did>
+                        <unittitle>Discussion of the transcripton of Song #1</unittitle>
+                        <unitid>02-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1995-07-18</unitdate>
+                        <physdesc id="ref18" label="General Physical Description note">
+                            <extent>00:04:56</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">C'Hair, Wayne</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">C'Hair, William James</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hatton, Orin T., 1953-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Taylor, Allan R. (Allan Ross), 1931-</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref19">
+                        <head>Scope and Contents note</head>
+                        <p>"Discussion of song text transcription; clarification of nature of songs in Gone/Taylor collection (significance to Arapaho people)."</p>
+                    </scopecontent>
+                    <originalsloc id="ref21">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3334" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:2931">
+                        <daodesc>
+                            <p>APSdigrec_3334</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Arapaho dance</subject>
+                        <subject source="lcsh">Arapaho Indians--Music</subject>
+                        <subject source="lcsh">Arapaho language</subject>
+                        <geogname source="ingest">Arapahoe (Wyo.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref22" level="file">
+                    <did>
+                        <unittitle>Song #2, with discussion</unittitle>
+                        <unitid>02-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1995-07-18</unitdate>
+                        <physdesc id="ref23" label="General Physical Description note">
+                            <extent>00:10:56</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">C'Hair, Wayne</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">C'Hair, William James</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Gone, Fred P.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hatton, Orin T., 1953-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Taylor, Allan R. (Allan Ross), 1931-</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref24">
+                        <head>Scope and Contents note</head>
+                        <p>"Play tape of [Fred] Gone singing song #2. Further discussion of use of singular and plural; song compression issue; text: 'where the water runs out' or 'real wooden dishes'?"</p>
+                    </scopecontent>
+                    <originalsloc id="ref26">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3335" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:2932">
+                        <daodesc>
+                            <p>APSdigrec_3335</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Arapaho dance</subject>
+                        <subject source="lcsh">Arapaho Indians--Music</subject>
+                        <subject source="lcsh">Arapaho language</subject>
+                        <geogname source="ingest">Arapahoe (Wyo.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref27" level="file">
+                    <did>
+                        <unittitle>Song #3, The Bow Song, with discussion</unittitle>
+                        <unitid>02-03</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1995-07-18</unitdate>
+                        <physdesc id="ref28" label="General Physical Description note">
+                            <extent>00:10:26</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">C'Hair, Wayne</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">C'Hair, William James</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Gone, Fred P.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hatton, Orin T., 1953-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Taylor, Allan R. (Allan Ross), 1931-</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref29">
+                        <head>Scope and Contents note</head>
+                        <p>"Play tape of [Fred] Gone singing song #3. Pronunciation of words to facilitate pitch notation. The Bow Song; the singer is emulating thunder, drumming upon the earth; discussion of wearing bow and plume."</p>
+                    </scopecontent>
+                    <originalsloc id="ref31">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3336" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:2929">
+                        <daodesc>
+                            <p>APSdigrec_3336</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Arapaho dance</subject>
+                        <subject source="ingest">Arapaho Indians--Clothing &amp; dress</subject>
+                        <subject source="lcsh">Arapaho Indians--Music</subject>
+                        <subject source="lcsh">Arapaho language</subject>
+                        <geogname source="ingest">Arapahoe (Wyo.)</geogname>
+                        <subject source="ingest">dress</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref32" level="file">
+                    <did>
+                        <unittitle>Song #4, with discussion</unittitle>
+                        <unitid>02-04</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1995-07-18</unitdate>
+                        <physdesc id="ref33" label="General Physical Description note">
+                            <extent>00:04:40</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">C'Hair, Wayne</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">C'Hair, William James</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Gone, Fred P.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hatton, Orin T., 1953-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Taylor, Allan R. (Allan Ross), 1931-</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref34">
+                        <head>Scope and Contents note</head>
+                        <p>"Play tape of [Fred] Gone singing song #4. Discussion of verb meaning to roar like thunder."</p>
+                    </scopecontent>
+                    <originalsloc id="ref36">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3337" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:2930">
+                        <daodesc>
+                            <p>APSdigrec_3337</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Arapaho dance</subject>
+                        <subject source="lcsh">Arapaho Indians--Music</subject>
+                        <subject source="lcsh">Arapaho language</subject>
+                        <geogname source="ingest">Arapahoe (Wyo.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref37" level="file">
+                    <did>
+                        <unittitle>Continuing discussion of Song #4</unittitle>
+                        <unitid>02-05</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1995-07-18</unitdate>
+                        <physdesc id="ref38" label="General Physical Description note">
+                            <extent>00:17:19</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">C'Hair, Wayne</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">C'Hair, William James</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hatton, Orin T., 1953-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Taylor, Allan R. (Allan Ross), 1931-</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref39">
+                        <head>Scope and Contents note</head>
+                        <p>"Discussion of fitting words to melody; origin of term 'push up' for introductory phrases in powwow songs; singing instructions; attempts to elicit song terminology; singers are 'eagles' or keepers of songs."</p>
+                    </scopecontent>
+                    <originalsloc id="ref41">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3338" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:2938">
+                        <daodesc>
+                            <p>APSdigrec_3338</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Arapaho dance</subject>
+                        <subject source="lcsh">Arapaho Indians--Music</subject>
+                        <subject source="lcsh">Arapaho language</subject>
+                        <geogname source="ingest">Arapahoe (Wyo.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref42" level="file">
+                    <did>
+                        <unittitle>Song #5, with discussion</unittitle>
+                        <unitid>02-06</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1995-07-18</unitdate>
+                        <physdesc id="ref43" label="General Physical Description note">
+                            <extent>00:06:51</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">C'Hair, Wayne</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">C'Hair, William James</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Gone, Fred P.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hatton, Orin T., 1953-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Taylor, Allan R. (Allan Ross), 1931-</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref44">
+                        <head>Scope and Contents note</head>
+                        <p>"Play tape of [Fred] Gone singing song #5. Comparison of Gros Ventre and Arapaho pronunciation; discussion of words excluding speaker and person to."</p>
+                    </scopecontent>
+                    <originalsloc id="ref46">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3339" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:2939">
+                        <daodesc>
+                            <p>APSdigrec_3339</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Arapaho dance</subject>
+                        <subject source="lcsh">Arapaho Indians--Music</subject>
+                        <subject source="lcsh">Arapaho language</subject>
+                        <geogname source="ingest">Arapahoe (Wyo.)</geogname>
+                        <subject source="ingest">Atsina language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref47" level="file">
+                    <did>
+                        <unittitle>Song #6, with discussion</unittitle>
+                        <unitid>02-07</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1995-07-18</unitdate>
+                        <physdesc id="ref48" label="General Physical Description note">
+                            <extent>00:05:50</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">C'Hair, Wayne</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">C'Hair, William James</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Gone, Fred P.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hatton, Orin T., 1953-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Taylor, Allan R. (Allan Ross), 1931-</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref49">
+                        <head>Scope and Contents note</head>
+                        <p>"Play tape of [Fred] Gone singing song #6. Discussion of additions and compression of text to fit melody of song; mention of old tape of Gros Ventre speaking by Robert Mount."</p>
+                    </scopecontent>
+                    <originalsloc id="ref51">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3340" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:2940">
+                        <daodesc>
+                            <p>APSdigrec_3340</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Arapaho dance</subject>
+                        <subject source="lcsh">Arapaho Indians--Music</subject>
+                        <subject source="lcsh">Arapaho language</subject>
+                        <geogname source="ingest">Arapahoe (Wyo.)</geogname>
+                        <subject source="ingest">Atsina language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref52" level="file">
+                    <did>
+                        <unittitle>Continued discussion of Song #6</unittitle>
+                        <unitid>03-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1995-07-18</unitdate>
+                        <physdesc id="ref53" label="General Physical Description note">
+                            <extent>00:02:15</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">C'Hair, Wayne</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">C'Hair, William James</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hatton, Orin T., 1953-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Taylor, Allan R. (Allan Ross), 1931-</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref54">
+                        <head>Scope and Contents note</head>
+                        <p>"Further discussion of song #6; significance of context to facilitate understanding of text."</p>
+                    </scopecontent>
+                    <originalsloc id="ref56">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3341" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:2937">
+                        <daodesc>
+                            <p>APSdigrec_3341</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Arapaho dance</subject>
+                        <subject source="lcsh">Arapaho Indians--Music</subject>
+                        <subject source="lcsh">Arapaho language</subject>
+                        <geogname source="ingest">Arapahoe (Wyo.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref57" level="file">
+                    <did>
+                        <unittitle>Song #7, The Spoon Song, with discussion</unittitle>
+                        <unitid>03-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1995-07-18</unitdate>
+                        <physdesc id="ref58" label="General Physical Description note">
+                            <extent>00:10:46</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">C'Hair, Wayne</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">C'Hair, William James</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Gone, Fred P.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hatton, Orin T., 1953-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Taylor, Allan R. (Allan Ross), 1931-</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref59">
+                        <head>Scope and Contents note</head>
+                        <p>"Play tape of [Fred] Gone singing song #7. The Spoon Song. Replacement of initial glottal stop with an /h/ and subsequent change in meaning; description of spoon made of buffalo horn with quillwork decorations (this is paraphrenalia from 'dance of god'; discussion of other ritual paraphrenalia--whistle, bowl, quirt, spear, fork stick, spoon, kingfisher."</p>
+                    </scopecontent>
+                    <originalsloc id="ref61">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3342" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:2942">
+                        <daodesc>
+                            <p>APSdigrec_3342</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Arapaho dance</subject>
+                        <subject source="ingest">Arapaho Indians--Clothing &amp; dress</subject>
+                        <subject source="lcsh">Arapaho Indians--Music</subject>
+                        <subject source="lcsh">Arapaho language</subject>
+                        <geogname source="ingest">Arapahoe (Wyo.)</geogname>
+                        <subject source="ingest">dress</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref62" level="file">
+                    <did>
+                        <unittitle>Song #8, Song for the Keeper of the Bow, with discussion</unittitle>
+                        <unitid>03-03</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1995-07-18</unitdate>
+                        <physdesc id="ref63" label="General Physical Description note">
+                            <extent>00:06:44</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">C'Hair, Wayne</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">C'Hair, William James</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Gone, Fred P.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hatton, Orin T., 1953-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Taylor, Allan R. (Allan Ross), 1931-</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref64">
+                        <head>Scope and Contents note</head>
+                        <p>"Play tape of [Fred] Gone singing song #8. Song for the Keeper of the Bow. Discussion of song text and transcription; launching vowel."</p>
+                    </scopecontent>
+                    <originalsloc id="ref66">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3343" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:2943">
+                        <daodesc>
+                            <p>APSdigrec_3343</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Arapaho dance</subject>
+                        <subject source="lcsh">Arapaho Indians--Music</subject>
+                        <subject source="lcsh">Arapaho language</subject>
+                        <geogname source="ingest">Arapahoe (Wyo.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref67" level="file">
+                    <did>
+                        <unittitle>Song #9, with discussion</unittitle>
+                        <unitid>03-04</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1995-07-18</unitdate>
+                        <physdesc id="ref68" label="General Physical Description note">
+                            <extent>00:10:44</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">C'Hair, Wayne</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">C'Hair, William James</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Gone, Fred P.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hatton, Orin T., 1953-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Taylor, Allan R. (Allan Ross), 1931-</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref69">
+                        <head>Scope and Contents note</head>
+                        <p>"Play tape of [Fred] Gone singing song #9. Gros Ventre text; song goes with the paint ceremony; discussion of singular and plural usage; red paint; mourning customs."</p>
+                    </scopecontent>
+                    <originalsloc id="ref71">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3344" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:2935">
+                        <daodesc>
+                            <p>APSdigrec_3344</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Arapaho dance</subject>
+                        <subject source="lcsh">Arapaho Indians--Music</subject>
+                        <subject source="lcsh">Arapaho Indians--Rites and ceremonies</subject>
+                        <subject source="lcsh">Arapaho language</subject>
+                        <geogname source="ingest">Arapahoe (Wyo.)</geogname>
+                        <subject source="ingest">Atsina language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref72" level="file">
+                    <did>
+                        <unittitle>Song #10, Buffalo Chaser Song, with discussion</unittitle>
+                        <unitid>03-05</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1995-07-18</unitdate>
+                        <physdesc id="ref73" label="General Physical Description note">
+                            <extent>00:26:26</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">C'Hair, Wayne</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">C'Hair, William James</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Gone, Fred P.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hatton, Orin T., 1953-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Taylor, Allan R. (Allan Ross), 1931-</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref74">
+                        <head>Scope and Contents note</head>
+                        <p>"Discussion of getting together for follow up. Play tape of [Fred] Gone singing song #10. Buffalo Chaser Song. Extensive discussion of song text, apparent meaning; discussion of transcription(s); speculation on meaning of songtext."</p>
+                    </scopecontent>
+                    <originalsloc id="ref76">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3345" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:2941">
+                        <daodesc>
+                            <p>APSdigrec_3345</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Arapaho dance</subject>
+                        <subject source="lcsh">Arapaho Indians--Music</subject>
+                        <subject source="lcsh">Arapaho language</subject>
+                        <geogname source="ingest">Arapahoe (Wyo.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref77" level="file">
+                    <did>
+                        <unittitle>Song #11, Song for the Whistle Carrier</unittitle>
+                        <unitid>03-06</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1995-07-18</unitdate>
+                        <physdesc id="ref78" label="General Physical Description note">
+                            <extent>00:02:28</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">C'Hair, Wayne</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">C'Hair, William James</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Gone, Fred P.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hatton, Orin T., 1953-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Taylor, Allan R. (Allan Ross), 1931-</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref79">
+                        <head>Scope and Contents note</head>
+                        <p>"Play tape of [Fred] Gone singing song #11. Song for the Whistle Carrier."</p>
+                    </scopecontent>
+                    <originalsloc id="ref81">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3346" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:2936">
+                        <daodesc>
+                            <p>APSdigrec_3346</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Arapaho dance</subject>
+                        <subject source="lcsh">Arapaho Indians--Music</subject>
+                        <subject source="lcsh">Arapaho language</subject>
+                        <geogname source="ingest">Arapahoe (Wyo.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref82" level="file">
+                    <did>
+                        <unittitle>Discussion of Song #11, Song for the Whistle Carrier</unittitle>
+                        <unitid>04-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1995-07-18</unitdate>
+                        <physdesc id="ref83" label="General Physical Description note">
+                            <extent>00:06:34</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">C'Hair, Wayne</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">C'Hair, William James</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hatton, Orin T., 1953-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Taylor, Allan R. (Allan Ross), 1931-</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref84">
+                        <head>Scope and Contents note</head>
+                        <p>"Discussion of song #11; discussion of text and transcription."</p>
+                    </scopecontent>
+                    <originalsloc id="ref86">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3347" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:2947">
+                        <daodesc>
+                            <p>APSdigrec_3347</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Arapaho dance</subject>
+                        <subject source="lcsh">Arapaho Indians--Music</subject>
+                        <subject source="lcsh">Arapaho language</subject>
+                        <geogname source="ingest">Arapahoe (Wyo.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref87" level="file">
+                    <did>
+                        <unittitle>Song #12, Second song for the Whistle Carrier, 'I am also a magpie,' with discussion</unittitle>
+                        <unitid>04-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1995-07-18</unitdate>
+                        <physdesc id="ref88" label="General Physical Description note">
+                            <extent>00:19:06</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">C'Hair, Wayne</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">C'Hair, William James</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Gone, Fred P.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hatton, Orin T., 1953-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Taylor, Allan R. (Allan Ross), 1931-</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref89">
+                        <head>Scope and Contents note</head>
+                        <p>"Play tape of [Fred] Gone singing song #12. Second song for the Whistle Carrier; Carrier dances to this song. 'I am also a magpie'; discussion of pronunciation; discussion of magpie's special attributes; discussion of cardinal versus red-tailed hawk; discussion of circumstances that might precipitate a vow leading to sponsorship of ceremony."</p>
+                    </scopecontent>
+                    <originalsloc id="ref91">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3348" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:2946">
+                        <daodesc>
+                            <p>APSdigrec_3348</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Arapaho dance</subject>
+                        <subject source="lcsh">Arapaho Indians--Music</subject>
+                        <subject source="lcsh">Arapaho Indians--Rites and ceremonies</subject>
+                        <subject source="lcsh">Arapaho language</subject>
+                        <geogname source="ingest">Arapahoe (Wyo.)</geogname>
+                        <subject source="ingest">Black-billed magpie</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref92" level="file">
+                    <did>
+                        <unittitle>Discussion of sacrifice of pup and Crow Dance</unittitle>
+                        <unitid>04-03</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1995-07-18</unitdate>
+                        <physdesc id="ref93" label="General Physical Description note">
+                            <extent>00:04:45</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">C'Hair, Wayne</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">C'Hair, William James</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hatton, Orin T., 1953-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Taylor, Allan R. (Allan Ross), 1931-</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref94">
+                        <head>Scope and Contents note</head>
+                        <p>"[D]iscussion of preparations for cooking a pup in ceremony; participation of Eagle Society in ceremony; whip man and Black Bird Dance."</p>
+                    </scopecontent>
+                    <originalsloc id="ref96">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3349" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:2951">
+                        <daodesc>
+                            <p>APSdigrec_3349</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Animal sacrifice</subject>
+                        <subject source="lcsh">Arapaho Indians--Rites and ceremonies</subject>
+                        <geogname source="ingest">Arapahoe (Wyo.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref97" level="file">
+                    <did>
+                        <unittitle>Discussion of whip dance, sacrifice of pup, and Eagle Society</unittitle>
+                        <unitid>04-04</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1995-07-18</unitdate>
+                        <physdesc id="ref98" label="General Physical Description note">
+                            <extent>00:17:31</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">C'Hair, Wayne</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">C'Hair, William James</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hatton, Orin T., 1953-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Taylor, Allan R. (Allan Ross), 1931-</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref99">
+                        <head>Scope and Contents note</head>
+                        <p>"Further discussion of whip dance, bustle dance and sacrifice of pup; discussion of human sacrifice and cannibalism; more on eating pup. Questions for consultant attempting to clarify points relative to sacrifice of pup; no real parallels with Assiniboine Kettle Drum ritual; pup is sacred food, but not the same significane up north; discussion of songs and Fred Gone. Discussion of Ronald Lah's work with Arapaho music; further comparison with Assiniboine Kettle Dance; participation of Eagle Society; whip man's responsibilities in old days and today."</p>
+                    </scopecontent>
+                    <originalsloc id="ref101">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3350" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:2949">
+                        <daodesc>
+                            <p>APSdigrec_3350</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Animal sacrifice</subject>
+                        <subject source="lcsh">Arapaho dance</subject>
+                        <subject source="lcsh">Arapaho Indians--Music</subject>
+                        <subject source="lcsh">Arapaho Indians--Social life and customs</subject>
+                        <geogname source="ingest">Arapahoe (Wyo.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref102" level="file">
+                    <did>
+                        <unittitle>Song #13, "Whirlwind song--'that is my flag,'" with discussion</unittitle>
+                        <unitid>04-05</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1995-07-18</unitdate>
+                        <physdesc id="ref103" label="General Physical Description note">
+                            <extent>00:06:30</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">C'Hair, Wayne</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">C'Hair, William James</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Gone, Fred P.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hatton, Orin T., 1953-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Taylor, Allan R. (Allan Ross), 1931-</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref104">
+                        <head>Scope and Contents note</head>
+                        <p>"Play tape of [Fred] Gone singing song #13. 'Whirlwind song--'that is my flag'. Probably not a song to dance to; discussion of text and pronunciation."</p>
+                    </scopecontent>
+                    <originalsloc id="ref106">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3351" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:2948">
+                        <daodesc>
+                            <p>APSdigrec_3351</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Arapaho dance</subject>
+                        <subject source="lcsh">Arapaho Indians--Music</subject>
+                        <subject source="lcsh">Arapaho language</subject>
+                        <geogname source="ingest">Arapahoe (Wyo.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref107" level="file">
+                    <did>
+                        <unittitle>Song #14, "I fly around the sky," with discussion</unittitle>
+                        <unitid>04-06</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1995-07-18</unitdate>
+                        <physdesc id="ref108" label="General Physical Description note">
+                            <extent>00:03:14</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">C'Hair, Wayne</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">C'Hair, William James</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Gone, Fred P.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hatton, Orin T., 1953-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Taylor, Allan R. (Allan Ross), 1931-</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref109">
+                        <head>Scope and Contents note</head>
+                        <p>"Play tape of [Fred] Gone singing song #14. Song--'I fly around the sky'; a good traditional dance song; you are the eagle, the spirit of the eagle."</p>
+                    </scopecontent>
+                    <originalsloc id="ref111">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3352" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:2950">
+                        <daodesc>
+                            <p>APSdigrec_3352</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Arapaho dance</subject>
+                        <subject source="lcsh">Arapaho Indians--Music</subject>
+                        <subject source="lcsh">Arapaho language</subject>
+                        <geogname source="ingest">Arapahoe (Wyo.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref112" level="file">
+                    <did>
+                        <unittitle>Song #15, with discussion</unittitle>
+                        <unitid>05-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1995-07-18</unitdate>
+                        <physdesc id="ref113" label="General Physical Description note">
+                            <extent>00:09:17</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">C'Hair, Wayne</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">C'Hair, William James</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Gone, Fred P.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hatton, Orin T., 1953-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Taylor, Allan R. (Allan Ross), 1931-</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref114">
+                        <head>Scope and Contents note</head>
+                        <p>"Play tape of [Fred] Gone singing song #15. Discussion of song text and pronunciation, transcription; preparation of paint; discussion of colors and paints; other consultants for certain topics."</p>
+                    </scopecontent>
+                    <originalsloc id="ref116">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3353" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:2959">
+                        <daodesc>
+                            <p>APSdigrec_3353</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Arapaho dance</subject>
+                        <subject source="lcsh">Arapaho Indians--Music</subject>
+                        <subject source="lcsh">Arapaho language</subject>
+                        <geogname source="ingest">Arapahoe (Wyo.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref117" level="file">
+                    <did>
+                        <unittitle>Song #16, with discussion</unittitle>
+                        <unitid>05-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1995-07-18</unitdate>
+                        <physdesc id="ref118" label="General Physical Description note">
+                            <extent>00:12:06</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">C'Hair, Wayne</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">C'Hair, William James</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Gone, Fred P.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hatton, Orin T., 1953-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Taylor, Allan R. (Allan Ross), 1931-</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref119">
+                        <head>Scope and Contents note</head>
+                        <p>"Play tape of [Fred] Gone singing song #16. Discussion of song text and pronunciation; pitches; switches for what Gone thought to be correct Arapaho; word boundaries; red clouds and 'where I fly'; discussion of terminology for various snow conditions."</p>
+                    </scopecontent>
+                    <originalsloc id="ref121">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3354" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:2953">
+                        <daodesc>
+                            <p>APSdigrec_3354</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Arapaho dance</subject>
+                        <subject source="lcsh">Arapaho Indians--Music</subject>
+                        <subject source="lcsh">Arapaho language</subject>
+                        <geogname source="ingest">Arapahoe (Wyo.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref122" level="file">
+                    <did>
+                        <unittitle>Discussion of the origins of Ghost Dance and Crow Dance</unittitle>
+                        <unitid>05-03</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1995-07-18</unitdate>
+                        <physdesc id="ref123" label="General Physical Description note">
+                            <extent>00:09:19</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">C'Hair, Wayne</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">C'Hair, William James</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hatton, Orin T., 1953-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Taylor, Allan R. (Allan Ross), 1931-</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref124">
+                        <head>Scope and Contents note</head>
+                        <p>"Discussion of origins of Ghost Dance, Crow Dance, and significance/role of Yellow Calf to these ceremonies. Discussion of families associated with paraphrenalia used in 'dance of god' ceremony."</p>
+                    </scopecontent>
+                    <originalsloc id="ref126">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3355" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:2955">
+                        <daodesc>
+                            <p>APSdigrec_3355</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Arapaho dance</subject>
+                        <subject source="lcsh">Arapaho Indians--Music</subject>
+                        <geogname source="ingest">Arapahoe (Wyo.)</geogname>
+                        <subject source="lcsh">Ghost dance</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref127" level="file">
+                    <did>
+                        <unittitle>Discussion of reservation districts, ceremony staging and naming, and names for Pawnee and Omaha people</unittitle>
+                        <unitid>05-04</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1995-07-18</unitdate>
+                        <physdesc id="ref128" label="General Physical Description note">
+                            <extent>00:06:29</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">C'Hair, Wayne</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">C'Hair, William James</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hatton, Orin T., 1953-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Taylor, Allan R. (Allan Ross), 1931-</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref129">
+                        <head>Scope and Contents note</head>
+                        <p>"Discussion of reservation districts; possibility of staging the ceremony this fall/winter; difficulty of changing the name of the ceremony at this late date; names for Pawnee and Omaha people."</p>
+                    </scopecontent>
+                    <originalsloc id="ref131">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3356" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:2958">
+                        <daodesc>
+                            <p>APSdigrec_3356</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Arapaho dance</subject>
+                        <subject source="lcsh">Arapaho Indians--Rites and ceremonies</subject>
+                        <subject source="lcsh">Arapaho Indians--Social life and customs</subject>
+                        <geogname source="ingest">Arapahoe (Wyo.)</geogname>
+                        <subject source="lcsh">Omaha Indians</subject>
+                        <subject source="lcsh">Pawnee Indians</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref132" level="file">
+                    <did>
+                        <unittitle>Discussion of feather bustle construction</unittitle>
+                        <unitid>05-05</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1995-07-18</unitdate>
+                        <physdesc id="ref133" label="General Physical Description note">
+                            <extent>00:06:14</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">C'Hair, Wayne</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">C'Hair, William James</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hatton, Orin T., 1953-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Taylor, Allan R. (Allan Ross), 1931-</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref135">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3357" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:2957">
+                        <daodesc>
+                            <p>APSdigrec_3357</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Arapaho dance</subject>
+                        <subject source="ingest">Arapaho Indians--Clothing &amp; dress</subject>
+                        <subject source="lcsh">Arapaho Indians--Rites and ceremonies</subject>
+                        <geogname source="ingest">Arapahoe (Wyo.)</geogname>
+                        <subject source="ingest">dress</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref136" level="file">
+                    <did>
+                        <unittitle>Discussion of significance of dance to Indian people</unittitle>
+                        <unitid>05-06</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1995-07-18</unitdate>
+                        <physdesc id="ref137" label="General Physical Description note">
+                            <extent>00:01:21</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">C'Hair, Wayne</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">C'Hair, William James</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hatton, Orin T., 1953-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Taylor, Allan R. (Allan Ross), 1931-</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref138">
+                        <head>Scope and Contents note</head>
+                        <p>"[N]o such thing as war dance."</p>
+                    </scopecontent>
+                    <originalsloc id="ref140">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3358" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:2954">
+                        <daodesc>
+                            <p>APSdigrec_3358</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Arapaho dance</subject>
+                        <geogname source="ingest">Arapahoe (Wyo.)</geogname>
+                        <subject source="ingest">Indians of North America--Dance</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref141" level="file">
+                    <did>
+                        <unittitle>Discussion of the order and purpose of the songs</unittitle>
+                        <unitid>05-07</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1995-07-18</unitdate>
+                        <physdesc id="ref142" label="General Physical Description note">
+                            <extent>00:02:48</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">C'Hair, Wayne</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">C'Hair, William James</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Hatton, Orin T., 1953-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Taylor, Allan R. (Allan Ross), 1931-</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref143">
+                        <head>Scope and Contents note</head>
+                        <p>"[William] C'Hair says these were fun sessions; songs cannot be put in order--not the ritual songs; these are honor songs for the keepers of the ritual paraphrenalia, and educational songs (i.e. the song they use when they honor the person that has the bow)."</p>
+                    </scopecontent>
+                    <originalsloc id="ref145">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3359" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:2956">
+                        <daodesc>
+                            <p>APSdigrec_3359</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Arapaho dance</subject>
+                        <subject source="lcsh">Arapaho Indians--Social life and customs</subject>
+                        <geogname source="ingest">Arapahoe (Wyo.)</geogname>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Rec.9</num>
+                    <num>Mss.Rec.9</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Brian Carpenter</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+                <date>2010</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T21:19-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Tuscarora Indian Material</unittitle>
+            <unitid>Mss.Rec.9</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="iro"/>
+            </langmaterial>
+            <physdesc>
+                <extent>6.0 Reel(s)</extent>
+            </physdesc>
+            <unitdate normal="1950/1951" type="inclusive">1950-1951</unitdate>
+            <abstract id="ref3" label="Abstract">Recorded at the Tuscarora Reservation in Niagara County, New York from December 1950 to January 1951. Consists of Tuscarora vocabulary, paradigms, and stories regarding tribal history told in Tuscarora only.</abstract>
+            <physdesc id="ref2" label="General Physical Description note">6 sound tape reels (3 hr., 14 min.) : analog, 7 1/2 ips, 2 track, mono ; 7 in.</physdesc>
+            <physloc id="ref57" label="Paging">LH-B-32-1</physloc>
+            <origination label="creator">
+                <persname source="ingest">Johnson, Art</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Reyburn, William D.</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest">Rickard, Clinton, 1882-1971</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref4">
+            <head>Immediate Source of Acquisition</head>
+            <p>Donated by William Reyburn in 1951. This material was recorded with the assistance of a Phillips Fund grant.</p>
+        </acqinfo>
+        <relatedmaterial id="ref5">
+            <head>Related Materials</head>
+            <p>Translations and transcriptions can be found in the 
+                <extref ns2:actuate="onLoad" ns2:show="new" ns2:href="http://www.amphilsoc.org/mole/view?docId=ead/Mss.497.3.B63c-ead.xml">Franz Boas Collection of Materials for American Linguistics collection</extref> (Mss.497.3.B63c).</p>
+        </relatedmaterial>
+        <controlaccess>
+            <subject source="lcsh">Indian Defense League of America</subject>
+            <subject source="lcsh">Indians of North America--Migrations</subject>
+            <subject source="lcsh">Migration, Internal--United States--History--19th century</subject>
+            <subject source="lcsh">Military service, Voluntary--United States</subject>
+            <subject source="lcsh">Six Nations--History</subject>
+            <genreform source="ingest">Sound recordings</genreform>
+            <subject source="lcsh">Tuscarora Indians--History</subject>
+            <subject source="lcsh">Tuscarora language </subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref6" level="series">
+                <did>
+                    <unittitle>Audio recordings</unittitle>
+                </did>
+                <c02 id="ref7" level="file">
+                    <did>
+                        <unittitle>Tuscarora vocabulary</unittitle>
+                        <unitid>01-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1950-12-24</unitdate>
+                        <physdesc id="ref8" label="General Physical Description note">
+                            <extent>00:32:15</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Johnson, Arthur</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Reyburn, William D.</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref10">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0265" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:4142">
+                        <daodesc>
+                            <p>APSdigrec_0265</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Tuscarora language </subject>
+                        <geogname source="ingest">Tuscarora Nation Reservation (N.Y.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref11" level="file">
+                    <did>
+                        <unittitle>Tuscarora vocabulary and paradigms [1 of 4]</unittitle>
+                        <unitid>02-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1950-12-27</unitdate>
+                        <physdesc id="ref12" label="General Physical Description note">
+                            <extent>00:33:19</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Reyburn, William D.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Rickard, Clinton, 1882-1971</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref14">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0266" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:4135">
+                        <daodesc>
+                            <p>APSdigrec_0266</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Tuscarora language </subject>
+                        <geogname source="ingest">Tuscarora Nation Reservation (N.Y.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref15" level="file">
+                    <did>
+                        <unittitle>Tuscarora vocabulary and paradigms [2 of 4]</unittitle>
+                        <unitid>03-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1950-12-27</unitdate>
+                        <physdesc id="ref16" label="General Physical Description note">
+                            <extent>00:33:23</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Reyburn, William D.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Rickard, Clinton, 1882-1971</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref18">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0267" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:4132">
+                        <daodesc>
+                            <p>APSdigrec_0267</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Tuscarora language </subject>
+                        <geogname source="ingest">Tuscarora Nation Reservation (N.Y.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref19" level="file">
+                    <did>
+                        <unittitle>Tuscarora vocabulary and paradigms [3 of 4]</unittitle>
+                        <unitid>04-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1951-01-01</unitdate>
+                        <physdesc id="ref20" label="General Physical Description note">
+                            <extent>00:28:20</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Reyburn, William D.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Rickard, Clinton, 1882-1971</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref22">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0268" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:4136">
+                        <daodesc>
+                            <p>APSdigrec_0268</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Tuscarora language </subject>
+                        <geogname source="ingest">Tuscarora Nation Reservation (N.Y.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref23" level="file">
+                    <did>
+                        <unittitle>Tuscarora vocabulary and paradigms [4 of 4]</unittitle>
+                        <unitid>05-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1951-01-04</unitdate>
+                        <physdesc id="ref24" label="General Physical Description note">
+                            <extent>00:33:21</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Reyburn, William D.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Rickard, Clinton, 1882-1971</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref26">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0269" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:4133">
+                        <daodesc>
+                            <p>APSdigrec_0269</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Tuscarora language </subject>
+                        <geogname source="ingest">Tuscarora Nation Reservation (N.Y.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref27" level="file">
+                    <did>
+                        <unittitle>A Tuscarora text</unittitle>
+                        <unitid>06-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1951-01-08</unitdate>
+                        <physdesc id="ref28" label="General Physical Description note">
+                            <extent>00:07:43</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Reyburn, William D.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Rickard, Clinton, 1882-1971</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref29">
+                        <head>Scope and Contents note</head>
+                        <p>Topic of text unclear from documentation. May be about the Salt War in New York State. In Tuscarora only.</p>
+                    </scopecontent>
+                    <originalsloc id="ref31">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0270" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:4144">
+                        <daodesc>
+                            <p>APSdigrec_0270</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Tuscarora language </subject>
+                        <geogname source="ingest">Tuscarora Nation Reservation (N.Y.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref32" level="file">
+                    <did>
+                        <unittitle>The participation of the Tuscaroras in the War of 1812</unittitle>
+                        <unitid>06-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1951-01-08</unitdate>
+                        <physdesc id="ref33" label="General Physical Description note">
+                            <extent>00:06:26</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Reyburn, William D.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Rickard, Clinton, 1882-1971</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref34">
+                        <head>Scope and Contents note</head>
+                        <p>In Tuscarora only.</p>
+                    </scopecontent>
+                    <originalsloc id="ref36">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0271" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:4141">
+                        <daodesc>
+                            <p>APSdigrec_0271</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Tuscarora Indians--History</subject>
+                        <subject source="lcsh">Tuscarora language </subject>
+                        <geogname source="ingest">Tuscarora Nation Reservation (N.Y.)</geogname>
+                        <subject source="ingest">United States--History--War of 1812</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref37" level="file">
+                    <did>
+                        <unittitle>The enlistment in Philadelphia of a group of Tuscarora soldiers</unittitle>
+                        <unitid>06-03</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1951-01-08</unitdate>
+                        <physdesc id="ref38" label="General Physical Description note">
+                            <extent>00:03:19</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Reyburn, William D.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Rickard, Clinton, 1882-1971</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref39">
+                        <head>Scope and Contents note</head>
+                        <p>In Tuscarora only.</p>
+                    </scopecontent>
+                    <originalsloc id="ref41">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0272" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:4143">
+                        <daodesc>
+                            <p>APSdigrec_0272</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Military service, Voluntary--United States</subject>
+                        <subject source="ingest">Recruiting and enlistment</subject>
+                        <subject source="lcsh">Tuscarora Indians--History</subject>
+                        <subject source="lcsh">Tuscarora language </subject>
+                        <geogname source="ingest">Tuscarora Nation Reservation (N.Y.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref42" level="file">
+                    <did>
+                        <unittitle>The trip of the Tuscaroras to Kansas and the subsequent activities of the informant's grandfather and Captain Kyusik with a group of Sioux Indians following the Mexican War</unittitle>
+                        <unitid>06-04</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1951-01-08</unitdate>
+                        <physdesc id="ref43" label="General Physical Description note">
+                            <extent>00:07:17</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Reyburn, William D.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Rickard, Clinton, 1882-1971</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref44">
+                        <head>Scope and Contents note</head>
+                        <p>Narrative told in Tuscarora only.</p>
+                    </scopecontent>
+                    <originalsloc id="ref46">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0273" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:4140">
+                        <daodesc>
+                            <p>APSdigrec_0273</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Dakota Indians</subject>
+                        <subject source="lcsh">Indians of North America--Migrations</subject>
+                        <subject source="ingest">Migration, Internal--United States--History--19th century</subject>
+                        <subject source="lcsh">Tuscarora Indians--History</subject>
+                        <subject source="lcsh">Tuscarora language </subject>
+                        <geogname source="ingest">Tuscarora Nation Reservation (N.Y.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref47" level="file">
+                    <did>
+                        <unittitle>How Washington appealed to the Iroquois Nation to aid the Thirteen Colonies in the Revolutionary War; Promises made by General Washington to the Six Nations</unittitle>
+                        <unitid>06-05</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1951-01-08</unitdate>
+                        <physdesc id="ref48" label="General Physical Description note">
+                            <extent>00:03:14</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Reyburn, William D.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Rickard, Clinton, 1882-1971</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref49">
+                        <head>Scope and Contents note</head>
+                        <p>In Tuscarora only.</p>
+                    </scopecontent>
+                    <originalsloc id="ref51">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0274" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:4134">
+                        <daodesc>
+                            <p>APSdigrec_0274</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Six Nations--History</subject>
+                        <subject source="lcsh">Tuscarora language </subject>
+                        <geogname source="ingest">Tuscarora Nation Reservation (N.Y.)</geogname>
+                        <subject source="ingest">United States--History--Revolution, 1775-1783</subject>
+                        <subject source="ingest">Washington, George, 1732-1799--Relations with Indians</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref52" level="file">
+                    <did>
+                        <unittitle>The story of the Indian Defense League of America</unittitle>
+                        <unitid>06-06</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1951-01-08</unitdate>
+                        <physdesc id="ref53" label="General Physical Description note">
+                            <extent>00:05:29</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Reyburn, William D.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Rickard, Clinton, 1882-1971</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref54">
+                        <head>Scope and Contents note</head>
+                        <p>The speaker was a Grand President of the Indian Defense League of America. In Tuscarora only.</p>
+                    </scopecontent>
+                    <originalsloc id="ref56">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_0275" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:4145">
+                        <daodesc>
+                            <p>APSdigrec_0275</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Indian Defense League of America</subject>
+                        <subject source="lcsh">Tuscarora Indians--History</subject>
+                        <subject source="lcsh">Tuscarora language </subject>
+                        <geogname source="ingest">Tuscarora Nation Reservation (N.Y.)</geogname>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

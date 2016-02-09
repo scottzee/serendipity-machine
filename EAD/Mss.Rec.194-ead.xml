@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Rec.194</num>
+                </titleproper>
+                <author>Finding aid prepared by Brian Carpenter</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+                <date>May 2012</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T21:14-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Interviews with Katherine Siva Saubel and Anna Elizabeth Lobo</unittitle>
+            <unitid>Mss.Rec.194</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>2.0 Reel(s)</extent>
+            </physdesc>
+            <unitdate normal="1993/1994" type="inclusive">1993-1994</unitdate>
+            <physdesc id="ref1" label="General Physical Description">2 sound tape reels (1 hr., 44 min.) : analog, 7 1/2 ips, quarter track, stereo ; 7 in.</physdesc>
+            <abstract id="ref2" label="Abstract">Interviews on the subject of the Mission Indian Federation and other topics. Interview with Katherine Siva Saubel conducted by Tanis C. Thorne in Needles, California on 14 November 1993. Interview with Anna Elizabeth Lobo conducted by Stephan O'Neil in Oroville, California on 14 June 1994.</abstract>
+            <origination label="creator">
+                <persname rules="aacr" source="ingest" role="Speaker (spk)">Lobo, Anna Elizabeth</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="local" role="Researcher (res)">O'Neil, Stephan</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest" role="Speaker (spk)">Sauvel, Katherine Siva</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="local" role="Author (aut)">Thorne, Tanis C.</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref3">
+            <head>Immediate Source of Acquisition</head>
+            <p>Donated by Tanis C. Thorne in 1995 (Acc. 1995-224r.) This material was recorded with the assistance of a Phillips Fund grant.</p>
+        </acqinfo>
+        <accessrestrict id="ref4">
+            <head>Conditions Governing Access</head>
+            <p>This collection has access restrictions. Please consult the Manuscripts Librarian for details.</p>
+        </accessrestrict>
+        <relatedmaterial id="ref5">
+            <head>Related Archival Materials</head>
+            <p>A project report and manuscript material related to these recordings are available in the 
+                <extref ns2:actuate="onLoad" ns2:show="new" ns2:href="http://www.amphilsoc.org/mole/view?docId=ead/Mss.497.3.Am4-ead.xml">Phillips Fund Collection</extref> (Mss.497.3.Am4).</p>
+        </relatedmaterial>
+        <controlaccess>
+            <subject source="lcsh">Indians of North America--California--History</subject>
+            <subject source="lcsh">Mission Indian Federation</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.511.Ar4-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.511.Ar4</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:16-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Arithmetic workbook, [n.d.]</unittitle>
+            <unitid>Mss.511.Ar4</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid889" type="Volume" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>1.0 Volume(s)</extent>
+                <extent>1  volume, 26 p. </extent>
+            </physdesc>
+            <unitdate>n.d.</unitdate>
+            <abstract id="ref1" label="Abstract">This volume is chiefly devoted to problems involving fractions, as well as a smaller section on geometrical proportions.</abstract>
+            <physdesc id="ref7" label="General Physical Description note">1 volume, 26 p.</physdesc>
+            <physloc id="ref9" label="Paging">LH-MV-E-15</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Anonymous</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref3">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Received and accessioned, 1900 (19191). Provenance unknown.</p>
+            <p></p>
+        </acqinfo>
+        <odd id="ref8">
+            <head>Early American History Note</head>
+            <p>This notebook is from a course in arithmetic taken during the late-18th or early-19th century, possibly from West Nottingham Academy because it is bound with an Algebra notebook from that school. This notebook contains rules and essays on decimals and various equations.</p>
+        </odd>
+        <controlaccess>
+            <subject source="lcsh">Arithmetic.</subject>
+            <subject source="leah">Education</subject>
+            <genreform source="leah">Educational Material</genreform>
+            <subject source="lcsh">Fractions.</subject>
+            <subject source="lcsh">Geometry.</subject>
+            <subject source="lcsh">Mathematics.</subject>
+            <genreform source="lcsh">Workbooks.</genreform>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

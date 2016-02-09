@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Film.1278-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Film.1278</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T20:12-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Atna of the Copper River Valley, 1960, 1968</unittitle>
+            <unitid>Mss.Film.1278</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1754" type="Reel" label="Microform">1-2</container>
+            <physdesc>
+                <extent>2.0 Microfilm reel(s)</extent>
+            </physdesc>
+            <unitdate normal="1960/1968" type="inclusive">1960-1968</unitdate>
+            <abstract id="ref8" label="Abstract">These reels contain materials relating to the Atna, Copper River, Totlin, Upper Tanana, Southern Tuchone, Burwash Landing, and Yukon Indian groups. Also included are lists of plants, and transcripts of interviews.</abstract>
+            <physdesc id="ref15" label="General Physical Description note">2 microfilm reels.</physdesc>
+            <physloc id="ref16" label="Paging">LH-RR-Media Rm-4</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">De Laguna, Frederica, 1906-2004</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref7">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by Frederica De Laguna and Marie Francoise Guédon and accessioned, 1970 (1970 946mf).</p>
+            <p></p>
+        </acqinfo>
+        <bioghist id="ref5">
+            <head>Biographical/Historical note</head>
+            <p>Frederica De Laguna is an anthropologist.</p>
+        </bioghist>
+        <originalsloc id="ref3">
+            <head>Existence and Location of Originals note</head>
+            <p>Originals in possession of Frederica De Laguna and Marie Francoise Guédon.</p>
+        </originalsloc>
+        <controlaccess>
+            <persname rules="aacr" source="naf">Guédon, Marie Françoise</persname>
+            <subject source="ingest">Ahtena Indians</subject>
+            <geogname source="lcsh">Alaska--Languages</geogname>
+            <subject source="lcsh">Athapascan Indians</subject>
+            <subject source="lcsh">Botany--Alaska</subject>
+            <subject source="lcsh">Indians of North America</subject>
+            <genreform source="lcsh">Interviews.</genreform>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

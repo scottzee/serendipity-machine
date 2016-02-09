@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Rec.40-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Rec.40</num>
+                    <num>Mss.Rec.40</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Brian Carpenter</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+                <date>11-2010</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T21:16-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Wampanoag material supplied by Chief Wild Horse</unittitle>
+            <unitid>Mss.Rec.40</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="alg"/>
+            </langmaterial>
+            <container id="cid13056208" type="Reel" label="Audio">1</container>
+            <physdesc>
+                <extent>1.0 Tape(s)</extent>
+            </physdesc>
+            <unitdate normal="1961/1961">1961-05-03</unitdate>
+            <abstract id="ref2" label="Abstract">Recording the Lord's Prayer by Chief Wild Horse, the last speaker of Wampanoag dialect, a medicine man of the Mashpee Division, Sagamore of the New England Federation of Indians, and a representative of the League of North American Indians. Recorded in New Bedford, Massachusetts, 3 May 1961.</abstract>
+            <physdesc id="ref3" label="General Physical Description note">1 sound tape reel (4 min.) : analog, 7 1/2 ips, half track, mono ; 3 in.</physdesc>
+            <physloc id="ref11" label="Paging">LH-B-32-2</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Day, Gordon M.</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="dacs" source="local">Wild Horse</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref4">
+            <head>Immediate Source of Acquisition</head>
+            <p>Acquired through purchase in 1962.</p>
+        </acqinfo>
+        <controlaccess>
+            <subject source="lcsh">Lord's prayer</subject>
+            <genreform source="ingest">Sound recordings</genreform>
+            <subject source="lcsh">Wampanoag language</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref5" level="series">
+                <did>
+                    <unittitle>Audio recordings</unittitle>
+                </did>
+                <c02 id="ref6" level="file">
+                    <did>
+                        <unittitle>The Lord's Prayer</unittitle>
+                        <unitid>01-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1961-05-03</unitdate>
+                        <physdesc id="ref7" label="General Physical Description note">
+                            <extent>00:03:49</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Day, Gordon M.</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname rules="dacs" source="local">Wild Horse</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref8">
+                        <head>Scope and Contents note</head>
+                        <p>Recording of the last speaker of Wampanoag dialect, a medicine man of the Mashpee Division, Sagamore of the New England Federation of Indians, and a representative of the League of North American Indians.</p>
+                    </scopecontent>
+                    <originalsloc id="ref10">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1700" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3742">
+                        <daodesc>
+                            <p>APSdigrec_1700</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Lord's Prayer</subject>
+                        <geogname source="ingest">New Bedford (Mass.)</geogname>
+                        <subject source="lcsh">Wampanoag language</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

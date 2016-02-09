@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Prints</num>
+                </titleproper>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T21:09-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc audience="internal" level="collection">
+        <did>
+            <unittitle>Prints Collection</unittitle>
+            <unitid>Mss.Prints</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>1000.0 Item(s)</extent>
+            </physdesc>
+            <unitdate>1500-2000</unitdate>
+            <physloc id="ref80" label="Paging">LH-B-24</physloc>
+            <abstract id="ref55" label="Abstract">A large and growing collection containing photographs, engravings, lithographs, paintings on a number of topics. The Print Collection employs the following codes: Regular File—Persons, Places and things, Group pictures, Collections; Oversize—Persons, Places and things, Collections. Note: Refer to the Print Collection card file for specific subjects and reference citations.</abstract>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Artist (art)">Birch, William Russell, 1755-1834</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Artist (art)">Bodmer, Karl, 1809-1893</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Artist (art)">Eastman, Seth, 1808-1875</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Artist (art)">West, Benjamin, 1730-1813</persname>
+            </origination>
+        </did>
+        <scopecontent id="ref56">
+            <head>Scope and Contents note</head>
+            <p>Native American Images Note: Up to 300 Native American images, dating from 1771-1966, representing as many as twenty-five tribes created by a variety of artists and photographers. Images as diverse as The Death of Miantonomo, General Harrison and Tecumseh, portraits of Sitting Bull and Pocahontas. Tribes depicted include the Isleta, Sioux, Seneca, Lenni Lenape, Osage, Shawnee, and Eskimos. Noted artists are Benjamin West, Seth Eastman, William Russell Birch, Frederic Remington, and Karl Bodmer. Material types are over one hundred black and white silver gelatin photographs, albumen prints, black and white engravings, color lithographs, and black and white posters. Of note, hand-colored lithographs of three person portraits of Osage Indians by Louis Boilly and individual portrait color lithographs by John T. Bowen of Iowa, Omaha, and Sioux chiefs. In William Russell Birch’s views of Philadelphia, the Native American related works are the "Back of the State House, Philadelphia" and "William Penn’s Treaty Tree." Subject related images from the Broadsides and the Garvan Collection are included. Note: Some Native American images from specific collections, such as, Franz Boas, Paul Wallace and Frank Speck are housed in the Print Collection.</p>
+        </scopecontent>
+        <controlaccess>
+            <persname rules="aacr" source="naf" role="Collector (col)">Boas,  Franz, 1858-1942 </persname>
+            <persname rules="aacr" source="naf" role="Collector (col)">Speck, Frank Gouldsmith, 1881-1950</persname>
+            <persname rules="aacr" source="local" role="Collector (col)">Wallace, Paul A. W.</persname>
+            <genreform source="gmgpc">Albumen prints</genreform>
+            <subject source="lcsh">Algonquian Indians</subject>
+            <subject source="lcsh">Cheyenne Indians</subject>
+            <subject source="lcsh">Creek Indians</subject>
+            <subject source="lcsh">Dakota Indians</subject>
+            <subject source="lcsh">Delaware Indians</subject>
+            <subject source="local">Eastern Woodlands Indians</subject>
+            <genreform source="lcsh">Engravings.</genreform>
+            <subject source="lcsh">Eskimos--Greenland--Social life and customs</subject>
+            <genreform source="gmgpc">Gelatin silver prints</genreform>
+            <subject source="lcsh">Indians of North America</subject>
+            <subject source="lcsh">Iroquois Indians</subject>
+            <subject source="lcsh">Isleta Indians</subject>
+            <subject source="lcsh">Kiowa Indians</subject>
+            <genreform source="lcsh">Lithographs.</genreform>
+            <subject source="lcsh">Narraganett Indians</subject>
+            <genreform source="gmgpc">Negatives</genreform>
+            <subject source="lcsh">Omaha Indians</subject>
+            <subject source="lcsh">Osage Indians</subject>
+            <subject source="lcsh">Plains Indians</subject>
+            <genreform source="lcsh">Posters</genreform>
+            <subject source="lcsh">Powhatan Indians</subject>
+            <subject source="lcsh">Shawnee Indians</subject>
+            <subject source="local">Southeast Indians</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref1" level="item">
+                <did>
+                    <unittitle>Benjamin Franklin am hofe zu Versailles.</unittitle>
+                    <physdesc>
+                        <extent>1.0 Item(s)</extent>
+                    </physdesc>
+                    <unitdate>ca. 1820</unitdate>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Benjamin Franklin am hofe zu Versailles. " ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:6073">
+                    <daodesc>
+                        <p>Benjamin Franklin am hofe zu Versailles. , ca. 1820 </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref2" level="item">
+                <did>
+                    <unittitle>Benjamin Franklin, seated at desk.</unittitle>
+                    <physdesc>
+                        <extent>1.0 Item(s)</extent>
+                    </physdesc>
+                    <unitdate normal="1873/1873">1873</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref3" level="item">
+                <did>
+                    <unittitle>Works of the late Doctor Benjamin Franklin title page.</unittitle>
+                    <physdesc>
+                        <extent>1.0 Item(s)</extent>
+                    </physdesc>
+                    <unitdate>1793</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref4" level="item">
+                <did>
+                    <unittitle>Color engraving of Benjamin Franklin.</unittitle>
+                    <unitdate>n. d. </unitdate>
+                </did>
+            </c01>
+            <c01 id="ref5" level="item">
+                <did>
+                    <unittitle>Benjamin Franklin, brown tone, oval portrait.</unittitle>
+                    <unitdate>ca. 1800</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref6" level="item">
+                <did>
+                    <unittitle>Benjamin Franklin in red coat.</unittitle>
+                    <unitdate>n. d. </unitdate>
+                </did>
+            </c01>
+            <c01 id="ref7" level="item">
+                <did>
+                    <unittitle>"Vertu et Travail."</unittitle>
+                    <unitdate>n. d. </unitdate>
+                </did>
+            </c01>
+            <c01 id="ref8" level="item">
+                <did>
+                    <unittitle>Franklin and Electricity, 1752.</unittitle>
+                    <unitdate>n. d. </unitdate>
+                </did>
+            </c01>
+            <c01 id="ref9" level="item">
+                <did>
+                    <unittitle>Franklin, seated at table.</unittitle>
+                    <unitdate>n. d. </unitdate>
+                </did>
+            </c01>
+            <c01 id="ref10" level="item">
+                <did>
+                    <unittitle>Franklin Residence at Ecton, Northamptonshire.</unittitle>
+                    <unitdate>n. d. </unitdate>
+                </did>
+            </c01>
+            <c01 id="ref11" level="item">
+                <did>
+                    <unittitle>"Prof. Darwin," Figaro's London Sketchbook of Celebrities.</unittitle>
+                </did>
+            </c01>
+            <c01 id="ref12" level="item">
+                <did>
+                    <unittitle>"Mr. C. R. Darwin, Author of the Origin of Species."</unittitle>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="&quot;Mr. C. R. Darwin, Author of the Origin of Species.&quot; " ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:5704">
+                    <daodesc>
+                        <p>"Mr. C. R. Darwin, Author of the Origin of Species." </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref13" level="item">
+                <did>
+                    <unittitle>"The Contrast, or Things as they are."</unittitle>
+                </did>
+            </c01>
+            <c01 id="ref14" level="item">
+                <did>
+                    <unittitle>"Mad Tom's First Practical Essay on the Rights of Man."</unittitle>
+                </did>
+            </c01>
+            <c01 id="ref15" level="item">
+                <did>
+                    <unittitle>"A sure cure for all Paines"</unittitle>
+                </did>
+            </c01>
+            <c01 id="ref16" level="item">
+                <did>
+                    <unittitle>"A Democrat."</unittitle>
+                </did>
+            </c01>
+            <c01 id="ref17" level="item">
+                <did>
+                    <unittitle>"The End of Pain."</unittitle>
+                </did>
+            </c01>
+            <c01 id="ref18" level="item">
+                <did>
+                    <unittitle>"Hear and improve," he pertly cries, "I come to make all nations wise."</unittitle>
+                </did>
+            </c01>
+            <c01 id="ref19" level="item">
+                <did>
+                    <unittitle>APSdigobj3204</unittitle>
+                </did>
+            </c01>
+            <c01 id="ref20" level="item">
+                <did>
+                    <unittitle>"Two Pair of Portraits."</unittitle>
+                </did>
+            </c01>
+            <c01 id="ref21" level="item">
+                <did>
+                    <unittitle>"Tree of Liberty, with the Devil Tempting John Bull." 1798</unittitle>
+                </did>
+            </c01>
+            <c01 id="ref23" level="item">
+                <did>
+                    <unittitle>"London Corresponding Society."</unittitle>
+                </did>
+            </c01>
+            <c01 id="ref24" level="item">
+                <did>
+                    <unittitle>"Destruction of the French Gun Boats, or Little Boney and the Friend Talley in Hight Glee."</unittitle>
+                </did>
+            </c01>
+            <c01 id="ref25" level="item">
+                <did>
+                    <unittitle>"We Explain the Rights of Men to de Noblesse."</unittitle>
+                </did>
+            </c01>
+            <c01 id="ref26" level="item">
+                <did>
+                    <unittitle>The Absent Man.</unittitle>
+                </did>
+            </c01>
+            <c01 id="ref27" level="item">
+                <did>
+                    <unittitle>Thomas Paine</unittitle>
+                </did>
+            </c01>
+            <c01 id="ref28" level="item">
+                <did>
+                    <unittitle>Full length view of Thomas Paine, standing, holding copy of "Rights of Man."</unittitle>
+                </did>
+            </c01>
+            <c01 id="ref29" level="item">
+                <did>
+                    <unittitle>Profile portrait, identified by caption as Thomas Paine.</unittitle>
+                </did>
+            </c01>
+            <c01 id="ref30" level="item">
+                <did>
+                    <unittitle>Thomas Paine, portrait, as older man with hand in coat.</unittitle>
+                </did>
+            </c01>
+            <c01 id="ref31" level="item">
+                <did>
+                    <unittitle>"A radical reformer."</unittitle>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="&quot;A radical reformer.&quot; " ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:5194">
+                    <daodesc>
+                        <p>"A radical reformer." , 1819 </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref32" level="item">
+                <did>
+                    <unittitle>"Cobbett at Coventry."</unittitle>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="&quot;Cobbett at Coventry.&quot; " ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:5204">
+                    <daodesc>
+                        <p>"Cobbett at Coventry." , ca. 1820 </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref33" level="item">
+                <did>
+                    <unittitle>"Mad Tom, or the Man of Rights."</unittitle>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="&quot;Mad Tom, or the Man of Rights.&quot; " ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:5210">
+                    <daodesc>
+                        <p>"Mad Tom, or the Man of Rights." , 1791 </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref34" level="item">
+                <did>
+                    <unittitle>"Tom Paine's nightly pest."</unittitle>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="&quot;Tom Paine's nightly pest.&quot; " ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:5191">
+                    <daodesc>
+                        <p>"Tom Paine's nightly pest." , 1798 </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref35" level="item">
+                <did>
+                    <unittitle>"Wha Wants Me" Cartoon associated with Thomas Paine.</unittitle>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="&quot;Wha Wants Me&quot; Cartoon associated with Thomas Paine. " ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:5224">
+                    <daodesc>
+                        <p>"Wha Wants Me" Cartoon associated with Thomas Paine. , 1792 </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref36" level="item">
+                <did>
+                    <unittitle>Thomas Paine, portrait, seated with book.</unittitle>
+                </did>
+            </c01>
+            <c01 id="ref37" level="item">
+                <did>
+                    <unittitle>Thomas Paine house.</unittitle>
+                </did>
+            </c01>
+            <c01 id="ref38" level="item">
+                <did>
+                    <unittitle>Thomas Paine house.</unittitle>
+                </did>
+            </c01>
+            <c01 id="ref39" level="item">
+                <did>
+                    <unittitle>Thomas Paine Monument, postcard.</unittitle>
+                </did>
+            </c01>
+            <c01 id="ref40" level="item">
+                <did>
+                    <unittitle>Thomas Paine Cottage, North and Paine Aves., New Rochelle, N.Y., postcard.</unittitle>
+                </did>
+            </c01>
+            <c01 id="ref42" level="item">
+                <did>
+                    <unittitle>Thomas Paine Memorial House, New Rochelle, NY, post card.</unittitle>
+                </did>
+            </c01>
+            <c01 id="ref44" level="item">
+                <did>
+                    <unittitle>One cent Benjamin Franklin stamp, 1892.</unittitle>
+                </did>
+            </c01>
+            <c01 id="ref45" level="item">
+                <did>
+                    <unittitle>Benjamin Franklin postage stamp, French.</unittitle>
+                </did>
+            </c01>
+            <c01 id="ref46" level="item">
+                <did>
+                    <unittitle>Benjamin Franklin postage stamp, Italian.</unittitle>
+                </did>
+            </c01>
+            <c01 id="ref47" level="item">
+                <did>
+                    <unittitle>Benjamin Franklin, 1/2 cent stamps.</unittitle>
+                </did>
+            </c01>
+            <c01 id="ref48" level="item">
+                <did>
+                    <unittitle>Benjamin Franklin, 250th Anniversary stamps.</unittitle>
+                </did>
+            </c01>
+            <c01 id="ref49" level="item">
+                <did>
+                    <unittitle>First Postmaster General, Benjamin Franklin, 1706-1790.</unittitle>
+                </did>
+            </c01>
+            <c01 id="ref50" level="item">
+                <did>
+                    <unittitle>Franklin stamp, 1/2 cent, Commemorating the 250th anniversary of Franklin's birth.</unittitle>
+                </did>
+            </c01>
+            <c01 id="ref51" level="item">
+                <did>
+                    <unittitle>Franklin stamp, two cents.</unittitle>
+                </did>
+            </c01>
+            <c01 id="ref52" level="item">
+                <did>
+                    <unittitle>Three cent postage stamp centenary, featuring portraits of Washington and Franklin, June 1947.</unittitle>
+                </did>
+            </c01>
+            <c01 id="ref53" level="item">
+                <did>
+                    <unittitle>One cent Franklin stamp.</unittitle>
+                </did>
+            </c01>
+            <c01 id="ref54" level="item">
+                <did>
+                    <unittitle>Green and gold one cent stamp, silhouette of Franklin in profile.</unittitle>
+                </did>
+            </c01>
+            <c01 id="ref65" level="item">
+                <did>
+                    <unittitle>Manual Labor Bank note with image of Benjamin Franklin.</unittitle>
+                </did>
+            </c01>
+            <c01 id="ref67" level="item">
+                <did>
+                    <unittitle>Bank note, Franklin Silk Company.</unittitle>
+                </did>
+            </c01>
+            <c01 id="ref69" level="item">
+                <did>
+                    <unittitle>"Neither War nor Peace."</unittitle>
+                </did>
+            </c01>
+            <c01 id="ref70" level="item">
+                <did>
+                    <unittitle>Seth Newhouse, 1842-1921</unittitle>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Seth Newhouse, 1842-1921 " ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:3686">
+                    <daodesc>
+                        <p>Seth Newhouse, 1842-1921 </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref71" level="item">
+                <did>
+                    <unittitle>Death of Miantonomo</unittitle>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Death of Miantonomo " ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:3684">
+                    <daodesc>
+                        <p>Death of Miantonomo </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref72" level="item">
+                <did>
+                    <unittitle>Gretomih, Kishagashugah, Minckchatahooh</unittitle>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Gretomih, Kishagashugah, Minckchatahooh " ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:3691">
+                    <daodesc>
+                        <p>Gretomih, Kishagashugah, Minckchatahooh </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref73" level="item">
+                <did>
+                    <unittitle>Medicine man curing a patient</unittitle>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Medicine man curing a patient " ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:3690">
+                    <daodesc>
+                        <p>Medicine man curing a patient </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref74" level="item">
+                <did>
+                    <unittitle>Myhangah, Washingasbha, Marchanthitahtoongah</unittitle>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Myhangah, Washingasbha, Marchanthitahtoongah " ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:3685">
+                    <daodesc>
+                        <p>Myhangah, Washingasbha, Marchanthitahtoongah </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref75" level="item">
+                <did>
+                    <unittitle>Sitting Bull</unittitle>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Sitting Bull " ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:3688">
+                    <daodesc>
+                        <p>Sitting Bull </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref76" level="item">
+                <did>
+                    <unittitle>The death cry</unittitle>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="The death cry" ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:3687">
+                    <daodesc>
+                        <p>The death cry</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref77" level="item">
+                <did>
+                    <unittitle>The rainbow</unittitle>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="The rainbow " ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:3689">
+                    <daodesc>
+                        <p>The rainbow </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref78" level="item">
+                <did>
+                    <unittitle>Hoboken Bank note with image of Franklin, 1829.</unittitle>
+                </did>
+            </c01>
+            <c01 id="ref79" level="item">
+                <did>
+                    <unittitle>Thomas Nuttall.</unittitle>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Thomas Nuttall. " ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:5705">
+                    <daodesc>
+                        <p>Thomas Nuttall. </p>
+                    </daodesc>
+                </dao>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

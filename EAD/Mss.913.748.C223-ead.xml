@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.913.748.C223</num>
+                </titleproper>
+                <author>Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:23-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="item">
+        <did>
+            <unittitle>The ancient mounds of Pennsylvania, 1950</unittitle>
+            <unitid>Mss.913.748.C223</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid412" type="Volume" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>1.0 Volume(s)</extent>
+                <extent>1 volume, 359 p.</extent>
+            </physdesc>
+            <unitdate normal="1950/1950">1950</unitdate>
+            <abstract id="ref1" label="Abstract">This is a report to the American Philosophical Society summarizing archaeological data on Pennsylvania tumuli contained in manuscripts deposited in its library. This report includes essays on earlier theories, the position of the Iroquois, Carpenter's conclusions, and summaries of the Irvine Mounds group and the Sugar Run Mounds. There are also essays on Sugar Run pottery and skeletal remains by James B. Griffin and T. Dale Stewart.</abstract>
+            <physdesc id="ref2" label="General Physical Description note">1 volume, 313 p.</physdesc>
+            <physloc id="ref9" label="Paging">LH-MV-E-11</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="local" role="Author (aut)">Carpenter, Edmund, 1922-2011</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Writer of accompanying material (wam)">Griffin, James B.</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Writer of accompanying material (wam)">Stewart, T. D.,  (Thomas Dale), 1901-</persname>
+            </origination>
+        </did>
+        <bioghist id="ref5">
+            <head>Biographical/Historical note</head>
+            <p>Edmund Snow Carpenter was an archaeologist.</p>
+        </bioghist>
+        <relatedmaterial id="ref4">
+            <head>Related Archival Materials note</head>
+            <p>See 
+                <extref ns2:actuate="onLoad" ns2:show="new" ns2:href="http://www.amphilsoc.org/mole/view?docId=ead/Mss.913.748.Un3-ead.xml">United States, Work Projects Administration Reports on archaeological excavations in Pennsylvania (913.748 Un3)</extref> for site reports mentioned in this volume.</p>
+        </relatedmaterial>
+        <acqinfo id="ref3">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Gift from Edmund S. Carpenter and accessioned, 11/1950.</p>
+        </acqinfo>
+        <scopecontent id="ref6">
+            <head>Scope and Contents note</head>
+            <p>The particular site reports on which this is based are:</p>
+            <p>1. McFate site, Crawford Co., by Harry L. Schoff. 2. Phillips site burials, Somerset Co. 3. Identification of faunal remains from southwestern Pennsylvania, by Raymond M. Gilmore and others. 4. Skeletal remains from Fayette and Somerset Cos., by Thomas D. Stewart. 5. Archaeological survey of Somerset Co., by Frank C. Cresson. 6. Brock mound, Lycoming Co. 7. Excavation of the village area near the burial mound on the H. G. Brock property, Muncy, Pa. 8. Cornplanter Run mounds, Warren Co.; Johnson mound, Chautauqua Co., N.Y.; Miller Jacobs, Hooks Run mounds and Frank Logan site, Cornplanter Reservation; Dwight Jimerson's site, Chautauqua Co., N.Y. 9. Irvine mound group, Warren Co., by Harry A. Schoff, Donald A. Cadzow, and Ross P. Wright. 10. Nelson mound, Crawford Co., by Harry L. Schoff. 11. Book mound, Beale township, Juniata Co. 12. Erie site, by Donald A. Cadzow. Published as Bulletin IV, Pennsylvania Historical Commission, 1938. 13. Crall mound. 14. Spartansburg mounds, Crawford Co. 15. Upper Allegheny Valley Survey report, by Edmund S. Carpenter. 16. Guyasutha mound, O'Hara township; Oakmont mound. 17. Williams mound, Warren Co. 18. Clemson's mound, Dauphin Co. 19. McKee's Rocks mound, near Pittsburgh. 20. Skeletal remains from Sugar Run mounds, Warren Co., by Thomas D. Stewart. 21. Photographs from Sugar Run mound group. 22. Field notes, southwestern Pennsylvania, by G. S. Fisher. 23. Kipp Island site, Seneca Co., N.Y.; Wheatland mound, Monroe Co., N.Y.; burial mound on Eagle Bluff, Cayuga Co., N.Y.; by H. L. Schoff. 24. Vandalia mound, Cattaraugus Co., N.Y. 25. 28th Street site, Erie, Pa.; Wesleyville site, Erie Co. 26. Pennsylvania Historical Commission, Archaeological reports, 1929, by Dorothy P. Skinner, Junius Bird, and others. 27. Profiles of Sugar Run mound site, Warren Co. 28. Photographs of sites and artifacts, Somerset and Fayette Cos. 29. Field drawings from Sick site, South Towanda, Bradford Co., excavated by John Witthoft, 1948.</p>
+        </scopecontent>
+        <otherfindaid id="ref7">
+            <head>Other Finding Aids note</head>
+            <p>Freeman guide, #37 and 2677</p>
+        </otherfindaid>
+        <scopecontent id="ref8">
+            <head>Scope and Contents note</head>
+            <p>Native American Images note: 117 black and white photographs of excavation sites, skeletal remains and artifacts from the following mounds: McKees Rock, Crail, Irvine, Sugar Run, Cornplanter Run, Williams, Killbuck, Vandalia, Poland Center, Nelson, Clouna, Lawson, Miller, Brock, Clemson, and Bowman, located in Pennsylvania, New York and Virginia.</p>
+        </scopecontent>
+        <controlaccess>
+            <genreform source="lcsh">Diagrams.</genreform>
+            <subject source="local">Eastern Woodlands Indians</subject>
+            <subject source="lcsh">Excavations (Archaeology)</subject>
+            <genreform source="gmgpc">Gelatin silver prints</genreform>
+            <subject source="lcsh">Human remains (Archaeology)</subject>
+            <subject source="lcsh">Indians of North America--New York (State)--Antiquities</subject>
+            <subject source="lcsh">Indians of North America--Pennsylvania--Antiquities</subject>
+            <geogname source="lcsh">Irvine Mounds Site (Pa.)</geogname>
+            <geogname source="lcsh">Sugar Run Mounds Site (Pa.)</geogname>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

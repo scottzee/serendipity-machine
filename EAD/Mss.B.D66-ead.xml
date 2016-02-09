@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.D66-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.D66</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T19:10-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Bernard Ogilvie Dodge papers, 1908-1961</unittitle>
+            <unitid>Mss.B.D66</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1253" type="Box" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>0.25 Linear feet</extent>
+                <extent>44 items</extent>
+            </physdesc>
+            <unitdate normal="1908/1961" type="inclusive">1908-1961</unitdate>
+            <abstract id="ref1" label="Abstract">This collection contains certificates and diplomas of learned societies and letters to Dodge from Charles H. Peck, William G. Farlow, David R. Goddard, Robert A. Harper, and H. Rehm. There are letters about Dodge to William J. Robbins, who used them in preparing his memoir of Dodge for the "Biographical Memoirs" (v. 36) of the National Academy of Sciences.</abstract>
+            <physdesc id="ref15" label="General Physical Description note">44 items.</physdesc>
+            <physloc id="ref21" label="Paging">LH-MV-C-4; LH-SB-Black Case-26 (OS)</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Dodge, Bernard Ogilvie,1872-1960.</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref7">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by William J. Robbins and accessioned, 01/09/1963 (1963 102ms).</p>
+        </acqinfo>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>Bernard Ogilvie Dodge was a botanist and plant pathologist.</p>
+        </bioghist>
+        <controlaccess>
+            <persname rules="aacr" source="naf">Farlow, W. G.,  (William Gilson), 1844-1919</persname>
+            <persname rules="aacr" source="local">Goddard, David R.</persname>
+            <persname rules="aacr" source="naf">Harper, R. A.,  (Robert Almer), 1862-1946</persname>
+            <persname rules="aacr" source="local">Peck, Charles Horton, 1833-1917</persname>
+            <famname source="ingest">Rehm, H.</famname>
+            <subject source="lcsh">Botany.</subject>
+            <genreform source="lcsh">Certificates.</genreform>
+            <genreform source="lcsh">Diplomas.</genreform>
+            <subject source="lcsh">Plant diseases.</subject>
+            <occupation source="lcsh">Plant pathologists.</occupation>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref16" level="series">
+                <did>
+                    <unittitle>Photographs</unittitle>
+                    <abstract id="ref17" label="Abstract">A selection of photographs from the Bernard Ogilvie Dodge papers.</abstract>
+                </did>
+                <c02 id="ref18" level="item">
+                    <did>
+                        <unittitle>New York Botanical Garden, 1915</unittitle>
+                        <physdesc>
+                            <extent>1.0 Photograph(s)</extent>
+                        </physdesc>
+                        <unitdate normal="1915/1915">September 6, 1915</unitdate>
+                        <abstract id="ref19" label="Abstract">Procession of men and women walking along a path in the garden.</abstract>
+                        <physloc id="ref20" label="Location note">U5-2-71</physloc>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="New York Botanical Garden, 1915. " ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:718">
+                        <daodesc>
+                            <p>New York Botanical Garden, 1915. , 1915, September 6 </p>
+                        </daodesc>
+                    </dao>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

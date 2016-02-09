@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.M823g-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.M823g</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T19:46-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="item">
+        <did>
+            <unittitle>One-lying-across: Lewis Henry Morgan, 1965</unittitle>
+            <unitid>Mss.B.M823g</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1434" type="Volume" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>1.0 Volume(s)</extent>
+                <extent>1 volume, 29 p.</extent>
+            </physdesc>
+            <unitdate normal="1965/1965">1965</unitdate>
+            <physdesc id="ref6" label="General Physical Description note">1 volume, 29 p.</physdesc>
+            <abstract id="ref1" label="Abstract">This is a short study of Morgan's interest in and study of the Iroquois, with some details of the development of his interest. Native American Images Note : Two images are of Native American interest: one, a list in Seneca dialect of the Six Nations Confederacy and two, a black and white illustration of an Iroquois skirt. Published in 1965, Grossman’s work is of a biographical nature.</abstract>
+            <physloc id="ref7" label="Paging">LH-MV-E-3</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Grossman, Julian A.</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref5">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by Julian A. Grossman and accessioned, 1966 (1966 406ms).</p>
+            <p></p>
+        </acqinfo>
+        <controlaccess>
+            <persname source="naf">Morgan, Lewis Henry, 1818-1881</persname>
+            <persname source="ingest">Parker, Ely Samuel, 1828-1895</persname>
+            <subject source="local">Eastern Woodlands Indians</subject>
+            <subject source="lcsh">Ethnology -- United States -- History.</subject>
+            <subject source="lcsh">Indians of North America--New York (State)</subject>
+            <subject source="lcsh">Iroquois Indians</subject>
+            <genreform source="lcsh">Photoprints.</genreform>
+            <subject source="lcsh">Seneca language</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

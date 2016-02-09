@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Film.1423-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Film.1423</num>
+                </titleproper>
+                <author>Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T20:13-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>James McKeen Cattell family papers, 1835-1922, undated</unittitle>
+            <unitid>Mss.Film.1423</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid463" type="Reel" label="Microform">1-7</container>
+            <physdesc>
+                <extent>7.0 Microfilm reel(s)</extent>
+            </physdesc>
+            <unitdate normal="1835/1922" type="inclusive">1835-1922</unitdate>
+            <abstract id="ref5" label="Abstract">Filmed from a portion of the Cattell family correspondence at the Library of Congress.</abstract>
+            <physdesc id="ref1" label="General Physical Description note">7 microfilm reels. Microfilmed by the Library of Congress, 1974.</physdesc>
+            <physloc id="ref6" label="Paging">LH-RR-Media Rm-6</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="local" role="Author (aut)">Cattell, James McKeen, 1860-1944</persname>
+            </origination>
+        </did>
+        <bioghist id="ref4">
+            <head>Biographical/Historical note</head>
+            <p>James McKeen Cattell worked as a psychologist as well as editor, and publisher.</p>
+        </bioghist>
+        <acqinfo id="ref3">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Purchased from Michael Sokal ($175.00) and accessioned, 1981 (1981 185-191mf).</p>
+        </acqinfo>
+        <originalsloc id="ref2">
+            <head>Existence and Location of Originals note</head>
+            <p>Originals in Library of Congress, Washington, D.C.</p>
+        </originalsloc>
+        <controlaccess>
+            <subject source="lcsh">Psychologists -- United States.</subject>
+            <subject source="lcsh">Scientists - United States</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.W613b-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.W613b</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T20:10-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="item">
+        <did>
+            <unittitle>Leon Fradley Whitney autobiography, 1971</unittitle>
+            <unitid>Mss.B.W613b</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1651" type="Volume" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>1.0 Volume(s)</extent>
+                <extent>1 volume, 50 p.</extent>
+            </physdesc>
+            <unitdate>1971</unitdate>
+            <abstract id="ref1" label="Abstract">This volume is an extract of Whitney's unpublished autobiography, giving a partial account of various episodes in his life as a supporter and practitioner of eugenics. There are observations on the American Eugenics Society, the Eugenics Record Office, the Leopold-Loeb murder trial, as well as mentions of Charles B. Davenport, Clarence Darrow, Harry H. Laughlin, and Margaret Sanger.</abstract>
+            <physdesc id="ref10" label="General Physical Description note">1 volume, 50 p.</physdesc>
+            <physloc id="ref15" label="Paging">LH-MV-E-7</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="local" role="Author (aut)">Whitney, Leon Fradley, 1894-</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref9">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by Leon Fradley Whitney and accessioned, 03/24/1973 (1973 978.ams).</p>
+        </acqinfo>
+        <bioghist id="ref5">
+            <head>Biographical/Historical note</head>
+            <p>Leon Fradley Whitney was a biologist and promoted sterilization in eugenics.</p>
+        </bioghist>
+        <originalsloc id="ref3">
+            <head>Existence and Location of Originals note</head>
+            <p>Holder of original unknown.</p>
+        </originalsloc>
+        <odd id="ref14">
+            <head>Genetics Note</head>
+            <p>This manuscript contains materials which relate to the history of genetics.</p>
+            <p>
+                <table>
+                    <tgroup cols="3">
+                        <colspec colwidth="30%" colname="1"/>
+                        <colspec colname="2"/>
+                        <colspec colname="3"/>
+                        <thead>
+                            <row>
+                                <entry colname="1">Author</entry>
+                                <entry colname="2">Format</entry>
+                                <entry colname="3">Date</entry>
+                            </row>
+                        </thead>
+                        <tbody>
+                            <row>
+                                <entry valign="top" align="left">
+                                    <ref target="ref12">Whitney, Leon Fradley</ref></entry>
+                                <entry valign="top" align="left">Manuscripts (50 pages)</entry>
+                                <entry valign="top" align="left">n.d.</entry>
+                            </row>
+                        </tbody>
+                    </tgroup>
+                </table></p>
+        </odd>
+        <controlaccess>
+            <corpname rules="aacr" source="naf">American Eugenics Society.</corpname>
+            <persname rules="aacr" source="local">Darrow, Clarence, 1857-1938</persname>
+            <persname rules="aacr" source="naf">Davenport, Charles Benedict, 1866-1944</persname>
+            <persname source="ingest">Laughlin, Harry Hamilton, 1880-1943</persname>
+            <persname source="ingest">Sanger, Margaret, 1879-1966</persname>
+            <subject source="lcsh">Eugenics.</subject>
+            <subject source="lcsh">Sterilization, Eugenic.</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref12" level="item">
+                <did>
+                    <unittitle>Leon Fradley Whitney Autobiography</unittitle>
+                    <unitdate>n.d.</unitdate>
+                    <physdesc id="ref13" label="General Physical Description note">Manuscripts ( 50 pages )</physdesc>
+                    <origination label="creator">
+                        <persname source="ingest" role="Author (aut)">Whitney, Leon Fradley, 1894-1973</persname>
+                    </origination>
+                </did>
+                <controlaccess>
+                    <subject source="local">American Eugenics Society</subject>
+                    <subject source="local">Biographical and personal data</subject>
+                    <subject source="local">Davenport, Charles Benedict</subject>
+                    <subject source="local">Eugenics</subject>
+                    <subject source="local">Eugenics Record Office</subject>
+                    <subject source="local">Laughlin, Harry Hamilton</subject>
+                </controlaccess>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

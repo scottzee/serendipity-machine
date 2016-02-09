@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.540.1.P93-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.540.1.P93</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:18-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="item">
+        <did>
+            <unittitle>Experiments relating to phlogiston and the conversion of water into air, 1783</unittitle>
+            <unitid>Mss.540.1.P93</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid926" type="Volume" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>1.0 Volume(s)</extent>
+                <extent>1 volume, 32 p.</extent>
+            </physdesc>
+            <unitdate normal="1783/1783">1783</unitdate>
+            <abstract id="ref1" label="Abstract">This essay discusses Priestley's experiments concerning phlogiston, also called "the principle of inflammability," which was once thought to be a volatile substance that was part of all combustible matter and was released as flame in combustion.</abstract>
+            <physdesc id="ref8" label="General Physical Description note">1 volume, 32 p.</physdesc>
+            <physloc id="ref10" label="Paging">LH-MV-E-9</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Priestley, Joseph, 1733-1804</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref7">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Gift from Samuel Vaughan and accessioned, 1784 (2702).</p>
+            <p></p>
+        </acqinfo>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>Joseph Priestley was an educator, scientist, and theologian.</p>
+        </bioghist>
+        <odd id="ref9">
+            <head>Early American History Note</head>
+            <p>This tall, slender volume details Joseph Priestley’s experiments with the principles of fire, specifically inflammability, in 1783. The volume contains an essay laying out the theory of and debate surrounding “phlogiston” and then describes the experiments he took to prove its existence.</p>
+        </odd>
+        <controlaccess>
+            <persname source="naf">Lavoisier , Antoine Laurent, 1743-1794</persname>
+            <genreform source="leah">Manuscript Essays</genreform>
+            <subject source="lcsh">Phlogiston.</subject>
+            <subject source="leah">Science and Technology</subject>
+            <genreform source="leah">Scientific Data</genreform>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.970.3.F12i-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.970.3.F12i</num>
+                </titleproper>
+                <author>Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:26-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="item">
+        <did>
+            <unittitle>Iroquois past and present in the state of New York; presented by the Akwesasne Mohawk counselor organization. . .</unittitle>
+            <unitid>Mss.970.3.F12i</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="iro"/>
+            </langmaterial>
+            <container id="cid120034" type="Volume" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>1.0 Volume(s)</extent>
+            </physdesc>
+            <unitdate normal="1949/1949">1949</unitdate>
+            <physdesc id="ref3" label="General Physical Description note">Typed manuscript copy illustrated in four parts, with 4 other photostats of drawings.</physdesc>
+            <physloc id="ref6" label="Paging">LH-SB-Black Case-15</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Fadden, Ray (Tehanetorens),1910-2005</persname>
+            </origination>
+        </did>
+        <originalsloc id="ref5">
+            <head>Existence and Location of Originals note</head>
+            <p>From original in possession of the author.</p>
+        </originalsloc>
+        <acqinfo id="ref2">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by the Akwesasne Mohawk counselor organization, St. Regis Mohawk Indian reservations, Hogansburg, N.Y.</p>
+        </acqinfo>
+        <bioghist id="ref4">
+            <head>Biographical/Historical note</head>
+            <p>Designer and author Ray Fadden was a member of the Wolf Clan of the Mohawk community of Akwesasne and founder of the Six Nations Indian Museum of Onchiota, New York.</p>
+        </bioghist>
+        <controlaccess>
+            <genreform source="lcsh">Drawings.</genreform>
+            <subject source="lcsh">Iroquois Indians--History</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

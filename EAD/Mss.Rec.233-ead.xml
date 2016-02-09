@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Rec.233</num>
+                </titleproper>
+                <author>Finding aid prepared by Brian Carpenter</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+                <date>October 9, 2012</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T21:14-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Semu Huaute, Medicine Man</unittitle>
+            <unitid>Mss.Rec.233</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>1.0 Reel(s)</extent>
+            </physdesc>
+            <unitdate normal="1966/1967" type="inclusive">1966-1967</unitdate>
+            <physdesc id="ref1" label="General Physical Description">1 sound tape reel (51 min.) : analog, 3 3/4 &amp; 7 1/2 ips, half track, stereo ; 7 in.</physdesc>
+            <abstract id="ref3" label="Abstract">Conversation with Semu Huaute, Chumash Medicine Man, on a variety of topics. Recorded at a powwow held at Tonawanda, New York, in the summer of 1966. Broadcast by Radio WBFO (Buffalo, N.Y.) in November 1967. Also includes a brief speech by Mad Bear recorded at the same time.</abstract>
+            <origination label="creator">
+                <persname rules="aacr" source="local" role="Speaker (spk)">Mad Bear, d. 1985 </persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="local" role="Interviewee (ive)">Semu Huaute</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="local" role="Interviewer (ivr)">Siemering, Bill</persname>
+            </origination>
+            <origination label="creator">
+                <corpname rules="aacr" source="local" role="Publisher (pbl)">WBFO (Radio station : Buffalo, N.Y.) .</corpname>
+            </origination>
+        </did>
+        <acqinfo id="ref2">
+            <head>Immediate Source of Acquisition</head>
+            <p>Removed from the Elisabeth Tooker Papers (Mss.Ms.Coll.84).</p>
+        </acqinfo>
+        <controlaccess>
+            <subject source="lcsh">Indians of North America--History</subject>
+            <subject source="lcsh">Indians of North America--Medicine</subject>
+            <subject source="lcsh">Indians of North America--Religion</subject>
+            <genreform source="lcsh">Radio programs</genreform>
+            <subject source="lcsh">Shamans</subject>
+            <genreform source="ingest">Sound recordings</genreform>
+            <subject source="lcsh">Whites--Relations with Indians</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

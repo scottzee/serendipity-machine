@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.970.1.H35c-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.970.1.H35c</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:26-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Communications to the Historical and Literary Committee of the American Philosophical Society, 1816-1821</unittitle>
+            <unitid>Mss.970.1.H35c</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1068" type="Volume" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>1.0 Volume(s)</extent>
+                <extent>1 volume, 187 p.</extent>
+            </physdesc>
+            <unitdate normal="1816/1821" type="inclusive">1816-1821</unitdate>
+            <abstract id="ref1" label="Abstract">This item includes notes, letters, and essays on the history, manners, and languages of the American Indians, sent to the Committee and to members of the American Philosophical Society. Contains answers to queries, historical material, Indian speeches, replies to letters of Peter S. Du Ponceau, references to the Lenni Lenape, Indian writing, translations of English into Indian languages.</abstract>
+            <physdesc id="ref12" label="General Physical Description note">1 volume, 187 p.</physdesc>
+            <physloc id="ref14" label="Paging">LH-MV-E-16</physloc>
+            <origination label="creator">
+                <persname source="naf" role="Author (aut)">Heckewelder, John Gottlieb Ernestus, 1743-1823</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref11">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by John Gottlieb Ernestus Heckewelder and accessioned, 1816-1821 (3434).</p>
+        </acqinfo>
+        <altformavail id="ref7">
+            <head>Existence and Location of Copies note</head>
+            <p>This item is also available on microfilm (Film 1287).</p>
+        </altformavail>
+        <odd id="ref5">
+            <head>General note</head>
+            <p>Printed in part in New-York Historical Society 
+                <emph render="italic">Collections</emph> series 2, 1 (1821): 71-74.</p>
+        </odd>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>John Gottlieb Ernestus Heckewelder was a Moravian missionary to the Indians of Ohio.</p>
+        </bioghist>
+        <odd id="ref13">
+            <head>Early American History Note</head>
+            <p>The John Heckewelder Collection consists of an assortment of documents, almost all of which deal with Native Americans. Heckewelder was a Moravian missionary to Delaware Indians in Pennsylvania who was a prominent figure in nineteenth century intellectual circles. The primary focus of the collection is on his attempt to preserve Native American languages, especially those of the Lenni Lenape (Delaware) in Pennsylvania. His correspondence and one publication also chronicle Native American history, customs, and life. Heckewelder also kept a meteorological journal while on his mission to Gnadenhutten, Pennsylvania from 1802-1814, which is part of the collection. Much of the collection comes from Heckewelder’s correspondence with the APS and its prominent member and linguist Stephen Du Ponceau.</p>
+            <p>Summary of Collection: There are many content rich sources in the collection. Heckewelder’s “Communications to the Historical and Literary Committee” is a 187-page bound volume of correspondence that includes responses to queries on Indian history, his own observations of Native culture, and records of Native American oral histories as conveyed to Heckewelder (970.1 H35c). The record provides insight in Native American history, white understanding of Native cultures, and oral traditions in the early nineteenth century. Among the oral histories Heckewelder records is a contact story, the history of the “emigration” of the Lenni Lenape from the west, and origins stories of other Native groups as related by the Delaware.</p>
+            <p>The collection also contains his extensive correspondence with Peter Du Ponceau on Indian culture and language (
+                <extref ns2:actuate="onLoad" ns2:show="new" ns2:href="http://www.amphilsoc.org/mole/view?docId=ead/Mss.497.3.H35o-ead.xml">497.3 H35o</extref>). The content of these letters add additional details that were not included in his publications or other writings.</p>
+            <p>Also of significance are his notes on the names that the Lenni Lenape called areas of the Mid-Atlantic that also contain a list of important Indian leaders (
+                <extref ns2:actuate="onLoad" ns2:show="new" ns2:href="http://www.amphilsoc.org/mole/view?docId=ead/Mss.497.3.H35n-ead.xml">497.3 H35n</extref>). These brief biographical sketches are based on details provided by Indians or Heckewelder’s own interactions with them.</p>
+            <p>Finally, remaining portions of the Heckewelder Collection contain detailed meteorological data for Gnadenhutten (
+                <extref ns2:actuate="onLoad" ns2:show="new" ns2:href="http://www.amphilsoc.org/mole/view?docId=ead/Mss.551.5.H352-ead.xml">551.5 H352</extref>) and other language data.</p>
+        </odd>
+        <controlaccess>
+            <corpname rules="aacr" source="naf">American Philosophical Society. Historical &amp; Literary Committee.</corpname>
+            <subject source="lcsh">Delaware Indians</subject>
+            <subject source="lcsh">Indians of North America--History</subject>
+            <subject source="lcsh">Indians of North America--Languages</subject>
+            <subject source="lcsh">Indians of North America--Social life and customs</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.172.2.F87-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.172.2.F87</num>
+                </titleproper>
+                <author>Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:07-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="item">
+        <did>
+            <unittitle>Adviser advised by Tom Freeman, pseud.</unittitle>
+            <unitid>Mss.172.2.F87</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid120063" type="Box-folder" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>1.0 Item(s)</extent>
+            </physdesc>
+            <unitdate>n.d.</unitdate>
+            <abstract id="ref1" label="Abstract">In the hand of Franklin, "from a manuscript not yet printed."</abstract>
+            <physdesc id="ref2" label="General Physical Description note">1 item, 2 p.</physdesc>
+            <physloc id="ref4" label="Paging">LH-MV-E-7</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="local" role="Author (aut)">Freeman, Tom</persname>
+            </origination>
+        </did>
+        <odd id="ref3">
+            <head>Early American History Note</head>
+            <p>This single page is a manuscript essay in Benjamin Franklin’s hand that attacks prominent proprietary figures in Pennsylvania’s government, especially James Logan. The document is in a standalone volume, but it was originally part of Benjamin Franklin’s papers. Not much is known about it. It may have been an essay submitted to him for publication in the Pennsylvania Gazette or, as scholars of Franklin have suspected, it could be an early, unpublished essay of Franklin’s.</p>
+        </odd>
+        <controlaccess>
+            <subject source="leah">Colonial Politics</subject>
+            <genreform source="leah">Manuscript Essays</genreform>
+            <subject source="leah">Pennsylvania History</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

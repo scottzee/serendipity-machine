@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.385.St6-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.385.St6</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:09-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Stock certificates, [ca. 1840-1900]</unittitle>
+            <unitid>Mss.385.St6</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid751" type="Box" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>0.25 Linear feet</extent>
+                <extent>Ca. 145 items. </extent>
+            </physdesc>
+            <unitdate normal="1840/1900" type="inclusive">Circa 1840-1900</unitdate>
+            <abstract id="ref1" label="Abstract">This collection includes certificates issued primarily by railroad companies, banks, and industrial companies. There are some bonds issued by the City of Philadelphia. Also of interest are the scenic engravings of railroads on the certificates.</abstract>
+            <physdesc id="ref6" label="General Physical Description note">Ca. 145 items.</physdesc>
+            <physloc id="ref7" label="Paging">LH-MV-E-7</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Anonymous</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref5">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by Kenneth W. Rendell, 1976; accessioned, 1977.</p>
+        </acqinfo>
+        <odd id="ref8">
+            <head>Early American History Note</head>
+            <p>This collection contains 121 stock and bond certificates for companies, most of which are railroad companies. The bonds are notable for having engraved depictions of locomotives on them. There is also at least one that is signed by Cornelius Vanderbilt. The majority of the certificates date to the late-nineteenth century.</p>
+        </odd>
+        <controlaccess>
+            <genreform source="leah">Art</genreform>
+            <genreform source="lcsh">Bonds (financial instruments).</genreform>
+            <subject source="lcsh">Bonds -- Pennsylvania -- Philadelphia.</subject>
+            <subject source="leah">Business and Skilled Trades</subject>
+            <genreform source="leah">Business Records and Accounts</genreform>
+            <subject source="lcsh">Railroad companies.</subject>
+            <subject source="lcsh">Stock certificates.</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

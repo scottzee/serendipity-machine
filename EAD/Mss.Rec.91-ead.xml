@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Rec.91-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Rec.91</num>
+                    <num>Mss.Rec.91</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Brian Carpenter</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+                <date>09-2010</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T21:19-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Mam, Xinca, and Pocomam Central linguistics</unittitle>
+            <unitid>Mss.Rec.91</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="cai"/>
+            </langmaterial>
+            <physdesc>
+                <extent>1.0 Reel(s)</extent>
+            </physdesc>
+            <unitdate>1969</unitdate>
+            <abstract id="ref2" label="Abstract">Consists of samples of a larger set of material excerpted by the collector from his original field recordings. Conversations, elicited word lists with Spanish equivalents, and texts in three Guatemalan languages. Recorded in Guatemala in 1969.</abstract>
+            <physdesc id="ref3" label="General Physical Description note">1 sound cassette (1 hr., 32 min.) : analog, 1 7/8 ips</physdesc>
+            <physloc id="ref42" label="Paging">LH-B-32-3</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Simeon, George</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref4">
+            <head>Immediate Source of Acquisition</head>
+            <p>Donated by George Simeon in 1972 (Acc. 1972 1835rec). This material was recorded with the assistance of a Phillips Fund grant.</p>
+        </acqinfo>
+        <relatedmaterial id="ref5">
+            <head>Related Archival Materials note</head>
+            <p>Report (3p.) on 1968-1969 fieldwork, summary of tapes (2p.), outline of monograph (1p.), and inventory of tape (1p.) available in 
+                <extref ns2:actuate="onLoad" ns2:show="new" ns2:href="http://www.amphilsoc.org/mole/view?docId=ead/Mss.497.3.Am4-ead.xml">Phillips Fund collection</extref> (Mss.497.3.Am4).</p>
+        </relatedmaterial>
+        <controlaccess>
+            <subject source="lcsh">Indians of Central America--Guatemala--Languages</subject>
+            <subject source="lcsh">Mam language</subject>
+            <subject source="lcsh">Mayan languages</subject>
+            <subject source="ingest">Pokomam language</subject>
+            <subject source="lcsh">Witchcraft--Guatemala</subject>
+            <subject source="lcsh">Xinca language</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref6" level="series">
+                <did>
+                    <unittitle>Audio recordings</unittitle>
+                </did>
+                <c02 id="ref7" level="file">
+                    <did>
+                        <unittitle>A text in the Mixco dialect of Pocomam Central</unittitle>
+                        <unitid>01-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1969</unitdate>
+                        <physdesc id="ref8" label="General Physical Description note">
+                            <extent>00:03:02</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Simeon, George</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref9">
+                        <head>Scope and Contents note</head>
+                        <p>Central Pokomam language. This program is a sample made by the collector of a larger set of material on the collector's original tapes. The full original program is described in the collector's documenation as follows: "A 5-minute unglossed rambling text from a 65-year-old Mixco female. The text is not a good example of Pocomam Central, but no fluent speaker in Mixco could be found." The name of the speaker is not identified in the collector's documentation.</p>
+                    </scopecontent>
+                    <originalsloc id="ref11">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1801" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3645">
+                        <daodesc>
+                            <p>APSdigrec_1801</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Anthropological linguistics</subject>
+                        <subject source="lcsh">Indians of Central America--Guatemala--Languages</subject>
+                        <geogname source="ingest">Mixco (Guatemala, Guatemala)</geogname>
+                        <subject source="ingest">Pokomam language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref12" level="file">
+                    <did>
+                        <unittitle>Material in the Chinautlan dialect of Pocomam Central including examples of whispering and syllabating</unittitle>
+                        <unitid>01-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1969</unitdate>
+                        <physdesc id="ref13" label="General Physical Description note">
+                            <extent>00:08:02</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Simeon, George</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref14">
+                        <head>Scope and Contents note</head>
+                        <p>Central Pokomam language. This program is a sample made by the collector of a larger set of material on the collector's original tapes. The full original program is described in the collector's documenation as follows: "1 hour 53 minutes from a 26-year-old female speaker of Pocomam Central from Chinautla. Almost all the material is glossed in Spanish and includes songs, phrases, sentences, examples of whispering (to determine what changes the phonemic system of Pocomam Central undergoes when whispered), speaking slow (to determine syllabic boundaries), and for lexicostatistic purposes, the Pocomam Central equivalent of M. Mayers' 250-list as presented in _Languages of Guatemala_." The name of the speaker is not identified in the collector's documentation.</p>
+                    </scopecontent>
+                    <originalsloc id="ref16">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1802" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3641">
+                        <daodesc>
+                            <p>APSdigrec_1802</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Anthropological linguistics</subject>
+                        <geogname source="ingest">Chinautla (Guatemala)</geogname>
+                        <subject source="lcsh">Indians of Central America--Guatemala--Languages</subject>
+                        <subject source="ingest">Pokomam language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref17" level="file">
+                    <did>
+                        <unittitle>Material in the Palín dialect of Pocomam Central</unittitle>
+                        <unitid>01-03</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1969</unitdate>
+                        <physdesc id="ref18" label="General Physical Description note">
+                            <extent>00:14:53</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Simeon, George</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref19">
+                        <head>Scope and Contents note</head>
+                        <p>Central Pokomam language. This program is a sample made by the collector of a larger set of material on the collector's original tapes. The full original program is described in the collector's documenation as follows: "1 hour 32 minutes froma 69-year-old male speaker from Palín. The material includes [the Pocomam Central equivalent of M. Mayers' 250-list as presented in _Languages of Guatemala_], phrases, sentences (all glossed) and some short texts. The texts are explained in Spanish but are not glossed, since the informant was not capable of performing this task. No other informant from Palín could be obtained." The name of the speaker is not identified in the collector's documentation.</p>
+                    </scopecontent>
+                    <originalsloc id="ref21">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1803" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3644">
+                        <daodesc>
+                            <p>APSdigrec_1803</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Anthropological linguistics</subject>
+                        <subject source="lcsh">Indians of Central America--Guatemala--Languages</subject>
+                        <geogname source="ingest">Palín (Guatemala)</geogname>
+                        <subject source="ingest">Pokomam language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref22" level="file">
+                    <did>
+                        <unittitle>A dialogue between two speakers of the Chinautlan dialect of Pocomam Central</unittitle>
+                        <unitid>01-04</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1969</unitdate>
+                        <physdesc id="ref23" label="General Physical Description note">
+                            <extent>00:53:33</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Simeon, George</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref24">
+                        <head>Scope and Contents note</head>
+                        <p>Central Pokomam language. This program is a sample made by the collector of a larger set of material on the collector's original tapes. The full original program is described in the collector's documenation as follows: "A 1 hour 25 minute dialogue in Pocomam Central between [a 22 year-old female Ladina (mixed Spanish-Indian) of Chinautla] and a monolingual, approximately 32-year-old female of Chinautla. The conversation ranges over many topics including sorcery and disease, the Indian woman having had considerable first-hand experience as a vicitm of sorcery. This material is by far the most importnat and valuable item that I collected." The name of the speaker is not identified in the collector's documentation.</p>
+                    </scopecontent>
+                    <originalsloc id="ref26">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1804" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3643">
+                        <daodesc>
+                            <p>APSdigrec_1804</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Anthropological linguistics</subject>
+                        <geogname source="ingest">Chinautla (Guatemala)</geogname>
+                        <subject source="lcsh">Indians of Central America--Guatemala--Languages</subject>
+                        <subject source="ingest">Pokomam Indians--Medicine</subject>
+                        <subject source="lcsh">Pokomam Indians--Social life and customs</subject>
+                        <subject source="ingest">Pokomam language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref27" level="file">
+                    <did>
+                        <unittitle>Texts in the Chinautlan dialect of Pocomam Central</unittitle>
+                        <unitid>01-05</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1969</unitdate>
+                        <physdesc id="ref28" label="General Physical Description note">
+                            <extent>00:07:41</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Simeon, George</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref29">
+                        <head>Scope and Contents note</head>
+                        <p>Central Pokomam language. This program is a sample made by the collector of a larger set of material on the collector's original tapes. The full original program is described in the collector's documenation as follows: "17 minutes from an 18-year-old female speaker of Pocomam Central from Chinautla. The Pocomam Central equivalent of some Spanish sentences are elicited from the informant, and she also gives a short text in Pocomam Central and Spanish (the text has been glossed.) Although this informant has the Pocomam Central phonological system intact, she is not a fluent speaker, since her Pocomam Central grammar and vocabulary are sub-standard." The names of the speakers are not identified in the collector's documentation.</p>
+                    </scopecontent>
+                    <originalsloc id="ref31">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1805" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3640">
+                        <daodesc>
+                            <p>APSdigrec_1805</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Anthropological linguistics</subject>
+                        <geogname source="ingest">Chinautla (Guatemala)</geogname>
+                        <subject source="lcsh">Indians of Central America--Guatemala--Languages</subject>
+                        <subject source="ingest">Pokomam language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref32" level="file">
+                    <did>
+                        <unittitle>Some isolated examples of Xinca, a non-Mayan language of Guatemala</unittitle>
+                        <unitid>01-06</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1969</unitdate>
+                        <physdesc id="ref33" label="General Physical Description note">
+                            <extent>00:02:15</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Simeon, George</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref34">
+                        <head>Scope and Contents note</head>
+                        <p>This program is a sample made by the collector of a larger set of material on the collector's original tapes. The full original program is described in the collector's documenation as follows: "18 minutes from an old Xinca male speaker. This non-Mayan language is now sociologically dead but has been the subject of a grammar by a Guatemalan linguist. The informant gives some Xinca words and their Spanish equivalents." The name of the speaker is not identified in the collector's documentation.</p>
+                    </scopecontent>
+                    <originalsloc id="ref36">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1806" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3642">
+                        <daodesc>
+                            <p>APSdigrec_1806</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Anthropological linguistics</subject>
+                        <geogname source="ingest">Guatemala</geogname>
+                        <subject source="lcsh">Indians of Central America--Guatemala--Languages</subject>
+                        <subject source="lcsh">Xinca language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref37" level="file">
+                    <did>
+                        <unittitle>Two texts in the Chimaltenango dialect of Mam</unittitle>
+                        <unitid>01-07</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1969</unitdate>
+                        <physdesc id="ref38" label="General Physical Description note">
+                            <extent>00:02:28</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Simeon, George</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref39">
+                        <head>Scope and Contents note</head>
+                        <p>Northern Mam language, also known as Huehuetenango Mam. This program is a sample made by the collector of a larger set of material on the collector's original tapes. The full original program is described in the collector's documenation as follows: "5 minutes of Mam from a 32-year-old male speaker of Huehuetenango. he speaks first in Mam and then gives the Spanish equivalent. His texts discuss illness, bruheria, and medicinal plants all in relation to his village." The name of the speaker is not identified in the collector's documentation.</p>
+                    </scopecontent>
+                    <originalsloc id="ref41">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_1807" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3639">
+                        <daodesc>
+                            <p>APSdigrec_1807</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="ingest">Anthropological linguistics</subject>
+                        <subject source="lcsh">Indians of Central America--Guatemala--Languages</subject>
+                        <subject source="ingest">Mam Indians--Ethnobotany</subject>
+                        <subject source="ingest">Mam Indians--Medicine</subject>
+                        <subject source="lcsh">Mam language</subject>
+                        <geogname source="ingest">Santiago Chimaltenango (Guatemala)</geogname>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

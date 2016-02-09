@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Temp.xxxx-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Temp.xxxx</num>
+                </titleproper>
+                <author>Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T21:21-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Bibliographical card file, ca. 1718-1795.</unittitle>
+            <unitid>Mss.Temp.xxxx</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid97831" type="Box" label="Manuscripts">4</container>
+            <physdesc>
+                <extent>2.0 Linear feet</extent>
+            </physdesc>
+            <unitdate normal="1718/1795" type="inclusive">Circa</unitdate>
+            <abstract id="ref1" label="Abstract">A unique and invaluable research tool, this card file is an index of names and places and alphabetical abstracts of Philadelphia newspaper items and advertisements for the period covering ca. 1718-1795. Roach made a systematic search through eighteenth-century newspapers and several other sources, for biographical and subject information on Philadelphians and Pennsylvanians of the period. It is primarily biographical , but subject headings, such as "The Barracks," "Blue Lion, Sign of the," "Custom House," are scattered throughout. The source of each entry is cited, and there are brief annotations.</abstract>
+            <physdesc id="ref2" label="General Physical Description note">Ca. 9000 index cards.</physdesc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Roach, Hannah Benner.</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref5">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by Spencer Roach, 1977; accessioned, 01/24/1977.</p>
+        </acqinfo>
+        <bioghist id="ref4">
+            <head>Biographical/Historical note</head>
+            <p>Hannah Benner Roach was a professional genealogist and historical researcher.</p>
+        </bioghist>
+        <altformavail id="ref3">
+            <head>Existence and Location of Copies note</head>
+            <p>This collection is also available on microfilm (Film 1424).</p>
+        </altformavail>
+        <controlaccess>
+            <geogname source="lcsh">Pennsylvania -- History -- 18th century.</geogname>
+            <geogname source="lcsh">Philadelphia (Pa.) -- History -- Revolution, 1775-1783.</geogname>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

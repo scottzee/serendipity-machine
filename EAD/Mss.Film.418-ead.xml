@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Film.418-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Film.418</num>
+                </titleproper>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T20:14-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Lewis Cass Material, 1819-1837</unittitle>
+            <unitid>Mss.Film.418</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid13328003" type="Reel" label="Microform">1-57</container>
+            <physdesc>
+                <extent>57.0 Reel(s)</extent>
+            </physdesc>
+            <unitdate normal="1819/1837" type="inclusive">1819-1837</unitdate>
+            <physdesc id="ref3" label="General Physical Description note">Microfilms. 57 spools.</physdesc>
+            <physloc id="ref6" label="Paging">LH-RR-Media Rm-2</physloc>
+        </did>
+        <scopecontent id="ref1">
+            <head>Scope and Contents note</head>
+            <p>Includes: records of the U.S. legation in Paris; records of the office of the Secretary of War, Military affairs, 1833-1836; records of the Michigan superintendency of Indian affairs, 1819-1831; and U.S. Veterans administration, Revolutionary war pensions, Pension file of Levi Stedman.</p>
+        </scopecontent>
+        <acqinfo id="ref2">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Grant material - Nelson V. Russell.</p>
+        </acqinfo>
+        <odd id="ref4">
+            <head>General note</head>
+            <p>Collection not located (see Inventory of paper finding aids)</p>
+        </odd>
+        <odd id="ref5">
+            <head>Early American History Note</head>
+            <p>This is a microfilm of an early American collection that may be of interest to researchers at the APS and may complement an original manuscript collection at the APS.</p>
+        </odd>
+        <controlaccess>
+            <genreform source="leah">Microfilm Collection</genreform>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

@@ -1,0 +1,1042 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.P43-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.P43</num>
+                    <num>Mss.B.P43</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T21:25-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>John Pershouse correspondence and papers, 1749-1899</unittitle>
+            <unitid>Mss.B.P43</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid13275002" type="Box" label="Mixed materials">1</container>
+            <container parent="cid13275002" type="Volume">5</container>
+            <physdesc>
+                <extent>5.0 volumes; 62 items.</extent>
+            </physdesc>
+            <unitdate normal="1749/1899" type="inclusive">1749-1899</unitdate>
+            <abstract id="ref2" label="Abstract">This correspondence is principally concerned with business between Pershouse and his brother James in England, with comments on conditions and events in the United States, including anti-British feeling, Thomas Paine's return to America, Jefferson's administration, and immigration. The papers include Pershouse's journal (1800-1838), which includes accounts of travels in England, France, and the United States, letterbooks (1836-1862) of Henry Pershouse, nephew of John, chiefly on business matters, and two volumes of Pershouse genealogical data, compiled by B.M. Pershouse Bayley (1899).</abstract>
+            <physdesc id="ref3" label="General Physical Description note">5 volumes; 62 items.</physdesc>
+            <physloc id="ref215" label="Paging">LH-MV-C-16; LH-MV-E-5 (Bound volumes); LH-SB-Black Case-29 (OS)</physloc>
+            <origination label="creator">
+                <persname source="ingest">Pershouse, John,1769-1841.</persname>
+            </origination>
+        </did>
+        <odd id="ref4">
+            <head>Early American History Note</head>
+            <p>This collection contains five volumes of data relating to John Pershouse and his family. The collection contains two volumes of genealogical data from the later eighteenth century; the remaining three volumes all date to the early republic and consist of a travel journal and two letter books thought to belong to his nephew Henry. Of particular interest are the letters from Pershouse in Philadelphia to his brother in England. His letters often discuss many of the major political and social events happening in the early republic. He discusses immigration, Jefferson’s administration, and the culture of Philadelphia during this period.</p>
+        </odd>
+        <acqinfo id="ref5">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Purchased and accessioned, 1958 (1958 1433ms).</p>
+        </acqinfo>
+        <altformavail id="ref6">
+            <head>Existence and Location of Copies note</head>
+            <p>This material is also available on microfilm (Film 1370).</p>
+        </altformavail>
+        <bioghist id="ref7">
+            <head>Biographical/Historical note</head>
+            <p>John Pershouse was a Philadelphia merchant.</p>
+        </bioghist>
+        <controlaccess>
+            <persname source="ingest">Bayley, B. M. Pershouse</persname>
+            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+            <persname source="ingest">Paine, Thomas, 1737-1809</persname>
+            <persname source="ingest">Pershouse, Henry</persname>
+            <famname source="ingest">Pershouse, James.</famname>
+            <genreform source="leah">Business Records and Accounts</genreform>
+            <subject source="leah">Diplomatic History</subject>
+            <subject source="leah">Early National Politics</subject>
+            <geogname source="lcsh">England -- Description and travel.</geogname>
+            <genreform source="leah">Family Correspondence</genreform>
+            <genreform source="lcsh">Genealogies.</genreform>
+            <genreform source="leah">General Correspondence</genreform>
+            <subject source="leah">International Travel</subject>
+            <genreform source="lcsh">Journals (notebooks).</genreform>
+            <genreform source="lcsh">Letterbooks.</genreform>
+            <subject source="leah">Philadelphia History</subject>
+            <genreform source="leah">Political Correspondence</genreform>
+            <subject source="leah">Social Life and Custom</subject>
+            <subject source="leah">Travel</subject>
+            <genreform source="leah">Travel Narratives and Journals</genreform>
+            <geogname source="lcsh">United States -- Description and travel.</geogname>
+            <geogname source="lcsh">United States -- Politics and government -- 1783-1809.</geogname>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref8" level="series">
+                <did>
+                    <unittitle>Papers</unittitle>
+                    <unitdate>1794-1899</unitdate>
+                </did>
+                <scopecontent id="ref206">
+                    <head>Scope and Contents note</head>
+                    <p>D. 62 letters and documents and 5 ms. vols. Various sizes. Letters and documents are individually catalogued; 1794-1841. Vols.are: (John Pershouse. Journal; Feb. 1800-1838: B.M.P.Bayley. Genealogical data of the Pershouse family; 1899 and H. Pershouse. Letterbooks; 1836-1862.</p>
+                </scopecontent>
+                <c02 id="ref15" level="file">
+                    <did>
+                        <unittitle>Letter to James Pershouse;</unittitle>
+                        <unitdate>March 6, 1794</unitdate>
+                        <physdesc id="ref16" label="General Physical Description note">9-3/4x7-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Pershouse, John, 1769-1841</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref17">
+                        <head>Scope and Contents note</head>
+                        <p>Manchester, A.L.S. 1p.and add.,end. (see John Pershouse. Letters...) Concerning the possible sale of land.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref20" level="file">
+                    <did>
+                        <unittitle>Letter to James Pershouse, Chorley, Lancashire;</unittitle>
+                        <unitdate>April 16, 1798</unitdate>
+                        <physdesc id="ref21" label="General Physical Description note">8x7-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Pershouse, John, 1769-1841</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref22">
+                        <head>Scope and Contents note</head>
+                        <p>Nuremberg, A.L. 3p.and add.,end. Mutilated. (see John Pershouse. Letters...) Concerning his travels in Europe.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref23" level="file">
+                    <did>
+                        <unittitle>Letter to [James] Pershouse, Chorley, Lancashire;</unittitle>
+                        <unitdate>May 5, 1801</unitdate>
+                        <physdesc id="ref24" label="General Physical Description note">10x8</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Pershouse, John, 1769-1841</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref25">
+                        <head>Scope and Contents note</head>
+                        <p>Philadelphia, A.L.S. 3p.and add.,end. (see John Pershouse. Letters...) Ships flour. Concerning the price of provisions in England. Concerning Jefferson as president. Concerning political news in England. Concerning Pitt.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref26" level="file">
+                    <did>
+                        <unittitle>Letter to [James] Pershouse, Chorley, Lancashire;</unittitle>
+                        <unitdate>June 30, 1801</unitdate>
+                        <physdesc id="ref27" label="General Physical Description note">10x8</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Pershouse, John, 1769-1841</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref28">
+                        <head>Scope and Contents note</head>
+                        <p>Philadelphia, A.L.S. 4p.,add.,end. (see John Pershouse. Letters...) Concerning the price of food in England and the need for care of land. Concerning his travels in the U.S.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref29" level="file">
+                    <did>
+                        <unittitle>Letter to [James] Pershouse, Chorley, Lancashire;</unittitle>
+                        <unitdate>Nov. 20, 1801</unitdate>
+                        <physdesc id="ref30" label="General Physical Description note">10x8</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Pershouse, John, 1769-1841</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref31">
+                        <head>Scope and Contents note</head>
+                        <p>Philadelphia, A.L. 4p.,add.,end. (see John Pershouse. Letters...) Concerning internal affairs in the U.S. Concerning English foreign affairs. Concerning vaccination in the U.S. Immigration to the U.S.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref32" level="file">
+                    <did>
+                        <unittitle>Letter to [James] Pershouse, Chorley, Lancashire;</unittitle>
+                        <unitdate>Dec. 2, 1801</unitdate>
+                        <physdesc id="ref33" label="General Physical Description note">9-3/4x7-3/4</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Pershouse, John, 1769-1841</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref34">
+                        <head>Scope and Contents note</head>
+                        <p>Philadelphia, A.L.S. 4p.,add.,end. (see John Pershouse. Letters...) Internal affairs and prosperity of the U.S. Value of land in England. Current events. Refers to Porcupine, Franklin and Paine. Business in the U.S.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref35" level="file">
+                    <did>
+                        <unittitle>Letter to [James] Pershouse, Chorley, England;</unittitle>
+                        <unitdate>Feb. 26, 1802</unitdate>
+                        <physdesc id="ref36" label="General Physical Description note">10-1/2x8-1/4</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Pershouse, John, 1769-1841</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref37">
+                        <head>Scope and Contents note</head>
+                        <p>Philadelphia, A.L.S.with initials. 4p.,add.,end. (see John Pershouse. Letters...) Will stay longer in the U.S. Friendly advice on going into trade. Concerning congress and Jefferson. Refers to the Indians. Growth of cotton in the U.S.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref38" level="file">
+                    <did>
+                        <unittitle>Letter to [James] Pershouse, Chorley, England;</unittitle>
+                        <unitdate>June 14, 1802</unitdate>
+                        <physdesc id="ref39" label="General Physical Description note">10x8</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Pershouse, John, 1769-1841</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref40">
+                        <head>Scope and Contents note</head>
+                        <p>Philadelphia, A.L.S. 4p.,add.,end. (see John Pershouse. Letters...) Concerning some immigrants who return to England. State of commerce in the U.S. Hatred between North and South and fear that France, in Louisiana, will take the West, forecasts dissolution of the U.S.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref41" level="file">
+                    <did>
+                        <unittitle>Letter to [James] Pershouse, Chorley, England;</unittitle>
+                        <unitdate>Sept. 20, 1802</unitdate>
+                        <physdesc id="ref42" label="General Physical Description note">13x7-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Pershouse, John, 1769-1841</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref43">
+                        <head>Scope and Contents note</head>
+                        <p>New York, A.L. 4p.,add.,end. (see John Pershouse. Letters...) Concerning his travels through New York state. Concerning T. Paine.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref44" level="file">
+                    <did>
+                        <unittitle>Letter to [James] Pershouse, Chorley, Lancashire;</unittitle>
+                        <unitdate>Dec. 28, 1802</unitdate>
+                        <physdesc id="ref45" label="General Physical Description note">9-3/4x7-3/4</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Pershouse, John, 1769-1841</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref46">
+                        <head>Scope and Contents note</head>
+                        <p>Philadelphia, A.L.S. 4p.,add.,end. (see John Pershouse. Letters...) Business. Concerning the French in Louisiana and Jefferson. Refers to Paine.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref47" level="file">
+                    <did>
+                        <unittitle>Letter to James Pershouse;</unittitle>
+                        <unitdate>Dec. 28, 1802</unitdate>
+                        <physdesc id="ref48" label="General Physical Description note">9-3/4x8</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Pershouse, John, 1769-1841</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref49">
+                        <head>Scope and Contents note</head>
+                        <p>Philadelphia, A.L.S. 1p. Copy. (see John Pershouse. Letters...) Business. On same sheet as letter from John Pershouse to James Pershouse; Jan. 1, 1803.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref9" level="file">
+                    <did>
+                        <unittitle>Letter to [James] Pershouse, Chorley, England;</unittitle>
+                        <unitdate>[1802]</unitdate>
+                        <physdesc id="ref10" label="General Physical Description note">10-1/2x8</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Pershouse, John, 1769-1841</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref11">
+                        <head>Scope and Contents note</head>
+                        <p>A.L.S. 3p.and add.,end. (see John Pershouse. Letters. . .) Concerning Paine and his coming to the U.S. Refers to Whitefield and Priestley. Business.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref50" level="file">
+                    <did>
+                        <unittitle>Letter to [James] Pershouse, Chorley, Lancashire;</unittitle>
+                        <unitdate>Jan. 1, 1803</unitdate>
+                        <physdesc id="ref51" label="General Physical Description note">9-3/4x8</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Pershouse, John, 1769-1841</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref52">
+                        <head>Scope and Contents note</head>
+                        <p>Philadelphia, A.L.S.with initials. 3p.,add.,end. (see John Pershouse. Letters.) Business. On same sheet is letter from John Pershouse to James Pershouse; Dec. 28, 1802.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref53" level="file">
+                    <did>
+                        <unittitle>Letter to [James] Pershouse, Chorley, England;</unittitle>
+                        <unitdate>April 8, 1803</unitdate>
+                        <physdesc id="ref54" label="General Physical Description note">10x8</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Pershouse, John, 1769-1841</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref55">
+                        <head>Scope and Contents note</head>
+                        <p>Philadelphia, A.L.S. 4p.,and.,end. (see John Pershouse. Letters...) Business. Concerning Louisiana and the West. Refers to Paine and Jefferson. Priestley given dinner by the APS.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref56" level="file">
+                    <did>
+                        <unittitle>Letter to [James] Pershouse, Chorley, Lancashire;</unittitle>
+                        <unitdate>July 23, 1803</unitdate>
+                        <physdesc id="ref57" label="General Physical Description note">13x7-3/4</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Pershouse, John, 1769-1841</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref58">
+                        <head>Scope and Contents note</head>
+                        <p>Philadelphia, A.L.S. 2p.,add.,end. (see John Pershouse. Letters...) Business. Swiss immigrantion to the U.S.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref59" level="file">
+                    <did>
+                        <unittitle>Letter to [James] Pershouse, Stourbridge, England;</unittitle>
+                        <unitdate>Sept. 23, 1803</unitdate>
+                        <physdesc id="ref60" label="General Physical Description note">9-3/4x8</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Pershouse, John, 1769-1841</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref61">
+                        <head>Scope and Contents note</head>
+                        <p>Germantown, A.L.S. 4p.,add.,end. (see John Pershouse. Letters...) Yellow fever in Philadelphia. Business. Recommends he immigrate to the U.S. Concerning Jerome Bonaparte and T. Paine.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref62" level="file">
+                    <did>
+                        <unittitle>Letter to [James] Pershouse, Stourbridge;</unittitle>
+                        <unitdate>Dec. 15, 1803</unitdate>
+                        <physdesc id="ref63" label="General Physical Description note">9x7-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Pershouse, John, 1769-1841</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref64">
+                        <head>Scope and Contents note</head>
+                        <p>Philadelphia, A.L.S. 4p.,add.,end. (see John Pershouse. Letters...) Business. Results of the yellow fever epidemic. Slaves in the U.S.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref12" level="file">
+                    <did>
+                        <unittitle>Letter to [James] Pershouse, Chorley;</unittitle>
+                        <unitdate>[1803]</unitdate>
+                        <physdesc id="ref13" label="General Physical Description note">10x8</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Pershouse, John, 1769-1841</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref14">
+                        <head>Scope and Contents note</head>
+                        <p>Philadelphia, A.L.S. 4p.,add.,end. (see John Pershouse. Letters...) Business. Concerning internal improvements (roads and canals) of the U.S.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref65" level="file">
+                    <did>
+                        <unittitle>Letter to [James] Pershouse, Stourbridge, England;</unittitle>
+                        <unitdate>Jan. 20, 1804</unitdate>
+                        <physdesc id="ref66" label="General Physical Description note">9-1/2x8</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Pershouse, John, 1769-1841</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref67">
+                        <head>Scope and Contents note</head>
+                        <p>Philadelphia, A.L.S.with initials. 4p.,add.,end. (see John Pershouse. Letters...) Business. Revival of slave trade in the U.S. Current events. Refers to T. Jefferson. Jerome Bonaparte's marriage.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref68" level="file">
+                    <did>
+                        <unittitle>Letter to [James] Pershouse, Stourbridge;</unittitle>
+                        <unitdate>May 4, 1804</unitdate>
+                        <physdesc id="ref69" label="General Physical Description note">10x8</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Pershouse, John, 1769-1841</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref70">
+                        <head>Scope and Contents note</head>
+                        <p>Philadelphia, A.L.S. 4p.,add.,end. (see John Pershouse. Letters...) Praises the U.S. and urges him to immigrate. Refers to Jerome Bonaparte. Refers to Jefferson and Paine.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref71" level="file">
+                    <did>
+                        <unittitle>Letter to [James] Pershouse, Stourbridge, England;</unittitle>
+                        <unitdate>Sept. 10, 1804</unitdate>
+                        <physdesc id="ref72" label="General Physical Description note">9-1/2x7-3/4</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Pershouse, John, 1769-1841</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref73">
+                        <head>Scope and Contents note</head>
+                        <p>Philadelphia, A.L.S. 4p.,add.,end. (see John Pershouse. Letters...) Friendly letter. Concerning Jerome Bonaparte. Influx of immigrants. Will become a citizen. Refers to Priestley.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref74" level="file">
+                    <did>
+                        <unittitle>Letter to [James] Pershouse, Stourbridge;</unittitle>
+                        <unitdate>Sept. 24, 1804</unitdate>
+                        <physdesc id="ref75" label="General Physical Description note">9-1/2x7-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Pershouse, John, 1769-1841</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref76">
+                        <head>Scope and Contents note</head>
+                        <p>Philadelphia, A.L.S. 3p.and add.,end. (see John Pershouse. Letters...) Business.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref77" level="file">
+                    <did>
+                        <unittitle>Letter to Ja[me]s Pershouse, Stourbridge;</unittitle>
+                        <unitdate>March 10, 1805</unitdate>
+                        <physdesc id="ref78" label="General Physical Description note">10-1/4x8</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Pershouse, John, 1769-1841</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref79">
+                        <head>Scope and Contents note</head>
+                        <p>Philadelphia, A.L.S. 4p.add.,end. (see John Pershouse. Letters...) Business. Concerning a trip in Pennsylvania. Refers to Priestley.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref80" level="file">
+                    <did>
+                        <unittitle>Letter to [James] Pershouse, Stourbridge;</unittitle>
+                        <unitdate>May 25, 1805</unitdate>
+                        <physdesc id="ref81" label="General Physical Description note">10-1/4x8</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Pershouse, John, 1760-1841</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref82">
+                        <head>Scope and Contents note</head>
+                        <p>Philadelphia, A.L.S. 3p.and add.,end. (see John Pershouse. Letters...) Business. Will stay in America. Concerning Paine.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref83" level="file">
+                    <did>
+                        <unittitle>Letter to [James] Pershouse, Stourbridge;</unittitle>
+                        <unitdate>Oct. 26, 1805</unitdate>
+                        <physdesc id="ref84" label="General Physical Description note">10-1/4x8</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Pershouse, John, 1769-1841</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref85">
+                        <head>Scope and Contents note</head>
+                        <p>Philadelphia, A.L.S. 4p.,add.,end. (see John Pershouse. Letters...) Concerning T. Paine. Business. Concerning yellow fever. Current events.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref86" level="file">
+                    <did>
+                        <unittitle>Letter to [James] Pershouse, Stourbridge;</unittitle>
+                        <unitdate>Dec. 10, 1805</unitdate>
+                        <physdesc id="ref87" label="General Physical Description note">10-1/4x8</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Pershouse, John, 1769-1841</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref88">
+                        <head>Scope and Contents note</head>
+                        <p>Philadelphia, A.L.S. 4p.,add.,end. (see John Pershouse. Letters...) Business. Jefferson's speech to congress. Refers to T. Paine.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref89" level="file">
+                    <did>
+                        <unittitle>Letter to [James] Pershouse, Stourbridge;</unittitle>
+                        <unitdate>Dec. 15, 1805</unitdate>
+                        <physdesc id="ref90" label="General Physical Description note">10-1/4x8</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Pershouse, John, 1769-1841</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref91">
+                        <head>Scope and Contents note</head>
+                        <p>Philadelphia, A.L.S. 2p.and add.,end. (see John Pershouse. Letters...) Business. Rising feeling against impressment in the U.S.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref95" level="file">
+                    <did>
+                        <unittitle>Letter to [James] Pershouse, Stourbridge;</unittitle>
+                        <unitdate>Feb. 23, 1806</unitdate>
+                        <physdesc id="ref96" label="General Physical Description note">10-1/4x8-1/4</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Pershouse, John, 1769-1841</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref97">
+                        <head>Scope and Contents note</head>
+                        <p>Philadelphia, A.L.S. 3p.and add.,end. Contains pencilled note in German on add. sheet. (see John Pershouse. Letters...) Sends gift of flour. Concerning T. Paine. Business. Growth of population in the U.S.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref98" level="file">
+                    <did>
+                        <unittitle>Letter to [James] Pershouse, Stourbridge;</unittitle>
+                        <unitdate>April 4, 1806</unitdate>
+                        <physdesc id="ref99" label="General Physical Description note">10-1/2x8</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Pershouse, John, 1769-1841</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref100">
+                        <head>Scope and Contents note</head>
+                        <p>Philadelphia, A.L.S. 4p.,add.,end. (see John Pershouse. Letters...) Business.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref101" level="file">
+                    <did>
+                        <unittitle>Letter to [James] Pershouse, Stourbridge;</unittitle>
+                        <unitdate>June 18, 1806</unitdate>
+                        <physdesc id="ref102" label="General Physical Description note">10-1/2x8</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Pershouse, John, 1769-1841</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref103">
+                        <head>Scope and Contents note</head>
+                        <p>Philadelphia, A.L.S. 4p.,add.,end. (see John Pershouse. Letters...) Business. Concerning immigration to the U.S.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref92" level="file">
+                    <did>
+                        <unittitle>Letter to [James] Pershouse, Stourbridge;</unittitle>
+                        <unitdate>Oct. 24, Oct. 30, 1806</unitdate>
+                        <physdesc id="ref93" label="General Physical Description note">9-1/2x7-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Pershouse, John, 1769-1841</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref94">
+                        <head>Scope and Contents note</head>
+                        <p>Philadelphia, A.L.S. 4p.,add.,end. (see John Pershouse. Letters...) Business.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref104" level="file">
+                    <did>
+                        <unittitle>Letter to [James] Pershouse, Stourbridge;</unittitle>
+                        <unitdate>Dec. 5, 1806</unitdate>
+                        <physdesc id="ref105" label="General Physical Description note">13x8</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Pershouse, John, 1769-1841</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref106">
+                        <head>Scope and Contents note</head>
+                        <p>Philadelphia, A.L.S. 2p.add.,end. (see John Pershouse. Letters...) Business. Refers to Jefferson. Concerning business in the U.S.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref107" level="file">
+                    <did>
+                        <unittitle>Letter to [James] Pershouse, Stourbridge;</unittitle>
+                        <unitdate>April 1, 1807</unitdate>
+                        <physdesc id="ref108" label="General Physical Description note">10x7-3/4</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Pershouse, John, 1769-1841</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref109">
+                        <head>Scope and Contents note</head>
+                        <p>Philadelphia, A.L.S. 3p.and add.,end. (see John Pershouse. Letters...) Business. Friendly letter. Refers to an article in the Port Folio.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref110" level="file">
+                    <did>
+                        <unittitle>Letter to [James Pershouse];</unittitle>
+                        <unitdate>May 10, 1807</unitdate>
+                        <physdesc id="ref111" label="General Physical Description note">10x8</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Pershouse, John, 1769-1841</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref112">
+                        <head>Scope and Contents note</head>
+                        <p>Philadelphia, A.L.S. 2p. (see John Pershouse. Letters...) Business. Friendly letter. Concerning Thomas Paine.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref113" level="file">
+                    <did>
+                        <unittitle>Letter to [James] Pershouse, Stourbridge;</unittitle>
+                        <unitdate>Oct. 8, 1807</unitdate>
+                        <physdesc id="ref114" label="General Physical Description note">10x8</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Pershouse, John, 1769-1841</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref115">
+                        <head>Scope and Contents note</head>
+                        <p>Philadelphia, A.L.S. 4p.,add., end. (see John Pershouse. Letters...) Business. Concerning the Chesapeake and the Leopard affair. Refers to Jefferson. Concerning a comet.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref116" level="file">
+                    <did>
+                        <unittitle>Letter to [James] Pershouse, Kingswinford;</unittitle>
+                        <unitdate>Feb. 5, 1808</unitdate>
+                        <physdesc id="ref117" label="General Physical Description note">10x8</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Pershouse, John, 1769-1841</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref118">
+                        <head>Scope and Contents note</head>
+                        <p>Philadelphia, A.L.S. 4p.,add.,end. (see John Pershouse. Letters...) Business. Concerning Anglo-American relations.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref119" level="file">
+                    <did>
+                        <unittitle>Letter to [James] Pershouse, Stourbridge;</unittitle>
+                        <unitdate>April 26, 1808</unitdate>
+                        <physdesc id="ref120" label="General Physical Description note">10x8</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Pershouse, John, 1769-1841</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref121">
+                        <head>Scope and Contents note</head>
+                        <p>Philadelphia, A.L.S. 4p.,add.,end. (see John Pershouse. Letters...) Business. Concerning the Embargo.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref122" level="file">
+                    <did>
+                        <unittitle>Letter to [James] Pershouse, Stourbridge;</unittitle>
+                        <unitdate>Oct. 31, 1808</unitdate>
+                        <physdesc id="ref123" label="General Physical Description note">10x8</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Pershouse, John, 1769-1841</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref124">
+                        <head>Scope and Contents note</head>
+                        <p>Philadelphia, A.L.S. 4p.,add.,end. (see John Pershouse. Letters...) Business. Concerning Anglo-American relations.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref125" level="file">
+                    <did>
+                        <unittitle>Letter to [James] Pershouse, Stourbridge;</unittitle>
+                        <unitdate>Dec. 3, 1808</unitdate>
+                        <physdesc id="ref126" label="General Physical Description note">10x8</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Pershouse, John, 1769-1841</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref127">
+                        <head>Scope and Contents note</head>
+                        <p>Philadelphia, A.L.S.with initials. 4p.,add.,end. (see John Pershouse. Letters...) Business. Concerning the Embargo.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref128" level="file">
+                    <did>
+                        <unittitle>Letter to [James] Pershouse, Bridgnorth, England;</unittitle>
+                        <unitdate>Nov. 11, 1809</unitdate>
+                        <physdesc id="ref129" label="General Physical Description note">10x8</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Pershouse, John, 1769-1841</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref130">
+                        <head>Scope and Contents note</head>
+                        <p>Philadelphia, A.L.S. 4p.,add.,end. (see John Pershouse. Letters...) Business.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref131" level="file">
+                    <did>
+                        <unittitle>Letter to [James] Pershouse, Bridgnorth, England;</unittitle>
+                        <unitdate>June 10, 1810</unitdate>
+                        <physdesc id="ref132" label="General Physical Description note">9-3/4x8</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Pershouse, John, 1769-1841</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref133">
+                        <head>Scope and Contents note</head>
+                        <p>Philadelphia, A.L.S. 4p.,add.,end. (see John Pershouse. Letters...) Current events. Describes expanding economy of the U.S. Death of Paine. Business.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref134" level="file">
+                    <did>
+                        <unittitle>Letter to [James] Pershouse, Bridgnorth;</unittitle>
+                        <unitdate>Nov. 27, 1810</unitdate>
+                        <physdesc id="ref135" label="General Physical Description note">9-3/4x7-3/4</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Pershouse, John, 1769-1841</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref136">
+                        <head>Scope and Contents note</head>
+                        <p>Philadelphia, A.L.S. 4p.,add.,end. (see John Pershouse. Letters...) Business. Describes trip through Albany to Canada.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref137" level="file">
+                    <did>
+                        <unittitle>Letter to [James] Pershouse, Bridgnorth, England;</unittitle>
+                        <unitdate>Jan. 26, 1811</unitdate>
+                        <physdesc id="ref138" label="General Physical Description note">10x8</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Pershouse, John, 1769-1841</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref139">
+                        <head>Scope and Contents note</head>
+                        <p>Philadelphia, A.L.S. 3p.and. add.,end. (see John Pershouse. Letters...) Describes how a poor man may prosper in the U.S. Business. Concerning Dunkers. Concerning Indians of Canada.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref140" level="file">
+                    <did>
+                        <unittitle>Letter to [James] Pershouse, Bridgnorth;</unittitle>
+                        <unitdate>July 5, 1811</unitdate>
+                        <physdesc id="ref141" label="General Physical Description note">10x8</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Pershouse, John, 1769-1841</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref142">
+                        <head>Scope and Contents note</head>
+                        <p>Philadelphia, A.L.S. 3p.and add.,end. (see John Pershouse. Letters...) Concerning immigration to the U.S. Business. Describes a visit to Maryland. Current events.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref143" level="file">
+                    <did>
+                        <unittitle>Letter to [James] Pershouse, Bridgnorth, England;</unittitle>
+                        <unitdate>Dec. 12, 1811</unitdate>
+                        <physdesc id="ref144" label="General Physical Description note">10x8</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Pershouse, John, 1769-1841</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref145">
+                        <head>Scope and Contents note</head>
+                        <p>Philadelphia, A.L.S. 4p.,add. (see John Pershouse. Letters...) Business. Development of manufactures in the U.S.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref146" level="file">
+                    <did>
+                        <unittitle>Letter to James Pershouse, Bridgenorth;</unittitle>
+                        <unitdate>March 17, 1812</unitdate>
+                        <physdesc id="ref147" label="General Physical Description note">9x7-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">How and Marsham, Stock-Brokers</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref148">
+                        <head>Scope and Contents note</head>
+                        <p>London, Printed D.filled in in ms.and L. 2p. and add.,end. (See John Pershouse. Letters...) Business.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref149" level="file">
+                    <did>
+                        <unittitle>Letter to [James] Pershouse, Bridgnorth, England;</unittitle>
+                        <unitdate>June 2, 1812</unitdate>
+                        <physdesc id="ref150" label="General Physical Description note">10x8</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Pershouse, John, 1769-1841</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref151">
+                        <head>Scope and Contents note</head>
+                        <p>Philadelphia, A.L.S. 2p.and add. (see John Pershouse. Letters...) Business. Possibility of war with Great Britain.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref152" level="file">
+                    <did>
+                        <unittitle>Letter to [James] Pershouse, Bridgnorth, England;</unittitle>
+                        <unitdate>Aug. 10, 1812</unitdate>
+                        <physdesc id="ref153" label="General Physical Description note">10x8</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Pershouse, John, 1769-1841</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref154">
+                        <head>Scope and Contents note</head>
+                        <p>Philadelphia, A.L.S. 4p.,add.,end. (see John Pershouse. Letters...) Concerning the war. Possible rise of manufactures in the U.S.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref155" level="file">
+                    <did>
+                        <unittitle>Letter to [James] Pershouse, Bridgnorth;</unittitle>
+                        <unitdate>Dec. 20, 1813</unitdate>
+                        <physdesc id="ref156" label="General Physical Description note">10x8-1/4</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Pershouse, John, 1769-1841</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref157">
+                        <head>Scope and Contents note</head>
+                        <p>Philadelphia, A.L.S. 4p.,add.,end. (see John Pershouse. Letters...) Concerning the war. Concerning internal affairs of the U.S.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref158" level="file">
+                    <did>
+                        <unittitle>Letter to [James] Pershouse, Bridgnorth;</unittitle>
+                        <unitdate>June 17, 1815</unitdate>
+                        <physdesc id="ref159" label="General Physical Description note">9-1/2x8</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Pershouse, John, 1769-1841</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref160">
+                        <head>Scope and Contents note</head>
+                        <p>Philadelphia, A.L.S. 3p.and add. (see John Pershouse. Letters...) Concerning the peace and the development of the U.S. His plans to return to England.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref161" level="file">
+                    <did>
+                        <unittitle>Letter to [James] Pershouse, Bridgnorth;</unittitle>
+                        <unitdate>Aug. 14, 1815</unitdate>
+                        <physdesc id="ref162" label="General Physical Description note">10x8</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Pershouse, John, 1769-1841</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref163">
+                        <head>Scope and Contents note</head>
+                        <p>Philadelphia, A.L.S.with initials. 4p.,add. (see John Pershouse. Letters...) Business. Returns soon to England. Growth of the U.S. Return of Bonaparte.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref164" level="file">
+                    <did>
+                        <unittitle>Letter to [James] Pershouse, Bridgnorth;</unittitle>
+                        <unitdate>Dec. 30, 1815</unitdate>
+                        <physdesc id="ref165" label="General Physical Description note">9x7-1/4</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Pershouse, John, 1769-1841</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref166">
+                        <head>Scope and Contents note</head>
+                        <p>London, A.L.S. 1p.and add.,end. (see John Pershouse. Letters...) Is in England and will visit him.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref167" level="file">
+                    <did>
+                        <unittitle>Letter to H[enry] Pershouse, Manchester;</unittitle>
+                        <unitdate>Nov. 2, 1817</unitdate>
+                        <physdesc id="ref168" label="General Physical Description note">9-1/2x7-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Pershouse, Elizabeth Pilling</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref169">
+                        <head>Scope and Contents note</head>
+                        <p>A.L.S. 3p. and add.with P.S. by J[ames] Pershouse. (see John Pershouse. Letters...) Friendly letter.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref170" level="file">
+                    <did>
+                        <unittitle>Letter to Mrs. H. Pershouse, Manchester;</unittitle>
+                        <unitdate>Aug. 24, 1825</unitdate>
+                        <physdesc id="ref171" label="General Physical Description note">9-1/4x7-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Barlow, Elizabeth</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref172">
+                        <head>Scope and Contents note</head>
+                        <p>A.L.S. 3p. and add. (see John Pershouse. Letters...) Friendly letter.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref173" level="file">
+                    <did>
+                        <unittitle>Policy issued to John Pershouse;</unittitle>
+                        <unitdate>May 20, 1826</unitdate>
+                        <physdesc id="ref174" label="General Physical Description note">20-1/2x16-1/2</physdesc>
+                        <physloc id="ref207" label="Location note">OS</physloc>
+                        <origination label="creator">
+                            <persname source="ingest">Protection Insurance Company</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref175">
+                        <head>Scope and Contents note</head>
+                        <p>Hartsford, Printed D.filled in in ms.S.: T.C.Perkins, secy., Wm.W.Ellsworth, pres. and John Boardman, agent. 1p. (see John Pershouse. Letters...)</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref176" level="file">
+                    <did>
+                        <unittitle>Passport issued to John Pershouse;</unittitle>
+                        <unitdate>Sept. 8, 1828</unitdate>
+                        <physdesc id="ref177" label="General Physical Description note">16x12-3/4</physdesc>
+                        <physloc id="ref208" label="Location note">OS</physloc>
+                        <origination label="creator">
+                            <persname source="ingest">Netherlands</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref178">
+                        <head>Scope and Contents note</head>
+                        <p>London, Printed D.filled in in ms.S.: J.W.May. and John Pershouse. 1p.and end. In French. (see John Pershouse. Letters...)</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref179" level="file">
+                    <did>
+                        <unittitle>Passport issued to John Pershouse;</unittitle>
+                        <unitdate>Aug. 28, 1829</unitdate>
+                        <physdesc id="ref180" label="General Physical Description note">17x10-1/2</physdesc>
+                        <physloc id="ref209" label="Location note">OS</physloc>
+                        <origination label="creator">
+                            <persname source="ingest">France</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref181">
+                        <head>Scope and Contents note</head>
+                        <p>London, Printed D.filled in in ms.S.: John Pershouse. A. Billing,sec. 1p.and end. In French. (see John Pershouse. Letters. . .)</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref210" level="file">
+                    <did>
+                        <unittitle>Ticket to Paris</unittitle>
+                        <unitdate>July 20, 1830</unitdate>
+                    </did>
+                    <scopecontent id="ref211">
+                        <head>Scope and Contents note</head>
+                        <p>1 item, printed with Mss filled in. Ticket to Paris, issued by English and Foreign Coach Office.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref182" level="file">
+                    <did>
+                        <unittitle>Statement of property;</unittitle>
+                        <unitdate>March 1, 1833</unitdate>
+                        <physdesc id="ref183" label="General Physical Description note">10x8</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Pershouse, John, 1769-1841</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref184">
+                        <head>Scope and Contents note</head>
+                        <p>A.D. 4p. (see John Pershouse. Letters...)</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref185" level="file">
+                    <did>
+                        <unittitle>Letter to R[obert] Ewing;</unittitle>
+                        <unitdate>June 4, 1841</unitdate>
+                        <physdesc id="ref186" label="General Physical Description note">10x8</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Bayard, James</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref187">
+                        <head>Scope and Contents note</head>
+                        <p>Philadelphia, L. 1p. Copy. (see John Pershouse. Letters...) Advises mode of settling John Pershouse's estate. On same sheet as letter from R.Ewing to H.Pershouse; June 11, 1841.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref188" level="file">
+                    <did>
+                        <unittitle>Letter to Henry Pershouse, Manchester;</unittitle>
+                        <unitdate>June 11, 1841</unitdate>
+                        <physdesc id="ref189" label="General Physical Description note">10x8</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Ewing, Robert</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref190">
+                        <head>Scope and Contents note</head>
+                        <p>Philadelphia, A.L.S. 2p.and add.,end. (see John Pershouse. Letters. . .) Death of John Pershouse. Statement of John Pershouse's estate. Enclose copy of letter advising mode of settling the estate. On same sheet is copy of letter from J. Bayard to R. Ewing; June 4, 1841.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref191" level="file">
+                    <did>
+                        <unittitle>Letter to Henry Pershouse, Manchester;</unittitle>
+                        <unitdate>June 28, 1841</unitdate>
+                        <physdesc id="ref192" label="General Physical Description note">9-3/4x7-3/4</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Ewing, Robert</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref193">
+                        <head>Scope and Contents note</head>
+                        <p>Philadelphia, A.L.S. 1p.and add.,end. (see John Pershouse. Letters...) Concerning the settlement of John Pershouse's estate.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref213" level="file">
+                    <did>
+                        <unittitle>Analysis of the will of the late Henry Pershouse.</unittitle>
+                        <unitdate>[1862]</unitdate>
+                    </did>
+                    <scopecontent id="ref214">
+                        <head>Scope and Contents note</head>
+                        <p>A.D. 4p.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref194" level="file">
+                    <did>
+                        <unittitle>Decision concerning the will of James Taylor.</unittitle>
+                        <unitdate>Undated</unitdate>
+                        <physdesc id="ref195" label="General Physical Description note">17x18</physdesc>
+                        <physloc id="ref212" label="Location note">OS</physloc>
+                        <origination label="creator">
+                            <persname source="ingest">Catholic Church. Archdiocese of Canterbury (England)</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref196">
+                        <head>Scope and Contents note</head>
+                        <p>D.S.: Geo[rge] Goslling, Nath[anie]l Goslling and R.C.Cresswell, Deputy Registers. 1p. Stamped. Parchment. (see John Pershouse. Letter...)</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref197" level="file">
+                    <did>
+                        <unittitle>Journal</unittitle>
+                        <unitid>B P43.1</unitid>
+                        <unitdate>Feb. 1800-1838</unitdate>
+                        <physdesc id="ref198" label="General Physical Description note">7-1/4x4-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Pershouse, John, 1769-1841</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref199">
+                        <head>Scope and Contents note</head>
+                        <p>A.D.S. 128p. of which 70 contain writing. End.: Henry Pershouse and G.H. Bradney Pershouse. Contains entries of his travels in the U.S.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref200" level="file">
+                    <did>
+                        <unittitle>Genealogical data of the Pershouse family</unittitle>
+                        <unitid>B P43.2</unitid>
+                        <unitdate>1899</unitdate>
+                        <physdesc id="ref201" label="General Physical Description note">7x4-1/2 and 8-3/4x7-1/4</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Bayley, Benjamin M. Pershouse, 1864-</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref202">
+                        <head>Scope and Contents note</head>
+                        <p>A.D.S. 2 vols. Contains references to John and James Pershouse.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref203" level="file">
+                    <did>
+                        <unittitle>Letterbooks</unittitle>
+                        <unitid>B P43.3</unitid>
+                        <unitdate>1834-1837</unitdate>
+                        <physdesc id="ref204" label="General Physical Description note">11x9, 12-3/4x8</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Pershouse, Henry, 1799-1862</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref205">
+                        <head>Scope and Contents note</head>
+                        <p>A.L.S. 2 volumes. Vol. 1 contains comments on books which he read, dated: 1834-1837. Vol. 2 contains entry on death of John Pershouse. Letters are mostly business letters.</p>
+                    </scopecontent>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

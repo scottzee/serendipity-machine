@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.970.3.W78-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.970.3.W78</num>
+                </titleproper>
+                <author>Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:26-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="file">
+        <did>
+            <unittitle>Papers and drawings for Cherokee Indian materials</unittitle>
+            <unitid>Mss.970.3.W78</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>1.0 Item(s)</extent>
+                <extent>1 item, 19 p.</extent>
+            </physdesc>
+            <unitdate normal="1893/1948" type="inclusive">1893-1948</unitdate>
+            <physloc id="ref10" label="Paging">LH-MV-E-13</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Contributor (ctb)">Witthoft, John, 1921-</persname>
+            </origination>
+        </did>
+        <bioghist id="ref2">
+            <head>Biographical/Historical note</head>
+            <p>Born October 4, 1921 in Oneonta, New York, John Witthoft had an unusual childhood. Suffering from scarlet fever at age 6, the disease left him with permanent eye damage and life-long tremors. His family saw these physical afflictions as retribution for his disagreeing with their religious beliefs and as a consequence disowned him at a very early age. At age 13 he started working and held many various jobs until finally settling on anthropology as a career. He obtained his masters degree from the University of Pennsylvania in 1946. While at the university, he assisted anthropologist Frank Speck with his studies of Cherokee language and culture at Big Cove, North Carolina. From 1948-1966, Witthoft was the Pennsylvania state anthropologist. He reported to the Pennsylvania Historical and Museum Commission and curated the state museum in Harrisburg. Some of his work there included field drawings of Indian mounds in Bradford County in 1948 as part of the Works Progress Administration program. Witthoft joined the faculty of the Department of Anthropology at the University of Pennsylvania in 1966 and remained as professor there until his retirement in 1986. During his teaching career he continued his field research among the Eastern Cherokee, Seneca, Cayuga, Delaware, and Cataba in the Atlantic region and the Hopi and Paiute in the West.</p>
+        </bioghist>
+        <relatedmaterial id="ref4">
+            <head>Related Archival Materials note</head>
+            <p>Works by John Witthoft include a 1953 Phillips fund report entitled A Cherokee economic botany from western North Carolina: man and nature in the southern Appalachians (497.3 Am4, no.4); a 1948 Works Progress Administration report with field drawings from the Sick site, Towanda, Bradford County, Pennsylvania (913.748 Un3, no.29).</p>
+        </relatedmaterial>
+        <processinfo id="ref8">
+            <head>Processing Information note</head>
+            <p>Inventory not complete, only scanned images are noted.</p>
+        </processinfo>
+        <scopecontent id="ref3">
+            <head>Native American Images note</head>
+            <p>28 sketches, 8 black and white silver gelatin photographs, and 2 negatives of North Carolina Cherokee artifacts from ca. 1893-1948. Presumably collected by Frank Speck with John Witthoft during the latter’s graduate field work, the images reflect the social life and customs of the Cherokee including war clubs, garments, Deer &amp; Bear masks, rattles and dance formations. Of the dances presented are the Pigeon, Partridge, Corn, Beaver, Green Corn, and Ball game. Of note, an 1893 photograph by Mooney depicting Cherokee men and women in native attire at a ceremony before a ball game. The sketches are noted in Murphy Smith’s Historical American Sketches.</p>
+        </scopecontent>
+        <acqinfo id="ref9">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by Dr. Leonard Broom, through Dr. Witthoft; April 3, 1969.</p>
+        </acqinfo>
+        <controlaccess>
+            <persname rules="aacr" source="naf" role="Collector (col)">Speck, Frank Gouldsmith, 1881-1950</persname>
+            <subject source="lcsh">Cherokee dance</subject>
+            <subject source="lcsh">Cherokee Indians--Social life and customs</subject>
+            <subject source="lcsh">Cherokee masks</subject>
+            <genreform source="gmgpc">Gelatin silver prints</genreform>
+            <subject source="lcsh">Indians of North America--North Carolina</subject>
+            <genreform source="gmgpc">Negatives</genreform>
+            <genreform source="lcsh">Sketches.</genreform>
+            <subject source="local">Southeast Indians</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref5" level="item">
+                <did>
+                    <unittitle>Cherokee bear mask</unittitle>
+                    <unitdate normal="1930/1950" type="inclusive">1930-1950</unitdate>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Cherokee bear mask " ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:2993">
+                    <daodesc>
+                        <p>Cherokee bear mask , 1930-1950 </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref6" level="item">
+                <did>
+                    <unittitle>Cherokee clubs</unittitle>
+                    <unitdate normal="1930/1950" type="inclusive">1930-1950</unitdate>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Cherokee clubs " ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:2991">
+                    <daodesc>
+                        <p>Cherokee clubs , 1930-1950 </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref7" level="item">
+                <did>
+                    <unittitle>Cherokee deer mask</unittitle>
+                    <unitdate normal="1930/1950" type="inclusive">1930-1950</unitdate>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Cherokee deer mask " ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:2992">
+                    <daodesc>
+                        <p>Cherokee deer mask , 1930-1950 </p>
+                    </daodesc>
+                </dao>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

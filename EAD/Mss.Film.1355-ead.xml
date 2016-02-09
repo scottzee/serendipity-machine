@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Film.1355-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Film.1355</num>
+                </titleproper>
+                <author>Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T20:13-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Berlin Improvement Society archives, 1836-1910</unittitle>
+            <unitid>Mss.Film.1355</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid273" type="Reel" label="Microform">1-2</container>
+            <physdesc>
+                <extent>2.0 Microfilm reel(s)</extent>
+            </physdesc>
+            <unitdate normal="1836/1910" type="inclusive">1836-1910</unitdate>
+            <physdesc id="ref4" label="General Physical Description note">2 microfilm reels.</physdesc>
+            <abstract id="ref1" label="Abstract">The archive of this village literary and scientific lyceum contains its constitution and by-laws, minutes, library catalogues, treasurer's accounts, membership rolls, and correspondence.</abstract>
+            <physloc id="ref7" label="Paging">LH-RR-Media Rm-6</physloc>
+            <origination label="creator">
+                <corpname rules="aacr" source="naf" role="Author (aut)">Berlin Improvement Society.</corpname>
+            </origination>
+        </did>
+        <acqinfo id="ref6">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by Lions Club of East Berlin, Pa. and accessioned, 1976 (1976 624-625mf).</p>
+        </acqinfo>
+        <bioghist id="ref5">
+            <head>Biographical/Historical note</head>
+            <p>The Berlin Improvement Society, founded in 1836, functioned as a literary and scientific lyceum in East Berlin (Pa.).</p>
+        </bioghist>
+        <originalsloc id="ref3">
+            <head>Existence and Location of Originals note</head>
+            <p>Originals in possession of the Lions Club of East Berlin, Pa.</p>
+        </originalsloc>
+        <odd id="ref2">
+            <head>General note</head>
+            <p>See: George F. Kennan and Whitfield J. Bell, Jr., "Views from another East Berlin," APS Proc. 126:6 (1982): 472-480.</p>
+        </odd>
+        <odd id="ref8">
+            <head>Early American History Note</head>
+            <p>This microfilm collection may be of interest to early American scholars.</p>
+        </odd>
+        <controlaccess>
+            <genreform source="lcsh">Accounts.</genreform>
+            <genreform source="lcsh">Catalogs.</genreform>
+            <genreform source="lcsh">Constitutions.</genreform>
+            <subject source="lcsh">Learned institutions and societies -- Pennsylvania.</subject>
+            <subject source="lcsh">Lyceums.</subject>
+            <genreform source="leah">Microfilm Collection</genreform>
+            <genreform source="lcsh">Minutes.</genreform>
+            <subject source="lcsh">Science -- Societies, etc.</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

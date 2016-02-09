@@ -1,0 +1,1176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Rec.139-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Rec.139</num>
+                    <num>Mss.Rec.139</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Brian Carpenter in February 2011</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+                <date>February 2011</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T21:11-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Indian language recordings</unittitle>
+            <unitid>Mss.Rec.139</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="iro"/>
+            </langmaterial>
+            <container id="cid13011018" type="Reel" label="Audio">4</container>
+            <physdesc>
+                <extent>4.0 Tape(s)</extent>
+            </physdesc>
+            <unitdate normal="1959/1963" type="inclusive">1959, circa 1960-1961, 1963</unitdate>
+            <abstract id="ref3" label="Abstract">Seneca dance songs recorded at Coldspring, New York. Also includes a story, personal narratives, and interview discussions about sickness, medicine, witchcraft, and related Seneca ceremonies and customs.</abstract>
+            <physdesc id="ref2" label="General Physical Description note">4 sound tape reels (4 hr., 16 min.)</physdesc>
+            <physloc id="ref140" label="Paging">LH-B-32-4</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Snyderman, George Simon, 1908-</persname>
+            </origination>
+        </did>
+        <relatedmaterial id="ref4">
+            <head>Related Archival Materials</head>
+            <p>
+                <extref ns2:actuate="onLoad" ns2:show="new" ns2:href="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Ms.Coll.51-ead.xml">George S. Snyderman Papers (Ms.Coll.51)</extref>.</p>
+        </relatedmaterial>
+        <acqinfo id="ref5">
+            <head>Immediate Source of Acquisition</head>
+            <p>Accessioned with and removed from the 
+                <extref ns2:actuate="onLoad" ns2:show="new" ns2:href="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Ms.Coll.51-ead.xml">George S. Snyderman Papers (Ms.Coll.51)</extref>.</p>
+        </acqinfo>
+        <controlaccess>
+            <subject source="lcsh">Seneca Indians--Folklore</subject>
+            <subject source="lcsh">Seneca Indians--Music</subject>
+            <subject source="ingest">Seneca Indians--Social life and customs</subject>
+            <genreform source="ingest">Sound recordings</genreform>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref6" level="series">
+                <did>
+                    <unittitle>Audio recordings</unittitle>
+                </did>
+                <c02 id="ref7" level="file">
+                    <did>
+                        <unittitle>Round Dances, 6 songs</unittitle>
+                        <unitid>01-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1963-06-27</unitdate>
+                        <physdesc id="ref8" label="General Physical Description note">
+                            <extent>00:11:40</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="aacr" source="local">Jimerson, Avery</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Snyderman, George Simon, 1908-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Snyderman, Michael</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref9">
+                        <head>Scope and Contents note</head>
+                        <p>Duplicate of original recording on reel 2 from same collection.</p>
+                    </scopecontent>
+                    <originalsloc id="ref11">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3302" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6382">
+                        <daodesc>
+                            <p>APSdigrec_3302</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Allegany Indian Reservation (N.Y.)</geogname>
+                        <subject source="lcsh">Seneca dance</subject>
+                        <subject source="lcsh">Seneca Indians--Music</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref12" level="file">
+                    <did>
+                        <unittitle>Shake the Bush, 8 songs</unittitle>
+                        <unitid>01-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1963-06-27</unitdate>
+                        <physdesc id="ref13" label="General Physical Description note">
+                            <extent>00:06:47</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="aacr" source="local">Jimerson, Avery</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Snyderman, George Simon, 1908-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Snyderman, Michael</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref14">
+                        <head>Scope and Contents note</head>
+                        <p>Duplicate of original recording on reel 2 from same collection.</p>
+                    </scopecontent>
+                    <originalsloc id="ref16">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3303" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6393">
+                        <daodesc>
+                            <p>APSdigrec_3303</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Allegany Indian Reservation (N.Y.)</geogname>
+                        <subject source="lcsh">Seneca dance</subject>
+                        <subject source="lcsh">Seneca Indians--Music</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref17" level="file">
+                    <did>
+                        <unittitle>Rabbit Songs, 5 songs</unittitle>
+                        <unitid>01-03</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1963-06-27</unitdate>
+                        <physdesc id="ref18" label="General Physical Description note">
+                            <extent>00:06:35</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="aacr" source="local">Jimerson, Avery</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Snyderman, George Simon, 1908-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Snyderman, Michael</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref19">
+                        <head>Scope and Contents note</head>
+                        <p>Duplicate of original recording on reel 2 from same collection.</p>
+                    </scopecontent>
+                    <originalsloc id="ref21">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3304" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6405">
+                        <daodesc>
+                            <p>APSdigrec_3304</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Allegany Indian Reservation (N.Y.)</geogname>
+                        <subject source="lcsh">Seneca dance</subject>
+                        <subject source="lcsh">Seneca Indians--Music</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref22" level="file">
+                    <did>
+                        <unittitle>Crocodile</unittitle>
+                        <unitid>01-04</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1959-09-18</unitdate>
+                        <physdesc id="ref23" label="General Physical Description note">
+                            <extent>00:04:24</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Cusick, Chief</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Jimerson, Walter</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Snyderman, George Simon, 1908-</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref25">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3305" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6395">
+                        <daodesc>
+                            <p>APSdigrec_3305</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Allegany Indian Reservation (N.Y.)</geogname>
+                        <subject source="lcsh">Seneca dance</subject>
+                        <subject source="lcsh">Seneca Indians--Music</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref26" level="file">
+                    <did>
+                        <unittitle>Raccoon</unittitle>
+                        <unitid>01-05</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1959-09-18</unitdate>
+                        <physdesc id="ref27" label="General Physical Description note">
+                            <extent>00:06:34</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Cusick, Chief</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Jimerson, Walter</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Snyderman, George Simon, 1908-</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref29">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3306" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6397">
+                        <daodesc>
+                            <p>APSdigrec_3306</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Allegany Indian Reservation (N.Y.)</geogname>
+                        <subject source="lcsh">Seneca dance</subject>
+                        <subject source="lcsh">Seneca Indians--Music</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref30" level="file">
+                    <did>
+                        <unittitle>Ladies' Dance, 10 songs</unittitle>
+                        <unitid>01-06</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>circa 1960</unitdate>
+                        <physdesc id="ref31" label="General Physical Description note">
+                            <extent>00:12:29</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Jimerson, Walter</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Snyderman, George Simon, 1908-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Sprague, Lorne</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Sprague, Raymond</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref33">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3307" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6401">
+                        <daodesc>
+                            <p>APSdigrec_3307</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Grand River (Ont.)</geogname>
+                        <subject source="lcsh">Seneca dance</subject>
+                        <subject source="lcsh">Seneca Indians--Music</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref34" level="file">
+                    <did>
+                        <unittitle>Old Moccasins, 10 songs</unittitle>
+                        <unitid>01-07</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>circa 1960</unitdate>
+                        <physdesc id="ref35" label="General Physical Description note">
+                            <extent>00:06:52</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Jimerson, Walter</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Snyderman, George Simon, 1908-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Sprague, Lorne</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Sprague, Raymond</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref37">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3308" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6400">
+                        <daodesc>
+                            <p>APSdigrec_3308</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Grand River (Ont.)</geogname>
+                        <subject source="lcsh">Seneca dance</subject>
+                        <subject source="lcsh">Seneca Indians--Music</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref38" level="file">
+                    <did>
+                        <unittitle>Round Dances, 6 songs</unittitle>
+                        <unitid>01-08</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>circa 1960</unitdate>
+                        <physdesc id="ref39" label="General Physical Description note">
+                            <extent>00:06:32</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Jimerson, Walter</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Snyderman, George Simon, 1908-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Sprague, Lorne</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Sprague, Raymond</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref41">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3309" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6387">
+                        <daodesc>
+                            <p>APSdigrec_3309</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Grand River (Ont.)</geogname>
+                        <subject source="lcsh">Seneca dance</subject>
+                        <subject source="lcsh">Seneca Indians--Music</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref42" level="file">
+                    <did>
+                        <unittitle>Grab Your Partner, 6 songs</unittitle>
+                        <unitid>01-09</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>circa 1960</unitdate>
+                        <physdesc id="ref43" label="General Physical Description note">
+                            <extent>00:04:38</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Jimerson, Walter</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Snyderman, George Simon, 1908-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Sprague, Lorne</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Sprague, Raymond</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref45">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3310" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6406">
+                        <daodesc>
+                            <p>APSdigrec_3310</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Grand River (Ont.)</geogname>
+                        <subject source="lcsh">Seneca dance</subject>
+                        <subject source="lcsh">Seneca Indians--Music</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref46" level="file">
+                    <did>
+                        <unittitle>Feather Dance</unittitle>
+                        <unitid>01-10</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>circa 1960</unitdate>
+                        <physdesc id="ref47" label="General Physical Description note">
+                            <extent>00:05:04</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Jimerson, Walter</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Snyderman, George Simon, 1908-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Sprague, Lorne</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Sprague, Raymond</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref49">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3311" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6384">
+                        <daodesc>
+                            <p>APSdigrec_3311</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Grand River (Ont.)</geogname>
+                        <subject source="lcsh">Seneca dance</subject>
+                        <subject source="lcsh">Seneca Indians--Music</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref50" level="file">
+                    <did>
+                        <unittitle>Fish Dance</unittitle>
+                        <unitid>01-11</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>circa 1960</unitdate>
+                        <physdesc id="ref51" label="General Physical Description note">
+                            <extent>00:10:27</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Jimerson, Walter</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Snyderman, George Simon, 1908-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Sprague, Lorne</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Sprague, Raymond</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref53">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3312" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6402">
+                        <daodesc>
+                            <p>APSdigrec_3312</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Grand River (Ont.)</geogname>
+                        <subject source="lcsh">Seneca dance</subject>
+                        <subject source="lcsh">Seneca Indians--Music</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref54" level="file">
+                    <did>
+                        <unittitle>Women's Dance</unittitle>
+                        <unitid>01-12</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>circa 1960</unitdate>
+                        <physdesc id="ref55" label="General Physical Description note">
+                            <extent>00:05:38</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Jimerson, Walter</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Snyderman, George Simon, 1908-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Sprague, Lorne</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Sprague, Raymond</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref57">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3313" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6403">
+                        <daodesc>
+                            <p>APSdigrec_3313</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Grand River (Ont.)</geogname>
+                        <subject source="lcsh">Seneca dance</subject>
+                        <subject source="lcsh">Seneca Indians--Music</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref58" level="file">
+                    <did>
+                        <unittitle>Feather Dance</unittitle>
+                        <unitid>01-13</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>circa 1960</unitdate>
+                        <physdesc id="ref59" label="General Physical Description note">
+                            <extent>00:02:39</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Jimerson, Walter</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Snyderman, George Simon, 1908-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Sprague, Lorne</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Sprague, Raymond</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref61">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3314" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6408">
+                        <daodesc>
+                            <p>APSdigrec_3314</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Grand River (Ont.)</geogname>
+                        <subject source="lcsh">Seneca dance</subject>
+                        <subject source="lcsh">Seneca Indians--Music</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref62" level="file">
+                    <did>
+                        <unittitle>Kee Way</unittitle>
+                        <unitid>01-14</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>circa 1961</unitdate>
+                        <physdesc id="ref63" label="General Physical Description note">
+                            <extent>00:25:41</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Dowdy, Herb</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Snyderman, George Simon, 1908-</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref65">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3315" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6398">
+                        <daodesc>
+                            <p>APSdigrec_3315</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Allegany Indian Reservation (N.Y.)</geogname>
+                        <subject source="lcsh">Seneca dance</subject>
+                        <subject source="lcsh">Seneca Indians--Music</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref66" level="file">
+                    <did>
+                        <unittitle>Round Dances, 6 songs</unittitle>
+                        <unitid>02-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1963-06-27</unitdate>
+                        <physdesc id="ref67" label="General Physical Description note">
+                            <extent>00:13:02</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="aacr" source="local">Jimerson, Avery</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Snyderman, George Simon, 1908-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Snyderman, Michael</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref69">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3316" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6391">
+                        <daodesc>
+                            <p>APSdigrec_3316</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Allegany Indian Reservation (N.Y.)</geogname>
+                        <subject source="lcsh">Seneca dance</subject>
+                        <subject source="lcsh">Seneca Indians--Music</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref70" level="file">
+                    <did>
+                        <unittitle>Shake the Bush, 8 songs</unittitle>
+                        <unitid>02-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1963-06-27</unitdate>
+                        <physdesc id="ref71" label="General Physical Description note">
+                            <extent>00:07:02</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="aacr" source="local">Jimerson, Avery</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Snyderman, George Simon, 1908-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Snyderman, Michael</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref73">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3317" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6394">
+                        <daodesc>
+                            <p>APSdigrec_3317</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Allegany Indian Reservation (N.Y.)</geogname>
+                        <subject source="lcsh">Seneca dance</subject>
+                        <subject source="lcsh">Seneca Indians--Music</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref74" level="file">
+                    <did>
+                        <unittitle>Rabbit Songs, 5 songs</unittitle>
+                        <unitid>02-03</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1963-06-27</unitdate>
+                        <physdesc id="ref75" label="General Physical Description note">
+                            <extent>00:06:49</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="aacr" source="local">Jimerson, Avery</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Snyderman, George Simon, 1908-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Snyderman, Michael</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref77">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3318" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6404">
+                        <daodesc>
+                            <p>APSdigrec_3318</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Allegany Indian Reservation (N.Y.)</geogname>
+                        <subject source="lcsh">Seneca dance</subject>
+                        <subject source="lcsh">Seneca Indians--Music</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref78" level="file">
+                    <did>
+                        <unittitle>Discussion of Avery Jimerson's Seneca name</unittitle>
+                        <unitid>02-04</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1963-06-27</unitdate>
+                        <physdesc id="ref79" label="General Physical Description note">
+                            <extent>00:00:25</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="aacr" source="local">Jimerson, Avery</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Snyderman, George Simon, 1908-</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref81">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3319" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6409">
+                        <daodesc>
+                            <p>APSdigrec_3319</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Allegany Indian Reservation (N.Y.)</geogname>
+                        <subject source="ingest">Names, Seneca</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref82" level="file">
+                    <did>
+                        <unittitle>Kee Way [1 of 2]</unittitle>
+                        <unitid>02-05</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>circa 1961</unitdate>
+                        <physdesc id="ref83" label="General Physical Description note">
+                            <extent>00:30:30</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Dowdy, Herb</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Jimerson, Walter</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Snyderman, George Simon, 1908-</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref85">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3320" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6390">
+                        <daodesc>
+                            <p>APSdigrec_3320</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Allegany Indian Reservation (N.Y.)</geogname>
+                        <subject source="lcsh">Seneca dance</subject>
+                        <subject source="lcsh">Seneca Indians--Music</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref86" level="file">
+                    <did>
+                        <unittitle>Kee Way [2 of 2]</unittitle>
+                        <unitid>02-06</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>circa 1961</unitdate>
+                        <physdesc id="ref87" label="General Physical Description note">
+                            <extent>00:25:47</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Dowdy, Herb</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Jimerson, Walter</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Snyderman, George Simon, 1908-</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref89">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3321" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6399">
+                        <daodesc>
+                            <p>APSdigrec_3321</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Allegany Indian Reservation (N.Y.)</geogname>
+                        <subject source="lcsh">Seneca dance</subject>
+                        <subject source="lcsh">Seneca Indians--Music</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref90" level="file">
+                    <did>
+                        <unittitle>Story of how a young man became a medicine man</unittitle>
+                        <unitid>03-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1963-06-20</unitdate>
+                        <physdesc id="ref91" label="General Physical Description note">
+                            <extent>00:01:32</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Redeye, Clara</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Snyderman, George Simon, 1908-</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref92">
+                        <head>Scope and Contents note</head>
+                        <p>In English only.</p>
+                    </scopecontent>
+                    <originalsloc id="ref94">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3322" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6407">
+                        <daodesc>
+                            <p>APSdigrec_3322</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Allegany Indian Reservation (N.Y.)</geogname>
+                        <subject source="lcsh">Seneca Indians--Folklore</subject>
+                        <subject source="ingest">Seneca Indians--Medicine</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref95" level="file">
+                    <did>
+                        <unittitle>Story of how a young man became a medicine man</unittitle>
+                        <unitid>03-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1963-06-20</unitdate>
+                        <physdesc id="ref96" label="General Physical Description note">
+                            <extent>00:02:38</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Redeye, Clara</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Snyderman, George Simon, 1908-</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref97">
+                        <head>Scope and Contents note</head>
+                        <p>In Seneca only.</p>
+                    </scopecontent>
+                    <originalsloc id="ref99">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3323" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6396">
+                        <daodesc>
+                            <p>APSdigrec_3323</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Allegany Indian Reservation (N.Y.)</geogname>
+                        <subject source="lcsh">Seneca Indians--Folklore</subject>
+                        <subject source="ingest">Seneca Indians--Medicine</subject>
+                        <subject source="lcsh">Seneca language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref100" level="file">
+                    <did>
+                        <unittitle>Story and discussion of two times Sherman Redeye got sick</unittitle>
+                        <unitid>03-03</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1963-06-20</unitdate>
+                        <physdesc id="ref101" label="General Physical Description note">
+                            <extent>00:07:23</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Redeye, Clara</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Snyderman, George Simon, 1908-</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref102">
+                        <head>Scope and Contents note</head>
+                        <p>In English only.</p>
+                    </scopecontent>
+                    <originalsloc id="ref104">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3324" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6381">
+                        <daodesc>
+                            <p>APSdigrec_3324</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Allegany Indian Reservation (N.Y.)</geogname>
+                        <subject source="ingest">Seneca Indians--Medicine</subject>
+                        <subject source="ingest">Seneca Indians--Social life and customs</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref105" level="file">
+                    <did>
+                        <unittitle>Story about a dream Clara had when Sherman first got sick</unittitle>
+                        <unitid>03-04</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1963-06-20</unitdate>
+                        <physdesc id="ref106" label="General Physical Description note">
+                            <extent>00:01:22</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Redeye, Clara</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Snyderman, George Simon, 1908-</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref107">
+                        <head>Scope and Contents note</head>
+                        <p>In English only.</p>
+                    </scopecontent>
+                    <originalsloc id="ref109">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3325" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6389">
+                        <daodesc>
+                            <p>APSdigrec_3325</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Allegany Indian Reservation (N.Y.)</geogname>
+                        <subject source="lcsh">Seneca Indians--Folklore</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref110" level="file">
+                    <did>
+                        <unittitle>Discussion of early morning curing ceremony, little people, and Dark Dance</unittitle>
+                        <unitid>03-05</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1963-06-20</unitdate>
+                        <physdesc id="ref111" label="General Physical Description note">
+                            <extent>00:05:59</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Redeye, Clara</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Snyderman, George Simon, 1908-</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref112">
+                        <head>Scope and Contents note</head>
+                        <p>In English only.</p>
+                    </scopecontent>
+                    <originalsloc id="ref114">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3326" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6380">
+                        <daodesc>
+                            <p>APSdigrec_3326</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Allegany Indian Reservation (N.Y.)</geogname>
+                        <subject source="lcsh">Seneca Indians--Folklore</subject>
+                        <subject source="ingest">Seneca Indians--Medicine</subject>
+                        <subject source="ingest">Seneca Indians--Social life and customs</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref115" level="file">
+                    <did>
+                        <unittitle>Discussion of witches and little water medicine</unittitle>
+                        <unitid>03-06</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1963-06-20</unitdate>
+                        <physdesc id="ref116" label="General Physical Description note">
+                            <extent>00:06:28</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Redeye, Clara</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Snyderman, George Simon, 1908-</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref117">
+                        <head>Scope and Contents note</head>
+                        <p>In English only.</p>
+                    </scopecontent>
+                    <originalsloc id="ref119">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3327" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6385">
+                        <daodesc>
+                            <p>APSdigrec_3327</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Allegany Indian Reservation (N.Y.)</geogname>
+                        <subject source="lcsh">Seneca Indians--Folklore</subject>
+                        <subject source="ingest">Seneca Indians--Medicine</subject>
+                        <subject source="ingest">Witchcraft</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref120" level="file">
+                    <did>
+                        <unittitle>Discussion of killing a chicken to ward off bad medicine</unittitle>
+                        <unitid>03-07</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1963-06-20</unitdate>
+                        <physdesc id="ref121" label="General Physical Description note">
+                            <extent>00:02:49</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Redeye, Clara</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Snyderman, George Simon, 1908-</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref122">
+                        <head>Scope and Contents note</head>
+                        <p>In English only.</p>
+                    </scopecontent>
+                    <originalsloc id="ref124">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3328" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6388">
+                        <daodesc>
+                            <p>APSdigrec_3328</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Allegany Indian Reservation (N.Y.)</geogname>
+                        <subject source="ingest">Seneca Indians--Medicine</subject>
+                        <subject source="ingest">Seneca Indians--Social life and customs</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref125" level="file">
+                    <did>
+                        <unittitle>Round Dances, 6 songs</unittitle>
+                        <unitid>04-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1963-06-27</unitdate>
+                        <physdesc id="ref126" label="General Physical Description note">
+                            <extent>00:13:43</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="aacr" source="local">Jimerson, Avery</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Snyderman, George Simon, 1908-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Snyderman, Michael</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref127">
+                        <head>Scope and Contents note</head>
+                        <p>Duplicate of original recording on reel 2 from same collection. Runs slightly slow with uncorrected background hum.</p>
+                    </scopecontent>
+                    <originalsloc id="ref129">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3329" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6386">
+                        <daodesc>
+                            <p>APSdigrec_3329</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Allegany Indian Reservation (N.Y.)</geogname>
+                        <subject source="lcsh">Seneca dance</subject>
+                        <subject source="lcsh">Seneca Indians--Music</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref130" level="file">
+                    <did>
+                        <unittitle>Shake the Bush, 8 songs</unittitle>
+                        <unitid>04-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1963-06-27</unitdate>
+                        <physdesc id="ref131" label="General Physical Description note">
+                            <extent>00:07:11</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="aacr" source="local">Jimerson, Avery</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Snyderman, George Simon, 1908-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Snyderman, Michael</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref132">
+                        <head>Scope and Contents note</head>
+                        <p>Duplicate of original recording on reel 2 from same collection. Runs slightly slow with uncorrected background hum.</p>
+                    </scopecontent>
+                    <originalsloc id="ref134">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3330" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6392">
+                        <daodesc>
+                            <p>APSdigrec_3330</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Allegany Indian Reservation (N.Y.)</geogname>
+                        <subject source="lcsh">Seneca dance</subject>
+                        <subject source="lcsh">Seneca Indians--Music</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref135" level="file">
+                    <did>
+                        <unittitle>Rabbit Songs, 5 songs</unittitle>
+                        <unitid>04-03</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1963-06-27</unitdate>
+                        <physdesc id="ref136" label="General Physical Description note">
+                            <extent>00:07:00</extent></physdesc>
+                        <origination label="creator">
+                            <persname rules="aacr" source="local">Jimerson, Avery</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Snyderman, George Simon, 1908-</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Snyderman, Michael</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref137">
+                        <head>Scope and Contents note</head>
+                        <p>Duplicate of original recording on reel 2 from same collection. Runs slightly slow with uncorrected background hum.</p>
+                    </scopecontent>
+                    <originalsloc id="ref139">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Sound tape reel) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_3331" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:6383">
+                        <daodesc>
+                            <p>APSdigrec_3331</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Allegany Indian Reservation (N.Y.)</geogname>
+                        <subject source="lcsh">Seneca dance</subject>
+                        <subject source="lcsh">Seneca Indians--Music</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.920.B74-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.920.B74</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:25-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="item">
+        <did>
+            <unittitle>Recollections of my acquaintance with deceased members of the American Philosophical Society, 1862</unittitle>
+            <unitid>Mss.920.B74</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1057" type="Volume" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>1.0 Volume(s)</extent>
+                <extent>1 volume, 108 p.</extent>
+            </physdesc>
+            <unitdate normal="1862/1862">1862</unitdate>
+            <abstract id="ref6" label="Abstract">This volume contains short sketches of prominent American and European scholars, diplomats, and statesmen. "These short memoirs were composed in the heat of the summer of 1862; and the concluding page written on the 15th of August of that year, when I was about one month advanced in my ninety second year; my birthday being July 17th, 1771." Signed Saml. Breck. Persons discussed include Talleyrand Perigord; M. Volney; Rochefoucauld Liancourt; Louis Philippe, King of the French; Joel Barlow; William Bingham; Robert Morris; Alexander Hamilton; General Henry Knox; Doctor Benjamin Rush; Doctor Rush and William Cobbett.</abstract>
+            <physdesc id="ref11" label="General Physical Description note">1 volume, 108 p.</physdesc>
+            <physloc id="ref13" label="Paging">LH-MV-E-16</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Breck, Samuel, 1771-1862</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref10">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Received and accessioned, 1900 (1900 Z699); provenance unknown. UnknownNUnknown</p>
+        </acqinfo>
+        <bioghist id="ref8">
+            <head>Biographical/Historical note</head>
+            <p>Samuel Breck was a Philadelphia merchant and member of the American Philosophical Society.</p>
+        </bioghist>
+        <odd id="ref12">
+            <head>Early American History Note</head>
+            <p>The Samuel Breck Collection consists of two separately-cataloged, bound volumes. The first, 
+                <extref ns2:actuate="onLoad" ns2:show="new" ns2:href="http://www.amphilsoc.org/mole/view?docId=ead/Mss.332.5.B74h-ead.xml">"Historical Sketch of the Continental Bills of Credit, from 1775 to 1781, with Specimens thereof" (332.5 B74h)</extref>, is a long manuscript essay on Continental Bills of credit from 1775 – 1781, which reflects Breck’s interest in historical matters. The second volume is a handwritten account of Breck at 92 years old reminiscing on prominent APS members he had met.</p>
+            <p>Of particular significance, the volume on Continental bills includes 153 examples of various Continental bills beginning with the first emission in May 1775 until 1779. The collection also includes examples of colonial currency from Pennsylvania and New Jersey. There is a separate section that includes examples of counterfeit Continental bills. Breck also discusses the history of paper money in the colonies and debate about Continental currency in the early republic. The essay may be of interest to those interested in governance and finance in the early republic.</p>
+            <p>The second volume, "Recollections of My Acquaintance and Association with Deceased Members of the American Philosophical Society" (920 B74), contains a number of essays on important individuals who were members of the APS and with whom Breck was an acquaintance. The content is interesting and informative, although it reads more like well-known biographical and historical profiles than personal remembrances. There are, nonetheless, often short asides that Breck tells of his interactions with prominent figures, such as dining with Robert Morris and Alexander Hamilton, and having a close relationship with Henry Knox’s family.</p>
+            <p>Breck was a prominent member of Philadelphia society and active in a number of cultural institutions, such as the Library Company of Philadelphia, the Athenaeum, and the APS.</p>
+            <p>Breck was born into a prominent Massachusetts family, educated in France, and then relocated with the rest of his family to Philadelphia. He served in the military troops that went to suppress the Whiskey Rebellion and eventually entered politics, serving ultimately as a U.S. Congressman.</p>
+        </odd>
+        <controlaccess>
+            <famname source="ingest">Adams, John Quincy, -- 1767-1848 -- Inauguration.</famname>
+            <corpname rules="aacr" source="naf">American Philosophical Society.</corpname>
+            <persname source="ingest">Barlow, Joel, 1754-1812</persname>
+            <persname source="ingest">Bingham, William, 1752-1804</persname>
+            <persname source="ingest">Brissot de Warville, J.-P. (Jacques-Pierre), 1754-1793</persname>
+            <persname source="ingest">Chastellux, François Jean, marquis de, 1734-1788</persname>
+            <persname source="ingest">Cobbett, William, 1763-1835</persname>
+            <persname source="naf">Hamilton, Alexander, 1757-1804</persname>
+            <persname source="ingest">Holyoke, Edward Augustus, 1728-1829</persname>
+            <persname source="ingest">Knox, Henry, 1750-1806</persname>
+            <persname source="naf">La Rochefoucauld-Liancourt, François-Alexandre-Frédéric, duc de, 1747-1827 </persname>
+            <persname rules="aacr" source="naf">Lafayette, Marie Joseph Paul Yves, marquis de, 1757-1834</persname>
+            <persname source="ingest">Letombe, Philippe Joseph, d. 1833</persname>
+            <persname source="ingest">Louis Philippe, King of the French, 1773-1850</persname>
+            <persname source="ingest">Morris, Robert, 1734-1806</persname>
+            <persname rules="aacr" source="naf">Penn, John, 1729-1795</persname>
+            <persname source="ingest">Raguet, Condy, 1784-1842</persname>
+            <persname rules="aacr" source="naf">Rush, Benjamin, 1746-1813</persname>
+            <persname source="ingest">St. John de Crèvecoeur, J. Hector, 1735-1813</persname>
+            <famname source="ingest">Talleyrand-Périgord, Charles Maurice de, -- prince de Bénévent, -- 1754-1838.</famname>
+            <persname rules="aacr" source="naf">Washington, George, 1732-1799</persname>
+            <subject source="leah">American Revolution</subject>
+            <subject source="leah">Business and Skilled Trades</subject>
+            <genreform source="leah">Business Records and Accounts</genreform>
+            <occupation source="lcsh">Diplomats.</occupation>
+            <genreform source="leah">Manuscript Essays</genreform>
+            <subject source="leah">Philadelphia History</subject>
+            <occupation source="lcsh">Physicians.</occupation>
+            <occupation source="lcsh">Presidents.</occupation>
+            <occupation source="lcsh">Scholars.</occupation>
+            <occupation source="lcsh">Statesmen.</occupation>
+            <geogname source="lcsh">United States -- Biography.</geogname>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.H978-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.H978</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T19:34-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>William Hutton letters, 1821-1852</unittitle>
+            <unitid>Mss.B.H978</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1344" type="Box" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>0.5 Linear feet</extent>
+                <extent>Ca. 450 items</extent>
+            </physdesc>
+            <unitdate normal="1821/1852" type="inclusive">1821-1852</unitdate>
+            <physdesc id="ref11" label="General Physical Description note">Ca. 450 items.</physdesc>
+            <abstract id="ref1" label="Abstract">These letters relate primarily to geology and botany, and there is also much on the Newcastle Natural History Society, of which Hutton was the secretary. There is much correspondence with Alexandre Brongniart, H. S. Davis, John S. Henslow, John Lindley, David Milne-Home, Roderick I. Murchison, George Steuart MacKenzie, and John Phillips.</abstract>
+            <physloc id="ref12" label="Paging">LH-MV-C-11</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="local" role="Author (aut)">Hutton, William, 1797-1860</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref10">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Purchased from W. Myers (Sotheby's, Lot. 333; £2694.00) and accessioned, 04/22/1980 (1980 618ms).</p>
+            <p></p>
+        </acqinfo>
+        <bioghist id="ref8">
+            <head>Biographical/Historical note</head>
+            <p>William Hutton, who was a geologist from Newcastle-on-Tyne, was an authority on coal measures, an ardent collector of coal-fossils, and a supporter of mechanics' institutes in the north of England.</p>
+        </bioghist>
+        <odd id="ref13">
+            <head>Early American History Note</head>
+            <p>This manuscript collection falls outside the geographic scope of the Early American guide (British North America and the United States before 1840). It may be of interest to scholars interested in global history, international relations, imperialism, or the U.S. in the world.</p>
+        </odd>
+        <controlaccess>
+            <persname rules="aacr" source="local">Anderson, William, 1766-1846</persname>
+            <persname rules="aacr" source="local">Armstrong, William, 1766-1846</persname>
+            <persname rules="aacr" source="naf">Bache, A.D.,  (Alexander Dallas), 1806-1867</persname>
+            <persname rules="aacr" source="naf">Bowman, J. E.,  (John Eddowes), 1785-1841</persname>
+            <persname source="ingest">Brongniart, Alexandre, 1770-1847</persname>
+            <persname rules="aacr" source="naf">Buckland, William, 1784-1856</persname>
+            <persname rules="aacr" source="naf">Combe, George, 1788-1858</persname>
+            <famname source="ingest">Davis, H. S.</famname>
+            <persname rules="aacr" source="naf">Dechen, H. von,  (Heinrich), 1800-1889</persname>
+            <persname rules="aacr" source="local">Emmett, Anthony</persname>
+            <persname rules="aacr" source="local">Fellowes, Charles, 1812-1896</persname>
+            <persname source="ingest">Gosse, Philip Henry, 1810-1888</persname>
+            <persname source="ingest">Hancock, Albany, 1806-1873</persname>
+            <persname source="ingest">Henslow, J. S. (John Stevens), 1796-1861</persname>
+            <persname source="naf">Hooker, William Jackson, Sir, 1785-1865</persname>
+            <persname rules="aacr" source="naf">Ingham, Robert, 1793-1875</persname>
+            <persname source="ingest">Johnston, George, 1797-1855</persname>
+            <persname source="ingest">Johnston, Jas. F. W.,  (James Finlay Weir), 1796-1855</persname>
+            <persname rules="aacr" source="naf">Jones, Thomas Rymer, 1810-1880</persname>
+            <persname rules="aacr" source="naf">Klipstein, August von, b. 1801</persname>
+            <persname rules="aacr" source="naf">Lindley, John, 1799-1865</persname>
+            <persname rules="aacr" source="naf">Mackenzie, George Steuart, Sir, 1780-1848</persname>
+            <persname rules="aacr" source="naf">Milne-Home, David, 1805-1890</persname>
+            <persname rules="aacr" source="naf">Murchison, Roderick Impey, Sir, 1792-1871</persname>
+            <corpname source="ingest">Newcastle Natural History Society.</corpname>
+            <persname source="ingest">Nichol, John Pringle, 1804-1859</persname>
+            <persname rules="aacr" source="local">Osler, Abraham Follett, 1808-1903</persname>
+            <persname source="ingest">Phillips, John, 1800-1874</persname>
+            <persname rules="aacr" source="naf">Rawson, Rawson William, Sir, 1812-1899</persname>
+            <persname source="ingest">Sedgwick, Adam, 1785-1873</persname>
+            <persname rules="aacr" source="naf">Sykes, Colonel,  (William Henry), 1790-1872</persname>
+            <persname rules="aacr" source="naf">Taylor, John, 1779-1863</persname>
+            <persname rules="aacr" source="local">Turner, Edward, 1798-1837</persname>
+            <famname source="ingest">Wellington, Arthur Wellesley, -- Duke of, -- 1769-1852.</famname>
+            <subject source="leah">Beyond Early America</subject>
+            <subject source="lcsh">Botany.</subject>
+            <subject source="lcsh">Geology.</subject>
+            <subject source="lcsh">Natural history.</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.378.748.P38xri</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:09-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="item">
+        <did>
+            <unittitle>Survey of medical affairs, University of Pennsylvania, 1931</unittitle>
+            <unitid>Mss.378.748.P38xri</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid746" type="Volume" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>1.0 Volume(s)</extent>
+                <extent>1 volume, 74 p., carbon copy</extent>
+            </physdesc>
+            <unitdate normal="1931/1931">1931</unitdate>
+            <abstract id="ref1" label="Abstract">This confidential report covers all aspects of the University of Pennsylvania medical school and hospital, and research and teaching. It was prepared by Richards and T. Grier Miller for the president of the university, Thomas Sovereign Gates.</abstract>
+            <physdesc id="ref10" label="General Physical Description note">1 volume, 74 p., carbon copy.</physdesc>
+            <physloc id="ref11" label="Paging">LH-MV-E-7</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Richards, Alfred N.(Alfred Newton),1876-1966.</persname>
+            </origination>
+        </did>
+        <altformavail id="ref7">
+            <head>Existence and Location of Copies note</head>
+            <p>This volume is also available on microfilm (Film 1173).</p>
+        </altformavail>
+        <bioghist id="ref5">
+            <head>Biographical/Historical note</head>
+            <p>Alfred Newton Richards worked as a pharmacologist and medical administrator; he was elected to the American Philosophical Society in 1935.</p>
+        </bioghist>
+        <originalsloc id="ref3">
+            <head>Existence and Location of Originals note</head>
+            <p>Originals in possession of Alfred Newton Richards.</p>
+        </originalsloc>
+        <controlaccess>
+            <persname rules="aacr" source="naf">Miller, T. Grier,  (Thomas Grier), 1886-1981</persname>
+            <corpname rules="aacr" source="naf">University of Pennsylvania. School of Medicine.</corpname>
+            <subject source="lcsh">Medicine -- Study and teaching -- Pennsylvania -- Philadelphia.</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

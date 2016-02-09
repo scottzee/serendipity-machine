@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.W36r-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.W36r</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T20:07-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="item">
+        <did>
+            <unittitle>Anthony Wayne receipt book, 1785-1792</unittitle>
+            <unitid>Mss.B.W36r</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1643" type="Volume" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>1.0 Volume(s)</extent>
+                <extent>1 volume, 70 p.</extent>
+            </physdesc>
+            <unitdate normal="1785/1792" type="inclusive">1785-1792</unitdate>
+            <abstract id="ref6" label="Abstract">This volume contains signed receipts for Wayne's payment, in money or kind, of debts, taxes, land, and commodities. Contains also prescriptions for curing certain diseases, and receipt for six warrants, Sept. 1, 1786, paid by order of B.Franklin.</abstract>
+            <physdesc id="ref11" label="General Physical Description note">1 volume, 70 p.</physdesc>
+            <physloc id="ref14" label="Paging">LH-MV-E-4-3</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="local" role="Author (aut)">Anthony Wayne, 1745-1796</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref10">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Purchased from Sesslers and accessioned, 1960 (1960 152ms).</p>
+        </acqinfo>
+        <bioghist id="ref8">
+            <head>Biographical/Historical note</head>
+            <p>Anthony Wayne was a soldier and was elected to the American Philosophical Society in 1780.</p>
+        </bioghist>
+        <odd id="ref12">
+            <head>General note</head>
+            <p>FILM 54-67 FRAME 40</p>
+        </odd>
+        <odd id="ref13">
+            <head>Early American History Note</head>
+            <p>This receipt book contains a wide range of financial transactions Anthony Wayne made from 1785-1792. Most of the transactions record payments Wayne made to others.</p>
+        </odd>
+        <controlaccess>
+            <subject source="leah">Business and Skilled Trades</subject>
+            <genreform source="leah">Business Records and Accounts</genreform>
+            <genreform source="lcsh">Receipts.</genreform>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

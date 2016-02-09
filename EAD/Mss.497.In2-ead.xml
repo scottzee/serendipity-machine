@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.497.In2-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.497.In2</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:10-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="item">
+        <did>
+            <unittitle>Indian vocabularies, 1820-1844</unittitle>
+            <unitid>Mss.497.In2</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="mul"/>
+            </langmaterial>
+            <container id="cid836" type="Volume" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>1.0 Volume(s)</extent>
+                <extent>1 volume,  253 p.</extent>
+            </physdesc>
+            <unitdate normal="1820/1844" type="inclusive">1820-1844</unitdate>
+            <abstract id="ref17" label="Abstract">Copies of 82 vocabularies representing 73 languages with notes and additions made by Du Ponceau and Albert Gallatin. Vocabularies for South American languages are copied from rare printed sources, while North American vocabularies are from both printed and manuscript sources. The first 23 pages of the volume are the Continuance Docket of the Court of Common Pleas, Philadelphia County, 1783-1786. Cases noted are those involving Stephen Dutilh, Samuel Garrigues, John Girard, John Holker, Charles J. de Longchamps, and Claude P. Raguet.</abstract>
+            <physdesc id="ref16" label="General Physical Description note">1 volume, 253 p.</physdesc>
+            <physloc id="ref19" label="Paging">LH-MV-E-8</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Du Ponceau , Peter Stephen, 1760-1844</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref14">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Received from the Du Ponceau estate and accessioned, 05/03/1844 (1844 2692).</p>
+        </acqinfo>
+        <bioghist id="ref10">
+            <head>Biographical/Historical note</head>
+            <p>Peter Stephen Du Ponceau was a lawyer, author, and philologist.</p>
+        </bioghist>
+        <odd id="ref18">
+            <head>Early American History Note</head>
+            <p>This portion of the Peter Stephen Du Ponceau Collection relates to his collection of Native American languages. As a leading linguist of the era, the Du Ponceau collection has three portions that reflect his interest in linguistics. The first is a large volume of 73 Indian languages for both South and North American Indians (497 In2), which is what this entry refers to. The second is a nine volume set of notes on philology that focuses on Native American languages but includes notes on range of other language groups, such as the language of Polynesians and Greeks (410 D92). The notes also make numerous observations about Native American customs, practices, and beliefs. The third portion of linguistic material is a dictionary of terms relating to the sea and seafaring (359.03 D92).</p>
+            <p>Although Du Ponceau is most well-known today for his work in Native American linguistics, the Du Ponceau Collection includes a significant amount of correspondence from DuPonceau’s legal career in the nineteenth century (B D92p). As a practicing lawyer often working on trade issues, his correspondence also includes large collection of business news and legal affairs happening in Philadelphia. Most of these documents are from cases Du Ponceau worked on, and many of these cases involve international trade and merchant concerns. One of the more interesting case files includes a brief on whether or not the family of a mariner lost at sea can recover lost wages.</p>
+            <p>Du Ponceau was well-connected and some of his correspondence involves research on American Indians, language, and other intellectual endeavors (410.D92.1). He corresponded with many individuals throughout the U.S. and fellow members of the American Philosophical Society, sometimes as official APS business.</p>
+            <p>The APS collection also has a commonplace book of DuPonceau, which includes interesting notes on colonial Pennsylvania history and especially William Penn’s legacy (B 92c). Written in 1820, the notes can lend insight into the public and historical memory in early nineteenth century Philadelphia.</p>
+            <p>Some of his correspondence also involves his attempt to acquire documents from prominent Philadelphians so that the APS could publish a complete history of Pennsylvania. In addition to Du Ponceau’s own efforts, Deborah Norris Logan corresponded with Du Ponceau about her own attempt to write a history of Pennsylvania. The Deborah Logan correspondence also touches upon women’s roles in the early republic, with Logan writing that she felt uneasy publishing something in her name “before the publick” because of her “sex and station.”</p>
+        </odd>
+        <controlaccess>
+            <persname source="ingest">Dutilh, Stephen</persname>
+            <persname rules="aacr" source="naf">Gallatin, Albert, 1761-1849</persname>
+            <famname source="ingest">Garrigues, Samuel.</famname>
+            <persname rules="aacr" source="local">Girard, John</persname>
+            <persname rules="aacr" source="local">Holker, John</persname>
+            <famname source="ingest">Longchamps, Charles Julian de.</famname>
+            <persname rules="aacr" source="local">Raguet, Claude P.</persname>
+            <subject source="lcsh">Courts -- Pennsylvania -- Philadelphia County.</subject>
+            <subject source="lcsh">Indians of North America--Languages</subject>
+            <subject source="lcsh">Indians of South America--Languages</subject>
+            <subject source="leah">Language and Linguistics</subject>
+            <genreform source="leah">Language Material</genreform>
+            <subject source="leah">Native America</subject>
+            <genreform source="leah">Native American Materials</genreform>
+            <genreform source="lcsh">Vocabularies.</genreform>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

@@ -1,0 +1,946 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.B61ru-ead.xml">boas.xml</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Boas-Rukeyser Collection
+                    <date type="span">1869-1940</date>
+                    <num>Mss.B.B61ru</num>
+                </titleproper>
+                <author>Finding aid prepared by rsc</author>
+                <sponsor>Encoding was made possible by a grant from the Gladys Krieble Delmas Foundation to the Philadelphia Consortium of Special Collections Libraries.</sponsor>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+                <date>3/2002</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:54-0400</date>
+            </creation>
+            <langusage>ENG</langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Boas-Rukeyser Collection</unittitle>
+            <unitid>Mss.B.B61ru</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>2.0 Linear feet</extent>
+            </physdesc>
+            <unitdate normal="1869/1940" type="inclusive">1869-1940</unitdate>
+            <abstract id="ref2" label="Abstract">Material collected by Muriel Rukeyser in the late 1940s and 1950s for a proposed biography of Franz Boas, including original manuscript materials of Boas, correspondence between Boas and Rukeyser, biographical data, early family letters and documents relating to him, school and military records, family reminiscences of Boas, and some professional correspondence. There is one box of material specifically related to the publication of Rukeyser's biography, including notes, a synopsis of the book, and correspondence with publishers and funding agencies. There are also boxes of Boas-related newsclippings, and publications concerning Boas.</abstract>
+            <physdesc id="ref1" label="General Physical Description note">2 lin. feet</physdesc>
+            <physloc id="ref149" label="Paging">LH-B-14-2</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Boas,  Franz, 1858-1942 </persname>
+            </origination>
+        </did>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>Born in Minden, Germany, on July 8, 1858, the anthropologist Franz Boas was the son of the merchant Meier Boas and his wife, Sophie Meyer. Raised in the radical and tradition of German Judaism, Franz's youth was steeped in politically liberal beliefs and a largely secular outlook that he carried with him from university through his emigration to the United States.</p>
+            <p>At the universities of Heidelberg and Bonn, Boas studied physics and geography before completing a doctorate in physical geography at Kiel in 1881. Intending on testing then-current theories of environmental determinism, he signed on to an anthropological expedition to Baffin Island in 1883-1884, expecting that he would document the close adaptative fit of Central Eskimo cultures to their extreme climate. His experiences in the arctic, however, led him to the contrary conclusion: that social traditions, not environmental, exerted a dominant influence over human societies, and from this point onward, he was led to pursue the cultural over than physical dimensions of humanity.</p>
+            <p>Although he returned to Berlin after the expedition, Boas emigrated to the United States in 1885 to assume an editorial position with the journal 
+                <emph render="italic">Science</emph>, hoping to use it as a stepping-stone to an academic appointment. In 1886, he embarked upon a second major field excursion into what would become his most famous ethnographic project, working among the Kwakiutl (Kwakwaka'wakw) Indians of the Northwest Coast, after which he secured his first academic position in 1889, at Clark University in Worcester, Mass. After three years at Clark and a failed appointment at the Field Museum in Chicago in 1892 (during which he played a part in organizing the anthropological exhibits for the Columbian World's Fair), Boas moved to New York City.</p>
+            <p>The restless activity of Boas's early years slowed in New York. Hired by the American Museum of Natural History (1895-1905), which became the recipient of the amazingly rich anthropological collections he accumulated on the Northwest Coast, Boas began to teach classes at Columbia University in 1896, where three years later he was appointed Professor of Anthropology. For the next 37 years, Boas ruled the anthropological roost at Columbia, accruing unprecedented power in his discipline, wielding grants, recommendations, and appointments with remarkable dexterity, and collecting about him a remarkable group of younger scholars as students and colleagues.</p>
+            <p>Distancing himself from some of the main currents of contemporary anthropological thought in the United States, and particularly from the evolutionist assumptions that riddled the discipline, Boas championed an anthropology that viewed human cultures as shaped more by historical "tradition" than biological propensity. Claiming to resist any overarching, synthetic theories of human relations, and particularly evolutionary theories of sociocultural development, Boas laid the theoretical groundwork for what became modern cultural relativism. In the process, he helped to clarify the demarcation between the concepts of culture and race and its expression in the divergence of the four fields in anthropology -- linguistics, ethnography, physical anthropology, and archaeology.</p>
+            <p>Boas's relatively few forays into physical anthropology included a pioneering anthropometric study in 1910-1911, demonstrating that the alleged mental and physical inferiority of immigrants disappeared statistically by the second generation. Opposed to immigration quotas and disdainful of the claims to science used to justify them, Boas was a consistent, strident opponent of racial determinism in intellect or behavior. A committed, politically active Socialist, he was frequently an outspoken critic of American policy. During the First World War, he spoke out against the treatment of German Americans and "enemy aliens" -- to the point of putting himself at risk -- and the rise of the Nazi party in Germany proved an even greater crusade. Despite his age, Boas took an active role in the anti-fascist struggle in the United States and was involved with numerous committees to assist refugee scholars. He was equally ardent in his efforts to criticize racial and ethnic bigotry in the United States.</p>
+            <p>As a mentor, Boas had a reputation of being directive, at times overbearing, and at the same time of doing too little to prepare his students for the rigors of fieldwork. The extraordinary number of students coming out of Columbia under his care, however, has arguably done as much to extend the Boasian approach than Boas's own writing. Margaret Mead, Ruth Benedict, Elsie Clews Parsons, Alfred Kroeber, Frank Speck, Edward Sapir, Zora Neale Hurston, Ella Deloria, Melville Herskovits, Leslie Spier, Paul Radin, and Ashley Montagu are all students of Boas. Many continued in the same intellectual stream, some diverged, yet all bore traces of Boas's influence. He left a mark as well on the institutions of the discipline, as one of the founders of the American Anthropological Association and of the 
+                <title render="italic">International Journal of American Linguistics</title>.</p>
+        </bioghist>
+        <scopecontent id="ref4">
+            <head>Scope and Contents note</head>
+            <p>Material collected by Muriel Rukeyser in the late 1940s and 1950s for a proposed biography of Franz Boas, including original manuscript materials of Boas, correspondence between Boas and Rukeyser, biographical data, early family letters and documents relating to him, school and military records, family reminiscences of Boas, and some professional correspondence. There is one box of material specifically related to the publication of Rukeyser's biography, including notes, a synopsis of the book, and correspondence with publishers and funding agencies. There are also boxes of Boas-related newsclippings, and publications concerning Boas.</p>
+        </scopecontent>
+        <acqinfo id="ref6">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Gift of William Rukeyser, 1983 (accession number 1983-1515ms).</p>
+        </acqinfo>
+        <prefercite id="ref7">
+            <head>Preferred Citation note</head>
+            <p>Cite as: Boas-Rukeyser Collection, American Philosophical Society.</p>
+        </prefercite>
+        <relatedmaterial id="ref8">
+            <head>Related Archival Materials note</head>
+            <list type="deflist">
+                <head>Other Franz Boas Collections</head>
+                <defitem>
+                    <label>Franz Boas Papers, 1862-1942 (Mss B B61)</label>
+                    <item>
+                        <extref ns2:href="view?docId=ead/Mss.B.B61-ead.xml">
+                            <emph render="bold">View Collection</emph></extref></item>
+                </defitem>
+                <defitem>
+                    <label>Franz Boas Professional Papers, ca. 1860-1942 (Mss B B61p)</label>
+                    <item>
+                        <extref ns2:href="view?docId=ead/Mss.B.B61p-ead.xml">
+                            <emph render="bold">View Collection</emph></extref></item>
+                </defitem>
+                <defitem>
+                    <label>Boas Family Papers, 1862-1942 (Mss B B61f)</label>
+                    <item>
+                        <extref ns2:href="view?docId=ead/Mss.B.B61f-ead.xml">
+                            <emph render="bold">View Collection</emph></extref></item>
+                </defitem>
+                <defitem>
+                    <label>Franz Boas field notebooks and anthropometric data, ca. 1883-1912 (Mss B B61.5)</label>
+                    <item>
+                        <extref ns2:href="view?docId=ead/Mss.B.B61.5-ead.xml">
+                            <emph render="bold">View Collection</emph></extref></item>
+                </defitem>
+            </list>
+            <p>The American Council of Learned Societies Committee on Native American Languages, Franz Boas Collection of Materials for American Linguistics ( 
+                <extref ns2:href="view?docId=ead/Mss.497.3.B63c-ead.xml">
+                    <emph render="bold">Mss 497.3.B63c</emph></extref>) is a large collection of primary materials on Native American languages assembled, in part, under Boas's supervision, and including a large quantity of material written by Boas himself.</p>
+            <p>Boas appears as a correspondent in numerous APS collections, and in addition to its rich collections for the history of anthropology, the library houses the papers of several of Boas's former students and proteges, including Frank Speck ( 
+                <extref ns2:href="view?docId=ead/Mss.Ms.Coll.126-ead.xml">
+                    <emph render="bold">Mss. Ms. Coll. 126</emph></extref>), Elsie Clews Parsons ( 
+                <extref ns2:href="view?docId=ead/Mss.Ms.Coll.29-ead.xml">
+                    <emph render="bold">Mss. Ms. Coll. 29</emph></extref>), John Alden Mason ( 
+                <extref ns2:href="view?docId=ead/Mss.B.M384-ead.xml">
+                    <emph render="bold">Mss. B M384</emph></extref>), Paul Radin ( 
+                <extref ns2:href="view?docId=ead/Mss.497.3.R114-ead.xml">
+                    <emph render="bold">Mss. 497.3 R114</emph></extref>), and Ashley Montagu ( 
+                <extref ns2:href="view?docId=ead/Mss.Ms.Coll.109-ead.xml">
+                    <emph render="bold">Mss. Ms. Coll. 109</emph></extref>).</p>
+            <p>The APS also houses a microfilm (372.3, reel 1) of original materials in the Office of Anthropology Archives, Smithsonian Institution, Washington, D.C., relating to Boas's trips to Baffin Island (N.W.T.) and British Columbia, during which he studied and collected cultural materials, 1885-1909.</p>
+            <p>The papers of Boas's son Ernst Boas ( 
+                <extref ns2:href="view?docId=ead/Mss.Ms.Coll.10-ead.xml">
+                    <emph render="bold">Mss. Ms. Coll. 10</emph></extref>) are housed at the APS. A physician, Ernst Boas shared his father's liberal political outlook and activist social views.</p>
+        </relatedmaterial>
+        <bibliography id="ref11">
+            <head>Bibliography</head>
+            <bibref>Rohner, Ronald P., ed., 
+                <emph render="italic">The Ethnography of Franz Boas: Letters and Diaries of Franz Boas, Written on the Northwest Coast from 1886 to 1931 </emph>(Chicago: Univ. of Chicago, 1969). 
+                <emph render="bold">Call no.: </emph>B B61e.r</bibref>
+            <bibref>Stocking, George, ed., 
+                <emph render="italic">The Shaping of American Anthropology, 1883-1911: A Franz Boas Reader </emph>(N.Y.: Basic Books, 1974). 
+                <emph render="bold">Call no.: </emph>572.081 B63s</bibref>
+            <bibref>Cole, Douglas, 
+                <emph render="italic">Franz Boas: The Early Years, 1859-1906 </emph>(Seattle: Univ. of Washington, 1999).</bibref>
+            <bibref>Boas, Franz, 
+                <emph render="italic">The Mind of Primitive Man </emph>(N.Y.: MacMillan, 1911). 
+                <emph render="bold">Call no.: </emph>572 B63m</bibref>
+            <bibref>Boas, Franz, 
+                <emph render="italic">Ethnology of the Kwakiutl </emph>(Washington, D.C.:Government Printing Office, 1921). 
+                <emph render="bold">Call no.: </emph>572.97 B63e</bibref>
+            <bibref>Boas, Franz, 
+                <emph render="italic">Primitive Art </emph>(Cambridge, Mass.: Harvard Univ. Press, 1927). 
+                <emph render="bold">Call no.: </emph>571.7 B63p</bibref>
+            <bibref>Boas, Franz, ed., 
+                <emph render="italic">General Anthropology </emph>(Boston: D.C. Heath, 1938). 
+                <emph render="bold">Call no.: </emph>572 B63g.r</bibref>
+            <bibref>Boas, Franz, 
+                <emph render="italic">Race, Language and Culture </emph>(N.Y.: MacMillan, 1940). 
+                <emph render="bold">Call no.: </emph>572.081 B63r</bibref>
+        </bibliography>
+        <controlaccess>
+            <persname rules="aacr" source="naf">Baird, Spencer Fullerton, 1823-1887</persname>
+            <persname source="ingest">Bandelier, Adolph Francis Alphonse, -- 1840-1914.</persname>
+            <persname source="ingest">Baur, Georg, -- 1859-1898.</persname>
+            <persname source="ingest">Benedict, Ruth, 1887-1848</persname>
+            <persname source="ingest">Benedict, Stanley Rossiter, -- 1884-1936.</persname>
+            <persname source="ingest">Bogoras, Waldemar, 1865-1936</persname>
+            <persname rules="aacr" source="naf">Brinton, Daniel Garrison, 1837-1899</persname>
+            <persname source="ingest">Butler, Nicholas Murray, 1862-1947</persname>
+            <persname rules="aacr" source="local">Cattell, James McKeen, 1860-1944</persname>
+            <persname source="ingest">Champion, Martha.</persname>
+            <persname rules="aacr" source="naf">Clarke, Hans Thacher, 1887-1972</persname>
+            <persname rules="aacr" source="local">Dakin, H. D.,  (Henry Drysdale), 1880-1952</persname>
+            <persname source="ingest">Dorsey, James Owen, -- 1848-1895.</persname>
+            <persname source="naf">Goldenweiser, Alexander, 1880-1940 </persname>
+            <persname rules="aacr" source="naf">Hale, Horatio, 1817-1896</persname>
+            <persname source="ingest">James, William, -- 1842-1910.</persname>
+            <persname rules="aacr" source="naf">Kroeber, A. L.,  (Alfred Louis), 1876-1960</persname>
+            <persname source="ingest">Laufer , Berthold, 1874-1934</persname>
+            <persname source="ingest">Mead, Margaret,1901-1978,comp.</persname>
+            <persname source="ingest">Nuttall, Zelia, -- 1858-1933.</persname>
+            <persname source="ingest">Rukeyser, Muriel, 1913-1980</persname>
+            <persname source="ingest">Tozzer, Alfred M. -- (Alfred Marston), -- 1877-1954.</persname>
+            <persname source="ingest">Tylor, Edward Burnett, -- Sir, -- 1832-1917.</persname>
+            <occupation source="lcsh">Anthropologists -- United States.</occupation>
+            <subject source="lcsh">Anthropology--United States--History.</subject>
+            <subject source="lcsh">Authors and publishers.</subject>
+            <genreform source="lcsh">Clippings.</genreform>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref12" level="series">
+                <did>
+                    <unittitle>Boas-Rukeyser Collection</unittitle>
+                    <unitdate>1869-1940</unitdate>
+                    <physdesc id="ref13" label="General Physical Description note">2 linear feet</physdesc>
+                    <physloc id="ref14" label="Location note">B B61ru</physloc>
+                </did>
+                <c02 id="ref15" level="otherlevel">
+                    <did>
+                        <unittitle>American Anthropological Assoc.</unittitle>
+                        <unitdate>1903</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref16" level="otherlevel">
+                    <did>
+                        <unittitle>American Folk-Lore Society -- W. W.Newell</unittitle>
+                        <unitdate>1904</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref17" level="otherlevel">
+                    <did>
+                        <unittitle>American Museum of Natural History -- Albert S. Bickmore</unittitle>
+                        <unitdate>1887</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref18" level="otherlevel">
+                    <did>
+                        <unittitle>Andree, Richard</unittitle>
+                        <unitdate>1897</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref19" level="otherlevel">
+                    <did>
+                        <unittitle>Andrew?, R</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref20" level="otherlevel">
+                    <did>
+                        <unittitle>Averkieva, Julia</unittitle>
+                        <unitdate>1934</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref21" level="otherlevel">
+                    <did>
+                        <unittitle>Baird, Spencer F.</unittitle>
+                        <unitdate>1886</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref22" level="otherlevel">
+                    <did>
+                        <unittitle>Bakwin, Harry</unittitle>
+                        <unitdate>1934</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref23" level="otherlevel">
+                    <did>
+                        <unittitle>Bandelier, Ad F</unittitle>
+                        <unitdate>1905-07</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref24" level="otherlevel">
+                    <did>
+                        <unittitle>Bastian, Adolph</unittitle>
+                        <unitdate>1893</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref25" level="otherlevel">
+                    <did>
+                        <unittitle>Baur, Georg - Synopsis of letters, 1885-1915. (In possession of Frances Baur Henkel)</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref26" level="otherlevel">
+                    <did>
+                        <unittitle>Beckwith, Martha Warren</unittitle>
+                        <unitdate>1934</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref27" level="otherlevel">
+                    <did>
+                        <unittitle>Benedict, Ruth</unittitle>
+                        <unitdate>1934</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref28" level="otherlevel">
+                    <did>
+                        <unittitle>Benedict, Stanley</unittitle>
+                        <unitdate>1911-35</unitdate>
+                    </did>
+                    <c03 id="ref29" level="otherlevel">
+                        <did>
+                            <unittitle>Letters from: Lafayette B. Mendel</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref30" level="otherlevel">
+                        <did>
+                            <unittitle>H. H. Dale</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref31" level="otherlevel">
+                        <did>
+                            <unittitle>Otto Folen</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref32" level="otherlevel">
+                    <did>
+                        <unittitle>Berle, Adolf A. Jr.</unittitle>
+                        <unitdate>1934</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref33" level="otherlevel">
+                    <did>
+                        <unittitle>Bertholet,</unittitle>
+                        <unitdate>1934</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref34" level="otherlevel">
+                    <did>
+                        <unittitle>Beynon, William</unittitle>
+                        <unitdate>1934</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref35" level="otherlevel">
+                    <did>
+                        <unittitle>Bilden, Rudiger</unittitle>
+                        <unitdate>1934</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref36" level="otherlevel">
+                    <did>
+                        <unittitle>Black, Algernon D</unittitle>
+                        <unitdate>1934</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref37" level="otherlevel">
+                    <did>
+                        <unittitle>Blooah, Charles G</unittitle>
+                        <unitdate>1934</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref38" level="otherlevel">
+                    <did>
+                        <unittitle>Boas - Arctic Expedition - Reminiscence written for children, n.d.</unittitle>
+                        <physdesc id="ref39" label="General Physical Description note">(4 folders)</physdesc>
+                    </did>
+                    <scopecontent id="ref148">
+                        <head>Native American Images note</head>
+                        <p>Sketches</p>
+                    </scopecontent>
+                    <c03 id="ref40" level="otherlevel">
+                        <did>
+                            <unittitle>- Birthday greetings, 1907,39,41</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref41" level="otherlevel">
+                        <did>
+                            <unittitle>- Biographical - Reminiscences of relatives</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref42" level="otherlevel">
+                        <did>
+                            <unittitle>- Biographical materials</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref43" level="otherlevel">
+                        <did>
+                            <unittitle>- Family - Letters &amp; documents, 1862-1915</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref44" level="otherlevel">
+                        <did>
+                            <unittitle>- Military records</unittitle>
+                            <unitdate>1882</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref45" level="otherlevel">
+                        <did>
+                            <unittitle>- Poetry</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref46" level="otherlevel">
+                        <did>
+                            <unittitle>- Portrait, 1934</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref47" level="otherlevel">
+                        <did>
+                            <unittitle>- Radio broadcast, 1949. 1946 "The Min, of Primitive Man" Moderator: Robert Redfield; with Leon Duprez (ACLU Counsel) &amp; W. Lloyd Warner (Univ.Chicago.)</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref48" level="otherlevel">
+                        <did>
+                            <unittitle>- Schooling - Certificates/Diplo</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref49" level="otherlevel">
+                    <did>
+                        <unittitle>Boas, Franziska</unittitle>
+                        <unitdate>1924</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref50" level="otherlevel">
+                    <did>
+                        <unittitle>Boas, Ernst - "Franz Boas: His work as described by some of his contempol aries" n.d.</unittitle>
+                        <unitdate>post 1946</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref51" level="otherlevel">
+                    <did>
+                        <unittitle>Boas, Henry - re. Condolences on his death,1925</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref52" level="otherlevel">
+                    <did>
+                        <unittitle>Boas, Marie - re. Condolences on his death,1930</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref53" level="otherlevel">
+                    <did>
+                        <unittitle>Bolling, G M</unittitle>
+                        <unitdate>1934</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref54" level="otherlevel">
+                    <did>
+                        <unittitle>Bogoras, Waldemar</unittitle>
+                        <unitdate>1900,1903</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref55" level="otherlevel">
+                    <did>
+                        <unittitle>Borbolla, D.F. Rubin de la</unittitle>
+                        <unitdate>1934</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref56" level="otherlevel">
+                    <did>
+                        <unittitle>Brinton, Daniel G</unittitle>
+                        <unitdate>1887,1897</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref57" level="otherlevel">
+                    <did>
+                        <unittitle>Brooklyn Jewish Center</unittitle>
+                        <unitdate>1934</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref58" level="otherlevel">
+                    <did>
+                        <unittitle>Buchner, M</unittitle>
+                        <unitdate>1898</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref59" level="otherlevel">
+                    <did>
+                        <unittitle>Buckstein, Jacob</unittitle>
+                        <unitdate>1934</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref60" level="otherlevel">
+                    <did>
+                        <unittitle>Buschman, Harold</unittitle>
+                        <unitdate>1934</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref61" level="otherlevel">
+                    <did>
+                        <unittitle>Butler, Nicholas M</unittitle>
+                        <unitdate>1910</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref62" level="otherlevel">
+                    <did>
+                        <unittitle>Canyes, Manuel</unittitle>
+                        <unitdate>1934</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref63" level="otherlevel">
+                    <did>
+                        <unittitle>Carney, Mabel</unittitle>
+                        <unitdate>1934</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref64" level="otherlevel">
+                    <did>
+                        <unittitle>Cattell, James McKeen</unittitle>
+                        <unitdate>1934</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref65" level="otherlevel">
+                    <did>
+                        <unittitle>Chamberlain, Joseph C.</unittitle>
+                        <unitdate>1934</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref66" level="otherlevel">
+                    <did>
+                        <unittitle>Champion, Martha</unittitle>
+                        <unitdate>1934</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref67" level="otherlevel">
+                    <did>
+                        <unittitle>Chase, Chancellor of N.Y.Univ.</unittitle>
+                        <unitdate>1934</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref68" level="otherlevel">
+                    <did>
+                        <unittitle>Clarke, Edwin L.</unittitle>
+                        <unitdate>1934</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref69" level="otherlevel">
+                    <did>
+                        <unittitle>Clarke, Hans T.</unittitle>
+                        <unitdate>1934</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref70" level="otherlevel">
+                    <did>
+                        <unittitle>Cleveland, Treadwell</unittitle>
+                        <unitdate>1934</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref71" level="otherlevel">
+                    <did>
+                        <unittitle>Cohen, Morris R</unittitle>
+                        <unitdate>1934</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref72" level="otherlevel">
+                    <did>
+                        <unittitle>Cole, Fay-Cooper</unittitle>
+                        <unitdate>1934</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref73" level="otherlevel">
+                    <did>
+                        <unittitle>Collier, John</unittitle>
+                        <unitdate>1934</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref74" level="otherlevel">
+                    <did>
+                        <unittitle>Commission Investigating Fascist Activities Edward Dahlberg</unittitle>
+                        <unitdate>1934</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref75" level="otherlevel">
+                    <did>
+                        <unittitle>Committee on Academic Freedom</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref76" level="otherlevel">
+                    <did>
+                        <unittitle>Congres International des Sciences Anthropologiques et Ethnologiques,1934</unittitle>
+                        <unitdate>1933-34</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref77" level="otherlevel">
+                    <did>
+                        <unittitle>Cooper, John M</unittitle>
+                        <unitdate>1934</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref78" level="otherlevel">
+                    <did>
+                        <unittitle>Corbin Transient Service Bureau, Kentucky</unittitle>
+                        <unitdate>1934</unitdate>
+                    </did>
+                    <scopecontent id="ref79">
+                        <head>Scope and Contents note</head>
+                        <p>(re. Proposed survey of transient mountaineers)</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref80" level="otherlevel">
+                    <did>
+                        <unittitle>Cowell, Henry</unittitle>
+                        <unitdate>1934</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref81" level="otherlevel">
+                    <did>
+                        <unittitle>Cranmer, Dan</unittitle>
+                        <unitdate>1934</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref82" level="otherlevel">
+                    <did>
+                        <unittitle>Cushing, Frank Hamilton</unittitle>
+                        <unitdate>1898</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref83" level="otherlevel">
+                    <did>
+                        <unittitle>Czekanowski, Jan</unittitle>
+                        <unitdate>1934</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref84" level="otherlevel">
+                    <did>
+                        <unittitle>Dakin, Henry D</unittitle>
+                        <unitdate>1932,34</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref85" level="otherlevel">
+                    <did>
+                        <unittitle>Dawson, George M</unittitle>
+                        <unitdate>1898</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref86" level="otherlevel">
+                    <did>
+                        <unittitle>Dixon, Roland B</unittitle>
+                        <unitdate>1904</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref87" level="otherlevel">
+                    <did>
+                        <unittitle>Dorsey, J. Owen</unittitle>
+                        <unitdate>1893,1907</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref88" level="otherlevel">
+                    <did>
+                        <unittitle>Ehrenreich, P</unittitle>
+                        <unitdate>1898</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref89" level="otherlevel">
+                    <did>
+                        <unittitle>Ellis, Havelock</unittitle>
+                        <unitdate>1898</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref90" level="otherlevel">
+                    <did>
+                        <unittitle>Emergency Society on German &amp; Austrian Science &amp; Art, 1921</unittitle>
+                        <physdesc id="ref91" label="General Physical Description note">(10 folders)</physdesc>
+                    </did>
+                </c02>
+                <c02 id="ref92" level="otherlevel">
+                    <did>
+                        <unittitle>Finsch, Otto</unittitle>
+                        <unitdate>1894,1897</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref93" level="otherlevel">
+                    <did>
+                        <unittitle>Fletcher, Alice C</unittitle>
+                        <unitdate>1898</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref94" level="otherlevel">
+                    <did>
+                        <unittitle>Gatschet, Albert S</unittitle>
+                        <unitdate>1898</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref95" level="otherlevel">
+                    <did>
+                        <unittitle>Gatschet, Mrs. Albert S</unittitle>
+                        <unitdate>1910</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref96" level="otherlevel">
+                    <did>
+                        <unittitle>The German American</unittitle>
+                        <unitdate>1942</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref97" level="otherlevel">
+                    <did>
+                        <unittitle>Goddard, Pliny Earle</unittitle>
+                        <unitdate>1910</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref98" level="otherlevel">
+                    <did>
+                        <unittitle>Goldenweiser, Alexander</unittitle>
+                        <unitdate>1910</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref99" level="otherlevel">
+                    <did>
+                        <unittitle>Grasse, E</unittitle>
+                        <unitdate>1897,98</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref100" level="otherlevel">
+                    <did>
+                        <unittitle>Grinnell, George B</unittitle>
+                        <unitdate>1899</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref101" level="otherlevel">
+                    <did>
+                        <unittitle>Haddon, Alfred C</unittitle>
+                        <unitdate>1905</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref102" level="otherlevel">
+                    <did>
+                        <unittitle>Hale, Horatio</unittitle>
+                        <unitdate>1888,94</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref103" level="otherlevel">
+                    <did>
+                        <unittitle>Heger, F</unittitle>
+                        <unitdate>1897</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref104" level="otherlevel">
+                    <did>
+                        <unittitle>Holmes, Wm. H Berthold Laufer</unittitle>
+                        <unitdate>1894</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref105" level="otherlevel">
+                    <did>
+                        <unittitle>Internationales Archif fur Ethnographie</unittitle>
+                        <unitdate>1882</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref106" level="otherlevel">
+                    <did>
+                        <unittitle>Jones, William</unittitle>
+                        <unitdate>1905</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref107" level="otherlevel">
+                    <did>
+                        <unittitle>Keller, Helen</unittitle>
+                        <unitdate>1940</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref108" level="otherlevel">
+                    <did>
+                        <unittitle>Kroeber, Alfred L</unittitle>
+                        <unitdate>1916-35</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref109" level="otherlevel">
+                    <did>
+                        <unittitle>Laufer, Berthold</unittitle>
+                        <unitdate>1901,02</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref110" level="otherlevel">
+                    <did>
+                        <unittitle>Livi, Ridolfo</unittitle>
+                        <unitdate>1896</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref111" level="otherlevel">
+                    <did>
+                        <unittitle>Luschan, Felix von</unittitle>
+                        <unitdate>1893,97</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref112" level="otherlevel">
+                    <did>
+                        <unittitle>Map of N. American Indian Groups</unittitle>
+                    </did>
+                    <scopecontent id="ref113">
+                        <head>Scope and Contents note</head>
+                        <p>(Boas notations on paterlineal &amp; matrilineal kinship) Native American Images note: Map of North American Indian groups</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref114" level="otherlevel">
+                    <did>
+                        <unittitle>Mason, Otis</unittitle>
+                        <unitdate>1898,1906</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref115" level="otherlevel">
+                    <did>
+                        <unittitle>Mead, Margaret</unittitle>
+                        <unitdate>1925</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref116" level="otherlevel">
+                    <did>
+                        <unittitle>Meyer, A B</unittitle>
+                        <unitdate>1931</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref117" level="otherlevel">
+                    <did>
+                        <unittitle>Mooney, James</unittitle>
+                        <unitdate>1905</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref118" level="otherlevel">
+                    <did>
+                        <unittitle>Moore, Clarence B</unittitle>
+                        <unitdate>1905</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref119" level="otherlevel">
+                    <did>
+                        <unittitle>Motion Picture Films - re. "Race" film, c.1939</unittitle>
+                        <physdesc id="ref120" label="General Physical Description note">(4 folders)</physdesc>
+                    </did>
+                    <c03 id="ref121" level="otherlevel">
+                        <did>
+                            <unittitle>
+                                <emph render="italic">Films For Democracy</emph>(company)</unittitle>
+                        </did>
+                        <c04 id="ref122" level="otherlevel">
+                            <did>
+                                <unittitle>*Gardner Jackson</unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="ref123" level="otherlevel">
+                            <did>
+                                <unittitle>Robert K. Speer</unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="ref124" level="otherlevel">
+                            <did>
+                                <unittitle>Samuel J. Rodman</unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="ref125" level="otherlevel">
+                            <did>
+                                <unittitle>Louis D. Brandeis, Justice</unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="ref126" level="otherlevel">
+                            <did>
+                                <unittitle>Walter F. Wanger</unittitle>
+                            </did>
+                        </c04>
+                    </c03>
+                    <c03 id="ref127" level="otherlevel">
+                        <did>
+                            <unittitle>
+                                <emph render="italic">Frontier Films </emph>(company)</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref128" level="otherlevel">
+                    <did>
+                        <unittitle>Muller, F. Max</unittitle>
+                        <unitdate>1899</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref129" level="otherlevel">
+                    <did>
+                        <unittitle>Myers, John L</unittitle>
+                        <unitdate>1910</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref130" level="otherlevel">
+                    <did>
+                        <unittitle>Newell, William Wells</unittitle>
+                        <unitdate>1894</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref131" level="otherlevel">
+                    <did>
+                        <unittitle>Newsclippings</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref132" level="otherlevel">
+                    <did>
+                        <unittitle>Nuttall, Zelia</unittitle>
+                        <unitdate>1905</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref133" level="otherlevel">
+                    <did>
+                        <unittitle>Putnam, Frederick Ward</unittitle>
+                        <unitdate>1905</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref134" level="otherlevel">
+                    <did>
+                        <unittitle>Ranke, F</unittitle>
+                        <unitdate>1905</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref135" level="otherlevel">
+                    <did>
+                        <unittitle>Ratzal, F</unittitle>
+                        <unitdate>1890</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref136" level="otherlevel">
+                    <did>
+                        <unittitle>Rink, H</unittitle>
+                        <unitdate>1885</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref137" level="otherlevel">
+                    <did>
+                        <unittitle>Rus, W</unittitle>
+                        <unitdate>1885</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref138" level="otherlevel">
+                    <did>
+                        <unittitle>Schwatka, Frederik</unittitle>
+                        <unitdate>1885,86</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref139" level="otherlevel">
+                    <did>
+                        <unittitle>Seler, Eduard</unittitle>
+                        <unitdate>1898</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref140" level="otherlevel">
+                    <did>
+                        <unittitle>Societe des Americanistes de Paris</unittitle>
+                        <unitdate>1919</unitdate>
+                    </did>
+                    <scopecontent id="ref141">
+                        <head>Scope and Contents note</head>
+                        <p>re. Eloquent letter on nationalism &amp; internationalism</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref142" level="otherlevel">
+                    <did>
+                        <unittitle>Steinen, Karl von den</unittitle>
+                        <unitdate>1903</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref143" level="otherlevel">
+                    <did>
+                        <unittitle>Steinthal, Prof.</unittitle>
+                        <unitdate>1897</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref144" level="otherlevel">
+                    <did>
+                        <unittitle>Tozzer, Alfred</unittitle>
+                        <unitdate>n.d.</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref145" level="otherlevel">
+                    <did>
+                        <unittitle>Turner, Lucien M</unittitle>
+                        <unitdate>1887</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref146" level="otherlevel">
+                    <did>
+                        <unittitle>Tylor, Edward B</unittitle>
+                        <unitdate>1898</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref147" level="otherlevel">
+                    <did>
+                        <unittitle>Wilson, Daniel</unittitle>
+                        <unitdate>1889</unitdate>
+                    </did>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

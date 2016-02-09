@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Film.1097-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Film.1097</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T20:11-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Henry Muhlenberg correspondence, 1779-1815</unittitle>
+            <unitid>Mss.Film.1097</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="ger"/>
+            </langmaterial>
+            <container id="cid1696" type="Reel" label="Microform">1</container>
+            <physdesc>
+                <extent>1.0 Microfilm reel(s)</extent>
+            </physdesc>
+            <unitdate normal="1779/1815" type="inclusive">1779-1815</unitdate>
+            <abstract id="ref1" label="Abstract">Correspondents include C. D. Ebeling, Alexander von Humboldt, and Henry Melchior Muhlenberg.</abstract>
+            <physdesc id="ref12" label="General Physical Description note">1 microfilm reel.</physdesc>
+            <physloc id="ref14" label="Paging">LH-RR-Media Rm-3</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Muhlenberg, Henry, 1753-1815</persname>
+            </origination>
+        </did>
+        <odd id="ref13">
+            <head>Early American History Note</head>
+            <p>This is a microfilm of an early American collection that may be of interest to researchers at the APS and may complement an original manuscript collection at the APS.</p>
+        </odd>
+        <acqinfo id="ref11">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by Lutheran Theological Seminary and accessioned, 1962 (1962 111mf).</p>
+            <p></p>
+        </acqinfo>
+        <userestrict id="ref9">
+            <head>Conditions Governing Use note</head>
+            <p>No extensive quotation from, or enlargement print of the film without the permission of the Librarian of the Lutheran Theological Seminary.</p>
+        </userestrict>
+        <odd id="ref7">
+            <head>General note</head>
+            <p>Along with these letters written in German are English content notes.</p>
+        </odd>
+        <bioghist id="ref5">
+            <head>Biographical/Historical note</head>
+            <p>Henry Muhlenberg was a Lutheran clergyman and botanist; he was elected to the American Philosophical Society in 1785.</p>
+        </bioghist>
+        <originalsloc id="ref3">
+            <head>Existence and Location of Originals note</head>
+            <p>Originals in Lutheran Theological Seminary, Philadelphia.</p>
+        </originalsloc>
+        <controlaccess>
+            <persname rules="aacr" source="naf">Ebeling, Christophe Daniel, 1741-1817</persname>
+            <persname rules="aacr" source="naf">Humboldt, Alexander von, 1769-1859</persname>
+            <persname rules="aacr" source="naf">Muhlenberg, Henry Melchior, 1711-1787</persname>
+            <subject source="lcsh">Botany.</subject>
+            <genreform source="leah">Microfilm Collection</genreform>
+            <subject source="lcsh">Natural history.</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

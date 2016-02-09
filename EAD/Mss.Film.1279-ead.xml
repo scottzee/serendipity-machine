@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Film.1279-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Film.1279</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T20:12-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Moravian mission among the Indians of North America records, 1735-1900 (inclusive), [microform]</unittitle>
+            <unitid>Mss.Film.1279</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1755" type="Reel" label="Microform">1-40</container>
+            <physdesc>
+                <extent>40.0 Microfilm reel(s)</extent>
+            </physdesc>
+            <unitdate normal="1735/1900" type="inclusive">1735-1900</unitdate>
+            <abstract id="ref1" label="Abstract">This collection contains correspondence, diaries, reports, letters, conference minutes, church registers and catalogs, and other papers documenting the work of Moravian missionaries among the Indians of North America. Includes language materials in Delaware, Creek, Mohawk, and Onondaga; and materials pertaining to the Chippewa, Cherokee, Nanticoke, and Shawnee. Materials cover New York, Connecticut, Pennsylvania, Ohio, Michigan, Indiana, Kansas, Georgia, Oklahoma, and Ontario.</abstract>
+            <physdesc id="ref8" label="General Physical Description note">40 microfilm reels.</physdesc>
+            <physloc id="ref10" label="Paging">LH-RR-Media Rm-4</physloc>
+            <origination label="creator">
+                <corpname source="ingest" role="Author (aut)">Moravian Church.</corpname>
+            </origination>
+        </did>
+        <odd id="ref9">
+            <head>Early American History Note</head>
+            <p>This is a microfilm of an early American collection that may be of interest to researchers at the APS and may complement an original manuscript collection at the APS.</p>
+        </odd>
+        <acqinfo id="ref7">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Purchased from Research Publications, Inc. ($1150.00) and accessioned, 05/08/1970 (1970 708mf).</p>
+        </acqinfo>
+        <bioghist id="ref5">
+            <head>Biographical/Historical note</head>
+            <p>The Moravians came to the United States in 1735 primarily to preach the gospel to the Indians. Although the Moravians had contacts with many Indian tribes, they did most of their work among the Delawares. They followed this tribe westward from Pennsylvania to Ohio, to Canada, to Indiana, and finally to Kansas. They also worked among the Mahicans in New York and Connecticut, and among the Cherokees in Georgia and Oklahoma. The work lasted until 1900, for a total of over 150 years.</p>
+        </bioghist>
+        <originalsloc id="ref3">
+            <head>Existence and Location of Originals note</head>
+            <p>Originals in the Archives of the Moravian Church, Bethlehem, Pennsylvania.</p>
+        </originalsloc>
+        <controlaccess>
+            <corpname source="ingest">Moravian Church.</corpname>
+            <subject source="lcsh">Cherokee Indians </subject>
+            <subject source="lcsh">Delaware Indians</subject>
+            <subject source="lcsh">Indians of North America</subject>
+            <subject source="lcsh">Mahican Indians</subject>
+            <genreform source="leah">Microfilm Collection</genreform>
+            <occupation source="lcsh">Missionaries.</occupation>
+            <subject source="lcsh">Missions -- United States.</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

@@ -1,0 +1,2524 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.B61-ead.xml">boas.xml</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Franz Boas Papers
+                    <date type="span">1862-1942</date>
+                    <num>Mss.B.B61</num>
+                </titleproper>
+                <author>Finding aid prepared by rsc</author>
+                <sponsor>Encoding was made possible by a grant from the Gladys Krieble Delmas Foundation to the Philadelphia Consortium of Special Collections Libraries.</sponsor>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+                <date>3/2002</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:32-0400</date>
+            </creation>
+            <langusage>ENG</langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Franz Boas Papers</unittitle>
+            <unitid>Mss.B.B61</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>59.0 Linear feet</extent>
+            </physdesc>
+            <unitdate normal="1862/1942" type="inclusive">1862-1942</unitdate>
+            <abstract id="ref2" label="Abstract">During the half century leading up to the Second World War, Franz Boas helped to define academic anthropology in the United States. Trained as a geographer at the University of Heidelberg, Boas worked initially on the Inuit of Baffin Island and subsequently on the cultures of the Indians of the Northwest Pacific Coast, becoming a leading figure in American anthropology by the first decade of the twentieth century. As Professor of Anthropology at Columbia University, Boas made significant theoretical contributions to ethnology, linguistics, and physical anthropology, helping to ingrain the four fields approach in his discipline and introducing the concept of cultural relativism into wide currency. He was, as well, a committed Socialist and an ardent opponent of both racism and fascism. 
+                <lb/>This collection includes correspondence that Boas carried on with his colleagues in anthropology, as well as with those in the other social sciences and sciences. This correspondence is rich as a source for twentieth-century historians interested in "radical" social causes, since Boas was a socialist and an outspoken voice for progressive social causes.</abstract>
+            <physdesc id="ref1" label="General Physical Description note">59 lin. feet</physdesc>
+            <physloc id="ref384" label="Paging">LH-B-13-4; LH-SB-XOS Case 1-4 (XOS, Series II, Map Baffinland; Diplomas)</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Boas,  Franz, 1858-1942 </persname>
+            </origination>
+        </did>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>Born in Minden, Germany, on July 8, 1858, the anthropologist Franz Boas was the son of the merchant Meier Boas and his wife, Sophie Meyer. Raised in the radical and tradition of German Judaism, Franz's youth was steeped in politically liberal beliefs and a largely secular outlook that he carried with him from university through his emigration to the United States.</p>
+            <p>At the universities of Heidelberg and Bonn, Boas studied physics and geography before completing a doctorate in physical geography at Kiel in 1881. Intending on testing then-current theories of environmental determinism, he signed on to an anthropological expedition to Baffin Island in 1883-1884, expecting that he would document the close adaptative fit of Central Eskimo cultures to their extreme climate. His experiences in the arctic, however, led him to the contrary conclusion: that social traditions, not environmental, exerted a dominant influence over human societies, and from this point onward, he was led to pursue the cultural over than physical dimensions of humanity.</p>
+            <p>Although he returned to Berlin after the expedition, Boas emigrated to the United States in 1885 to assume an editorial position with the journal 
+                <emph render="italic">Science</emph>, hoping to use it as a stepping-stone to an academic appointment. In 1886, he embarked upon a second major field excursion into what would become his most famous ethnographic project, working among the Kwakiutl (Kwakwaka'wakw) Indians of the Northwest Coast, after which he secured his first academic position in 1889, at Clark University in Worcester, Mass. After three years at Clark and a failed appointment at the Field Museum in Chicago in 1892 (during which he played a part in organizing the anthropological exhibits for the Columbian World's Fair), Boas moved to New York City.</p>
+            <p>The restless activity of Boas's early years slowed in New York. Hired by the American Museum of Natural History (1895-1905), which became the recipient of the amazingly rich anthropological collections he accumulated on the Northwest Coast, Boas began to teach classes at Columbia University in 1896, where three years later he was appointed Professor of Anthropology. For the next 37 years, Boas ruled the anthropological roost at Columbia, accruing unprecedented power in his discipline, wielding grants, recommendations, and appointments with remarkable dexterity, and collecting about him a remarkable group of younger scholars as students and colleagues.</p>
+            <p>Distancing himself from some of the main currents of contemporary anthropological thought in the United States, and particularly from the evolutionist assumptions that riddled the discipline, Boas championed an anthropology that viewed human cultures as shaped more by historical "tradition" than biological propensity. Claiming to resist any overarching, synthetic theories of human relations, and particularly evolutionary theories of sociocultural development, Boas laid the theoretical groundwork for what became modern cultural relativism. In the process, he helped to clarify the demarcation between the concepts of culture and race and its expression in the divergence of the four fields in anthropology -- linguistics, ethnography, physical anthropology, and archaeology.</p>
+            <p>Boas's relatively few forays into physical anthropology included a pioneering anthropometric study in 1910-1911, demonstrating that the alleged mental and physical inferiority of immigrants disappeared statistically by the second generation. Opposed to immigration quotas and disdainful of the claims to science used to justify them, Boas was a consistent, strident opponent of racial determinism in intellect or behavior. A committed, politically active Socialist, he was frequently an outspoken critic of American policy. During the First World War, he spoke out against the treatment of German Americans and "enemy aliens" -- to the point of putting himself at risk -- and the rise of the Nazi party in Germany proved an even greater crusade. Despite his age, Boas took an active role in the anti-fascist struggle in the United States and was involved with numerous committees to assist refugee scholars. He was equally ardent in his efforts to criticize racial and ethnic bigotry in the United States.</p>
+            <p>As a mentor, Boas had a reputation of being directive, at times overbearing, and at the same time of doing too little to prepare his students for the rigors of fieldwork. The extraordinary number of students coming out of Columbia under his care, however, has arguably done as much to extend the Boasian approach than Boas's own writing. Margaret Mead, Ruth Benedict, Elsie Clews Parsons, Alfred Kroeber, Frank Speck, Edward Sapir, Zora Neale Hurston, Ella Deloria, Melville Herskovits, Leslie Spier, Paul Radin, and Ashley Montagu are all students of Boas. Many continued in the same intellectual stream, some diverged, yet all bore traces of Boas's influence. He left a mark as well on the institutions of the discipline, as one of the founders of the American Anthropological Association and of the 
+                <title render="italic">International Journal of American Linguistics</title>.</p>
+        </bioghist>
+        <scopecontent id="ref4">
+            <head>Scope and Contents note</head>
+            <p>The Boas Collections at the APS are the key resource for documenting the transformations in American ethnography, linguistics, and physical anthropology in the period between the 1880s and 1940s. The Boas Papers (Mss B B61) consist of the main body of Franz Boas's professional correspondence, including particularly extensive and important correspondence with Edward Sapir, Gladys Reichard, Elsie Parsons, Leo Frachtenburg, John Alden Mason, M. J. McGee, Frederick W. Hodge, Alfred Kroeber, George Hunt, and Alfred M. Tozzer, and material relating to Boas's involvement in professional and other organizations. This collection provides richly detailed coverage of every facet of Boas's career from the time of his emigration to America in the mid-1880s until his death in 1940, shedding light on the development of ethnography, anthropological linguistics, and anthropological approaches to archaeology. His correspondence was highly diverse, including not only his fellow anthropologists, but geneticists, evolutionary biologists, social scientists, and social activists.</p>
+            <p>The Boas collections are also a rich resource for historians interested in "radical" social causes in the twentieth-century through Boas's participation in socialist political circles and progressive social movements. There is significant material on the Germanistic Society of America and for German National Socialism and the expulsion of European scholars, as well as the efforts to reestablish them in British and American institutions.</p>
+            <p>This collection also contains photographs of Boas and members of his family from his childhood to the time of his death. Links to the digital versions of the pages are included in the inventory. You may also 
+                <extref ns2:href="http://cdm.amphilsoc.org/cdm4/results.php?CISOOP1=exact&amp;CISOFIELD1=CISOSEARCHALL&amp;CISOROOT=/anth&amp;CISOBOX1=Mss.+B+B61">
+                    <emph render="bold">view a gallery of all images here</emph>.</extref></p>
+            <p>Native American Images note : Nearly 3,000 sketches, albumen prints, black and white silver gelatin photographs, photomechanical prints, postcards, and maps of Baffinland Inuit and Northwest Coast Kwakiutl (Kwakwaka’wakw). Taken and drawn by Boas during his Northern Canadian expeditions of 1883-84 and 1886, images include native clothing, dwellings, totem figures, tools and kayaks. Of note, hand-drawn maps of Inuit tribal territories. Includes images sent to Boas from anthropologist John Alden Mason (Mayan), Amelia Susman and William Beynon (Tsimshian) of sculptures, carvings, and totems. Sketches are in the correspondence and field notebook series of B B61; B B61p; B B61.ru; B B61.5. The finding aid contains an inventory of all photographs housed in the Photograph Collection and on Film 1427. See also the American Council of Learned Society papers (497.3 B63c) for more Native American images by Boas.</p>
+        </scopecontent>
+        <acqinfo id="ref6">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Gift of Helene Boas Yampolsky, 1961-1962; and Dr. Cecil Yampolsky, 1964, with many later additions from Norman F. Boas.</p>
+        </acqinfo>
+        <prefercite id="ref7">
+            <head>Preferred Citation note</head>
+            <p>Cite as: Franz Boas Papers, American Philosophical Society.</p>
+        </prefercite>
+        <separatedmaterial id="ref8">
+            <head>Separated Materials note</head>
+            <p>Photographs have been separated for storage with the library's photographic collection.</p>
+        </separatedmaterial>
+        <otherfindaid id="ref10">
+            <head>Other Finding Aids note</head>
+            <p>This collection is thoroughly inventoried in Franziska Boas, 
+                <emph render="italic">Guide to the Microfilm Collection of the Professional Papers of Franz Boas</emph> (Wilmington, Del.: Scholarly Resources, 1972), 2 vols. This guide forms the basis of the inventory below.</p>
+            <p>Materials relating to Boas' research on American Indians is indexed in great detail in the online 
+                <extref ns2:href="http://www.amphilsoc.org/natam/search">Daythal Kendall Guide to Native American Collections at the American Philosophical Society</extref>.</p>
+        </otherfindaid>
+        <bibliography id="ref11">
+            <head>Bibliography</head>
+            <bibref>Rohner, Ronald P., ed., 
+                <emph render="italic">The Ethnography of Franz Boas: Letters and Diaries of Franz Boas, Written on the Northwest Coast from 1886 to 1931 </emph>(Chicago: Univ. of Chicago, 1969). 
+                <emph render="bold">Call no.: </emph>B B61e.r</bibref>
+            <bibref>Stocking, George, ed., 
+                <emph render="italic">The Shaping of American Anthropology, 1883-1911: A Franz Boas Reader </emph>(N.Y.: Basic Books, 1974). 
+                <emph render="bold">Call no.: </emph>572.081 B63s</bibref>
+            <bibref>Cole, Douglas, 
+                <emph render="italic">Franz Boas: The Early Years, 1859-1906 </emph>(Seattle: Univ. of Washington, 1999).</bibref>
+            <bibref>Boas, Franz, 
+                <emph render="italic">The Mind of Primitive Man </emph>(N.Y.: MacMillan, 1911). 
+                <emph render="bold">Call no.: </emph>572 B63m</bibref>
+            <bibref>Boas, Franz, 
+                <emph render="italic">Ethnology of the Kwakiutl </emph>(Washington, D.C.:Government Printing Office, 1921). 
+                <emph render="bold">Call no.: </emph>572.97 B63e</bibref>
+            <bibref>Boas, Franz, 
+                <emph render="italic">Primitive Art </emph>(Cambridge, Mass.: Harvard Univ. Press, 1927). 
+                <emph render="bold">Call no.: </emph>571.7 B63p</bibref>
+            <bibref>Boas, Franz, ed., 
+                <emph render="italic">General Anthropology </emph>(Boston: D.C. Heath, 1938). 
+                <emph render="bold">Call no.: </emph>572 B63g.r</bibref>
+            <bibref>Boas, Franz, 
+                <emph render="italic">Race, Language and Culture </emph>(N.Y.: MacMillan, 1940). 
+                <emph render="bold">Call no.: </emph>572.081 B63r</bibref>
+        </bibliography>
+        <altformavail id="ref12">
+            <head>Existence and Location of Copies note</head>
+            <p>This collection has been microfilmed (film 1308) in chronological order.</p>
+            <p>
+                <table>
+                    <tgroup cols="2">
+                        <colspec colname="col-0"/>
+                        <colspec colname="col-1"/>
+                        <tbody>
+                            <row>
+                                <entry valign="top" align="left"> Reel 1 </entry>
+                                <entry valign="top" align="left"> February 24, 1878-January 31, 1889 </entry>
+                            </row>
+                            <row>
+                                <entry valign="top" align="left">Reel 2</entry>
+                                <entry valign="top" align="left">February 1, 1889-April 30, 1894</entry>
+                            </row>
+                            <row>
+                                <entry valign="top" align="left">Reel 3</entry>
+                                <entry valign="top" align="left">May 1, 1894-December 30, 1898</entry>
+                            </row>
+                            <row>
+                                <entry valign="top" align="left">Reel 4</entry>
+                                <entry valign="top" align="left">January 5, 1899-March 26, 1903</entry>
+                            </row>
+                            <row>
+                                <entry valign="top" align="left">Reel 5</entry>
+                                <entry valign="top" align="left">April 2, 1903-December 30, 1904</entry>
+                            </row>
+                            <row>
+                                <entry valign="top" align="left">Reel 6</entry>
+                                <entry valign="top" align="left">January 2, 1905-January 24, 1906</entry>
+                            </row>
+                            <row>
+                                <entry valign="top" align="left">Reel 7</entry>
+                                <entry valign="top" align="left">January 24, 1906-January 4, 1907</entry>
+                            </row>
+                            <row>
+                                <entry valign="top" align="left">Reel 8</entry>
+                                <entry valign="top" align="left">January 4, 1907 -December 10, 1907</entry>
+                            </row>
+                            <row>
+                                <entry valign="top" align="left">Reel 9</entry>
+                                <entry valign="top" align="left">December 11, 1907-December 4, 1908</entry>
+                            </row>
+                            <row>
+                                <entry valign="top" align="left">Reel 10</entry>
+                                <entry valign="top" align="left">December 5, 1908-November 30, 1909</entry>
+                            </row>
+                            <row>
+                                <entry valign="top" align="left">Reel 11</entry>
+                                <entry valign="top" align="left">December 1, 1909-February 17, 1911</entry>
+                            </row>
+                            <row>
+                                <entry valign="top" align="left">Reel 12</entry>
+                                <entry valign="top" align="left">February 17, 1911-September 12, 1912</entry>
+                            </row>
+                            <row>
+                                <entry valign="top" align="left">Reel 13</entry>
+                                <entry valign="top" align="left">September 13, 1912-June 14, 1913</entry>
+                            </row>
+                            <row>
+                                <entry valign="top" align="left">Reel 14</entry>
+                                <entry valign="top" align="left">June 11, 1913-February 20, 1914</entry>
+                            </row>
+                            <row>
+                                <entry valign="top" align="left">Reel 15</entry>
+                                <entry valign="top" align="left">February 20, 1914-April 16, 1915</entry>
+                            </row>
+                            <row>
+                                <entry valign="top" align="left">Reel 16</entry>
+                                <entry valign="top" align="left">April 16, 1915-October 15, 1916</entry>
+                            </row>
+                            <row>
+                                <entry valign="top" align="left">Reel 17</entry>
+                                <entry valign="top" align="left">October 16, 1916-May 31, 1917</entry>
+                            </row>
+                            <row>
+                                <entry valign="top" align="left">Reel 18</entry>
+                                <entry valign="top" align="left">June 1, 1917-March 31, 1918</entry>
+                            </row>
+                            <row>
+                                <entry valign="top" align="left">Reel 19</entry>
+                                <entry valign="top" align="left">April 1, 1918-April 2, 1919</entry>
+                            </row>
+                            <row>
+                                <entry valign="top" align="left">Reel 20</entry>
+                                <entry valign="top" align="left">April 3, 1919-February 19, 1920</entry>
+                            </row>
+                            <row>
+                                <entry valign="top" align="left">Reel 21</entry>
+                                <entry valign="top" align="left">February 19, 1920-July 31, 1920</entry>
+                            </row>
+                            <row>
+                                <entry valign="top" align="left">Reel 22</entry>
+                                <entry valign="top" align="left">August 1, 1920-November 26, 1920</entry>
+                            </row>
+                            <row>
+                                <entry valign="top" align="left">Reel 23</entry>
+                                <entry valign="top" align="left">November 26, 1920-December 29, 1922</entry>
+                            </row>
+                            <row>
+                                <entry valign="top" align="left">Reel 24</entry>
+                                <entry valign="top" align="left">January 9, 1923-February 29, 1924</entry>
+                            </row>
+                            <row>
+                                <entry valign="top" align="left">Reel 25</entry>
+                                <entry valign="top" align="left">March 1, 1924-April 13, 1925</entry>
+                            </row>
+                            <row>
+                                <entry valign="top" align="left">Reel 26</entry>
+                                <entry valign="top" align="left">April 13, 1925-April 12, 1926</entry>
+                            </row>
+                            <row>
+                                <entry valign="top" align="left">Reel 27</entry>
+                                <entry valign="top" align="left">April 13, 1926-March 21, 1927</entry>
+                            </row>
+                            <row>
+                                <entry valign="top" align="left">Reel 28</entry>
+                                <entry valign="top" align="left">April 4, 1927-January 16, 1928</entry>
+                            </row>
+                            <row>
+                                <entry valign="top" align="left">Reel 29</entry>
+                                <entry valign="top" align="left">January 17, 1928-January 14, 1929</entry>
+                            </row>
+                            <row>
+                                <entry valign="top" align="left">Reel 30</entry>
+                                <entry valign="top" align="left">January 15, 1929-October 29, 1929</entry>
+                            </row>
+                            <row>
+                                <entry valign="top" align="left">Reel 31</entry>
+                                <entry valign="top" align="left">November 1, 1929-September 15, 1930</entry>
+                            </row>
+                            <row>
+                                <entry valign="top" align="left">Reel 32</entry>
+                                <entry valign="top" align="left">September 16, 1930-May 11, 1931</entry>
+                            </row>
+                            <row>
+                                <entry valign="top" align="left">Reel 33</entry>
+                                <entry valign="top" align="left">May 12, 1931-January 15, 1932</entry>
+                            </row>
+                            <row>
+                                <entry valign="top" align="left">Reel 34</entry>
+                                <entry valign="top" align="left">January 16, 1932-February 27, 1933</entry>
+                            </row>
+                            <row>
+                                <entry valign="top" align="left">Reel 35</entry>
+                                <entry valign="top" align="left">March 7, 1933-November 6, 1933</entry>
+                            </row>
+                            <row>
+                                <entry valign="top" align="left">Reel 36</entry>
+                                <entry valign="top" align="left">November 7, 1933-August 10, 1934</entry>
+                            </row>
+                            <row>
+                                <entry valign="top" align="left">Reel 37</entry>
+                                <entry valign="top" align="left">August 11, 1934-September 6, 1935</entry>
+                            </row>
+                            <row>
+                                <entry valign="top" align="left">Reel 38</entry>
+                                <entry valign="top" align="left">September 8, 1935-June 14, 1936</entry>
+                            </row>
+                            <row>
+                                <entry valign="top" align="left">Reel 39</entry>
+                                <entry valign="top" align="left">June 15, 1936-April 23, 1937</entry>
+                            </row>
+                            <row>
+                                <entry valign="top" align="left">Reel 40</entry>
+                                <entry valign="top" align="left">April 24, 1937-March 7, 1938</entry>
+                            </row>
+                            <row>
+                                <entry valign="top" align="left">Reel 41</entry>
+                                <entry valign="top" align="left">March 8, 1938-February 18, 1939</entry>
+                            </row>
+                            <row>
+                                <entry valign="top" align="left">Reel 42</entry>
+                                <entry valign="top" align="left">February 19, 1939-January 11, 1940</entry>
+                            </row>
+                            <row>
+                                <entry valign="top" align="left">Reel 43</entry>
+                                <entry valign="top" align="left">January 12, 1940-February 10, 1941</entry>
+                            </row>
+                            <row>
+                                <entry valign="top" align="left">Reel 44</entry>
+                                <entry valign="top" align="left">February 10, 1941-May 3, 1943</entry>
+                            </row>
+                        </tbody>
+                    </tgroup>
+                </table></p>
+        </altformavail>
+        <odd id="ref382">
+            <head>African American History Note</head>
+            <p>This collection has the potential to be rich for students of attitudes toward race in the United States. Among the many topics covered are the study and teaching of anthropology, ethnography, linguistics, progressive social causes, and the expulsion of European scholars under German national socialism.</p>
+        </odd>
+        <odd id="ref383">
+            <head>Physiology, Biochemistry, and Biophysics Note</head>
+            <p>Scholars of physiology, biochemistry, or biophysics may find the following items of interest:</p>
+            <p>
+                <table>
+                    <tgroup cols="4">
+                        <colspec colwidth="30%" colname="1"/>
+                        <colspec colname="2"/>
+                        <colspec colname="3"/>
+                        <colspec colname="4"/>
+                        <thead>
+                            <row>
+                                <entry colname="1">Author</entry>
+                                <entry colname="2">Format</entry>
+                                <entry colname="3">Date</entry>
+                                <entry colname="4">Language</entry>
+                            </row>
+                        </thead>
+                        <tbody>
+                            <row>
+                                <entry valign="top" align="left">
+                                    <extref ns2:actuate="onLoad" ns2:show="new" ns2:href="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.B61.inventory08-ead.xml#ref2109">Levene, P. A. (Phoebus Aaron), 1869-1940</extref></entry>
+                                <entry valign="top" align="left">Correspondence (3 items)</entry>
+                                <entry valign="top" align="left">1921</entry>
+                                <entry valign="top" align="left">English</entry>
+                            </row>
+                            <row>
+                                <entry valign="top" align="left">
+                                    <extref ns2:actuate="onLoad" ns2:show="new" ns2:href="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.B61.inventory08-ead.xml#ref3224">Loeb, Jacques, 1859-1924</extref></entry>
+                                <entry valign="top" align="left">Correspondence (5 items)</entry>
+                                <entry valign="top" align="left">1920</entry>
+                                <entry valign="top" align="left">English</entry>
+                            </row>
+                        </tbody>
+                    </tgroup>
+                </table></p>
+        </odd>
+        <relatedmaterial id="ref371">
+            <head>Related Archival Materials note</head>
+            <list type="deflist">
+                <head>Other Franz Boas Collections</head>
+                <defitem>
+                    <label>Franz Boas Professional Papers, ca. 1860-1942 (Mss B B61p)</label>
+                    <item>
+                        <extref ns2:href="view?docId=ead/Mss.B.B61p-ead.xml">
+                            <emph render="bold">View Collection</emph></extref></item>
+                </defitem>
+                <defitem>
+                    <label>Boas Family Papers, 1862-1942 (Mss B B61f)</label>
+                    <item>
+                        <extref ns2:href="view?docId=ead/Mss.B.B61f-ead.xml">
+                            <emph render="bold">View Collection</emph></extref></item>
+                </defitem>
+                <defitem>
+                    <label>Boas-Rukeyser Collection, 1869-1940 (Mss B B61ru)</label>
+                    <item>
+                        <extref ns2:href="view?docId=ead/Mss.B.B61ru-ead.xml">
+                            <emph render="bold">View Collection</emph></extref></item>
+                </defitem>
+                <defitem>
+                    <label>Franz Boas field notebooks and anthropometric data, ca. 1883-1912 (Mss B B61.5)</label>
+                    <item>
+                        <extref ns2:href="view?docId=ead/Mss.B.B61.5-ead.xml">
+                            <emph render="bold">View Collection</emph></extref></item>
+                </defitem>
+            </list>
+            <p>The American Council of Learned Societies Committee on Native American Languages, Franz Boas Collection of Materials for American Linguistics (
+                <extref ns2:href="view?docId=ead/Mss.497.3.B63c-ead.xml">
+                    <emph render="bold">Mss 497.3.B63c</emph></extref>) is a large collection of primary materials on Native American languages assembled, in part, under Boas's supervision, and including a large quantity of material written by Boas himself.</p>
+            <p>Boas appears as a correspondent in numerous APS collections, and in addition to its rich collections for the history of anthropology, the library houses the papers of several of Boas's former students and proteges, including Frank Speck (
+                <extref ns2:href="view?docId=ead/Mss.Ms.Coll.126-ead.xml">
+                    <emph render="bold">Mss. Ms. Coll. 126</emph></extref>), Elsie Clews Parsons (
+                <extref ns2:href="view?docId=ead/Mss.Ms.Coll.29-ead.xml">
+                    <emph render="bold">Mss. Ms. Coll. 29</emph></extref>), John Alden Mason (
+                <extref ns2:href="view?docId=ead/Mss.B.M384-ead.xml">
+                    <emph render="bold">Mss. B M384</emph></extref>), Paul Radin (
+                <extref ns2:href="view?docId=ead/Mss.497.3.R114-ead.xml">
+                    <emph render="bold">Mss. 497.3 R114</emph></extref>), and Ashley Montagu (
+                <extref ns2:href="view?docId=ead/Mss.Ms.Coll.109-ead.xml">
+                    <emph render="bold">Mss. Ms. Coll. 109</emph></extref>).</p>
+            <p>The APS also houses a microfilm (372.3, reel 1) of original materials in the Office of Anthropology Archives, Smithsonian Institution, Washington, D.C., relating to Boas's trips to Baffin Island (N.W.T.) and British Columbia, during which he studied and collected cultural materials, 1885-1909.</p>
+            <p>The papers of Boas's son Ernst Boas (
+                <extref ns2:href="view?docId=ead/Mss.Ms.Coll.10-ead.xml">
+                    <emph render="bold">Mss. Ms. Coll. 10</emph></extref>) are housed at the APS. A physician, Ernst Boas shared his father's liberal political outlook and activist social views.</p>
+        </relatedmaterial>
+        <controlaccess>
+            <persname rules="aacr" source="naf">Andrews, H.A.</persname>
+            <persname source="ingest">Beckwith, Martha Warren, 1871-1959</persname>
+            <persname rules="aacr" source="naf">Boas, Ernst P.,  (Ernst Philip), 1891-1955</persname>
+            <persname source="ingest">Bogoras, Waldemar, 1865-1936</persname>
+            <persname rules="aacr" source="naf">Bowditch, Charles P.,  (Charles Pickering), 1842-1921 </persname>
+            <persname source="ingest">Britton, Nathaniel Lord, 1859-1934</persname>
+            <persname source="ingest">Bumpus, Hermon Carey, 1862-1943</persname>
+            <persname source="ingest">Butler, Nicholas Murray, 1862-1947</persname>
+            <persname rules="aacr" source="local">Cattell, James McKeen, 1860-1944</persname>
+            <persname rules="aacr" source="naf">Chávez, Ezequiel Adeodato, 1868-1946</persname>
+            <persname source="ingest">Crane, M. E.</persname>
+            <persname source="naf">Dixon , Roland Burrage, 1875-1934</persname>
+            <persname source="ingest">Engerrand, George C., 1877-1961</persname>
+            <persname source="ingest">Fackenthal, Frank Diehl, 1883-1968</persname>
+            <persname source="ingest">Franchtenberg, Leo Joachim, 1883-1930</persname>
+            <corpname source="ingest">Germanistic Society of America</corpname>
+            <persname source="ingest">Gordon, George Byron, 1911-</persname>
+            <persname source="naf">Heye, George G.,  (George Gustav), 1874-1957 </persname>
+            <persname source="ingest">Hodge, Frederick Webb, 1864-1956</persname>
+            <persname source="ingest">Holmes, William Henry, 1846-1933</persname>
+            <persname rules="aacr" source="naf">Hrdlicka, Ales, 1869-1943</persname>
+            <persname source="ingest">Jochelson, Waldemar, 1855-1937</persname>
+            <persname rules="aacr" source="naf">Keppel, Frederick P.,  (Frederick Paul), 1875-1943 </persname>
+            <persname rules="aacr" source="naf">Kroeber, A. L.,  (Alfred Louis), 1876-1960</persname>
+            <persname source="ingest">Laufer , Berthold, 1874-1934</persname>
+            <persname source="ingest">McGee, W. J., 1853-1912</persname>
+            <persname source="ingest">Michelson, Truman, 1879-1938</persname>
+            <persname source="ingest">Parsons, Elsie Worthington Clews, 1875-1941</persname>
+            <persname source="ingest">Radin, Paul, 1883-1959</persname>
+            <persname rules="aacr" source="naf">Sapir, Edward, 1884-1939</persname>
+            <persname rules="aacr" source="local">Sargent, H. E.</persname>
+            <persname source="ingest">Seler, Eduard</persname>
+            <persname source="ingest">Steinen, Karl von den, 1855-1929</persname>
+            <persname rules="aacr" source="naf">Swanton, John Reed, 1873-1958</persname>
+            <persname rules="aacr" source="local">Teit, James Alexander, 1864-1922</persname>
+            <persname source="ingest">Tozzer, Alfred M. -- (Alfred Marston), -- 1877-1954.</persname>
+            <persname rules="aacr" source="naf">Wissler, Clark, 1870-1947</persname>
+            <persname source="ingest">Woodbridge, Frederick James Eugene, 1867-1940</persname>
+            <genreform source="gmgpc">Albumen prints</genreform>
+            <occupation source="lcsh">Anthropologists -- United States.</occupation>
+            <subject source="local">Anthropology, ethnography, fieldwork</subject>
+            <subject source="ingest">Anthropology--Research--United States</subject>
+            <subject source="lcsh">Anthropology--United States--History.</subject>
+            <subject source="lcsh">Anthropology--United States.</subject>
+            <subject source="local">Arctic Indians</subject>
+            <genreform source="gmgpc">Cabinet cards</genreform>
+            <subject source="ingest">Ethnology--North America</subject>
+            <genreform source="gmgpc">Gelatin silver prints</genreform>
+            <subject source="lcsh">Indians of North America--British Columbia</subject>
+            <subject source="ingest">Indians of North America--Ethnology</subject>
+            <subject source="lcsh">Indians of North America--Languages</subject>
+            <subject source="lcsh">Indians of North America--Northwest Coast</subject>
+            <subject source="lcsh">Indians of North America--Nunavut</subject>
+            <subject source="ingest">Inuit</subject>
+            <subject source="ingest">Jewish scientists</subject>
+            <subject source="lcsh">Kwakiutl Indians</subject>
+            <genreform source="ingest">Maps</genreform>
+            <genreform source="gmgpc">Negatives</genreform>
+            <subject source="local">Northwest Coast Indians</subject>
+            <genreform source="gmgpc">Photomechanical prints</genreform>
+            <genreform source="ingest">Postcards</genreform>
+            <subject source="local">Race, race relations, racism</subject>
+            <subject source="ingest">Refugees, Political</subject>
+            <subject source="local">Scientists, Refugee</subject>
+            <genreform source="lcsh">Sketches.</genreform>
+            <subject source="local">Social conditions, social advocacy, social reform</subject>
+            <subject source="ingest">Socialists--United States</subject>
+            <subject source="lcsh">Tlingit Indians</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref13" level="series">
+                <did>
+                    <unittitle>Series I. Correspondence</unittitle>
+                    <unitdate>1862-1942</unitdate>
+                    <physdesc id="ref14" label="General Physical Description note">59 linear feet</physdesc>
+                </did>
+                <scopecontent id="ref15">
+                    <head>Scope and Contents note</head>
+                    <p>Letters to Franz Boas, copies of his replies, and related papers. The collection includes family papers, diaries, and personal correspondence, but the majority of the items are professional letters pertaining to the following subjects: the development of anthropology in America as both a science and a profession; the founding and later activities of the International School of American Archaeology and Ethnology in Mexico; international meetings of anthropologists; the study of American Indian linguistics; the study of physical anthropology and of race; field work of students. The papers also deal with the advancement of science, academic freedom, and public and political activities of Boas.</p>
+                    <p>Due to the size of the collection, the content for Series I has been divided into multiple inventories. Please follow the links below to browse the contents.</p>
+                    <p>View correspondents beginning with:</p>
+                    <p>
+                        <table>
+                            <tgroup cols="1">
+                                <colspec colname="col-1"/>
+                                <tbody>
+                                    <row>
+                                        <entry valign="top" align="left">
+                                            <archref>
+                                                <extref ns2:href="view?docId=ead/Mss.B.B61.inventory01-ead.xml">
+                                                    <emph render="bold">Correspondents A</emph></extref></archref></entry>
+                                    </row>
+                                    <row>
+                                        <entry valign="top" align="left">
+                                            <archref>
+                                                <extref ns2:href="view?docId=ead/Mss.B.B61.inventory02-ead.xml">
+                                                    <emph render="bold">Correspondents B</emph></extref></archref></entry>
+                                    </row>
+                                    <row>
+                                        <entry valign="top" align="left">
+                                            <archref>
+                                                <extref ns2:href="view?docId=ead/Mss.B.B61.inventory03-ead.xml">
+                                                    <emph render="bold">Correspondents C</emph></extref></archref></entry>
+                                    </row>
+                                    <row>
+                                        <entry valign="top" align="left">
+                                            <archref>
+                                                <extref ns2:href="view?docId=ead/Mss.B.B61.inventory04-ead.xml">
+                                                    <emph render="bold">Correspondents D</emph></extref></archref></entry>
+                                    </row>
+                                    <row>
+                                        <entry valign="top" align="left">
+                                            <archref>
+                                                <extref ns2:href="view?docId=ead/Mss.B.B61.inventory05-ead.xml">
+                                                    <emph render="bold">Correspondents E-G</emph></extref></archref></entry>
+                                    </row>
+                                    <row>
+                                        <entry valign="top" align="left">
+                                            <archref>
+                                                <extref ns2:href="view?docId=ead/Mss.B.B61.inventory06-ead.xml">
+                                                    <emph render="bold">Correspondents H</emph></extref></archref></entry>
+                                    </row>
+                                    <row>
+                                        <entry valign="top" align="left">
+                                            <archref>
+                                                <extref ns2:href="view?docId=ead/Mss.B.B61.inventory07-ead.xml">
+                                                    <emph render="bold">Correspondents I-K</emph></extref></archref></entry>
+                                    </row>
+                                    <row>
+                                        <entry valign="top" align="left">
+                                            <archref>
+                                                <extref ns2:href="view?docId=ead/Mss.B.B61.inventory08-ead.xml">
+                                                    <emph render="bold">Correspondents L</emph></extref></archref></entry>
+                                    </row>
+                                    <row>
+                                        <entry valign="top" align="left">
+                                            <archref>
+                                                <extref ns2:href="view?docId=ead/Mss.B.B61.inventory09-ead.xml">
+                                                    <emph render="bold">Correspondents M</emph></extref></archref></entry>
+                                    </row>
+                                    <row>
+                                        <entry valign="top" align="left">
+                                            <archref>
+                                                <extref ns2:href="view?docId=ead/Mss.B.B61.inventory10-ead.xml">
+                                                    <emph render="bold">Correspondents N-Q</emph></extref></archref></entry>
+                                    </row>
+                                    <row>
+                                        <entry valign="top" align="left">
+                                            <archref>
+                                                <extref ns2:href="view?docId=ead/Mss.B.B61.inventory11-ead.xml">
+                                                    <emph render="bold">Correspondents R</emph></extref></archref></entry>
+                                    </row>
+                                    <row>
+                                        <entry valign="top" align="left">
+                                            <archref>
+                                                <extref ns2:href="view?docId=ead/Mss.B.B61.inventory12-ead.xml">
+                                                    <emph render="bold">Correspondents S</emph></extref></archref></entry>
+                                    </row>
+                                    <row>
+                                        <entry valign="top" align="left">
+                                            <archref>
+                                                <extref ns2:href="view?docId=ead/Mss.B.B61.inventory13-ead.xml">
+                                                    <emph render="bold">Correspondents T-V</emph></extref></archref></entry>
+                                    </row>
+                                    <row>
+                                        <entry valign="top" align="left">
+                                            <archref>
+                                                <extref ns2:href="view?docId=ead/Mss.B.B61.inventory14-ead.xml">
+                                                    <emph render="bold">Correspondents W-Z</emph></extref></archref></entry>
+                                    </row>
+                                </tbody>
+                            </tgroup>
+                        </table></p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref16" level="series">
+                <did>
+                    <unittitle>Series II. Graphics</unittitle>
+                    <unitdate>1869-1940</unitdate>
+                </did>
+                <c02 id="ref17" level="otherlevel">
+                    <did>
+                        <unittitle>Franz Boas with Marie, Helene, and Ernst at piano.</unittitle>
+                        <physdesc>
+                            <extent>1.0 Photoprint(s)</extent>
+                            <extent>20.5 x 25 cm.</extent>
+                        </physdesc>
+                        <unitdate>ca. 1900</unitdate>
+                        <physdesc id="ref19" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>20.5 x 25 cm.,
+                            <emph render="bold">Format: </emph>1 photoprint; 20.5 x 25 cm.</physdesc>
+                        <physloc id="ref18" label="Filename">F8.1.3</physloc>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Franz Boas with Marie, Helene, and Ernst at piano." ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:5344">
+                        <daodesc>
+                            <p>Franz Boas with Marie, Helene, and Ernst at piano., ca. 1900 </p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref20" level="otherlevel">
+                    <did>
+                        <unittitle>Franz Boas with wife Marie in study.</unittitle>
+                        <unitdate>ca. 1900</unitdate>
+                        <physdesc id="ref22" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>20.5 x 25 cm.,
+                            <emph render="bold">Format: </emph>1 photoprint; 20.5 x 25 cm.</physdesc>
+                        <physloc id="ref21" label="Filename">F8.1.4</physloc>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Franz Boas with wife Marie in study." ns2:role="Image-Service-Edited" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:5358">
+                        <daodesc>
+                            <p>Franz Boas with wife Marie in study., ca. 1900 </p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref23" level="otherlevel">
+                    <did>
+                        <unittitle>Minden Views 5: Dom, Minden</unittitle>
+                        <unitdate>ca. 1900</unitdate>
+                        <physdesc id="ref25" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>11 x 15.5 cm., 15 x 18 cm. mount.,
+                            <emph render="bold">Format: </emph>1 photoprint; 11 x 15.5 cm., 15 x 18 cm. mount.</physdesc>
+                        <physloc id="ref24" label="Filename">F8.1.5</physloc>
+                    </did>
+                </c02>
+                <c02 id="ref26" level="otherlevel">
+                    <did>
+                        <unittitle>Minden Views 6: Market, Minden</unittitle>
+                        <unitdate>ca. 1900</unitdate>
+                        <physdesc id="ref28" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>11.5 x 15.5 cm., 15 x 18 cm. mount.,
+                            <emph render="bold">Format: </emph>1 photoprint; 11.5 x 15.5 cm., 15 x 18 cm. mount.</physdesc>
+                        <physloc id="ref27" label="Filename">F8.1.6</physloc>
+                        <origination label="creator">
+                            <persname source="ingest">Goldstein, Emma</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref29" level="otherlevel">
+                    <did>
+                        <unittitle>Minden Views 7: Old house am Domhof.</unittitle>
+                        <unitdate>ca. 1900</unitdate>
+                        <physdesc id="ref31" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>11.5 x 14 cm., 15 x 18 cm. mount.,
+                            <emph render="bold">Format: </emph>1 photoprint; 11.5 x 14 cm., 15 x 18 cm. mount.</physdesc>
+                        <physloc id="ref30" label="Filename">F8.1.7</physloc>
+                        <origination label="creator">
+                            <persname source="ingest">Goldstein, Emma</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref32" level="otherlevel">
+                    <did>
+                        <unittitle>Minden Views 8: Domhof, inn where students drank beer during vacations</unittitle>
+                        <unitdate>ca. 1900</unitdate>
+                        <physdesc id="ref34" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>11.5 x 15.5 cm., 15 x 18 cm. mount.,
+                            <emph render="bold">Format: </emph>1 photoprint; 11.5 x 15.5 cm., 15 x 18 cm. mount.</physdesc>
+                        <physloc id="ref33" label="Filename">F8.1.8</physloc>
+                        <origination label="creator">
+                            <persname source="ingest">Goldstein, Emma</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref35" level="otherlevel">
+                    <did>
+                        <unittitle>Minden Views 9: Rathaus, haus von Emilie Boas, aunt of Franz</unittitle>
+                        <unitdate>ca. 1900</unitdate>
+                        <physdesc id="ref37" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>11 x 15.5 cm., 15 x 18 cm. mount.,
+                            <emph render="bold">Format: </emph>1 photoprint; 11 x 15.5 cm., 15 x 18 cm. mount.</physdesc>
+                        <physloc id="ref36" label="Filename">F8.1.9</physloc>
+                        <origination label="creator">
+                            <persname source="ingest">Goldstein, Emma</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref38" level="otherlevel">
+                    <did>
+                        <unittitle>Minden Views 10: Old house, am Poos (Heinrich Weber store)</unittitle>
+                        <unitdate>ca. 1900</unitdate>
+                        <physdesc id="ref40" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>11.5 x 15.5 cm., 15 x 18 cm. mount.,
+                            <emph render="bold">Format: </emph>1 photoprint; 11.5 x 15.5 cm., 15 x 18 cm. mount.</physdesc>
+                        <physloc id="ref39" label="Filename">F8.1.10</physloc>
+                        <origination label="creator">
+                            <persname source="ingest">Goldstein, Emma</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref41" level="otherlevel">
+                    <did>
+                        <unittitle>Minden Views 11: Old house, am Poos (Magazn building)</unittitle>
+                        <unitdate>ca. 1900</unitdate>
+                        <physdesc id="ref43" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>11.5 x 15.5 cm., 15 x 18 cm. mount.,
+                            <emph render="bold">Format: </emph>1 photoprint; 11.5 x 15.5 cm., 15 x 18 cm. mount.</physdesc>
+                        <physloc id="ref42" label="Filename">F8.1.11</physloc>
+                        <origination label="creator">
+                            <persname source="ingest">Goldstein, Emma</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref44" level="otherlevel">
+                    <did>
+                        <unittitle>Cabin (Franz Boas') on the Germania.</unittitle>
+                        <unitdate>1883</unitdate>
+                        <physdesc id="ref46" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>12 x 16 cm., 18 x 22 cm. mount.,
+                            <emph render="bold">Format: </emph>1 photoprint; 12 x 16 cm., 18 x 22 cm. mount.</physdesc>
+                        <physloc id="ref45" label="Filename">F8.1.12</physloc>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Boas,  Franz, 1858-1942 </persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref47" level="otherlevel">
+                    <did>
+                        <unittitle>Wilhelm Weike and wife Mathilde, c. 2 (reproduction)</unittitle>
+                        <unitdate>1883</unitdate>
+                        <physdesc id="ref49" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>20.5 x 25 cm.,
+                            <emph render="bold">Format: </emph>2 photoprints; 20.5 x 25 cm.</physdesc>
+                        <physloc id="ref48" label="Filename">F8.1.13</physloc>
+                        <origination label="creator">
+                            <persname source="ingest">Wenzel, Theodor</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref50">
+                        <head>Scope and Contents note</head>
+                        <p>For original see image U5.1.18</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref51" level="otherlevel">
+                    <did>
+                        <unittitle>Wilhelm Weike and wife Mathilde, c. 2 (reproduction).</unittitle>
+                        <unitdate>1883</unitdate>
+                        <physdesc id="ref53" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>20.5 x 25 cm.,
+                            <emph render="bold">Format: </emph>1 photoprint; 20.5 x 25 cm.</physdesc>
+                        <physloc id="ref52" label="Filename">F8.1.14</physloc>
+                        <origination label="creator">
+                            <persname source="ingest">Wenzel, Theodor</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref54">
+                        <head>Scope and Contents note</head>
+                        <p>For original see image U5.1.18</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref55" level="otherlevel">
+                    <did>
+                        <unittitle>Franz Boas, "on board the Germania on trip to Arctic".</unittitle>
+                        <unitdate>1883-1884</unitdate>
+                        <physdesc id="ref57" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>14 x 20 cm., 20.5 x 20.5 cm. sheet.,
+                            <emph render="bold">Format: </emph>1 photoprint; 14 x 20 cm., 20.5 x 20.5 cm. sheet.</physdesc>
+                        <physloc id="ref56" label="Filename">F8.1.15</physloc>
+                    </did>
+                </c02>
+                <c02 id="ref58" level="otherlevel">
+                    <did>
+                        <unittitle>Franz Boas, "age 49."</unittitle>
+                        <unitdate>ca. 1907</unitdate>
+                        <physdesc id="ref60" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>10 x 14.5 cm., 18 x 25 cm. sheet.,
+                            <emph render="bold">Format: </emph>1 photoprint; 10 x 14.5 cm., 18 x 25 cm. sheet.</physdesc>
+                        <physloc id="ref59" label="Filename">F8.1.16</physloc>
+                        <origination label="creator">
+                            <persname source="ingest">Heliotype Co.</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref61" level="otherlevel">
+                    <did>
+                        <unittitle>Franz Boas, portrait (profile).</unittitle>
+                        <unitdate>ca. 1920</unitdate>
+                        <physdesc id="ref63" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>11 x 15.5 cm., 20 x 24 cm. mount.,
+                            <emph render="bold">Format: </emph>1 photoprint; 11 x 15.5 cm., 20 x 24 cm. mount.</physdesc>
+                        <physloc id="ref62" label="Filename">F8.1.18</physloc>
+                        <origination label="creator">
+                            <persname source="ingest">Becker and Maass</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref64" level="otherlevel">
+                    <did>
+                        <unittitle>Franz Boas, at desk, 3/4 view, 3/4 length, c. 1 (original).</unittitle>
+                        <unitdate>ca. 1935</unitdate>
+                        <physdesc id="ref66" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>20.5 x 25 cm.,
+                            <emph render="bold">Format: </emph>1 photoprint; 20.5 x 25 cm.</physdesc>
+                        <physloc id="ref65" label="Filename">F8.1.19</physloc>
+                    </did>
+                </c02>
+                <c02 id="ref67" level="otherlevel">
+                    <did>
+                        <unittitle>Franz Boas at desk, 3/4 view, 3/4 length, c. 2 (reproduction).</unittitle>
+                        <unitdate>ca. 1935</unitdate>
+                        <physdesc id="ref69" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>20.5 x 25 cm.,
+                            <emph render="bold">Format: </emph>1 photoprint; 20.5 x 25 cm.</physdesc>
+                        <physloc id="ref68" label="Filename">F8.1.20</physloc>
+                    </did>
+                </c02>
+                <c02 id="ref70" level="otherlevel">
+                    <did>
+                        <unittitle>Franz Boas, at desk, 3/4 view, 3/4 length, c. 3 (reproduction)</unittitle>
+                        <unitdate>ca. 1935</unitdate>
+                        <physdesc id="ref72" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>20.5 x 25 cm.,
+                            <emph render="bold">Format: </emph>1 photoprint; 20.5 x 25 cm.</physdesc>
+                        <physloc id="ref71" label="Filename">F8.1.21</physloc>
+                    </did>
+                </c02>
+                <c02 id="ref73" level="otherlevel">
+                    <did>
+                        <unittitle>Franz Boas, at desk in Grantwood, N.J., c. 1 (original).</unittitle>
+                        <unitdate>ca. 1942</unitdate>
+                        <physdesc id="ref75" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>16.5 x 21.5 cm.,
+                            <emph render="bold">Format: </emph>1 photoprint; 16.5 x 21.5 cm.</physdesc>
+                        <physloc id="ref74" label="Filename">F8.1.22</physloc>
+                    </did>
+                </c02>
+                <c02 id="ref76" level="otherlevel">
+                    <did>
+                        <unittitle>Franz Boas, at desk in Grantwood, N.J., c. 2 (reproduction)</unittitle>
+                        <unitdate>ca. 1942</unitdate>
+                        <physdesc id="ref78" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>20.5 x 25 cm.,
+                            <emph render="bold">Format: </emph>1 photoprint; 20.5 x 25 cm.</physdesc>
+                        <physloc id="ref77" label="Filename">F8.1.23</physloc>
+                    </did>
+                </c02>
+                <c02 id="ref79" level="otherlevel">
+                    <did>
+                        <unittitle>Americanist Congress, The Hague (probably 22nd)</unittitle>
+                        <unitdate>ca. 1926</unitdate>
+                        <physdesc id="ref81" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>23 x 17 cm.,
+                            <emph render="bold">Format: </emph>1 photoprint; 23 x 17 cm.</physdesc>
+                        <physloc id="ref80" label="Filename">F8.2.1</physloc>
+                    </did>
+                </c02>
+                <c02 id="ref82" level="otherlevel">
+                    <did>
+                        <unittitle>Franz Boas at American Association for Advancement of Science as incoming president, with Thomas Hunt Morgan, outgoing president.</unittitle>
+                        <unitdate>1931-1932</unitdate>
+                        <physdesc id="ref84" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>12.5 x 19.5 cm.,
+                            <emph render="bold">Format: </emph>1 photoprint; 12.5 x 19.5 cm.</physdesc>
+                        <physloc id="ref83" label="Filename">F8.2.2</physloc>
+                    </did>
+                </c02>
+                <c02 id="ref85" level="otherlevel">
+                    <did>
+                        <unittitle>Meyer Boas, portrait, 3/4 view, with white hair and mustache. Note from researcher Julie Liss of Scripps College, 12/4/98 regarding misidentification as Jonas Meyer.</unittitle>
+                        <unitdate>ca. 1880</unitdate>
+                        <physdesc id="ref87" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>12 x 17 cm.,
+                            <emph render="bold">Format: </emph>1 photoprint; 12 x 17 cm.</physdesc>
+                        <physloc id="ref86" label="Filename">F8.2.3</physloc>
+                        <origination label="creator">
+                            <persname source="ingest">Becker and Maass</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref88" level="otherlevel">
+                    <did>
+                        <unittitle>Sophie Boas, portrait, 3/4 view, with dark blouse, lace trim. Note from researcher Julie Liss of Scripps College, 12/4/98 regarding misidentification as Sophie Meyer.</unittitle>
+                        <unitdate>ca. 1880</unitdate>
+                        <physdesc id="ref90" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>12 x 17 cm.,
+                            <emph render="bold">Format: </emph>1 photoprint; 12 x 17 cm.</physdesc>
+                        <physloc id="ref89" label="Filename">F8.2.4</physloc>
+                        <origination label="creator">
+                            <persname source="ingest">Becker and Maass</persname>
+                        </origination>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Sophie Boas, portrait, 3/4 view, with dark blouse, lace trim. Note from researcher Julie Liss of Scripps College, 12/4/98 regarding misidentification as Sophie Meyer." ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:5364">
+                        <daodesc>
+                            <p>Sophie Boas, portrait, 3/4 view, with dark blouse, lace trim. Note from researcher Julie Liss of Scripps College, 12/4/98 regarding misidentification as Sophie Meyer., ca. 1880 </p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref91" level="otherlevel">
+                    <did>
+                        <unittitle>Salomon Meyer, portrait, "Onkel Mons" (uncle of Franz Boas), brother of Sophie Boas.</unittitle>
+                        <unitdate>ca. 1885</unitdate>
+                        <physdesc id="ref93" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>17 x 19.5 cm.,
+                            <emph render="bold">Format: </emph>1 photoprint; 17 x 19.5 cm.</physdesc>
+                        <physloc id="ref92" label="Filename">F8.2.5</physloc>
+                    </did>
+                </c02>
+                <c02 id="ref94" level="otherlevel">
+                    <did>
+                        <unittitle>Nors Head von Lucken (?), no. 2</unittitle>
+                        <unitdate>1883</unitdate>
+                        <physdesc id="ref96" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>9 x 17 cm., 14 x 17 cm. sheet.,
+                            <emph render="bold">Format: </emph>1 drawing; 9 x 17 cm., 14 x 17 cm. sheet.</physdesc>
+                        <physloc id="ref95" label="Filename">F8.2.6</physloc>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Boas,  Franz, 1858-1942 </persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref97" level="otherlevel">
+                    <did>
+                        <unittitle>Dunnet Head, von Nordgeschen, 27th Juni 1883, no. 3</unittitle>
+                        <unitdate>1883</unitdate>
+                        <physdesc id="ref99" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>8 x 16.5 cm., 14 x 19 cm. sheet.,
+                            <emph render="bold">Format: </emph>1 drawing; 8 x 16.5 cm., 14 x 19 cm. sheet.</physdesc>
+                        <physloc id="ref98" label="Filename">F8.2.7</physloc>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Boas,  Franz, 1858-1942 </persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref100" level="otherlevel">
+                    <did>
+                        <unittitle>Eisberg, 28th Juli 1883, no. II, no. 5</unittitle>
+                        <unitdate>1883</unitdate>
+                        <physdesc id="ref102" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>10 x 17 cm., 14 x 19 cm. sheet.,
+                            <emph render="bold">Format: </emph>1 drawing; 10 x 17 cm., 14 x 19 cm. sheet.</physdesc>
+                        <physloc id="ref101" label="Filename">F8.2.8</physloc>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Boas,  Franz, 1858-1942 </persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref103" level="otherlevel">
+                    <did>
+                        <unittitle>Eisberg, 28th Juli 1883</unittitle>
+                        <unitdate>1883</unitdate>
+                        <physdesc id="ref105" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>10 x 15.5 cm., 14 x 19 cm. sheet.,
+                            <emph render="bold">Format: </emph>1 drawing; 10 x 15.5 cm., 14 x 19 cm. sheet.</physdesc>
+                        <physloc id="ref104" label="Filename">F8.2.9</physloc>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Boas,  Franz, 1858-1942 </persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref106" level="otherlevel">
+                    <did>
+                        <unittitle>Laftgrieglungen 2 August, Motlag (?), no. 12</unittitle>
+                        <unitdate>1883</unitdate>
+                        <physdesc id="ref108" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>8.5 x 14.5 c.m., 14 x 19 mount.,
+                            <emph render="bold">Format: </emph>1 drawing; 8.5 x 14.5 c.m., 14 x 19 mount.</physdesc>
+                        <physloc id="ref107" label="Filename">F8.2.10</physloc>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Boas,  Franz, 1858-1942 </persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref109" level="otherlevel">
+                    <did>
+                        <unittitle>Eisberg, 29th Juli 1883, no. 8</unittitle>
+                        <unitdate>1883</unitdate>
+                        <physdesc id="ref111" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>8.5 x 13 cm., 14 x 19 cm. mount.,
+                            <emph render="bold">Format: </emph>1 drawing; 8.5 x 13 cm., 14 x 19 cm. mount.</physdesc>
+                        <physloc id="ref110" label="Filename">F8.2.11</physloc>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Boas,  Franz, 1858-1942 </persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref112" level="otherlevel">
+                    <did>
+                        <unittitle>Eisberg, 28th Juli 1883, No. IIb (No. 6)</unittitle>
+                        <unitdate>1883</unitdate>
+                        <physdesc id="ref114" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>10 x 15 cm., 14 x 19 cm. mount.,
+                            <emph render="bold">Format: </emph>1 drawing; 10 x 15 cm., 14 x 19 cm. mount.</physdesc>
+                        <physloc id="ref113" label="Filename">F8.2.12</physloc>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Boas,  Franz, 1858-1942 </persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref115" level="otherlevel">
+                    <did>
+                        <unittitle>Eisberg, 28th Juli 1883</unittitle>
+                        <unitdate>1883</unitdate>
+                        <physdesc id="ref117" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>8.5 x 15.5 cm., 14 x 19 cm. sheet.,
+                            <emph render="bold">Format: </emph>1 drawing; 8.5 x 15.5 cm., 14 x 19 cm. sheet.</physdesc>
+                        <physloc id="ref116" label="Filename">F8.2.13</physloc>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Boas,  Franz, 1858-1942 </persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref118" level="otherlevel">
+                    <did>
+                        <unittitle>Eisberg, 28th Juli 1883, no. 10</unittitle>
+                        <unitdate>1883</unitdate>
+                        <physdesc id="ref120" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>10 x 17 cm., 12 x 19 cm. sheet.,
+                            <emph render="bold">Format: </emph>1 drawing; 10 x 17 cm., 12 x 19 cm. sheet.</physdesc>
+                        <physloc id="ref119" label="Filename">F8.2.14</physloc>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Boas,  Franz, 1858-1942 </persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref121" level="otherlevel">
+                    <did>
+                        <unittitle>Eis im Lufgriegelungen (?) am 30 Juli, no. 11</unittitle>
+                        <unitdate>1883</unitdate>
+                        <physdesc id="ref123" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>8.5 x 15 cm., 14 x 19 cm. sheet.,
+                            <emph render="bold">Format: </emph>1 drawing; 8.5 x 15 cm., 14 x 19 cm. sheet.</physdesc>
+                        <physloc id="ref122" label="Filename">F8.2.15</physloc>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Boas,  Franz, 1858-1942 </persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref124" level="otherlevel">
+                    <did>
+                        <unittitle>Cap Merry und dunk Luftgriegelung venenter Parker 1 August 1883 3 1/2 Morgen, no. 8</unittitle>
+                        <unitdate>1883</unitdate>
+                        <physdesc id="ref126" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>8.5 x 16 cm., 14 x 19 cm. sheet.,
+                            <emph render="bold">Format: </emph>1 drawing; 8.5 x 16 cm., 14 x 19 cm. sheet.</physdesc>
+                        <physloc id="ref125" label="Filename">F8.2.16</physloc>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Boas,  Franz, 1858-1942 </persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref127" level="otherlevel">
+                    <did>
+                        <unittitle>Cap Merry und dunk Luftgriegelung venannter Parker, 1 August 1883 3 1/2 Morgen, no. 14.</unittitle>
+                        <unitdate>1883</unitdate>
+                        <physdesc id="ref129" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>10 x 16 cm., 14 x 19 cm. sheet.,
+                            <emph render="bold">Format: </emph>1 drawing; 10 x 16 cm., 14 x 19 cm. sheet.</physdesc>
+                        <physloc id="ref128" label="Filename">F8.2.17</physloc>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Boas,  Franz, 1858-1942 </persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref130" level="otherlevel">
+                    <did>
+                        <unittitle>View between two icebergs with small igloo, dog, sled, and person visible in foreground.</unittitle>
+                        <unitdate>1883</unitdate>
+                        <physdesc id="ref132" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>11 x 13.5 cm., 13 x 18 cm. sheet.,
+                            <emph render="bold">Format: </emph>1 drawing; 11 x 13.5 cm., 13 x 18 cm. sheet.</physdesc>
+                        <physloc id="ref131" label="Filename">F8.2.18</physloc>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Boas,  Franz, 1858-1942 </persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref133" level="otherlevel">
+                    <did>
+                        <unittitle>Boas family</unittitle>
+                        <physdesc id="ref135" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>14 x 19.5 cm., 20 x 25 cm. sheet.,
+                            <emph render="bold">Format: </emph>1 photoprint; 14 x 19.5 cm., 20 x 25 cm. sheet.</physdesc>
+                        <physloc id="ref134" label="Filename">F8.2.19</physloc>
+                    </did>
+                </c02>
+                <c02 id="ref136" level="otherlevel">
+                    <did>
+                        <unittitle>Icebergs and ice</unittitle>
+                        <physdesc id="ref138" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>14 x 19 cm.,
+                            <emph render="bold">Format: </emph>1 drawing; 14 x 19 cm.</physdesc>
+                        <physloc id="ref137" label="Filename">F8.2.20</physloc>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Boas,  Franz, 1858-1942 </persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref139" level="otherlevel">
+                    <did>
+                        <unittitle>Franz Boas, about age 12, school group portrait</unittitle>
+                        <unitdate>ca. 1870</unitdate>
+                        <physdesc id="ref141" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>5.5 x 7b3 print on 9.5 x 11b3 mount,
+                            <emph render="bold">Format: </emph>1 photoprint; 5.5 x 7b3 print on 9.5 x 11b3 mount</physdesc>
+                        <physloc id="ref140" label="Filename">F11.1.1</physloc>
+                    </did>
+                </c02>
+                <c02 id="ref142" level="otherlevel">
+                    <did>
+                        <unittitle>Altes Gymnasium, zu Minden i.W. (school of Franz Boas).</unittitle>
+                        <physdesc id="ref144" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>6.75 x 9b3 image on 8.5 x 10b3 paper,
+                            <emph render="bold">Format: </emph>1 print; 6.75 x 9b3 image on 8.5 x 10b3 paper</physdesc>
+                        <physloc id="ref143" label="Filename">F11.1.2</physloc>
+                        <origination label="creator">
+                            <persname source="ingest">Korber v. Freytag</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref145" level="otherlevel">
+                    <did>
+                        <unittitle>Franz Boas. Bust, "quite ugly." From magazine feature on Epstein busts at London show. Reverse side has more interesting full-page Zenith radio advertisement.</unittitle>
+                        <unitdate>ca. 1937</unitdate>
+                        <physdesc id="ref147" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>10.25 x 12.25b3,
+                            <emph render="bold">Format: </emph>1 print; 10.25 x 12.25b3</physdesc>
+                        <physloc id="ref146" label="Filename">F11.1.?</physloc>
+                    </did>
+                </c02>
+                <c02 id="ref148" level="otherlevel">
+                    <did>
+                        <unittitle>Jonas Meyer</unittitle>
+                        <unitdate>1853</unitdate>
+                        <physdesc id="ref150" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>6.75 x 7.5b3 print on 10.75 x 13.75b3 mount,
+                            <emph render="bold">Format: </emph>1 lithograph; 6.75 x 7.5b3 print on 10.75 x 13.75b3 mount</physdesc>
+                        <physloc id="ref149" label="Filename">F11.1.3</physloc>
+                        <origination label="creator">
+                            <persname source="ingest">Cajetan, L.</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref151" level="otherlevel">
+                    <did>
+                        <unittitle>Henriette Menke Meyer.</unittitle>
+                        <unitdate>1855</unitdate>
+                        <physdesc id="ref153" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>6.75 x 7.5b3 print on 10.75 x 13.75b3 mount,
+                            <emph render="bold">Format: </emph>1 lithograph; 6.75 x 7.5b3 print on 10.75 x 13.75b3 mount</physdesc>
+                        <physloc id="ref152" label="Filename">F11.1.4</physloc>
+                        <origination label="creator">
+                            <persname source="ingest">Cajetan, L.</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref372" level="item">
+                    <did>
+                        <unittitle>Eisberg, 28th of Juli 1883.</unittitle>
+                        <unitdate normal="1883/1883">1883 July 28</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref374" level="item">
+                    <did>
+                        <unittitle>Franz Boas at banquet table with unidentified men, Mexico, 1912.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref154" level="otherlevel">
+                    <did>
+                        <unittitle>Franz Boas, about age four.</unittitle>
+                        <unitdate>ca. 1862</unitdate>
+                        <physdesc id="ref156" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>Carte de visite,
+                            <emph render="bold">Format: </emph>1 photoprint; Carte de visite</physdesc>
+                        <physloc id="ref155" label="Filename">U4.1.17</physloc>
+                        <origination label="creator">
+                            <persname source="ingest">Stucken, Ferd.</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref157" level="otherlevel">
+                    <did>
+                        <unittitle>Franz Boas, about age four, standing next to railing, holding hat.</unittitle>
+                        <unitdate>ca. 1862</unitdate>
+                        <physdesc id="ref159" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>Carte de visite,
+                            <emph render="bold">Format: </emph>1 photoprint; Carte de visite</physdesc>
+                        <physloc id="ref158" label="Filename">U4.1.18</physloc>
+                        <origination label="creator">
+                            <persname source="ingest">Stucken, Ferd.</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref160" level="otherlevel">
+                    <did>
+                        <unittitle>Franz Boas, about age eight, c.1.</unittitle>
+                        <unitdate>ca. 1866</unitdate>
+                        <physdesc id="ref162" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>Carte de visite,
+                            <emph render="bold">Format: </emph>1 photoprint; Carte de visite</physdesc>
+                        <physloc id="ref161" label="Filename">U4.1.19</physloc>
+                    </did>
+                </c02>
+                <c02 id="ref163" level="otherlevel">
+                    <did>
+                        <unittitle>Franz Boas, about age eight, c.2.</unittitle>
+                        <unitdate>ca. 1866</unitdate>
+                        <physdesc id="ref165" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>Carte de visite,
+                            <emph render="bold">Format: </emph>1 photoprint; Carte de visite</physdesc>
+                        <physloc id="ref164" label="Filename">U4.1.20</physloc>
+                    </did>
+                </c02>
+                <c02 id="ref166" level="otherlevel">
+                    <did>
+                        <unittitle>Franz Boas, age 10</unittitle>
+                        <unitdate>1868</unitdate>
+                        <physdesc id="ref168" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>Carte de visite,
+                            <emph render="bold">Format: </emph>1 photoprint; Carte de visite</physdesc>
+                        <physloc id="ref167" label="Filename">U4.1.21</physloc>
+                        <origination label="creator">
+                            <persname source="ingest">Hulsenbeck, J.</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref169" level="otherlevel">
+                    <did>
+                        <unittitle>Franz Boas with Hete and Anne</unittitle>
+                        <unitdate>ca. 1873</unitdate>
+                        <physdesc id="ref171" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>Carte de visite,
+                            <emph render="bold">Format: </emph>1 photoprint; Carte de visite</physdesc>
+                        <physloc id="ref170" label="Filename">U4.1.22</physloc>
+                        <origination label="creator">
+                            <persname source="ingest">Haack, Friedrich</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref172" level="otherlevel">
+                    <did>
+                        <unittitle>Franz Boas as student</unittitle>
+                        <unitdate>1878-1879</unitdate>
+                        <physdesc id="ref174" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>Carte de visite,
+                            <emph render="bold">Format: </emph>1 photoprint; Carte de visite</physdesc>
+                        <physloc id="ref173" label="Filename">U4.1.23</physloc>
+                        <origination label="creator">
+                            <persname source="ingest">Laufs, Toni</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref175" level="otherlevel">
+                    <did>
+                        <unittitle>Franz Boas as student</unittitle>
+                        <unitdate>1881</unitdate>
+                        <physdesc id="ref177" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>Carte de visite,
+                            <emph render="bold">Format: </emph>1 photoprint; Carte de visite</physdesc>
+                        <physloc id="ref176" label="Filename">U4.1.24</physloc>
+                        <origination label="creator">
+                            <persname source="ingest">Schmidt and Wegener</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref178" level="otherlevel">
+                    <did>
+                        <unittitle>Franz Boas, "Franz as Freivillager"</unittitle>
+                        <unitdate>1881-1882</unitdate>
+                        <physdesc id="ref180" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>Carte de visite,
+                            <emph render="bold">Format: </emph>1 photoprint; Carte de visite</physdesc>
+                        <physloc id="ref179" label="Filename">U4.1.25</physloc>
+                        <origination label="creator">
+                            <persname source="ingest">Hulsenbeck, J.</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref181" level="otherlevel">
+                    <did>
+                        <unittitle>Franz Boas with Marie and Helene, reproduction</unittitle>
+                        <unitdate>1890, n.d.</unitdate>
+                        <physdesc id="ref183" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>4 x 5b3,
+                            <emph render="bold">Format: </emph>1 photoprint; 4 x 5b3</physdesc>
+                        <physloc id="ref182" label="Filename">U4.1.26</physloc>
+                        <origination label="creator">
+                            <persname source="ingest">Rice, F.H.</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref184" level="otherlevel">
+                    <did>
+                        <unittitle>Wilhelm Werke (Boas' companion on Arctic expedition)</unittitle>
+                        <unitdate>ca. 1883</unitdate>
+                        <physdesc id="ref186" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>Carte de visite,
+                            <emph render="bold">Format: </emph>1 print; Carte de visite</physdesc>
+                        <physloc id="ref185" label="Filename">U4.1.27</physloc>
+                        <origination label="creator">
+                            <persname source="ingest">Hering, Ernst</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref187" level="otherlevel">
+                    <did>
+                        <unittitle>Wilhelm Werke, in Eskimo suit.</unittitle>
+                        <unitdate>1883-1884</unitdate>
+                        <physdesc id="ref189" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>Carte de visite,
+                            <emph render="bold">Format: </emph>1 photoprint; Carte de visite</physdesc>
+                        <physloc id="ref188" label="Filename">U4.1.28</physloc>
+                        <origination label="creator">
+                            <persname source="ingest">Sweers, M.</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref190" level="otherlevel">
+                    <did>
+                        <unittitle>Die Germania am 20. August (news clipping of engraving). Notation on clipping: "in Kibberton Harbor"</unittitle>
+                        <unitdate>1883</unitdate>
+                        <physdesc id="ref192" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>4 x 5b3,
+                            <emph render="bold">Format: </emph>1 photoprint; 4 x 5b3</physdesc>
+                        <physloc id="ref191" label="Filename">U4.1.29</physloc>
+                    </did>
+                </c02>
+                <c02 id="ref193" level="otherlevel">
+                    <did>
+                        <unittitle>Die Station furz vor dem Berlaffen derfelben (news clipping of engraving). Notation on clipping: German Weather St---Cumberland Sound 1883."</unittitle>
+                        <unitdate>1883</unitdate>
+                        <physdesc id="ref195" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>4x5,
+                            <emph render="bold">Format: </emph>1 print; 4x5</physdesc>
+                        <physloc id="ref194" label="Filename">U4.1.30</physloc>
+                    </did>
+                </c02>
+                <c02 id="ref196" level="otherlevel">
+                    <did>
+                        <unittitle>Boas, Franz, Oxford, England, 1912</unittitle>
+                        <unitdate>1912</unitdate>
+                        <physdesc id="ref198" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>4x5,
+                            <emph render="bold">Format: </emph>1 photoprint; 4x5</physdesc>
+                        <physloc id="ref197" label="Filename">U4.1.31</physloc>
+                    </did>
+                </c02>
+                <c02 id="ref199" level="otherlevel">
+                    <did>
+                        <unittitle>Olden Times House 1: "Front end of the house finished to show the painting of killer whale and two true whales..."</unittitle>
+                        <unitdate>ca. 1920</unitdate>
+                        <physdesc id="ref201" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>4.25 x 3b3 print,
+                            <emph render="bold">Format: </emph>1 photoprint; 4.25 x 3b3 print</physdesc>
+                        <physloc id="ref200" label="Filename">U4.1.32</physloc>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Boas,  Franz, 1858-1942 </persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref202" level="otherlevel">
+                    <did>
+                        <unittitle>Olden Times House 2: "show the side of the house how the Boards held up by two poles tied together and the Roof according to seoset (?) story"</unittitle>
+                        <unitdate>ca. 1920</unitdate>
+                        <physdesc id="ref204" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>4.25 x 3b3 print,
+                            <emph render="bold">Format: </emph>1 photoprint; 4.25 x 3b3 print</physdesc>
+                        <physloc id="ref203" label="Filename">U4.1.33</physloc>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Boas,  Franz, 1858-1942 </persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref205" level="otherlevel">
+                    <did>
+                        <unittitle>Olden Times House 3: "side ways fram(e) of the house"</unittitle>
+                        <unitdate>ca. 1920</unitdate>
+                        <physdesc id="ref207" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>4.25 x 3b3 print,
+                            <emph render="bold">Format: </emph>1 photoprint; 4.25 x 3b3 print</physdesc>
+                        <physloc id="ref206" label="Filename">U4.1.34</physloc>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Boas,  Franz, 1858-1942 </persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref208" level="otherlevel">
+                    <did>
+                        <unittitle>George Hunt family 1, with notations: "George Hunt, father-in-law of Dan Crammer as young man?" and "Probably Jonathan Hunt with father [Kathleen Mooney, May 1982]"</unittitle>
+                        <unitdate>ca. 1920</unitdate>
+                        <physdesc id="ref210" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>3 x 4b3 print in 3.5 x 5 cardboard mount,
+                            <emph render="bold">Format: </emph>1 photoprint; 3 x 4b3 print in 3.5 x 5 cardboard mount</physdesc>
+                        <physloc id="ref209" label="Filename">U4.1.35</physloc>
+                        <origination label="creator">
+                            <persname source="ingest">Chow, Yucho</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref211" level="otherlevel">
+                    <did>
+                        <unittitle>George Hunt at Fort Rupert, B.C.</unittitle>
+                        <unitdate>ca. 1920</unitdate>
+                        <physdesc id="ref213" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>3.25 x 5b3 print,
+                            <emph render="bold">Format: </emph>1 photoprint; 3.25 x 5b3 print</physdesc>
+                        <physloc id="ref212" label="Filename">U4.1.36</physloc>
+                    </did>
+                </c02>
+                <c02 id="ref214" level="otherlevel">
+                    <did>
+                        <unittitle>Kwakiutl girl, about age four</unittitle>
+                        <unitdate>ca. 1920</unitdate>
+                        <physdesc id="ref216" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>3.5 x 4b3 print on card mount cut to size,
+                            <emph render="bold">Format: </emph>1 photoprint; 3.5 x 4b3 print on card mount cut to size</physdesc>
+                        <physloc id="ref215" label="Filename">U4.1.37</physloc>
+                        <origination label="creator">
+                            <persname source="ingest">Bishop, Giles</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref217" level="otherlevel">
+                    <did>
+                        <unittitle>Boas, Franz, in front of home in Grantwood, New Jersey</unittitle>
+                        <unitdate>ca. 1920</unitdate>
+                        <physdesc id="ref219" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>2.75 x 4.5b3 print,
+                            <emph render="bold">Format: </emph>1 photoprint; 2.75 x 4.5b3 print</physdesc>
+                        <physloc id="ref218" label="Filename">U4.1.38</physloc>
+                    </did>
+                </c02>
+                <c02 id="ref220" level="otherlevel">
+                    <did>
+                        <unittitle>Boas, Franz in Albrechts</unittitle>
+                        <unitdate>ca. 1929</unitdate>
+                        <physdesc id="ref222" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>2.75 x 4b3 print,
+                            <emph render="bold">Format: </emph>1 photoprint; 2.75 x 4b3 print</physdesc>
+                        <physloc id="ref221" label="Filename">U4.1.39</physloc>
+                    </did>
+                </c02>
+                <c02 id="ref223" level="otherlevel">
+                    <did>
+                        <unittitle>Franz Boas, "Celebration in Bonn."</unittitle>
+                        <unitdate>1929</unitdate>
+                        <physdesc id="ref225" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>2.25 x 4.25b3 print,
+                            <emph render="bold">Format: </emph>1 photoprint; 2.25 x 4.25b3 print</physdesc>
+                        <physloc id="ref224" label="Filename">U4.1.40</physloc>
+                    </did>
+                </c02>
+                <c02 id="ref226" level="otherlevel">
+                    <did>
+                        <unittitle>Franz Boas, "Bonn."</unittitle>
+                        <unitdate>1929</unitdate>
+                        <physdesc id="ref228" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>21/4 x 41/8b3 print,
+                            <emph render="bold">Format: </emph>1 photoprint; 21/4 x 41/8b3 print</physdesc>
+                        <physloc id="ref227" label="Filename">U4.1.41</physloc>
+                    </did>
+                </c02>
+                <c02 id="ref229" level="otherlevel">
+                    <did>
+                        <unittitle>Franz Boas and Thomas Hunt Morgan "year when he was president American Association of Advancement of Science."</unittitle>
+                        <unitdate>1931</unitdate>
+                        <physdesc id="ref231" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>31/2 x 41/2b3 print,
+                            <emph render="bold">Format: </emph>1 photoprint; 31/2 x 41/2b3 print</physdesc>
+                        <physloc id="ref230" label="Filename">U4.1.42</physloc>
+                    </did>
+                </c02>
+                <c02 id="ref232" level="otherlevel">
+                    <did>
+                        <unittitle>Franz Boas, at Cornwall Bridge, Conn., apparently late in life, seated in chair outdoors.</unittitle>
+                        <unitdate>ca. 1942</unitdate>
+                        <physdesc id="ref234" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>4x5,
+                            <emph render="bold">Format: </emph>1 photoprint; 4x5</physdesc>
+                        <physloc id="ref233" label="Filename">U4.1.46</physloc>
+                    </did>
+                </c02>
+                <c02 id="ref235" level="otherlevel">
+                    <did>
+                        <unittitle>Franz Boas, portrait with buttoned jacket.</unittitle>
+                        <unitdate>1884</unitdate>
+                        <physdesc id="ref237" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>4x5,
+                            <emph render="bold">Format: </emph>1 photoprint; 4x5</physdesc>
+                        <physloc id="ref236" label="Filename">U4.1.48</physloc>
+                        <origination label="creator">
+                            <persname source="ingest">Naegeli</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref375" level="otherlevel">
+                    <did>
+                        <unittitle>Sophie Boas, seated, wearing full hoop skirt.</unittitle>
+                        <unitdate normal="1888/1888">1888</unitdate>
+                        <physloc id="ref376" label="Filename">U4.1.55</physloc>
+                        <physdesc id="ref377" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>Cabinet card,
+                            <emph render="bold">Format: </emph>1 photoprint; Cabinet card</physdesc>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Sophie Boas, seated, wearing full hoop skirt." ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:5345">
+                        <daodesc>
+                            <p>Sophie Boas, seated, wearing full hoop skirt., 1888 </p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref238" level="otherlevel">
+                    <did>
+                        <unittitle>Franz Boas with wife Marie, c.1.</unittitle>
+                        <unitdate>1887</unitdate>
+                        <physdesc id="ref240" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>Cabinet card,
+                            <emph render="bold">Format: </emph>1 photoprint; Cabinet card</physdesc>
+                        <physloc id="ref239" label="Filename">U5.1.4</physloc>
+                        <origination label="creator">
+                            <persname source="ingest">Naegeli</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref241" level="otherlevel">
+                    <did>
+                        <unittitle>Franz Boas with wife Marie, c.2.</unittitle>
+                        <unitdate>1887</unitdate>
+                        <physdesc id="ref243" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>Cabinet card,
+                            <emph render="bold">Format: </emph>1 photoprint; Cabinet card</physdesc>
+                        <physloc id="ref242" label="Filename">U5.1.5</physloc>
+                        <origination label="creator">
+                            <persname source="ingest">Naegeli</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref244" level="otherlevel">
+                    <did>
+                        <unittitle>Franz Boas, with Marie and Helene, original print.</unittitle>
+                        <unitdate>1890</unitdate>
+                        <physdesc id="ref246" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>Cabinet card,
+                            <emph render="bold">Format: </emph>1 photoprint; Cabinet card</physdesc>
+                        <physloc id="ref245" label="Filename">U5.1.6</physloc>
+                        <origination label="creator">
+                            <persname source="ingest">Rice, F.H.</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref247" level="otherlevel">
+                    <did>
+                        <unittitle>Franz Boas with Gertrude, 3/4 view.</unittitle>
+                        <unitdate>ca. 1895</unitdate>
+                        <physdesc id="ref249" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>Cabinet card,
+                            <emph render="bold">Format: </emph>1 photoprint; Cabinet card</physdesc>
+                        <physloc id="ref248" label="Filename">U5.1.7</physloc>
+                        <origination label="creator">
+                            <persname source="ingest">Rockwood, J.R.</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref250" level="otherlevel">
+                    <did>
+                        <unittitle>Franz Boas with Gertrude.</unittitle>
+                        <unitdate>ca. 1895</unitdate>
+                        <physdesc id="ref252" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>Cabinet card,
+                            <emph render="bold">Format: </emph>1 photoprint; Cabinet card</physdesc>
+                        <physloc id="ref251" label="Filename">U5.1.8</physloc>
+                        <origination label="creator">
+                            <persname source="ingest">Rockwood, J.R.</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref253" level="otherlevel">
+                    <did>
+                        <unittitle>Minden Views 1: House of grandparents Boas (Caroline and Feihus Boas).</unittitle>
+                        <unitdate>ca. 1890</unitdate>
+                        <physdesc id="ref255" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>Cabinet card,
+                            <emph render="bold">Format: </emph>1 photoprint; Cabinet card</physdesc>
+                        <physloc id="ref254" label="Filename">U5.1.9</physloc>
+                        <origination label="creator">
+                            <persname source="ingest">Hulsenbeck, J.</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref256" level="otherlevel">
+                    <did>
+                        <unittitle>Minden Views 2: Rathaus, Minden i.W.</unittitle>
+                        <unitdate>ca. 1900</unitdate>
+                        <physdesc id="ref258" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>3.5 x 5b3,
+                            <emph render="bold">Format: </emph>1 postcard; 3.5 x 5b3</physdesc>
+                        <physloc id="ref257" label="Filename">U5.1.10</physloc>
+                    </did>
+                </c02>
+                <c02 id="ref259" level="otherlevel">
+                    <did>
+                        <unittitle>Minden Views 3: Rathaus, Minden i.W.</unittitle>
+                        <unitdate>ca. 1900</unitdate>
+                        <physdesc id="ref261" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>4.5 x 6 print on 6.25 x 7.25b3 mount,
+                            <emph render="bold">Format: </emph>1 photoprint; 4.5 x 6 print on 6.25 x 7.25b3 mount</physdesc>
+                        <physloc id="ref260" label="Filename">U5.1.11</physloc>
+                    </did>
+                </c02>
+                <c02 id="ref262" level="otherlevel">
+                    <did>
+                        <unittitle>Minden Views 4: Am Dom, Minden i.W.</unittitle>
+                        <unitdate>ca. 1900</unitdate>
+                        <physdesc id="ref264" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>4.5 x 6b3 print on 6.25 x 7.25b3 mount,
+                            <emph render="bold">Format: </emph>1 postcard; 4.5 x 6b3 print on 6.25 x 7.25b3 mount</physdesc>
+                        <physloc id="ref263" label="Filename">U5.1.12</physloc>
+                    </did>
+                </c02>
+                <c02 id="ref265" level="otherlevel">
+                    <did>
+                        <unittitle>Franz Boas in Eskimo costume (standing), c. 1 (original, encased in Mylar).</unittitle>
+                        <unitdate>1883</unitdate>
+                        <physdesc id="ref267" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>Cabinet card,
+                            <emph render="bold">Format: </emph>1 photoprint; Cabinet card</physdesc>
+                        <physloc id="ref266" label="Filename">U5.1.13</physloc>
+                        <origination label="creator">
+                            <persname source="ingest">Hulsenbeck, J.</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref268" level="otherlevel">
+                    <did>
+                        <unittitle>Franz Boas in Eskimo costume (standing), c.2.</unittitle>
+                        <unitdate>1883</unitdate>
+                        <physdesc id="ref270" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>Cabinet card,
+                            <emph render="bold">Format: </emph>1 photoprint; Cabinet card</physdesc>
+                        <physloc id="ref269" label="Filename">U5.1.14</physloc>
+                        <origination label="creator">
+                            <persname source="ingest">Hulsenbeck, J.</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref271" level="otherlevel">
+                    <did>
+                        <unittitle>Franz Boas in Eskimo costume (standing), c.3, reproduction.</unittitle>
+                        <unitdate>1883</unitdate>
+                        <physdesc id="ref273" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>Cabinet card,
+                            <emph render="bold">Format: </emph>1 photoprint; Cabinet card</physdesc>
+                        <physloc id="ref272" label="Filename">U5.1.15</physloc>
+                        <origination label="creator">
+                            <persname source="ingest">Hulsenbeck, J.</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref274" level="otherlevel">
+                    <did>
+                        <unittitle>Franz Boas, in Eskimo costume (seated), c. 1 (original).</unittitle>
+                        <unitdate>1883</unitdate>
+                        <physdesc id="ref276" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>Cabinet card,
+                            <emph render="bold">Format: </emph>1 photoprint; Cabinet card</physdesc>
+                        <physloc id="ref275" label="Filename">U5.1.16</physloc>
+                        <origination label="creator">
+                            <persname source="ingest">Hulsenbeck, J.</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref277" level="otherlevel">
+                    <did>
+                        <unittitle>Franz Boas in Eskimo costume (seated), c. 2 (reproduction).</unittitle>
+                        <unitdate>1883</unitdate>
+                        <physdesc id="ref279" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>Cabinet card,
+                            <emph render="bold">Format: </emph>1 photoprint; Cabinet card</physdesc>
+                        <physloc id="ref278" label="Filename">U5.1.17</physloc>
+                        <origination label="creator">
+                            <persname source="ingest">Hulsenbeck, J.</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref280" level="otherlevel">
+                    <did>
+                        <unittitle>Wilhelm Weike and wife Mathilde, c. 1 (original).</unittitle>
+                        <unitdate>1883</unitdate>
+                        <physdesc id="ref282" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>Cabinet card,
+                            <emph render="bold">Format: </emph>1 photoprint; Cabinet card</physdesc>
+                        <physloc id="ref281" label="Filename">U5.1.18</physloc>
+                        <origination label="creator">
+                            <persname source="ingest">Wenzel, Theodor</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref283" level="otherlevel">
+                    <did>
+                        <unittitle>Kitterton (?) Harbor, Cumberland Sound.</unittitle>
+                        <unitdate>1883-1884</unitdate>
+                        <physdesc id="ref285" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>4 1/4 x 6 1/2b3 print on cardboard mount,
+                            <emph render="bold">Format: </emph>1 photoprint; 4 1/4 x 6 1/2b3 print on cardboard mount</physdesc>
+                        <physloc id="ref284" label="Filename">U5.1.19</physloc>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Boas,  Franz, 1858-1942 </persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref286" level="otherlevel">
+                    <did>
+                        <unittitle>On a trip in the Arctic.</unittitle>
+                        <unitdate>1883-1884</unitdate>
+                        <physdesc id="ref288" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>4.25 x 6.5b3 print on cardboard mount,
+                            <emph render="bold">Format: </emph>1 photoprint; 4.25 x 6.5b3 print on cardboard mount</physdesc>
+                        <physloc id="ref287" label="Filename">U5.1.20</physloc>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Boas,  Franz, 1858-1942 </persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref289" level="otherlevel">
+                    <did>
+                        <unittitle>Franz Boas, portrait.</unittitle>
+                        <unitdate>1887</unitdate>
+                        <physdesc id="ref291" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>Cabinet card,
+                            <emph render="bold">Format: </emph>1 photoprint; Cabinet card</physdesc>
+                        <physloc id="ref290" label="Filename">U5.1.21</physloc>
+                        <origination label="creator">
+                            <persname source="ingest">Bogardus, A.</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref292" level="otherlevel">
+                    <did>
+                        <unittitle>Franz Boas, "World's Fair," 3/4 view portrait, c. 1.</unittitle>
+                        <unitdate>1893</unitdate>
+                        <physdesc id="ref294" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>Cabinet card,
+                            <emph render="bold">Format: </emph>1 photoprint; Cabinet card</physdesc>
+                        <physloc id="ref293" label="Filename">U5.1.22</physloc>
+                        <origination label="creator">
+                            <persname source="ingest">Smith</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref295" level="otherlevel">
+                    <did>
+                        <unittitle>Franz Boas, "World's Fair," 3/4 view portrait, c. 2 (missing lower right corner).</unittitle>
+                        <unitdate>1893</unitdate>
+                        <physdesc id="ref297" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>Cabinet card,
+                            <emph render="bold">Format: </emph>1 photoprint; Cabinet card</physdesc>
+                        <physloc id="ref296" label="Filename">U5.1.23</physloc>
+                        <origination label="creator">
+                            <persname source="ingest">Smith</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref298" level="otherlevel">
+                    <did>
+                        <unittitle>Franz Boas, profile view: "Seinem lieben Wilhelm Weike zur freundlich Erinnung (?) Franz Boas Sommer 1901."</unittitle>
+                        <unitdate>1901</unitdate>
+                        <physdesc id="ref300" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>Cabinet card,
+                            <emph render="bold">Format: </emph>1 photoprint; Cabinet card</physdesc>
+                        <physloc id="ref299" label="Filename">U5.1.24</physloc>
+                        <origination label="creator">
+                            <persname source="ingest">Fechner, Wilh.</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref301" level="otherlevel">
+                    <did>
+                        <unittitle>Franz Boas, portrait, c. 1.</unittitle>
+                        <unitdate>1912</unitdate>
+                        <physdesc id="ref303" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>Cabinet card,
+                            <emph render="bold">Format: </emph>1 photoprint; Cabinet card</physdesc>
+                        <physloc id="ref302" label="Filename">U5.1.25</physloc>
+                        <origination label="creator">
+                            <persname source="ingest">Gunther, Carl</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref304" level="otherlevel">
+                    <did>
+                        <unittitle>Franz Boas, portrait, c. 2</unittitle>
+                        <unitdate>1912</unitdate>
+                        <physdesc id="ref306" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>Cabinet card,
+                            <emph render="bold">Format: </emph>1 photoprint; Cabinet card</physdesc>
+                        <physloc id="ref305" label="Filename">U5.1.26</physloc>
+                        <origination label="creator">
+                            <persname source="ingest">Gunther, Carl</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref307" level="otherlevel">
+                    <did>
+                        <unittitle>Kwakiutl man, woman, and girl.</unittitle>
+                        <unitdate>ca. 1920</unitdate>
+                        <physdesc id="ref309" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>5x7,
+                            <emph render="bold">Format: </emph>1 photoprint; 5x7</physdesc>
+                        <physloc id="ref308" label="Filename">U5.1.27</physloc>
+                        <origination label="creator">
+                            <persname source="ingest">Bishop, Giles</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref310" level="otherlevel">
+                    <did>
+                        <unittitle>George Hunt and family, c. 1.</unittitle>
+                        <unitdate>ca. 1930</unitdate>
+                        <physdesc id="ref312" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>5x7,
+                            <emph render="bold">Format: </emph>1 photoprint; 5x7</physdesc>
+                        <physloc id="ref311" label="Filename">U5.1.28</physloc>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Boas,  Franz, 1858-1942 </persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref313" level="otherlevel">
+                    <did>
+                        <unittitle>George Hunt and family, c. 2 (missing corner top left; crease through center).</unittitle>
+                        <unitdate>ca. 1930</unitdate>
+                        <physdesc id="ref315" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>5x7,
+                            <emph render="bold">Format: </emph>1 photoprint; 5x7</physdesc>
+                        <physloc id="ref314" label="Filename">U5.1.29</physloc>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Boas,  Franz, 1858-1942 </persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref316" level="otherlevel">
+                    <did>
+                        <unittitle>Kwakiutl Indians: Ceremonial masks.</unittitle>
+                        <unitdate>ca. 1930</unitdate>
+                        <physdesc id="ref318" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>5x7,
+                            <emph render="bold">Format: </emph>1 photoprint; 5x7</physdesc>
+                        <physloc id="ref317" label="Filename">U5.1.30</physloc>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Boas,  Franz, 1858-1942 </persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref319" level="otherlevel">
+                    <did>
+                        <unittitle>Kwakiutl Indians: Ceremonial masks and costumes.</unittitle>
+                        <unitdate>ca. 1930</unitdate>
+                        <physdesc id="ref321" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>5x7,
+                            <emph render="bold">Format: </emph>1 photoprint; 5x7</physdesc>
+                        <physloc id="ref320" label="Filename">U5.1.31</physloc>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Boas,  Franz, 1858-1942 </persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref322" level="otherlevel">
+                    <did>
+                        <unittitle>Franz Boas and three others, all in German military uniform.</unittitle>
+                        <unitdate>ca. 1881</unitdate>
+                        <physdesc id="ref324" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>5x7,
+                            <emph render="bold">Format: </emph>1 photoprint; 5x7</physdesc>
+                        <physloc id="ref323" label="Filename">U5.1.32</physloc>
+                        <origination label="creator">
+                            <persname source="ingest">Hulsenbeck, J.</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref325" level="otherlevel">
+                    <did>
+                        <unittitle>Franz Boas with gathering of anthropologists: Fay-Cooper Cole, Robert H. Lowie, A.C. Aitken, and Alexander A. Goldenweiser.</unittitle>
+                        <unitdate>ca. 1920</unitdate>
+                        <physdesc id="ref327" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>5x7,
+                            <emph render="bold">Format: </emph>1 photoprint; 5x7</physdesc>
+                        <physloc id="ref326" label="Filename">U5.1.33</physloc>
+                    </did>
+                </c02>
+                <c02 id="ref328" level="otherlevel">
+                    <did>
+                        <unittitle>Franz Boas with Leo Sternberg, "former member of council of State Prussia walking on street in Bogoras, Russia.</unittitle>
+                        <unitdate>ca. 1930</unitdate>
+                        <physdesc id="ref330" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>5x7,
+                            <emph render="bold">Format: </emph>1 photoprint; 5x7</physdesc>
+                        <physloc id="ref329" label="Filename">U5.1.34</physloc>
+                    </did>
+                </c02>
+                <c02 id="ref331" level="otherlevel">
+                    <did>
+                        <unittitle>Franz Boas, 70th birthday, Cornwall Bridge, seated in chair outdoors.</unittitle>
+                        <unitdate>1928</unitdate>
+                        <physdesc id="ref333" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>5x7,
+                            <emph render="bold">Format: </emph>1 photoprint; 5x7</physdesc>
+                        <physloc id="ref332" label="Filename">U5.1.35</physloc>
+                    </did>
+                </c02>
+                <c02 id="ref334" level="otherlevel">
+                    <did>
+                        <unittitle>Franz Boas, 70th birthday, Cornwall Bridge, Conn., with Marie and grandchildren, outdoors (1).</unittitle>
+                        <unitdate>1928</unitdate>
+                        <physdesc id="ref336" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>5x7,
+                            <emph render="bold">Format: </emph>1 photoprint; 5x7</physdesc>
+                        <physloc id="ref335" label="Filename">U5.1.36</physloc>
+                    </did>
+                </c02>
+                <c02 id="ref337" level="otherlevel">
+                    <did>
+                        <unittitle>Franz Boas, 70th birthday, Cornwall Bridge, Conn., with Marie, children, and grandchildren, outdoors (2).</unittitle>
+                        <unitdate>1928</unitdate>
+                        <physdesc id="ref339" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>5x7,
+                            <emph render="bold">Format: </emph>1 photoprint; 5x7</physdesc>
+                        <physloc id="ref338" label="Filename">U5.1.37</physloc>
+                    </did>
+                </c02>
+                <c02 id="ref340" level="otherlevel">
+                    <did>
+                        <unittitle>Franz Boas, with grandsons Robert and Philip Yampolsky at Grantwood, N.J.</unittitle>
+                        <unitdate>ca. 1940</unitdate>
+                        <physdesc id="ref342" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>5x7,
+                            <emph render="bold">Format: </emph>1 photoprint; 5x7</physdesc>
+                        <physloc id="ref341" label="Filename">U5.1.38</physloc>
+                    </did>
+                </c02>
+                <c02 id="ref343" level="otherlevel">
+                    <did>
+                        <unittitle>Summer home at Bolton, Lake George, New York. (2).</unittitle>
+                        <unitdate>ca. 1920</unitdate>
+                        <physdesc id="ref345" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>5x7,
+                            <emph render="bold">Format: </emph>1 photoprint; 5x7</physdesc>
+                        <physloc id="ref344" label="Filename">U5.1.39</physloc>
+                    </did>
+                </c02>
+                <c02 id="ref346" level="otherlevel">
+                    <did>
+                        <unittitle>Summer home at Bolton, Lake George, New York. (3) Small outbuilding, "Boas' study."</unittitle>
+                        <unitdate>ca. 1920</unitdate>
+                        <physdesc id="ref348" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>5x7,
+                            <emph render="bold">Format: </emph>1 photoprint; 5x7</physdesc>
+                        <physloc id="ref347" label="Filename">U5.1.40</physloc>
+                    </did>
+                </c02>
+                <c02 id="ref349" level="otherlevel">
+                    <did>
+                        <unittitle>Marie Boas, about age 40, seated, 3/4 view.</unittitle>
+                        <unitdate>ca. 1900</unitdate>
+                        <physdesc id="ref351" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>5x7,
+                            <emph render="bold">Format: </emph>1 photoprint; 5x7</physdesc>
+                        <physloc id="ref350" label="Filename">U5.1.41</physloc>
+                        <origination label="creator">
+                            <persname source="ingest">Fechner, Wilh.</persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref352" level="otherlevel">
+                    <did>
+                        <unittitle>Eisberg, 28 Juli 1883</unittitle>
+                        <unitdate>1883</unitdate>
+                        <physdesc id="ref354" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>5x7,
+                            <emph render="bold">Format:;</emph>5x7</physdesc>
+                        <physloc id="ref353" label="Filename">U5.1.42</physloc>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Boas,  Franz, 1858-1942 </persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref355" level="otherlevel">
+                    <did>
+                        <unittitle>Fjord von Kekurtalunkdjuaki</unittitle>
+                        <unitdate>1883</unitdate>
+                        <physdesc id="ref357" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>5x7,
+                            <emph render="bold">Format:;</emph>5x7</physdesc>
+                        <physloc id="ref356" label="Filename">U5.1.43</physloc>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Boas,  Franz, 1858-1942 </persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref358" level="otherlevel">
+                    <did>
+                        <unittitle>Nenelung, Angiukak von Karsakgischen. NNW, Angiukak, 1400 meter.</unittitle>
+                        <unitdate>1184</unitdate>
+                        <physdesc id="ref360" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>5x7,
+                            <emph render="bold">Format:;</emph>5x7</physdesc>
+                        <physloc id="ref359" label="Filename">U5.1.44</physloc>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Boas,  Franz, 1858-1942 </persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref361" level="otherlevel">
+                    <did>
+                        <unittitle>Eingang zu Pagnirtung, Cumberland Sund.</unittitle>
+                        <unitdate>ca. 1883</unitdate>
+                        <physdesc id="ref363" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>5x7,
+                            <emph render="bold">Format:;</emph>5x7</physdesc>
+                        <physloc id="ref362" label="Filename">U5.1.45</physloc>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Boas,  Franz, 1858-1942 </persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref364" level="otherlevel">
+                    <did>
+                        <unittitle>Ursualtlung (American Harbor) von SW gischen.</unittitle>
+                        <unitdate>ca. 1883</unitdate>
+                        <physdesc id="ref366" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>5x7,
+                            <emph render="bold">Format:;</emph>5x7</physdesc>
+                        <physloc id="ref365" label="Filename">U5.1.46</physloc>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Boas,  Franz, 1858-1942 </persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref367" level="otherlevel">
+                    <did>
+                        <unittitle>Cape Searle (Kachodluin) von S. gischen (Katingujang and Nuvukshin)</unittitle>
+                        <unitdate>ca. 1883</unitdate>
+                        <physdesc id="ref369" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>5x7,
+                            <emph render="bold">Format:;</emph>5x7</physdesc>
+                        <physloc id="ref368" label="Filename">U5.1.47</physloc>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Boas,  Franz, 1858-1942 </persname>
+                        </origination>
+                    </did>
+                </c02>
+                <c02 id="ref378" level="item">
+                    <did>
+                        <unittitle>Map of Baffinland</unittitle>
+                        <physdesc>
+                            <extent>1 map, 71.6 x 95.25 cm [irregular]</extent>
+                        </physdesc>
+                        <unitdate normal="1884/1884">ca. 1884</unitdate>
+                        <physdesc id="ref379" label="General Physical Description note">
+                            <emph render="bold">Size: </emph>71.6 x 95.25 cm [irregular],
+                            <emph render="bold">Format:;</emph>1 map</physdesc>
+                        <physloc id="ref380" label="Filename">Extra Oversized</physloc>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf" role="Cartographer (ctg)">Boas,  Franz, 1858-1942 </persname>
+                        </origination>
+                    </did>
+                    <otherfindaid id="ref381">
+                        <head>Other Finding Aids note</head>
+                        <p>Realms of Gold, 6 (6).</p>
+                    </otherfindaid>
+                </c02>
+                <c02 id="ref385" level="otherlevel">
+                    <did>
+                        <unittitle>Photographs</unittitle>
+                    </did>
+                    <c03 id="ref386" level="file">
+                        <did>
+                            <unittitle>photographs</unittitle>
+                            <unitid>#1</unitid>
+                            <physdesc id="ref388" label="General Physical Description note">3--1 1/2 x 2 1/2 inch; 1--3 1/2 x 4 inch</physdesc>
+                            <abstract id="ref389" label="Abstract">Black and white photographs of pure albino Hawaiians</abstract>
+                        </did>
+                    </c03>
+                    <c03 id="ref390" level="file">
+                        <did>
+                            <unittitle>photographs</unittitle>
+                            <unitid>#2</unitid>
+                            <unitdate>1940</unitdate>
+                            <abstract id="ref391" label="Abstract">Black and white photographs by Amelia Susman and William Beynon of Tsimshian sculptures, carvings, and totems, Port Simpson, British Columbia.</abstract>
+                            <origination label="creator">
+                                <persname source="ingest">Susman, Amelia L.</persname>
+                            </origination>
+                        </did>
+                        <controlaccess>
+                            <persname rules="aacr" source="naf">Beynon, William, 1888-1958</persname>
+                        </controlaccess>
+                        <c04 id="ref392" level="file">
+                            <did>
+                                <unittitle>Gnawing beaver totem</unittitle>
+                                <unitdate>1940</unitdate>
+                            </did>
+                            <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="Gnawing beaver totem" ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:2988">
+                                <daodesc>
+                                    <p>Gnawing beaver totem, 1940 </p>
+                                </daodesc>
+                            </dao>
+                        </c04>
+                    </c03>
+                </c02>
+            </c01>
+            <c01 id="ref393" level="series">
+                <did>
+                    <unittitle>Microfilm</unittitle>
+                </did>
+                <c02 id="ref394" level="otherlevel">
+                    <did>
+                        <unittitle>Reel 1</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid13531001" type="Reel" label="Microform">1</container>
+                        <physdesc>
+                            <extent>1.0 Reel(s)</extent>
+                        </physdesc>
+                        <unitdate normal="1878/1889" type="inclusive">1878 February 24-1889 January 31</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref395" level="otherlevel">
+                    <did>
+                        <unittitle>Reel 2</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid13534001" type="Reel" label="Microform">2</container>
+                        <physdesc>
+                            <extent>1.0 Reel(s)</extent>
+                        </physdesc>
+                        <unitdate normal="1889/1894" type="inclusive">1889 February 1 - 1894 April 30</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref396" level="otherlevel">
+                    <did>
+                        <unittitle>Reel 3</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid13534002" type="Reel" label="Microform">3</container>
+                        <physdesc>
+                            <extent>1.0 Reel(s)</extent>
+                        </physdesc>
+                        <unitdate normal="1894/1898" type="inclusive">1894 May 1 - 1898 December 30</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref397" level="otherlevel">
+                    <did>
+                        <unittitle>Reel 4</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid13534003" type="Reel" label="Microform">4</container>
+                        <physdesc>
+                            <extent>1.0 Reel(s)</extent>
+                        </physdesc>
+                        <unitdate normal="1899/1903" type="inclusive">1899 January 5 - 1903 March 26</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref398" level="otherlevel">
+                    <did>
+                        <unittitle>Reel 5</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid13534004" type="Reel" label="Microform">5</container>
+                        <physdesc>
+                            <extent>1.0 Reel(s)</extent>
+                        </physdesc>
+                        <unitdate normal="1903/1904" type="inclusive">1903 April 2 - 1904 December 30</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref399" level="otherlevel">
+                    <did>
+                        <unittitle>Reel 6</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid13537001" type="Reel" label="Microform">6</container>
+                        <physdesc>
+                            <extent>1.0 Reel(s)</extent>
+                        </physdesc>
+                        <unitdate normal="1905/1906" type="inclusive">1905 January 2 - 1906 January 24</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref400" level="otherlevel">
+                    <did>
+                        <unittitle>Reel 7</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid13537002" type="Reel" label="Microform">7</container>
+                        <physdesc>
+                            <extent>1.0 Reel(s)</extent>
+                        </physdesc>
+                        <unitdate normal="1906/1907" type="inclusive">1906 January 24 - 1907 January 4</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref401" level="otherlevel">
+                    <did>
+                        <unittitle>Reel 8</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid13537003" type="Reel" label="Microform">8</container>
+                        <physdesc>
+                            <extent>1.0 Reel(s)</extent>
+                        </physdesc>
+                        <unitdate normal="1907/1907">1907 January 4 - 1907 December 10</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref402" level="otherlevel">
+                    <did>
+                        <unittitle>Reel 9</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid13537004" type="Reel" label="Microform">9</container>
+                        <physdesc>
+                            <extent>1.0 Reel(s)</extent>
+                        </physdesc>
+                        <unitdate normal="1907/1908" type="inclusive">1907 December 11 - 1908 December 4</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref403" level="otherlevel">
+                    <did>
+                        <unittitle>Reel 10</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid13537005" type="Reel" label="Microform">10</container>
+                        <physdesc>
+                            <extent>1.0 Reel(s)</extent>
+                        </physdesc>
+                        <unitdate normal="1908/1909" type="inclusive">1908 December 5 - 1909 November 30</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref404" level="otherlevel">
+                    <did>
+                        <unittitle>Reel 11</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid13537006" type="Reel" label="Microform">11</container>
+                        <physdesc>
+                            <extent>1.0 Reel(s)</extent>
+                        </physdesc>
+                        <unitdate normal="1909/1911" type="inclusive">1909 December 9 - 1911 February 17</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref405" level="otherlevel">
+                    <did>
+                        <unittitle>Reel 12</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid13537007" type="Reel" label="Microform">12</container>
+                        <physdesc>
+                            <extent>1.0 Reel(s)</extent>
+                        </physdesc>
+                        <unitdate normal="1911/1912" type="inclusive">1911 February 17 - 1912 September 12</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref406" level="otherlevel">
+                    <did>
+                        <unittitle>Reel 13</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid13537008" type="Reel" label="Microform">13</container>
+                        <physdesc>
+                            <extent>1.0 Reel(s)</extent>
+                        </physdesc>
+                        <unitdate normal="1912/1914" type="inclusive">1912 September 13 - 1913 June 14</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref407" level="otherlevel">
+                    <did>
+                        <unittitle>Reel 14</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid13538001" type="Reel" label="Microform">14</container>
+                        <physdesc>
+                            <extent>1.0 Reel(s)</extent>
+                        </physdesc>
+                        <unitdate normal="1913/1914" type="inclusive">1913 June 11 - 1914 February 20</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref408" level="otherlevel">
+                    <did>
+                        <unittitle>Reel 15</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid13538002" type="Reel" label="Microform">15</container>
+                        <physdesc>
+                            <extent>1.0 Reel(s)</extent>
+                        </physdesc>
+                        <unitdate normal="1914/1916" type="inclusive">1914 February 20 - 1915 April 16</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref409" level="otherlevel">
+                    <did>
+                        <unittitle>Reel 16</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid13538003" type="Reel" label="Microform">16</container>
+                        <physdesc>
+                            <extent>1.0 Reel(s)</extent>
+                        </physdesc>
+                        <unitdate normal="1915/1916" type="inclusive">1915 April 16 - 1916 October 15</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref410" level="otherlevel">
+                    <did>
+                        <unittitle>Reel 17</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid13538004" type="Reel" label="Microform">17</container>
+                        <physdesc>
+                            <extent>1.0 Reel(s)</extent>
+                        </physdesc>
+                        <unitdate normal="1916/1917" type="inclusive">1916 October 16 - 1917 May 31</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref411" level="otherlevel">
+                    <did>
+                        <unittitle>Reel 18</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid13538005" type="Reel" label="Microform">18</container>
+                        <physdesc>
+                            <extent>1.0 Reel(s)</extent>
+                        </physdesc>
+                        <unitdate normal="1917/1918" type="inclusive">1917 June 1 - 1918 March 31</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref412" level="otherlevel">
+                    <did>
+                        <unittitle>Reel 19</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid13538006" type="Reel" label="Microform">19</container>
+                        <physdesc>
+                            <extent>1.0 Reel(s)</extent>
+                        </physdesc>
+                        <unitdate normal="1918/1919" type="inclusive">1918 April 1 - 1919 April 2</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref413" level="otherlevel">
+                    <did>
+                        <unittitle>Reel 20</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid13538007" type="Reel" label="Microform">20</container>
+                        <physdesc>
+                            <extent>1.0 Reel(s)</extent>
+                        </physdesc>
+                        <unitdate normal="1919/1920" type="inclusive">1919 April 3 - 1920 February 19</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref414" level="otherlevel">
+                    <did>
+                        <unittitle>Reel 21</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid13538008" type="Reel" label="Microform">21</container>
+                        <physdesc>
+                            <extent>1.0 Reel(s)</extent>
+                        </physdesc>
+                        <unitdate normal="1920/1920">1920 February 19 - 1920 July 31</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref415" level="otherlevel">
+                    <did>
+                        <unittitle>Reel 22</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid13538009" type="Reel" label="Microform">22</container>
+                        <physdesc>
+                            <extent>1.0 Reel(s)</extent>
+                        </physdesc>
+                        <unitdate normal="1920/1920">1920 August 1 - 1920 July 31</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref416" level="otherlevel">
+                    <did>
+                        <unittitle>Reel 23</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid13538010" type="Reel" label="Microform">23</container>
+                        <physdesc>
+                            <extent>1.0 Reel(s)</extent>
+                        </physdesc>
+                        <unitdate normal="1920/1922" type="inclusive">1920 November 26 - 1922 December 29</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref417" level="otherlevel">
+                    <did>
+                        <unittitle>Reel 24</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid13538011" type="Reel" label="Microform">24</container>
+                        <physdesc>
+                            <extent>1.0 Reel(s)</extent>
+                        </physdesc>
+                        <unitdate normal="1923/1924" type="inclusive">1923 Juanuary 9 - 1924 February 29</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref418" level="otherlevel">
+                    <did>
+                        <unittitle>Reel 25</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref419" level="otherlevel">
+                    <did>
+                        <unittitle>Reel 26</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref420" level="otherlevel">
+                    <did>
+                        <unittitle>Reel 27</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref421" level="otherlevel">
+                    <did>
+                        <unittitle>Reel 28</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref422" level="otherlevel">
+                    <did>
+                        <unittitle>Reel 29</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref423" level="otherlevel">
+                    <did>
+                        <unittitle>Reel 30</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref424" level="otherlevel">
+                    <did>
+                        <unittitle>Reel 31</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref425" level="otherlevel">
+                    <did>
+                        <unittitle>Reel 32</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref426" level="otherlevel">
+                    <did>
+                        <unittitle>Reel 33</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref427" level="otherlevel">
+                    <did>
+                        <unittitle>Reel 34</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref428" level="otherlevel">
+                    <did>
+                        <unittitle>Reel 35</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref429" level="otherlevel">
+                    <did>
+                        <unittitle>Reel 36</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref430" level="otherlevel">
+                    <did>
+                        <unittitle>Reel 37</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref431" level="otherlevel">
+                    <did>
+                        <unittitle>Reel 38</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref432" level="otherlevel">
+                    <did>
+                        <unittitle>Reel 39</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref433" level="otherlevel">
+                    <did>
+                        <unittitle>Reel 40</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref434" level="otherlevel">
+                    <did>
+                        <unittitle>Reel 41</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref435" level="otherlevel">
+                    <did>
+                        <unittitle>Reel 42</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref436" level="otherlevel">
+                    <did>
+                        <unittitle>Reel 43</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref437" level="otherlevel">
+                    <did>
+                        <unittitle>Reel 44</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref438" level="otherlevel">
+                    <did>
+                        <unittitle>Reel 45</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref439" level="otherlevel">
+                    <did>
+                        <unittitle>Reel 46</unittitle>
+                    </did>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

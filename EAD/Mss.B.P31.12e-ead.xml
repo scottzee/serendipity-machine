@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.P31.12e-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.P31.12e</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T19:52-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc audience="internal" level="item">
+        <did>
+            <unittitle>Rubens Peale sketchbook, 1864</unittitle>
+            <unitid>Mss.B.P31.12e</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1482" type="Volume" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>1.0 Volume(s)</extent>
+                <extent>1 volume, 13 p. </extent>
+            </physdesc>
+            <unitdate normal="1864/1864">1864</unitdate>
+            <physdesc id="ref8" label="General Physical Description note">1 volume, 13 p.</physdesc>
+            <abstract id="ref1" label="Abstract">This volume contains pencil sketches of landscapes, designs for cards, and figures.</abstract>
+            <physloc id="ref10" label="Paging">LH-MV-E-4</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Peale, Rubens, 1784-1865</persname>
+            </origination>
+        </did>
+        <odd id="ref9">
+            <head>Administrative Note</head>
+            <p>This record is superseded by, and included in, B P31. It was marked “internal only” in Dec., 2010 and is being kept in the case that it is needed for future administrative needs.</p>
+        </odd>
+        <acqinfo id="ref7">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Purchased from Charles Coleman Sellers and accessioned, 1945.</p>
+            <p></p>
+        </acqinfo>
+        <altformavail id="ref5">
+            <head>Existence and Location of Copies note</head>
+            <p>The papers of C. W. Peale and his family have been reproduced almost in their entirety in microfiche form (Lillian B. Miller, ed. "Collected papers of Charles Willson Peale and his family." Kraus Microfilm, 1980).</p>
+        </altformavail>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>Rubens Peale managed his father Charles Willson Peale's museum in Philadelphia from 1810 to 1822 and later directed museums in Baltimore, New York City, and Utica. In 1840, he settled on a farm in Pottsvile, where he farmed and sketched.</p>
+        </bioghist>
+        <controlaccess>
+            <subject source="lcsh">Art -- United States.</subject>
+            <subject source="lcsh">Drawing.</subject>
+            <subject source="lcsh">Figure drawing.</subject>
+            <subject source="lcsh">Landscape drawing.</subject>
+            <genreform source="lcsh">Sketches.</genreform>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

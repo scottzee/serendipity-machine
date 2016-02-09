@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.F86d.tr-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.F86d.tr</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T19:27-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="item">
+        <did>
+            <unittitle>William Temple Franklin appointment books: diaries, 1785-1803</unittitle>
+            <unitid>Mss.B.F86d.tr</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1292" type="Volume" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>1.0 Volume(s)</extent>
+                <extent>1 volume, 116 p. </extent>
+            </physdesc>
+            <unitdate normal="1785/1803" type="inclusive">1785-1803</unitdate>
+            <physdesc id="ref10" label="General Physical Description note">1 volume, 116 p.</physdesc>
+            <abstract id="ref1" label="Abstract">These are transcripts of original documents and letters from various libraries. There is extensive annotation by Claude-Anne Lopez.</abstract>
+            <physloc id="ref11" label="Paging">LH-MV-E-2</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Franklin, William Temple, 1760-1823</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref9">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by Claude-Anne Lopez and accessioned, 1983 (1983 439ns).</p>
+            <p></p>
+        </acqinfo>
+        <odd id="ref5">
+            <head>General note</head>
+            <p>For the original 1785 diary, see PAAV87-A57.</p>
+        </odd>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>William Temple Franklin was Benjamin Franklin's grandson and secretary.</p>
+        </bioghist>
+        <odd id="ref12">
+            <head>Early American History Note</head>
+            <p>This collection of William Temple Franklin material contains copies, often typescript, of Benjamin Franklin’s grandson, who also served as his secretary in France. Some but not all of the originals are housed in the APS already. These documents contain annotations of Claude-Anne Lopes, the former editor of the Benjamin Franklin Papers.</p>
+        </odd>
+        <controlaccess>
+            <persname rules="aacr" source="naf">Franklin, Benjamin, 1706-1790</persname>
+            <persname rules="aacr" source="naf">Lopez, Claude Anne </persname>
+            <subject source="leah">American Revolution</subject>
+            <genreform source="lcsh">Appointment books.</genreform>
+            <genreform source="leah">Business Records and Accounts</genreform>
+            <genreform source="leah">Diaries</genreform>
+            <genreform source="lcsh">Diaries.</genreform>
+            <subject source="leah">Diplomatic History</subject>
+            <geogname source="lcsh">France -- Social life and customs -- 17th century.</geogname>
+            <geogname source="lcsh">Philadelphia (Pa.) -- Social life and customs -- 19th century.</geogname>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.P31.8c-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.P31.8c</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T19:52-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc audience="internal" level="collection">
+        <did>
+            <unittitle>Charles Coleman Sellers notes, [ca. 1915-ca.1943]</unittitle>
+            <unitid>Mss.B.P31.8c</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1509" type="Volume" label="Manuscripts">1-11</container>
+            <physdesc>
+                <extent>11.0 Volume(s)</extent>
+                <extent>11 enclosures</extent>
+            </physdesc>
+            <unitdate>Circa 1915-1945</unitdate>
+            <abstract id="ref1" label="Abstract">Eight of these enclosures contain a scrapbook of notes, newspaper clippings, photographs, about the paintings of Charles Willson Peale and Rembrandt Peale.</abstract>
+            <physdesc id="ref14" label="General Physical Description note">11 enclosures.</physdesc>
+            <physloc id="ref16" label="Paging">LH-MV-E-4</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Sellers, Charles Coleman, 1903-1980</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref13">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by Charles Coleman Sellers and accessioned, 08/--/1953. See in-house shelf list for additional accession dates.</p>
+        </acqinfo>
+        <altformavail id="ref9">
+            <head>Existence and Location of Copies note</head>
+            <p>The papers of C. W. Peale and his family have been reproduced almost in their entirety in microfiche form (Lillian B. Miller, ed. "Collected papers of Charles Willson Peale and his family." Kraus Microfilm, 1980).</p>
+        </altformavail>
+        <odd id="ref7">
+            <head>General note</head>
+            <p>The American Philosophical Society Library also has the Charles Coleman Sellers Papers, which contain similar material (Ms. Coll. #3).</p>
+        </odd>
+        <odd id="ref5">
+            <head>General note</head>
+            <p>The main body of the Peale Collection is described in brief in American Philosophical Society "Year Book" 1945:74-77.</p>
+        </odd>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>Charles Coleman Sellers was the great-grandson of Charles Willson Peale, who was an artist and naturalist. Sellers wrote a biography of Charles Willson Peale (New York: Scribner, 1969).</p>
+        </bioghist>
+        <odd id="ref15">
+            <head>Administrative Note</head>
+            <p>This record is superseded by, and included in, B P31. It was marked “internal only” in Dec., 2010 and is being kept in the case that it is needed for future administrative needs.</p>
+        </odd>
+        <controlaccess>
+            <persname rules="aacr" source="naf">Peale, Charles Willson, 1741-1827</persname>
+            <persname source="ingest">Peale, Rembrandt, 1778-1860</persname>
+            <occupation source="lcsh">Artists -- United States.</occupation>
+            <genreform source="lcsh">Clippings.</genreform>
+            <genreform source="lcsh">Notes.</genreform>
+            <subject source="lcsh">Painters -- United States.</subject>
+            <genreform source="lcsh">Photoprints.</genreform>
+            <subject source="lcsh">Portraits, American.</subject>
+            <genreform source="lcsh">Scrapbooks.</genreform>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

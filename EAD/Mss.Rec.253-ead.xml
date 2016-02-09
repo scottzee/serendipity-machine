@@ -1,0 +1,693 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Rec.253-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Rec.253</num>
+                    <num>Mss.Rec.253</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Brian Carpenter</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+                <date>12-2010</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T21:15-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>The Phonetics of Interior Salish</unittitle>
+            <unitid>Mss.Rec.253</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="sal"/>
+            </langmaterial>
+            <physdesc>
+                <extent>4.0 Tape(s)</extent>
+            </physdesc>
+            <unitdate normal="1993/1996" type="inclusive">1993-1996</unitdate>
+            <abstract id="ref3" label="Abstract">Linguistic field recordings in Vancouver, Lillooet, and Victoria, British Columbia, and Seattle. Elicitation of lexical items in five languages (Lillooet, Ntlakyapamuk, Gitksan, Nootka, and Tlingit) to record consonant-vowel interaction and unusual consonant types.</abstract>
+            <physdesc id="ref2" label="General Physical Description note">4 sound cassettes (3 hr., 26 min.) : analog, 1 7/8 ips, stereo.</physdesc>
+            <physloc id="ref86" label="Paging">LH-B-32-5</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Bessell, Nicola J.</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest">Brown, Judson</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest">Frank, Beverly</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest">Louie, George</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest">Ned, Bucky</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest">Ned, Gertrude</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest">Newton, Richard</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest">Sennott, Barbara</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest">Ursaki, Dorothy</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest">Whitley, Rose</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref4">
+            <head>Immediate Source of Acquisition</head>
+            <p>Presented by Nicola Bessell in February 1997. This material was recorded with the assistance of a Phillips Fund grant.</p>
+        </acqinfo>
+        <relatedmaterial id="ref5">
+            <head>Related Archival Materials</head>
+            <p>Fieldnotes and lexical lists used in recordings are available in the 
+                <extref ns2:actuate="onLoad" ns2:show="new" ns2:href="http://www.amphilsoc.org/mole/view?docId=ead/Mss.497.3.Am4-ead.xml">Phillips Fund Collection (Mss.497.3.Am4)</extref>.</p>
+        </relatedmaterial>
+        <controlaccess>
+            <subject source="lcsh">Gitksan language</subject>
+            <subject source="ingest">Lillooet language</subject>
+            <subject source="lcsh">Nootka language</subject>
+            <subject source="lcsh">Ntlakyapamuk language</subject>
+            <subject source="lcsh">Salishan languages</subject>
+            <genreform source="ingest">Sound recordings</genreform>
+            <subject source="lcsh">Tlingit language</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref6" level="series">
+                <did>
+                    <unittitle>Audio recordings</unittitle>
+                </did>
+                <c02 id="ref7" level="file">
+                    <did>
+                        <unittitle>St'at'imcets (Lilloeet Salish) word list and lexical items</unittitle>
+                        <unitid>01-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1996-12-16</unitdate>
+                        <physdesc id="ref8" label="General Physical Description note">
+                            <extent>00:27:55</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Bessell, Nicola</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Ned, Bucky</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Ned, Gertrude</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref10">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2819" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3339">
+                        <daodesc>
+                            <p>APSdigrec_2819</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Lillooet (B.C.)</geogname>
+                        <subject source="ingest">Lillooet language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref11" level="file">
+                    <did>
+                        <unittitle>St'at'imcets (Lilloeet Salish) word list and lexical items [1 of 2]</unittitle>
+                        <unitid>01-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1996-12-18</unitdate>
+                        <physdesc id="ref12" label="General Physical Description note">
+                            <extent>00:03:05</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Bessell, Nicola</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Frank, Beverly</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref14">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2820" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3334">
+                        <daodesc>
+                            <p>APSdigrec_2820</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Lillooet (B.C.)</geogname>
+                        <subject source="ingest">Lillooet language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref15" level="file">
+                    <did>
+                        <unittitle>St'at'imcets (Lilloeet Salish) word list and lexical items [2 of 2]</unittitle>
+                        <unitid>01-03</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1996-12-18</unitdate>
+                        <physdesc id="ref16" label="General Physical Description note">
+                            <extent>00:05:22</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Bessell, Nicola</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Frank, Beverly</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref18">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2821" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3333">
+                        <daodesc>
+                            <p>APSdigrec_2821</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Lillooet (B.C.)</geogname>
+                        <subject source="ingest">Lillooet language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref19" level="file">
+                    <did>
+                        <unittitle>St'at'imcets (Lilloeet Salish) lexical items: #1-101</unittitle>
+                        <unitid>01-04</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1993-08-06</unitdate>
+                        <physdesc id="ref20" label="General Physical Description note">
+                            <extent>00:14:41</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Bessell, Nicola</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Whitley, Rose</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref22">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2822" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3337">
+                        <daodesc>
+                            <p>APSdigrec_2822</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Lillooet (B.C.)</geogname>
+                        <subject source="ingest">Lillooet language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref23" level="file">
+                    <did>
+                        <unittitle>St'at'imcets (Lilloeet Salish) lexical items: #102-171</unittitle>
+                        <unitid>01-05</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1993-08-06</unitdate>
+                        <physdesc id="ref24" label="General Physical Description note">
+                            <extent>00:10:56</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Bessell, Nicola</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Whitley, Rose</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref26">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2823" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3335">
+                        <daodesc>
+                            <p>APSdigrec_2823</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Lillooet (B.C.)</geogname>
+                        <subject source="ingest">Lillooet language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref27" level="file">
+                    <did>
+                        <unittitle>St'at'imcets (Lilloeet Salish) lexical items: #172-end</unittitle>
+                        <unitid>02-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1993-08-08</unitdate>
+                        <physdesc id="ref28" label="General Physical Description note">
+                            <extent>00:02:02</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Bessell, Nicola</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Whitley, Rose</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref30">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2824" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3338">
+                        <daodesc>
+                            <p>APSdigrec_2824</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Lillooet (B.C.)</geogname>
+                        <subject source="ingest">Lillooet language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref31" level="file">
+                    <did>
+                        <unittitle>Ntlakyapamuk (Thompson-Salish) lexical items</unittitle>
+                        <unitid>02-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1993-07-20</unitdate>
+                        <physdesc id="ref32" label="General Physical Description note">
+                            <extent>00:10:21</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Bessell, Nicola</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Ursaki, Dorothy</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref34">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2825" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3340">
+                        <daodesc>
+                            <p>APSdigrec_2825</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Ntlakyapamuk language</subject>
+                        <geogname source="ingest">Vancouver (B.C.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref35" level="file">
+                    <did>
+                        <unittitle>Ahousaht (Nuuchahnulth : Nootka) word list &amp; lexical items: #1-46</unittitle>
+                        <unitid>03-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1993-07-26</unitdate>
+                        <physdesc id="ref36" label="General Physical Description note">
+                            <extent>00:05:54</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Bessell, Nicola</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Louie, George</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref37">
+                        <head>Scope and Contents note</head>
+                        <p>The speaker speaks in the Ahousaht dialect of Nuu-chah-nulth.</p>
+                    </scopecontent>
+                    <originalsloc id="ref39">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2826" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3336">
+                        <daodesc>
+                            <p>APSdigrec_2826</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Nootka language</subject>
+                        <geogname source="ingest">Victoria (B.C.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref40" level="file">
+                    <did>
+                        <unittitle>Ahousaht (Nuuchahnulth : Nootka) word list &amp; lexical items: #48-end</unittitle>
+                        <unitid>03-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1993-08-12</unitdate>
+                        <physdesc id="ref41" label="General Physical Description note">
+                            <extent>00:16:52</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Bessell, Nicola</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Louie, George</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref42">
+                        <head>Scope and Contents note</head>
+                        <p>The speaker speaks in the Ahousaht dialect of Nuu-chah-nulth.</p>
+                    </scopecontent>
+                    <originalsloc id="ref44">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2827" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3343">
+                        <daodesc>
+                            <p>APSdigrec_2827</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Nootka language</subject>
+                        <geogname source="ingest">Victoria (B.C.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref45" level="file">
+                    <did>
+                        <unittitle>Gitksan word list and lexical items: #1-53</unittitle>
+                        <unitid>03-03</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1993-08-09</unitdate>
+                        <physdesc id="ref46" label="General Physical Description note">
+                            <extent>00:07:37</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Bessell, Nicola</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Sennott, Barbara</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref48">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2828" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3342">
+                        <daodesc>
+                            <p>APSdigrec_2828</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Gitksan language</subject>
+                        <geogname source="ingest">Vancouver (B.C.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref49" level="file">
+                    <did>
+                        <unittitle>Gitksan word list and lexical items: #54-114</unittitle>
+                        <unitid>03-04</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1993-08-16</unitdate>
+                        <physdesc id="ref50" label="General Physical Description note">
+                            <extent>00:12:26</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Bessell, Nicola</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Sennott, Barbara</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref52">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2829" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3344">
+                        <daodesc>
+                            <p>APSdigrec_2829</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Gitksan language</subject>
+                        <geogname source="ingest">Vancouver (B.C.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref53" level="file">
+                    <did>
+                        <unittitle>Gitksan word list and lexical items: #115-123</unittitle>
+                        <unitid>03-05</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1993-08-17</unitdate>
+                        <physdesc id="ref54" label="General Physical Description note">
+                            <extent>00:02:50</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Bessell, Nicola</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Sennott, Barbara</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref56">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2830" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3346">
+                        <daodesc>
+                            <p>APSdigrec_2830</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Gitksan language</subject>
+                        <geogname source="ingest">Vancouver (B.C.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref57" level="file">
+                    <did>
+                        <unittitle>Gitksan word list and lexical items: #124-end</unittitle>
+                        <unitid>03-06</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1993-08-17</unitdate>
+                        <physdesc id="ref58" label="General Physical Description note">
+                            <extent>00:07:27</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Bessell, Nicola</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Sennott, Barbara</persname>
+                        </origination>
+                    </did>
+                    <originalsloc id="ref60">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2831" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3345">
+                        <daodesc>
+                            <p>APSdigrec_2831</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <subject source="lcsh">Gitksan language</subject>
+                        <geogname source="ingest">Vancouver (B.C.)</geogname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref61" level="file">
+                    <did>
+                        <unittitle>Tlingit word list and lexical items: #1-73</unittitle>
+                        <unitid>04-01</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1994-07-30</unitdate>
+                        <physdesc id="ref62" label="General Physical Description note">
+                            <extent>00:28:24</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Bessell, Nicola</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Newton, Richard</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref63">
+                        <head>Scope and Contents note</head>
+                        <p>The speaker was born in Kake, Alaska, with Tlingit as his first language. He speaks in a transitional dialect of Tlingit.</p>
+                    </scopecontent>
+                    <originalsloc id="ref65">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2832" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3364">
+                        <daodesc>
+                            <p>APSdigrec_2832</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Seattle (Wash.)</geogname>
+                        <subject source="lcsh">Tlingit language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref66" level="file">
+                    <did>
+                        <unittitle>Tlingit word list and lexical items: #74-142</unittitle>
+                        <unitid>04-02</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1994-07-31</unitdate>
+                        <physdesc id="ref67" label="General Physical Description note">
+                            <extent>00:18:45</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Bessell, Nicola</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Newton, Richard</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref68">
+                        <head>Scope and Contents note</head>
+                        <p>The speaker was born in Kake, Alaska, with Tlingit as his first language. He speaks in a transitional dialect of Tlingit.</p>
+                    </scopecontent>
+                    <originalsloc id="ref70">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2833" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3362">
+                        <daodesc>
+                            <p>APSdigrec_2833</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Seattle (Wash.)</geogname>
+                        <subject source="lcsh">Tlingit language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref71" level="file">
+                    <did>
+                        <unittitle>Tlingit word list and lexical items: #142 continuation and short speech</unittitle>
+                        <unitid>04-03</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1994-07-31</unitdate>
+                        <physdesc id="ref72" label="General Physical Description note">
+                            <extent>00:01:15</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Bessell, Nicola</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Newton, Richard</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref73">
+                        <head>Scope and Contents note</head>
+                        <p>The speaker was born in Kake, Alaska, with Tlingit as his first language. He speaks in a transitional dialect of Tlingit.</p>
+                    </scopecontent>
+                    <originalsloc id="ref75">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2834" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3365">
+                        <daodesc>
+                            <p>APSdigrec_2834</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Seattle (Wash.)</geogname>
+                        <subject source="lcsh">Tlingit language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref76" level="file">
+                    <did>
+                        <unittitle>Tlingit word list and lexical items: #144-end</unittitle>
+                        <unitid>04-04</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1994-08-02</unitdate>
+                        <physdesc id="ref77" label="General Physical Description note">
+                            <extent>00:21:21</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Bessell, Nicola</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Newton, Richard</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref78">
+                        <head>Scope and Contents note</head>
+                        <p>The speaker was born in Kake, Alaska, with Tlingit as his first language. He speaks in a transitional dialect of Tlingit.</p>
+                    </scopecontent>
+                    <originalsloc id="ref80">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2835" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3363">
+                        <daodesc>
+                            <p>APSdigrec_2835</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Seattle (Wash.)</geogname>
+                        <subject source="lcsh">Tlingit language</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref81" level="file">
+                    <did>
+                        <unittitle>Tlingit word list and lexical items: #1-end</unittitle>
+                        <unitid>04-05</unitid>
+                        <physdesc>
+                            <extent>1.0 .mp3</extent>
+                        </physdesc>
+                        <unitdate>1994-08-01</unitdate>
+                        <physdesc id="ref82" label="General Physical Description note">
+                            <extent>00:08:43</extent></physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Bessell, Nicola</persname>
+                        </origination>
+                        <origination label="creator">
+                            <persname source="ingest">Brown, Judson</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref83">
+                        <head>Scope and Contents note</head>
+                        <p>The speaker speaks in the northern dialect of Tlingit.</p>
+                    </scopecontent>
+                    <originalsloc id="ref85">
+                        <head>Existence and Location of Originals note</head>
+                        <p>This file is a compressed, digitized version of the original. The APS Library maintains the original format (Audiocassette) as well as an uncompressed digitized version of this recording.</p>
+                    </originalsloc>
+                    <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="APSdigrec_2836" ns2:role="Sound Recording" ns2:href="http://diglib.amphilsoc.org/fedora/repository/audio:3366">
+                        <daodesc>
+                            <p>APSdigrec_2836</p>
+                        </daodesc>
+                    </dao>
+                    <controlaccess>
+                        <geogname source="ingest">Seattle (Wash.)</geogname>
+                        <subject source="lcsh">Tlingit language</subject>
+                    </controlaccess>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

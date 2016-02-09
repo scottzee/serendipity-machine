@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Film.1127-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Film.1127</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T20:12-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Field notes, 1949-1960, on the ethnology of the Tlingit and Copper River Atna</unittitle>
+            <unitid>Mss.Film.1127</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1704" type="Reel" label="Microform">1-6</container>
+            <physdesc>
+                <extent>6.0 Microfilm reel(s)</extent>
+            </physdesc>
+            <unitdate normal="1949/1960" type="inclusive">1949-1960</unitdate>
+            <abstract id="ref1" label="Abstract">These field notes, compiled by de Laguna and Catherine McClellan, include archaeological investigations, transcripts of interviews with informants, and sketches. Tlingit material taken primarily from Yakutat and Angoon; Copper River Atna (Ahtena) from Chitina, Copper Center, and Chistochina, Alaska.</abstract>
+            <physdesc id="ref15" label="General Physical Description note">6 microfilm reels.</physdesc>
+            <physloc id="ref16" label="Paging">LH-RR-Media Rm-3</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">De Laguna, Frederica, 1906-2004</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref14">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by Frederica De Laguna and Catherine McClellen and accessioned, 1962 (1962 2371mf). See in-house shelf list for additional accession numbers.</p>
+        </acqinfo>
+        <originalsloc id="ref3">
+            <head>Existence and Location of Originals note</head>
+            <p>Originals in:Possession of Frederica De Laguna and Catherine McClellan.</p>
+        </originalsloc>
+        <controlaccess>
+            <persname rules="aacr" source="naf">McClellan, Catharine</persname>
+            <subject source="ingest">Ahtena Indians</subject>
+            <geogname source="lcsh">Alaska--Languages</geogname>
+            <subject source="lcsh">Indians of North America</subject>
+            <genreform source="lcsh">Interviews.</genreform>
+            <genreform source="lcsh">Sketches.</genreform>
+            <subject source="lcsh">Tlingit Indians</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

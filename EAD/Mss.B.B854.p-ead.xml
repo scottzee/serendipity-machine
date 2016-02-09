@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.B854.p-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.B854.p</num>
+                </titleproper>
+                <author>Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:55-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>William Buckland papers, 1817-1848</unittitle>
+            <unitid>Mss.B.B854.p</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid381" type="Box" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>0.25 Linear feet</extent>
+                <extent>85 items.</extent>
+            </physdesc>
+            <unitdate normal="1817/1848" type="inclusive">1817-1848</unitdate>
+            <abstract id="ref1" label="Abstract">These are primarily scientific letters from Buckland. The subjects mentioned include Milne-Home's seismological investigations, Wheatstone's self-registering instruments, geology (glacial phenomena in Scotland, mineralogy, etc.), numerous references to fossils, and mentions of Mastodon bones and sloths.</abstract>
+            <physdesc id="ref4" label="General Physical Description note">85 items.</physdesc>
+            <physloc id="ref5" label="Paging">LH-MV-C-3</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Buckland, William, 1784-1856</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Burton, Edward, 1794-1836</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Cooper, William White</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Gibson, John, 1778-1840</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="local" role="Correspondent (crp)">Hutton, William, 1797-1860</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">König, Charles Dietrich Eberhard, 1774-1851</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Lubbock, J. W.,  (John William), 1803-1865</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Milne-Home, David, 1805-1890</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Murchison, Roderick Impey, Sir, 1792-1871</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Owen, Richard, 1804-1892</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Smyth, W. H.,  (William Henry), 1788-1865</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Sopwith, Thomas, 1803-1879</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Waterton , Charles, 1782-1865</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Wheatstone, Charles, Sir, 1802-1875</persname>
+            </origination>
+        </did>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>English cleric William Buckland worked as a geologist and vertebrate paleontologist. The first Reader of Geology, University of Oxford (from 1819), Buckland is most noted as the scientific discoverer of dinosaurs.</p>
+        </bioghist>
+        <acqinfo id="ref2">
+            <head>Immediate Source of Acquisition note</head>
+            <p>First accession, 1972. In-house shelf list with additional purchase information, accession numbers and dates.</p>
+        </acqinfo>
+        <odd id="ref6">
+            <head>Early American History Note</head>
+            <p>This manuscript collection falls outside the geographic scope of the Early American guide (British North America and the United States before 1840). It may be of interest to scholars interested in global history, international relations, imperialism, or the U.S. in the world.</p>
+        </odd>
+        <controlaccess>
+            <persname rules="aacr" source="naf">Darwin, Charles, 1809-1882</persname>
+            <subject source="leah">Beyond Early America</subject>
+            <subject source="lcsh">Fossils -- Collection and preservation.</subject>
+            <subject source="lcsh">Glaciers -- Scotland.</subject>
+            <subject source="lcsh">Mineralogy</subject>
+            <subject source="lcsh">Seismology -- Instruments.</subject>
+            <subject source="lcsh">Seismology -- Research.</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

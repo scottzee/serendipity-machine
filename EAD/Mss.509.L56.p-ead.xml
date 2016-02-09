@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.509.L56.p-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.509.L56.p</num>
+                    <num>Mss.509.L56.p</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T21:21-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Max Planck correspondence, 1919-1948</unittitle>
+            <unitid>Mss.509.L56.p</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid13311002" type="Box" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>60.0 Item(s)</extent>
+            </physdesc>
+            <unitdate normal="1919/1948" type="inclusive">1919-1948</unitdate>
+            <abstract id="ref2" label="Abstract">These letters are to and from Planck. Correspondents include Hans Thacher Clarke, Gerard Peter Kuiper, and Raymond John Seeger.</abstract>
+            <physdesc id="ref3" label="General Physical Description note">18 items.</physdesc>
+            <physloc id="ref183" label="Paging">LH-MV-B-11</physloc>
+            <origination label="creator">
+                <persname source="ingest">Planck, Max, 1858-1947</persname>
+            </origination>
+        </did>
+        <scopecontent id="ref184">
+            <head>Scope and Contents note</head>
+            <p>Material has been incorporated into Series III of the Scientists Collection, 509.L56.</p>
+        </scopecontent>
+        <acqinfo id="ref4">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by Hans T. Clarke and accessioned, 1964 (1964 2512ms).</p>
+        </acqinfo>
+        <bioghist id="ref5">
+            <head>Biographical/Historical note</head>
+            <p>Physicist Max Planck authored the quantum theory.</p>
+        </bioghist>
+        <controlaccess>
+            <persname source="ingest">Barton, Henry Askew, 1898-1983</persname>
+            <persname source="ingest">Clarke, Frieda</persname>
+            <persname source="ingest">Clarke, Hans Thacher, 1887-1972</persname>
+            <persname source="ingest">Kuiper, Gerard Peter, 1905-</persname>
+            <persname source="ingest">Richards, Alfred N.(Alfred Newton),1876-1966.</persname>
+            <persname source="ingest">Seeger, Raymond John, 1906-</persname>
+            <subject source="lcsh">Physics.</subject>
+            <subject source="lcsh">Science.</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

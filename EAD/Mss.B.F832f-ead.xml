@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.F832f-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.F832f</num>
+                </titleproper>
+                <author>Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T19:17-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Fox Family papers, ca. 1690-1915</unittitle>
+            <unitid>Mss.B.F832f</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid64091" type="Box" label="Manuscripts">1-4</container>
+            <physdesc>
+                <extent>2.0 Linear feet</extent>
+            </physdesc>
+            <unitdate normal="1690/1915" type="inclusive">1690-1915</unitdate>
+            <physdesc id="ref3" label="General Physical Description note">2 linear feet.</physdesc>
+            <abstract id="ref1" label="Abstract">The collection contains information on Fox family speculation in western lands, two manuscript maps from the 1790's and 1830's depicting the family's holdings in northwestern Pennsylvania, and a photograph album from the 1890's documenting Chestnutwold, the Fox estate adjacent to Andalusia. Chief correspondents are Samuel and George Fox.</abstract>
+            <physloc id="ref5" label="Paging">LH-B-17-4</physloc>
+            <origination label="creator">
+                <famname rules="aacr" source="local" role="Author (aut)">Fox family</famname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="local" role="Correspondent (crp)">Fox, George, 1759-1828</persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Fox, Samuel, 1794-1874</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref2">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Gift of Sam Fox, 2001. The papers came to the APS along with a collection of 200 books belonging to Samuel and George Fox.</p>
+            <p></p>
+        </acqinfo>
+        <odd id="ref4">
+            <head>Early American History Note</head>
+            <p>This collection contains information on the prominent Philadelphian Fox family with a large portion of the collection focusing on the family’s land holdings and business dealings. George Fox was a close friend of William Temple Franklin, who bequeathed to Fox his grandfather’s papers. George Fox was a doctor educated at the University of Pennsylvania. His brother Samuel was a businessman. Samuel’s son Charles became a doctor. The collection reflects various papers relating to the lives and careers of these three men.</p>
+            <p>Most of the loose papers deal with lands that George and Samuel Fox owned or managed for others and are legal in nature. The Fox family’s land dealings brought them into contact and sometimes partnership with many prominent individuals, such as Henry Lee, James Wilson and the Cadwalader and Hockley families. There are extensive account and receipt books from the 1780s, 1790s, and early nineteenth century. There is some personal correspondence as well, but the majority is related to land dealings.</p>
+            <p>The other miscellaneous papers are bound volumes that include a written guide on proper manners, recipes, tickets for medical lectures, Samuel Fox’s oath of allegiance from 1777, a commonplace/account book of Samuel Fox, and a journal of a European tour in 1785, probably of George Fox.</p>
+            <p>This collection is noteworthy for surveys of Western Pennsylvania drawn between the 1790s and the 1830s. The collection also contains a late nineteenth century photograph album of historic houses, nature scenes, California, and property the Fox family owned called Chesnutwood on the outskirts of Philadelphia near Andalusia.</p>
+        </odd>
+        <controlaccess>
+            <subject source="leah">Americans Abroad</subject>
+            <subject source="leah">Business and Skilled Trades</subject>
+            <genreform source="leah">Commonplace Book</genreform>
+            <genreform source="lcsh">Correspondence.</genreform>
+            <genreform source="leah">Diaries</genreform>
+            <subject source="leah">Education</subject>
+            <genreform source="leah">Educational Material</genreform>
+            <genreform source="leah">Family Correspondence</genreform>
+            <genreform source="leah">General Correspondence</genreform>
+            <subject source="leah">International Travel</subject>
+            <subject source="leah">Land and Speculation</subject>
+            <subject source="leah">Law</subject>
+            <subject source="leah">Literature, Arts, and Culture</subject>
+            <genreform source="leah">Maps and Surveys</genreform>
+            <genreform source="lcsh">Maps.</genreform>
+            <subject source="leah">Marriage and Family Life</subject>
+            <subject source="leah">Medicine</subject>
+            <subject source="leah">Pennsylvania History</subject>
+            <genreform source="lcsh">Photographs</genreform>
+            <subject source="leah">Social Life and Custom</subject>
+            <subject source="leah">Surveying and Maps</subject>
+            <genreform source="leah">Travel Narratives and Journals</genreform>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

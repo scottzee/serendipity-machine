@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.P252-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.P252</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T19:50-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>William Parsons material, [1941-1947, n.d.]</unittitle>
+            <unitid>Mss.B.P252</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1460" type="Box" label="Manuscripts">1-2</container>
+            <physdesc>
+                <extent>1.0 Linear feet</extent>
+            </physdesc>
+            <unitdate normal="1941/1947" type="inclusive">Circa 1941-1947</unitdate>
+            <physdesc id="ref9" label="General Physical Description note">1 linear foot.</physdesc>
+            <physloc id="ref15" label="Paging">LH-MV-E-3</physloc>
+            <abstract id="ref1" label="Abstract">This collection contains biographical material on William Parsons, a Pennsylvania soldier, surveyor, and proprietary agent of the provincial government and Thomas Penn. It is arranged by repositories and collections containing information on Parsons (including the Historical Society of Pennsylvania, Haverford College, and the Horsfield Papers at the American Philosophical Society). There are transcripts from sources, photostats, notes, and microfilm.</abstract>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Wallace, Anthony F. C., 1923- </persname>
+            </origination>
+        </did>
+        <altformavail id="ref8">
+            <head>Existence and Location of Copies note</head>
+            <p>Part of this collection is on microfilm (Film 534).</p>
+        </altformavail>
+        <odd id="ref14">
+            <head>General note</head>
+            <p>Original card says that collection includes a map. (Not located)</p>
+        </odd>
+        <scopecontent id="ref10">
+            <head>Scope and Contents note</head>
+            <p>Includes occasional references to Indian affairs; research notes; and a translation of the Walum Olum, different from Rafinesque, Squier, or Brinton.</p>
+        </scopecontent>
+        <acqinfo id="ref7">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by Anthony F. C. Wallace, 1951.</p>
+        </acqinfo>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>Anthony F. C. Wallace is an anthropologist.</p>
+        </bioghist>
+        <processinfo id="ref13">
+            <head>Processing Information note</head>
+            <p>Inventory not complete, only scanned image noted.</p>
+        </processinfo>
+        <controlaccess>
+            <persname source="ingest">Parsons, William, 1701-1757</persname>
+            <subject source="lcsh">Indians of North America</subject>
+            <genreform source="lcsh">Notes.</genreform>
+            <geogname source="lcsh">Pennsylvania -- History -- 18th century.</geogname>
+            <subject source="lcsh">Surveyors -- Pennsylvania.</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref11" level="item">
+                <did>
+                    <unittitle>King Hendrick</unittitle>
+                    <physdesc>
+                        <extent>Part A</extent>
+                    </physdesc>
+                    <unitdate>1970</unitdate>
+                    <abstract id="ref12" label="Abstract">Pencil sketch portrait of King Hendrick (Thoyanoguen), Mohawk chief, in native attire, head-dress, ornaments, and holding hatchet.</abstract>
+                    <origination label="creator">
+                        <persname source="ingest">Wallace, Betty (Shillot)</persname>
+                    </origination>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="embed" ns2:title="King Hendrick " ns2:role="Image-Service" ns2:href="http://diglib.amphilsoc.org/fedora/repository/graphics:4879">
+                    <daodesc>
+                        <p>King Hendrick , 1970 </p>
+                    </daodesc>
+                </dao>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

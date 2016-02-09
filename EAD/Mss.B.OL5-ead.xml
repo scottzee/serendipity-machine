@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.OL5-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.OL5</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T19:48-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="item">
+        <did>
+            <unittitle>Notes taken from Professor Olmsted's lectures on natural philosophy, 1827-1829</unittitle>
+            <unitid>Mss.B.OL5</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1453" type="Volume" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>1.0 Volume(s)</extent>
+                <extent>1 volume, 141 p. </extent>
+            </physdesc>
+            <unitdate normal="1827/1829" type="inclusive">1827-1829</unitdate>
+            <physdesc id="ref6" label="General Physical Description note">1 volume, 141 p.</physdesc>
+            <abstract id="ref1" label="Abstract">These classroom notes, taken by an unidentified student, present the state of knowledge in natural philosophy, especially astronomy, during these years. There are mentions of many contemporary scientists, and much on Newton and Newtonian philosophy.</abstract>
+            <physloc id="ref8" label="Paging">LH-MV-E-15</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Olmsted, Denison,1791-1859.</persname>
+            </origination>
+        </did>
+        <odd id="ref7">
+            <head>Early American History Note</head>
+            <p>This volume contains lecture notes from Denison Olmsted’s class on natural philosophy at Yale University, 1827-1829. Discussions include astronomy, physics, principles of machinery, and Isaac Newton.</p>
+        </odd>
+        <acqinfo id="ref5">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Purchased from the Americanist ($55.00) and accessioned, 02/19/1982 (1982 340ms).</p>
+            <p></p>
+        </acqinfo>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>Denison Olmsted taught mathematics, natural philosophy, and astronomy at Yale College from 1825-1859.</p>
+        </bioghist>
+        <controlaccess>
+            <persname source="naf">Newton, Isaac, Sir, 1642-1727</persname>
+            <corpname source="ingest">Yale University.</corpname>
+            <subject source="lcsh">Astronomy.</subject>
+            <subject source="leah">Education</subject>
+            <genreform source="leah">Educational Material</genreform>
+            <genreform source="lcsh">Lecture notes.</genreform>
+            <subject source="leah">Natural History</subject>
+            <genreform source="leah">Notebooks</genreform>
+            <subject source="lcsh">Physics.</subject>
+            <subject source="lcsh">Science -- Study and teaching (Higher) -- 19th century.</subject>
+            <subject source="leah">Science and Technology</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

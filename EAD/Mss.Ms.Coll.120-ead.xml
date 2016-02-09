@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Ms.Coll.120-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Ms.Coll.120</num>
+                </titleproper>
+                <author>Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T20:26-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Ward H. Goodenough Papers, ca. 1940s-1990s</unittitle>
+            <unitid>Mss.Ms.Coll.120</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid71983" type="Box" label="Manuscripts">1-138</container>
+            <physdesc>
+                <extent>69.0 Linear feet</extent>
+            </physdesc>
+            <unitdate normal="1940/1999" type="inclusive">1940-1999</unitdate>
+            <physdesc id="ref4" label="General Physical Description note">69 linear feet.</physdesc>
+            <abstract id="ref1" label="Abstract">The papers of anthropologist Ward Goodenough cover his whole career, most of it spent in the Department of Anthropology at the University of Pennsylvania. After service in army during WW II, Goodenough received a Ph.D. from Yale in 1949. He conducted field research from 1947 to 1965, working at Chuuk (Truk), the Gilberts, Papua New Guinea, and New Britain. The collection is particularly important in showing how linguistic theory can help further anthropological theory.</abstract>
+            <physloc id="ref5" label="Paging">LH-SB-21-3</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Goodenough, Ward H., 1919-</persname>
+            </origination>
+        </did>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>Anthropologist Ward Goodenough has ably bridged the gap between traditional ethnology and studies of cultural change. Born in Cambridge, Massachusetts in 1919, he was educated at Cornell and Yale Universities and taught at the University of Wisconsin from 1945-49 before joining the faculty at the University of Pennsylvania. He was appointed professor of anthropology in 1962 and became University Professor Emeritus in 1989. Dr. Goodenough's interests include cultural and linguistic anthropology; social organization; anthropology of law; culture theory; and semantics. He has conducted extensive fieldwork in Oceania, from Micronesia to New Guinea, and he has served as a fellow at the Center for Advanced Study in the Behavioral Sciences at Stanford (1958), as president of the American Ethnological Association (1962) and the Society for Applied Anthropology (1963), and as editor of The American Anthropologist (1966-70). His publications include Property, Kin and Community of Truk (1951), Native Astronomy in the Central Carolinas. (1953) and Cooperation in Change (1963). Along with his anthropological work, Dr. Goodenough also writes poetry and composes music.</p>
+        </bioghist>
+        <acqinfo id="ref2">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by Ward Goodenough, 2002-2007.</p>
+        </acqinfo>
+        <relatedmaterial id="ref6">
+            <head>Related Archival Materials note</head>
+            <p>APS possesses the papers of a few of Ward Goodenough's colleagues in the department of anthropology at the University of Pennsylvania. See also the papers of Dell Hymes (
+                <extref ns2:actuate="onLoad" ns2:show="new" ns2:href="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Ms.Coll.55-ead.xml">Mss.Ms.Coll.55</extref>), Ruben Reina (
+                <extref ns2:actuate="onLoad" ns2:show="new" ns2:href="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Ms.Coll.67-ead.xml">Mss.Ms.Coll.67</extref>), and Anthony Wallace (
+                <extref ns2:actuate="onLoad" ns2:show="new" ns2:href="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Ms.Coll.64a-ead.xml">Mss.Ms.Coll.64</extref>).</p>
+        </relatedmaterial>
+        <controlaccess>
+            <subject source="ingest">Anthropology--Research</subject>
+            <subject source="lcsh">Linguistic theory</subject>
+            <subject source="lcsh">Linguistics.</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

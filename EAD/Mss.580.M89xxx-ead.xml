@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.580.M89xxx-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.580.M89xxx</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T18:21-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Writings on botany and natural history, 1784-1813</unittitle>
+            <unitid>Mss.580.M89xxx</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="ger"/>
+            </langmaterial>
+            <container id="cid964" type="Volume" label="Manuscripts">1-24</container>
+            <physdesc>
+                <extent>24.0 Volume(s)</extent>
+            </physdesc>
+            <unitdate normal="1784/1813" type="inclusive">1784-1813</unitdate>
+            <abstract id="ref1" label="Abstract">Written in Latin or German script, and in a small hand, this great mass of materials, probably of considerable significance, has seldom been used and never entirely studied with care. The volumes are listed in essentially chronological order.</abstract>
+            <physdesc id="ref12" label="General Physical Description note">24 volumes.</physdesc>
+            <physloc id="ref97" label="Paging">LH-MV-E-16</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Muhlenberg, Henry, 1753-1815</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref9">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by Henry Muhlenberg, 1785 [No. 3 only: Calendarium florae, 1785. 1 vol.] and Rev. Frederick A. Muhlenberg, 1890.</p>
+            <p></p>
+        </acqinfo>
+        <odd id="ref5">
+            <head>General note</head>
+            <p>For some information on the manuscripts and their author, see C. Earle Smith, Jr. "Henry Muhlenberg--Botanical Pioneer," American Philosophical Society Proceedings 106(1962):443-460.</p>
+        </odd>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>Henry Muhlenberg (also known as Gotthilf Heinrich Ernst Muhlenberg) was a Lutheran clergyman whose avocation was botany. He was well known on both sides of the Atlantic Ocean for his botanical work. He lived in Lancaster, Pennsylvania, and studied the flora there, keeping several volumes of notes.</p>
+        </bioghist>
+        <scopecontent id="ref96">
+            <head>Scope and Contents note</head>
+            <p>These journals are now incorporated into BM891 Series II.</p>
+        </scopecontent>
+        <controlaccess>
+            <persname rules="aacr" source="naf">Rafinesque, C. S.,  (Constantine Samuel ), 1783-1840 </persname>
+            <subject source="lcsh">Agriculture -- United States.</subject>
+            <subject source="lcsh">Botany.</subject>
+            <subject source="lcsh">Fungi.</subject>
+            <subject source="lcsh">Grasses.</subject>
+            <genreform source="lcsh">Journals (notebooks).</genreform>
+            <geogname source="lcsh">Lancaster (Pa.) -- Description and travel.</geogname>
+            <subject source="lcsh">Lichens.</subject>
+            <subject source="lcsh">Meteorology -- Observations.</subject>
+            <subject source="lcsh">Natural history.</subject>
+            <subject source="lcsh">Plants.</subject>
+            <subject source="lcsh">Shrubs.</subject>
+            <genreform source="lcsh">Sketches.</genreform>
+            <subject source="lcsh">Trees.</subject>
+            <subject source="lcsh">Zoology -- Vermont.</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Ms.Coll.142</num>
+                </titleproper>
+                <author>Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T20:30-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc audience="internal" level="collection">
+        <did>
+            <unittitle>William O. Bright Papers</unittitle>
+            <unitid>Mss.Ms.Coll.142</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid119971" type="Box" label="Manuscripts">1-75</container>
+            <physdesc>
+                <extent>58.0 Linear feet</extent>
+            </physdesc>
+            <unitdate normal="1950/2000" type="inclusive">1950-2000</unitdate>
+            <physdesc id="ref3" label="General Physical Description note">Circa 58 linear feet.</physdesc>
+            <abstract id="ref2" label="Abstract">Collection consists of correspondence, notebooks, card files, and reprints.</abstract>
+            <physloc id="ref4" label="Paging">LH-SB-28-6</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Bright, William, 1928-2006</persname>
+            </origination>
+        </did>
+        <bioghist id="ref1">
+            <head>Biographical/Historical note</head>
+            <p>American linguist William O. Bright studied Native American tongues and worked to preserve the language of California's Karuk tribe. Among the first professors of linguistics at UCLA, he taught at the University for 29 years, retiring in 1988. For 21 years, through 1987, he was editor of Language, the journal of the Linguistic Society of America.</p>
+            <p>He wrote more than 200 books, articles and reviews, including several dictionaries of Native American languages that were on the brink of disappearing and books on the origin of place names in California and elsewhere. His work preserving the Karuk language, begun at age 21, ultimately led the tribe to make Bright its first honorary member in the days before his death.</p>
+            <p></p>
+        </bioghist>
+        <controlaccess>
+            <subject source="lcsh">Karok language</subject>
+            <subject source="lcsh">Karuk Indians  </subject>
+            <subject source="lcsh">Native American linguistics</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref5" level="series">
+                <did>
+                    <unittitle>Digital Materials</unittitle>
+                </did>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

@@ -1,0 +1,765 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.B.Sa95.g-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.B.Sa95.g</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T19:59-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Thomas Say papers, 1819-1883, 1955</unittitle>
+            <unitid>Mss.B.Sa95.g</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1579" type="Box" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>0.25 Linear feet</extent>
+                <extent>Ca. 102 items</extent>
+            </physdesc>
+            <unitdate normal="1819/1883" type="inclusive">1819-1883</unitdate>
+            <physdesc id="ref10" label="General Physical Description note">Ca. 102 items.</physdesc>
+            <abstract id="ref1" label="Abstract">Consists of material chiefly on natural history, shells, and insects, including miscellaneous notes on conchology by Say; photostats of 6 letters from Say to Jacob Gilliams, 1819-1829, from Morristown, New Jersey; and a biographical note on Say. The drawings and impressions of shells are by Mrs. Lucy Way Sistaire Say, prepared for W. G. Binney's edition of Say's complete works on conchology, 1858; also Mrs. Say's refutation of what she considered an unfair attack in George Ord's memoir of Say. Correspondents include André Etienne Férussac, Arthur F. Gray, John Lawrence LeConte, and Charles W. Short. An additional item is a memorial volume (ca. 150 pp.), including a family genealogy and land surveys in watercolor (B Sa95f).</abstract>
+            <physloc id="ref130" label="Paging">LH-MV-C-15; LH-MV-E-6 (B Sa95f)</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Author (aut)">Say, Thomas, 1787-1834</persname>
+            </origination>
+        </did>
+        <relatedmaterial id="ref9">
+            <head>Related Archival Materials note</head>
+            <p>Associated materials in American Philosophical Society.</p>
+        </relatedmaterial>
+        <acqinfo id="ref5">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Received and accessioned, 1961 (1961 613ms). See in-house shelf list for additional accession numbers and information.</p>
+        </acqinfo>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>Thomas Say (1787-1834, APS 1817) was a naturalist, entomologist, conchologist and explorer. He was a co-founder of the Academy of Natural Sciences of Philadelphia in 1812 and curator and editor of the Academy’s journal. He was Professor of Natural History at the University of Pennsylvania in 1822 and the author of two pioneering works, 
+                <emph render="italic">American Entomology</emph> (3 vols., 1824-28) and 
+                <emph render="italic">American Conchology</emph> (7 pts.,1830-36), the first books published on these subjects in America. Say married Lucy Way Sistare in 1827 and ied in New Harmony, Indiana in 1834.</p>
+            <p>The son of physician-apothecary Bejamin Say and his wife Ann Bonsall, granddaughter of the botanist John Bartram (1699-1777, APS 1743), Thomas Say was born in Philadelphia, Pennsylvania on June 27, 1787. His mother died when Say was six. Say’s connections with his great-uncle naturalist William Bartram (1739-1823, APS 1768), Bartram’s friend and neighbor the ornithologist Alexander Wilson (1766-1813, APS 1813) and Charles Wilson Peale (1741-1827, APS 1786), whose museum in the State House contained important shell and insect collections, inspired the young Say to study natural history. He was an “indifferent” student at the Westtown (Friends) Boarding School, where he studied for three years. Say’s father discouraged him from the pursuit of natural history, trying to interest him instead in the family apothecary business. Both his grandfather Thomas and his father Benjamin were physician-apothecaries who had founded hospitals, and from 1802-1812, Thomas helped his father in the apothecary shop and at his father’s suggestion studied medicine at the University of Pennsylvania medical school, probably taking courses with Dr. Say’s colleagues Caspar Wistar (1761-1818, APS 1787) and Benjamin Rush (1745-1813, APS 1768).</p>
+            <p>Sometime around 1812 Say entered into partnership with apothecary John Speakman; however, the poor business acumen soon caused the enterprise to fail. In the meantime, in 1812, Say and six friends founded the Academy of Natural Sciences of Philadelphia (ANSP) for “the advancement and diffusion of useful, liberal, human knowledge.” After being named curator of the new institution and editor of its Journal, Say dedicated himself exclusively to the study of natural history, abandoning his unsuccessful career as an apothecary. After his father’s death, Say lived frugally, sleeping at the Academy, tending its small museum, studying his own collection. In the fall of 1814 Say, a member of a family of “fighting Quakers,” enlisted as a dragoon in the First Troop of the Philadelphia City Cavalry in the War of 1812 and was stationed briefly at Mount Bull at the head of the Chesapeake Bay to monitor enemy troop movements.</p>
+            <p>Afterward, from 1817 until 1825 Say was as an explorer on several private and government-sponsored expeditions to the southeastern and western portions of the United States, or what was to become the United States. During 1817-1818 Say accompanied Scottish geologist William Maclure, the new president and benefactor of the Academy of Natural Sciences, on an expedition of the coastal islands of Georgia and Spanish Florida along with the young naturalist and scientific illustrator Titian Peale (1799-1885, APS 1833) and Academy Vice-President George Ord (1781-1866, APS 1817). Although thwarted by hostile Indians, the 1817 Florida Expedition was the first privately funded collecting endeavor of its kind and established a model for American natural history museums by observing and collecting many new species. Results of the expeditions were presented in oral reports and in publications of the newly-founded 
+                <emph render="italic">Journal of the Academy of Natural Sciences</emph>, edited by Say.</p>
+            <p>In 1819-20, Say served as chief zoologist on Major Stephen H. Long’s (1784-1864, APS 1823) expedition to the Rocky Mountains, during which he named and described many hitherto unknown species of birds, mammals, reptiles, insects and shells. Say also studied the culture of Native American tribes in the area and was particularly sympathetic to the symbiotic relationship between these indigeneous peoples and the wildlife of the region.</p>
+            <p>In 1821, Say became curator of the American Philosophical Society and then professor of natural history (including geology) at the University of Pennsylvania in 1822. The following year he joined another expedition of Major Long as zoologist and “antiquary” (paleontologist) to St. Peter’s River at the headwaters of the Mississippi. The expedition moved as far north as Lake of the Woods in Canada and across the northern portion of Lake Superior. Say collected enough insect specimens to accurately represent North America in his 
+                <emph render="italic">American Entomology, or Descriptions of the Insects of North America</emph> (3 vols, 1824-28). The first part, with illustrations by Titian Peale, Hugh Bridport, and Charles Alexandre Lesueur (1778-1846, APS 1817) and William Wood, was published in Philadelphia and established Say’s reputation as the preeminent American zoologist.</p>
+            <p>Say’s life took a fateful turn as he and Lesueur accompanied Maclure to visit Robert Owen’s utopian community of New Harmony, Indiana. Maclure, who was interested in social and educational reform, had visited Owen’s model factory and school in Scotland one year earlier and helped him purchase the land for the New Harmony community on the banks of the Wabash River. After the arrival of Maclure, Say and other Philadelphia scientists and educators in January 1826 on the famous “Boatload of Knowledge,” the educational program at New Harmony was organized under the aegis of the School Society over which Maclure soon gained financial control. Maclure’s plan was to make the New Harmony school an institute for scientific instruction, and he wanted Say to administer it. As a result, Say, who was completely dependent upon his patron Maclure for his livelihood, spent the remainder of his life in New Harmony, except for a trip to Mexico with Maclure in 1827-28 and a brief visit to Philadelphia. As the utopian community gradually dissolved through internal strife, Maclure transformed the school into a center for scientific research, complete with a school press and a journal entitled the
+                <emph render="italic">Disseminator of Useful Knowledge</emph>.</p>
+            <p>In January 1827 Say married Lucy Way Sistare, a teaching apprentice at the Pestalozzian school in Philadelphia opened by Marie Duclos Fretageot in 1823. Say’s ANSP colleague, the naturalist/artist Lesueur, taught drawing at the school, and Sistare received instruction from him as well as from John James Audobon (1785-1851, APS 1831). She had gotten to know many naturalists through Fretageot’s school and thereby became involved in the plans of Maclure, Say, and other members of the Academy to help establish an Owenite utopian community at New Haromony, Indiana. On the way to New Harmony Sistare became acquainted with Say, thirteen years her senior, and the two married on January 4, 1827. The couple had no children of their own, although Lucy taught drawing to some of the Owenite children.</p>
+            <p>Say continued his work of describing insects and mollusks in New Harmony, completing the publication of the final volumes of his 
+                <emph render="italic">American Entomology</emph> and his 
+                <emph render="italic">American Conchology, or Descriptions of the Shells of North America Illustrated From Coloured Figures From Original Drawings Executed from Nature</emph>(Parts 1-6, New Harmony, 1830-34; Part 7, Philadelphia, 1836). His wife Lucy Way Sistare Say illustrated much of her husband’s 
+                <emph render="italic">American Conchology</emph>, rendering sixty-six of the work’s sixty-eight plates, and adding the color to individual impressions in painstaking detail.</p>
+            <p>Conditions at New Harmony as well as the isolation Say experienced there took their toll on his morale and eventually his health. Worn out by stomach, liver and intestinal problems, Say succumbed to typhoid fever and died on October 10, 1834 at the age of 46.</p>
+            <p>Thomas Say has been called the “father of American descriptive zoology.” He made numerous contributions to American science. His pioneering works on entomology and conchology established those sciences in the United States. He named approximately 1,500 new North American insects, preparing the ground for the identification of disease carriers such as the American dog tick (which carries Rocky Mountain Fever) and a mosquito species found to carry malaria. Say was the first to describe crop- damaging insects such as the chinch bug, Colorado potato beetle, peach tree borer, walkingstick, and Hessian fly, among others. Fellow entomologists praised his invertebrate descriptions. In 1840 German entomologist Wilhelm Ferdinand Erichson wrote that “in brevity I see that no one excels the American Say, who published descriptions so concise that they hardly go beyond the extent of diagnosis, nevertheless, so clear that you will hardly ever find doubtful a form exhibited by him.” He also described and classified more than twenty-five mollusks that have proven to have medical significance, such as the North American freshwater mollusk 
+                <emph render="italic">Pomatiopsis lapidaria</emph>, a potential transmitter of the disease schistsomiasis, and the snail 
+                <emph render="italic">Helisoma bicarinatus</emph> that carries cattle disease.</p>
+            <p>One of Say's most innovative insights appeared in his 1818 article on fossilized shells for Benjamin Silliman’s 
+                <emph render="italic">American Journal of Science and Arts</emph>in which he suggests the use of the fossil record for dating rock strata. Perhaps most significant were his labors at establishing the independent authority of American scientists to name and describe their own flora and fauna, without sending specimens to Europe.</p>
+            <p>During his lifetime, Say was elected to membership in several scientific organizations, including the American Philosophical Society in 1817 (serving as its curator in 1821), the Société Philomatique of Paris in 1818 and the Linnean Society of London in 1830.</p>
+        </bioghist>
+        <scopecontent id="ref128">
+            <head>Scope and Contents Note</head>
+            <p>The Thomas Say Papers consist of correspondence, notes and drawings chiefly on natural history, shells, and insects by Say and his wife Lucy Way Sistaire Say, including miscellaneous notes on conchology. The collection also contains an anonymous biographical note on Say. The drawings and impressions of shells are by Mrs. Say, prepared for W. G. Binney's edition of Say's complete works on conchology, 1858.</p>
+            <p>Correspondents include André Etienne Férussac, Jacob Gilliams, Charles W. Short, Arthur F. Gray, John Lawrence Le Conte, and others. Two of Thomas Say’s most frequent American correspondents in this collection are the Philadelphia dentist Jacob Gilliams (1819-1829) with whom he had once lodged, and the Kentucky physician-botanist Charles Wilkins Short (1831-34). There are photostats of 6 letters from Thomas Say to Jacob Gilliams. The first of Say’s letters to Gilliam is dated April 17, 1819, while he was serving as chief zoologist for Major Stephen H. Long’s expedition to the Rocky Mountains up the Missouri and Platte Rivers in order to explore the Louisiana Purchase territory. Say provides a detailed description his quarters in the steamboat, christened the Western Engineer, that had been especially designed by Long to navigate the narrow, shallow channels of the Missouri River and transport the crew of scientific specialists. Say reports, “We are busily occupied with the preparations for our departure, which will probably take place on Wednesday or Thursday next; we are highly pleased with our Steamboat though we have not yet had a trial of her speed; our cabin is neat &amp; accommodations , &amp; everything is so contrived as to be condensed into the smallest space.”</p>
+            <p>The other letters to Gilliam were sent from New Harmony, Indiana, the Owenite utopian community, where Say lived out the final years of his life, as administrator of the New Harmony school and editor of its press and journal. In a letter dated June 9, 1827 Say describes his on-going endeavor of writing the American Entomology , the first part of which he published in Philadelphia with illustrations by Titian Peale and Charles Alexandre Lesueur. He says that “With respect to the ‘American Entomology’ I feel much obligated to Mr. Mitchell &amp; am determined that, as far as depends on me, he shall not sustain any loss, if I can prevent it. Be so good as to tell him that I will continue to write the work here, as I did in Philadelphia &amp; Mr. Tybout will engrave the plates here from the designs of Mr. Lesueur, &amp; his son &amp; daughter will print &amp; color them as heretofore; the expense of transportation will be comparatively trifling.”</p>
+            <p>Say’s letters to Dr. Charles Wilkins Short, a professor of botany at Transylvania University in Lexington, Kentucky, concern the identification of botanical specimens in the collection of Say’s wife Lucy; and Say’s on-going work on the American Conchology, which was completed posthumously in 1836. In a letter from New Harmony dated July 19, 1831 Say asks Short whether any copies of [Constantine] Rafinesque’s Observations on Unio &amp;c [a study of mussels] are available in Lexington, since Rafinesque had served as professor of botany at Transylvania University in Lexington from 1819-1826. Say states that “I named some of my shells by his book in Philadelphia, but some of the labels are I fear misplaced, &amp; I have made great accessions since. This work I am very anxious to get, to avoid the multiplication of synonyms.” With these letters is a typed memo by Mary Effie Cameron James, dated June 1955, reagarding Say's letters to Dr. Short.</p>
+            <p>Thomas Say’s primary European correspondent was baron Andre Etienne Ferussac, a French naturalist and conchologist, best known for his studies of mollusks. The Say-Ferussac correspondence, comprises a total of nine letters and spans the years 1820-1834. Ferussac writes in his native French, while Say responds in English. The correspondence arose in connection with Say’s work as editor of the Journal of the Academy of Natural Sciences. Baron Hyde de Neuville of Paris had submitted a book prospectus of Ferussac’s Histoire general pour tous les mollusques terrestres ou fluviates to the Journal , but also mentioned that the author wished to exchange specimens of French for American mollusks. As a result, Say immediately sent him a large box of shells. (Stroud, 51-52.) The detailed letters that follow are largely taken up with naming and description, as well as references to the scholarly literature of conchology and entomolgy. A typical letter is one that Say addressed to Ferussac from Philadelphia on June 5, 1824. “The campanulatus never occurs near Philadelphia where the bicarinatus is abundant. As far as I have been able to ascertain the former inhabits our lakes &amp; the water’s tributary or neighbouring to them but not elsewhere, the bicarinatus not only inhabits those same waters, but is also found plentifully in our eastern &amp; southern waters. “ He then refers Ferussac to a plate, illustrating the shell in “the Trans[actions] of the Linn[ean] Soc[iety] of London, Vol. 13. pl[ate] 5 fig[ure] 1” which provides the “old school name of Helix angulata, [while] this figure agrees very well with the P. bicarinatus &amp; is no doubt the same.” The substance of Ferussac’s letter of November 3, 1824 is very much like Say’s. Among other things, he asks the American conchologist if he is aware of Rafinesque’s monograph on the fluviatile bivalve shells of the Ohio River, since he would like to obtain it. In a letter to Ferussac in May, 1825 Say answers Ferussac’s correspondence of October 3, 1824, evidently complying with his request that copies of his American Entomology be sent to General [the Comte] Dejean to Mr. Desmarest. The scientific correspondence from the latter half of the nineteen century in this collection, several decades after Thomas Say’s death in 1834, is between Say’s widow Lucy Way Sistaire Say and entomologists such as John Lawrence LeConte and Ohio conchologist Arthur F. Gray. The June, 1860 correspondence between Lucy Say and LeConte focuses on the unflattering remarks in George Ord’s biographical memoir of Say included in LeConte’s edition of Say’s Complete Writings on the Entomology of North America. In a June 25 letter she expressed the wish that the published memoir, based upon Ord’s address before the American Philosophical Society a quarter century earlier, might have “some slight modification,” since “This address gave umbrage at that time to so many of Mr. Say’s personal friends, that their united objection . . . caused it to be withdrawn from publication.” Mrs. Say took particular exception with Ord’s “assumption” of Say’s “deficiency in elementary learning on his arrival at manhood, and his indifference to polite or classical literature.” LeConte’s curt response defends the publication, arguing that Mrs. Say’s “cavils” are overblown, and that Say’s great “reputation coextensive with science,” when compared to Ord’s relative obscurity was sufficient refutation.</p>
+            <p>There is also a group of eight letters between Mrs. Say and Arthur F. Gray, dating from January 6-May 15, 1883, about three years before her death. Mrs. Say summarizes the purpose of the correspondence in a brief note of January 16. “I have made up a parcel of the original drawings, etc. which a friend will forward from the city to you. I hope you will receive them in the spirit in which they are sent-the hope there may be found in the chaotic mass a few which will prove of interest . . . . I have made you the receiver of the contents of my portfolio which was made the depository of these studies a half century since, and many times I have wished to know what to do with them. I am quite happy now in the thought I have kept them for a purpose.” Gray’s letters of January 20 and February 6 offer not only gratitude, but some analysis of the collection of drawings and correspondence. In the letter of February 6, dispatched from Cincinnati Gray describes the continued relevance of the Say manuscripts. “In looking over the drawings . . . I find several as yet unpublished, and which throw much light upon the validity of certain species which have given rise to some doubts through the mistaken conclusions of Dr. Isaac Leea, who seems to wish to be considered as the sole authority upon American Uniouidac, among such is the original drawing of Unio subrostratus of which only a description was published by Mr. Say and afterwards by you after his death.”</p>
+            <p>In addition to the Says’ correspondence, the collection also contains a folder of “Miscellaneous notes on conchology, etc..” A majority of the sixty-eight notes focus on conchology, but reflect the naturalist’s other interests, as well. One four page chart is described as “An attempt to exhibit a synonymy of the western North American species of the genera Unio &amp; Alamodonta,” while another sheet appears to be a classification of mollusks broken down into columns by the naturalists, who discovered and named them. These include Say, Rafinesque. Barnes, Leea and Swainson, among others. Other notes, mostly on smaller scrapes of paper, include a list of “Minerals from Chester County, PA” from a Mr. G. Peirce and a memorandum entitled “Extraneous Fossils”. Say remarks that “The River Ohio at Louisville falls over a bed of rocks which abound to an extraordinary degree with organic remains. In this vicinity nearly opposite to the town of Shippensburg is Rock Island, where the numbers of these remains may be satisfactorily observed.”</p>
+            <p>The collection also contains an anonymous “Biographical note about Thomas Say, 1787-1834,” that is based upon the sketch by Dr. Benjamin H. Coates read before the Academy of Natural Sciences in 1835, as well as a three page genealogical note.</p>
+            <p>Finally, there are sixty-two detailed original drawings of shells by Lucy Way Sistaire Say, together with several by Charles-Alexandre Lesueur, upon which the engravings for the American Conchology were based. Many files contain an original drawing, while some contain engravers proofs, as well.</p>
+        </scopecontent>
+        <odd id="ref129">
+            <head>Early American History Note</head>
+            <p>The Thomas Say Collection contains correspondence and scientific material relating to Say’s work as a conchologist. The correspondence has a few items written to the New Harmony utopian community before Say decided to live there. The scientific correspondence contains letters to prominent fellow natural historians, such as Charles Lucien Bonaparte. The data includes sketches of shells, some in color. There is also a relatively detailed biographical profile, likely written in the late-nineteenth century.</p>
+            <p>In addition to the Thomas Say Papers, the collection contains a bound volume (B Sa95f) prepared by a Say descendent that details the family’s land holdings in western Pennsylvania and Virginia in the early republic. The Say’s came from a prominent Philadelphia merchant family who, like many others, speculated in western lands. This volume contains color surveys and descriptions of lands.</p>
+        </odd>
+        <controlaccess>
+            <famname source="ingest">Férussac, André-Etienne-Just-Pascal-Joseph-Francois d'Audebard, -- baron de, -- 1786-1836.</famname>
+            <persname rules="aacr" source="local">Gilliams, Jacob</persname>
+            <persname rules="aacr" source="naf">Gray, Arthur F.</persname>
+            <persname rules="aacr" source="naf">Ord, George, 1781-1866 </persname>
+            <persname source="ingest">Say, Lucy Way Sistaire, 1801-1886</persname>
+            <persname rules="aacr" source="naf">Short, Charles Wilkins, 1794-1863</persname>
+            <genreform source="lcsh">Drawings.</genreform>
+            <subject source="lcsh">Entomology.</subject>
+            <genreform source="leah">General Correspondence</genreform>
+            <subject source="leah">Land and Speculation</subject>
+            <genreform source="leah">Maps and Surveys</genreform>
+            <subject source="lcsh">Mollusks.</subject>
+            <subject source="leah">Natural History</subject>
+            <subject source="lcsh">Natural history.</subject>
+            <subject source="leah">Science and Technology</subject>
+            <genreform source="leah">Scientific Data</genreform>
+            <genreform source="leah">Sketchbooks</genreform>
+            <subject source="leah">Surveying and Maps</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref11" level="series">
+                <did>
+                    <unittitle>Papers</unittitle>
+                </did>
+                <c02 id="ref168" level="file">
+                    <did>
+                        <unittitle>Table of Contents</unittitle>
+                        <unitdate>1819-1833, 1955</unitdate>
+                    </did>
+                    <odd id="ref169">
+                        <head>General note</head>
+                        <p>Includes three table of contents which also describe correspondence with Short [Jan. 21, 1831-June 11, 1834 + June 1955] (transcripts) and Gilliams [Apr. 17, 1819-Jun. 1, 1829] (photo-reproductions:photo.of A.L.S. 6 items. Various sizes); originally housed at B Sa95.g.3 and B Sa95.g.4, respectively.</p>
+                    </odd>
+                </c02>
+                <c02 id="ref27" level="file">
+                    <did>
+                        <unittitle>Letter to Jacob Gilliams, Philadelphia;</unittitle>
+                        <unitdate>April 17, 1819</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Say, Thomas, 1787-1834</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref28">
+                        <head>Scope and Contents note</head>
+                        <p>Pittsburgh, Photo.of A.L.S. 3p.and add. (see Say papers.) Describes life in Pittsburgh and the river boat which they are to catch. Asks favors. Refers to Lesueur, Maclure, Hare, etc. Originally housed at B Sa95.g.4</p>
+                    </scopecontent>
+                    <odd id="ref170">
+                        <head>General note</head>
+                        <p>From original in possession of Dr. Francis S. Ronalds, Morristown, NJ, presented by him, Jan 1963.</p>
+                    </odd>
+                </c02>
+                <c02 id="ref31" level="file">
+                    <did>
+                        <unittitle>Letter to Thomas Say;</unittitle>
+                        <unitdate>Jan., 182-</unitdate>
+                        <physdesc id="ref32" label="General Physical Description note">9-1/2x7-3/4</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Capers, Charles William</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref33">
+                        <head>Scope and Contents note</head>
+                        <p>St. Helena,S.C., A.L.S. 1p.and add.,end. (see Thomas Say. Correspondence.) Wrote to Samuel Mitchell and Stephen Elliott and they referred him to Say. Sends cotton moths for study.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref36" level="file">
+                    <did>
+                        <unittitle>Letter to [Thomas Say];</unittitle>
+                        <unitdate>July 15, 1820</unitdate>
+                        <physdesc id="ref37" label="General Physical Description note">12-1/2x8</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Férusac, André-Etienne-Just-Pascal-Joseph-François d'Audebard, baron de, 1786-1836</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref38">
+                        <head>Scope and Contents note</head>
+                        <p>Paris, A.L.S. 8p.,end. In French. (see Thomas Say. Correspondence.) Concerning his work on moths and comments on specific items. Mollusks.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref39" level="file">
+                    <did>
+                        <unittitle>Letter to Th[omas] Say, Philadelphia;</unittitle>
+                        <unitdate>June 22, 1822</unitdate>
+                        <physdesc id="ref40" label="General Physical Description note">10x8</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Férusac, André-Etienne-Just-Pascal-Joseph-François d'Audebard, baron de, 1786-1836</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref41">
+                        <head>Scope and Contents note</head>
+                        <p>Paris, A.L.S. 4p.,add.,end. In French. (see Thomas Say. correspondence.) Mollusks. Refers to Lesueur. Moths.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref21" level="file">
+                    <did>
+                        <unittitle>Letter to Thomas Say, New Harmony;</unittitle>
+                        <unitdate>July 6, [1822?]</unitdate>
+                        <physdesc id="ref22" label="General Physical Description note">10-1/4x8</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Férusac, André-Etienne-Just-Pascal-Joseph-François d'Audebard, baron de, 1786-1836</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref23">
+                        <head>Scope and Contents note</head>
+                        <p>Paris, A.L. 4p.and add. In French. (see Thomas Say. Correspondence.) Entomology. Snails. Mollusks. Concerning Lesueur and the APS.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref42" level="file">
+                    <did>
+                        <unittitle>Letter to [Baron de Férussac];</unittitle>
+                        <unitdate>June 5, 1824</unitdate>
+                        <physdesc id="ref43" label="General Physical Description note">7-1/4x5-1/4</physdesc>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Say, Thomas, 1787-1834</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref44">
+                        <head>Scope and Contents note</head>
+                        <p>Philadelphia, A.L. 4p. Draft. (see Thomas Say. Correspondence.) Concerning shells and natural history. Moths.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref45" level="file">
+                    <did>
+                        <unittitle>Letter to [Thomas Say];</unittitle>
+                        <unitdate>Oct. 15, 1824</unitdate>
+                        <physdesc id="ref46" label="General Physical Description note">7-1/4x4-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Bonaparte, Charles Lucian, p, 1803-1857</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref47">
+                        <head>Scope and Contents note</head>
+                        <p>Point Breeze, A.L.S. 2p. (see Thomas Say. Correspondence.) Asks him to correct some of his errors. American fishes and snails.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref48" level="file">
+                    <did>
+                        <unittitle>Letter to [Thomas Say];</unittitle>
+                        <unitdate>Nov. 3, 1824</unitdate>
+                        <physdesc id="ref49" label="General Physical Description note">10x8</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Férusac, André-Etienne-Just-Pascal-Joseph-François d'Audebard, baron de, 1786-1836</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref50">
+                        <head>Scope and Contents note</head>
+                        <p>Paris, L.S. 4p. In French. (see Thomas Say. Correspondence.) Insects and mollusks. Inquires of Rafinesque and his publications. Natural history.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref54" level="file">
+                    <did>
+                        <unittitle>Letter to Baron de Férussac;</unittitle>
+                        <unitdate>May (?), 1825</unitdate>
+                        <physdesc id="ref55" label="General Physical Description note">8x3-1/4</physdesc>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Say, Thomas, 1787-1834</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref56">
+                        <head>Scope and Contents note</head>
+                        <p>A.L.S.with initials. 2p. Draft. (see Thomas Say. Correspondence.) Entomology and mollusks. Concerning his publications on natural history. Refers to the Academy of natural sciences Refers to Dejean.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref51" level="file">
+                    <did>
+                        <unittitle>Letter to [Thomas Say];</unittitle>
+                        <unitdate>Sept., 1825</unitdate>
+                        <physdesc id="ref52" label="General Physical Description note">10x8</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Dejean, Pierre François Auguste, comte, 1780-1845</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref53">
+                        <head>Scope and Contents note</head>
+                        <p>Paris, A.L.S. 2p. In French. (see Thomas Say. Correspondence.) Concerning publications. Marine fauna.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref60" level="file">
+                    <did>
+                        <unittitle>Letter to Jacob Gilliams, Philadelphia;</unittitle>
+                        <unitdate>June 7, 1827</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Say, Thomas, 1787-1834</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref61">
+                        <head>Scope and Contents note</head>
+                        <p>New Harmony, Photo.of A.L.S. 2p.and add. (see Say papers.) Are raising silk-worms. Natural history. Concerning his Entomology. Concerning Maclure. Friendly letter. Originally housed at B Sa95.g.4</p>
+                    </scopecontent>
+                    <odd id="ref171">
+                        <head>General note</head>
+                        <p>From original in possession of Dr. Francis S. Ronalds, Morristown, NJ, presented by him, Jan 1963.</p>
+                    </odd>
+                </c02>
+                <c02 id="ref57" level="file">
+                    <did>
+                        <unittitle>Letter to [Baron de Férussac?];</unittitle>
+                        <unitdate>Nov.1, 1827</unitdate>
+                        <physdesc id="ref58" label="General Physical Description note">6-1/4x3-1/2</physdesc>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Say, Thomas, 1787-1834</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref59">
+                        <head>Scope and Contents note</head>
+                        <p>New Harmony, A.L. 2p. Draft. (see Thomas Say. Correspondence.) Received his long delayed letter. Moths.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref62" level="file">
+                    <did>
+                        <unittitle>Letter to Jacob Gilliams, Philadelphia;</unittitle>
+                        <unitdate>Sept. 25, 1828</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Say, Thomas, 1787-1834</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref63">
+                        <head>Scope and Contents note</head>
+                        <p>New Harmony, Photo.of A.L.S. 2p.and add.: "per Mr Maclure" (see Say papers.) Entomology. Concerning entomological publications for the ANS. Friendly letter. Originally housed at B Sa95.g.4</p>
+                    </scopecontent>
+                    <odd id="ref172">
+                        <head>General note</head>
+                        <p>From original in possession of Dr. Francis S. Ronalds, Morristown, NJ, presented by him, Jan 1963.</p>
+                    </odd>
+                </c02>
+                <c02 id="ref64" level="file">
+                    <did>
+                        <unittitle>Letter to [Jacob Gilliams];</unittitle>
+                        <unitdate>Dec. 25, 1828</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Say, Thomas, 1787-1834</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref65">
+                        <head>Scope and Contents note</head>
+                        <p>New Harmony, Photo.of A.L. 2p. Incomplete. (see Say papers.) His interest in the natural history of the U.S. His American entomology. Refers to the ANS, Maclure, etc. Originally housed at B Sa95.g.4</p>
+                    </scopecontent>
+                    <odd id="ref173">
+                        <head>General note</head>
+                        <p>From original in possession of Dr. Francis S. Ronalds, Morristown, NJ, presented by him, Jan 1963.</p>
+                    </odd>
+                </c02>
+                <c02 id="ref34" level="file">
+                    <did>
+                        <unittitle>Letter to Jacob Gilliams, Philadelphia;</unittitle>
+                        <unitdate>Feb. 4, 182[9?]</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Say, Thomas, 1787-1834</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref35">
+                        <head>Scope and Contents note</head>
+                        <p>New Harmony, Photo.of A.L.S. 3p.and add. (see Say papers.) Publications. Concerning shells. Friendly letter. Refers to Maclure. Originally housed at B Sa95.g.4</p>
+                    </scopecontent>
+                    <odd id="ref174">
+                        <head>General note</head>
+                        <p>From original in possession of Dr. Francis S. Ronalds, Morristown, NJ, presented by him, Jan 1963.</p>
+                    </odd>
+                </c02>
+                <c02 id="ref66" level="file">
+                    <did>
+                        <unittitle>Letter to Jacob Gilliams, Philadelphia;</unittitle>
+                        <unitdate>June 1, 1829</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Say, Thomas, 1787-1834</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref67">
+                        <head>Scope and Contents note</head>
+                        <p>New Harmony, Photo.of A.L.S. 1p.and add. (see Say papers.) Sends colored plates for his publication..Originally housed at B Sa95.g.4</p>
+                    </scopecontent>
+                    <odd id="ref175">
+                        <head>General note</head>
+                        <p>From original in possession of Dr. Francis S. Ronalds, Morristown, NJ, presented by him, Jan 1963.</p>
+                    </odd>
+                </c02>
+                <c02 id="ref68" level="file">
+                    <did>
+                        <unittitle>Letter to [Charles Wilkins Short]</unittitle>
+                        <unitdate>Jan. 21, 1831</unitdate>
+                        <physdesc id="ref69" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Say, Thomas, 1787-1834</persname>
+                        </origination>
+                    </did>
+                    <odd id="ref161">
+                        <head>General note</head>
+                        <p>Typed transcript copy from the original in the possession of the Filson Club. Presented to the Society by Mrs. Effie Cameron James, June 1955.</p>
+                    </odd>
+                    <scopecontent id="ref70">
+                        <head>Scope and Contents note</head>
+                        <p>New Harmony, Ind., Typed L. 1p. (see Say papers.) Accounts for three issues of American Conchology sent to him, Eaton and Transylvania. Refers to Maclure. Previously housed at B Sa95.g.3 (No. 1).</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref71" level="file">
+                    <did>
+                        <unittitle>Letter to [Charles Wilkins Short]</unittitle>
+                        <unitdate>March 1, 1831</unitdate>
+                        <physdesc id="ref72" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Say, Thomas, 1787-1834</persname>
+                        </origination>
+                    </did>
+                    <odd id="ref162">
+                        <head>General note</head>
+                        <p>Typed transcript copy from the original in the possession of the Filson Club. Presented to the Society by Mrs. Effie Cameron James, June 1955.</p>
+                    </odd>
+                    <scopecontent id="ref73">
+                        <head>Scope and Contents note</head>
+                        <p>New Harmony, Ind., Typed L. 1p. (see Say papers.) Introduces William Bennett, "a pupil of Mr. Maclure's". Concerning plants. Previously housed at B Sa95.g.3 (No.2).</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref74" level="file">
+                    <did>
+                        <unittitle>Letter to [Charles Wilkins Short]</unittitle>
+                        <unitdate>July 19, 1831</unitdate>
+                        <physdesc id="ref75" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Say, Thomas, 1787-1834</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref76">
+                        <head>Scope and Contents note</head>
+                        <p>New Harmony, Ind., Typed L. 4p. (see Say papers.) Description of shells printed with few changed: Transylvania Journal of Medicine and the Associate Sciences,IV,no.IV,(1831) 525-527. Previously housed at B Sa95.g.3 (No. 3)</p>
+                    </scopecontent>
+                    <odd id="ref163">
+                        <head>General note</head>
+                        <p>Typed transcript copy from the original in the possession of the Filson Club. Presented to the Society by Mrs. Effie Cameron James, June 1955.</p>
+                    </odd>
+                </c02>
+                <c02 id="ref83" level="file">
+                    <did>
+                        <unittitle>Letter to [Charles Wilkins Short]</unittitle>
+                        <unitdate>Jan. 14, 1832</unitdate>
+                        <physdesc id="ref84" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Say, Thomas, 1787-1834</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref85">
+                        <head>Scope and Contents note</head>
+                        <p>New Harmony, Typed L. 2p. (see Say papers.) Printed in part: Filson Club History Quarterly, XII (1938), 207. Previously hourse at B Sa95.g.3 (No.4)</p>
+                    </scopecontent>
+                    <odd id="ref164">
+                        <head>General note</head>
+                        <p>Typed transcript copy from the original in the possession of the Filson Club. Presented to the Society by Mrs. Effie Cameron James, June 1955.</p>
+                    </odd>
+                </c02>
+                <c02 id="ref158" level="file">
+                    <did>
+                        <unittitle>Letter to Benjamin Say</unittitle>
+                        <unitdate>Aug. 23, 1832</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Say, Thomas, 1787-1834</persname>
+                        </origination>
+                    </did>
+                    <odd id="ref159">
+                        <head>General note</head>
+                        <p>Originally housed at B Sa9.g.5</p>
+                    </odd>
+                </c02>
+                <c02 id="ref80" level="file">
+                    <did>
+                        <unittitle>Letter to Tho[ma]s Say, New Harmony;</unittitle>
+                        <unitdate>Nov. 17, Nov. 29, 1832</unitdate>
+                        <physdesc id="ref81" label="General Physical Description note">10x7-3/4</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Peter, Robert, 1805-1894</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref82">
+                        <head>Scope and Contents note</head>
+                        <p>Lexington, Ky., A.L.S. 2p.and add.,end. (see Thomas Say. Correspondence.) Concerning the purchase of his publication on shells. Mollusks.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref156" level="file">
+                    <did>
+                        <unittitle>Letter to [Charles Wilkins Short]</unittitle>
+                        <unitdate>March 5, 1833</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Say, Thomas, 1787-1834</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref157">
+                        <head>Scope and Contents note</head>
+                        <p>Typed copy from the originals in the possession of the Filson Club; presented to the Soceity by Mrs. Effie Cameron James, June 1955; previously housed at B Sa95.g.3 (No.5).</p>
+                    </scopecontent>
+                    <odd id="ref165">
+                        <head>General note</head>
+                        <p>Typed transcript copy from the original in the possession of the Filson Club. Presented to the Society by Mrs. Effie Cameron James, June 1955.</p>
+                    </odd>
+                </c02>
+                <c02 id="ref89" level="file">
+                    <did>
+                        <unittitle>Letter to Dr. C[harles] W[ilkins] Short;</unittitle>
+                        <unitdate>June 11, 1834</unitdate>
+                        <physdesc id="ref90" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Say, Lucy Way Sistaire, 1801-1886</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref91">
+                        <head>Scope and Contents note</head>
+                        <p>New Harmony, Ind., Typed L. 1p.with P.S.by Thomas Say. Copy. (see Say papers.) Sends seeds collected by Prince Maximilian Nuewied. Previously housed at B Sa95.g.3 (No.6).</p>
+                    </scopecontent>
+                    <odd id="ref166">
+                        <head>General note</head>
+                        <p>Typed transcript copy from the original in the possession of the Filson Club. Presented to the Society by Mrs. Effie Cameron James, June 1955.</p>
+                    </odd>
+                </c02>
+                <c02 id="ref92" level="file">
+                    <did>
+                        <unittitle>Letter to [Thomas Say];</unittitle>
+                        <unitdate>Sept. 10, 1834</unitdate>
+                        <physdesc id="ref93" label="General Physical Description note">10-1/2x8-1/4</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Férusac, André-Etienne-Just-Pascal-Joseph-François d'Audebard, baron de, 1786-1836</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref94">
+                        <head>Scope and Contents note</head>
+                        <p>Paris, A.L.S. 4p. In French. (see Thomas Say. Correspondence.) Shells.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref95" level="file">
+                    <did>
+                        <unittitle>Letter to John L. Le Conte;</unittitle>
+                        <unitdate>June 25, 1860</unitdate>
+                        <physdesc id="ref96" label="General Physical Description note">8-1/4x5-1/4</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Say, Lucy Way Sistaire, 1801-1886</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref97">
+                        <head>Scope and Contents note</head>
+                        <p>Newburgh, A.L.S. 11p. (see Say papers.) Concerning Mr. Ord's memoir on Thomas Say. Her formal reply to it. This item was located in and removed, Dec. 1960 from v. 1: Say. Complete Writings...Entomology...ed.by J.L.LeConte. Originally housed at B Sa95.g.2</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref98" level="file">
+                    <did>
+                        <unittitle>Letter to Mrs. [Lucy Way Sistaire] Say;</unittitle>
+                        <unitdate>June 28, 1860</unitdate>
+                        <physdesc id="ref99" label="General Physical Description note">8-1/4x5</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Le Conte, John L. (John Lawrence), 1825-1883</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref100">
+                        <head>Scope and Contents note</head>
+                        <p>Philadelphia, A.L. 2p. (see Say Papers.) Concerning George Ord's memoir on Thomas Say. Refers to the APS. This item was located in and removed, Dec. 1960 from v.1: Say. Complete Writings...Entomology...ed.by J.L.LeConte. Originally housed at B Sa95.g.1</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref101" level="file">
+                    <did>
+                        <unittitle>Letter to Arthur F. Gray, Danversport, Mass.;</unittitle>
+                        <unitdate>Jan. 6, 1883</unitdate>
+                        <physdesc id="ref102" label="General Physical Description note">8x5</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Say, Lucy Way Sistaire, 1801-1886</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref103">
+                        <head>Scope and Contents note</head>
+                        <p>A.L.S. 4p.and add. (see Thomas Say. Correspondence.) Gives him drawings of shells used for Say's work on U.S. mollusks. Concerning Thomas Say. Refers to the Academy of natural sciences.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref104" level="file">
+                    <did>
+                        <unittitle>Letter to Mrs. Lucy W. Say;</unittitle>
+                        <unitdate>Jan. 11, 1883</unitdate>
+                        <physdesc id="ref105" label="General Physical Description note">8-3/4x5-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Gray, Arthur F.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref106">
+                        <head>Scope and Contents note</head>
+                        <p>Danversport, Mass., L. 3p. Copy. (see Thomas Say. Correspondence.) Thanks for drawings of shells. Concerning Thomas Say. Mollusks.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref24" level="file">
+                    <did>
+                        <unittitle>Letter to A[rthur] F. Gray;</unittitle>
+                        <unitdate>Jan. 16, [1883]</unitdate>
+                        <physdesc id="ref25" label="General Physical Description note">3-1/2x4-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Say, Lucy Way Sistaire, 1801-1886</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref26">
+                        <head>Scope and Contents note</head>
+                        <p>A.L.S. 2p. (see Thomas Say. Correspondence.) Sends parcel containing sketches of shells.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref107" level="file">
+                    <did>
+                        <unittitle>Letter to Mrs. [Lucy W.] Say;</unittitle>
+                        <unitdate>Jan. 20, 1883</unitdate>
+                        <physdesc id="ref108" label="General Physical Description note">8-3/4x5-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Gray, Arthur F.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref109">
+                        <head>Scope and Contents note</head>
+                        <p>Danversport, Mass., L. 1p. Copy. (see Thomas Say. Correspondence.) Thanks for plates and Thomas Say's letters.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref110" level="file">
+                    <did>
+                        <unittitle>Letter to Mrs. [Lucy Way] Say;</unittitle>
+                        <unitdate>Feb. 6, 1883</unitdate>
+                        <physdesc id="ref111" label="General Physical Description note">8-3/4x5-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Gray, Arthur F.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref112">
+                        <head>Scope and Contents note</head>
+                        <p>Cincinnati, L. 3p. Copy. (see Thomas Say. Correspondence.) Concerning shells and errors made by Isaac Lea. Arranging her plates as they appeared in American Conchology. Refers to Bonaparte and Lesueur.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref113" level="file">
+                    <did>
+                        <unittitle>Letter to Mr. [Arthur F.] Gray;</unittitle>
+                        <unitdate>Feb. 13, 1883</unitdate>
+                        <physdesc id="ref114" label="General Physical Description note">8x5</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Say, Lucy Way Sistaire, 1801-1886</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref115">
+                        <head>Scope and Contents note</head>
+                        <p>A.L.S. 4p. (see Thomas Say. Correspondence.) Concerning her knowledge of natural science. Concerning T.Say and Bonaparte. Refers to the Academy of natural sciences and Lesueur.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref116" level="file">
+                    <did>
+                        <unittitle>Letter to Arthur F. Gray,Cincinnati;</unittitle>
+                        <unitdate>March 8, 1883</unitdate>
+                        <physdesc id="ref117" label="General Physical Description note">8x5</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Say, Lucy Way Sistaire, 1801-1886</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref118">
+                        <head>Scope and Contents note</head>
+                        <p>Staten Island, A.L.S. 6p.and add. (see Thomas Say. Correspondence.) Has sent photograph of herself. Her knowledge of natural history based on her husband's teachings. Refers to Lea.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref119" level="file">
+                    <did>
+                        <unittitle>Letter to Arthur F. Gray, Danversport, Mass.;</unittitle>
+                        <unitdate>April 24, 1883</unitdate>
+                        <physdesc id="ref120" label="General Physical Description note">8x5</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Say, Lucy Way Sistaire, 1801-1886</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref121">
+                        <head>Scope and Contents note</head>
+                        <p>Staten Island, A.L.S. 4p.and add. (see Thomas Say. Correspondence.) Describes her life. Has publication by William D. Hartman given her by Isaac Lea.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref122" level="file">
+                    <did>
+                        <unittitle>Letter to Arthur F. Gray, Danversport, Mass.;</unittitle>
+                        <unitdate>May 15, 1883</unitdate>
+                        <physdesc id="ref123" label="General Physical Description note">8x5</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Say, Lucy Way Sistaire, 1801-1886</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref124">
+                        <head>Scope and Contents note</head>
+                        <p>Staten Island, A.L.S. 2p.and add. (see Thomas Say. Correspondence.) Gives directions to her home for him to visit her.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref16" level="file">
+                    <did>
+                        <unittitle>Letter to [Baron de] Férusac.</unittitle>
+                        <unitdate>undated</unitdate>
+                        <physdesc id="ref17" label="General Physical Description note">8x4-1/2</physdesc>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Say, Thomas, 1787-1834</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref18">
+                        <head>Scope and Contents note</head>
+                        <p>A.L. 4p.,end.: "To the Baron de Férussac. first Letter." Draft. (see Thomas Say. Correspondence.) Concerning shells.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref131" level="file">
+                    <did>
+                        <unittitle>Biographical notes about Thomas Say, 1787-1834</unittitle>
+                        <unitdate>undated</unitdate>
+                    </did>
+                    <controlaccess>
+                        <persname rules="aacr" source="naf">Say, Thomas, 1787-1834</persname>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref19" level="file">
+                    <did>
+                        <unittitle>Miscellaneous notes on conchology, etc.</unittitle>
+                        <unitdate>1827; July 1824;July 11, 1833-undated</unitdate>
+                        <origination label="creator">
+                            <persname rules="aacr" source="naf">Say, Thomas, 1787-1834</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref20">
+                        <head>Scope and Contents note</head>
+                        <p>A.D. 92 items (one of which is a notebook entitled "Mammalia", consisting of 6p.) Various sizes. (see Thomas Say. Correspondence.)</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref125" level="file">
+                    <did>
+                        <unittitle>Memorandum pertaining to Thomas Say-Charles Wilkins Short correspondence;</unittitle>
+                        <unitdate>June, 1955</unitdate>
+                        <physdesc id="ref126" label="General Physical Description note">11x8-1/2</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">James, Mary Effie Cameron</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref127">
+                        <head>Scope and Contents note</head>
+                        <p>Typed D. 1p. (see Say papers.); 0riginally housed at B Sa95.g.3 (no.7)</p>
+                    </scopecontent>
+                    <odd id="ref167">
+                        <head>General note</head>
+                        <p>Typed transcript copy from the original in the possession of the Filson Club. Presented to the Society by Mrs. Effie Cameron James, June 1955.</p>
+                    </odd>
+                </c02>
+            </c01>
+            <c01 id="ref137" level="series">
+                <did>
+                    <unittitle>Graphics</unittitle>
+                    <unitdate>undated</unitdate>
+                    <origination label="creator">
+                        <persname source="ingest">Say, Lucy Way Sistaire, 1801-1886</persname>
+                    </origination>
+                </did>
+                <scopecontent id="ref138">
+                    <head>Series II. Graphics</head>
+                    <p>Engraver's proofs used as plates for The Complete Writings of Thomas Say on the Conchology of the United States A.D. 47 items, Various sizes. (see Thomas Say. Collection...) [not individually descibed]; Includes numbered Plates, 3, 7, 9, 13-14, 19, 21-34, 36-40, 42-44, 46-50, 53-55, 57-61, 63, 66, 68; Plates 35 and 51 are folio and housed separately. Some plates/drawings are accompanied by color slides of same. Available online in Open Library at: http://www.archive.org/stream/americanconcholo00sayt#page/n25/mode/2up</p>
+                </scopecontent>
+                <c02 id="ref151" level="file">
+                    <did>
+                        <unittitle>Various drawings executed by Mrs. Lucy W. Say as yet unpublished</unittitle>
+                        <unitdate>undated</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Say, Lucy Way Sistaire, 1801-1886</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref160">
+                        <head>Scope and Contents note</head>
+                        <p>Unpublished drawings of shells, Nos. 1-11.</p>
+                    </scopecontent>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

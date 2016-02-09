@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Film.1313-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Film.1313</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T20:13-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Lowell Observatory correspondence, 1894-1916</unittitle>
+            <unitid>Mss.Film.1313</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1774" type="Reel" label="Manuscripts">1-10</container>
+            <physdesc>
+                <extent>10.0 Microfilm reel(s)</extent>
+            </physdesc>
+            <unitdate normal="1894/1916" type="inclusive">1894-1916</unitdate>
+            <physdesc id="ref8" label="General Physical Description note">10 microfilm reels.</physdesc>
+            <abstract id="ref1" label="Abstract">Includes more than 12,000 letters and documents during the time of the Observatory's founder, Percival Lowell.</abstract>
+            <physloc id="ref9" label="Paging">LH-RR-Media Rm-4</physloc>
+            <origination label="creator">
+                <corpname source="ingest" role="Author (aut)">Lowell Observatory.</corpname>
+            </origination>
+        </did>
+        <acqinfo id="ref7">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Purchased from Lowell Observatory, Flagstaff, Arizona, ($500.00) and accessioned, 1973 (1973 999mf).</p>
+            <p></p>
+        </acqinfo>
+        <bioghist id="ref5">
+            <head>Biographical/Historical note</head>
+            <p>Lowell Observatory was founded by Percival Lowell in 1894 at Flagstaff, Arizona.</p>
+        </bioghist>
+        <originalsloc id="ref3">
+            <head>Existence and Location of Originals note</head>
+            <p>Originals in Lowell Observatory.</p>
+        </originalsloc>
+        <controlaccess>
+            <persname rules="aacr" source="naf">Lowell, Percival, 1855-1916 </persname>
+            <subject source="lcsh">Astronomy.</subject>
+            <subject source="lcsh">Observatories.</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

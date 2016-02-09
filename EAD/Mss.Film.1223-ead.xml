@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Film.1223-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Film.1223</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-09-13T20:12-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Papers,1817-1883, relating to North American Indian missions</unittitle>
+            <unitid>Mss.Film.1223</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1735" type="Reel" label="Microform">1-64</container>
+            <physdesc>
+                <extent>64.0 Microfilm reel(s)</extent>
+            </physdesc>
+            <unitdate normal="1817/1883" type="inclusive">1817-1883</unitdate>
+            <abstract id="ref10" label="Abstract">These papers include letters, reports, accounts, and memoranda relating to the work of the American Board of Home Missions among the Abnaki, Cherokee, Chickasaw, Choctaw, Creek, Dakota, Mackinaw, Maumee, Mayhaw, Ojibwa, Osage, Pawnee, Penobscot, Sioux, and Stockbridge Indians of Arkansas, New York, and Oregon.</abstract>
+            <physdesc id="ref19" label="General Physical Description note">64 microfilm reels.</physdesc>
+            <physloc id="ref21" label="Paging">LH-RR-Media Rm-4</physloc>
+            <origination label="creator">
+                <corpname source="ingest" role="Author (aut)">United Church Board for World Ministries.</corpname>
+            </origination>
+        </did>
+        <acqinfo id="ref18">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Acquired from Houghton Library, Harvard University, and accessioned, 1966 (1966 12mf).</p>
+            <p></p>
+        </acqinfo>
+        <userestrict id="ref7">
+            <head>Conditions Governing Use note</head>
+            <p>Permission to quote from or to reproduce any portion of this material must be secured from the United Church Board for World Ministries.</p>
+        </userestrict>
+        <bioghist id="ref5">
+            <head>Biographical/Historical note</head>
+            <p>The United Church Board for World Ministries was established in 1961.</p>
+        </bioghist>
+        <originalsloc id="ref3">
+            <head>Existence and Location of Originals note</head>
+            <p>Originals in Houghton Library, Harvard University.</p>
+        </originalsloc>
+        <odd id="ref20">
+            <head>Early American History Note</head>
+            <p>This is a microfilm of an early American collection that may be of interest to researchers at the APS and may complement an original manuscript collection at the APS.</p>
+        </odd>
+        <controlaccess>
+            <subject source="lcsh">Abenaki Indians</subject>
+            <genreform source="lcsh">Accounts.</genreform>
+            <subject source="lcsh">Cherokee Indians </subject>
+            <subject source="lcsh">Chickasaw Indians</subject>
+            <subject source="lcsh">Choctaw Indians</subject>
+            <subject source="lcsh">Creek Indians</subject>
+            <subject source="lcsh">Dakota Indians</subject>
+            <subject source="lcsh">Indians of North America--Missions</subject>
+            <genreform source="lcsh">Memoranda.</genreform>
+            <genreform source="leah">Microfilm Collection</genreform>
+            <subject source="lcsh">Ojibwa Indians</subject>
+            <subject source="lcsh">Osage Indians</subject>
+            <subject source="lcsh">Pawnee Indians</subject>
+            <subject source="lcsh">Penobscot Indians</subject>
+            <genreform source="lcsh">Reports.</genreform>
+            <subject source="lcsh">Stockbridge Indians</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>
